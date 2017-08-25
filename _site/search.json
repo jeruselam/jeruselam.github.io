@@ -1,0 +1,65 @@
+[
+
+  
+    {
+      "title"			: "Hello World",
+      "link"			: "http://localhost:4000/blog/hello-world/",
+      "excerpt"		: "Hello World! This is my very first blog post. I am a musician, blogger, designer and developer from Vienna, Austria.There are many things I like to do and explore.So if there is anything I really want to talk about, then this is the place you should look, if you want to know about it.If I experience anything bloody amazing I’ll also write something about it here.Furthermore, I will also use this website as a place to publish my projects, mixtapes and designs."
+    }
+  
+
+
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Mixtapes",
+      "link"			: "http://localhost:4000/mixtapes/",
+      "excerpt"		: "Mixtapes"
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "About me",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "About Le Tigre"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+    ,{
+      "title"			: "Social Media",
+      "link"			: "http://localhost:4000/support/",
+      "excerpt"		: "Social Media"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+]
