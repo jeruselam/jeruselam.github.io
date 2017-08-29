@@ -19,7 +19,3 @@ Yours truly.
 
 ## Listening
 Listen to it here: [Baby give me your love!](https://soundcloud.com/user-452291878/baby-give-me-your-love-special-edition-mixtape)
-
-#### COCO DE VIENNE 2017
-#### LE TIGRE 2017
-#### ICONIC DRUMPAD 2017
