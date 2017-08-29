@@ -5,6 +5,9 @@ excerpt: "Mixtapes"
 modified: 2017-05-15T17:50:00.564948 17:00
 ---
 
+## Barong VS. Tigre
+Listen to it here: [Barong vs. Tigre](https://soundcloud.com/user-452291878/barong-vs-tigre)
+
 ## Baby give me your love!
 Listen to it here: [Baby give me your love](https://soundcloud.com/user-452291878/baby-give-me-your-love-special-edition-mixtape)
 
