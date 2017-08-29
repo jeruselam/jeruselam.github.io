@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My first ever shoot
-excerpt: "Shootin' and enjoyin'"
+title: Barong VS. Tigre
+excerpt: "Never stop the fuckin' bass!"
 modified: 2017-05-01T17:50:00.564948 17:00
 ---
 
