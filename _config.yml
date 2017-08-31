@@ -5,7 +5,7 @@ locale: tr_TR
 description: Türkçe Tercümesi
 logo: muhur.png
 search: true
-url: https://jerusselam.github.io
+url: https://jeruselam.github.io
 
 # Jekyll configuration
 encoding: utf-8
