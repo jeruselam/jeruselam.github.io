@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: The Tiger's Lair
-locale: en_US
-description: The official website of Le Tigre.
-logo: site-logo.png
+title: Kur'an-ı Kerim
+locale: tr_TR
+description: Türkçe Tercümesi
+logo: muhur.png
 search: true
-url: https://cocodevienne.github.io
+url: https://jerusselam.github.io
 
 # Jekyll configuration
-
+encoding: utf-8
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -36,22 +36,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Le Tigre
-  avatar: site-logo.png
+  name: Jerusselam
+  avatar: mudur.png
   email: you@email.com
-  disqus-shortname: cocodv
-  twitter: officialcocodv
-  facebook: alex.devienne.560
-  github: cocodevienne
+  disqus-shortname: jerusselam
+  twitter: jerusselam
+  facebook: jerusselam
+  github: jerusselam
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: cocodevienne
+  instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: cocodevienne
+    plus: #username
     analytics:
     verify:
     ad-client:

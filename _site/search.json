@@ -2,37 +2,45 @@
 
   
     {
-      "title"			: "Hello World",
-      "link"			: "http://localhost:4000/blog/hello-world/",
-      "excerpt"		: "Hello World! This is my very first blog post. I am a musician, blogger, designer and developer from Vienna, Austria.There are many things I like to do and explore.So if there is anything I really want to talk about, then this is the place you should look, if you want to know about it.If I experience anything bloody amazing I’ll also write something about it here.Furthermore, I will also use this website as a place to publish my projects, mixtapes and designs."
+      "title"			: "Alak",
+      "link"			: "http://localhost:4000/Alak-Suresi/",
+      "excerpt"		: "96’ncı Sûre"
     }
-  
-
-
-
-  
-
   
 
   
     ,{
-      "title"			: "Mixtapes",
-      "link"			: "http://localhost:4000/mixtapes/",
-      "excerpt"		: "Mixtapes"
+      "title"			: "Kadir",
+      "link"			: "http://localhost:4000/Kadir-Suresi/",
+      "excerpt"		: "97’nci Sûre"
     }
-  
-
   
 
   
     ,{
-      "title"			: "About me",
-      "link"			: "http://localhost:4000/about/",
-      "excerpt"		: "About Le Tigre"
+      "title"			: "Beyyine",
+      "link"			: "http://localhost:4000/Beyyine-Suresi/",
+      "excerpt"		: "98’nci Sûre"
     }
   
 
   
+    ,{
+      "title"			: "Zilzâl",
+      "link"			: "http://localhost:4000/Zilzal-Suresi/",
+      "excerpt"		: "99’ncu Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Âdiyât",
+      "link"			: "http://localhost:4000/Adiyat-Suresi/",
+      "excerpt"		: "100’ncü Sûre"
+    }
+  
+
+
 
   
 
@@ -47,11 +55,27 @@
   
 
   
+
+  
+
+  
+
+  
     ,{
-      "title"			: "Social Media",
-      "link"			: "http://localhost:4000/support/",
-      "excerpt"		: "Social Media"
+      "title"			: "About me",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "About to"
     }
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   

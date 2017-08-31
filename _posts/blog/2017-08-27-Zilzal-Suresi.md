@@ -1,0 +1,18 @@
+---
+layout: page
+title: Zilzâl
+excerpt: "99'ncu Sûre"
+modified: 2017-08-30T17:50:00.564948 17:00
+encoding: utf-8
+---
+
+## 99. Zilzâl Sûresi
+
+(1) Yaman sarsıntı ile yer sarsıldığı zaman
+(2) ve yer ağırlıklarını çıkardığı (zaman) 
+(3) ve insan dediği zaman, ona ne oluyor?
+(4) İşte o gün haberlerini söyler
+(5) çünkü Rabbin ona vahyetmiştir.
+(6) O gün ayrı ayrı gruplar halinde insanlar çıkarlar, yaptıkları işler gösterilsin diye
+(7) artık kim zerre ağırlığınca yapmışsa hayır, onu görür
+(8) ve kim zerre ağırlığınca yapmışsa şer, onu görür.

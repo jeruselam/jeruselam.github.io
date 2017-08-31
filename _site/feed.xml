@@ -1,9 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-16T11:03:18+02:00</updated><id>http://localhost:4000/</id><title type="html">The Tiger’s Lair</title><subtitle>The official website of Le Tigre.</subtitle><entry><title type="html">Hello World</title><link href="http://localhost:4000/blog/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2017-05-09T21:39:55+02:00</published><updated>2017-05-09T21:39:55+02:00</updated><id>http://localhost:4000/blog/hello-world</id><content type="html" xml:base="http://localhost:4000/blog/hello-world/">&lt;p&gt;Hello World! This is my very first blog post. I am a musician, blogger, designer and developer from Vienna, Austria.
-There are many things I like to do and explore.
-So if there is anything I really want to talk about, then this is the place you should look, if you want to know about it.
-If I experience anything bloody amazing I’ll also write something about it here.
-Furthermore, I will also use this website as a place to publish my projects, mixtapes and designs.&lt;/p&gt;</content><summary type="html">Hello World! This is my very first blog post. I am a musician, blogger, designer and developer from Vienna, Austria.
-There are many things I like to do and explore.
-So if there is anything I really want to talk about, then this is the place you should look, if you want to know about it.
-If I experience anything bloody amazing I’ll also write something about it here.
-Furthermore, I will also use this website as a place to publish my projects, mixtapes and designs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;nil}" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-31T00:27:18+03:00</updated><id>http://localhost:4000/</id><title type="html">Kur’an-ı Kerim</title><subtitle>Türkçe Tercümesi</subtitle><entry><title type="html">Alak</title><link href="http://localhost:4000/Alak-Suresi/" rel="alternate" type="text/html" title="Alak" /><published>2017-08-30T00:00:00+03:00</published><updated>2017-08-30T00:00:00+03:00</updated><id>http://localhost:4000/Alak-Suresi</id><content type="html" xml:base="http://localhost:4000/Alak-Suresi/">&lt;h2 id=&quot;96-alak-sûresi&quot;&gt;96. Alak Sûresi&lt;/h2&gt;
+&lt;p&gt;(1) Oku, yaratan Rabbinin adıyla,
+(2) alaktan insanı, O yarattı.
+(3) Ve Rabbin en büyük kerem sahibidir, oku!
+(4) O ki, kalemle öğretti.
+(5) Bilmediği şeyi, insana öğretti.
+(6) Şüphesiz, hayır, insan azar,
+(7) kendini zengin (kendine yeterli) gördüğü için.
+(8) Şüphesiz dönüş Rabbinedir.
+(9) Gördün mü? Şu men’edeni
+(10) bir kulu? Namaz kıldığı zaman,
+(11) gördün mü? Ya doğru yol üzerinde olursa
+(12) yahut korunmayı emredese
+(13) gördün mü? Ya yalanlarsa? Ve yüz çevirirse?
+(14) Bilmedi mi (o)? Muhakkak Allah’ın gördüğünü
+(15) Hayır, eğer bundan vazgeçmezse perçeminden mutlaka yakalarız, 
+(16) yalancı günahkar perçem(den)
+(17) Meclisini o zaman çağırsın.
+(18) Zebanileri biz de çağıracağız.
+(19) Hayır, ona boyun eğme, secde et ve yaklaş.&lt;/p&gt;</content><author><name></name></author><summary type="html">96'ncı Sûre</summary></entry><entry><title type="html">Kadir</title><link href="http://localhost:4000/Kadir-Suresi/" rel="alternate" type="text/html" title="Kadir" /><published>2017-08-29T00:00:00+03:00</published><updated>2017-08-29T00:00:00+03:00</updated><id>http://localhost:4000/Kadir-Suresi</id><content type="html" xml:base="http://localhost:4000/Kadir-Suresi/">&lt;h2 id=&quot;97-kadir-sûresi&quot;&gt;97. Kadir Sûresi&lt;/h2&gt;
+
+&lt;p&gt;(1) Elbette biz kadir gecesinde onu indirdik.
+(2) Kadir gecesi(nin) ne olduğunu sana bildiren nedir
+(3) Kadir gecesi bin aydan hayırlıdır.
+(4) melekler ve Ruh her iş için Rabb’lerinin izniyle onda iner de iner
+(5) Tanyeri ağarıncaya kadar o esenliktir.&lt;/p&gt;</content><author><name></name></author><summary type="html">97'nci Sûre</summary></entry><entry><title type="html">Beyyine</title><link href="http://localhost:4000/Beyyine-Suresi/" rel="alternate" type="text/html" title="Beyyine" /><published>2017-08-28T00:00:00+03:00</published><updated>2017-08-28T00:00:00+03:00</updated><id>http://localhost:4000/Beyyine-Suresi</id><content type="html" xml:base="http://localhost:4000/Beyyine-Suresi/">&lt;h2 id=&quot;98-beyyine-sûresi&quot;&gt;98. Beyyine Sûresi&lt;/h2&gt;
+
+&lt;p&gt;(1) Kitap ehlinden inkar eden(ler) ve müşrikler(den), açık kanıt kendilerine gelinceye dek bırakılacak kimseler değillerdi.
+(2) Allah tarafından (gönderilen) bir elçi, tertemiz sahifeler okuyan
+(3) onda vardır (sahifelerde), doğru değerli Kitaplar
+(4) ve Kitap verilmiş olanlar ayrılığa düşmediler ne ki açık kanıt kendilerine geldi ancak (ondan) sonra (düştüler)
+(5) Oysa, dini birleyerek kendilerine has kılarak Allah’a kulluk etmeleri ve zekatı vermeleri ve namazı kılmaları dışında (bir şey) emredilmedi, doğru din işte budur.
+(6) Şüphesiz, Kitap ehlinden inkarcı(lar) kimseler ve ortak koşanlar sürekli olarak cehennem ateşi içindedirler, işte orada onlar yaratılmışların en şerlisidir.
+(7) Şüphesiz, inanan(lar) kimseler ve iyi işler yapanlar, işte onlar yaratılmışların en hayırlısıdır.
+(8) Onların mükafatı Rabbleri katında içinde sürekli kalacakları altlarından ırmaklar akan Adn cennetleridir, Allah onlardan ebedi razı olmuştur, onlarda O’ndan razı olmuştur, bu Rabbine saygı gösterene mahsustur.&lt;/p&gt;</content><author><name></name></author><summary type="html">98'nci Sûre</summary></entry><entry><title type="html">Zilzâl</title><link href="http://localhost:4000/Zilzal-Suresi/" rel="alternate" type="text/html" title="Zilzâl" /><published>2017-08-27T00:00:00+03:00</published><updated>2017-08-27T00:00:00+03:00</updated><id>http://localhost:4000/Zilzal-Suresi</id><content type="html" xml:base="http://localhost:4000/Zilzal-Suresi/">&lt;h2 id=&quot;99-zilzâl-sûresi&quot;&gt;99. Zilzâl Sûresi&lt;/h2&gt;
+
+&lt;p&gt;(1) Yaman sarsıntı ile yer sarsıldığı zaman
+(2) ve yer ağırlıklarını çıkardığı (zaman) 
+(3) ve insan dediği zaman, ona ne oluyor?
+(4) İşte o gün haberlerini söyler
+(5) çünkü Rabbin ona vahyetmiştir.
+(6) O gün ayrı ayrı gruplar halinde insanlar çıkarlar, yaptıkları işler gösterilsin diye
+(7) artık kim zerre ağırlığınca yapmışsa hayır, onu görür
+(8) ve kim zerre ağırlığınca yapmışsa şer, onu görür.&lt;/p&gt;</content><author><name></name></author><summary type="html">99'ncu Sûre</summary></entry><entry><title type="html">Âdiyât</title><link href="http://localhost:4000/Adiyat-Suresi/" rel="alternate" type="text/html" title="Âdiyât" /><published>2017-08-27T00:00:00+03:00</published><updated>2017-08-27T00:00:00+03:00</updated><id>http://localhost:4000/Adiyat-Suresi</id><content type="html" xml:base="http://localhost:4000/Adiyat-Suresi/">&lt;h2 id=&quot;100-Âdiyât-sûresi&quot;&gt;100. Âdiyât Sûresi&lt;/h2&gt;
+
+&lt;p&gt;(1) Andolsun soluk soluğa koşanlara (atlara),
+(2) çarparak (tırnaklarıyla) ateş çıkaranlara,
+(3) sabahleyin akın edenlere,
+(4) onunla (ayaklarıyla) toz, toz koparanlara,
+(5) derken onunla bir topluluğa dalanlara.
+(6) Şüphesiz insan, Rabbine karşı çok nankördür
+(7) ve elbette o da buna şahittir.
+(8) Doğrusu o mal sevgisine aşırı düşkündür.
+(9) Bilmez mi? Kabirlerde olanlar dışarı atıldığı zaman 
+(10) ve göğüslerde bulunanlar devşirildiği (zaman),
+(11) Rabbleri şüphesiz o gün onları mutlaka haber almıştır.&lt;/p&gt;</content><author><name></name></author><summary type="html">100'ncü Sûre</summary></entry></feed>
