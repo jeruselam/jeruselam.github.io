@@ -9,7 +9,7 @@ encoding: utf-8
 ## 96. Alak Sûresi
 (1) Oku, yaratan Rabbinin adıyla,
 (2) alaktan insanı, O yarattı.
-(3) Ve Rabbin en büyük kerem sahibidir, oku!
+(3) Oku, ve Rabbin en büyük kerem sahibidir.
 (4) O ki, kalemle öğretti.
 (5) Bilmediği şeyi, insana öğretti.
 (6) Hayır, insan şüphesiz azar,
