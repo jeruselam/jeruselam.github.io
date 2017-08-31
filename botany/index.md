@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 
+title: Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)
 excerpt: "Botany"
 modified: 2017-05-15T17:50:00.564948 17:00
 ---
 
-## Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)
+
 
 ---------------------------------------
 ![](http://www.harunyahya.com/image/Atlas_of_creation_v2/YA2_208_209_sogut_yapragi.jpg)
