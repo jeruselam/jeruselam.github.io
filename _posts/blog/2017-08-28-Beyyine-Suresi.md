@@ -9,8 +9,8 @@ encoding: utf-8
 ## 98. Beyyine Sûresi
 
 (1) Kitap ehlinden ve müşrikler(den) inkar eden(ler), açık kanıt kendilerine gelinceye dek bırakılacak kimseler değillerdi.
-(2) Allah tarafından (gönderilen) bir elçi, tertemiz sahifeler okuyan
-(3) onda vardır (sahifelerde), doğru değerli Kitaplar
+(2) Tertemiz sahifeler okuyan Allah tarafından (gönderilen) bir elçi, 
+(3) doğru değerli Kitaplar onda vardır (sahifelerde), 
 (4) ve Kitap verilmiş olanlar ayrılığa düşmediler ne ki açık kanıt kendilerine geldi ancak (ondan) sonra (düştüler)
 (5) Oysa, dini birleyerek kendilerine has kılarak Allah'a kulluk etmeleri ve zekatı vermeleri ve namazı kılmaları dışında (bir şey) emredilmedi, doğru din işte budur.
 (6) Şüphesiz, Kitap ehlinden inkarcı(lar) kimseler ve ortak koşanlar sürekli olarak cehennem ateşi içindedirler, işte orada onlar yaratılmışların en şerlisidir.
