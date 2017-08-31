@@ -8,8 +8,7 @@ encoding: utf-8
 
 ## 106. Kureyş Sûresi
 
-(1) Rabb'inin fil sahiplerine nasıl yaptığını görmedin mi?
-(2) Onların tuzaklarını boşa çıkarmadı mı?
-(3) Ve üzerlerine sürü sürü kuşlar gönderdi.
-(4) Onlara çamurdan sertleşmiş taşlar atıyorlardı.
-(5) Nihayet onları yenmiş ekin yaprağı gibi yaptı.
+(1) Kureyşi alıştırdığı için,
+(2) onları alıştırdığı için kış ve yaz yolculuğuna,
+(3) bu evin Rabbine kulluk etsinler.
+(4) O ki onları yedirip açlıktan (kurtardı) ve onları korkudan güvene kavuşturdu.

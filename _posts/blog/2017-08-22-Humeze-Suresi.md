@@ -6,7 +6,7 @@ modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
 ---
 
-## 103. Humeze Sûresi
+## 104. Humeze Sûresi
 
 (1) Diliyle çekiştiren, kaş göz işaretleriyle alay eden herkesin vay haline,
 (2) o ki, mal yığdı ve onu saydı durdu.
