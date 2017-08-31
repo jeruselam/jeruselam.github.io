@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Sûre Bul"
 date: 
 modified:
 excerpt:
@@ -13,13 +13,13 @@ sitemap: false
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
+  <input type="search" name="q" id="q" placeholder="Bulmak istediğiniz kelimeyi küçük harflerle yazınız" data-search-input id="goog-wm-qt" autofocus />
   <input type="submit" value="Search" id="goog-wm-sb" />
 </form>
 
 <!-- Search results placeholder -->
 <h6 data-search-found>
-  <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
+  &ldquo;<span data-search-found-term></span>&rdquo; için <span data-search-found-count></span> sonuç bulundu.
 </h6>
 <ul class="post-list" data-search-results></ul>
 
@@ -28,11 +28,4 @@ sitemap: false
   <li><article>
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
-</script>
-
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'tr';
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
 </script>

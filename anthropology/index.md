@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
+title: Kafatası Fosillerinden Örnekler
 excerpt: "Anthropology"
 modified: 2017-05-15T17:50:00.564948 17:00
 ---
-
-## Kafatası Fosillerinden Örnekler
 
 ----------------------------------
 ![](http://www.harunyahya.com/image/How_Fossils_Overturned_Evolution/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
