@@ -12,4 +12,4 @@ encoding: utf-8
 (2) Onu malı ve kazandığı kurtaramadı.
 (3) Alevli bir ateşe girecektir.
 (4) Ve karısı odun hamalı,
-(5) Boynunda hurma lifinden bir ip.
+(5) boynunda hurma lifinden bir ip.
