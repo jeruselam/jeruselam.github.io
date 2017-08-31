@@ -1,0 +1,15 @@
+---
+layout: page
+title: Kureyş
+excerpt: "106'nci Sûre"
+modified: 2017-08-30T17:50:00.564948 17:00
+encoding: utf-8
+---
+
+## 106. Kureyş Sûresi
+
+(1) Rabb'inin fil sahiplerine nasıl yaptığını görmedin mi?
+(2) Onların tuzaklarını boşa çıkarmadı mı?
+(3) Ve üzerlerine sürü sürü kuşlar gönderdi.
+(4) Onlara çamurdan sertleşmiş taşlar atıyorlardı.
+(5) Nihayet onları yenmiş ekin yaprağı gibi yaptı.

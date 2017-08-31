@@ -38,20 +38,20 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Jeruselam
   avatar: mudur.png
-  email: you@email.com
-  disqus-shortname: jeruselam
-  twitter: jeruselam
-  facebook: jeruselam
+  email: 
+  disqus-shortname: 
+  twitter: 
+  facebook: 
   github: jeruselam
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
+  stackexchange: 
+  linkedin: 
+  instagram: 
+  flickr: 
+  tumblr: 
+  pinterest: 
+  weibo: 
   google:
-    plus: #username
+    plus: 
     analytics:
     verify:
     ad-client:
