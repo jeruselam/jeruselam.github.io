@@ -10,6 +10,38 @@
 
   
     ,{
+      "title"			: "Beled",
+      "link"			: "http://localhost:4000/Beled-Suresi/",
+      "excerpt"		: "90’ncı Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Şems",
+      "link"			: "http://localhost:4000/Sems-Suresi/",
+      "excerpt"		: "91’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Leyl",
+      "link"			: "http://localhost:4000/Leyl-Suresi/",
+      "excerpt"		: "92’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Duhâ",
+      "link"			: "http://localhost:4000/Duha-Suresi/",
+      "excerpt"		: "93’ncü Sûre"
+    }
+  
+
+  
+    ,{
       "title"			: "İnşirâh",
       "link"			: "http://localhost:4000/Insirah-Suresi/",
       "excerpt"		: "94’ncü Sûre"
