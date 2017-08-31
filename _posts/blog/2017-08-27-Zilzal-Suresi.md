@@ -10,8 +10,8 @@ encoding: utf-8
 
 (1) Yaman sarsıntı ile yer sarsıldığı zaman
 (2) ve yer ağırlıklarını çıkardığı (zaman) 
-(3) ve insan dediği zaman, ona ne oluyor?
-(4) İşte o gün haberlerini söyler
+(3) ve insan ne oluyor? ona dediği zaman , 
+(4) işte o gün haberlerini söyler
 (5) çünkü Rabbin ona vahyetmiştir.
 (6) O gün ayrı ayrı gruplar halinde insanlar çıkarlar, yaptıkları işler gösterilsin diye
 (7) artık kim zerre ağırlığınca yapmışsa hayır, onu görür
