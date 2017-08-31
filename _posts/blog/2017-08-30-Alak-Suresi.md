@@ -12,12 +12,12 @@ encoding: utf-8
 (3) Ve Rabbin en büyük kerem sahibidir, oku!
 (4) O ki, kalemle öğretti.
 (5) Bilmediği şeyi, insana öğretti.
-(6) Şüphesiz, hayır, insan azar,
+(6) Hayır, insan şüphesiz azar,
 (7) kendini zengin (kendine yeterli) gördüğü için.
 (8) Şüphesiz dönüş Rabbinedir.
 (9) Gördün mü? Şu men’edeni
-(10) bir kulu? Namaz kıldığı zaman,
-(11) gördün mü? Ya doğru yol üzerinde olursa
+(10) (ve) Namaz kıldığı zaman bir kulu?
+(11) Gördün mü? Ya doğru yol üzerinde olursa
 (12) yahut korunmayı emredese
 (13) gördün mü? Ya yalanlarsa? Ve yüz çevirirse?
 (14) Bilmedi mi (o)? Muhakkak Allah'ın gördüğünü
