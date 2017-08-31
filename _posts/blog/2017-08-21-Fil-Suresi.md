@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Fil
+title: Fîl
 excerpt: "103'nci Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
 ---
 
-## 103. Fil Sûresi
+## 103. Fîl Sûresi
 
 (1) Rabb'inin fil sahiplerine nasıl yaptığını görmedin mi?
 (2) Onların tuzaklarını boşa çıkarmadı mı?
