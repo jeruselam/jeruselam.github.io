@@ -14,4 +14,4 @@ encoding: utf-8
 (4) Din gününün sahibidir.
 (5) Ancak sana kulluk ederiz, ancak senden yardım isteriz.
 (6) Bizi doğru yola ilet,
-(7) kimselerin onlar ki yoluna ni'met verdin, kendilerine gazabedilmiş olan(ların) değil ve değil sapmışların.
+(7) kimselerin, onlar ki yoluna ni'met verdin, kendilerine gazabedilmiş olan(ların) değil ve değil sapmışların.
