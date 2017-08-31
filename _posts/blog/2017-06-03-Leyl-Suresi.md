@@ -30,15 +30,3 @@ encoding: utf-8
 (20) yalnız yüce Rabbinin rızasına ulaşmak için.
 (21) Yakında razı olacaktır.
 
-11) 
-(12)
-(13) 
-(4) 
-(5) 
-(6) 
-(7) 
-(8) 
-(9) 
-(10) 
-(11) 
-
