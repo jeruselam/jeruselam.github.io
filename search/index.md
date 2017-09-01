@@ -13,7 +13,7 @@ sitemap: false
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="Bulmak istediğiniz kelimeyi küçük harflerle yazınız" data-search-input id="goog-wm-qt" autofocus />
+  <input type="search" name="q" id="q" placeholder="Aradığınız kelimeyi küçük harflerle yazınız" data-search-input id="goog-wm-qt" autofocus />
   <input type="submit" value="Ara" id="goog-wm-sb" />
 </form>
 
