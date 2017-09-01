@@ -33,3 +33,4 @@ encoding: utf-8
 (23) ancak kim yüz çevirirse ve inanmazsa,
 (24) Allah ona en büyük azabla azab eder, 
 (25) şüphesiz dönüşleri bizedir.
+(26) Sonra şüphesiz onların hesabı bize düşer.
