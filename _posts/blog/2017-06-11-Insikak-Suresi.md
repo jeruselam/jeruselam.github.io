@@ -18,16 +18,16 @@ encoding: utf-8
 (8) yakında kolay bir hesapla hesaba çekilecektir,
 (9) ve ailesine sevinçli olarak dönecektir. 
 (10) Ve fakat kimin Kitabı arka tarafından verilirse,
-(1) sonra yakında o ölümü çağıracak,
-(2) ve alevli ateşe girecektir, 
-(3) çünkü o ailesi arasında sevinçli idi,
-(4) şüphesiz o hiç dönmeyeceğini sanmıştı.
-(5) Hayır şüphesiz Rabbi O’nu görmekte idi.
-(6) Hayır, akşamın alaca karanlığına and içerim,
-(7) ve geceye ve topladığı şeylere, 
-(8) ve aya, dolunay olduğu zaman.
-(9) Siz mutlaka tabakadan tabakaya bineceksiniz. 
-(10) onların nesi var? İnanmıyorlar,
+(11) sonra o yakında ölümü çağıracak,
+(12) ve alevli ateşe girecektir, 
+(13) çünkü o ailesi arasında sevinçli idi,
+(14) şüphesiz o hiç dönmeyeceğini sanmıştı.
+(15) Hayır şüphesiz Rabbi O’nu görmekte idi.
+(16) Hayır, akşamın alaca karanlığına and içerim,
+(17) ve geceye ve topladığı şeylere, 
+(18) ve aya, dolunay olduğu zaman.
+(19) Siz mutlaka tabakadan tabakaya bineceksiniz. 
+(20) onların nesi var? İnanmıyorlar,
 (21) ve Kur’an kendilerine okunduğu zaman secde etmiyorlar.
 (22) Bilakis inkarcılar yalanlıyorlar,
 (23) ve Allah içlerinde gizledikleri şeyi biliyor. 
