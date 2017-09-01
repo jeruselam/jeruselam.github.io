@@ -45,7 +45,3 @@ encoding: utf-8
 (35) divanlar üzerinde (oturup) bakarlar.
 (36) Yapıyor(lar) oldukları şeylerle kafirler cezalandılar mı?
 
-
-
-
-
