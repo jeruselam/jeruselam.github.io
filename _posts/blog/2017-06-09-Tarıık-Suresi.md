@@ -8,7 +8,7 @@ encoding: utf-8
 
 ## 86. Târık Sûresi
 
-(1) Göğe ve tarık’a andolsun ,
+(1) Göğe andolsun ve tarık’a,
 (2) ve sana bildiren nedir? Nedir tarık,
 (3) parlayan yıldızdır.
 (4) Hiçbir can yoktur ki başında bir koruyucu olmasın.
