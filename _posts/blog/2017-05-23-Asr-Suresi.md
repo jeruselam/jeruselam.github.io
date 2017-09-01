@@ -9,5 +9,5 @@ encoding: utf-8
 ## 103. Asr Sûresi
 
 (1) Asra andolsun ki,
-(2) İnsan şüphesiz ziyan içindedir.
+(2) Şüphesiz, insan ziyan içindedir.
 (3) Ancak inanan(lar) kimseler ve iyi işler yapanlar, hakkı tavsiye edenler ve sabrı tavsiye edenler (ziyanda değillerdir).
