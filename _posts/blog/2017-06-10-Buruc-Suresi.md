@@ -10,18 +10,18 @@ encoding: utf-8
 
 (1) Burçlar sahibi göğe andolsun,
 (2) ve va’dedilen güne andolsun,
-(3) ve şahide andolsun ve şahidlik edilene,
-(4) hendeğin adamları kahroldu,
+(3) ve şahide andolsun ve şahidlik edilene.
+(4) Hendeğin adamları kahroldu,
 (5) ateş dolu, tutuşturulmuş yakıt,
 (6) hani onlar onun başında oturmuşlardı,
-(7) ve onlar mü’minlere yaptıkları şeyleri seyrediyorlardı,
-(8) ve övgüye layık aziz Allah’a inanmalarından başka bir sebeple onlardan öc almadılar.
-(9) O ki göklerin ve yerin hükümranlığı O’nundur ve Allah her şey üzerine tanıktır.
+(7) ve onlar, mü’minlere yaptıkları şeyleri seyrediyorlardı,
+(8) ve övgüye layık aziz Allah’a, inanmalarından başka bir sebeple, onlardan öc almadılar.
+(9) O ki, göklerin ve yerin hükümranlığı O’nundur ve Allah her şey üzerine tanıktır.
 (10) Şüphesiz, inanan erkeklere ve inanan kadınlara işkence eden(ler) kimseler, sonra tevbe etmeyenler, cehennem azabı onlar için vardır ve yangın azabı onlar için vardır. 
-(11) Şüphesiz, inanan(lar) kimseler ve iyi işler yapanlar, onlar için vardır altlarından ırmaklar akan cennetler, işte büyük başarı budur.
-(12) Şüphesiz, Rabbinin tutuşu şiddetlidir
-(13) Şüphesiz, ilkin var eden sonra yeniden devam eden O’dur, O,
-(14) ve O bağışlayandır sevendir.
+(11) Şüphesiz, inanan(lar) kimseler ve iyi işler yapanlar, altlarından ırmaklar akan cennetler onlar için vardır, işte büyük başarı budur.
+(12) Şüphesiz, Rabbinin tutuşu şiddetlidir.
+(13) Şüphesiz O, O’dur ilkin var eden, sonra yeniden devam eden,
+(14) ve O bağışlayandır, sevendir.
 (15) Arş’ın sahibidir, yücedir.
 (16) İstediği şeyi yapandır.
 (17) Orduların haberi sana geldi mi?
