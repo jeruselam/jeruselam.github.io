@@ -18,7 +18,7 @@ encoding: utf-8
 (8) yakında kolay bir hesapla hesaba çekilecektir,
 (9) ve ailesine sevinçli olarak dönecektir. 
 (10) Ve fakat kimin Kitabı arka tarafından verilirse,
-(11) sonra o yakında ölümü çağıracak,
+(11) sonra o, yakında ölümü çağıracak,
 (12) ve alevli ateşe girecektir, 
 (13) çünkü o ailesi arasında sevinçli idi,
 (14) şüphesiz o hiç dönmeyeceğini sanmıştı.
