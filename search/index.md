@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sûre Bul"
+title: "Sûre"
 date: 
 modified:
 excerpt:
@@ -14,7 +14,7 @@ sitemap: false
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
   <input type="search" name="q" id="q" placeholder="Bulmak istediğiniz kelimeyi küçük harflerle yazınız" data-search-input id="goog-wm-qt" autofocus />
-  <input type="submit" value="Search" id="goog-wm-sb" />
+  <input type="submit" value="Ara" id="goog-wm-sb" />
 </form>
 
 <!-- Search results placeholder -->
