@@ -6,6 +6,7 @@ search_omit: true
 ---
 
 <!--<p></p>-->
+<div class="blog-index"> 
 {% assign m = post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Ocak
@@ -21,7 +22,7 @@ search_omit: true
   {% when '11' %}Kasım
   {% when '12' %}Aralık
 {% endcase %}
-
+</div>
  
 <!--<p>Welcome to my official website! This site contains info about me, what I do and how you can contact me.</p>-->
 
