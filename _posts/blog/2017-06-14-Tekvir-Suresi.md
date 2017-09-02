@@ -31,7 +31,7 @@ encoding: utf-8
 (21) orada ita’at edilendir, güvenilendir,
 (22) ve arkadaşınız cinli değildir.
 (23) Ve andolsun, onu ufukta apaçık görmüştür, 
-(24) ve O gayb hakkında cimri değildir, 
+(24) ve O gayb hakkında cimri değildir. 
 (25) ve O kovulmuş şeytanın sözü değildir,
 (26) o halde nereye? Gidiyorsunuz,
 (27) hayır, O ancak alemlere öğüttür,
