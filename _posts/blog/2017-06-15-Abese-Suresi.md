@@ -20,7 +20,7 @@ encoding: utf-8
 (10) sen onunla ilgilenmiyorsun.
 (11) Hayır, elbette o, bir hatırlatmadır,
 (12) dileyen kimse onu düşünür, öğüt alır,
-(13) sahifeler içindedir, değer verilen,
+(13) değer verilen sahifeler içindedir,
 (14) (saygı ile) yükseltilen, tertemiz,
 (15) yazıcıların ellerinde,
 (16) iyilik sahibi değerli.
@@ -32,7 +32,7 @@ encoding: utf-8
 (22) sonra dilediği zaman onu diriltip kaldırdı.
 (23) Hayır, O’nun kendisine emrettiği şeyi yerine getirmedi.
 (24) O halde insan şu yiyeceğine baksın.
-(25) iyice döküşle suyu biz döktük.\,
+(25) iyice döküşle suyu biz döktük,
 (26) sonra toprağı güzel bir yarışla yardık,
 (27) ve orada dane bitirdik,
 (28) ve üzüm ve yonca,
