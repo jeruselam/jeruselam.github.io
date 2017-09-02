@@ -29,3 +29,6 @@ sitemap: false
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
 </script>
+
+{% include DuckDuckgo.html %}
+
