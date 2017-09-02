@@ -20,7 +20,7 @@ encoding: utf-8
 (10) sen onunla ilgilenmiyorsun.
 (11) Hayır, elbette o, bir hatırlatmadır,
 (12) dileyen kimse onu düşünür, öğüt alır,
-(13) değer verilen sahifeler, içindedir,
+(13) değer verilen, sahifeler, içindedir,
 (14) (saygı ile) yükseltilen, tertemiz,
 (15) yazıcıların ellerinde,
 (16) iyilik sahibi değerli.
