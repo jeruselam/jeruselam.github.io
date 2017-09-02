@@ -6,7 +6,8 @@ search_omit: true
 ---
 
 
-<ul class="post-list">{% assign B = page.date | date: "%B" %}
+<ul class="post-list">
+{% assign B = post.date | date: "%B" %}
 {% case B %}
   {% when '1' %}Ocak
   {% when '2' %}Şubat
