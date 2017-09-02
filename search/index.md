@@ -30,5 +30,3 @@ sitemap: false
   </article></li>
 </script>
 
-{% include DuckDuckgo.html %}
-
