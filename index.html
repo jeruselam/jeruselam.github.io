@@ -6,7 +6,7 @@ search_omit: true
 ---
 
 <!--<p></p>-->
-{% assign m = post.date | date: "%B" %}
+{% assign m = post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Ocak
   {% when '2' %}Şubat
