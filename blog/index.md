@@ -5,8 +5,8 @@ excerpt: "My blog posts."
 search_omit: true
 ---
 <div class="blog-index"> 
-{% assign m = post.date | date: "%-m" %}
-{% case m %}
+{% assign b = post.date | date: "%b %-d, %Y" %}
+{% case b %}
   {% when '1' %}Ocak
   {% when '2' %}Şubat
   {% when '3' %}Mart
