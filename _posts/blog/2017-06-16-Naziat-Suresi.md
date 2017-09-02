@@ -13,7 +13,7 @@ encoding: utf-8
 (3) yüzüp, yüzerek gidenlere,
 (4) yarışıp, yarışarak geçenlere,
 (5) derken işi düzenleyenlere.
-(6) O gün o sarsıntı sarsar
+(6) O gün o sarsıntı, sarsar
 (7) ardından (başka gürültü) takip eder,
 (8) o gün yürekler çarpar,
 (9) gözleri (korkudan) aşağı kayar.
@@ -34,7 +34,7 @@ encoding: utf-8
 (24) ve, ben sizin en yüce Rabbinizim dedi.
 (25) Allah onu sonun ve ilkin azabıyle cezalandırdı.
 (26) Şüphesiz bunda korkacak kimseler için elbette ibret(ler) vardır.
-(27) Yaratılışça siz mi? daha çetinsiniz yoksa gök (mü?), (Allah) onu yaptı,
+(27) Yaratılışça siz mi? daha çetinsiniz yoksa gök (mü?), onu (Allah) yaptı,
 (28) kalınlığını yükseltti, onu düzenledi,
 (29) gecesini örtüp kararttı ve kuşluğunu açığa çıkardı, 
 (30) ve bundan sonra da yeri yayıp yuvarlattı,
@@ -53,4 +53,4 @@ encoding: utf-8
 (43) sen ne (bilirsin)? onu söyleyesin,
 (44) onun bilgisi Rabbine aittir,
 (45) sen ancak ondan korkacak olanları uyarıcısın,
-(46) onu gördükleri gün onlar sanki, bir akşamdan veya onun kuşluk vaktinden başka (dünyada) kalmamışlar gibidir.
+(46) onu gördükleri gün, onlar, bir akşamdan veya onun kuşluk vaktinden başka sanki (dünyada) kalmamışlar gibidir.
