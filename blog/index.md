@@ -4,6 +4,24 @@ title: Blog
 excerpt: "My blog posts."
 search_omit: true
 ---
+<div class="blog-index"> 
+{% assign m = post.date | date: "%-m" %}
+{% case m %}
+  {% when '1' %}Ocak
+  {% when '2' %}Şubat
+  {% when '3' %}Mart
+  {% when '4' %}Nisan
+  {% when '5' %}Mayıs
+  {% when '6' %}Haziran
+  {% when '7' %}Temmuz
+  {% when '8' %}Ağustos
+  {% when '9' %}Eylül
+  {% when '10' %}Ekim
+  {% when '11' %}Kasım
+  {% when '12' %}Aralık
+{% endcase %}
+</div>
+
 
 <ul class="post-list">
 {% for post in site.categories.blog %}
