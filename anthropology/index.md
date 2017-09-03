@@ -6,7 +6,7 @@ modified: 2017-05-15T17:50:00.564948 17:00
 ---
 
 ----------------------------------
-![](http://www.harunyahya.com/image/How_Fossils_Overturned_Evolution/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
+![]({{site.url}}/images/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
 
 - a) Bengalli orta yaşlı bir erkek
 - b) 15. yüzyılda yaşamış bir Peru yerlisi
