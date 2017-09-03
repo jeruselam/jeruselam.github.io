@@ -13,7 +13,7 @@ search_omit: true
 </ul>
 <h1>Tag Cloud</h1>
   <ul class="site-tag">
-    {% assign tags = post.title | sort %}
+    {% assign tags = page.tag | sort %}
     {% for tag in tags %}
     <span class="site-tag">
         <a href="/tag/{{ tag | first | slugify }}/"
