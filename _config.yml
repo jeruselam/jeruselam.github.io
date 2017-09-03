@@ -9,6 +9,7 @@ url: https://jeruselam.github.io
 
 # Jekyll configuration
 encoding: utf-8
+timezone: Europe/Istanbul
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
