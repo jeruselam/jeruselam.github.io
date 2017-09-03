@@ -12,7 +12,7 @@ encoding: utf-8
 (2) Doğrusu biz, insanı karışık bir nutfeden, imtihan etmek için yarattık ve onu işitici, görücü yaptık. 
 (3) Elbette biz, ona yolu gösterdik, ya şükreder veya nankör olur.
 (4) Elbette biz, kafirler için zincirler ve demir halkalar ve alevli bir ateş hazırlamışızdır.	
-(5) Şüphesiz, iyiler karışımı kâfûr olan bir kadehten içerler,
+(5) Şüphesiz iyiler, karışımı kâfûr olan bir kadehten içerler,
 (6) Allah’ın kulları ondan bir kaynak içerler, fışkırtarak akıtırlar,
 (7) adaklarını yerine getirirler ve salgın şerri olan bir günden korkarlar, 
 (8) ve sevdikleri yoksula ve yetime ve esire yemeği yedirirler,
@@ -22,13 +22,13 @@ encoding: utf-8
 (12) onların ödülleri sabrettiklerinden dolayı cennettir ve ipektir,
 (13) orada divanlar üzerinde yaslanırlar, orada (yakıcı) güneş ve ne de dondurucu soğuk görmezler,
 (14) ve onun gölgeleri üzerlerine yaklaşmıştır ve aşağı eğdirilerek, meyvaları eğdirilmiştir, 
-(15) ve gümüşten kablar ve billur olan kupalar yanlarında dolaştırılır, 
+(15) ve gümüşten kaplar ve billur olan kupalar yanlarında dolaştırılır, 
 (16) gümüşten billurlar ki istedikleri ölçüde onları takdir etmişlerdir,
 (17) ve orada karışımı zencefil olan kadehten onlara içirilir, 
 (18) orada bir çeşme, adına Selsebil denir,
 (19) ölümsüz gençler çevrelerinde dolaşır, onları görsen kendilerini saçılmış inci sanırsın, 
 (20) ve sonra baktığın zaman bir ni’met görürsün ve bir büyük mülk,
-(21) üstlerinde yeşil ince ipekten ve kalın ipekten giysiler vardır, 
+(21) üstlerinde yeşil ince ipekten ve kalın ipekten giysiler vardır 
  ve gümüşten bilezikler takınmışlardır ve Rableri onlara tertemiz bir içki içirmiştir,
 (22) şüphesiz bu sizin ödülünüz oldu ve çalışmanız, teşekküre layık  olmuştur. 
 (23) Muhakkak Biziz, sana Kur’an’ı parça parça biz indirdik,
