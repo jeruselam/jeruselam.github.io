@@ -15,7 +15,7 @@ encoding: utf-8
 (5) sonra hayır, yakında bilecekler.
 (6) Arzı bir beşik yapmadık mı?
 (7) Ve dağları birer kazık,
-(8) ve çift çift sizi yarattık, 
+(8) ve çift çift, sizi yarattık, 
 (9) ve uykunuzu dinlenme yaptık, 
 (10) ve geceyi bir giysi yaptık, 
 (11) ve gündüzü geçim zaman yaptık, 
@@ -44,7 +44,7 @@ encoding: utf-8
 (34) ve dolu kadeh(ler),
 (35) orada boş söz işitmezler ve ne de yalan,
 (36) yeterli bir bağış olarak Rabbinden bir karşılık,
-(37) göklerin ve yerin ve ikisi arasında bulunanların çok merhametli Rabbi,
-(38) O’nun huzurunda konuşamaya güçleri yetmez,
-(39) o gün Ruh ve melekler sıra sıra dururlar, O’nun, Rahman’ın izin verdiği kimseler dışındakiler konuşamaz ve o da doğruyu söyler, 
-(40) işte bu hak günüdür artık dileyen kimse Rabbine varan bir yol tutar.
+(37) göklerin ve yerin ve ikisi arasında bulunanların çok merhametli Rabbi, O’nun huzurunda konuşamaya güçleri yetmez,
+(38) o gün Ruh ve melekler sıra sıra dururlar, O’nun, Rahman’ın izin verdiği kimseler dışındakiler konuşamaz ve o da doğruyu söyler, 
+(39) işte bu hak günüdür, artık dileyen kimse Rabbine varan bir yol tutar,
+(40) elbette biz, sizi yakın bir azab ile uyardık, o gün kişi, ellerinin öne sürdüğü işlere bakar ve kafir, keşke ben toprak olsaydım der.
