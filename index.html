@@ -11,15 +11,3 @@ search_omit: true
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
-<h1>Tag Cloud</h1>
-  <ul class="site-tag">
-    {% assign tags = page.tag | sort %}
-    {% for tag in tags %}
-    <span class="site-tag">
-        <a href="/tag/{{ tag | first | slugify }}/"
-            style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-                {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-        </a>
-    </span>
-    {% endfor %}
-  </ul>

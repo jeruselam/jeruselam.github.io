@@ -4,7 +4,6 @@ title: Nâs
 excerpt: "114'ncü Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
-tag: Nas
 ---
 
 ## 114. Nâs Sûresi
