@@ -19,15 +19,15 @@ encoding: utf-8
 (9) ve gök yarıldığı zaman,
 (10) ve dağlar ufalanıp savrulduğu zaman, 
 (11) ve elçilere vakit belirlendiği zaman, 
-(12) günün, hangisi için? ertelenmiştir,
+(12) hangisi için? günün ertelenmiştir,
 (13) hüküm günü için,
-(14) nereden? bileceksin, hüküm günü nedir,
-(15) o gün yalanlayanların vay haline,
+(14) hüküm günü nedir, nereden? bileceksin,
+(15) o gün yalanlayanların vay haline.
 (16) Öncekileri helak etmedik mi?
-(17) sonra, geridekileri, onların ardına takarız,
+(17) sonra onların ardına takarız, geridekileri, 
 (18) suçlulara böyle yaparız,
 (19) o gün yalanlayanların vay haline. 
-(20) Adi bir sudan sizi yaratmadık mı?
+(20) Âdi bir sudan sizi yaratmadık mı?
 (21) Onu sağlam bir karar yerine koyduk,
 (22) belirli bir süreye kadar,
 (23) ve biçimlendirdik, ne güzel biçim vereniz biz
@@ -36,7 +36,7 @@ encoding: utf-8
 (26) Diriler (için) ve ölüler (için),
 (27) ve orada yüksek yüksek dağlar meydana getirmedik mi? Ve size tatlı su(lar) içirmedik mi?
 (28) o gün yalanlayanların vay haline.
-(29) Haydi, onu yalanlamış olduğunuz şeye gidin,
+(29) Onu yalanlamış olduğunuz şeye haydi gidin,
 (30) üç dalı olan bir gölgeye gidin,
 (31) gölgelendirmez ve ne de alevden korumaz,
 (32) gerçekten o kütük gibi kıvılcım(lar) saçar,
