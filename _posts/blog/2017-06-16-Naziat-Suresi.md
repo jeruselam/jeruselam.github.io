@@ -8,13 +8,13 @@ encoding: utf-8
 
 ## 79. Nâziât Sûresi
 
-(1) Andolsun şiddetle söküp, çıkaranlara
+(1) Andolsun şiddetle söküp çıkaranlara
 (2) ve usulca çekip alanlara, 
 (3) yüzüp, yüzerek gidenlere,
 (4) yarışıp, yarışarak geçenlere,
 (5) derken işi düzenleyenlere.
-(6) O gün o sarsıntı, sarsar
-(7) ardından (başka gürültü) takip eder,
+(6) O sarsıntı o gün sarsar,
+(7) (başka gürültü) ardından takip eder,
 (8) o gün yürekler çarpar,
 (9) gözleri (korkudan) aşağı kayar.
 (10) Diyorlar ki, biz yine eski halimize döndürülecek (miyiz?)
