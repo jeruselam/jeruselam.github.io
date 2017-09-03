@@ -18,7 +18,7 @@ encoding: utf-8
 (8) ve çift çift, sizi yarattık, 
 (9) ve uykunuzu dinlenme yaptık, 
 (10) ve geceyi bir giysi yaptık, 
-(11) ve gündüzü geçim zaman yaptık, 
+(11) ve gündüzü geçim zamanı yaptık, 
 (12) ve üstünüzde sağlam yedi (gök) bina ettik,
 (13) ve parıl parıl parlayan bir lamba yarattık, 
 (14) ve sıkışan(bulut)lardan şarıl şarıl su indirdik,
@@ -33,10 +33,10 @@ encoding: utf-8
 (23) çağlar boyu orada kalacalardır,
 (24) orada bir serinlik tadmazlar ve ne de içilecek bir şey,
 (25) yalnız kaynar su ve irin (içerler),
-(26) uygun bir ceza olarak
-(27) çünkü onlar bir hesap ummuyor(lar) idiler,
+(26) uygun bir ceza olarak.
+(27) Çünkü onlar bir hesap ummuyor(lar) idiler,
 (28) ve tekzib ile ayetlerimizi yalanlamışlardı, 
-(29) ve her şeyi saymıştık, yazmıştık
+(29) ve her şeyi saymıştık, yazmıştık,
 (30) şimdi tadın, artık asla, azabdan başka bir şey size artırmayacağız.
 (31) Şüphesiz, başarı ödülü, muttakiler için vardır,
 (32) bahçeler ve bağlar,
