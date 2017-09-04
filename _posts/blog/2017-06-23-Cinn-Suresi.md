@@ -13,13 +13,13 @@ encoding: utf-8
 (3) doğrusu O, Rabbimizin şanı, yücedir, O eş edinmemiştir ve ne de çocuk. 
 (4) Gerçek şu idi ki, bizim beyinsiz, Allah hakkında saçma şeyler söylüyor, 
 (5) ve elbette biz insanların ve cinlerin Allah’a karşı asla yalan  söylemeyeceklerini sanmıştık,
-(6) ve doğrusu insanlardan (bazı) erkekler, cinlerden bazı erkeklere sığınırlardı idi ve onların şımarıklığını artırırlardı
+(6) ve doğrusu insanlardan (bazı) erkekler idi, cinlerden bazı erkeklere sığınırlardı ve onların şımarıklığını artırırlardı
 (7) ve onlar da sizin sandığınız gibi Allah’ın asla hiç kimseyi  diriltmeyeceğini sanmışlardı.
 (8) Ve elbette biz göğe dokunduk ve onu kuvvetli bekçilerle ve ışınlarla doldurulmuş bulduk, 
-(9) ve elbette biz onun dinlemeğe mahsus oturma yerlerinde oturur idik artık kim şimdi dinlemek istese kendisini gözetleyen bir ışın bulur,
+(9) ve elbette biz onun dinlemeğe mahsus oturma yerlerinde oturur idik şimdi artık kim dinlemek istese kendisini gözetleyen bir ışın bulur,
 (10) ve elbette biz bilmiyoruz, yeryüzünde olanlara kötülük mü istendi yoksa Rabb'leri onları doğruya iletmek (mi?) diledi.
 (11) Bize gelince bizden iyiler (de) vardır ve bizden bundan başkası (da) vardır, biz çeşitli yollardayız.
-(12) Biz yeryüzünde Allah’ı asla aciz bırakamayacağımızı ve kaçmakla asla O’nu aciz bırakamayacağımızı anladık.
+(12) Biz Allah’ı yeryüzünde asla aciz bırakamayacağımızı ve O’nu  kaçmakla asla aciz bırakamayacağımızı anladık.
 (13) Biz ne zaman ki, yol gösteren (Kur’an)ı işitince, ona inandık artık kim Rabb'ine inanırsa eksik verilmesinden korkmaz ve ne de kötülük edilmesinden.
 (14) Ve elbette biz, bizden müslümanlar vardır ve bizden doğru yoldan sapanlar vardır	artık kimler müslüman olursa işte onlar doğru yolu aramışlardır,
 (15) hak yoldan sapanlar ise cehenneme odun olmuşlardır.
