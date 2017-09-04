@@ -16,14 +16,14 @@ encoding: utf-8
 (6) sorup durur kıyamet günü nerede?
 (7) Göz kamaştığı zaman,
 (8) ve ay tutulduğu,
-(9) ve güneş ve ay bir araya toplandığı,
-(10) insan o gün der, kaçacak yer neresidir? 
+(9) ve güneş ve ay bir araya toplandığı.
+(10) İnsan o gün der, kaçacak yer neresidir? 
 (11) Hayır sığınacak yer yoktur,
-(12) o gün varıp durulacak yer, Rabbinin,
+(12) o gün Rabbinin, varıp durulacak yer,
 (13) o gün insanın yapıp öne sürdüğü ve geri bıraktığı şeyler haber verilir,
 (14) doğrusu insan kendi nefsini görür,
 (15) ve şayet ortaya özürler atsa (da).
-(16) Onu okumak için onu, diline depretme,
+(16) Onu okumak için, onu diline depretme,
 (17) şüphesiz onu toplamak ve okumak bize düşer,
 (18) O’nu okuduğumuz zaman, onun okunuşunu izle,
 (19) sonra şüphesiz onu açıklamak bize düşer.
@@ -32,7 +32,7 @@ encoding: utf-8
 (22) Yüzler vardır, o gün ışıl ışıl parlar,
 (23) Rabbine bakar,
 (24) ve yüzler vardır, o gün asıktır
-(25) kendisine belini kıran(bela)nın yapılacağını anlar.
+(25) kendisine, belini kıran(bela)nın yapılacağını anlar.
 (26) Hayır, ne zaman ki (can) köprücük kemiklerine dayanır,
 (27) ve denir, kim? efsun yapar,
 (28) ve bunun ayrılık zamanı olduğunu anlar,
