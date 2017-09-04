@@ -14,7 +14,7 @@ encoding: utf-8
 (4) günahlarınızdan bir kısmını sizin için bağışlasın ve belli bir süreye kadar sizi ertelesin zira Allah’ın süresi geldiği zaman ertelenmez, keşke bilenlerden olsaydınız.
 (5) Rabbim dedi, şüphesiz ben gece ve gündüz kavmimi da’vet ettim,
 (6) fakat benim da’vetim, onların kaçışlarından başka bir şey artırmadı,
-(7) ve elbette ben, her nezaman onları da’vet ettimse, onları bağışlaman için, parmaklarını kulaklarına koydular ve örtülerini başlarına çektiler ve direttiler ve kibirle böbürlendiler,
+(7) ve elbette ben, onları bağışlaman için her nezaman onları da’vet ettimse, parmaklarını kulaklarına koydular ve örtülerini başlarına çektiler ve direttiler ve kibirle böbürlendiler,
 (8) sonra elbette ben, onları açıkça da’vet ettim,
 (9) sonra şüphesiz ben, onlara açıktan söyledim ve onlara sır olarak gizli söyledim,
 (10) dedim ki Rabbinizden mağfiret dileyin çünkü O çok bağışlayandır,
