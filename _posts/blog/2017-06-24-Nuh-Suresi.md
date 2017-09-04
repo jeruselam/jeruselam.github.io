@@ -21,10 +21,10 @@ encoding: utf-8
 (11) gökten üzerinize bol yağmur göndersin,
 (12) ve size mallarla ve oğullarla yardım etsin ve size bahçeler versin ve size ırmaklar versin. 
 (13) Ne? oluyor size, Allah için saygı ummuyorsunuz,
-(14) oysa O aşama aşama sizi yarattı.
+(14) oysa O sizi aşama aşama yarattı.
 (15) Tabaka tabaka yedi göğü, Allah nasıl yarattı görmediniz mi? 
 (16) Ve Ay’ı bunların içinde nur yaptı ve güneşi bir lamba yaptı.
-(17) Ve Allah, bir bitki olarak sizi yerden bitirdi,
+(17) Ve Allah, bir bitki olarak yerden sizi bitirdi,
 (18) sonra oraya geri çevirecektir ve tekrar mükemmel çıkarışla çıkaracaktır,
 (19) Ve Allah sizin için yeri bir sergi yaptı,
 (20) ondaki geniş geniş yollarda gidesiniz diye.
