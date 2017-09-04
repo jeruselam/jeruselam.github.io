@@ -14,17 +14,17 @@ encoding: utf-8
 (4) günahlarınızdan bir kısmını sizin için bağışlasın ve belli bir süreye kadar sizi ertelesin zira Allah’ın süresi geldiği zaman ertelenmez, keşke bilenlerden olsaydınız.
 (5) Rabbim dedi, şüphesiz ben gece ve gündüz kavmimi da’vet ettim,
 (6) fakat benim da’vetim, onların kaçışlarından başka bir şey artırmadı,
-(7) ve elbette ben, onları bağışlaman için her nezaman onları da’vet ettimse, parmaklarını kulaklarına koydular ve örtülerini başlarına çektiler ve direttiler ve kibirle böbürlendiler,
+(7) ve elbette ben, her nezaman onları bağışlaman için onları da’vet ettimse, parmaklarını kulaklarına koydular ve örtülerini başlarına çektiler ve direttiler ve kibirle böbürlendiler,
 (8) sonra elbette ben, onları açıkça da’vet ettim,
-(9) sonra şüphesiz ben, onlara açıktan söyledim ve onlara sır olarak gizli söyledim,
+(9) sonra şüphesiz ben, onlara açıktan söyledim ve sır olarak onlara  gizli söyledim,
 (10) dedim ki Rabbinizden mağfiret dileyin çünkü O çok bağışlayandır,
 (11) gökten üzerinize bol yağmur göndersin,
 (12) ve size mallarla ve oğullarla yardım etsin ve size bahçeler versin ve size ırmaklar versin. 
 (13) Ne? oluyor size, Allah için saygı ummuyorsunuz,
-(14) oysa O sizi aşama aşama yarattı.
+(14) oysa O aşama aşama sizi yarattı.
 (15) Tabaka tabaka yedi göğü, Allah nasıl yarattı görmediniz mi? 
 (16) Ve Ay’ı bunların içinde nur yaptı ve güneşi bir lamba yaptı.
-(17) Ve Allah, bir bitki olarak yerden sizi bitirdi,
+(17) Ve Allah, bir bitki olarak sizi yerden bitirdi,
 (18) sonra oraya geri çevirecektir ve tekrar mükemmel çıkarışla çıkaracaktır,
 (19) Ve Allah sizin için yeri bir sergi yaptı,
 (20) ondaki geniş geniş yollarda gidesiniz diye.
