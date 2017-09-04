@@ -29,3 +29,9 @@ sitemap: false
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
 </script>
+
+<script src="jquery-1.6.1.min.js"></script>
+<script src="jquery-tapir.min.js"></script>
+<script>
+  $('#search_results').tapir({'token': '59addafc14ad6670777d3cb5'});
+</script>
