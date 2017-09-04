@@ -43,8 +43,8 @@ encoding: utf-8
 (33) ve göğüsleri tomurcuklanmış yaşıt kızlar,
 (34) ve dolu kadeh(ler),
 (35) orada boş söz işitmezler ve ne de yalan,
-(36) yeterli bir bağış olarak Rabbinden bir karşılık,
-(37) göklerin ve yerin ve ikisi arasında bulunanların çok merhametli Rabbi, O’nun huzurunda konuşamaya güçleri yetmez,
+(36) yeterli bir bağış olarak Rabbinden bir karşılık.
+(37) Göklerin ve yerin ve ikisi arasında bulunanların çok merhametli Rabbi, O’nun huzurunda konuşmaya güçleri yetmez,
 (38) o gün Ruh ve melekler sıra sıra dururlar, O’nun, Rahman’ın izin verdiği kimseler dışındakiler konuşamaz ve o da doğruyu söyler, 
 (39) işte bu hak günüdür, artık dileyen kimse Rabbine varan bir yol tutar,
 (40) elbette biz, sizi yakın bir azab ile uyardık, o gün kişi, ellerinin öne sürdüğü işlere bakar ve kafir, keşke ben toprak olsaydım der.
