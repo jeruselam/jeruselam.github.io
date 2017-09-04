@@ -18,7 +18,7 @@ encoding: utf-8
 (8) Sur’a (boruya) üflendiği zaman
 (9) işte o gün, çetin bir gündür,
 (10) kafirler için kolay değildir
-(11) beni ve tek olarak yarattığım adamı, yalnız bırak
+(11) beni yalnız bırak ve tek olarak yarattığım adamı, 
 (12) ve ona mal verdim, uzun boylu,
 (13) ve göz önünde oğullar,
 (14) ve kendisine bir döşeyişle döşedim,
@@ -41,8 +41,8 @@ encoding: utf-8
 (31) Ve biz meleklerden başkasını cehennemin muhafızları yapmadık ve kalblerinde hastalık bulunan kimseler ve kafirler, bu misalle Allah demek ne? istedi desinler diye ve Kitap verilmiş olanlar ve inananlar kuşkulanmasınlar ve inananların imanı artsın diye ve kendilerine Kitap verilmiş olanlar iyice inansın diye inkar edenler için onların sayısını bir sınavdan başka bir şey yapmadık böylece Allah dilediği kimseyi şaşırtır ve dilediği kimseyi doğru yola iletir ve Rabbinin ordularını O’ndan başkası bilmez ve bu, insanlara bir uyarı(dan) başka bir şey değildir.
 (32) Hayır, Aya andolsun 
 (33) ve dönüp gitmekte olan geceye,
-(34) ve ağardığında sabaha,
-(35) şüphesiz ki o büyüklerden biridir,
+(34) ve ağardığında sabaha.
+(35) Şüphesiz ki o büyüklerden biridir,
 (36) insanlar için uyarıcıdır,
 (37) sizden ileri gitmek veya geri kalmak dileyen kimseler için.
 (38) Her can kazandığıyle rehin alınmıştır,
