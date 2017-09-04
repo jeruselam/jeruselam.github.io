@@ -17,7 +17,7 @@ encoding: utf-8
 (7) adaklarını yerine getirirler ve salgın şerri olan, bir günden korkarlar, 
 (8) ve sevdikleri yoksula ve yetime ve esire yemeği yedirirler,
 (9) Allah rızası için biz size yediriyoruz, sizden bir karşılık, ne de teşekkür beklemiyoruz,
-(10) çünkü biz çok katı suratsız bir günde Rabbimizden korkarız.
+(10) çünkü biz çok katı, suratsız bir günde Rabbimizden korkarız.
 (11) Allah onları o günün şerrinden korumuştur ve onlara parlaklık ve sevinç vermiştir, 
 (12) onların ödülleri sabrettiklerinden dolayı cennettir ve ipektir,
 (13) orada divanlar üzerinde yaslanırlar, orada (yakıcı) güneş ve ne de dondurucu soğuk görmezler,
