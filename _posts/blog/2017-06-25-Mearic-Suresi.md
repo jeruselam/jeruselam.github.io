@@ -51,5 +51,5 @@ lang: tr
 (40) Hayır, doğuların ve batıların Rabb'ine yemin ederim ki elbette bizim gücümüz yeter,
 (41) onları kendilerinden daha hayırlısıyla değiştirmeğe ve biz, önüne geçilecek değil(iz). 
 (42) Kendilerine va’dedilen günlerine kavuşuncaya kadar onları bırak  dalsınlar ve oynasınlar. 
-(43) Onlar o gün kabirlerden hızlı hızlı çıkarlar, dikilenlere (putlara) koşuyorlar, gibidirler.
+(43) O gün kabirlerden hızlı hızlı çıkarlar, Onlar, dikilenlere (putlara) koşuyorlar, gibidirler.
 (44) Onları, korkulu gözleri, alçaklık bürümüş, işte onlara va’dedilmiş olan gün budur.
