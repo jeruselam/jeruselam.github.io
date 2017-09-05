@@ -19,7 +19,7 @@ lang: tr
 (8) O gün gök erimiş maden gibi olur,
 (9) ve renkli yün gibi dağlar olur,
 (10) ve dost dostun halini sormaz,
-(11) suçlu olan ister, keşke fidye versin, o günün azabından oğullarını(kurtarmak için) birbirlerine gösterilirler, 
+(11) o günün azabından(kurtarmak için), suçlu olan ister, keşke fidye versin, oğullarını birbirlerine gösterilirler, 
 (12) ve eşini ve kardeşini,
 (13) ve kendisini barındıran tüm ailesini,
 (14) ve yeryüzünde bulunanları, hepsini sonra kendisini kurtarsın.
