@@ -9,8 +9,8 @@ encoding: utf-8
 ## 73. Muzzemmil Sûresi
 
 (1) Ve ey örtüsüne bürünen,
-(2) yalnız geceleyin, birazında kalk,
-(3) yahut onun yarısında, bundan biraz eksilt,
+(2) geceleyin, birazında yalnız kalk,
+(3) onun yarısında, yahut bundan biraz eksilt,
 (4) veya bunu artır ve ağır ağır Kur’an oku, 
 (5) doğrusu biz senin üzerine ağır bir söz bırakacağız,
 (6) gerçekten gece kalkmak, o daha tesirlidir ve söz(ler) daha sağlamdır,
