@@ -36,7 +36,7 @@ lang: tr
 (25) isteyenler için ve mahrumlar için,
 (26) ve ceza gününü tasdik ederler,
 (27) ve onlar Rabb'lerinin azabından korkarlar,
-(28) çünkü Rablerinin azabına güven olmaz,
+(28) çünkü Rabb'lerinin azabına güven olmaz,
 (29) ve onlar ırzlarını korurlar,
 (30) eşleri dışındadır ya da ellerinin altında bulunanlar, şüphesiz onlar kınanmazlar,
 (31) ama kim bundan ötesini ararsa işte onlar (sınırı) aşanlardır,
@@ -46,10 +46,10 @@ lang: tr
 (35) işte onlar cennetlerde ağırlanırlar.
 (36) İnkar eden(lere) kimselere ne oluyor? Sana doğru koşuyorlar,
 (37) sağdan ve soldan ayrı ayrı gruplar halinde,
-(38) onlardan her biri ni’met cennetine sokulacağını umuyor mu?
-(39) Hayır, elbette biz bildikleri şeyden onları yarattık.
+(38) onlardan her biri, ni’met cennetine sokulacağını umuyor mu?
+(39) Hayır, elbette biz, bildikleri şeyden onları yarattık.
 (40) Hayır, doğuların ve batıların Rabb'ine yemin ederim ki elbette bizim gücümüz yeter,
-(41) onları kendilerinden daha hayırlısıyla değiştirmeğe ve biz önüne geçilecek değil(iz). 
+(41) onları kendilerinden daha hayırlısıyla değiştirmeğe ve biz, önüne geçilecek değil(iz). 
 (42) Kendilerine va’dedilen günlerine kavuşuncaya kadar onları bırak  dalsınlar ve oynasınlar. 
 (43) Onlar o gün kabirlerden hızlı hızlı çıkarlar, dikilenlere (putlara) koşuyorlar, gibidirler.
-(44) Korkulu gözleri, onları alçaklık bürümüş, onlara va’dedilmiş olan gün işte budur.
+(44) Onları, korkulu gözleri, alçaklık bürümüş, işte onlara va’dedilmiş olan gün budur.

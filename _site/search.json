@@ -3,15 +3,87 @@
   
     {
       "title"			: "Fatiha",
-      "link"			: "http://localhost:4000/Fatiha-Suresi/",
+      "link"			: "https://jeruselam.github.io/Fatiha-Suresi/",
       "excerpt"		: "1’nci Sûre"
     }
   
 
   
     ,{
+      "title"			: "Meâric",
+      "link"			: "https://jeruselam.github.io/Mearic-Suresi/",
+      "excerpt"		: "70’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Nûh",
+      "link"			: "https://jeruselam.github.io/Nuh-Suresi/",
+      "excerpt"		: "71’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Cinn",
+      "link"			: "https://jeruselam.github.io/Cinn-Suresi/",
+      "excerpt"		: "72’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Muzzemmil",
+      "link"			: "https://jeruselam.github.io/Muzzemmil-Suresi/",
+      "excerpt"		: "73’ncü Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Muddessir",
+      "link"			: "https://jeruselam.github.io/Muddessir-Suresi/",
+      "excerpt"		: "74’ncü Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Kıyâme",
+      "link"			: "https://jeruselam.github.io/Kiyame-Suresi/",
+      "excerpt"		: "75’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "İnsân",
+      "link"			: "https://jeruselam.github.io/Insan-Suresi/",
+      "excerpt"		: "76’ncı Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Murselât",
+      "link"			: "https://jeruselam.github.io/Murselat-Suresi/",
+      "excerpt"		: "77’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Nebe",
+      "link"			: "https://jeruselam.github.io/Nebe-Suresi/",
+      "excerpt"		: "78’nci Sûre"
+    }
+  
+
+  
+    ,{
       "title"			: "Nâziât",
-      "link"			: "http://localhost:4000/Naziat-Suresi/",
+      "link"			: "https://jeruselam.github.io/Naziat-Suresi/",
       "excerpt"		: "79’ncu Sûre"
     }
   
@@ -19,7 +91,7 @@
   
     ,{
       "title"			: "Abese",
-      "link"			: "http://localhost:4000/Abese-Suresi/",
+      "link"			: "https://jeruselam.github.io/Abese-Suresi/",
       "excerpt"		: "80’nci Sûre"
     }
   
@@ -27,7 +99,7 @@
   
     ,{
       "title"			: "Tekvîr",
-      "link"			: "http://localhost:4000/Tekvir-Suresi/",
+      "link"			: "https://jeruselam.github.io/Tekvir-Suresi/",
       "excerpt"		: "81’nci Sûre"
     }
   
@@ -35,7 +107,7 @@
   
     ,{
       "title"			: "İnfitâr",
-      "link"			: "http://localhost:4000/Infitar-Suresi/",
+      "link"			: "https://jeruselam.github.io/Infitar-Suresi/",
       "excerpt"		: "82’nci Sûre"
     }
   
@@ -43,7 +115,7 @@
   
     ,{
       "title"			: "Mutaffifîn",
-      "link"			: "http://localhost:4000/Mutaffifin-Suresi/",
+      "link"			: "https://jeruselam.github.io/Mutaffifin-Suresi/",
       "excerpt"		: "83’ncü Sûre"
     }
   
@@ -51,7 +123,7 @@
   
     ,{
       "title"			: "İnşikak",
-      "link"			: "http://localhost:4000/Insikak-Suresi/",
+      "link"			: "https://jeruselam.github.io/Insikak-Suresi/",
       "excerpt"		: "84’ncü Sûre"
     }
   
@@ -59,7 +131,7 @@
   
     ,{
       "title"			: "Burûc",
-      "link"			: "http://localhost:4000/Buruc-Suresi/",
+      "link"			: "https://jeruselam.github.io/Buruc-Suresi/",
       "excerpt"		: "85’nci Sûre"
     }
   
@@ -67,7 +139,7 @@
   
     ,{
       "title"			: "Târık",
-      "link"			: "http://localhost:4000/Tarik-Suresi/",
+      "link"			: "https://jeruselam.github.io/Tarik-Suresi/",
       "excerpt"		: "86’ncı Sûre"
     }
   
@@ -75,7 +147,7 @@
   
     ,{
       "title"			: "A'lâ",
-      "link"			: "http://localhost:4000/Ala-Suresi/",
+      "link"			: "https://jeruselam.github.io/Ala-Suresi/",
       "excerpt"		: "87’nci Sûre"
     }
   
@@ -83,7 +155,7 @@
   
     ,{
       "title"			: "Gâşiye",
-      "link"			: "http://localhost:4000/Gasiye-Suresi/",
+      "link"			: "https://jeruselam.github.io/Gasiye-Suresi/",
       "excerpt"		: "88’nci Sûre"
     }
   
@@ -91,7 +163,7 @@
   
     ,{
       "title"			: "Fecr",
-      "link"			: "http://localhost:4000/Fecr-Suresi/",
+      "link"			: "https://jeruselam.github.io/Fecr-Suresi/",
       "excerpt"		: "89’ncu Sûre"
     }
   
@@ -99,7 +171,7 @@
   
     ,{
       "title"			: "Beled",
-      "link"			: "http://localhost:4000/Beled-Suresi/",
+      "link"			: "https://jeruselam.github.io/Beled-Suresi/",
       "excerpt"		: "90’ncı Sûre"
     }
   
@@ -107,7 +179,7 @@
   
     ,{
       "title"			: "Şems",
-      "link"			: "http://localhost:4000/Sems-Suresi/",
+      "link"			: "https://jeruselam.github.io/Sems-Suresi/",
       "excerpt"		: "91’nci Sûre"
     }
   
@@ -115,7 +187,7 @@
   
     ,{
       "title"			: "Leyl",
-      "link"			: "http://localhost:4000/Leyl-Suresi/",
+      "link"			: "https://jeruselam.github.io/Leyl-Suresi/",
       "excerpt"		: "92’nci Sûre"
     }
   
@@ -123,7 +195,7 @@
   
     ,{
       "title"			: "Duhâ",
-      "link"			: "http://localhost:4000/Duha-Suresi/",
+      "link"			: "https://jeruselam.github.io/Duha-Suresi/",
       "excerpt"		: "93’ncü Sûre"
     }
   
@@ -131,7 +203,7 @@
   
     ,{
       "title"			: "İnşirâh",
-      "link"			: "http://localhost:4000/Insirah-Suresi/",
+      "link"			: "https://jeruselam.github.io/Insirah-Suresi/",
       "excerpt"		: "94’ncü Sûre"
     }
   
@@ -139,7 +211,7 @@
   
     ,{
       "title"			: "Tîn",
-      "link"			: "http://localhost:4000/Tin-Suresi/",
+      "link"			: "https://jeruselam.github.io/Tin-Suresi/",
       "excerpt"		: "95’nci Sûre"
     }
   
@@ -147,7 +219,7 @@
   
     ,{
       "title"			: "Alak",
-      "link"			: "http://localhost:4000/Alak-Suresi/",
+      "link"			: "https://jeruselam.github.io/Alak-Suresi/",
       "excerpt"		: "96’ncı Sûre"
     }
   
@@ -155,7 +227,7 @@
   
     ,{
       "title"			: "Kadir",
-      "link"			: "http://localhost:4000/Kadir-Suresi/",
+      "link"			: "https://jeruselam.github.io/Kadir-Suresi/",
       "excerpt"		: "97’nci Sûre"
     }
   
@@ -163,7 +235,7 @@
   
     ,{
       "title"			: "Beyyine",
-      "link"			: "http://localhost:4000/Beyyine-Suresi/",
+      "link"			: "https://jeruselam.github.io/Beyyine-Suresi/",
       "excerpt"		: "98’nci Sûre"
     }
   
@@ -171,7 +243,7 @@
   
     ,{
       "title"			: "Zilzâl",
-      "link"			: "http://localhost:4000/Zilzal-Suresi/",
+      "link"			: "https://jeruselam.github.io/Zilzal-Suresi/",
       "excerpt"		: "99’ncu Sûre"
     }
   
@@ -179,7 +251,7 @@
   
     ,{
       "title"			: "Âdiyât",
-      "link"			: "http://localhost:4000/Adiyat-Suresi/",
+      "link"			: "https://jeruselam.github.io/Adiyat-Suresi/",
       "excerpt"		: "100’ncü Sûre"
     }
   
@@ -187,7 +259,7 @@
   
     ,{
       "title"			: "Kâria",
-      "link"			: "http://localhost:4000/Karia-Suresi/",
+      "link"			: "https://jeruselam.github.io/Karia-Suresi/",
       "excerpt"		: "101’nci Sûre"
     }
   
@@ -195,7 +267,7 @@
   
     ,{
       "title"			: "Tekâsur",
-      "link"			: "http://localhost:4000/Tekasur-Suresi/",
+      "link"			: "https://jeruselam.github.io/Tekasur-Suresi/",
       "excerpt"		: "102’nci Sûre"
     }
   
@@ -203,7 +275,7 @@
   
     ,{
       "title"			: "Asr",
-      "link"			: "http://localhost:4000/Asr-Suresi/",
+      "link"			: "https://jeruselam.github.io/Asr-Suresi/",
       "excerpt"		: "103’nci Sûre"
     }
   
@@ -211,7 +283,7 @@
   
     ,{
       "title"			: "Humeze",
-      "link"			: "http://localhost:4000/Humeze-Suresi/",
+      "link"			: "https://jeruselam.github.io/Humeze-Suresi/",
       "excerpt"		: "104’ncü Sûre"
     }
   
@@ -219,7 +291,7 @@
   
     ,{
       "title"			: "Fîl",
-      "link"			: "http://localhost:4000/Fil-Suresi/",
+      "link"			: "https://jeruselam.github.io/Fil-Suresi/",
       "excerpt"		: "105’nci Sûre"
     }
   
@@ -227,7 +299,7 @@
   
     ,{
       "title"			: "Kureyş",
-      "link"			: "http://localhost:4000/Kureys-Suresi/",
+      "link"			: "https://jeruselam.github.io/Kureys-Suresi/",
       "excerpt"		: "106’nci Sûre"
     }
   
@@ -235,7 +307,7 @@
   
     ,{
       "title"			: "Mâûn",
-      "link"			: "http://localhost:4000/Maun-Suresi/",
+      "link"			: "https://jeruselam.github.io/Maun-Suresi/",
       "excerpt"		: "107’nci Sûre"
     }
   
@@ -243,7 +315,7 @@
   
     ,{
       "title"			: "Kevser",
-      "link"			: "http://localhost:4000/Kevser-Suresi/",
+      "link"			: "https://jeruselam.github.io/Kevser-Suresi/",
       "excerpt"		: "107’nci Sûre"
     }
   
@@ -251,7 +323,7 @@
   
     ,{
       "title"			: "Kafirun",
-      "link"			: "http://localhost:4000/Kafirun-Suresi/",
+      "link"			: "https://jeruselam.github.io/Kafirun-Suresi/",
       "excerpt"		: "109’ncu Sûre"
     }
   
@@ -259,7 +331,7 @@
   
     ,{
       "title"			: "Nasr",
-      "link"			: "http://localhost:4000/Nasr-Suresi/",
+      "link"			: "https://jeruselam.github.io/Nasr-Suresi/",
       "excerpt"		: "110’ncu Sûre"
     }
   
@@ -267,7 +339,7 @@
   
     ,{
       "title"			: "Tebbet",
-      "link"			: "http://localhost:4000/Tebbet-Suresi/",
+      "link"			: "https://jeruselam.github.io/Tebbet-Suresi/",
       "excerpt"		: "111’ncu Sûre"
     }
   
@@ -275,7 +347,7 @@
   
     ,{
       "title"			: "İhlâs",
-      "link"			: "http://localhost:4000/Ihlas-Suresi/",
+      "link"			: "https://jeruselam.github.io/Ihlas-Suresi/",
       "excerpt"		: "112’nci Sûre"
     }
   
@@ -283,7 +355,7 @@
   
     ,{
       "title"			: "Felak",
-      "link"			: "http://localhost:4000/Felak-Suresi/",
+      "link"			: "https://jeruselam.github.io/Felak-Suresi/",
       "excerpt"		: "113’ncü Sûre"
     }
   
@@ -291,7 +363,7 @@
   
     ,{
       "title"			: "Nâs",
-      "link"			: "http://localhost:4000/Nas-Suresi/",
+      "link"			: "https://jeruselam.github.io/Nas-Suresi/",
       "excerpt"		: "114’ncü Sûre"
     }
   
@@ -303,31 +375,11 @@
   
 
   
-    ,{
-      "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
-      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
-    }
-  
 
   
 
   
-    ,{
-      "title"			: "Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)",
-      "link"			: "http://localhost:4000/zoology/",
-      "excerpt"		: "Zoology"
-    }
-  
 
-  
-
-  
-    ,{
-      "title"			: "About me",
-      "link"			: "http://localhost:4000/about/",
-      "excerpt"		: "About to"
-    }
   
 
   
@@ -335,19 +387,11 @@
   
 
   
-    ,{
-      "title"			: "Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)",
-      "link"			: "http://localhost:4000/botany/",
-      "excerpt"		: "Botany"
-    }
+
   
 
   
-    ,{
-      "title"			: "Kafatası Fosillerinden Örnekler",
-      "link"			: "http://localhost:4000/anthropology/",
-      "excerpt"		: "Anthropology"
-    }
+
   
 
   
