@@ -32,5 +32,5 @@ sitemap: false
     {% endfor %}
   };
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.3/lunr.min.js"></script>
+<script src="cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.3/lunr.min.js"></script>
 <script src="/js/search.js"></script>
