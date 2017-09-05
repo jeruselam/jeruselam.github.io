@@ -1,7 +1,6 @@
 # Site wide configuration
 
 title: Kur'an-ı Kerim
-locale: tr_TR
 description: Türkçe Tercümesi
 logo: muhur.png
 search: true
@@ -11,7 +10,15 @@ author:
   url: https://jeruselam.github.io
   email: admin@jeruselam.github.io
 
+# Location
+
+address: Türkiye
+locale: tr_TR
+languages: ['en', 'tr']
+language_default: 'tr'
+
 # Jekyll configuration
+
 encoding: utf-8
 safe: bool
 timezone: Europe/Istanbul
