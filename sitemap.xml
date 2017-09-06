@@ -1,267 +1,334 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>https://jeruselam.github.io/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/about/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/botany/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/zoology/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/anthropology/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/search/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Fatiha-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Naziat-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Abese-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Tekvir-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Infitar-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Mutaffifin-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Insikak-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Buruc-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Tarik-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Ala-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Gasiye-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Fecr-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Beled-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Sems-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Leyl-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Duha-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Insirah-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Tin-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Alak-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Kadir-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Beyyine-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Zilzal-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Adiyat-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Karia-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Tekasur-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Asr-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Humeze-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Fil-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Kureys-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Maun-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Kevser-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Kafirun-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Nasr-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Tebbet-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Ihlas-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Felak-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jeruselam.github.io/Nas-Suresi/</loc>
-  <lastmod>2017-09-03T10:46:54+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
-</url>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--Url Extract: 55-->
+  <url>
+    <loc>https://jeruselam.github.io/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/about/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/botany/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/zoology/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/anthropology/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/search/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/find/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/fatiha-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/hakka-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/mearic-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/nuh-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/cinn-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/muzzemmil-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/muddessir-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/kiyame-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/insan-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/murselat-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/nebe-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/naziat-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/abese-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/tekvir-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/infitar-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/mutaffifin-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/insikak-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/buruc-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/tarik-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/ala-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/gasiye-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/fecr-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/beled-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/sems-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/leyl-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/duha-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/insirah-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/tin-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/alak-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/kadir-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/beyyine-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/zilzal-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/adiyat-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/karia-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/tekasur-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/asr-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/humeze-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/fil-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/kureys-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/maun-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/kevser-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/kafirun-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/nasr-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/tebbet-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/ihlas-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/felak-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/nas-suresi/</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jeruselam.github.io/feed.xml</loc>
+    <lastmod>2017-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
