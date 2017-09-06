@@ -13,9 +13,9 @@
       }
 
       searchResults.innerHTML = appendString;
+      resultsCount.append(searchResults.length + (searchResults.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
     } else {
       searchResults.innerHTML = '<li>Sonuç bulunamadı</li>';
-      resultsCount.append(searchResults.length + (searchResults.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
     }
   }
 	
