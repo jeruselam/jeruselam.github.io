@@ -33,5 +33,4 @@ sitemap: false
   };
 </script>
 <script src="/js/lunr.min.js"></script>
-<script src="/js/jquery.min.js"></script>
 <script src="/js/search.js"></script>
