@@ -13,7 +13,11 @@
       }
 
       searchResults.innerHTML = appendString;
-      resultsCount.append(results.length + (results.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
+
+      resultCount = resultsCount.append(results.length + (results.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
+     resultsCount.innerHTML = resultCount;
+
+
     } else {
       searchResults.innerHTML = '<li>Sonuç bulunamadı</li>';
     }
