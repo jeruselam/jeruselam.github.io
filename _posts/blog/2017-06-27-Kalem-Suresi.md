@@ -9,13 +9,13 @@ lang: tr
 
 ## 68. Kalem Sûresi
 
-(1) Nun, kaleme andolsun ve yazdıklarına.,
-(2) Rabbinin ni’metiyle cinlenmiş (deli) değilsin sen,
-(3) ve şüphesiz kesintisi olmayan bir mükafat senin için vardır,
+(1) Nun, kaleme andolsun ve yazdıklarına.
+(2) Sen Rabb'inin ni’metiyle cinlenmiş (deli) değilsin,
+(3) ve şüphesiz senin için kesintisi olmayan bir mükafat  vardır,
 (4) ve şüphesiz sen büyük bir ahlak üzerindesin,
 (5) göreceksin, onlar da görecekler
 (6) hanginiz fitnelenmiştir.
-(7) Şüphesiz Rabbin O’dur, en iyi bilen, kim(ler) kendi yolundan  sapmıştır ve doğru yoldadır en iyi bilen O’dur, 
+(7) Şüphesiz Rabbin O’dur en iyi bilen, kim(ler) kendi yolundan  sapmıştır ve doğru yoldadır en iyi bilen O’dur, 
 (8) öyleyse yalanlayanlara ita’at etme,
 (9) istediler ki, keşke sen yağcılık yapasın, onlar da yağcılık yapsınlar,
 (10) ve aşağılık, yemin edip duran, hiçbirine ita’at etme, 
@@ -27,7 +27,7 @@ lang: tr
 (16) biz onu, burnunun üzerini, damgalayacağız.	
 (17) Elbette biz, bahçe sahiplerine bela verdiğimiz gibi bunlara da bela verdik, hani onlar sabah olunca bahçeyi mutlaka devşireceklerine yemin etmişlerdi,
 (18) ve istisna da etmiyorlardı,
-(19) fakat Rabbinden dolaşıcı bir bela onu sardı ve onlar uyurlarken,
+(19) fakat onu Rabbinden dolaşıcı bir bela  sardı ve onlar uyurlarken,
 (20) (bahçe) simsiyah kesiliverdi,
 (21) sabahleyin birbirlerine seslendiler,
 (22) eğer devşirecekseniz, ekininize erkenden gidin diye,
