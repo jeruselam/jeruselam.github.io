@@ -1,7 +1,6 @@
 (function() {
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
-    var resultsCount = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
       var appendString = '';
@@ -13,7 +12,7 @@
       }
 
       searchResults.innerHTML = appendString;
-      resultsCount.append(searchResults.length + (searchResults.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
+      results.append(results.length + (results.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
     } else {
       searchResults.innerHTML = '<li>Sonuç bulunamadı</li>';
     }
