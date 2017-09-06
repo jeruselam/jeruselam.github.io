@@ -5,7 +5,6 @@ description: Türkçe Tercümesi
 logo: muhur.png
 search: true
 url: https://jeruselam.github.io
-baseurl: ""
 author:
   name: Kur'an-ı Kerim - Türkçe Tercümesi
   url: https://jeruselam.github.io
@@ -60,7 +59,7 @@ owner:
   disqus-shortname: 
   twitter: 
   facebook: 
-  github: jeruselam
+  github: 
   stackexchange: 
   linkedin: 
   instagram: 
