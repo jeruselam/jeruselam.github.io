@@ -74,3 +74,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+# Site Info
+license_name: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+license_url: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+development_mode: true
+development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduüunuz hataları github sitesi üzerinden bildirebilirsiniz.
+
