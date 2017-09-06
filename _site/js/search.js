@@ -12,11 +12,12 @@
       }
 
       searchResults.innerHTML = appendString;
+      results.append(results.length + (results.length === 1 ? ' result' : ' results') + ' for "' + query.get() +'"');
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = '<li>Sonuç bulunamadı</li>';
     }
   }
-
+	
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split('&');
