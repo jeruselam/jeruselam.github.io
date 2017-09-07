@@ -59,5 +59,5 @@ lang: tr
 (48) Rabbinin hükmüne sen sabret ve balık sahibi gibi (Yunus) olma ve o sıkıntıdan yutkunarak hani seslenmişti,
 (49) eğer Rabbinden bir ni’metin ona yetişmesi olmasaydı ve o  kınanarak çıplak bir yere, elbette atılırdı,
 (50) Rabbi onun du’asını kabul etti ve onu salihlerden yaptı.
-(51) Ve inkar eden(ler) kimseler Zikr(Kur’an)’ı işittikleri zaman neredeyse gözleriyle seni devireceklerdi ve şüphesiz O mecnundur diyorlardı,
+(51) Ve inkar eden(ler) kimseler Zikr(Kur’an)’ı işittikleri zaman neredeyse seni gözleriyle devireceklerdi ve şüphesiz O mecnundur diyorlardı,
 (52) halbuki o alemler için uyarıdan başka bir şey değildir.
