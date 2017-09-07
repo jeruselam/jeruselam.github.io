@@ -23,7 +23,7 @@ sitemap: false
 </head>
 
 <body>
-	Rasgele bir Sûreye 
+	Bir Sûreye rasgele 
 	<script>
 		document.write("<a href=\"");
 		document.write(posts[Math.floor(Math.random() * posts.length)]);
