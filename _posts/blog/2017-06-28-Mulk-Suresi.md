@@ -17,7 +17,7 @@ lang: tr
 (6) cehennem azabı Rablerini inkar edenler için vardır ve ne kötü gidilecek sonuçtur 
 (7) oraya atıldıkları zaman o kaynıyor ve onun homurtusunu işitirler 
 (8) topluluk onun içine atıldıkça her biri öfkeden neredeyse çatlayacak onun bekçileri onlara sordu(lar), bir uyarıcı size gelmedi mi?
-(9) evet dediler andolsun bize uyarıcı geldi ama biz yalanladık ve dedik ki Allah hiçbir indirmedi hayır siz ancak büyük bir sapıklık içindesiniz
+(9) evet dediler andolsun bize uyarıcı geldi ama biz yalanladık ve dedik ki Allah hiçbir şey indirmedi hayır siz ancak büyük bir sapıklık içindesiniz
 (10) ve dediler ki eğer biz söz dinleseydik yahut düşünseydik, çılgın ateşin halkı arasında bulunmazdık
 (11) günahlarını itiraf ettiler, çılgın ateş halkı uzak olsun
 (12) görmedikleri halde Rablerine saygılı olan(lar) kimseler, şüphesiz bağış(lama) ve büyük mükafat onlar için vardır
