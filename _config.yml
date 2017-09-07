@@ -50,6 +50,13 @@ keep_files: ["/images", "favicon.png", ".git"]
 
 # Conversion
 incremental: bool
+destination: ./_site
+layouts_dir: ./_layouts
+
+sitemap:
+  changefreq: daily
+  priority:   0.5
+
 
 # Site owner
 owner:
