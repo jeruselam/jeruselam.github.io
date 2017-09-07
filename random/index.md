@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Rasgele"
+title: "Sûre"
 date: 
 modified:
 excerpt:
@@ -23,11 +23,11 @@ sitemap: false
 </head>
 
 <body>
-	Rasgele bir yayına 
+	Rasgele bir Sûreye 
 	<script>
 		document.write("<a href=\"");
 		document.write(posts[Math.floor(Math.random() * posts.length)]);
-		document.write("\">yönlendiriliyor</a>...");
+		document.write("\">yönlendiriliyorsunuz</a>...");
 	</script>
 </body>
 </html>
