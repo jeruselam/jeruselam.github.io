@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alfabetik Sıralama"
+title: "Alfabetik"
 date: 
 modified:
 excerpt:
