@@ -32,6 +32,6 @@ sitemap: false
     {% endfor %}
   };
 </script>
-<script src="/js/jquery-1.9.1.min.js"></script>
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="{{site.url}}/js/jquery-1.9.1.min.js"></script>
+<script src="{{site.url}}/js/lunr.min.js"></script>
+<script src="{{site.url}}/js/search.js"></script>
