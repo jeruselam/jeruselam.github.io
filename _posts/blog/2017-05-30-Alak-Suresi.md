@@ -4,6 +4,8 @@ title: Alak
 excerpt: "96'ncı Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Alak
 ---
 
 ## 96. Alak Sûresi

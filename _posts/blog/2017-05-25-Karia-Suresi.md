@@ -4,6 +4,8 @@ title: Kâria
 excerpt: "101'nci Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Kâria
 ---
 
 ## 101. Kâria Sûresi

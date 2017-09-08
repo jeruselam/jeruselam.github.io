@@ -4,6 +4,8 @@ title: Humeze
 excerpt: "104'ncü Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Humeze
 ---
 
 ## 104. Humeze Sûresi

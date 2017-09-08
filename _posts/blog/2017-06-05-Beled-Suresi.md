@@ -4,6 +4,8 @@ title: Beled
 excerpt: "90'ncı Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Beled
 ---
 
 ## 90. Beled Sûresi

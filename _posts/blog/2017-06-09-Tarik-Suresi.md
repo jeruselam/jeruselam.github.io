@@ -4,6 +4,8 @@ title: Târık
 excerpt: "86'ncı Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Târık
 ---
 
 ## 86. Târık Sûresi
