@@ -1,1 +1,5 @@
 Sitemap: https://jeruselam.github.io/sitemap.xml
+
+
+# robotstxt.org/
+User-agent: *
