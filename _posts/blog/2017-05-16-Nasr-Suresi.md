@@ -4,6 +4,8 @@ title: Nasr
 excerpt: "110'ncu Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
+tag: 
+ - Nasr
 ---
 
 ## 110. Nasr Sûresi
