@@ -9,7 +9,7 @@ encoding: utf-8
 ## 64. Tegâbun Sûresi
 
 (1) Göklerde bulunanlar ve yerde bulunanlar Allah’ı tesbih etmektedir, mülk O’nundur ve hamd O’nundur ve O her şey üzerine kadirdir.
-(2) Sizi yaratan O’dur, kiminiz mü’min ve kiminiz kafirdir ve Allah yaptıklarınız şeyleri görmektedir
+(2) Sizi yaratan O’dur, kiminiz mü’min ve kiminiz kafirdir ve Allah yaptıklarınız şeyleri görmektedir.
 (3) Hak (hikmet) ile gökleri ve yeri yarattı ve sizi biçimlendirdi, biçimlerinizi güzel yaptı ve dönüş O’nadır.
 (4) Göklerde ve yerde bulunanları bilir ve gizlediğiniz şeyleri  ve açığa vurduğunuz şeyleri bilir ve Allah göğüslerin özünü bilendir.
 (5) Daha önceden inkar etmiş olanların haberi size gelmedi mi? İşlerinin vebalini taddılar ve onlar için acı bir azab vardır.
@@ -19,7 +19,7 @@ encoding: utf-8
 (9) Toplanma günü için sizi topladığı gün, işte o aldanma günüdür ve Allah’a kim inanırsa ve yararlı iş yaparsa onun kötülüklerini örter ve onu altlarından ırmaklar akan cennetlere sokar, orada ebedi kalırlar işte büyük başarı budur.
 (10) Ve inkar eden(ler) kimseler ve ayetlerimizi yalanlayanlar işte onlar ateş halkıdır orada sürekli kalacaklardır, orası ne kötü gidilecek yerdir. 
 (11) Allah’ın izni dışında hiçbir musibet isabet etmez ve Allah’a kim inanırsa onun kalbini doğruya iletir ve Allah her şeyi bilendir.
-(12) o halde Allah’a ita’at edin ve Elçiye ita’at edin, eğer dönerseniz şüphesiz Elçimize düşen açıkça duyurmaktır.
+(12) O halde Allah’a ita’at edin ve Elçiye ita’at edin, eğer dönerseniz şüphesiz Elçimize düşen açıkça duyurmaktır.
 (13) Allah (ki) O’ndan başka tanrı yoktur ve mü’minler Allah’a dayansınlar.
 (14) Ey inanan(lar) kimseler şüphesiz eşlerinizden ve çocuklarınızdan (bazıları) size düşmandır, onlardan sakının ama affederseniz ve hoşgörürseniz ve bağışlarsanız muhakkak ki Allah (da) bağışlayandır, esirgeyendir.
 (15) Elbette mallarınız ve evladlarınız bir imtihandır, Allah ise, büyük ödül O’nun yanındadır.
