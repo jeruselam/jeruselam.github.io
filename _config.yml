@@ -1,35 +1,37 @@
 # Site wide configuration
 
-description: Türkçe Tercümesi
-title: Kur'an-ı Kerim
-logo: muhur.png
-search: true
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://jeruselam.github.io
+description       : Türkçe Tercümesi
+title             : Kur'an-ı Kerim
+logo              : muhur.png
+search            : true
+baseurl           : "" # the subpath of your site, e.g. /blog/
+url               : https://jeruselam.github.io
 author:
-  name: Kur'an-ı Kerim - Türkçe Tercümesi
-  url: https://jeruselam.github.io
-  email: admin@jeruselam.github.io
+  name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
+  url             : https://jeruselam.github.io
+  email           : admin@jeruselam.github.io
+  bio             : "Just another tattooed, time traveling designer."
+  picture         : "/images/muhur.png"
 
 # Location
 
-address: Türkiye
-locale: tr_TR
-languages: ['en', 'tr']
-language_default: 'tr'
+address           : Türkiye
+locale            : tr_TR
+languages         : ['en', 'tr']
+language_default  : 'tr'
 
 # Jekyll configuration
 
-enforce_ssl: jeruselam.github.io
-encoding: utf-8
-safe: bool
-timezone: Europe/Istanbul
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
+enforce_ssl       : jeruselam.github.io
+encoding          : utf-8
+safe              : bool
+timezone          : Europe/Istanbul
+permalink         :   /:categories/:title/
+markdown          :    kramdown
+highlighter       : rouge
 sass:
-  sass_dir: _sass
-  style: compressed
+  sass_dir        : _sass
+  style           : compressed
 plugins_dir:
   - jekyll-sitemap
   - jekyll-gist
@@ -37,14 +39,14 @@ plugins_dir:
   - jekyll-seo-tag
 
 kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+  input           : GFM
+  auto_ids        : true
+  footnote_nr     : 1
+  entity_output   : as_char
+  toc_levels      : 1..2
+  enable_coderay  : false
 
-mathjax: true
+mathjax           : true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -85,9 +87,9 @@ owner:
   bing-verify:
 
 # Site Info
-license_name: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-license_url: http://creativecommons.org/licenses/by-nc-sa/3.0/
+license_name       : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+license_url        : http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-development_mode: true
+development_mode   : true
 development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduüunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
