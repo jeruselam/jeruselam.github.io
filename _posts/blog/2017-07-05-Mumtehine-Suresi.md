@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Mumtehine
 excerpt: "60'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
