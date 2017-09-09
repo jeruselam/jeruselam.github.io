@@ -11,7 +11,7 @@ author:
   url             : https://jeruselam.github.io
   email           : admin@jeruselam.github.io
   bio             : "Just another tattooed, time traveling designer."
-  picture         : "/images/muhur.png"
+  picture         : "/images/muhur2.png"
 
 # Location
 
@@ -26,8 +26,8 @@ enforce_ssl       : jeruselam.github.io
 encoding          : utf-8
 safe              : bool
 timezone          : Europe/Istanbul
-permalink         :   /:categories/:title/
-markdown          :    kramdown
+permalink         : /:categories/:title/
+markdown          : kramdown
 highlighter       : rouge
 sass:
   sass_dir        : _sass
@@ -48,18 +48,18 @@ kramdown:
 
 mathjax           : true
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-keep_files: ["/images", "favicon.png", ".git"]
+include           : [".htaccess"]
+exclude           : ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+keep_files        : ["/images", "favicon.png", ".git"]
 
 # Conversion
-incremental: bool
-destination: ./_site
-layouts_dir: ./_layouts
+incremental       : bool
+destination       : ./_site
+layouts_dir       : ./_layouts
 
 sitemap:
-  changefreq: daily
-  priority:   0.5
+  changefreq      : daily
+  priority        :   0.5
 
 
 # Site owner
