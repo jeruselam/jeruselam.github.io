@@ -14,7 +14,7 @@ tag:
 (2) Nihayet, kabirleri ziyaret ettiniz.
 (3) Hayır, yakında bileceksiniz.
 (4) Sonra hayır, yakında bileceksiniz. 
-(5) Hayır, keşke kesin bilgi ile bilseydiniz. 
-(6) Mutlaka cehennemi görürdünüz.	
+(5) Hayır, keşke kesin bilgi ile bilseydiniz, 
+(6) mutlaka cehennemi görürdünüz.	
 (7) Sonra onu, kesin olarak, gözle göreceksiniz. 
 (8) Sonra o gün, ni’metlerden sorulacaksınız.

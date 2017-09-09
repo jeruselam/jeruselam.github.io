@@ -10,6 +10,78 @@
 
   
     ,{
+      "title"			: "Saff",
+      "link"			: "https://jeruselam.github.io/Saff-Suresi/",
+      "excerpt"		: "61’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Cuma",
+      "link"			: "https://jeruselam.github.io/Cuma-Suresi/",
+      "excerpt"		: "62’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Munâfikûn",
+      "link"			: "https://jeruselam.github.io/Munafikun-Suresi/",
+      "excerpt"		: "63’ncü Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Tegâbun",
+      "link"			: "https://jeruselam.github.io/Tegabun-Suresi/",
+      "excerpt"		: "64’ncı Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Tâlak",
+      "link"			: "https://jeruselam.github.io/Talak-Suresi/",
+      "excerpt"		: "65’ncı Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Tahrîm",
+      "link"			: "https://jeruselam.github.io/Tahrim-Suresi/",
+      "excerpt"		: "66’ncı Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Mulk",
+      "link"			: "https://jeruselam.github.io/Mulk-Suresi/",
+      "excerpt"		: "67’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Kalem",
+      "link"			: "https://jeruselam.github.io/Kalem-Suresi/",
+      "excerpt"		: "68’nci Sûre"
+    }
+  
+
+  
+    ,{
+      "title"			: "Hâkka",
+      "link"			: "https://jeruselam.github.io/Hakka-Suresi/",
+      "excerpt"		: "69’ncu Sûre"
+    }
+  
+
+  
+    ,{
       "title"			: "Meâric",
       "link"			: "https://jeruselam.github.io/Mearic-Suresi/",
       "excerpt"		: "70’nci Sûre"
@@ -369,6 +441,14 @@
   
 
 
+
+  
+
+  
+
+  
+
+  
 
   
 
