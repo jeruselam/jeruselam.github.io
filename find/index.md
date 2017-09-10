@@ -19,7 +19,7 @@ sitemap: false
 	<input type="submit" value="Bul" style="display: true;">
 </form>
 
-<p><span id="search-process">Loading</span> results <span id="search-query-container" style="display: none;">for "<strong id="search-query"></strong>"</span></p>
+<p><span id="search-process">Sonuçlar</span> getiriliyor <span id="search-query-container" style="display: none;">for "<strong id="search-query"></strong>"</span></p>
 <ul id="search-results"></ul>
 
 <script>
