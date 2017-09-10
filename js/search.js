@@ -72,7 +72,7 @@ layout: null
 				resultsHTML += "<li><h4><a href='{{ site.baseurl }}" + item.url.trim() + "'>" + titlePreview + "</a></h4><p><small>" + contentPreview + "</small></p></li>";
 			});
 
-			searchProcessEl.innerText = "gösteriliyor";
+			searchProcessEl.innerText = "";
 			searchResultsEl.innerHTML = resultsHTML;
 		} else {
 			searchResultsEl.style.display = "none";
