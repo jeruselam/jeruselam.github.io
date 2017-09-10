@@ -3,7 +3,7 @@
 description       : Türkçe Tercümesi
 title             : Kur'an-ı Kerim
 logo              : muhur.png
-search            : true
+search            : false
 baseurl           : "" # the subpath of your site, e.g. /blog/
 url               : https://jeruselam.github.io
 author:
