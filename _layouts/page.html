@@ -36,7 +36,8 @@
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
-        <a href="{{ site.url }}{{ page.url }}" class="btn" title="{{ page.title }}">Yukarı</a>
+        <a href="#page" class="btn" title="{{ page.title }}">Yukarı</a>
+        <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#page"><i class="fa fa-angle-double-up no-print"></i></a>
     </nav><!-- /.pagination -->
 
 <!-- /#infinitive scroll -->
