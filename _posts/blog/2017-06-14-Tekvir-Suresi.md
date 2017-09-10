@@ -38,4 +38,4 @@ tag:
 (26) o halde nereye? Gidiyorsunuz,
 (27) hayır, O ancak alemlere öğüttür,
 (28) aranızdan doğru hareket etmek isteyen kimse için.
-(29) Ve alemlerin Rabbi Allah(ın) dilemesi dışında siz dileyemezsiniz.
+(29) Ve alemlerin Rabbi Allah'(ın) dilemesi dışında siz dileyemezsiniz.
