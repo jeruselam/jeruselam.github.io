@@ -42,6 +42,7 @@
       <header class="entry-header">
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
+      <center><a href="#Bot"><i class="fa fa-angle-double-down no-print"></i></a></center>
       <div class="entry-content">
         {{ content }}
       </div><!-- /.entry-content -->
@@ -99,7 +100,7 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 </script><!-- /.Back-top -->
-
+<a id="Bot">
 {% include scripts.html %}
 {% include analytics.html %}
 </body>
