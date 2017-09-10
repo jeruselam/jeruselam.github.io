@@ -72,8 +72,8 @@ layout: null
 				resultsHTML += "<li><h4><a href='{{ site.baseurl }}" + item.url.trim() + "'>" + titlePreview + "</a></h4><p><small>" + contentPreview + "</small></p></li>";
 			});
 
-			searchProcessEl.innerText = "gösteriliyor";
 			searchResultsEl.innerHTML = resultsHTML;
+			searchProcessEl.innerText = "gösteriliyor";
 		} else {
 			searchResultsEl.style.display = "none";
 			searchProcessEl.innerText = "bulunamadı";
