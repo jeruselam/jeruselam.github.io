@@ -76,7 +76,7 @@ layout: null
 			searchResultsEl.innerHTML = resultsHTML;
 		} else {
 			searchResultsEl.style.display = "none";
-			searchProcessEl.innerText = "No";
+			searchProcessEl.innerText = "";
 		}
 	}
 
