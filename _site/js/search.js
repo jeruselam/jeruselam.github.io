@@ -69,11 +69,11 @@
 				resultsHTML += "<li><h4><a href='" + item.url.trim() + "'>" + titlePreview + "</a></h4><p><small>" + contentPreview + "</small></p></li>";
 			});
 
-			searchProcessEl.innerText = "gösteriliyor";
 			searchResultsEl.innerHTML = resultsHTML;
+			searchProcessEl.innerText = "Sonuç gösteriliyor";
 		} else {
 			searchResultsEl.style.display = "none";
-			searchProcessEl.innerText = "No";
+			searchProcessEl.innerText = "Sonuç bulunamadı";
 		}
 	}
 
