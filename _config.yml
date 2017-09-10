@@ -64,13 +64,13 @@ sitemap:
 
 # Site owner
 owner:
-  name: Jeruselam
-  avatar: mudur.png
+  name           : Jeruselam
+  avatar         : mudur.png
   email: 
   disqus-shortname: 
   twitter: 
   facebook: 
-  github: Jeruselam
+  github        : Jeruselam
   stackexchange: 
   linkedin: 
   instagram: 
@@ -87,9 +87,9 @@ owner:
   bing-verify:
 
 # Site Info
-license_name       : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-license_url        : http://creativecommons.org/licenses/by-nc-sa/3.0/
+license_name     : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+license_url      : http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-development_mode   : true
+development_mode : true
 development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduüunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
