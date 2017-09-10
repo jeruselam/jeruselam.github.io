@@ -73,10 +73,10 @@ layout: null
 			});
 
 			searchResultsEl.innerHTML = resultsHTML;
-			searchProcessEl.innerText = "gösteriliyor";
+			searchProcessEl.innerText = "sonuç gösteriliyor";
 		} else {
 			searchResultsEl.style.display = "none";
-			searchProcessEl.innerText = "bulunamadı";
+			searchProcessEl.innerText = "sonuç bulunamadı";
 		}
 	}
 
