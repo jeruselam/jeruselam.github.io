@@ -221,7 +221,18 @@
       
         <a href="https://jeruselam.github.io/Kalem-Suresi/" class="btn" title="Kalem">Önceki</a>
       
-    </nav><!-- /.pagination --><!-- /#main -->
+    </nav><!-- /.pagination -->
+
+<script src="/js/jquery-1.11.3.js"></script>
+<script src="/js/jquery.jscroll-2.3.9.js"></script>
+
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+$('.content').jscroll({
+    contentSelector: ".content",
+    nextSelector: '.next'
+});
+</script><!-- /#main -->
 
 <div class="footer-wrapper">
   <footer role="contentinfo" class="entry-wrapper">
