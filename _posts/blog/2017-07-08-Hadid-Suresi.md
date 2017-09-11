@@ -9,16 +9,16 @@ tag:
 
 ## 57. Hadîd Sûresi
 
-(1) Allah’ı göklerde ve yerde bulunan her şey tesbih etmiştir, O azizdir, hakimdir
+(1) Allah’ı göklerde ve yerde bulunan her şey, tesbih etmiştir, O azizdir, hakimdir
 (2) Göklerin ve yerin mülkü O’nundur, yaşatır ve öldürür ve O her şey üzerine kadirdir.
 (3) O ilktir ve sondur ve zahirdir ve batındır ve O her şeyi bilendir.
-(4) Altı günde gökleri ve yeri yaratan sonra Arş üzerine oturan O’dur, yere giren şeyi ve ondan çıkan şeyi ve gökten inen şeyi ve ona çıkan şeyi ve O nerede olsanız sizinle beraberdir, Allah yaptıklarınız şeyleri görmektedir. 
+(4) Altı günde gökleri ve yeri yaratan sonra Arş üzerine oturan O’dur, yere giren şeyi  ve ondan çıkan şeyi ve gökten inen şeyi ve ona çıkan şeyi bilir ve O nerede olsanız sizinle beraberdir, Allah yaptıklarınız şeyleri görmektedir. 
 (5) Göklerin ve yerin mülkü O’nundur ve Allah’a bütün işler döndürülecektir.	
 (6) Geceyi gündüzün içine sokar ve gündüzü gecenin içine sokar ve O göğüslerin özünü bilir.
 (7) Allah’a ve Elçisine inanın ve sizi onda hakim kıldığı şeylerden sizden inanan(lara) kimselere infak edin ve infak edenlere onlar için büyük mükafat vardır.
 (8) Ve eğer inananlar iseniz ve elçi sizi Rabbinize inanmağa çağırdığı (halde) ve muhakkak sizin sağlam sözünüzü aldığı (halde) Allah’a güvenmiyorsunuz, size ne? oluyor.
 (9) Sizi karanlıklardan aydınlığa çıkarmak için kulu üzerine açık açık ayetler indiren O’dur ve şüphesiz Allah size karşı çok şefkatlidir, çok merhametlidir.
-(10) Ve size ne? oluyor, Allah yolunda infak etmiyorsunuz, göklerin ve yerin mirası zaten Allah’ındır, içinizden fetihden önce, infak eden kimseler ve savaşanlar bir olmaz, sonradan infak eden(ler) kimselerden ve savaşanlar(dan) onların derecesi daha büyüktür ve Allah hepsine en güzel (sonucu) va’detmiştir ve Allah yaptıklarınız şeyleri haber almaktadır.
+(10) Ve size ne? oluyor, Allah yolunda infak etmiyorsunuz, göklerin ve yerin mirası zaten Allah’ındır, içinizden fetihden önce infak eden kimseler ve savaşanlar bir olmaz, onların derecesi sonradan infak eden(ler) kimselerden ve savaşanlar(dan) daha büyüktür ve Allah hepsine en güzel (sonucu) va’detmiştir ve Allah yaptıklarınız şeyleri haber almaktadır.
 (11) Allah’a güzel bir borç ile borç verecek olan kimse kimdir? Ki o  ona kat kat değerli bir mükafat artırsın 
 (12) O gün inanan erkekleri ve inanan kadınları ışıkları önlerinde, önlerinde ve sağlarında koşar durumda görürsün, bugün müjdeniz, içinde ebedi kalacağınız altlarından ırmaklar akan cennetlerdir, işte o büyük başarı, budur
 (13) o gün münafık erkekler ve münafık kadınlar mü’minlere derler ki, bize bakın, sizin nurunuzdan yararlanalım denilir ki, arkanıza dönün ve nur arayın, sonra aralarına kapısı olan bir sur çekilir, onun içinde rahmet ve dış yönünde azab vardır.
