@@ -10,7 +10,7 @@ tag:
 ## 58. Mucâdele Sûresi
 
 (1) Andolsun, Allah seninle kocası hakkında tartışan ve Allah’a şikayette bulunan (kadının) sözünü işitti ve Allah ikinizin konuşmanızı işitir, çünkü Allah işitendir, görendir.
-(2) Sizden kadınlara zıhar eden(ler) kimseler (bilsinler ki), onlar, onların anaları değildir, onları doğuranlar dışındakiler onlar, onların anaları değildir ve onlar sözden çirkin ve yalan (olanı) söylüyorlar ve şüphesiz Allah affedicidir, bağışlayıcıdır.
+(2) Sizden kadınlara zıhar eden(ler) kimseler (bilsinler ki), onlar onların anaları değildir, onlar onları doğuranlar dışındakiler, onların anaları değildir ve onlar sözden çirkin ve yalan (olanı) söylüyorlar ve şüphesiz Allah affedicidir, bağışlayıcıdır.
 (3) Ve kadınlarına zıhar eden(ler) kimseler, sonra da söyledikleri şeylere dönenler, temaslarından önce bir köle hürriyete kavuşturmalıdırlar, onunla size öğütlenen budur, Allah yaptıklarınız şeyleri haber almaktadır.
 (4) İmkan bulamayan kimse temaslarından önce aralıksız olarak iki ay oruç tutmalıdır, (buna) gücü yetmeyen kimse altmış fakiri doyurmalıdır, bunlar Allah’a ve Elçisine inanmanız içindir ve bunlar Allah’ın sınırlarıdır ve kafirler için acıklı bir azab vardır.
 (5) Şüphesiz, Allah’a ve Elçisine karşı gelen(ler) kimseler, kendilerinden önceki kimselerin tepelendikleri gibi tepeleneceklerdir  ve andolsun, biz açık açık ayetler indirdik ve kafirler için küçük düşürücü bir azab vardır.
