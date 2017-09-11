@@ -7,6 +7,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
+<!-- BACK-TOP -->
 <style>
 #myBtn {
   display: none;
@@ -26,7 +27,7 @@
 #myBtn:hover {
   background-color: #555;
 }
-</style>
+</style> <!-- BACK-TOP -->
 <meta name="author" content="Vedat Demir" />
 <link href="http://jeruselam.github.io/sitemap.xml" rel="alternate" title="Vedat Demir" type="application/atom+xml" />
 </head>
@@ -41,7 +42,7 @@
     <div class="entry-wrapper">
       <header class="entry-header">
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
-      </header>
+      </header><a id="Top">
       <center><a href="#Bot"><i class="fa fa-angle-double-down no-print"></i></a></center>
       <div class="entry-content">
         {{ content }}
@@ -57,10 +58,8 @@
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
-        <!--a href="#page" class="btn" title="{{ page.title }}">Yukarı</a-->
-        <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="{{ site.url }}"><i class="fa fa-angle-double-up no-print"></i></a>
+        <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up no-print"></i></a>
     </nav><!-- /.pagination -->
-
 <!-- /#infinitive scroll -->
 <script type="text/javascript">
 // content selector is used to extract the additional items 
