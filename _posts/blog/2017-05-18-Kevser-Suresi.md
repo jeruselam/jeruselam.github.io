@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kevser
+description: Sûre
 excerpt: "107'nci Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
