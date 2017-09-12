@@ -1,18 +1,18 @@
-- title: HOME
+- title: KUR'AN
   url: /
-- title: ABOUT
+- title: HAKKINDA
   url: /about/
-- title: BOTANY
+- title: BİTKİ
   url: /botany/
-- title: ZOOLOGY
+- title: HAYVAN
   url: /zoology/
-- title: ANTHROPOLOGY
+- title: İNSAN
   url: /anthropology/
-- title: SEARCH
+- title: AYET BUL
   url: /search/
-- title: RANDOM
+- title: ŞANSLISIN
   url: /random/
-- title: SORTING
+- title: SIRALA
   url: /sorting/
-- title: TAG
+- title: BUL-UT
   url: /tag/
