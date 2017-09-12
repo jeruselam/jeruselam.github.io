@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tekâsur
+description: Sûre
 excerpt: "102'nci Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
 encoding: utf-8
