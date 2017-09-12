@@ -99,7 +99,7 @@ tag:
 (88) ama eğer yaklaştırılanlardan
 (89) (O’na) rahatlık (vardır) ve güzel rızık (vardır) ve cenneti ni’met (vardır),
 (90) ama eğer sağ ashabından ise,
-(91) selam sana sağ ashabından,
+(91) sağ ashabından selam sana ,
 (92) ama eğer sapık yalanlayıcılardan ise ,
 (93) kaynar sudan bir ziyafet,
 (94) ve cehenneme atılma (vardır),
