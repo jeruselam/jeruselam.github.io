@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)
+description: Botany
 excerpt: "Botany"
 modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
