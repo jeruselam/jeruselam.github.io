@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Tahrîm
+title: Tahrîm
+description: Sûre
 excerpt: "66'ncı Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
 encoding: utf-8
