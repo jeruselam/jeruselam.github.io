@@ -87,6 +87,12 @@ owner:
     ad-slot:
   bing-verify:
 
+#verifications
+
+webmaster_verifications:
+  google: t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s
+
+
 # Site Info
 license_name     : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 license_url      : http://creativecommons.org/licenses/by-nc-sa/3.0/
