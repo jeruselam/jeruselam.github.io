@@ -91,7 +91,7 @@ tag:
 (79) ona temizlerden başkası dokunmaz,
 (80) alemlerin Rabbinden indirilmiştir,
 (81) şimdi bunu mu? siz sözü küçümsüyorsunuz,
-(82) Ve rızkınızı sizin yalanlamanızdan (ibaret) kılıyorsunuz?
+(82) Ve rızkınızı, sizin yalanlamanızdan (ibaret) kılıyorsunuz?
 (83) Ya? (can) boğaza dayandığı zaman,
 (84) ve siz de o zaman bakıp durursunuz,
 (85) ve biz ona sizden daha yakınız, fakat siz görmezsiniz,
