@@ -29,9 +29,9 @@ tag:
 (17) göz(ü) şaşmadı ve azmadı,
 (18) andolsun Rabbinin büyük ayetlerinden bazılarını gördü,
 (19) Lat ve ’Uzza’yı gördünüz mü?
-(20) Ve Menat’ı? Öteki üçüncüsünü,
-(21) erkek size midir? ve O’na kadın,
-(22) bu o halde	insafsızca bir taksimdir,
+(20) Ve öteki üçüncüsünü Menat’ı?
+(21) Kadın O’na ve erkek size midir?
+(22) Bu o halde	insafsızca bir taksimdir,
 (23) onlar sizin ve babalarınızın isimlendirdiğiniz isimler(den) başka bir şey değildir, Allah onlara hiçbir güç indirmemiştir, onlar ancak zanna ve nefislerin hevesine uyuyorlar, oysa kendilerine Rableri tarafından yol gösterici gelmiştir,
 (24) yoksa her arzu ettiği insan için midir?
 (25) Son (ahiret) ve ilk (dünya) Allah’ındır,

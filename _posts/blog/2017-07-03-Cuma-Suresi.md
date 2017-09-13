@@ -12,7 +12,7 @@ tag:
 ## 62. Cuma Sûresi
 
 (1) Göklerde ne varsa ve yerde ne varsa mukaddes padişah, aziz hakim Allah’ı tesbih etmektedir, .
-(2) O, O’nun ayetlerini onlara okuyan ve onları yücelten ve onlara Kitabı ve hikmeti öğreten, ümmiler içinde kendilerinden olan bir elçi gönderendir, oysa onlar önceden açık bir sapıklık içinde idiler,
+(2) O’nun ayetlerini onlara okuyan ve onları yücelten ve onlara Kitabı ve hikmeti öğreten, O ümmiler içinde kendilerinden olan bir elçi gönderendir, oysa onlar önceden açık bir sapıklık içinde idiler,
 (3) ve kendilerine henüz katılmayan onlardan diğerlerine ve O azizdir, hakimdir.
 (4) Bu Allah’ın dilediği kimseye vereceği lutfudur ve Allah büyük lutuf sahibidir.
 (5) Tevrat yükletilenlerin sonra da onu taşımayanların durumu, kitaplar taşıyan eşeğin durumu gibidir, Allah’ın ayetlerini yalanlayan kavmin durumu ne kötüdür ve Allah zalimler topluluğunu doğru yola iletmez.
