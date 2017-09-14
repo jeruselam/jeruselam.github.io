@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Tur
+title: Tûr
 description: Sûre
 excerpt: "52'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
- - Tur
+ - Tûr
 ---
 
-## 52. Tur Sûresi
+## 52. Tûr Sûresi
 
 (1) Andolsun Tur’a,
 (2) ve satır satır yazılmış Kitaba,
