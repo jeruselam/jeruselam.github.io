@@ -11,7 +11,7 @@ tag:
 
 ## 107. Mâûn Sûresi
 
-(1) Gördün mü? Dini yalanlayan kimseyi, 
+(1) Dini yalanlayan kimseyi gördün mü? , 
 (2) işte o öksüzü iter kakar.
 (3) Ve yoksulu doyurmaya teşvik etmez.
 (4) Vay haline o namaz kılanların,
