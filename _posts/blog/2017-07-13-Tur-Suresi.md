@@ -16,7 +16,7 @@ tag:
 (4) ve bakımlı eve (Ka’be’ye),
 (5) ve yükseltilmiş tavana (göğe),	
 (6) ve kaynatılmış denize, 
-(7) Rabbinin azabı mutlaka vukubulacaktır,
+(7) Rabbinin azabı mutlaka vuku bulacaktır,
 (8) ona engel olacak hiçbir şey yoktur,
 (9) (o) gün gök bir çalkalanış çalkanır,
 (10) dağlar bir yürüyüş yürür,
@@ -26,7 +26,7 @@ tag:
 (14) işte onu yalanlamış olduğunuz ateş budur,
 (15) bu büyü müymüş? Yoksa siz (mi?) Görmüyormuşsunuz,
 (16) girin ona ve sabredin veyahut sabretmeyin, sizin için birdir, yapıyor(lar) olduklarınıza göre cezalandırılacaksınız,
-(17) şüphesiz korunanlar cennetler ve ni’metler içindedirler, 
+(17) şüphesiz korunanlar, cennetler ve ni’metler içindedirler, 
 (18) Rablerinin kendilerine verdikleri şeylerle sefa sürerler ve Rableri cehennem azabından onları korumuştur,
 (19) yapıyor(lar) olduklarınıza karşılık afiyetle yeyin ve için,
 (20) sıra sıra dizilmiş koltuklar üzerine yaslanarak, onları iri gözlü hurilerle evlendirmişizdir,
@@ -34,10 +34,10 @@ tag:
 (22) ve canlarının istediği meyvadan ve etten onlara bol bol verdik,
 (23) orada bir kadeh kapışırlar, içinde saçmalama yoktur ve günaha sokma yoktur,
 (24) saklanmış inci gibi kendilerine mahsus civanlar onların çevrelerinde dolaşır,
-(25) ve birkısmı diğerine dönmüş(ler) soruyorlar,
+(25) ve bir kısmı diğerine dönmüş(ler) soruyorlar,
 (26) elbette biz daha önce korku içinde ailemiz içinde idik, dediler,
 (27) Allah bize lutfetti ve bizi hücrelere işleyen azabdan korudu,
-(28) elbette biz bundan önce yalnız O’na yalvarır idik, çünkü O esirgeyen, iyilik eden O’dur,
+(28) elbette biz bundan önce yalnız O’na yalvarır idik, çünkü esirgeyen O, iyilik eden O’dur,
 (29) sen hatırlat, sen Rabbinin ni’meti sayesinde kahin değilsin ve mecnun değilsin,
 (30) yoksa bir şa’irdir diyorlar (mı?) Onun zamanın felaketlerine çarpılmasını gözetliyoruz,
 (31) de ki gözetleyin elbette ben de sizinle beraber gözetleyenlerdenim,
@@ -47,7 +47,7 @@ tag:
 (35) yoksa hiçbir şey olmadan (mı?) yaratıldılar, yoksa yaratanlar kendileri (midir?)
 (36) Yoksa gökleri ve yeri (mi?) yarattılar, hayır, onlar düşünüp inanmazlar,
 (37) yoksa Rabbinin hazineleri onların yanında (mıdır?) yahut hakim olan kendileri (midir?)
-(38) Yoksa onların orada dinleyecekleri bir merdivenleri (var mıdır?) Öyleyse açık bir delil dinleyenleri getirsin,
+(38) Yoksa onların orada dinleyecekleri bir merdivenleri (var mıdır?) Öyleyse dinleyenleri açık bir delil  getirsin,
 (39) yoksa kızlar O’nun (mudur?) ve oğullar sizin (midir?)
 (40) Yoksa onlardan bir ücret istiyorsun (da) ve onlar bir borç yükü altında (mıdır?)
 (41) Yoksa gayb onların yanında (mıdır?) Kendileri (mi?) yazıyorlar,
