@@ -13,9 +13,9 @@ tag:
 
 (1) De ki, cin(ler)den bir topluluğun gerçekten (Kur’an) dinledikleri bana vahyolundu ve dedikleri, şüphesiz biz harikulade güzel bir Kur’an dinledik
 (2) doğru yola iletiyor ve ona inandık, artık hiç kimseyi, Rabb'imize ortak koşmayacağız
-(3) doğrusu O, Rabbimizin şanı, yücedir, O eş edinmemiştir ve ne de çocuk
-(4) Gerçek şu idi ki, bizim beyinsiz, Allah hakkında saçma şeyler söylüyor
-(5) ve elbette biz insanların ve cinlerin Allah’a karşı asla yalan  söylemeyeceklerini sanmıştık
+(3) doğrusu O, Rabbimizin şanı, yücedir, O, eş ve ne de çocuk edinmemiştir
+(4) Gerçek şu ki, bizim beyinsiz, Allah hakkında saçma şeyler söylüyor idi
+(5) ve elbette biz, insanların ve cinlerin Allah’a karşı asla yalan söylemeyeceklerini sanmıştık
 (6) ve doğrusu insanlardan (bazı) erkekler idi, cinlerden bazı erkeklere sığınırlardı ve onların şımarıklığını artırırlardı
 (7) ve onlar da sizin sandığınız gibi Allah’ın asla hiç kimseyi  diriltmeyeceğini sanmışlardı
 (8) Ve elbette biz göğe dokunduk ve onu kuvvetli bekçilerle ve ışınlarla doldurulmuş bulduk 
