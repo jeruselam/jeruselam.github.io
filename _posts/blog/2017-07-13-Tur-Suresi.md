@@ -21,11 +21,11 @@ tag:
 (9) (o) gün gök bir çalkalanış çalkanır
 (10) dağlar bir yürüyüş yürür
 (11) o gün yalanlayanların vay haline
-(12) Onlar ki içinde batıl şeyler oynayıp dururlar
+(12) Onlar ki, batıl şeyler içinde oynayıp dururlar
 (13) o gün cehennem ateşine sürüklenerek kakılırlar
-(14) işte onu yalanlamış olduğunuz ateş budur
+(14) onu yalanlamış olduğunuz ateş işte budur
 (15) bu büyü müymüş? Yoksa siz (mi?) Görmüyormuşsunuz
-(16) girin ona ve sabredin veyahut sabretmeyin, sizin için birdir, yapıyor(lar) olduklarınıza göre cezalandırılacaksınız
+(16) ona girin ve sabredin veyahut sabretmeyin, sizin için birdir, yapıyor(lar) olduklarınıza göre cezalandırılacaksınız
 (17) şüphesiz korunanlar, cennetler ve ni’metler içindedirler
 (18) Rablerinin kendilerine verdikleri şeylerle sefa sürerler ve Rableri cehennem azabından onları korumuştur
 (19) yapıyor(lar) olduklarınıza karşılık afiyetle yeyin ve için
