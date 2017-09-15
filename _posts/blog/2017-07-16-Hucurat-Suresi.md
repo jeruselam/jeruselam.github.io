@@ -11,7 +11,7 @@ tag:
 ## 49. Hucurât Sûresi
 
 (1) ey inanan(lar) kimseler, Allah’ın ve Elçisinin önüne önüne geçmeyin ve Allah’tan korkun, şüphesiz Allah işitendir, bilendir 
-(2) ey inanan(lar) kimseler, seslerinizi Peygamberin sesinin üstüne yükseltmeyin ve bir kısmınız diğeriyle yüksek sesle konuştuğunuz gibi  onunla sözü yüksek sesle konuşmayın yoksa amelleriniz boşa gider ve siz farkında olmazsınız
+(2) ey inanan(lar) kimseler, seslerinizi Peygamberin sesinin üstüne yükseltmeyin ve bir kısmınız diğeriyle yüksek sesle konuştuğunuz gibi sözü onunla yüksek sesle konuşmayın yoksa amelleriniz boşa gider ve siz farkında olmazsınız
 (3) şüphesiz Allah’ın elçisinin huzurunda seslerini kısan(lar) kimseler, işte onlar, Allah onların kalblerini takva için imtihan etmiştir, onlar için mağfiret ve büyük  bir mükafat vardır
 (4) şüphesiz odaların arkasından sana bağıranların çoğu akıl etmezler
 (5) ve şayet onlar sen kendilerinin yanına çıkıncaya kadar bekleselerdi elbette kendileri için daha iyi olurdu, Allah bağışlayandır, esirgeyendir 
