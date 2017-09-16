@@ -11,7 +11,7 @@ tag:
 ## 61. Saff Sûresi
 
 (1) göklerde ne varsa ve yerde ne varsa Allah’ı tesbih etmektedir ve O üstündür, hüküm ve hikmet sahibidir
-(2) ey inanan(lar) kimseler, niçin? yapmayacağınız şeyi söylüyorsunuz
+(2) ey inanan(lar) kimseler, yapmayacağınız şeyi niçin? söylüyorsunuz
 (3) Allah katında yapmayacağınız şeyi söylemenin gazabı büyüktür
 (4) şüphesiz, Allah kendi yolunda kenetlenmiş binalar gibi saf bağlayarak çarpışan(ları) kimseleri sever
 (5) Musa kavmine bir zaman demişti, kavmim niçin? beni halde incitiyorsunuz, gerçekten benim Allah’ın elçisi (olduğumu)  biliyorsunuz, onlar size eğrildiği zaman, Allah da kalblerini eğriltti ve Allah yoldan çıkan kavmi doğru yola iletmez
