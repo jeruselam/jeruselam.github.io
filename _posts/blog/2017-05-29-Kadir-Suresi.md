@@ -14,5 +14,5 @@ tag:
 (1) elbette biz onu kadir gecesinde  indirdik
 (2) kadir gecesi(nin) ne olduğunu sana bildiren nedir
 (3) kadir gecesi bin aydan hayırlıdır
-(4) melekler ve Ruh her iş için Rabb'lerinin izniyle onda iner de iner
+(4) her iş için Rabb'lerinin izniyle onda melekler ve Ruh iner de iner
 (5) tanyeri ağarıncaya kadar o esenliktir
