@@ -11,7 +11,7 @@ tag:
 ## 48. Fetih Sûresi
 
 (1) elbette biz sana apaçık bir fetih açtık (fetih verdik)
-(2) Allah senin geçmiş günahlarından ne varsa ve gelecek (günahlarından) ne varsa ki bağışlasın (diye) ve sana olan ni’metini tamamlasın (diye) ve seni doğru bir yola seni iletsin (diye)
+(2) Allah senin geçmiş günahlarından ne varsa ve gelecek (günahlarından) ne varsa ki bağışlasın (diye) ve sana olan ni’metini tamamlasın (diye) ve seni doğru bir yola iletsin (diye)
 (3) ve Allah sana şanlı bir yardımla (zaferle) yardım etsin (diye)
 (4) O ki, imanlarıyla beraber imanlarını artırmak için mü’minlerin kalblerine huzur indirendir, göklerin ve yerin askerleri Allah’ındır ve Allah bilendir, hüküm ve hikmet sahibidir 
 (5) içinde ebedi kalacakları altlarından ırmaklar akan cennetlere inanan erkekleri ve inanan kadınları soksun diye ve onların kötülüklerini örtsün diye ve (gerçekten) bu Allah katında büyük bir başarıdır
