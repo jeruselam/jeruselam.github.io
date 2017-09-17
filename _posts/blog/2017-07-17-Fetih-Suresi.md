@@ -34,9 +34,9 @@ size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karş�
 (21) ve başka (şeyler) onları henüz ele geçiremediniz fakat Allah onları kuşatmıştır ve Allah her şey üzerine kadirdir
 (22) ve eğer inkar eden(ler) kimseler sizinle savaşsalardı arkalarına dön(üp kaç)arlardı sonra bir koruyucu ne de bir yardımcı bulamazlardı
 (23) Allah’ın sünnetidir (yasasadır) öyle ki ötedenberi süregelir ve asla Allah’ın Allah’ın bir değişme bulamazsın
-(24) 
-(25) 
-(26) 
-(27) 
-(28) 
-(29) 
+(24) ve onların ellerini sizden ve sizin ellerinizi onlardan sizi onlara galip getirdikten sonra Mekke’nin göbeğinde çeken O’dur ve Allah yaptıklarınızı görmektedir
+(25) onlar inkar eden(lerdir) kimselerdir ve Mescid-i Haramdan size ve bekletilen kurbanlardan yerlerine varmasına engel olanlardır, bilmeyerek tepelediğiniz inanmış erkekler ve inanmış kadınlar olmasaydı eğer bilginiz olmadan onlardan bir eziyet isabet edecek (olmasaydı) ki Allah dilediği kimseyi rahmetine soksun şayet ayrılmış olsalardı,  onlardan inkar eden(leri) kimseleri elbette acıklı bir azabla azab ederdik 
+(26) o zaman inkar eden(ler) kimseler kalblerine öfke ve gayreti, cahiliyye (çağının) öfke ve gayretini koymuşlardı ve Allah Elçisi üzerine ve mü’minlere üzerine huzur ve güvenini indirdi ve onları takva kelimesine bağladı zaten onlar buna daha layık ve ehil idiler ve Allah her şeyi bilendir
+(27) andolsun Allah Elçisinin rüyasını hak ile doğruladı, Allah dilerse eğer başlarınızı traş ederek ve(ya) kısaltarak korkmadan güven içinde Mescid-i Haram’a gireceksiniz, böylece sizin bilmediğiniz şeyi bildi ve bundan başka yakın bir fetih verdi
+(28) O Elçisini onu bütün dinlere üstün kılmak için hidayet ile ve hak din ile gönderendir ve Allah şahid olarak yeter
+(29) Muhammed Allah’ın elçisidir ve onun yanında bulunanlar kafirlere karşı katı birbirlerine karşı merhametlidirler onları rüku’ ederek, secde ederek Allahdan bir lutuf ve rızasını aradıklarını görürsün 
