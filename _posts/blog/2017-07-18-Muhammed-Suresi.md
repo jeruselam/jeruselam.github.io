@@ -41,11 +41,11 @@ tag:
 (28) bu böyledir çünkü onlar Allah’ı kızdıran şeylerin ardınca gittiler ve O’nu razı edecek şeylerden hoşlanmadılar ve onların amellerini boşa çıkardı
 (29) yoksa kalblerinde hastalık bulunanlar Allah’ın kinlerini asla ortaya çıkarmayacağını (mı?) sandılar 
 (30) şayet biz dileseydik onları sana gösterirdik, sen onları simalarından ve onları sözlerinin üslubundan tanırdın ve Allah yaptığınız işleri bilir
-(31) 
-(32) 
-(33) 
-(34) 
-(35) 
-(36) 
-(37) 
-(38) 
+(31) andolsun biz içinizden cihadedenleri ve sabredenleri bilinceye kadar sizi deneyeceğiz ve söylediğiniz sözleri sınayacağız 
+(32) şüphesiz inkar eden(ler) kimseler ve doğru yol kendilerine belli olduktan sonra Allah yolundan engel olanlar ve Elçiyi incitenler Allah’a asla hiçbir zarar veremezler ve onların işlerini boşa çıkaracaktır
+(33) ey inanan(lar) kimseler Allah’a ita’at edin ve Elçi’ye ita’at edin ve işlerinizi boşa çıkarmayın
+(34) şüphesiz inkar eden(ler) kimseler ve Allah yolundan engel olanlar sonra kafir olarak ölenler, onlar Allah onları asla affetmeyecektir
+(35) asla gevşemeyin ve siz galip durumda iken barışa davet etmeyin, Allah sizinle beraberdir ve asla sizin amellerinizi zayi etmeyecektir
+(36) şüphesiz dünya hayatı bir oyundur ve eğlencedir ve eğer inanırsanız ve korunursanız size mükafatlarınızı verir ve sizden mallarınızı istemez
+(37) eğer onları isteseydi ve sizi sıkıştırsaydı, cimrilik ederdiniz ve kinlerinizi ortaya çıkarırdı
+(38) işte sizler onlarsınız ki Allah yolunda infak etmeye çağrılıyorsunuz ama içinizden kimisi cimrilik ediyor ve cimrilik eden kimse şüphesiz kendi nefsine karşı cimrilik etmiş olur ve Allah zengindir ve sizler fakirsiniz ve eğer yüz çevirecek olursanız sizden başka bir toplum yerinize getirir sonra onlar sizin gibi olmazlar
