@@ -40,7 +40,7 @@ tag:
 (27) melekler yüzlerine ve arkalarına vurarak canlarını alırken nice olur?
 (28) bu böyledir çünkü onlar Allah’ı kızdıran şeylerin ardınca gittiler ve O’nu razı edecek şeylerden hoşlanmadılar ve onların amellerini boşa çıkardı
 (29) yoksa kalblerinde hastalık bulunanlar Allah’ın kinlerini asla ortaya çıkarmayacağını (mı?) sandılar 
-(30) şayet biz dileseydik onları sana gösterirdik sen onları simalarından ve onları sözlerinin üslubundan tanırdın ve Allah yaptığınız işleri bilir
+(30) şayet biz dileseydik onları sana gösterirdik, sen onları simalarından ve onları sözlerinin üslubundan tanırdın ve Allah yaptığınız işleri bilir
 (31) 
 (32) 
 (33) 
