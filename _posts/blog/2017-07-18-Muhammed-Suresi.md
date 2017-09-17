@@ -28,8 +28,8 @@ tag:
 (16) 
 (17) hidayet bulan(lara) kimselere gelince onların hidayetlerini artırmıştır ve onlara korunmalarını vermiştir
 (18) yalnızca sa’atin kendilerine ansızın gelmesini mı? bekliyorlar  işte onun belirtileri onlara geldi, kendilerine geldikten sonra öğüt almaları neden mümkün olsun?
-(19) bil ki, Allah’tan başka tanrı ki o yoktur ve kendi günahın için ve inanan erkekler için ve inanan kadınlar için mağfiret dile ve Allah dönüp dolaşacağınız yeri ve varıp duracağınız yeri bilir 
-(20) ve inanan(lar) kimseler, hükmü açık bir sure indirildiği zaman bir sure indirilmeli, değil miydi? derler ve onda savaştan söz edilince kalblerinde hastalık bulunan kimselerin, onlara daha yakın ölümden üzerine çökmüş baygınlık bakışı gibi sana baktıklarını görürsün
+(19) Allah’tan başka tanrı ki o, bil ki yoktur ve kendi günahın için ve inanan erkekler için ve inanan kadınlar için mağfiret dile ve Allah dönüp dolaşacağınız yeri ve varıp duracağınız yeri bilir 
+(20) ve inanan(lar) kimseler, hükmü açık bir sure indirildiği zaman bir sure indirilmeli değil miydi? derler ve onda savaştan söz edilince kalblerinde hastalık bulunan kimselerin onlara daha yakın ölümden üzerine baygınlık çökmüş bakışı gibi sana baktıklarını görürsün
 (20) ve onlardan kimisi gelip seni dinler nihayet senin yanından çıktıkları zaman bilgi verilmiş olanlara, onlar az önce ne? söyledi derler, Allah’ın kalbleri üzerini mühürlediği ve keyiflerinin ardına düşmüş kimselerdir
 (21) işe azmedildiği zaman güzel söylemektir ve ita’at etmektir şayet Allah’a sadık kalsalardı elbette kendileri için daha iyi olurdu
 (22) eğer işbaşına gelecek olursanız yeryüzünde belki de bozgunculuk yapacaksınız ve rahimleri (akrabalık bağlarını) koparacaksınız öyle mi?
