@@ -41,7 +41,7 @@ tag:
 (29) benim huzurumda söz değiştirilmez ve ben kullara zulmedici değil(im)
 (30) (o) gün cehenneme doldun mu? deriz ve daha hiç (yok) mu? der
 (31) ve cennet korunanlara yaklaştırılmıştır, uzak değildir
-(32) koruyan (Allah’a) yüz tutan, işte daima size va’dedilen budur
+(32) işte daima size va’dedilen, koruyan (Allah’a) yüz tutan budur
 (33) Rahman’a görmeden saygı gösteren ve (Hakka) dönük bir yürek getiren kimse(lere)
 (34) selam (esenlik) ile ona girin, bu süreklilik günüdür
 (35) onlara orada istedikleri herşey vardır ve katımızda daha fazlası vardır 
