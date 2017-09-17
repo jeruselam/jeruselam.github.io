@@ -27,7 +27,7 @@ tag:
 (15) muttakilere söz verilen cennetin durumu (şudur), içinde bozulma olmayan sudan ırmakları ve tadı değişmeyen sütten ırmakları ve içenlere lezzet veren şaraptan ırmakları ve süzme baldan ırmakları vardır ve onlar için orada her çeşitten meyvalar vardır ve Rablerinden bağışlama (vardır), ateşte ebedi kalan ve barsaklarını parça parça kesen sıcak suyun içirildiği o kimseler gibi olur mu?
 (16) 
 (17) hidayet bulan(lara) kimselere gelince onların hidayetlerini artırmıştır ve onlara korunmalarını vermiştir
-(18) yalnızca sa’atin kendilerine ansızın gelmesini mı? bekliyorlar  işte onun belirtileri geldi, onlara kendilerine geldikten sonra öğüt almaları neden mümkün olsun?
+(18) yalnızca sa’atin kendilerine ansızın gelmesini mı? bekliyorlar  işte onun belirtileri onlara geldi, kendilerine geldikten sonra öğüt almaları neden mümkün olsun?
 (19) bil ki, Allah’tan başka tanrı ki o yoktur ve kendi günahın için ve inanan erkekler için ve inanan kadınlar için mağfiret dile ve Allah dönüp dolaşacağınız yeri ve varıp duracağınız yeri bilir 
 (20) ve inanan(lar) kimseler, hükmü açık bir sure indirildiği zaman bir sure indirilmeli, değil miydi? derler ve onda savaştan söz edilince kalblerinde hastalık bulunan kimselerin, onlara daha yakın ölümden üzerine çökmüş baygınlık bakışı gibi sana baktıklarını görürsün
 (20) ve onlardan kimisi gelip seni dinler nihayet senin yanından çıktıkları zaman bilgi verilmiş olanlara, onlar az önce ne? söyledi derler, Allah’ın kalbleri üzerini mühürlediği ve keyiflerinin ardına düşmüş kimselerdir
