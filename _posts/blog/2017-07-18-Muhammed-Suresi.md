@@ -34,7 +34,7 @@ tag:
 (22) eğer yeryüzünde işbaşına gelecek olursanız belki de bozgunculuk yapacaksınız ve rahimleri (akrabalık bağlarını) koparacaksınız öyle mi?
 (23) onlar Allah’ın la’netlediği, sağır yaptığı ve gözlerini kör ettiği kimselerdir 
 (24) Kur’an’ı düşünmüyorlar mı? yoksa kalbler(inin) üzerinde kilitleri (-mi var?)
-(25) şüphesiz kendilerine doğru yol belli olduktan sonra arkaları üzerine dönen(lere) kimselere, şeytan onları sürüklemiştir ve onları uzun emellere düşürmüştür
+(25) şüphesiz arkaları üzerine dönen(lere) kimselere doğru yol kendilerine belli olduktan sonra onları şeytan sürüklemiştir ve onları uzun emellere düşürmüştür
 (26) bu böyledir çünkü onlar Allah’ın indirdiğinden hoşlanmayan(lara) kimselere işin bazısında size ita’at edeceğiz dediler oysa Allah onların gizlediklerini biliyor
 (27) melekler yüzlerine ve arkalarına vurarak canlarını alırken nice olur?
 (28) bu böyledir çünkü onlar Allah’ı kızdıran şeylerin ardınca gittiler ve O’nu razı edecek şeylerden hoşlanmadılar ve onların amellerini boşa çıkardı
