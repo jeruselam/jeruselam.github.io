@@ -30,7 +30,7 @@ tag:
 (18) yalnızca sa’atin kendilerine ansızın gelmesini mı? bekliyorlar  işte onun belirtileri onlara geldi, kendilerine geldikten sonra öğüt almaları neden mümkün olsun?
 (19) Allah’tan başka tanrı ki o, bil ki yoktur ve kendi günahın için ve inanan erkekler için ve inanan kadınlar için mağfiret dile ve Allah dönüp dolaşacağınız yeri ve varıp duracağınız yeri bilir 
 (20) ve inanan(lar) kimseler, hükmü açık bir sure indirildiği zaman bir sure indirilmeli değil miydi? derler ve onda savaştan söz edilince kalblerinde hastalık bulunan kimselerin, onlara daha yakın ölümden üzerine baygınlık çökmüş bakışı gibi, sana baktıklarını görürsün
-(21) işe azmedildiği zaman güzel söylemektir ve ita’at etmektir şayet Allah’a sadık kalsalardı elbette kendileri için daha iyi olurdu
+(21) işe azmedildiği zaman ita’at etmektir ve güzel söylemektir şayet Allah’a sadık kalsalardı elbette kendileri için daha iyi olurdu
 (22) eğer yeryüzünde işbaşına gelecek olursanız belki de bozgunculuk yapacaksınız ve rahimleri (akrabalık bağlarını) koparacaksınız öyle mi?
 (23) onlar Allah’ın la’netlediği, sağır yaptığı ve gözlerini kör ettiği kimselerdir 
 (24) Kur’an’ı düşünmüyorlar mı? yoksa kalbler(inin) üzerinde kilitleri (-mi var?)
