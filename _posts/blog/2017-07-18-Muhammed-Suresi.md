@@ -22,7 +22,7 @@ tag:
 (10) yeryüzünde gezip dolaşmadılar mı? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler, Allah onları yıkıp başlarına geçirmiştir, onun benzeri sonuçlar kafirlere de vardır
 (11) bu böyledir çünkü Allah inanan(ların) kimselerin koruyucusudur, kafirlerin ise onların koruyucuları yoktur 
 (12) şüphesiz Allah inanan(ları) kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokar, inkar eden(ler) kimseler ise (dünyada) biraz yaşarlar ve hayvanların yediği gibi yerler ve onların yerleri ateştir
-(13) biz kent(ler)den nicesini (öyle ki) kuvvet bakımından seni çıkardıkları senin kentinden daha şiddetliydi, yok ettik ve onlara yardım eden olmadı
+(13) biz kent(ler)den nicesini yok ettik (öyle ki) kuvvet bakımından senin seni çıkardıkları kentinden daha şiddetliydi ve onlara yardım eden olmadı
 (14) kötü işi kendilerine süslendirilen ve keyiflerine uyan kimseler gibi Rabbinden bir delil üzerinde olan kimse olur mu? 
 (15) muttakilere söz verilen cennetin durumu (şudur), içinde bozulma olmayan sudan ırmakları ve tadı değişmeyen sütten ırmakları ve içenlere lezzet veren şaraptan ırmakları ve süzme baldan ırmakları vardır ve onlar için orada her çeşitten meyvalar vardır ve Rablerinden bağışlama (vardır), ateşte ebedi kalan ve barsaklarını parça parça kesen sıcak suyun içirildiği o kimseler gibi olur mu?
 (16) ve onlardan kimisi gelip seni dinler nihayet senin yanından çıktıkları zaman bilgi verilmiş olanlara az önce ne? söyledi derler, onlar Allah’ın kalbleri üzerini mühürlediği ve keyiflerinin ardına düşmüş kimselerdir
