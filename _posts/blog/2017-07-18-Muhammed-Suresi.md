@@ -10,7 +10,7 @@ tag:
 
 ## 47. Muhammed Sûresi
 
-(1) inkar eden(lerin) kimselerin ve (Allah) yoludan engel olanların işlerini Allah boşa çıkarmıştır
+(1) Allah inkar eden(lerin) kimselerin ve (Allah) yoludan engel olanların işlerini boşa çıkarmıştır
 (2) ve inanan(ların) kimselerin ve iyi işler yapanların ve Muhammed’e indirilene inananların ki o Rableri tarafından gerçektir, onlardan günahlarını örtmüştür ve hallerini düzeltmiştir
 (3) bu böyledir çünkü inkar eden(ler) kimseler batıla uymuşlardır ve şüphesiz ki inananlar ise Rablerinden gelen hakka uymuşlardır, Allah insanlara onların durumlarını işte böyle anlatır
 (4) inkar eden(lerle) kimselerle karşılaştığınız zaman boyunlarını vurun nihayet onları iyice vurup sindirdiğiniz zaman bağı sıkıca bağlayın ondan sonra ister iyilikle (bırakırsınız) veya harb ağırlıklarını bırakıncaya kadar fidye alırsınız işte şayet Allah dileseydi onlardan öc alırdı fakat bir kısmınızı diğeriyle denemek için (Allah) yolunda öldürülen(lerin) kimselerin yaptıkları işleri Allah asla zayi etmeyecektir
@@ -47,4 +47,4 @@ tag:
 (35) asla gevşemeyin ve siz galip durumda iken barışa davet etmeyin, Allah sizinle beraberdir ve asla sizin amellerinizi zayi etmeyecektir
 (36) şüphesiz dünya hayatı bir oyundur ve eğlencedir ve eğer inanırsanız ve korunursanız size mükafatlarınızı verir ve sizden mallarınızı istemez
 (37) eğer onları isteseydi ve sizi sıkıştırsaydı, cimrilik ederdiniz ve kinlerinizi ortaya çıkarırdı
-(38) işte sizler onlarsınız ki Allah yolunda infak etmeye çağrılıyorsunuz ama içinizden kimisi cimrilik ediyor ve cimrilik eden kimse şüphesiz kendi nefsine karşı cimrilik etmiş olur ve Allah zengindir ve sizler fakirsiniz ve eğer yüz çevirecek olursanız sizden başka bir toplum yerinize getirir sonra onlar sizin gibi olmazlar
+(38) işte sizler onlarsınız ki Allah yolunda infak etmeye çağrılıyorsunuz ama içinizden kimisi cimrilik ediyor ve cimrilik eden kimse şüphesiz kendi nefsine karşı cimrilik etmiş olur ve Allah zengindir ve sizler fakirsiniz ve eğer yüz çevirecek olursanız yerinize sizden başka bir toplum  getirir sonra onlar sizin gibi olmazlar
