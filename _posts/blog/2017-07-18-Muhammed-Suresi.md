@@ -12,7 +12,7 @@ tag:
 
 (1) Allah inkar eden(lerin) kimselerin ve (Allah) yoludan engel olanların işlerini boşa çıkarmıştır
 (2) ve inanan(ların) kimselerin ve iyi işler yapanların ve Muhammed’e indirilene inananların ki o Rableri tarafından gerçektir, onlardan günahlarını örtmüştür ve hallerini düzeltmiştir
-(3) bu böyledir çünkü inkar eden(ler) kimseler batıla uymuşlardır ve şüphesiz ki inananlar ise Rablerinden gelen hakka uymuşlardır, Allah insanlara onların durumlarını işte böyle anlatır
+(3) inkar eden(ler) kimseler batıla uymuşlardır çünkü bu böyledir ve şüphesiz ki inananlar ise Rablerinden gelen hakka uymuşlardır, Allah  onların durumlarını insanlara işte böyle anlatır
 (4) inkar eden(lerle) kimselerle karşılaştığınız zaman boyunlarını vurun nihayet onları iyice vurup sindirdiğiniz zaman bağı sıkıca bağlayın ondan sonra ister iyilikle (bırakırsınız) veya harb ağırlıklarını bırakıncaya kadar fidye alırsınız işte şayet Allah dileseydi onlardan öc alırdı fakat bir kısmınızı diğeriyle denemek için (Allah) yolunda öldürülen(lerin) kimselerin yaptıkları işleri Allah asla zayi etmeyecektir
 (5) onları doğru yola iletecektir ve durumlarını düzeltecektir
 (6) onları kendilerine tanımladığı cennete sokacaktır
