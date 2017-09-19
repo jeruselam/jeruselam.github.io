@@ -43,5 +43,5 @@ tag:
 (31) kavmimiz Allah’ın da’vetçisine uyun ve O’na inanın, sizi günahlarınızdan bir kısmını bağışlasın ve sizi acıklı azabdan korusun
 (32) ve kim Allah’ın da’vetçisine uymazsa yeryüzünde aciz bırakacak değildir ve kendisinin O’ndan başka velileri olmaz, onlar apaçık bir sapıklık içindedirler
 (33) gökleri ve yeri yaratan ve bunları yaratmakla yorulmayan Allah’ın ölüleri diriltmeğe gerçekten kadir olduğunu görmediler mi? evet şüphesiz O her şey üzerine kadirdir
-(34) ve inkar eden(ler) kimseler ateşe karşı sunulacakları gün bu gerçek değil miymiş? derler, Rabbimiz hakkı için evet der, öyleyse inkar ediyor(lar) olmanızdan dolayı azabı tadın 
+(34) ve inkar eden(ler) kimseler ateşe karşı sunulacakları gün bu gerçek değil miymiş? Rabbimiz hakkı için evet derler, öyleyse inkar ediyor(lar) olmanızdan dolayı azabı tadın der
 (35) o halde azim (ve irade) sahibi elçilerin sabrettikleri gibi sabret ve asla onlar için acele etme, onlar tehdit edildikleri şeyi (azabı) gördükleri gün (sanki) gündüzden bir sa’at dışında yaşamamışlar gibi olurlar, (bu) bir duyurudur, yoldan çıkmış topluluktan başkası mı helak edilecektir?
