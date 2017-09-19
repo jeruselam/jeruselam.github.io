@@ -31,11 +31,11 @@ tag:
 (19) yaptıkları işlerden her birinin dereceleri vardır ve onlara yaptıklarının karşılığını tam verir ve onlara asla haksızlık edilmez
 (20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, bütün güzelliklerinizi dünya hayatınızda zayi ettiniz ve bunlarla sefa sürdünüz, yeryüzünde haksız yere büyüklük taslamanızdan ötürü ve  haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile bugün cezalandırılacaksınız
 (21) ve Ad’ın kardeşini (Hud’u) an, hani Ahkaf’taki kavmini uyarmıştı, gelip geçti, onun önünden ve ardından nice uyarıcılar gelip geçti,  Allah’tan başkasına kulluk etmeyin, elbette ben sizin büyük bir günün azabına uğramanızdan korkuyorum 
-(22) dediler ki bizi tanrılarımızdan çevirmek için sen mi? geldin, o halde eğer doğrulardan isen bizi tehdidettiğin şeyi bize getir
+(22) dediler ki, bizi tanrılarımızdan çevirmek için sen mi? geldin, o halde eğer doğrulardan isen bizi tehdid ettiğin şeyi bize getir
 (23) bilgi sadece Allah katındadır dedi ve ben size onunla gönderildiğim şeyi (mesajı) tebliğ ediyorum fakat ben sizi cahillik eden bir kavim görüyorum
-(24) nihayet onu geniş bir bulut halinde vadilerine yönelerek geldiğini görünce bu bize yağmur yağdıracak bir buluttur dediler hayır o şey sizin onun acele gelmesini istediğinizdir, içinde acıklı azab bulunan bir rüzgardır
-(25) Rabbinin emriyle her şeyi yıkar mahveder onlar o hale geldiler ki konutlarından başka bir şey görülmez oldu, suç işleyen toplumu işte biz böyle cezalandırırız
-(26) ve andolsun onu size vermediğimiz şeyi onlara imkan vermiştik ve onlara kulaklar ve gözler ve gönüller yaratmıştık fakat kulakları ne de gözleri ne de gönülleri kendilerine bir şey (yarar) sağlamadı zira Allah’ın ayetlerini bile bile inkar ediyorlardı ve onunla alay edip duruyor(lar) oldukları şey kendilerini kuşatıverdi
+(24) nihayet onu geniş bir bulut halinde vadilerine yönelerek geldiğini görünce bu bize yağmur yağdıracak bir buluttur dediler, hayır o şey sizin onun acele gelmesini istediğinizdir, içinde acıklı azab bulunan bir rüzgardır
+(25) Rabbinin emriyle her şeyi yıkar mahveder, onlar o hale geldiler ki, konutlarından başka bir şey görülmez oldu, suç işleyen toplumu işte biz böyle cezalandırırız
+(26) ve andolsun size vermediğimiz şeyi onlara onu imkan vermiştik ve onlara kulaklar ve gözler ve gönüller yaratmıştık fakat kulakları ne de gözleri ne de gönülleri kendilerine bir şey (yarar) sağlamadı, zira Allah’ın ayetlerini bile bile inkar ediyorlardı ve onunla alay edip duruyor(lar) oldukları şey kendilerini kuşatıverdi
 (27) ve andolsun biz çevrenizdeki kentleri yok ettik ve ayetleri tekrar tekrar açıkladık belki de (küfürlerinden) dönerler
 (28) yakınlık sağlamak için Allah'tan başka tanrı edindikleri şeyler kendilerine yardım etselerdi olmaz mıydı? hayır onlardan kaybolup gittiler, onların yalanları ve uydurmuş oldukları şeyler işte budur 
 (29) Kur’an dinlemek üzere cinlerden bir topluluğu bir zaman sana yöneltmiştik, ona geldikleri zaman susun (dinleyin) dediler, bitirildiği zaman da uyarıcılar olarak kavimlerine döndüler
