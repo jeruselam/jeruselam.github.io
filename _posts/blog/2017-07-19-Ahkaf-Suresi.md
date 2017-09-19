@@ -12,12 +12,12 @@ tag:
 
 (1) Hâ Mîm
 (2) Kitabın indirilişi aziz hakim Allah (tarafın)dandır
-(3) ancak biz gökleri ve yeri ve ikisi arasında bulunanları gerçek ile ve belli bir süreye göre yaratmadık ve inkar eden(ler) kimseler uyarıldıkları şeyden yüz çevirmektedirler
-(4) de ki Allah’tan başka yalvardıklarınız şeyleri gördünüz mü? onlar yerden neyi? yarattılar bana gösterin yoksa onların göklerde bir ortaklığı (mı?) var eğer doğrular(dan) iseniz bana bundan önce bir Kitap yahut bilgiden bir kalıntı getirin 
-(5) kıyamet gününe kadar kendisine cevap veremeyecek kimselere Allah’ı bırakıp da yalvaran kimseden daha sapık kim olabilir? oysa onlar bunların yalvardıklarından habersizdirler
-(6) ve insanlar toplandıkları zaman onlara düşman olurlar ve onların kendilerine tapmalarını tanımazlar
+(3) ancak biz gökleri ve yeri ve ikisi arasında bulunanları gerçek ile ve belli bir süreye göre yaratmadık ve inkar eden(ler) kimseler, uyarıldıkları şeyden yüz çevirmektedirler
+(4) de ki, Allah’tan başka yalvardıklarınız şeyleri gördünüz mü? onlar yerden neyi? yarattılar bana gösterin yoksa onların göklerde bir ortaklığı (mı?) var eğer doğrular(dan) iseniz bana bundan önce bir Kitap yahut bilgiden bir kalıntı getirin 
+(5) Allah’ı bırakıp da kıyamet gününe kadar kendisine cevap veremeyecek kimselere yalvaran kimseden daha sapık kim olabilir? oysa onlar bunların yalvardıklarından habersizdirler
+(6) ve insanlar toplandıkları zaman, onlara düşman olurlar ve onların kendilerine tapmalarını tanımazlar
 (7) ve onlara ayetlerimiz açık açık okunduğu zaman inkar eden(ler) kimseler kendilerine gelen bu hakk için, apaçık bir büyüdür dediler
-(8) yoksa onu kendisi uydurdu (-mu) diyorlar? de ki eğer ben onu bir şeye (gelecek cezaya) uydurmuşsam sizin bana Allah'tan hiçbir yararınız olmaz, O onda taşkınlık yaptığınız şeyleri daha iyi bilir, O’nun benimle sizin aranızda şahid olması yeter ve O bağışlayandır, esirgeyendir 
+(8) yoksa onu kendisi (-mu) uydurdu diyorlar? de ki eğer ben onu bir şeye (gelecek cezaya) uydurmuşsam, sizin bana Allah'tan hiçbir yararınız olmaz, onda taşkınlık yaptığınız şeyleri O daha iyi bilir, O’nun benimle sizin aranızda şahid olması yeter ve O bağışlayandır, esirgeyendir 
 (9) de ki elçiler (arasında) türedi biri değilim ve bana ne de size ne yapılacağını bilmem (hayır) ben bana vahyedilen şey(den) başkasına uymuyorum ve ben apaçık bir uyarıcıdan başka bir şey değilim
 (10) de ki Allah katından ise eğer, hiç düşündünüz mü? ve İsrail oğullarından bunun benzerini bir şahid görüp ve siz onu inkar ettiyseniz ve siz inandığı halde tenezzül etmemişseniz şüphesiz Allah zalimlerden bir toplumu doğru yola iletmez 
 (11) ve inkar eden(ler) kimseler inanan(lar) kimseler için şayet iyi bir şey olsaydı dedi(ler) ona (inanmada) bizi geçemezlerdi, onunla hidayete ermedikleri zaman ise diyeceklerdir ki bu eski bir yalandır
