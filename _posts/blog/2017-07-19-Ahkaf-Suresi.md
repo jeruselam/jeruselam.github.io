@@ -19,7 +19,7 @@ tag:
 (7) ve onlara ayetlerimiz açık açık okunduğu zaman inkar eden(ler) kimseler kendilerine gelen bu hakk için, apaçık bir büyüdür dediler
 (8) yoksa onu kendisi (-mu) uydurdu diyorlar? de ki, eğer ben onu Allah'tan bir şeye (gelecek cezaya) uydurmuşsam, sizin bana hiçbir yararınız olmaz, onda taşkınlık yaptığınız şeyleri O daha iyi bilir, O’nun benimle sizin aranızda şahid olması yeter ve O bağışlayandır, esirgeyendir 
 (9) de ki elçiler (arasında) türedi biri değilim ve bana ne de size ne yapılacağını bilmem (hayır) ben bana vahyedilen şey(den) başkasına uymuyorum ve ben apaçık bir uyarıcıdan başka bir şey değilim
-(10) de ki Allah katından ise eğer, hiç düşündünüz mü? ve İsrail oğullarından bunun benzerini bir şahid görüp ve siz onu inkar ettiyseniz ve siz inandığı halde tenezzül etmemişseniz şüphesiz Allah zalimlerden bir toplumu doğru yola iletmez 
+(10) de ki, eğer Allah katından ise, hiç düşündünüz mü? ve İsrail oğullarından bunun benzerini bir şahid görüp ve siz onu inkar ettiyseniz ve inandığı halde siz tenezzül etmemişseniz şüphesiz Allah zalimlerden bir toplumu doğru yola iletmez 
 (11) ve inkar eden(ler) kimseler inanan(lar) kimseler için şayet iyi bir şey olsaydı dedi(ler) ona (inanmada) bizi geçemezlerdi, onunla hidayete ermedikleri zaman ise diyeceklerdir ki bu eski bir yalandır
 (12) ve ondan önce önder Musa’nın Kitabı ve bu kendilerine yazık eden(leri) kimseleri uyarmak için Arap diliyle doğrulayan ve güzel davrananlar (için) müjde ve rahmet (olan) Kitaptır 
 (13) şüphesiz Rabbimiz Allah’tır diyen(ler) kimseler sonra doğru olanlar onlara korku yoktur ve onlar üzülecek değildir
