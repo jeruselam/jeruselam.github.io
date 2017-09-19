@@ -29,7 +29,7 @@ tag:
 (17) ve o kimse anasına babasına öf size dedi siz benden önce gelip geçmiş iken, gelip geçmiş iken nice nesiller benim çıkarılacağımı bana va’d mı ediyorsunuz? onlar ise Allah’a sığınarak yazık sana iman et! (dediler) şüphesiz Allah’ın sözü gerçektir, derken o der ki bu eskilerin masallarından başka bir şey değildir
 (18) işte onlar cin(ler)den ve insan(lardan) kendilerinden önce gelip geçen, gelip geçen toplulukları arasında (azab) söz(ü) kendilerine hak olan kimselerdir, gerçekten onlar ziyana uğrayanlardır
 (19) her birinin yaptıkları işlerden dereceleri vardır ve onlara yaptıklarının karşılığını tam verir ve onlara asla haksızlık edilmez
-(20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, dünya hayatınızda bütün güzelliklerinizi zayi ettiniz ve bunlarla sefa sürdünüz, bugün haksız yere yeryüzünde büyüklük taslamanızdan ötürü ve haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile cezalandırılacaksınız
+(20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, dünya hayatınızda bütün güzelliklerinizi zayi ettiniz ve bunlarla sefa sürdünüz bugün yeryüzünde haksız yere büyüklük taslamanızdan ötürü ve haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile cezalandırılacaksınız
 (21) 
 (22) 
 (23) 
