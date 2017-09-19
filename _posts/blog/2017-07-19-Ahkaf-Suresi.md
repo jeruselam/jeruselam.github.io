@@ -25,11 +25,11 @@ tag:
 (13) şüphesiz Rabbimiz Allah’tır diyen(ler) kimseler sonra doğru olanlar onlara korku yoktur ve onlar üzülecek değildir
 (14) onlar cennet halkıdır yapıyorlar olduklarına karşılık ceza olarak orada ebedi kalacaklardır 
 (15) ve biz insana ana babasına iyilik etmesini tavsiye ettik, anası onu zahmetle taşıdı ve onu zahmetle doğurdu, sütten kesilmesi ve taşınması ise otuz aydır nihayet güçlü çağına erdiği zaman ve kırk yaşına varınca Rabbim dedi bana ve anama babama verdiğin ni’metine şükretmeğe ve razı olacağın yararlı işler yapmağa beni sevk eyle ve zürriyetim içinde benim için salahı devam ettir şüphesiz ben sana yüz tuttum ve elbette ben teslim olanlardanım
-(16) 
-(17) 
-(18) 
-(19) 
-(20) 
+(16) onlar öyle kişilerdir ki yaptıklarının en iyisini onlardan kabul ederiz ve onların kötülüklerinden geçeriz, cennet halkı arasındadırlar, kendilerine va’d olunan doğru sözdür
+(17) ve o kimse anasına babasına öf size dedi siz benden önce gelip geçmiş iken, gelip geçmiş iken nice nesiller benim çıkarılacağımı bana va’d mı ediyorsunuz? onlar ise Allah’a sığınarak yazık sana iman et! (dediler) şüphesiz Allah’ın sözü gerçektir, derken o der ki bu eskilerin masallarından başka bir şey değildir
+(18) işte onlar cin(ler)den ve insan(lardan) kendilerinden önce gelip geçen, gelip geçen toplulukları arasında (azab) söz(ü) kendilerine hak olan kimselerdir, gerçekten onlar ziyana uğrayanlardır
+(19) her birinin yaptıkları işlerden dereceleri vardır ve onlara yaptıklarının karşılığını tam verir ve onlara asla haksızlık edilmez
+(20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, dünya hayatınızda bütün güzelliklerinizi zayi ettiniz ve bunlarla sefa sürdünüz, bugün haksız yere yeryüzünde büyüklük taslamanızdan ötürü ve haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile cezalandırılacaksınız
 (21) 
 (22) 
 (23) 
