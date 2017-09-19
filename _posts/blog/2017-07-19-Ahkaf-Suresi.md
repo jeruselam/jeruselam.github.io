@@ -29,7 +29,7 @@ tag:
 (17) ve o kimse anasına babasına öf size dedi, benden önce nice nesiller gelip geçmiş iken, gelip geçmiş iken siz benim çıkarılacağımı  bana mı va’d ediyorsunuz? onlar ise Allah’a sığınarak, yazık sana iman et! (dediler), şüphesiz Allah’ın sözü gerçektir, derken o der ki, bu eskilerin masallarından başka bir şey değildir
 (18) işte onlar kendilerinden önce gelip geçen, gelip geçen toplulukları arasında cin(ler)den ve insan(lardan) (azab) söz(ü) kendilerine hak olan kimselerdir, gerçekten onlar ziyana uğrayanlardır
 (19) yaptıkları işlerden her birinin dereceleri vardır ve onlara yaptıklarının karşılığını tam verir ve onlara asla haksızlık edilmez
-(20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, dünya hayatınızda bütün güzelliklerinizi zayi ettiniz ve bunlarla sefa sürdünüz bugün yeryüzünde haksız yere büyüklük taslamanızdan ötürü ve haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile cezalandırılacaksınız
+(20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, bütün güzelliklerinizi dünya hayatınızda zayi ettiniz ve bunlarla sefa sürdünüz, haksız yere yeryüzünde haksız yere büyüklük taslamanızdan ötürü ve yoldan çıkmanızdan ötürü alçaltıcı bir azab ile bugün cezalandırılacaksınız
 (21) ve Ad’ın kardeşini (Hud’u) an, hani Ahkaf’taki kavmini uyarmıştı, gelip geçti nice uyarıcılar, onun önünden ve ardından gelip geçti,  Allah’tan başkasına kulluk etmeyin, elbette ben sizin büyük bir günün azabına uğramanızdan korkuyorum 
 (22) dediler ki bizi tanrılarımızdan çevirmek için sen mi? geldin, o halde eğer doğrulardan isen bizi tehdidettiğin şeyi bize getir
 (23) bilgi sadece Allah katındadır dedi ve ben size onunla gönderildiğim şeyi (mesajı) tebliğ ediyorum fakat ben sizi cahillik eden bir kavim görüyorum
