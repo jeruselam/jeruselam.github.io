@@ -30,13 +30,13 @@ tag:
 (18) işte onlar cin(ler)den ve insan(lardan) kendilerinden önce gelip geçen, gelip geçen toplulukları arasında (azab) söz(ü) kendilerine hak olan kimselerdir, gerçekten onlar ziyana uğrayanlardır
 (19) her birinin yaptıkları işlerden dereceleri vardır ve onlara yaptıklarının karşılığını tam verir ve onlara asla haksızlık edilmez
 (20) ve inkar eden(ler) kimseler ateşe sunulacakları gün, dünya hayatınızda bütün güzelliklerinizi zayi ettiniz ve bunlarla sefa sürdünüz bugün yeryüzünde haksız yere büyüklük taslamanızdan ötürü ve haksız yere yoldan çıkmanızdan ötürü alçaltıcı bir azab ile cezalandırılacaksınız
-(21) 
-(22) 
-(23) 
-(24) 
-(25) 
-(26) 
-(27) 
+(21) ve Ad’ın kardeşini (Hud’u) an, hani Ahkaf’taki kavmini uyarmıştı, gelip geçti nice uyarıcılar, onun önünden ve ardından gelip geçti,  Allah’tan başkasına kulluk etmeyin, elbette ben sizin büyük bir günün azabına uğramanızdan korkuyorum 
+(22) dediler ki bizi tanrılarımızdan çevirmek için sen mi? geldin, o halde eğer doğrulardan isen bizi tehdidettiğin şeyi bize getir
+(23) bilgi sadece Allah katındadır dedi ve ben size onunla gönderildiğim şeyi (mesajı) tebliğ ediyorum fakat ben sizi cahillik eden bir kavim görüyorum
+(24) nihayet onu geniş bir bulut halinde vadilerine yönelerek geldiğini görünce bu bize yağmur yağdıracak bir buluttur dediler hayır o şey sizin onun acele gelmesini istediğinizdir, içinde acıklı azab bulunan bir rüzgardır
+(25) Rabbinin emriyle her şeyi yıkar mahveder onlar o hale geldiler ki konutlarından başka bir şey görülmez oldu, suç işleyen toplumu işte biz böyle cezalandırırız
+(26) ve andolsun onu size vermediğimiz şeyi onlara imkan vermiştik ve onlara kulaklar ve gözler ve gönüller yaratmıştık fakat kulakları ne de gözleri ne de gönülleri kendilerine bir şey (yarar) sağlamadı zira Allah’ın ayetlerini bile bile inkar ediyorlardı ve onunla alay edip duruyor(lar) oldukları şey kendilerini kuşatıverdi
+(27)
 (28) 
 (29) 
 (30) 
