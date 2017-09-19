@@ -21,7 +21,7 @@ tag:
 (9) de ki elçiler (arasında) türedi biri değilim ve bana ne de size ne yapılacağını bilmem (hayır) ben bana vahyedilen şey(den) başkasına uymuyorum ve ben apaçık bir uyarıcıdan başka bir şey değilim
 (10) de ki, eğer Allah katından ise hiç düşündünüz mü? ve siz onu inkar ettiyseniz ve bunun benzerini İsrail oğullarından bir şahid görüp ve inandığı halde siz tenezzül etmemişseniz, şüphesiz Allah zalimlerden bir toplumu doğru yola iletmez 
 (11) ve inkar eden(ler) kimseler, inanan(lar) kimseler için, şayet iyi bir şey olsaydı, ona (inanmada) bizi geçemezlerdi dedi(ler), onunla hidayete ermedikleri zaman ise diyeceklerdir ki, bu eski bir yalandır
-(12) ve ondan önce önder Musa’nın Kitabı ve bu kendilerine yazık eden(leri) kimseleri uyarmak için Arap diliyle doğrulayan ve güzel davrananlar (için) müjde ve rahmet (olan) Kitaptır 
+(12) ve ondan önce önder Musa’nın Kitabı ve güzel davrananlar (için) müjde ve rahmet (olan) ve kendilerine yazık eden(leri) kimseleri uyarmak için Arap diliyle doğrulayan bu Kitaptır 
 (13) şüphesiz Rabbimiz Allah’tır diyen(ler) kimseler sonra doğru olanlar onlara korku yoktur ve onlar üzülecek değildir
 (14) onlar cennet halkıdır yapıyorlar olduklarına karşılık ceza olarak orada ebedi kalacaklardır 
 (15) ve biz insana ana babasına iyilik etmesini tavsiye ettik, anası onu zahmetle taşıdı ve onu zahmetle doğurdu, sütten kesilmesi ve taşınması ise otuz aydır nihayet güçlü çağına erdiği zaman ve kırk yaşına varınca Rabbim dedi bana ve anama babama verdiğin ni’metine şükretmeğe ve razı olacağın yararlı işler yapmağa beni sevk eyle ve zürriyetim içinde benim için salahı devam ettir şüphesiz ben sana yüz tuttum ve elbette ben teslim olanlardanım
