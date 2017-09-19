@@ -36,12 +36,12 @@ tag:
 (24) nihayet onu geniş bir bulut halinde vadilerine yönelerek geldiğini görünce bu bize yağmur yağdıracak bir buluttur dediler hayır o şey sizin onun acele gelmesini istediğinizdir, içinde acıklı azab bulunan bir rüzgardır
 (25) Rabbinin emriyle her şeyi yıkar mahveder onlar o hale geldiler ki konutlarından başka bir şey görülmez oldu, suç işleyen toplumu işte biz böyle cezalandırırız
 (26) ve andolsun onu size vermediğimiz şeyi onlara imkan vermiştik ve onlara kulaklar ve gözler ve gönüller yaratmıştık fakat kulakları ne de gözleri ne de gönülleri kendilerine bir şey (yarar) sağlamadı zira Allah’ın ayetlerini bile bile inkar ediyorlardı ve onunla alay edip duruyor(lar) oldukları şey kendilerini kuşatıverdi
-(27)
-(28) 
-(29) 
-(30) 
-(31) 
-(32) 
-(33) 
-(34) 
-(35) 
+(27) ve andolsun biz çevrenizdeki kentleri yok ettik ve ayetleri tekrar tekrar açıkladık belki de (küfürlerinden) dönerler
+(28) yakınlık sağlamak için Allah'tan başka tanrı edindikleri şeyler kendilerine yardım etselerdi olmaz mıydı? hayır onlardan kaybolup gittiler, onların yalanları ve uydurmuş oldukları şeyler işte budur 
+(29) Kur’an dinlemek üzere cinlerden bir topluluğu bir zaman sana yöneltmiştik, ona geldikleri zaman susun (dinleyin) dediler, bitirildiği zaman da uyarıcılar olarak kavimlerine döndüler
+(30) kavmimiz elbette biz Musa’dan sonra indirilen kendinden öncekini doğrulayan, kendinden öncekini gerçeğe ve doğru yola götüren bir Kitap dinledik dediler
+(31) kavmimiz Allah’ın da’vetçisine uyun ve O’na inanın, sizi günahlarınızdan bir kısmını bağışlasın ve sizi acıklı azabdan korusun
+(32) ve kim Allah’ın da’vetçisine uymazsa yeryüzünde aciz bırakacak değildir ve kendisinin O’ndan başka velileri olmaz, onlar apaçık bir sapıklık içindedirler
+(33) gökleri ve yeri yaratan ve bunları yaratmakla yorulmayan ölüleri Allah’ın diriltmeğe kadir olduğunu gerçekten görmediler mi? evet şüphesiz O her şey üzerine kadirdir
+(34) ve inkar eden(ler) kimseler ateşe karşı sunulacakları gün bu gerçek değil miymiş? derler, Rabbimiz hakkı için evet der, öyleyse inkar ediyor(lar) olmanızdan dolayı azabı tadın 
+(35) o halde azim (ve irade) sahibi elçilerin sabrettikleri gibi sabret ve asla onlar için acele etme, onlar tehdit edildikleri şeyi (azabı) gördükleri gün (sanki) gündüzden bir sa’at dışında yaşamamışlar gibi olurlar, (bu) bir duyurudur, yoldan çıkmış topluluktan başkası mı helak edilecektir?
