@@ -9,7 +9,7 @@ url               : https://jeruselam.github.io
 author:
   name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
   url             : https://jeruselam.github.io
-  email           : admin@jeruselam.github.io
+  email           : jeruselam@yandex.com
   bio             : "Just another tattooed, time traveling designer."
   picture         : "/images/apple-icon-120x120.png"
 
@@ -67,7 +67,7 @@ sitemap:
 owner:
   name           : Jeruselam
   avatar         : mudur.png
-  email: 
+  email          : jeruselam@yandex.com
   disqus-shortname: 
   twitter: 
   facebook: 
@@ -98,5 +98,5 @@ license_name     : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unp
 license_url      : http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 development_mode : true
-development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduüunuz hataları github sitesi üzerinden bildirebilirsiniz.
+development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
