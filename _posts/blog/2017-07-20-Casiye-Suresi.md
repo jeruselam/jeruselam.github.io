@@ -24,13 +24,14 @@ tag:
 (12) O ki Allah’tır, onun içinde gemiler buyruğuyla akıp gitsin diye denizi size boyun eğdirdi ve O’nun lutfundan payınızı arayasınız diye ve umulur ki şükredersiniz
 (13) ve göklerde bulunan şeyleri ve yerde bulunan şeyleri hepsini kendisinden size boyun eğdirdi elbette bunda düşünen bir toplum için ibretler 
 (14) inanan(lara) kimselere söyle, yapıyorlar oldukları sebebiyle bir toplumu cezalandırması için Allah’ın günlerini ummayan(ları) kimseleri affetsinler
-(15) 
-(16) 
-(17) 
-(18) 
-(19) 
+(15) kim iyi bir iş yaparsa yararı kendisinedir ve kim kötülük yaparsa	
+zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
+(16) ve andolsun biz İsrail oğullarına Kitap ve hüküm ve peygamberlik verdik ve onları güzel rızıklarla besledik ve onları alemler üzerine üstün kıldık
+(17) ve onlara açık deliller verdik, onlar bu işde bilgi kendilerine geldikten sonra sadece aralarındaki çekememezlik(yüzünden) ayrılığa düşmediler, onda oldukları şeylerde ayrılığa düşüyor(lar), şüphesiz Rabbin kıyamet günü onlar arasında hüküm verecektir 
+(18) sonra seni emrimizden bir şeriat üzerine koyduk, sen ona uy ve bilmeyen(lerin)	kimselerin keyiflerine uyma
+(19) çünkü onlar Allahtan hiçbir şeyi senden asla savamazlar, ve şüphesiz zalimler, bir kısmı diğerinin velisidirler, Allah ise muttakilerin velisidir
 (20) 
-(21) 
+(21)
 (22) 
 (23) 
 (24) 
