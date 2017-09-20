@@ -32,9 +32,9 @@ zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
 (19) çünkü onlar Allahtan hiçbir şeyi senden asla savamazlar, ve şüphesiz zalimler, bir kısmı diğerinin velisidirler, Allah ise muttakilerin velisidir
 (20) bu (Kur’an) insanlara kanıtlar(sunmakta)dır ve yol göstericidir ve kesin olarak inanan kavimler için rahmettir 
 (21) yoksa kötülükleri işleyen kimseler, onları iyi ameller yapan ve  inanan kimseler gibi yapacağımızı (mı) sandılar (ki?) yaşamaları ve ölümleri bir olacak, (öyle mi?) ne kötü hüküm veriyorlar
-(22) 
-(23) 
-(24) 
+(22) ve her can kazandığı şey ile cezalandırılsın ve onlara asla haksızlık edilmesin diye Allah gökleri ve yeri hak olarak yaratmıştır
+(23) keyfini tanrı edinen ve Allah’ın bir bilgiye göre saptırdığı ve kulağının üzerini ve kalbini mühürlediği ve gözünün üstüne perde çektiği kimseyi gördün mü?  Allah’tan sonra ona doğru yolu şimdi kim? gösterecek düşünmüyor musunuz?
+(24) ve dediler ki, dünya hayatımızdan başka bir şey yoktur, ölürüz ve yaşarız ve bizi zamandan başkası helak etmiyor, fakat onların bu hususta hiçbir bilgileri yoktur, (hayır) onlar sadece zannediyorlar
 (25) 
 (26) 
 (27) 
