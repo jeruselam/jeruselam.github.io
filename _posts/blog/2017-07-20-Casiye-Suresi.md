@@ -35,17 +35,17 @@ zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
 (22) ve her can kazandığı şey ile cezalandırılsın ve onlara asla haksızlık edilmesin diye Allah gökleri ve yeri hak olarak yaratmıştır
 (23) keyfini tanrı edinen ve Allah’ın bir bilgiye göre saptırdığı ve kulağının üzerini ve kalbini mühürlediği ve gözünün üstüne perde çektiği kimseyi gördün mü?  Allah’tan sonra ona doğru yolu şimdi kim? gösterecek düşünmüyor musunuz?
 (24) ve dediler ki, dünya hayatımızdan başka bir şey yoktur, ölürüz ve yaşarız ve bizi zamandan başkası helak etmiyor, fakat onların bu hususta hiçbir bilgileri yoktur, (hayır) onlar sadece zannediyorlar
-(25) 
-(26) 
-(27) 
-(28) 
-(29) 
-(30) 
-(31) 
-(32) 
-(33) 
-(34) 
-(35) 
-(36) 
-(37) 
+(25) ve onlara ayetlerimiz açık açık okunduğu zaman eğer doğrular(dan) iseniz babalarımızı getirin demelerinden başka bir delilleri olmamıştır
+(26) de ki Allah sizi yaşatıyor sonra sizi öldürüyor sonra sizi kıyamet gününe toplayıp getirecektir bunda asla şüphe yoktur ama insanların çoğu bilmezler
+(27) göklerin ve yerin mülkü Allah’ındır ve sa’at başladığı gün, işte o gün iptalciler hüsrana uğrayacaktır
+(28) ve her ümmeti toplanmış görürsün, her ümmet kendi Kitabına çağırılır, bugün yapıyor(lar) olduğunuz şeylerle cezalandırılacaksınız
+(29) işte Kitabımız gerçeği aleyhinize söylüyor çünkü biz yapıyor(lar) olduğunuz şeyleri yazıyor idik
+(30) inanan(lara) kimselere ve iyi işler yapanlara gelince Rableri onları rahmetine sokar işte apaçık başarı budur
+(31) ama inkar eden(lere) kimselere gelince ayetlerim size okunurdu değil mi? fakat siz büyüklük tasladınız ve suçlulardan bir toplum oldunuz 
+(32) ve şüphesiz Allah’ın va’di ve sa’atte gerçektir, onda şüphe yoktur dendiği zaman Sa’at nedir bilmiyoruz (hayır) sanıyoruz ki sadece bir kuruntudur ve biz inananlardan değiliz demiştiniz
+(33) ve yaptıkları şeylerin kötülükleri onlara göründü ve onunla alay ediyor(lar) oldukları şey onları kuşattı
+(34) ve bu gününüzle karşılaşmayı unuttuğunuz gibi bugün sizi unuttuk  denildi ve yeriniz ateştir ve sizin için hiçbir yardımcınız yoktur
+(35) böyledir çünkü siz Allah’ın ayetlerini eğlence edindiniz ve dünya hayatı sizi aldattı artık bugün onlar ondan (ateşten) çıkarılmazlar ve onlar mazeret istenenlerden olmaz 
+(36) hamd göklerin Rabbi ve yerin Rabbi, bütün alemlerin Rabbi Allah’a mahsustur
+(37) göklerde ve yerde ululuk yalnız O’na aittir ve O azizdir, hakimdir
 
