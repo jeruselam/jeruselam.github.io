@@ -30,8 +30,8 @@ zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
 (17) ve onlara açık deliller verdik, onlar bu işde bilgi kendilerine geldikten sonra sadece aralarındaki çekememezlik(yüzünden) ayrılığa düşmediler, onda oldukları şeylerde ayrılığa düşüyor(lar), şüphesiz Rabbin kıyamet günü onlar arasında hüküm verecektir 
 (18) sonra seni emrimizden bir şeriat üzerine koyduk, sen ona uy ve bilmeyen(lerin)	kimselerin keyiflerine uyma
 (19) çünkü onlar Allahtan hiçbir şeyi senden asla savamazlar, ve şüphesiz zalimler, bir kısmı diğerinin velisidirler, Allah ise muttakilerin velisidir
-(20) 
-(21)
+(20) bu (Kur’an) insanlara kanıtlar(sunmakta)dır ve yol göstericidir ve kesin olarak inanan kavimler için rahmettir 
+(21) yoksa kötülükleri işleyen kimseler, onları iyi ameller yapan ve  inanan kimseler gibi yapacağımızı (mı) sandılar (ki?) yaşamaları ve ölümleri bir olacak, (öyle mi?) ne kötü hüküm veriyorlar
 (22) 
 (23) 
 (24) 
