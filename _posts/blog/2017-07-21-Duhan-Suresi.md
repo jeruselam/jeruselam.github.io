@@ -27,45 +27,45 @@ tag:
 (15) elbette biz azabı birazcık kaldırırız ama siz dönersiniz
 (16) o gün büyük vuruşla vururuz zira biz öc alıcıyız
 (17) ve andolsun onlardan önce Fir’avn toplumunu sınadık ve onlara değerli bir elçi geldi
-(18) Allah’ın kullarını bana teslim edin diye çünkü sizin için ben güvenilir bir elçiyim 
-(19) 
-(20) 
-(21) 
-(22) 
-(23) 
-(24) 
-(25) 
-(26) 
-(27) 
-(28) 
-(29) 
-(30) 
-(31) 
-(32) 
-(33) 
-(34) 
-(35) 
-(36) 
-(37) 
-(38) 
-(39) 
-(40)
-(41) 
-(42) 
-(43) 
-(44) 
-(45) 
-(46) 
-(47) 
-(48) 
-(49) 
-(50) 
-(51) 
-(52) 
-(53) 
-(54) 
-(55) 
-(56) 
-(57) 
-(58) 
-(59) 
+(18) Allah’ın kullarını bana teslim edin diye çünkü ben sizin için  güvenilir bir elçiyim 
+(19) ve Allah’a karşı ululanmayın diye elbette ben size apaçık bir delil getiriyorum
+(20) ve elbette ben beni taşla(yıp öldür)menizden benim Rabbim ve sizin Rabbiniz olana sığındım
+(21) ve eğer bana inanmadınızsa benden uzaklaşın
+(22) sonra Rabbine du’a etti ki gerçekten bunlar suç işleyen bir toplumdur
+(23) o halde kullarımı geceleyin yürüt çünkü takibedileceksiniz
+(24) ve açık denizi bırak çünkü onlar boğulacak bir ordudur
+(25) onlar bahçelerden ve çeşmeler(den) nice şeyler geride bıraktılar
+(26) ve ekinler(den) ve güzel makamlar(dan)
+(27) ve ni’metler(den), onlar orada zevkü sefa sürüyorlardı
+(28) işte böyle oldu ve biz onları başka bir topluma miras verdik
+(29) gök ve yer onlara ağlamadı ve fırsat verilenlerden olmadılar
+(30) ve andolsun biz İsrail oğullarını küçültücü azabdan kurtardık
+(31) çünkü o sınırı aşanlardan ululanan Fir’avndan idi 
+(32) ve andolsun biz onları bir bilgiye göre alemler üzerine üstün kıldık 
+(33) ve onlara içinde açık bir sınav bulunan ayetlerden verdik
+(34) şunlar gerçekten diyorlar ki
+(35) o ilk ölümümüzden başkası değildir ve biz diriltilecek değiliz
+(36) babalarımızı getirin eğer doğrulardan iseniz
+(37) onlar mı hayırlı yoksa Tubba’ kavmi ve onlardan öncekiler (mi?) biz onları helak ettik çünkü onlar suç işliyorlar idiler
+(38) ve biz gökleri ve yeri ve bunlar arasında bulunanları eğlenmek için yaratmadık
+(39) onları hikmetli bir gaye dışında bir sebeple yaratmadık fakat onların çoğu bilmiyorlar
+(40) şüphesiz hüküm günü hepsinin varacağı gündür
+(41) o gün dost dostundan bir şey savamaz ve onlar yardım edilenlerden olmaz 
+(42) ancak Allah’ın acıdığı kimseler hariçtir şüphesiz O, O üstündür esirgeyendir
+(43) şüphesiz Zakkum ağacı
+(44) günahkarların yemeğidir
+(45) karınlarda erimiş maden gibi kaynar
+(46) sıcak suyun kaynaması gibi
+(47) tutun onu cehennemin ortasına sürükleyin
+(48) sonra kaynar su azabından başının üstüne dökün
+(49) tad zira sen kendince üstündün şerefliydin
+(50) şüphesiz o ondan kuşkulanmış olduğunuz şeydir
+(51) şüphesiz muttakiler güvenli bir makamdadır
+(52) bahçelerde ve çeşme başlarında
+(53) ince ipekten ve parlak atlastan giysiler giyerler, karşılıklı otururlar 
+(54) ayrıca onları iri gözlü hurilerle evlendirmişizdir
+(55) orada her meyveyi güven içinde isterler
+(56) orada ilk ölümden başka ölüm tadmazlar ve onları cehennem azabından korur
+(57) Rabbinden bir lutuf olarak o büyük başarı işte budur
+(58) biz o’nu kesinlikle senin diline kolaylaştırdık umulur ki düşünüp öğüt alırlar
+(59) biraz bekle onlar da beklemektedirler
