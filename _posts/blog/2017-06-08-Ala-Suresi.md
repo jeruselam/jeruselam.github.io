@@ -27,5 +27,5 @@ tag:
 (15) ve Rabb'inin adını anan ve namaz kılan
 (16) ama siz dünya hayatını yeğliyorsunuz
 (17) oysa ahiret daha iyidir ve daha kalıcıdır
-(18) şüphesiz bu elbette ilk sahifelerde de vardı
+(18) şüphesiz elbette bu ilk sahifelerde de vardı
 (19) İbrahim’in ve Musa’nın sayfalarında
