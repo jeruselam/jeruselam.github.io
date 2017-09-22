@@ -32,16 +32,16 @@ tag:
 (20) ve dediler ki eğer Rahman dileseydi biz onlara tapmazdık, onların bu hususta hiçbir bilgileri yoktur, onlar sadece saçmalıyorlar
 (21) yoksa? bundan önce onlara (mı) vermişiz? bir Kitap onlar ona sarılıyorlar
 (22) hayır dediler ki elbette biz babalarımızı bir din üzerinde bulduk ve elbette biz de onların izleri üzerinde gidiyoruz
-(23) ve işte böyle, senden önce elbette biz babalarımızı bir din üzerinde bulduk ve biz de onların izlerine uyarız diyenlerden oranın zenginleri dışında herhangi bir kente, hiçbir uyarıcı göndermedik 
-(24) 
-(25) 
-(26) 
-(27) 
-(28) 
-(29) 
-(30) 
-(31) 
-(32) 
+(23) ve işte böyle, senden önce elbette biz babalarımızı bir din üzerinde bulduk ve biz de onların izlerine uyarız diyenlerden, oranın zenginleri dışında herhangi bir kente hiçbir uyarıcı göndermedik 
+(24) şayet dedi ben size babalarınızı üzerinde bulduğunuz şeyden daha doğrusunu getirsem de mi? doğrusu biz sizinle gönderilen şeyi onu inkar ediyoruz dediler
+(25) biz de onlardan öc aldık yalanlayanların sonu bak nasıl oldu 
+(26) bir zaman İbrahim babasına ve kavmine demişti ki şüphesiz ben sizin taptığınız şeylerden uzağım
+(27) yalnızca beni yaratana çünkü O bana doğru yolu gösterecektir
+(28) ve onu kendinden sonrakiler arasında kalıcı bir söz yaptı umulur ki dönerler (diye)
+(29) doğrusu gerçek söz ve açıklayan elçi kendilerine gelinceye dek bunları ve babalarını yaşattım
+(30) fakat gerçek onlara gelince bu büyüdür ve elbette biz onu tanımayız dediler 
+(31) ve dediler ki bu Kur’an büyük iki kentten bir adama indirilmeli değil miydi?
+(32) Rabbinin rahmetini onlar mı? bölüştürüyorlar, dünya hayatında biz onların geçimliklerini aralarında taksim ettik ve biri diğerine hizmetçi, çalışan edinmeleri için onlardan kimini ötekiler üzerine derecelerle üstün kıldık ve Rabbinin rahmeti onların toplayıp yığdıkları şeylerden daha hayırlıdır
 (33) 
 (34) 
 (35) 
