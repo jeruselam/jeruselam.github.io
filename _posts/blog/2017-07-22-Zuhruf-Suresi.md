@@ -63,14 +63,14 @@ tag:
 (51) ve Fir’avn kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
 (52) yahut ben şundan daha iyi (değil miyim?) ki o aşağılıktır ve nerdeyse söz anlatacak durumda olmayandır
 (53) üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
-(54) 
-(55) 
-(56) 
-(57) 
-(58) 
-(59) 
-(60)
-(61) 
+(54) kavmini küçümsedi, onlar da ona boyun eğdiler çünkü onlar yoldan çıkmış bir kavim idiler
+(55) onlar bizi kızdırınca biz de onlardan öc aldık ve onları, hepsini boğduk
+(56) onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
+(57) ve ne zaman ki Meryem oğlu bir misal olarak anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
+(58) ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
+(59) O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
+(60) ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
+(61) ve şüphesiz O kıyametin ilmidir ondan hiç şüphe etmeyin ve bana uyun, doğru yol budur
 (62) 
 (63) 
 (64) 
