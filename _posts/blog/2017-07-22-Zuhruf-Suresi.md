@@ -28,10 +28,10 @@ tag:
 (16) yoksa yarattıklarından kızları kendisine (mı?) aldı ve size oğulları seçti 
 (17) ve ne zaman ki onlardan birine Rahman’a anlattığı benzer olarak müjdelense yüzü kapkara kesilir ve o öfkesinden yutkunup durur
 (18) açık olmayan mücadelede ve süs içinde yetiştirilen kimseyi mi?
-(19) 
-(20) 
-(21) 
-(22) 
+(19) ve onlar Rahman’ın kulları olan melekleri dişi saydılar, onların yaratılışlarına şahid mi oldular? şahidlikleri yazılacaktır ve (bundan) sorulacaklardır
+(20) ve dediler ki eğer Rahman dileseydi biz onlara tapmazdık, onların bu hususta hiçbir bilgileri yoktur, onlar sadece saçmalıyorlar
+(21) yoksa? bundan önce onlara (mı) vermişiz? bir Kitap onlar ona sarılıyorlar
+(22) hayır dediler ki elbette biz babalarımızı bir din üzerinde bulduk ve elbette biz de onların izleri üzerinde gidiyoruz
 (23) 
 (24) 
 (25) 
