@@ -17,7 +17,7 @@ tag:
 (5) sonra da onu kupkuru siyah bir çöpe çevirdi
 (6) sana okutacağız, unutmayacaksın
 (7) yalnız Allah’ın dilediği başka, muhakkak O, açığı ve gizli olanı bilir
-(8) ve sana, en kolay olana kolaylaştıracağız 
+(8) ve sana, en kolay olana, kolaylaştıracağız 
 (9) o halde eğer hatırlatmak yarar verirse hatırlat öğüt ver
 (10) saygılı olan hatırlar
 (11) ve bahtsız olan ondan kaçınır
