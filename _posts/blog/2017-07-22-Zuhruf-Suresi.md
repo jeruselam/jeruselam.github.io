@@ -42,18 +42,18 @@ tag:
 (30) fakat gerçek onlara gelince bu büyüdür ve elbette biz onu tanımayız dediler 
 (31) ve dediler ki bu Kur’an büyük iki kentten bir adama indirilmeli değil miydi?
 (32) Rabbinin rahmetini onlar mı? bölüştürüyorlar, dünya hayatında biz onların geçimliklerini aralarında taksim ettik ve biri diğerine hizmetçi, çalışan edinmeleri için onlardan kimini ötekiler üzerine derecelerle üstün kıldık ve Rabbinin rahmeti onların toplayıp yığdıkları şeylerden daha hayırlıdır
-(33) 
-(34) 
-(35) 
-(36) 
-(37) 
-(38) 
-(39) 
-(40)
-(41) 
-(42) 
-(43) 
-(44) 
+(33) insanların bir tek ümmet olması (sözkonusu) olmasaydı, Rahman’ı inkar eden kimseler için evlerine gümüşten tavanlar ve üzerine binip çıkacakları merdivenler yapardık
+(34) ve evlerine kapılar ve üzerine yaslanacakları koltuklar 
+(35) ve (nice) süsler, bütün bunlar sadece dünya hayatının geçici menfaatleridir (başka) değil ahiret ise Rabbinin katında muttakiler içindir
+(36) ve kim Rahman’ın zikrinden yüz çevirirse ona bir şeytanı sardırırız artık o onun arkadaşı olur
+(37) elbette onlar, onları yoldan engellerler fakat bunlar doğru yolda olduklarını sanırlar
+(38) nihayet bize geldiği zaman der ki, keşke benimle senin aranda iki doğu kadar uzaklık olsaydı meğer ne kötü arkadaş(mışsın)
+(39) ve bugün asla size bir yarar sağlamaz çünkü zulmettiniz, siz azabda ortaksınız
+(40) sen mi? sağıra işittireceksin yahut körü ve apaçık sapıklıkta olan kimseyi yola ileteceksin 
+(41) seni biz alıp götürsek bile muhakkak biz onlardan öc alırız
+(42) yahut onları uyardığımız şeyi sana gösteririz şüphesiz bizim onlara gücümüz yeter
+(43) sen sana vahyedilene sımsıkı sarıl çünkü sen doğru yol üzerindesin
+(44) şüphesiz O (Kur’an) sana ve kavmine bir Zikir’dir ve yakında sorulacaksınız
 (45) 
 (46) 
 (47) 
