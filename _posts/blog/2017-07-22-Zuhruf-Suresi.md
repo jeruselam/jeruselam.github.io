@@ -32,7 +32,7 @@ tag:
 (20) ve dediler ki eğer Rahman dileseydi biz onlara tapmazdık, onların bu hususta hiçbir bilgileri yoktur, onlar sadece saçmalıyorlar
 (21) yoksa? bundan önce onlara (mı) vermişiz? bir Kitap onlar ona sarılıyorlar
 (22) hayır dediler ki elbette biz babalarımızı bir din üzerinde bulduk ve elbette biz de onların izleri üzerinde gidiyoruz
-(23) 
+(23) ve işte böyle, senden önce elbette biz babalarımızı bir din üzerinde bulduk ve biz de onların izlerine uyarız diyenlerden oranın zenginleri dışında herhangi bir kente, hiçbir uyarıcı göndermedik 
 (24) 
 (25) 
 (26) 
