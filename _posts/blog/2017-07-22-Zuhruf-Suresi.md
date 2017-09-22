@@ -54,15 +54,15 @@ tag:
 (42) yahut onları uyardığımız şeyi sana gösteririz şüphesiz bizim onlara gücümüz yeter
 (43) sen sana vahyedilene sımsıkı sarıl çünkü sen doğru yol üzerindesin
 (44) şüphesiz O (Kur’an) sana ve kavmine bir Zikir’dir ve yakında sorulacaksınız
-(45) 
-(46) 
-(47) 
-(48) 
-(49) 
-(50) 
-(51) 
-(52) 
-(53) 
+(45) ve senden önce elçilerimizden gönderdiğimiz kimseye sor, Rahman’dan başka tapılacak tanrılar yapmış mıyız?
+(46) ve andolsun biz Musa’yı ayetlerimizle Fir’avn’a ve ileri gelen adamlarına gönderdik, elbette ben alemlerin Rabbinin elçisiyim dedi
+(47) ne zaman ki ayetlerimizle onlara gelince onlar hemen onlarla (alay edip) gülmeğe başladılar
+(48) ve onlara hiçbir mu’cize, ötekinden, o daha büyük (olandan) başkasını göstermeyiz ve onları azab(lar) ile yakaladık umulur ki dönerler
+(49) ve dediler ki, ey büyücü sana verdiği söz hürmetine Rabbine bizim için du’a et artık biz yola geleceğiz
+(50) fakat biz onlardan azabı kaldırınca onlar hemen sözlerinden dönüyorlar
+(51) ve Fir’avn kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
+(52) yahut ben şundan daha iyi (değil miyim?) ki o aşağılıktır ve nerdeyse söz anlatacak durumda olmayandır
+(53) üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
 (54) 
 (55) 
 (56) 
