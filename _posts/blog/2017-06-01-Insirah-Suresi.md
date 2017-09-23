@@ -11,11 +11,11 @@ tag:
 
 ## 94. İnşirâh Sûresi
 
-(1) Senin göğsünü açmadık mı?
-(2) Ve yükünü senin üzerinden atmadık mı?
-(3) (O yük) ki sırtını çatırdatmıştı.
-(4) Ve senin şanını yükseltmedik mi?
-(5) Her güçlükle beraber bir kolaylık muhakkak (vardır).
-(6) Her güçlükle beraber bir kolaylık elbette (vardır).
-(7) Boşaldığın (işin bitince) zaman (tekrar) başla
-(8) ve Rabb’ine niyaz et yalvar.
+**(1)** Senin göğsünü açmadık mı?
+**(2)** Ve yükünü senin üzerinden atmadık mı?
+**(3)** (O yük) ki sırtını çatırdatmıştı.
+**(4)** Ve senin şanını yükseltmedik mi?
+**(5)** Her güçlükle beraber bir kolaylık muhakkak (vardır).
+**(6)** Her güçlükle beraber bir kolaylık elbette (vardır).
+**(7)** Boşaldığın (işin bitince) zaman (tekrar) başla
+**(8)** ve Rabb’ine niyaz et yalvar.

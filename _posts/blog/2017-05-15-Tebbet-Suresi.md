@@ -11,8 +11,8 @@ tag:
 
 ## 111. Tebbet Sûresi
 
-(1) Ebu Leheb’in iki eli kurusun, zaten kurudu da.
-(2) Onu malı ve kazandığı kurtaramadı.
-(3) Alevli bir ateşe girecektir.
-(4) Ve karısı odun hamalı,
-(5) boynunda hurma lifinden bir ip.
+**(1)** Ebu Leheb’in iki eli kurusun, zaten kurudu da.
+**(2)** Onu malı ve kazandığı kurtaramadı.
+**(3)** Alevli bir ateşe girecektir.
+**(4)** Ve karısı odun hamalı,
+**(5)** boynunda hurma lifinden bir ip.

@@ -10,14 +10,14 @@ tag:
 
 ## 93. Duhâ Sûresi
 
-(1) kuşluk vaktine andolsun
-(2) ve sakinleşen geceye andolsun
-(3) Rabbin seni bırakmadı ve darılmadı
-(4) ve senin için sonu ilkinden iyi olacaktır
-(5) ve Rabb'in yakında sana verecektir ve sen razı olacaksın
-(6) seni yetim bulmadı mı? ve barındırmadı mı?
-(7) ve seni şaşırmış bulmadı mı? ve yola iletmedi mi?
-(8) ve seni fakir bulmadı mı? zengin etmedi mi?
-(9) öyleyse öksüzü sakın ezme
-(10) ve sakın dilenciyi azarlama
-(11) ve Rabb'inin ni’metini anlat
+**(1)** kuşluk vaktine andolsun
+**(2)** ve sakinleşen geceye andolsun
+**(3)** Rabbin seni bırakmadı ve darılmadı
+**(4)** ve senin için sonu ilkinden iyi olacaktır
+**(5)** ve Rabb'in yakında sana verecektir ve sen razı olacaksın
+**(6)** seni yetim bulmadı mı? ve barındırmadı mı?
+**(7)** ve seni şaşırmış bulmadı mı? ve yola iletmedi mi?
+**(8)** ve seni fakir bulmadı mı? zengin etmedi mi?
+**(9)** öyleyse öksüzü sakın ezme
+**(10)** ve sakın dilenciyi azarlama
+**(11)** ve Rabb'inin ni’metini anlat

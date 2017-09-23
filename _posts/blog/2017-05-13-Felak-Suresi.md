@@ -11,9 +11,9 @@ tag:
 
 ## 113. Felak Sûresi
 
-(1) De ki, karanlığı yarıp sabahı ortaya çıkaran Rabbe sığınırım ben,
-(2) yarattığı şeylerin şerrinden,
-(3) ve karanlığı çöktüğü zaman gecenin şerrinden,
-(4) ve düğümlere üfleyenlerin şerrinden,
-(5) ve hased ettiği zaman hasedcinin şerrinden,
-(6) de ki, insanların Rabbine sığınırım ben.
+**(1)** De ki, karanlığı yarıp sabahı ortaya çıkaran Rabbe sığınırım ben,
+**(2)** yarattığı şeylerin şerrinden,
+**(3)** ve karanlığı çöktüğü zaman gecenin şerrinden,
+**(4)** ve düğümlere üfleyenlerin şerrinden,
+**(5)** ve hased ettiği zaman hasedcinin şerrinden,
+**(6)** de ki, insanların Rabbine sığınırım ben.

@@ -11,7 +11,7 @@ tag:
 
 ## 112. İhlâs Sûresi
 
-(1) De ki, o Allah birdir.
-(2) Allah Samed'dir.
-(3) Doğurmamıştır ve doğurulmamıştır.
-(4) Ve hiçbir şey O’nun dengi olmamıştır.
+**(1)** De ki, o Allah birdir.
+**(2)** Allah Samed'dir.
+**(3)** Doğurmamıştır ve doğurulmamıştır.
+**(4)** Ve hiçbir şey O’nun dengi olmamıştır.

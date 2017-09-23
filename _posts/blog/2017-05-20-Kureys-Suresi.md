@@ -11,7 +11,7 @@ tag:
 
 ## 106. Kureyş Sûresi
 
-(1) Kureyşi alıştırdığı için,
-(2) onları alıştırdığı için kış ve yaz yolculuğuna,
-(3) bu evin Rabbine kulluk etsinler.
-(4) O ki onları yedirip açlıktan (kurtardı) ve onları korkudan güvene kavuşturdu.
+**(1)** Kureyşi alıştırdığı için,
+**(2)** onları alıştırdığı için kış ve yaz yolculuğuna,
+**(3)** bu evin Rabbine kulluk etsinler.
+**(4)** O ki onları yedirip açlıktan (kurtardı) ve onları korkudan güvene kavuşturdu.

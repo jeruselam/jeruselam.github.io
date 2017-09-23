@@ -11,6 +11,6 @@ tag:
 
 ## 108. Kevser Sûresi
 
-(1) Elbette biz Kevser’i sana verdik.
-(2) Öyleyse Rabbin için namaz kıl ve kurban kes.
-(3) Şüphesiz sana buğzeden, o sonu kesik olandır.
+**(1)** Elbette biz Kevser’i sana verdik.
+**(2)** Öyleyse Rabbin için namaz kıl ve kurban kes.
+**(3)** Şüphesiz sana buğzeden, o sonu kesik olandır.

@@ -11,6 +11,6 @@ tag:
 
 ## 110. Nasr Sûresi
 
-(1) Allah'ın yardımı geldiği zaman ve fetih,
-(2) ve insanlarin dalga dalga Allah´in dinine  girdiklerini gördüğün (zaman),
-(3) o halde Rabbini överek tesbih et ve O’ndan mağfiret dile çünkü O tevbeyi kabul edendir.
+**(1)** Allah'ın yardımı geldiği zaman ve fetih,
+**(2)** ve insanlarin dalga dalga Allah´in dinine  girdiklerini gördüğün (zaman),
+**(3)** o halde Rabbini överek tesbih et ve O’ndan mağfiret dile çünkü O tevbeyi kabul edendir.

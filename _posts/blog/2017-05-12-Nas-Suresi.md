@@ -11,9 +11,9 @@ tag:
 
 ## 114. Nâs Sûresi
 
-(1) De ki, insanların Rabbine sığınırım ben,
-(2) insanların padişahına,
-(3) insanların tanrısına,
-(4) sinsi vesvesecinin şerrinden,
-(5) O ki, insanların göğüslerine fısıldar,
-(6) cinlerden ve insanlar(dan).
+**(1)** De ki, insanların Rabbine sığınırım ben,
+**(2)** insanların padişahına,
+**(3)** insanların tanrısına,
+**(4)** sinsi vesvesecinin şerrinden,
+**(5)** O ki, insanların göğüslerine fısıldar,
+**(6)** cinlerden ve insanlar(dan).
