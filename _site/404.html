@@ -186,8 +186,6 @@
       <div class="entry-content">
         <p>Aradığınız sayfayı bulamıyoruz. Geri gidip bir göz atabilirsin. <a href="/">back to the homepage</a>.</p>
 
-<p><a href="/"><img src="/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;" /></a></p>
-
 <p><br />
 Sizi gideceğinizi düşündüğümüz yere yönlendirmeye çalıştık, ancak iyi bir seçenek bulamadık. 
 Bazı seçenekleriniz var:</p>
@@ -890,12 +888,14 @@ if (gonnaFwd) {
   var ghIssueQueryString = "title=404%20at%20" + path + "&body=URL%3A%20" + path;
   var output = new Array();
   output.push("<ul><li><a href='https://github.com/jeruselam/jeruselam.github.io/issues/new?" + ghIssueQueryString + "' class='nomunge'>Hata Bildir</a></li>");
-  output.push("<li><a href='/search/?q=" + phrase + "'</a> <tt>&quot; için ara" + phrase + "&quot;</tt></a></li>");
-  output.push("<li><a href='/search/'>Farklı bir arama yap</a></li>");
-  output.push("<li><a href='/'>index sayfasına git</a></li></ul>");
+  output.push("<li><a href='/search/?q=" + phrase + "'</a> <tt>&quot; " + phrase + "&quot;</tt> için ara</a></li>");
+  output.push("<li><a href='/search/'>Farklı bir kelime ara</a></li>");
+  output.push("<li><a href='/'>ana sayfaya git</a></li></ul>");
   document.getElementById('sorryMsg').innerHTML = output.join("");
 }
 </script>
+
+<p><a href="/"><img src="/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;" /></a></p>
 
 
       </div><!-- /.entry-content -->
