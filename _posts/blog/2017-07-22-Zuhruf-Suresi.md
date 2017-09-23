@@ -45,9 +45,9 @@ tag:
 (33) insanların bir tek ümmet olması (sözkonusu) olmasaydı, Rahman’ı inkar eden kimseler için evlerine gümüşten tavanlar ve üzerine binip çıkacakları merdivenler yapardık
 (34) ve evlerine kapılar ve üzerine yaslanacakları koltuklar 
 (35) ve (nice) süsler, bütün bunlar sadece dünya hayatının geçici menfaatleridir (başka) değil ahiret ise Rabbinin katında muttakiler içindir
-(36) ve kim Rahman’ın zikrinden yüz çevirirse ona bir şeytanı sardırırız artık o onun arkadaşı olur
-(37) elbette onlar, onları yoldan engellerler fakat bunlar doğru yolda olduklarını sanırlar
-(38) nihayet bize geldiği zaman der ki, keşke benimle senin aranda iki doğu kadar uzaklık olsaydı meğer ne kötü arkadaş(mışsın)
+**(36)** ve kim Rahman’ın zikrinden yüz çevirirse ona bir şeytanı sardırırız artık o onun arkadaşı olur
+**(37)** elbette onlar, onları yoldan engellerler fakat bunlar doğru yolda olduklarını sanırlar
+**(38)** nihayet bize geldiği zaman der ki, keşke benimle senin aranda iki doğu kadar uzaklık olsaydı meğer ne kötü arkadaş(mışsın)
 (39) ve bugün asla size bir yarar sağlamaz çünkü zulmettiniz, siz azabda ortaksınız
 (40) sen mi? sağıra işittireceksin yahut körü ve apaçık sapıklıkta olan kimseyi yola ileteceksin 
 (41) seni biz alıp götürsek bile muhakkak biz onlardan öc alırız
