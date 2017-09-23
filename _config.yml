@@ -20,6 +20,14 @@ locale            : tr_TR
 languages         : ['en', 'tr']
 language_default  : 'tr'
 
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+
 # Jekyll configuration
 
 enforce_ssl       : jeruselam.github.io
