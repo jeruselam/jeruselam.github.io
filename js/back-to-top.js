@@ -1,13 +1,16 @@
-$('#totop').on('click', function(e){
-  e.preventDefault();
-  $('#totop').addClass("animated bounceOut");
-  $('html, body').stop().animate({ scrollTop: '0px'}, 1000);
-});
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
 
-$(window).scroll(function(){
-  if ($(window).scrollTop()==0){
-    $('#totop').removeClass("animated bounceOut");
-    $('#totop').hide();
-  }else
-    $('#totop').show();
-});
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
