@@ -9,9 +9,9 @@ permalink: /about/
 ---
 
 Bu site halen yapım aşamasındadır.
-Çok sayıda hata ie karşılaşabilirsiniz. 
+Çok sayıda hata ile karşılaşabilirsiniz. 
 
-### Daha fazla bilgi edinme için
+### Daha fazla bilgi edinmek için
 
 Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
