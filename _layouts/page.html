@@ -59,8 +59,12 @@
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
         <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up no-print"></i></a>
+<a id="totop" class="icon-btop">
+    <div class="arrow-up"></div>
+</a>
+
     </nav><!-- /.pagination -->
-<!-- /#infinitive scroll -->
+<!-- /#infinitive scroll for words-->
 <script type="text/javascript">
 // content selector is used to extract the additional items 
 $('.content').jscroll({
@@ -69,7 +73,6 @@ $('.content').jscroll({
     nextSelector: 'a.jscroll-next:last'
 });
 </script>
-
 <script src="/js/jquery-1.11.3.js"></script>
 <script src="/js/jquery.jscroll-2.3.9.js"></script><!-- /#infinitive scroll --><!-- /#main -->
 <script src="/js/back-to-top.js"></script>
@@ -80,7 +83,6 @@ $('.content').jscroll({
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include back-to-top.html %}
 <!-- /.Back-top -->
 <button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
 <script>
