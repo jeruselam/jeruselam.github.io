@@ -42,8 +42,13 @@
     <div class="entry-wrapper">
       <header class="entry-header">
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
-      </header><a id="Top">
+      </header>
+
+<!-- /#seperator------------------------------->
+      <a id="Top">
       <center><a href="#Bot"><i class="fa fa-angle-double-down no-print"></i></a></center>
+<!-- /#seperator------------------------------->
+
       <div class="entry-content">
         {{ content }}
       </div><!-- /.entry-content -->
@@ -58,12 +63,17 @@
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
+
+<!-- /#seperator------------------------------->
         <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up no-print"></i></a>
+<!-- /#seperator------------------------------->
 <a id="totop" class="icon-btop">
     <div class="arrow-up"></div>
 </a>
-
     </nav><!-- /.pagination -->
+
+<!-- /#seperator------------------------------->
+
 <!-- /#infinitive scroll for words-->
 <script type="text/javascript">
 // content selector is used to extract the additional items 
@@ -75,6 +85,9 @@ $('.content').jscroll({
 </script>
 <script src="/js/jquery-1.11.3.js"></script>
 <script src="/js/jquery.jscroll-2.3.9.js"></script><!-- /#infinitive scroll --><!-- /#main -->
+
+<!-- /#seperator------------------------------->
+
 <script src="/js/back-to-top.js"></script>
 
 <div class="footer-wrapper">
@@ -82,6 +95,8 @@ $('.content').jscroll({
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
+
+<!-- /#seperator------------------------------->
 
 <!-- /.Back-top -->
 <button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
@@ -103,7 +118,12 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 </script><!-- /.Back-top -->
+
+<!-- /#seperator------------------------------->
+
 <a id="Bot">
+
+<!-- /#seperator------------------------------->
 {% include scripts.html %}
 {% include analytics.html %}
 </body>
