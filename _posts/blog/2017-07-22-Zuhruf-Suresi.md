@@ -68,11 +68,11 @@ tag:
 (56) onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
 (57) ve ne zaman ki Meryem oğlu bir misal olarak anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
 (58) ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
-(59) O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
-(60) ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
-(61) ve şüphesiz O kıyametin ilmidir ondan hiç şüphe etmeyin ve bana uyun, doğru yol budur
-(62) 
-(63) 
+(**59**) O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
+(**60**) ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
+(**61**) ve şüphesiz O kıyametin ilmidir ondan hiç şüphe etmeyin ve bana uyun, doğru yol budur
+(**62**) 
+(**63**) 
 (64) 
 (65) 
 (66) 
