@@ -24,9 +24,9 @@ language_default  : 'tr'
 compress_html:
   clippings: all
   comments: all
-  endings: []
-  profile: false
-
+  endings: all
+  profile: true
+  startings: [head, body]
 
 # Jekyll configuration
 
