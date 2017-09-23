@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ebced Değeri Hesaplama Aracı</title>
+<meta name="viewport" content="width=device-width"/>
+<meta content='https://jeruselam.github.io/ebced/' property='og:url'/>
+<meta content='Ebced Değeri Hesaplayıcı' property='og:title'/>
+<meta content='Eş zamanlı Ebced/Sayı Değeri Hesaplayıcısı' property='og:description'/>
+<link href='pic/favicon.ico' rel='icon' type='image/x-icon'/>
+<link rel="stylesheet" type="text/css" href="css/ebced.css">
+<link rel="stylesheet" type="text/css" href="css/sweetalert.min.css">
+</head>
+<body>
+<div id="text">
+<p id="baslik">Ebced Değeri Hesaplama Aracı:</p>
+<div id="sv">
+	
+<input class="ayetbox inputs" id="sure" list="sureler" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Sure" size="3" title="Sure No"> :
+
+<input class="ayetbox inputs" id="ayet" maxlength="3" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Ayet" size="3" title="Ayet No" type="number">
+-
+<input class="ayetbox inputs" id="sure2" list="sureler" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Sure" size="3" title="Sure No"> :
+
+<input class="ayetbox inputs" id="ayet2" maxlength="3" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Ayet" size="3" title="Ayet No" type="number">
+<p id="açıklama"></p>
+<div id='sonradan'>
+	<input class="ayetbox inputs2" id="sırano1" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".inci" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayetten, 
+	<input class="ayetbox inputs2" id="sırano2" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".uncu" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayete kadar
+	<br><br>
+</div>
+<div id='sadeceno'><input type="checkbox" class="checky" id="sadece_şifreli">
+	<br><input type="checkbox" class="checky" id="sn">Sadece numaralı ayetler</div>
+
+  <datalist id="sureler">
+    <option value="1" label="Fatiha - Bir Şeyin Başlangıcı, Başlamak, Açılış">
+    <option value="2" label="الم * Bakara - İnek, Dişi Sığır * ELM">
+    <option value="3" label="الم * Al-i İmran - İmran Ailesi, İmran Soyundan Gelenler * ELM">
+    <option value="4" label="Nisa - Kadın">
+    <option value="5" label="Maide - Ziyafet">
+    <option value="6" label="Enam - Çiftlik Hayvanları">
+    <option value="7" label="المص * Araf - Orta Yer * ELMŜ">
+    <option value="8" label="Enfal - Ganimetler">
+    <option value="9" label="Berae - Ültimatom">
+    <option value="10" label="الر * Yunus - Yunus * ELR">
+    <option value="11" label="الر * Hud - Hud * ELR">
+    <option value="12" label="الر * Yusuf - Yusuf * ELR">
+    <option value="13" label="المر * Rad - Gök Gürlemesi * ELMR">
+    <option value="14" label="الر * İbrahim - İbrahim * ELR">
+    <option value="15" label="الر * Hicr - Hicr Vadisi * ELR">
+    <option value="16" label="Nahl - Arı">
+    <option value="17" label="Beni İsrail - İsrailoğulları">
+    <option value="18" label="Kehf - Mağara">
+    <option value="19" label="كهيعص * Meryem - Meryem * ĶHYAŜ">
+    <option value="20" label="طه * TaHa - T.H. * TH">
+    <option value="21" label="Enbiya - Peygamberler">
+    <option value="22" label="Hac - Hac">
+    <option value="23" label="Muminun - İnananlar">
+    <option value="24" label="Nur - Işık">
+    <option value="25" label="Furkan - Yasalar Kitabı">
+    <option value="26" label="طسم * Şuara - Şairler * TSM">
+    <option value="27" label="طس * Neml - Karınca * TS">
+    <option value="28" label="طسم * Kasas - Tarih * TSM">
+    <option value="29" label="الم * Ankebut - Dişi Örümcek * ELM">
+    <option value="30" label="الم * Rum - Romalılar * ELM">
+    <option value="31" label="الم * Lokman - Lokman * ELM">
+    <option value="32" label="الم * Secde - Secde * ELM">
+    <option value="33" label="Ahzab - Partiler">
+    <option value="34" label="Sebe - Sebe">
+    <option value="35" label="Fatır - Yaratan">
+    <option value="36" label="يس * YaSin - Y.S. * YS">
+    <option value="37" label="Saffat - Dizenler">
+	<option value="38" label="ص * Sad - Ŝ. * Ŝ">
+	<option value="39" label="Zümer - Yığınlar">
+	<option value="40" label="حم * Ğafir - Bağışlayan * ĤM">
+	<option value="41" label="حم * Fussilet - Açıklanmış * ĤM">
+	<option value="42" label="حم * عسق * Şura - Demokrasi * ĤM * ASK">
+	<option value="43" label="حم * Zuhruf - Gösteriş * ĤM">
+	<option value="44" label="حم * Duhan - Duman * ĤM">
+	<option value="45" label="حم * Casiye - Diz Çöküş * ĤM">
+	<option value="46" label="حم * Ahkaf - Kum Tepeleri * ĤM">
+	<option value="47" label="Muhammed - Muhammed">
+	<option value="48" label="Fetih - Zafer">
+	<option value="49" label="Hucurat - Odalar">
+	<option value="50" label="ق * Kaf - K. * K">
+	<option value="51" label="Zariyat - Savuranlar">
+	<option value="52" label="Tur - Sina Dağı">
+	<option value="53" label="Necm - Yıldız">
+	<option value="54" label="Kamer - Ay">
+	<option value="55" label="Rahman - Şefkatli">
+	<option value="56" label="Vakıa - Olay">
+	<option value="57" label="Hadid - Demir">
+	<option value="58" label="Mücadele - Tartışma">
+	<option value="59" label="Haşr - Sürgün">
+	<option value="60" label="Mumtahine - Sorgulanan">
+	<option value="61" label="Saff - Düzenli Birlik">
+	<option value="62" label="Cuma - Cuma">
+	<option value="63" label="Münafikun - İkiyüzlüler">
+	<option value="64" label="Teğabun - Aldanma">
+	<option value="65" label="Talak - Boşanma">
+	<option value="66" label="Tahrim - Yasaklama">
+	<option value="67" label="Mülk - Yönetim">
+	<option value="68" label="ن * Kalem - Kalem * N">
+	<option value="69" label="Hakka - Gerçekleşen">
+	<option value="70" label="Mearic - Yükseliş Yolları">
+	<option value="71" label="Nuh - Nuh">
+	<option value="72" label="Cin - Cin">
+	<option value="73" label="Müzemmil - Arkadaş Olan">
+	<option value="74" label="Müdessir - Gizlenen Sır">
+	<option value="75" label="Kıyamet - Diriliş">
+	<option value="76" label="İnsan - İnsan">
+	<option value="77" label="Mürselat - Gönderilenler">
+	<option value="78" label="Nebe - Haber">
+	<option value="79" label="Naziat - Söküp Çıkaranlar">
+	<option value="80" label="Abese - Surat Astı">
+	<option value="81" label="Tekvir - Yuvarlama">
+	<option value="82" label="İnfitar - Yarılma">
+	<option value="83" label="Mutaffifin - Kandıranlar">
+	<option value="84" label="İnşikak - Çatlama">
+	<option value="85" label="Büruc - Galaksiler">
+	<option value="86" label="Tarık - Atarca">
+	<option value="87" label="Ala - Yüce">
+	<option value="88" label="Ğaşiye - Bunaltan">
+	<option value="89" label="Fecr - Tan Vakti">
+	<option value="90" label="Beled - Kent">
+	<option value="91" label="Şems - Güneş">
+	<option value="92" label="Leyl - Gece">
+	<option value="93" label="Duha - Kuşluk">
+	<option value="94" label="Şarh - Sakinleştirme">
+	<option value="95" label="Tin - İncir">
+	<option value="96" label="Alak - Duygusal Bağ">
+	<option value="97" label="Kadr - Kader">
+	<option value="98" label="Beyyine - Kanıt">
+	<option value="99" label="Zilzal - Deprem">
+	<option value="100" label="Adiyat - Aşanlar">
+	<option value="101" label="Karia - Şok, Ansızın Gelen Bela, Kıyamet, Düşman Üzerine salınan Asker, Şiddetli Rüzgar, Okunan Dua">
+	<option value="102" label="Tekasür - Çoğalma, Çok Öğünme, Mal ve Evladın Çokluğu, Çoğaltma Yarışı">
+	<option value="103" label="Asr - Zaman, İnsanın Ortalam Yaşayış Zamanı, Gece ve Gündüzden Herbiri, Birisinin Aşireti">
+	<option value="104" label="Humeze - Dedikoducu, El ve Kaş işaretleri ile Ayıplama, ardından Ayıplarını Söyeleyen, Gammaz">
+	<option value="105" label="Fil - Fil">
+	<option value="106" label="Kureyş - Kureyş, Kökü Hz. İbrahim'e Dayanan Kabile">
+	<option value="107" label="Maun - Yardımlaşma, İmdat, Taat, İtaat, Yardım">
+	<option value="108" label="Kevser - Bolluk, Kıyamete Kadar Gelecek Al, Ashab ve Onların İyilikleri, Hayırları, Bereket">
+	<option value="109" label="Kafirun - Gerçeği Gizleyenler, Kafirler">
+	<option value="110" label="Nasr - Yardım, Yenme, Galip Kılma, Yağmurun Sulaması">
+	<option value="111" label="Mesed - Diken, Arslanlı Yer, Hurma Lifi ve ipi, Urgan, Bir Ağaç">
+	<option value="112" label="İhlas - İçten, Samimi, Riyasız Sevgi, Doğruluk, Bağlılık, Özgüleme">
+	<option value="113" label="Felak - Şafak, Tan Zamanı, Düzlük, Mahlukat, Falaka, Cehennem, Tomruk">
+	<option value="114" label="Nas - İnsanlar, Iraklık, Uyku Bastırmak">
+  </datalist>
+</div>
+<textarea id="ifade" rows="6" cols="66" placeholder="...Yazmaya başlayın"></textarea>
+<br>
+<div id="back"><img id="book" src="pic/book arabic.png"></img></div>
+	<div id="primary">
+		<p id='str' class='inline'></p><p id='say' class='inline'></p>
+		<p id="abjad"></p>
+		<p id="letters"></p>
+		<p id="words"></p>
+		<p id="verses"></p>
+	</div>
+	<button id="kopyala"> Sonuçları Kopyala </button>
+
+	<input class="seçenekler" type="checkbox" id="ا" onclick="check('ا')">
+	<input class="seçenekler" type="checkbox" id="ب" onclick="check('ب')">
+	<input class="seçenekler" type="checkbox" id="ج" onclick="check('ج')">
+	<input class="seçenekler" type="checkbox" id="د" onclick="check('د')">
+	<input class="seçenekler" type="checkbox" id="ه" onclick="check('ه')">
+	<input class="seçenekler" type="checkbox" id="و" onclick="check('و')">
+	<input class="seçenekler" type="checkbox" id="ز" onclick="check('ز')">
+	<input class="seçenekler" type="checkbox" id="ح" onclick="check('ح')">
+	<input class="seçenekler" type="checkbox" id="ط" onclick="check('ط')">
+	<input class="seçenekler" type="checkbox" id="ي" onclick="check('ي')">
+	<input class="seçenekler" type="checkbox" id="ك" onclick="check('ك')">
+	<input class="seçenekler" type="checkbox" id="ل" onclick="check('ل')">
+	<input class="seçenekler" type="checkbox" id="م" onclick="check('م')">
+	<input class="seçenekler" type="checkbox" id="ن" onclick="check('ن')">
+	<input class="seçenekler" type="checkbox" id="س" onclick="check('س')">
+	<input class="seçenekler" type="checkbox" id="ع" onclick="check('ع')">
+	<input class="seçenekler" type="checkbox" id="ف" onclick="check('ف')">
+	<input class="seçenekler" type="checkbox" id="ص" onclick="check('ص')">
+	<input class="seçenekler" type="checkbox" id="ق" onclick="check('ق')">
+	<input class="seçenekler" type="checkbox" id="ر" onclick="check('ر')">
+	<input class="seçenekler" type="checkbox" id="ش" onclick="check('ش')">
+	<input class="seçenekler" type="checkbox" id="ت" onclick="check('ت')">
+	<input class="seçenekler" type="checkbox" id="ث" onclick="check('ث')">
+	<input class="seçenekler" type="checkbox" id="خ" onclick="check('خ')">
+	<input class="seçenekler" type="checkbox" id="ذ" onclick="check('ذ')">
+	<input class="seçenekler" type="checkbox" id="ض" onclick="check('ض')">
+	<input class="seçenekler" type="checkbox" id="ظ" onclick="check('ظ')">
+	<input class="seçenekler" type="checkbox" id="غ" onclick="check('غ')">
+
+	<div id="analiz">
+		<label onclick="" for="ا"><p id="ا" class="huruf not-selected"></p></label>
+		<label onclick="" for="ب"><p id="ب" class="harf not-selected"></p></label>
+		<label onclick="" for="ج"><p id="ج" class="harf not-selected"></p></label>
+		<label onclick="" for="د"><p id="د" class="harf not-selected"></p></label>
+		<label onclick="" for="ه"><p id="ه" class="huruf not-selected"></p></label>
+		<label onclick="" for="و"><p id="و" class="harf not-selected"></p></label>
+		<label onclick="" for="ز"><p id="ز" class="harf not-selected"></p></label>
+		<label onclick="" for="ح"><p id="ح" class="huruf not-selected"></p></label>
+		<label onclick="" for="ط"><p id="ط" class="huruf not-selected"></p></label>
+		<label onclick="" for="ي"><p id="ي" class="huruf not-selected"></p></label>
+		<label onclick="" for="ك"><p id="ك" class="huruf not-selected"></p></label>
+		<label onclick="" for="ل"><p id="ل" class="huruf not-selected"></p></label>
+		<label onclick="" for="م"><p id="م" class="huruf not-selected"></p></label>
+		<label onclick="" for="ن"><p id="ن" class="huruf not-selected"></p></label>
+		<label onclick="" for="س"><p id="س" class="huruf not-selected"></p></label>
+		<label onclick="" for="ع"><p id="ع" class="huruf not-selected"></p></label>
+		<label onclick="" for="ف"><p id="ف" class="harf not-selected"></p></label>
+		<label onclick="" for="ص"><p id="ص" class="huruf not-selected"></p></label>
+		<label onclick="" for="ق"><p id="ق" class="huruf not-selected"></p></label>
+		<label onclick="" for="ر"><p id="ر" class="huruf not-selected"></p></label>
+		<label onclick="" for="ش"><p id="ش" class="harf not-selected"></p></label>
+		<label onclick="" for="ت"><p id="ت" class="harf not-selected"></p></label>
+		<label onclick="" for="ث"><p id="ث" class="harf not-selected"></p></label>
+		<label onclick="" for="خ"><p id="خ" class="harf not-selected"></p></label>
+		<label onclick="" for="ذ"><p id="ذ" class="harf not-selected"></p></label>
+		<label onclick="" for="ض"><p id="ض" class="harf not-selected"></p></label>
+		<label onclick="" for="ظ"><p id="ظ" class="harf not-selected"></p></label>
+		<label onclick="" for="غ"><p id="غ" class="harf not-selected"></p></label>
+	</div>
+</div>
+</div>
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src='js/sweetalert.min.js'></script>
+<script type="text/javascript" src="js/sonraki.js"></script>
+<script type="text/javascript" src='js/ebced.js'></script>
+</html>
