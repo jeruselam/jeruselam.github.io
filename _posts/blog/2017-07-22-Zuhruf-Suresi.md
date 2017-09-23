@@ -51,23 +51,23 @@ tag:
 (39) ve bugün asla size bir yarar sağlamaz çünkü zulmettiniz, siz azabda ortaksınız
 (40) sen mi? sağıra işittireceksin yahut körü ve apaçık sapıklıkta olan kimseyi yola ileteceksin 
 (41) seni biz alıp götürsek bile muhakkak biz onlardan öc alırız
-(42) yahut onları uyardığımız şeyi sana gösteririz şüphesiz bizim onlara gücümüz yeter
-(43) sen sana vahyedilene sımsıkı sarıl çünkü sen doğru yol üzerindesin
-(44) şüphesiz O (Kur’an) sana ve kavmine bir Zikir’dir ve yakında sorulacaksınız
-(45) ve senden önce elçilerimizden gönderdiğimiz kimseye sor, Rahman’dan başka tapılacak tanrılar yapmış mıyız?
-(46) ve andolsun biz Musa’yı ayetlerimizle Fir’avn’a ve ileri gelen adamlarına gönderdik, elbette ben alemlerin Rabbinin elçisiyim dedi
-(47) ne zaman ki ayetlerimizle onlara gelince onlar hemen onlarla (alay edip) gülmeğe başladılar
-(48) ve onlara hiçbir mu’cize, ötekinden, o daha büyük (olandan) başkasını göstermeyiz ve onları azab(lar) ile yakaladık umulur ki dönerler
-(49) ve dediler ki, ey büyücü sana verdiği söz hürmetine Rabbine bizim için du’a et artık biz yola geleceğiz
-(50) fakat biz onlardan azabı kaldırınca onlar hemen sözlerinden dönüyorlar
-(51) ve Fir’avn kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
-(52) yahut ben şundan daha iyi (değil miyim?) ki o aşağılıktır ve nerdeyse söz anlatacak durumda olmayandır
-(53) üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
-(54) kavmini küçümsedi, onlar da ona boyun eğdiler çünkü onlar yoldan çıkmış bir kavim idiler
-(55) onlar bizi kızdırınca biz de onlardan öc aldık ve onları, hepsini boğduk
-(56) onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
-(57) ve ne zaman ki Meryem oğlu bir misal olarak anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
-(58) ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
+(**42**) yahut onları uyardığımız şeyi sana gösteririz şüphesiz bizim onlara gücümüz yeter
+(**43**) sen sana vahyedilene sımsıkı sarıl çünkü sen doğru yol üzerindesin
+(**44**) şüphesiz O (Kur’an) sana ve kavmine bir Zikir’dir ve yakında sorulacaksınız
+(**45**) ve senden önce elçilerimizden gönderdiğimiz kimseye sor, Rahman’dan başka tapılacak tanrılar yapmış mıyız?
+(**46**) ve andolsun biz Musa’yı ayetlerimizle Fir’avn’a ve ileri gelen adamlarına gönderdik, elbette ben alemlerin Rabbinin elçisiyim dedi
+(**47**) ne zaman ki ayetlerimizle onlara gelince onlar hemen onlarla (alay edip) gülmeğe başladılar
+(**48**) ve onlara hiçbir mu’cize, ötekinden, o daha büyük (olandan) başkasını göstermeyiz ve onları azab(lar) ile yakaladık umulur ki dönerler
+(**49**) ve dediler ki, ey büyücü sana verdiği söz hürmetine Rabbine bizim için du’a et artık biz yola geleceğiz
+(**50**) fakat biz onlardan azabı kaldırınca onlar hemen sözlerinden dönüyorlar
+(**51**) ve Fir’avn kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
+(**52**) yahut ben şundan daha iyi (değil miyim?) ki o aşağılıktır ve nerdeyse söz anlatacak durumda olmayandır
+(**53**) üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
+(**54**) kavmini küçümsedi, onlar da ona boyun eğdiler çünkü onlar yoldan çıkmış bir kavim idiler
+(**55**) onlar bizi kızdırınca biz de onlardan öc aldık ve onları, hepsini boğduk
+(**56**) onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
+(**57**) ve ne zaman ki Meryem oğlu bir misal olarak anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
+(**58**) ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
 (**59**) O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
 (**60**) ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
 (**61**) ve şüphesiz O kıyametin ilmidir ondan hiç şüphe etmeyin ve bana uyun, doğru yol budur
