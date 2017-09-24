@@ -1,6 +1,6 @@
 ---
 layout: page
-title: null
+title: ""
 permalink: /tag/
 search_omit: true
 sitemap: false
