@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)
 description: Zoology
 excerpt: "Zoology"
 modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
 ---
+
+###  Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)
 
 ------------------------------------------------
 ![]({{site.url}}/images//YA2_142_143_at_nali_yengeci.jpg)
@@ -22,4 +23,4 @@ search_omit: true
 - Bölge: Solnhofen, Almanya
 
 ------------------------------------------------
-####  Tarih boyunca bulunan tüm fosiller Yaratılış gerçeğini ispat etmektedir.
+###  Tarih boyunca bulunan tüm fosiller Yaratılış gerçeğini ispat etmektedir.
