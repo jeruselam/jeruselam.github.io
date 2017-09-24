@@ -7,8 +7,7 @@ modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
 ---
 
-### Anthropology - Kafatası Fosillerinden Örnekler 
-
+<div style="text-align: center;"><h3>Anthropology - Kafatası Fosillerinden Örnekler</h3></div>
 ----------------------------------
 ![]({{site.url}}/images/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
 

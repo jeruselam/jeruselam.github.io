@@ -7,8 +7,7 @@ modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
 ---
 
-###  Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)
-
+<div style="text-align: center;"><h3>Bitkilere Ait Fosil Örnekleri (Söğüt Yaprağı)</h3></div>
 ---------------------------------------
 ![]({{site.url}}/images//YA2_208_209_sogut_yapragi.jpg)
 
