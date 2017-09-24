@@ -4,7 +4,7 @@ title: Munâfikûn
 description: Sûre
 excerpt: "63'ncü Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
-encoding: UTF-8
+encoding: utf-8
 tag: 
  - Munâfikûn
 ---

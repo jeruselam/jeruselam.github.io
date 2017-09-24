@@ -4,7 +4,7 @@ title: Cuma
 description: Sûre
 excerpt: "62'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
-encoding: UTF-8
+encoding: utf-8
 tag: 
  - Cuma
 ---

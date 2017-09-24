@@ -31,7 +31,7 @@ compress_html:
 # Jekyll configuration
 
 enforce_ssl       : jeruselam.github.io
-encoding          : UTF-8
+encoding          : utf-8
 safe              : bool
 timezone          : Europe/Istanbul
 permalink         : /:categories/:title/

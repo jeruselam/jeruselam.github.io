@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="https://www.w3.org/2005/Atom">
 
  <title>Zikr Tercume</title>
  <link href="http://jeruselam.github.io/atom.xml" rel="self"/>
  <link href="http://jeruselam.github.io/"/>
- <updated>2017-09-24T23:48:43+03:00</updated>
+ <updated>2017-09-25T00:01:37+03:00</updated>
  <id>http://jeruselam.github.io/</id>
  <author>
    <name>Zikr</name>
