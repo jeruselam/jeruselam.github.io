@@ -21,3 +21,5 @@ Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
 ### İletişim Kurun
 
 [jeruselam@yandex.com](mailto:jeruselam@yandex.com)
+
+<a href="{{ site.url }}/contact" class="btn" title="{{ page.previous.title }}">Önerilerinizi yazın</a>
