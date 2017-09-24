@@ -77,7 +77,7 @@ tag:
 **(65)** aralarından çıkan guruplar birbirleriyle ihtilafa düştüler, acıklı bir günün azabından zulmedenlerin vay haline
 **(66)** sa’atin ansızın ve onlar hiç farkında değillerken başlarına gelmesinden başkasını mı? bekliyorlar
 **(67)** o gün muttakiler dışında dostlar, bir kısmı diğerine düşmandır
-**(68)**  
+**(68)** kullarım size korku yoktur ve ne de siz bugün üzülmeyeceksiniz
 **(69)** 
 **(70)** 
 **(71)** 
