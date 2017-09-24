@@ -6,9 +6,9 @@ excerpt: "Zoology"
 modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
 ---
-<div style="text-align: center;">
-###  Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)
-</div>
+
+<div style="text-align: center;"><h3 class="entry-title">Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)</h3></div>
+
 ------------------------------------------------
 ![]({{site.url}}/images//YA2_142_143_at_nali_yengeci.jpg)
 
