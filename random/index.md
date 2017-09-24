@@ -10,8 +10,7 @@ image:
 search_omit: true
 sitemap: false
 ---
-<html>
-<head>
+
 	<script>
 		var posts = [];
 		{% for post in site.posts %}
@@ -21,7 +20,7 @@ sitemap: false
 		document.write(posts[Math.floor(Math.random() * posts.length)]);
 		document.write("\">");
 	</script>
-</head>
+
 
 <body>
 	Bir sûreye 
@@ -31,4 +30,4 @@ sitemap: false
 		document.write("\">yönlendiriliyorsunuz</a>...");
 	</script>
 </body>
-</html>
+
