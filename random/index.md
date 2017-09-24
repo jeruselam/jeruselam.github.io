@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Sûre"
 description: Random
 date: 
 modified:
