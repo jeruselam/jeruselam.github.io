@@ -19,9 +19,9 @@ tag:
 **(7)** ve nefse andolsun ve onu biçimlendirene,
 **(8)** bozukluğunu ve korunmasını ona ilham edene andolsun,
 **(9)** nefsini yücelten kimse elbette kazanmıştır.
-****(10)**** Ve onu alçaltan kimse elbette ziyana uğramıştır.
-****(11)**** Azgınlığı yüzünden Semud yalanladı.
-****(12)**** En haydutları ayaklandığı zaman,
-****(13)**** Allah’ın devesine ve onun su içmesini, Allah’ın elçisi onlara demişti.
-****(14)**** Onu yalanladılar ve onu kestiler, günahları yüzünden Rabb'leri onların başlarına geçirdi ve orayı dümdüz etti.
-****(15)**** Ve (Rab) bu işin sonundan korkmaz.
+**(10)** Ve onu alçaltan kimse elbette ziyana uğramıştır.
+**(11)** Azgınlığı yüzünden Semud yalanladı.
+**(12)** En haydutları ayaklandığı zaman,
+**(13)** Allah’ın devesine ve onun su içmesini, Allah’ın elçisi onlara demişti.
+**(14)** Onu yalanladılar ve onu kestiler, günahları yüzünden Rabb'leri onların başlarına geçirdi ve orayı dümdüz etti.
+**(15)** Ve (Rab) bu işin sonundan korkmaz.

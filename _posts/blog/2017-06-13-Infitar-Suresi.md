@@ -20,13 +20,13 @@ tag:
 **(7)** O ki, seni yarattı, seni düzenledi, sana ölçülü bir biçim verdi,	
 **(8)** hangi surette dilediyse ( o şekilde) seni terkib etti.
 **(9)** Hayır, bilakis siz cezayı yalanlıyorsunuz.
-****(10)**** Ve şüphesiz üzerinizde koruyucular vardır,
-****(11)**** değerli yazıcılar,
-****(12)**** ne yapıyorsanız bilirler.
-****(13)**** Şüphesiz, iyiler ni’metler içindedirler,
-****(14)**** ve şüphesiz, kötüler yakıcı ateş içindedirler,
-****(15)**** ceza günü oraya girerler,
-****(16)**** ve onlar ondan kaybolacak değillerdir. 
-****(17)**** Ve ceza gününün ne olduğunu sana bildiren nedir?
-****(18)**** Sonra yine, ceza gününün ne olduğunu sana bildiren nedir?
-****(19)**** Kimsenin kimseye, bir şeye (yardıma) malik olmadığı bir gündür ve  o gün buyruk yalnız Allah’ındır.
+**(10)** Ve şüphesiz üzerinizde koruyucular vardır,
+**(11)** değerli yazıcılar,
+**(12)** ne yapıyorsanız bilirler.
+**(13)** Şüphesiz, iyiler ni’metler içindedirler,
+**(14)** ve şüphesiz, kötüler yakıcı ateş içindedirler,
+**(15)** ceza günü oraya girerler,
+**(16)** ve onlar ondan kaybolacak değillerdir. 
+**(17)** Ve ceza gününün ne olduğunu sana bildiren nedir?
+**(18)** Sonra yine, ceza gününün ne olduğunu sana bildiren nedir?
+**(19)** Kimsenin kimseye, bir şeye (yardıma) malik olmadığı bir gündür ve  o gün buyruk yalnız Allah’ındır.

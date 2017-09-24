@@ -19,5 +19,5 @@ tag:
 **(7)** ve seni şaşırmış bulmadı mı? ve yola iletmedi mi?
 **(8)** ve seni fakir bulmadı mı? zengin etmedi mi?
 **(9)** öyleyse öksüzü sakın ezme
-****(10)**** ve sakın dilenciyi azarlama
-****(11)**** ve Rabb'inin ni’metini anlat
+**(10)** ve sakın dilenciyi azarlama
+**(11)** ve Rabb'inin ni’metini anlat

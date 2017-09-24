@@ -20,5 +20,5 @@ tag:
 **(7)** ve elbette o da buna şahittir.
 **(8)** Doğrusu o mal sevgisine aşırı düşkündür.
 **(9)** Bilmez mi? Kabirlerde olanlar dışarı atıldığı zaman 
-****(10)**** ve göğüslerde bulunanlar devşirildiği (zaman),
-****(11)**** Rabbleri şüphesiz o gün onları mutlaka haber almıştır.
+**(10)** ve göğüslerde bulunanlar devşirildiği (zaman),
+**(11)** Rabbleri şüphesiz o gün onları mutlaka haber almıştır.

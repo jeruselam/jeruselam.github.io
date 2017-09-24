@@ -20,5 +20,5 @@ tag:
 **(7)** Ve ellerinin öne sürdükleri yüzünden asla temenni etmezler ve Allah zalimleri bilir
 **(8)** De ki, şüphesiz, sizin kendisinden kaçtığınız ölüm mutlaka sizi bulacaktır, sonra görünmeyeni ve görüneni bilen’e döndürüleceksiniz ve O size yapıyor(lar) olduğunuz şeyleri haber verecektir 
 **(9)** Ey inanan(lar) kimseler, Cuma günü namaz için çağrıldığı(nız) zaman hemen Allah’ı anmağa koşun ve alışverişi bırakın, eğer bilirseniz bu sizin için daha hayırlıdır 
-****(10)**** Namazı kıldığınız zaman yeryüzüne dağılın ve Allah’ın lutfundan arayın ve Allah’ı çokça anın, umulur ki başarıya erersiniz
-****(11)**** Bir ticaret veya eğlence gördükleri zaman dağılıp ona giderler ve seni ayakta bırakırlar, de ki, Allah’ın yanında bulunan, eğlenceden ve ticaretten hayırlıdır ve Allah rızık verenlerin en hayırlısıdır
+**(10)** Namazı kıldığınız zaman yeryüzüne dağılın ve Allah’ın lutfundan arayın ve Allah’ı çokça anın, umulur ki başarıya erersiniz
+**(11)** Bir ticaret veya eğlence gördükleri zaman dağılıp ona giderler ve seni ayakta bırakırlar, de ki, Allah’ın yanında bulunan, eğlenceden ve ticaretten hayırlıdır ve Allah rızık verenlerin en hayırlısıdır
