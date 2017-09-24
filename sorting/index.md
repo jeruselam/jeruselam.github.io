@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alfabetik"
+title: null
 date: 
 modified:
 excerpt:
@@ -9,6 +9,9 @@ image:
 search_omit: true
 sitemap: false
 ---
+
+### Alfabetik
+
 <ul class="post-list">
 {% assign sorted-titles = site.posts | sort: 'title' %}
 {% for post in sorted-titles limit: 114 %}
