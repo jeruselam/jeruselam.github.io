@@ -78,20 +78,20 @@ tag:
 **(66)** sa’atin ansızın ve onlar hiç farkında değillerken başlarına gelmesinden başkasını mı? bekliyorlar
 **(67)** o gün dostlar, muttakiler dışında bir kısmı diğerine düşmandır
 **(68)** kullarım size korku yoktur ve ne de siz bugün üzülmeyeceksiniz
-**(69)** 
-**(70)** 
-**(71)** 
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
+**(69)** ayetlerimize iman eden(ler) kimseler ve müslüman olanlar
+**(70)** haydi cennete girin, siz ve eşleriniz ağırlanıp sevindirileceksiniz
+**(71)** onların önünde altından tepsiler ve kadehler dolaştırılır, orada canların çektiği, nefislerinin ve gözlerin hoşlandığı her şey vardır ve siz orada ebedi kalacaksınız
+**(72)** işte yapıyor(lar) olduklarınıza karşılık size miras verilen cennet
+**(73)** sizin için orada çok meyva vardır, onlardan yersiniz
+**(74)** şüphesiz suçlular cehennem azabında sürekli kalacaklardır
+**(75)** kendilerinden hiç hafifletilmeyecektir ve onlar onun içinde umutsuzdurlar
+**(76)** biz onlara zulmetmedik fakat onlar zalimler idiler
+**(77)** ve seslendiler, Malik Rabbin bizim hakkımızda hüküm versin, siz kalacaksınız
+**(78)** andolsun biz size hakkı getirdik fakat sizin çoğunuz haktan hoşlanmıyorsunuz
+**(79)** yoksa bir iş (mı?) kararlaştırdılar elbette biz de kararlıyız
+**(80)** yoksa biz onların sırlarını ve gizli konuşmalarını işitmiyoruz (mı?) sanıyorlar, hayır (işitiriz) ve yanlarında bulunan elçilerimiz yazarlar
+**(81)** de ki eğer Rahman’ın çocuğu olsaydı, tapanların ilki ben olurdum
+**(82)** göklerin ve yerin Rabbi, Arş’ın Rabbi onların nitelendirmelerinden münezzehtir 
 **(83)** 
 **(84)** 
 **(85)** 
