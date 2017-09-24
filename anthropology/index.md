@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Anthropology - Kafatası Fosillerinden Örnekler
 description: Anthropology
 excerpt: "Anthropology"
 modified: 2017-05-15T17:50:00.564948 17:00
 search_omit: true
 ---
+
+### Anthropology - Kafatası Fosillerinden Örnekler 
 
 ----------------------------------
 ![]({{site.url}}/images/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
