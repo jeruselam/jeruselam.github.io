@@ -10,7 +10,6 @@ permalink: /about/
 
 ## Site Hakkında
 
-
 Bu site halen yapım aşamasındadır.
 Çok sayıda hata ile karşılaşabilirsiniz. 
 
