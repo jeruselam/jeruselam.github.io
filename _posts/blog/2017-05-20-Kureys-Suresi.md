@@ -4,7 +4,7 @@ title: Kureyş
 description: Sûre
 excerpt: "106'nci Sûre"
 modified: 2017-08-30T17:50:00.564948 17:00
-encoding: utf-8
+encoding: UTF-8
 tag: 
  - Kureyş
 ---
