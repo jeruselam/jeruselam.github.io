@@ -8,7 +8,7 @@ sitemap: false
 permalink: /about/
 ---
 
-<div style="text-align: center;"><h1>Site Hakkında</h1></div>
+<h1>Site Hakkında</h1>
 
 Bu site halen yapım aşamasındadır.
 Çok sayıda hata ile karşılaşabilirsiniz. 
