@@ -71,13 +71,13 @@ tag:
 **(59)** O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
 **(60)** ve eğer elbette dileseydik yerinize (şu) dünyada geçen sizden melekler yapardık 
 **(61)** ve şüphesiz O, kıyametin ilmidir, ondan hiç şüphe etmeyin ve bana uyun doğru yol budur
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
+**(62)** şeytan sizi (bundan) alıkoymasın çünkü o sizin için açık bir düşmandır
+**(63)** ne zaman ki Îsa açık kanıtlarla gelince dedi ki elbette ben hikmet ile (geldim) ve onda ayrılığa düştünüğünüz şeylerden bir kısmını size açıklamak için size geldim o halde Allah’tan korkun ve bana ita’at edin
+**(64)** şüphesiz Allah O’dur, benim Rabbim ve sizin Rabbiniz, O’na tapın, doğru yol budur
+**(65)** aralarından çıkan guruplar birbirleriyle ihtilafa düştüler, acıklı bir günün azabından zulmedenlerin vay haline
+**(66)** sa’atin ansızın ve onlar hiç farkında değillerken başlarına gelmesinden başkasını mı? bekliyorlar
+**(67)** o gün muttakiler dışında dostlar, bir kısmı diğerine düşmandır
+**(68)**  
 **(69)** 
 **(70)** 
 **(71)** 
