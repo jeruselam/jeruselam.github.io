@@ -22,7 +22,7 @@ tag:
 **(10)** O ki sizin için yeri bir beşik kılandır ve size orada yollar yapandır, umulur ki hidayete eresiniz
 **(11)** ve o ki bir ölçü ile gökten su indirendir, böylece onunla ölü bir ülkeyi canlandırdık, işte siz de öyle çıkarılacaksınız
 **(12)** ve O ki bütün çiftleri yaratandır ve size gemiler ve bineceğiniz hayvanlar var edendir 
-**(13)** onların sırtları üzerine binmeniz için sonra onlara bindiğiniz zaman Rabbinizin ni’metini anmanız için ve bunu bizim hizmetimize verenin şanı yücedir yoksa biz bunu (hizmetimize) yanaştıracak değildik(şöyle) demeniz için
+**(13)** onların sırtları üzerine binmeniz için sonra onlara bindiğiniz zaman Rabbinizin ni’metini anmanız için ve (şöyle) demeniz için, bunu bizim hizmetimize verenin şanı yücedir yoksa biz bunu (hizmetimize) yanaştıracak değildik
 **(14)** biz elbette Rabbimize döneceğiz
 **(15)** ve O’na kullarından bir parça tasarladılar gerçekten insan apaçık bir nankördür
 **(16)** yoksa yarattıklarından kızları kendisine (mı?) aldı ve size oğulları seçti 
