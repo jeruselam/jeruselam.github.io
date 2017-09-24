@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sûreler
 permalink: /tag/
 search_omit: true
 sitemap: false
 ---
 
+### Sûreler
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
