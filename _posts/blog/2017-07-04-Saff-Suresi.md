@@ -19,8 +19,8 @@ tag:
 **(7)** ve Allah’ın üstüne yalan iftira atan kimseden daha zalim kim (olabilir?) ve o islama çağırıldığı halde ve Allah zalimler topluluğunu doğru yola iletmez
 **(8)** Allah’ın nurunu ağızlarıyle söndürmek istiyorlar ve Allah nurunu tamamlayacaktır ve şayet kafirler hoşlanmasa da
 **(9)** O ki elçisini hidayetle ve hak din ile gönderdi, bütün dinlere onu üstün getirsin diye ve şayet müşrikler hoşlanmasa da
-**(10)** ey inanan(lar) kimseler, size sizi acıklı azabdan kurtaracak bir ticaret göstereyim mi? 
-**(11)** Allah’a ve Elçisine inanırsınız ve Allah yolunda mallarınızla ve canlarınızla cihadedersiniz, eğer biliyor(lar) iseniz, sizin için en iyisi işte budur
-**(12)** sizin günahlarınızı bağışlasın ve sizi altlarından ırmaklar akan cennetlere ve güzel bahçeler içinde durulmağa değer konutlara koysun işte büyük başarı budur
-**(13)** seveceğiniz bir şey, Allahtan bir zafer ve yakın bir fetih daha var ve mü’minleri müjdele
-**(14)** ey inanan(lar) kimseler, Allah’ın yardımcıları olun, nitekim Meryem oğlu Îsa havarilere Allah (yolunda) benim yardımcılarım kimdir? demişti havariler, Allah(yolun)un yardımcıların biziz dediler, İsrail oğullarından bir zümre inandı ve bir zümre inkar etti, biz de düşmanlarına karşı inanan(ları) kimseleri destekledik, onlar düşmanlarına üstün gelenlerden oldular
+****(10)**** ey inanan(lar) kimseler, size sizi acıklı azabdan kurtaracak bir ticaret göstereyim mi? 
+****(11)**** Allah’a ve Elçisine inanırsınız ve Allah yolunda mallarınızla ve canlarınızla cihadedersiniz, eğer biliyor(lar) iseniz, sizin için en iyisi işte budur
+****(12)**** sizin günahlarınızı bağışlasın ve sizi altlarından ırmaklar akan cennetlere ve güzel bahçeler içinde durulmağa değer konutlara koysun işte büyük başarı budur
+****(13)**** seveceğiniz bir şey, Allahtan bir zafer ve yakın bir fetih daha var ve mü’minleri müjdele
+****(14)**** ey inanan(lar) kimseler, Allah’ın yardımcıları olun, nitekim Meryem oğlu Îsa havarilere Allah (yolunda) benim yardımcılarım kimdir? demişti havariler, Allah(yolun)un yardımcıların biziz dediler, İsrail oğullarından bir zümre inandı ve bir zümre inkar etti, biz de düşmanlarına karşı inanan(ları) kimseleri destekledik, onlar düşmanlarına üstün gelenlerden oldular

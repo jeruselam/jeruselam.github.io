@@ -19,14 +19,14 @@ tag:
 **(7)** Kimsenin kendisini görmediğini mi sanıyor?
 **(8)** Biz vermedik mi? Ona iki göz,
 **(9)** ve iki dudak ve bir dil,
-**(10)** ve ona iki (tepe) yol gösterdik.
-**(11)** Fakat o sarp yokuşa atılamadı.
-**(12)** Sarp yokuşun ne olduğunu sana bildiren nedir? 
-**(13)** Bir köleyi çözmektir (azad etmek),
-**(14)** yahut açlık gününde doyurmaktır,
-**(15)** akraba olan yetimi,
-**(16)** yahut hiçbir şeyi olmayan yoksulu,
-**(17)** sonra inanan(lar) kimselerden olmaktır ve sabır tavsiye edenlerden ve merhamet tavsiye edenlerden, 
-**(18)** işte onlar sağın adamlarıdır,
-**(19)** ve ayetlerimizi inkar eden(ler) kimseler, onlar solun adamlarıdır,
-**(20)** onlara üzerlerine kilitlenmiş bir ateş vardır. 
+****(10)**** ve ona iki (tepe) yol gösterdik.
+****(11)**** Fakat o sarp yokuşa atılamadı.
+****(12)**** Sarp yokuşun ne olduğunu sana bildiren nedir? 
+****(13)**** Bir köleyi çözmektir (azad etmek),
+****(14)**** yahut açlık gününde doyurmaktır,
+****(15)**** akraba olan yetimi,
+****(16)**** yahut hiçbir şeyi olmayan yoksulu,
+****(17)**** sonra inanan(lar) kimselerden olmaktır ve sabır tavsiye edenlerden ve merhamet tavsiye edenlerden, 
+****(18)**** işte onlar sağın adamlarıdır,
+****(19)**** ve ayetlerimizi inkar eden(ler) kimseler, onlar solun adamlarıdır,
+****(20)**** onlara üzerlerine kilitlenmiş bir ateş vardır. 

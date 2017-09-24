@@ -20,5 +20,5 @@ tag:
 **(7)** onlar ki, Allah’ın Elçisinin yanında bulunanlara bir şey vermeyin, dağılıp gitsinler diyorlar, göklerin ve yerin hazineleri Allah’ındır fakat münafıklar anlamazlar,
 **(8)** diyorlar ki, andolsun eğer Medine’ye dönersek üstün olan alçak olanı oradan mutlaka çıkaracaktır, üstünlük Allah’a ve Elçisine mahsustur ve, ve mü’minlere fakat münafıklar bilmezler.
 **(9)** Ey inanan(lar) kimseler sizi Allah’ı anmaktan mallarınız ve ne de çocuklarınız alıkoymasın ve kim bunu yaparsa, işte onlar ziyana uğrayanlardır.
-**(10)** Birinize ölüm gelmeden ve Rabbim keşke beni yakın bir süreye kadar erteleseydin, sadaka verseydim ve iyilerden olsaydım demeden önce size verdiğimiz rızıktan sadaka verin.
-**(11)** Ve Allah hiçbir canı süresi geldiğinde asla ertelemez ve Allah yaptıklarınız şeyleri haber alandır.
+****(10)**** Birinize ölüm gelmeden ve Rabbim keşke beni yakın bir süreye kadar erteleseydin, sadaka verseydim ve iyilerden olsaydım demeden önce size verdiğimiz rızıktan sadaka verin.
+****(11)**** Ve Allah hiçbir canı süresi geldiğinde asla ertelemez ve Allah yaptıklarınız şeyleri haber alandır.

@@ -19,13 +19,13 @@ tag:
 **(7)** yalnız Allah’ın dilediği başka, muhakkak O, açığı ve gizli olanı bilir
 **(8)** ve sana, en kolay olana, kolaylaştıracağız 
 **(9)** o halde eğer hatırlatmak yarar verirse hatırlat öğüt ver
-**(10)** saygılı olan hatırlar
-**(11)** ve bahtsız olan ondan kaçınır
-**(12)** o ki en büyük ateşe girer
-**(13)** sonra orada ölüm ve (ne) de yaşam yoktur
-**(14)** doğrusu nefsini arındıran kimse kurtuluşa ermiştir
-**(15)** ve Rabb'inin adını anan ve namaz kılan
-**(16)** ama siz dünya hayatını yeğliyorsunuz
-**(17)** oysa ahiret daha iyidir ve daha kalıcıdır
-**(18)** şüphesiz elbette bu ilk sahifelerde de vardı
-**(19)** İbrahim’in ve Musa’nın sayfalarında
+****(10)**** saygılı olan hatırlar
+****(11)**** ve bahtsız olan ondan kaçınır
+****(12)**** o ki en büyük ateşe girer
+****(13)**** sonra orada ölüm ve (ne) de yaşam yoktur
+****(14)**** doğrusu nefsini arındıran kimse kurtuluşa ermiştir
+****(15)**** ve Rabb'inin adını anan ve namaz kılan
+****(16)**** ama siz dünya hayatını yeğliyorsunuz
+****(17)**** oysa ahiret daha iyidir ve daha kalıcıdır
+****(18)**** şüphesiz elbette bu ilk sahifelerde de vardı
+****(19)**** İbrahim’in ve Musa’nın sayfalarında

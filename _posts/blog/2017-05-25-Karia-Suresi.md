@@ -20,5 +20,5 @@ tag:
 **(7)** o memnun edici bir hayat içindedir
 **(8)** ve fakat kimin tartıları hafif gelirse,
 **(9)** onun anası haviye(uçurum)dur.
-**(10)** Onun ne olduğunu sana bildiren nedir? 
-**(11)** Kızgın bir ateştir.
+****(10)**** Onun ne olduğunu sana bildiren nedir? 
+****(11)**** Kızgın bir ateştir.

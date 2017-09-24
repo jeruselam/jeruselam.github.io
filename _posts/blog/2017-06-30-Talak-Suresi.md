@@ -20,6 +20,6 @@ tag:
 **(7)** Genişliğine göre geniş imkana sahip (olan) nafaka versin ve rızkı aleyhine kısıtlı olan kimse Allah’ın kendisine verdiği şeyden versin, Allah bir kişiye verdiğinden başkasıyla sorumlu tutmaz, Allah sonra, bir güçlükten bir kolaylık yaratacaktır
 **(8)** Rabbinin ve elçilerinin buyruğuna kentlerden nicesi baş kaldırdı, biz de onu çetin bir hesabla hesaba çektik ve ona korkunç bir azabla azabettik,
 **(9)** işinin vebalini taddı ve işinin sonucu bir ziyan idi. 
-**(10)** Allah onlara şiddetli bir azab hazırlamıştır, o halde inanmış olan sağduyu	sahipleri Allah’tan korkun, andolsun, Allah size bir uyarı indirdi.
-**(11)** Allah’ın ayetlerini size açık açık okuyan bir elçi (gönderdi), inanan(ları) kimseleri ve yararlı işler  yapanları karanlıklardan aydınlığa çıkarsın diye ve kim Allah’a inanır ve yararlı iş yaparsa onu içinde ebedi kalacakları altlarından ırmaklar akan cennetlere sokar, Allah ona rızık olarak gerçekten en güzeli vermiştir.
-**(12)** Allah O’dur ki, yedi göğü ve yerden onların benzerini yarattı, bunlar arasında buyruğu iner, şüphesiz Allah’ın her şey üzerine kadir olduğunu ve şüphesiz Allah’ın her şeyi bilgice muhakkak kuşatmış bulunduğunu bilesiniz diye.
+****(10)**** Allah onlara şiddetli bir azab hazırlamıştır, o halde inanmış olan sağduyu	sahipleri Allah’tan korkun, andolsun, Allah size bir uyarı indirdi.
+****(11)**** Allah’ın ayetlerini size açık açık okuyan bir elçi (gönderdi), inanan(ları) kimseleri ve yararlı işler  yapanları karanlıklardan aydınlığa çıkarsın diye ve kim Allah’a inanır ve yararlı iş yaparsa onu içinde ebedi kalacakları altlarından ırmaklar akan cennetlere sokar, Allah ona rızık olarak gerçekten en güzeli vermiştir.
+****(12)**** Allah O’dur ki, yedi göğü ve yerden onların benzerini yarattı, bunlar arasında buyruğu iner, şüphesiz Allah’ın her şey üzerine kadir olduğunu ve şüphesiz Allah’ın her şeyi bilgice muhakkak kuşatmış bulunduğunu bilesiniz diye.
