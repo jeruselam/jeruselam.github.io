@@ -22,4 +22,4 @@ Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
 [jeruselam@yandex.com](mailto:jeruselam@yandex.com)
 
-<a href="{{ site.url }}/contact" class="btn" title="{{ page.previous.title }}">Önerilerinizi yazın</a>
+<a href="{{ site.url }}/contact" class="btn" title="">Önerilerinizi yazın</a>
