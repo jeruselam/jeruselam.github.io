@@ -60,13 +60,13 @@ tag:
 **(48)** ve onlara hiçbir mu’cize, ötekinden, o daha büyük (olandan) başkasını göstermeyiz ve onları azab(lar) ile yakaladık umulur ki dönerler
 **(49)** ve dediler ki, ey büyücü sana verdiği söz hürmetine Rabbine bizim için du’a et artık biz yola geleceğiz
 **(50)** fakat biz onlardan azabı kaldırınca onlar hemen sözlerinden dönüyorlar
-**(51)** ve Fir’avn kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
+**(51)** ve Fir’avn, kavminin içinde seslendi dedi ki, kavmim Mısır mülkü ve şu altımdan akıp giden ırmaklar benim değil mi? görmüyor musunuz?
 **(52)** yahut ben şundan daha iyi (değil miyim?) ki o aşağılıktır ve nerdeyse söz anlatacak durumda olmayandır
 **(53)** üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
 **(54)** kavmini küçümsedi, onlar da ona boyun eğdiler çünkü onlar yoldan çıkmış bir kavim idiler
 **(55)** onlar bizi kızdırınca biz de onlardan öc aldık ve onları, hepsini boğduk
 **(56)** onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
-**(57)** ve ne zaman ki Meryem oğlu bir misal olarak anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
+**(57)** ve ne zaman ki bir misal olarakMeryem oğlu anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
 **(58)** ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
 **(59)** O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
 **(60)** ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
