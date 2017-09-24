@@ -20,7 +20,7 @@ tag:
 **(8)** biz de bunlardan daha güçlü olanı yakalayarak helak ettik ve öncekilerin örneği geçti
 **(9)** andolsun eğer onlara sorsan, gökleri ve yeri kim? yarattı, elbette diyecekler ki onları çok bilen, çok üstün olan yarattı
 **(10)** O ki sizin için yeri bir beşik kılandır ve size orada yollar yapandır, umulur ki hidayete eresiniz
-**(11)** ve o ki gökten bir ölçü ile su indirendir, böylece onunla ölü bir ülkeyi canlandırdık, işte öyle siz de çıkarılacaksınız
+**(11)** ve o ki bir ölçü ile gökten su indirendir, böylece onunla ölü bir ülkeyi canlandırdık, işte siz de öyle çıkarılacaksınız
 **(12)** ve O ki bütün çiftleri yaratandır ve size gemiler ve bineceğiniz hayvanlar var edendir 
 **(13)** onların sırtları üzerine binmeniz için sonra onlara bindiğiniz zaman Rabbinizin ni’metini anmanız için ve bunu bizim hizmetimize verenin şanı yücedir yoksa biz bunu (hizmetimize) yanaştıracak değildik(şöyle) demeniz için
 **(14)** biz elbette Rabbimize döneceğiz
