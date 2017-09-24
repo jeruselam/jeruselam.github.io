@@ -65,12 +65,12 @@ tag:
 **(53)** üzerine altından bilezikler atılmalı değil miydi? yahut yakın melekler yanında gelmeli (değil miydi?)
 **(54)** kavmini küçümsedi, onlar da ona boyun eğdiler çünkü onlar yoldan çıkmış bir kavim idiler
 **(55)** onlar bizi kızdırınca biz de onlardan öc aldık ve onları, hepsini boğduk
-**(56)** onları geçmiş ataları ve sonradan gelenlerin örneği yaptık
-**(57)** ve ne zaman ki bir misal olarakMeryem oğlu anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
+**(56)** onları sonradan gelenlerin örneği ve  geçmiş ataları yaptık
+**(57)** ve ne zaman ki bir misal olarak Meryem oğlu anlatılınca kavmin ondan ötürü hemen yaygarayı bastılar
 **(58)** ve bizim tanrılarımız mı? hayırlıdır yoksa o mu? dediler, bunu sana tartışmak dışında bir sebeple misal vermediler doğrusu onlar kavgacı bir toplumdur
 **(59)** O kendisine ni’met verdiğimiz ve İsrail oğullarına örnek kıldığımız bir kul(dan) başkası değildir
-**(60)** ve eğer dileseydik elbette sizden (şu) dünyada yerinize geçen melekler yapardık 
-**(61)** ve şüphesiz O kıyametin ilmidir ondan hiç şüphe etmeyin ve bana uyun, doğru yol budur
+**(60)** ve eğer elbette dileseydik yerinize (şu) dünyada geçen sizden melekler yapardık 
+**(61)** ve şüphesiz O, kıyametin ilmidir, ondan hiç şüphe etmeyin ve bana uyun doğru yol budur
 **(62)** 
 **(63)** 
 **(64)** 
