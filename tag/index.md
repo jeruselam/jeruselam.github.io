@@ -1,12 +1,11 @@
 ---
 layout: page
-title: ""
+title: Sûreler
 permalink: /tag/
 search_omit: true
 sitemap: false
 ---
 
-<div style="text-align: center;"><h1>Sûreler</h1></div>
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
 
