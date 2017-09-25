@@ -13,10 +13,10 @@ tag:
 **(1)** Hâ Mîm
 **(2)** Ayn Sîn Kâf
 **(3)** aziz hakim Allah sana ve senden öncekilere böyle vahyeder
-**(4)** 
-**(5)** 
-**(6)** 
-**(7)** 
+**(4)** göklerde bulunan herşey O’nundur ve yerde bulunan herşey ve O yücedir, uludur
+**(5)** gökler neredeyse üstlerinden çatlayacaklar ve melekler Rablerini hamd ile tesbih ederler ve yerdeki kimseler için mağfiret dilerler iyi bil ki şüphesiz çok bağışlayan, çok esirgeyen Allah O’dur 
+**(6)** ve Allah O’ndan başka dostlar edinen(leri) kimseleri onları kollamaktadır ve sen onların üzerinde bir vekil değilsin
+**(7)** ve böyle ki biz sana kentlerin anasını(Mekke’yi) ve çevresindekileri uyarman için ve onda asla kuşku bulunmayan toplanma gününe karşı uyarman için arapça bir Kur’an vahyettik, bir bölük cennette ve bir bölük ateştedir
 **(8)** 
 **(9)** 
 **(10)** 
