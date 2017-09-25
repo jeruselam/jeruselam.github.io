@@ -5,8 +5,9 @@ sitemap: false
 <feed xmlns="https://www.w3.org/2005/Atom">
 
  <title>Zikr Tercume</title>
- <link href="https://jeruselam.github.io/atom.xml" rel="self"/>
- <link href="https://jeruselam.github.io/"/>
+ <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+ <link href="{{ site.url }}/atom.xml" rel="self"/>
+ <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>https://jeruselam.github.io/</id>
  <author>
@@ -17,7 +18,7 @@ sitemap: false
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="https://jeruselam.github.io{{ post.url }}"/>
+   <link href="{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>https://jeruselam.github.io{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
