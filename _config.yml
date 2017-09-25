@@ -4,7 +4,7 @@ description       : Türkçe Tercümesi
 title             : Kur'an-ı Kerim
 logo              : muhur2.png
 search            : false
-baseurl           : "" # the subpath of your site, e.g. /blog/
+baseurl           : ""
 url               : https://jeruselam.github.io
 author:
   name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
@@ -102,8 +102,10 @@ webmaster_verifications:
 
 
 # Site Info
-license_name     : Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-license_url      : http://creativecommons.org/licenses/by-nc-sa/3.0/
+licence:
+   logo     : cc
+   name     : Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+   url      : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
 
 development_mode : true
 development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
