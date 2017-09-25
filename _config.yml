@@ -106,7 +106,7 @@ licence:
    logo     : cc
    name     : Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
    url      : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
-
+flag: moon
 development_mode : true
 development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
 
