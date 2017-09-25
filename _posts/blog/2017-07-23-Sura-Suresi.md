@@ -30,15 +30,15 @@ tag:
 **(18)** ona inanmayan(lar) kimseler onun çabuk gelmesini isterler inanan(lar) kimseler ise ondan korkarlar ve onun gerçek olduğunu bilirler, iyi bil ki elbette (o) sa’at hakkında tartışan(lar) kimseler uzak bir sapıklık içindedirler
 **(19)** Allah kullarına lutufkardır, dilediği kimseyi rızıklandırır ve O kuvvetlidir, galiptir
 **(20)** ahiret ekinini kim istiyor ise onun ekinini onun için artırırız ve kim dünya ekinini istiyor ise ona ondan bir şey veririz fakat onun ahirette hiçbir nasibi olmaz
-**(21)** yoksa onu izin vermediği dini onların kendilerine şeriat kılan ortakları (mı?) var, eğer Allah’ın ayırım sözü olmasaydı aralarında  derhal hüküm verilirdi ve kuşkusuz zalimler (için), onlara acıklı bir azab vardır
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
-**(29)** 
+**(21)** yoksa onu izin vermediği dini onların kendilerine şeriat kılan ortakları (mı?) var, eğer Allah’ın ayırım sözü olmasaydı aralarında  derhal ve zalimler (için) kuşkusuz hüküm verilirdi, onlara acıklı bir azab vardır
+**(22)** ve zalimlerin yaptıkları işler yüzünden o onların başlarına inerken korkudan titrediklerini görürsün fakat inananlar ve iyi işler yapanlar cennet bahçelerindedirler Rablerinin yanında diledikleri her şey onlara vardır, işte büyük lutuf budur
+**(23)** bu Allah’ın inanan ve iyi işler yapan kullarını müjdelediğidir de ki ben sizden bunu karşılık bir ücret istemiyorum ancak (Allah’a) yaklaşmayı arzu ediyorum ve kim bir iyilik yaparsa onun iyiliğini ona artırırız şüphesiz Allah bağışlayandır, karşılık verendir
+**(24)** yoksa Allah’a karşı yalan uydurdu (mı?) diyorlar öyle bir durumda Allah dilese senin kalbin üzerine mühür basar ve Allah batılı mahveder ve sözleriyle hakkı yerleştirir şüphesiz O göğüslerin özünü bilir
+**(25)** ve O’dur ki kullarından tevbeyi kabul eder ve kötülüklerden affeder ve ne yapıyorsunuz bilir
+**(26)** ve inanan(ların) kimselerin ve iyi işler yapanların dileklerini kabul eder ve lutuf ve kereminden onlara daha fazlasını verir, kafirlere gelince onlara da çetin bir azab vardır
+**(27)** ve eğer Allah kullarına rızkı bollaştırsaydı yeryüzünde azarlardı fakat dilediği ölçüde indiriyor çünkü O kullarını(n her halini) haber alandır, görendir
+**(28)** ve umutlarını kestikten sonra yağmuru indiren ve rahmetini yayan O’dur ve O velidir, övülmüştür
+**(29)** ve gökleri ve yeri ve bunların içine yaydığı canlılardan yaratması O’nun ayetlerindendir ve O dilediği zaman onları toplamağa kadirdir
 **(30)** 
 **(31)** 
 **(32)** 
