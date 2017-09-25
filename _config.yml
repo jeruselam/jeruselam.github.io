@@ -104,9 +104,11 @@ webmaster_verifications:
 # Site Info
 licence:
    logo     : cc
-   name     : Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+   name     : Alıntı-GayriTicari-Türetilemez 4.0 Uluslararası (CC BY-NC-ND 4.0)
    url      : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
 flag: moon
+
+
 development_mode : true
-development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları github sitesi üzerinden bildirebilirsiniz.
+development_warning: Bu site halen yapım aşamasındadır.  Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları bildirebilirsiniz.
 
