@@ -39,19 +39,19 @@ tag:
 **(27)** ve eğer Allah kullarına rızkı bollaştırsaydı yeryüzünde azarlardı fakat dilediği ölçüde indiriyor çünkü O kullarını(n her halini) haber alandır, görendir
 **(28)** ve umutlarını kestikten sonra yağmuru indiren ve rahmetini yayan O’dur ve O velidir, övülmüştür
 **(29)** ve gökleri ve yeri ve bunların içine yaydığı canlılardan yaratması O’nun ayetlerindendir ve O dilediği zaman onları toplamağa kadirdir
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)**
-**(41)** 
-**(42)** 
+**(30)** ve başınıza gelen herhangi bir musibet kendi ellerinizin yaptığı (işler) yüzündendir ve birçoğunu affeder
+**(31)** ve siz yer yüzünde aciz bırakacak değilsiniz ve sizin Allah’tan başka hiçbir veliniz ne de bir yardımcı(nız) yoktur 
+**(32)** ve denizde dağlar gibi akıp giden(gemi)ler O’nun ayetlerindendir
+**(33)** eğer dilerse rüzgarı durdurur da sonra (denizin) sırtında hareketsiz kalırlar, kuşkusuz bunda sabreden şükreden herkes için ibretler vardır
+**(34)** yahut yaptıkları (işler) yüzünden onları helak eder ve birçoğunu da affeder (kurtarır)
+**(35)** ve kendileri için hiçbir kaçacak yer olmadığını ayetlerimiz hakkında tartışanlar bilsinler
+**(36)** size verilen şeyler dünya hayatının geçimidir ve Allah’ın yanında bulunan ise inananlar için ve Rablerine dayananlar (için) daha hayırlıdır ve daha kalıcıdır 
+**(37)** ve onlar büyük günahlardan ve çirkin işlerden kaçınırlar ve onlar kızdıkları zaman affederler
+**(38)** ve Rablerinin çağrısına gelirler ve namazı kılarlar ve aralarında işleri danışma iledir, kendilerini rızıklandırdığımız şeylerden infak ederler
+**(39)** ve onlar saldırıya uğradıkları zaman kendilerini savunurlar
+**(40)** ve kötülüğün cezası yine onun gibi bir kötülüktür fakat kim affederse ve barışırsa onun mükafatı Allah’a aittir, doğrusu O zalimleri sevmez
+**(41)** ve elbette kim zulme uğradıktan sonra kendini savunursa öylelerinin aleyhine hiçbir yol yoktur
+**(42)** ancak haksız yere insanlara zulmedenler ve yeryüzünde haksız yere saldıranlar aleyhine bir yol vardır, işte onlara acıklı bir azab vardır
 **(43)** 
 **(44)** 
 **(45)** 
