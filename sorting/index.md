@@ -19,9 +19,9 @@ sitemap: false
 {% endcapture %}
 {% assign word_count = words | times: 1 %}
 {% if word_count != 0 %}
-	<span>{{ word_count }} dk.</span>
+	<span><i class="fa fa fa-file-text-o" style="font-size:17px"></i> {{ word_count }} dk.</span>
 {% else %}
-	<span> <{{ word_count | plus: 1 }} dk.</span>
+	<span><i class="fa fa fa-file-text-o" style="font-size:17px"></i> <{{ word_count | plus: 1 }} dk.</span>
 {% endif %}<!-- Read time -->
 {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
