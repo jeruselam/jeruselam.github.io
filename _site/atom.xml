@@ -2,13 +2,13 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
 
  <title>Zikr Tercume</title>
- <link href="http://jeruselam.github.io/atom.xml" rel="self"/>
- <link href="http://jeruselam.github.io/"/>
- <updated>2017-09-25T13:55:38+03:00</updated>
- <id>http://jeruselam.github.io/</id>
+ <link href="https://jeruselam.github.io/atom.xml" rel="self"/>
+ <link href="https://jeruselam.github.io/"/>
+ <updated>2017-09-25T14:21:48+03:00</updated>
+ <id>https://jeruselam.github.io/</id>
  <author>
    <name>Zikr</name>
-   <email>tercume@linux.org</email>
+   <email>jeruselam@yandex.com</email>
  </author>
 
  
