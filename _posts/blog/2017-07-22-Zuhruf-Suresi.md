@@ -92,10 +92,10 @@ tag:
 **(80)** yoksa biz onların sırlarını ve gizli konuşmalarını işitmiyoruz (mı?) sanıyorlar, hayır (işitiriz) ve yanlarında bulunan elçilerimiz yazarlar
 **(81)** de ki eğer Rahman’ın çocuğu olsaydı, tapanların ilki ben olurdum
 **(82)** göklerin ve yerin Rabbi, Arş’ın Rabbi onların nitelendirmelerinden münezzehtir 
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)** 
-**(88)** 
-**(89)** 
+**(83)** kendilerine vadedilen günlerine kavuşuncaya kadar bırak onları dalsınlar ve oynasınlar 
+**(84)** ve O’dur ki gökte Tanrı’dır ve yerde Tanrı’dır ve O hakimdir, bilendir 
+**(85)** ve göklerin ve yerin ve ikisi arasında bulunan her şeyin mülkü kendisine ait olan ne yücedir, sa’atin bilgisi O’nun yanındadır ve O’na döndürüleceksiniz
+**(86)** ve O’ndan başka yalvardıkları şeyler şefa’at (yetkisin)e sahip değillerdir ve ancak onlar bilerek hakka şahidlik eden kimseler bunun dışındadır 
+**(87)** ve andolsun onlara sorsan, onları kim? yarattı, elbette Allah derler, o halde nasıl? çevriliyorlar
+**(88)** ve onun Rab demesi(ne andolsun) şüphesiz bunlar inanmayan bir kavimdir
+**(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
