@@ -23,14 +23,14 @@ tag:
 **(11)** gökleri ve yeri yoktan var edendir, size kendinizden çiftler ve hayvanlardan çiftler yaratmıştır, bu(düzen içi)nde sizi üretiyor, O’na benzer hiçbir şey yoktur ve O işitendir, görendir
 **(12)** göklerin ve yerin anahtarları O’nundur, dilediği kimse niçin rızkı açar ve kısar, şüphesiz O her şeyi bilendir
 **(13)** dinden onunla Nuh’a tavsiye ettiği ne varsa ve sana vahyettiğimizi ve onunla İbrahim’e ve Musa’ya ve ve Îsa’ya tavsiye ettiğimizi size şeri’at (hukuk düzeni) yaptı, şöyle ki dini doğru tutun ve onda ayrılığa düşmeyin, onları kendisine çağırdığın, ortak koşanlara ağır geldi, Allah dilediği kimseyi kendisine seçer ve iyi niyyetle  yönelen kimseyi kendisine iletir
-**(14)** 
-**(15)** 
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
+**(14)** ve onlar, aralarındaki ilim çekememezlik kendilerine geldikten sonra başka sebeple ayrılığa düşmediler ve eğer Rabbinden belirli bir süre kadar, geçmiş sözü olmasaydı, aralarında hüküm verilirdi ve şüphesiz, onlardan sonra Kitaba varis kılınanlar, ondan kuşku veren bir şüphe içindedirler
+**(15)** bundan dolayı sen (Hakka) çağır ve emrolunduğun gibi doğru ol ve onların keyiflerine uyma ve de ki Allah’ın indirdiği her Kitaba ben inandım ve aranızda adalet yapmakla emrolundum, Allah bizim de Rabbimizdir, sizin de Rabbinizdir, bizim eylemlerimiz bize aittir ve sizin eylemleriniz size aittir, bizimle sizin aranızda bir tartışma nedeni yoktur, Allah aramızı bulur (bir araya toplar) ve dönüş O’nadır
+**(16)** ve onu kabul ettikten sonra Allah hakkında tartışan(ların) kimselerin Rableri yanında delilleri batıldır ve üzerlerine bir gazab vardır ve onlara şiddetli bir azab vardır 
+**(17)** Allah’tır ki gerçeği içeren Kitabı ve ölçüyü indirdi, ne? bilirsin belki (o) sa’at yakındır
+**(18)** ona inanmayan(lar) kimseler onun çabuk gelmesini isterler inanan(lar) kimseler ise ondan korkarlar ve onun gerçek olduğunu bilirler, iyi bil ki elbette (o) sa’at hakkında tartışan(lar) kimseler uzak bir sapıklık içindedirler
+**(19)** Allah kullarına lutufkardır, dilediği kimseyi rızıklandırır ve O kuvvetlidir, galiptir
+**(20)** ahiret ekinini kim istiyor ise onun ekinini onun için artırırız ve kim dünya ekinini istiyor ise ona ondan bir şey veririz fakat onun ahirette hiçbir nasibi olmaz
+**(21)** yoksa onu izin vermediği dini onların kendilerine şeriat kılan ortakları (mı?) var, eğer Allah’ın ayırım sözü olmasaydı aralarında  derhal hüküm verilirdi ve kuşkusuz zalimler (için), onlara acıklı bir azab vardır
 **(22)** 
 **(23)** 
 **(24)** 
