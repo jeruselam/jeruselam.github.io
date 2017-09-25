@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
   <link rel="dns-prefetch" href="https://assets-cdn.github.com">
   <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
   <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
@@ -125,7 +125,7 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/ColinEberhardt/jscroll/search" class="js-site-search-form" data-scoped-search-url="/ColinEberhardt/jscroll/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ColinEberhardt/jscroll/search" class="js-site-search-form" data-scoped-search-url="/ColinEberhardt/jscroll/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
         <a href="/ColinEberhardt/jscroll/blob/2f32e86a2b219b13365ca3fc6bec2a66d5599860/jquery.jscroll.js" class="header-search-scope no-underline">This repository</a>
       <input type="text"
@@ -246,7 +246,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="C6YR8ZpGzksTQPKYReSL1Cvhhl4F+dyngtGa8pptk36gExwEryi0mzj0TQG6gyEATlJiC5gmxUzijiMmWuM7xA==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="C6YR8ZpGzksTQPKYReSL1Cvhhl4F+dyngtGa8pptk36gExwEryi0mzj0TQG6gyEATlJiC5gmxUzijiMmWuM7xA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -257,7 +257,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VFdDmgI5wBcCF0H2l7mN3Lh+VP1VBsehyePuDCOkjxz/4k5vN1e6xymj/m9o3icI3c2wqMjZ3kqpvFfY4yonpg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VFdDmgI5wBcCF0H2l7mN3Lh+VP1VBsehyePuDCOkjxz/4k5vN1e6xymj/m9o3icI3c2wqMjZ3kqpvFfY4yonpg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -292,7 +292,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wl0kRIcowAyrugLDLkebGkg2oXiaJKesFpwnK8Lk/E7uasrKPtq4+8pRQDhGo9NR50mFldepF2POIKOix5/NTA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="24364427" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wl0kRIcowAyrugLDLkebGkg2oXiaJKesFpwnK8Lk/E7uasrKPtq4+8pRQDhGo9NR50mFldepF2POIKOix5/NTA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="24364427" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/ColinEberhardt/jscroll/subscription"
@@ -372,7 +372,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/ColinEberhardt/jscroll/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4B1jNA2ap7BywmsivSxEN2TChM7hci726L/ndBsa5Y7y8AKuoZ/tcpKikaYXMyaV4rpSUBLJV11TpJhGcjpHeg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ColinEberhardt/jscroll/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4B1jNA2ap7BywmsivSxEN2TChM7hci726L/ndBsa5Y7y8AKuoZ/tcpKikaYXMyaV4rpSUBLJV11TpJhGcjpHeg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -386,7 +386,7 @@
           1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/ColinEberhardt/jscroll/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y6LAhdfFhdTGeWvO86O+WxiXH7qC0pOVha1UotXTaSIGeBtobKb+LLCC+1ErVDSHt9O7vnqi3YF3hmxN8R9tdg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/ColinEberhardt/jscroll/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y6LAhdfFhdTGeWvO86O+WxiXH7qC0pOVha1UotXTaSIGeBtobKb+LLCC+1ErVDSHt9O7vnqi3YF3hmxN8R9tdg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -1558,7 +1558,7 @@
 
   <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
   <div id="jump-to-line" style="display:none">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
       <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
       <button type="submit" class="btn">Go</button>
 </form>  </div>

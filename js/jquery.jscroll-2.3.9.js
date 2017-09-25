@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
   <link rel="dns-prefetch" href="https://assets-cdn.github.com">
   <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
   <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
@@ -125,7 +125,7 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/pklauzinski/jscroll/search" class="js-site-search-form" data-scoped-search-url="/pklauzinski/jscroll/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pklauzinski/jscroll/search" class="js-site-search-form" data-scoped-search-url="/pklauzinski/jscroll/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
         <a href="/pklauzinski/jscroll/blob/master/jquery.jscroll.js" class="header-search-scope no-underline">This repository</a>
       <input type="text"
@@ -253,7 +253,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YcdKilK2vl+I/3E6QyCJzBQb3Zbo6Y4Z+b/pm3XzmrTKckd/Z9jEj6NLzqO8RyMYcag5w3U2l/KZ4FBPtX0yDg==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YcdKilK2vl+I/3E6QyCJzBQb3Zbo6Y4Z+b/pm3XzmrTKckd/Z9jEj6NLzqO8RyMYcag5w3U2l/KZ4FBPtX0yDg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -264,7 +264,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gVDqjytg0E9eOz7PUxJKvJ3RKnja8lCOjE8MR4yEJLQq5ed6Hg6qn3WPgVasdeBo+GLOLUctSWXsELWTTAqMDg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gVDqjytg0E9eOz7PUxJKvJ3RKnja8lCOjE8MR4yEJLQq5ed6Hg6qn3WPgVasdeBo+GLOLUctSWXsELWTTAqMDg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -299,7 +299,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="p28FJtp9cNuEGinWj+0QOLOrQFmClyN3AJ1xed/PyoiLWOuoY48ILOXxay3nCVhzHNRktM8ak7jYIfXw2rT7ig==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="1845646" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="p28FJtp9cNuEGinWj+0QOLOrQFmClyN3AJ1xed/PyoiLWOuoY48ILOXxay3nCVhzHNRktM8ak7jYIfXw2rT7ig==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="1845646" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/pklauzinski/jscroll/subscription"
@@ -379,7 +379,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/pklauzinski/jscroll/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vToIzMB78d1RSZSVAkJWzp3r6WKGb8QELVgZPhP9hVsncL/vFuf34HFv6YJ1xfiYJ1bP+drYq1/TN4uNzhB6Dw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pklauzinski/jscroll/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vToIzMB78d1RSZSVAkJWzp3r6WKGb8QELVgZPhP9hVsncL/vFuf34HFv6YJ1xfiYJ1bP+drYq1/TN4uNzhB6Dw==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -393,7 +393,7 @@
           887
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/pklauzinski/jscroll/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GoDBEWwOuZKtUuxEG5N+Isobgd7Spfw9yrZHsH+8Mmid6OUPMtjl1NtNr43aR26BOrcPg4wcBOTzs9+K5q/a2Q==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pklauzinski/jscroll/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GoDBEWwOuZKtUuxEG5N+Isobgd7Spfw9yrZHsH+8Mmid6OUPMtjl1NtNr43aR26BOrcPg4wcBOTzs9+K5q/a2Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -808,12 +808,12 @@
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/pklauzinski/jscroll/edit/master/jquery.jscroll.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MR1YKSmfwJJEnGdhPzvUghvLG/Z1hOkE2yJ72yDhedw7uPWpaufPs/Hz9XCDBlLwqjJBoQyKKD2bfmMCT1adYQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pklauzinski/jscroll/edit/master/jquery.jscroll.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MR1YKSmfwJJEnGdhPzvUghvLG/Z1hOkE2yJ72yDhedw7uPWpaufPs/Hz9XCDBlLwqjJBoQyKKD2bfmMCT1adYQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="/pklauzinski/jscroll/delete/master/jquery.jscroll.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g++3+joTrv9ZzmgPwze1zvQMBKN9iJIoaqAnVlXEOhiWrp8WwdMFD3MGYHhhFKmUR0EmbXYe5IaikEHIqjQFlQ==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/pklauzinski/jscroll/delete/master/jquery.jscroll.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g++3+joTrv9ZzmgPwze1zvQMBKN9iJIoaqAnVlXEOhiWrp8WwdMFD3MGYHhhFKmUR0EmbXYe5IaikEHIqjQFlQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1788,7 +1788,7 @@
 
   <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
   <div id="jump-to-line" style="display:none">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="utf-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
       <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
       <button type="submit" class="btn">Go</button>
 </form>  </div>
