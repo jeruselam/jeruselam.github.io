@@ -101,4 +101,3 @@ tag:
 **(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
 
 ![]({{site.url}}/images/altkenar.png)
-![]({{site.url}}/images/43.png) 
