@@ -45,9 +45,7 @@ $('.content').jscroll({
     padding: 20,
     nextSelector: 'a.jscroll-next:last'
 });
-</script>
-<script src="/js/jquery-1.11.3.js"></script>
-<script src="/js/jquery.jscroll-2.3.9.js"></script><!-- /#infinitive scroll --><!-- /#main -->
+</script><!-- /#main -->
 
 <div class="footer-wrapper">
   <footer class="entry-wrapper">
@@ -88,18 +86,11 @@ $(document).ready(function () {
     });
 });
 </script>
-
-<script> 
-$(document).ready(function() {
-  $('#Links').cycle({
-        speed: 1000,
-        timeout: 15000,
-        loader: true
-    });
-})
-</script>
-
 {% include scripts.html %}
 {% include analytics.html %}
+
+<script src="/js/jquery-1.11.3.js"></script>
+<script src="/js/jquery.jscroll-2.3.9.js"></script>
+
 </body>
 </html>
