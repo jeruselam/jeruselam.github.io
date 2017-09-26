@@ -46,6 +46,14 @@ plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-time-to-read
+  - jekyll-assets
+
+assets:
+  js_compressor: uglifier
+  css_compressor: sass
+  cache: _cache/assets
+  cachebust: hard
+
 
 kramdown:
   input           : GFM
