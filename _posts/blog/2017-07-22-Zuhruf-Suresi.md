@@ -8,7 +8,7 @@ tag:
  - Zuhrûf
 ---
 
-## 43. Zuhrûf Sûresi
+![]({{site.url}}/images/43.png) ## Zuhrûf Sûresi
 
 **(1)** Ha mim
 **(2)** apaçık Kitaba andolsun ki
