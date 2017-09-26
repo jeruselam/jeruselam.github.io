@@ -52,9 +52,9 @@ tag:
 **(40)** ve kötülüğün cezası yine onun gibi bir kötülüktür fakat kim affederse ve barışırsa onun mükafatı Allah’a aittir, doğrusu O zalimleri sevmez
 **(41)** ve elbette kim zulme uğradıktan sonra kendini savunursa öylelerinin aleyhine hiçbir yol yoktur
 **(42)** ancak haksız yere insanlara zulmedenler ve yeryüzünde haksız yere saldıranlar aleyhine bir yol vardır, işte onlara acıklı bir azab vardır
-**(43)** 
-**(44)** 
-**(45)** 
+**(43)** fakat kim sabrederse ve şüphesiz affederse bu şüphesiz çok önemli işlerdendir
+**(44)** ve Allah kimi sapıklıkta bırakırsa artık onun O’ndan sonra hiçbir velisi yoktur ve zalimlerin azabı gördükleri zaman geri dönecek hiçbir yol var mı? dediklerini görürsün
+**(45)** yine onları ona (ateşe) sunulurlarken aşağılıktan başlarını öne eğik görürsün, gizli gizli göz ucuyla bakarlar ve inananlar kıyamet günü şüphesiz asıl ziyana uğrayanlar kendilerini ve ailelerini ziyan edenlerdir demişlerdir, bakın gerçekten zalimler sürekli bir azab içindedirler
 **(46)** 
 **(47)** 
 **(48)** 
