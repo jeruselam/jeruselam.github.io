@@ -23,3 +23,6 @@ search_omit: true
 {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></li>
 {% endfor %}
 </ul>
+
+
+{% include rotate2.html %}
