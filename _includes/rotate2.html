@@ -1,0 +1,28 @@
+<a class="links" href="http://www.google.com">Google</a>
+<a class="links" href="http://www.facebook.com">Facebook</a>
+<a class="links" href="http://www.Twitter.com">Twitter</a>
+
+
+<script src="https://jeruselam.github.io/js/jquery-1.11.3.min.js"></script>
+<script src="https://jeruselam.github.io/js/jquery.cycle.all.js"></script>
+
+<script> 
+$(document).ready(function() {
+  var $anch = $("a.links");
+  $anch.hide().eq(0).show();
+  var nTotal = $anch.length;
+  var nPos = 0;
+  setInterval(RotateLinks, 12000);
+
+  function RotateLinks() {
+    $anch.eq(nPos).fadeOut("slow", function() {
+      nPos++;
+      if (nPos == nTotal) {
+        nPos = 0;
+      }
+      $anch.eq(nPos).fadeIn("slow")
+    });
+  }
+});
+
+</script>
