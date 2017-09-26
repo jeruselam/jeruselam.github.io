@@ -16,10 +16,8 @@
         {% if page.headline %}<h2 class="entry-title">{{ page.headline }}</h2>{% else %}<h2 class="entry-title">{{ page.title }}</h2>{% endif %}
       </header>
 
-<!-- /#seperator -->
       <a href="#Top"></a>
       <div style="text-align: center;"><a href="#Bot"><i class="fa fa-angle-double-down" style="font-size:19px"></i></a></div>
-<!-- /#seperator -->
 
       <div class="entry-content">
         {{ content }}
@@ -36,12 +34,10 @@
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
 
-<!-- /#seperator -->
         <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up" style="font-size:19px"></i></a>
 <!-- /#seperator -->
     </nav><!-- /.pagination -->
 
-<!-- /#seperator -->
 <!-- /#infinitive scroll for words-->
 <script type="text/javascript">
 // content selector is used to extract the additional items 
@@ -53,7 +49,6 @@ $('.content').jscroll({
 </script>
 <script src="/js/jquery-1.11.3.js"></script>
 <script src="/js/jquery.jscroll-2.3.9.js"></script><!-- /#infinitive scroll --><!-- /#main -->
-<!-- /#seperator -->
 
 <div class="footer-wrapper">
   <footer class="entry-wrapper">
@@ -61,19 +56,14 @@ $('.content').jscroll({
   </footer>
 </div><!-- /.footer-wrapper -->
 
-<!-- /#seperator -->
-
 <!-- /.Back-top -->
 <div class='container'>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
 <div class='clearfix'></div></div>  
 <script src="/js/back-to-top.js"></script><!-- /.Back-top -->
 
-<!-- /#seperator -->
-
 <p id="Bot"></p>
 
-<!-- /#seperator -->
 {% include scripts.html %}
 {% include analytics.html %}
 </body>
