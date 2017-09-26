@@ -54,6 +54,35 @@ assets:
   cache: _cache/assets
   cachebust: hard
 
+assets:
+  compress:
+    css: true
+    js: true
+  autowrite: true
+  cache: .asset-cache
+  cache_type: filesystem
+  cdn: https://cdn.example.com
+  skip_baseurl_with_cdn: false
+  skip_prefix_with_cdn: false
+  prefix: "/assets"
+  digest: true
+  assets:
+    - "*.png"
+    - "bundle.css"
+  sources:
+    - assets/css
+    - images
+    - _sass
+    - assets/fonts
+    - assets/js
+  features:
+    liquid: false
+    integrity: false
+    # This will add height and width attributes for an img tag.
+    automatic_img_size: true
+    # This will add the digest path as an alt attribute for an img tag.
+    automatic_img_alt : true
+
 
 kramdown:
   input           : GFM
