@@ -99,3 +99,5 @@ tag:
 **(87)** ve andolsun onlara sorsan, onları kim? yarattı, elbette Allah derler, o halde nasıl? çevriliyorlar
 **(88)** ve onun Rab demesi(ne andolsun) şüphesiz bunlar inanmayan bir kavimdir
 **(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
+
+![]({{site.url}}/images/altkenar.png)
