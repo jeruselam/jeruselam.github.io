@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Bitkiler
 description: Botany
 excerpt: "Botany"
