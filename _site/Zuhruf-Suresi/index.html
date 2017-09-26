@@ -268,19 +268,6 @@
 
 <p><img src="https://jeruselam.github.io/images/altkenar.png" alt="" /></p>
 
-<script> 
-$(document).ready(function() {
-  setInterval(function() {
-    var iScroll = $(window).scrollTop();
-    iScroll = iScroll + 10;
-    $('html, body').animate({
-      scrollTop: iScroll
-    }, 1000);
-  }, 5000);
-});
-</script>
-
-
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
@@ -368,6 +355,24 @@ src="//c.statcounter.com/11443843/0/c8d207ab/1/" alt="" /></a></div></noscript>
 <script src="/js/back-to-top.js"></script><!-- /.Back-top -->
 
 <p id="Bot"></p>
+
+<!-- /.Page scolling -->
+<script> 
+$(document).ready(function () {
+    var myInterval = false;
+    myInterval = setInterval(function () {
+        var iScroll = $(window).scrollTop();
+        if (iScroll + $(window).height() == $(document).height()) {
+            clearInterval(myInterval);
+        } else {
+            iScroll = iScroll + 10;
+            $('html, body').animate({
+                scrollTop: iScroll
+            }, 1000);
+        }
+    }, 5000);
+});
+</script>
 
 <script type="text/javascript">
   var BASE_URL = 'https://jeruselam.github.io';

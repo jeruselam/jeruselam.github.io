@@ -66,14 +66,19 @@ $('.content').jscroll({
 
 <!-- /.Page scolling -->
 <script> 
-$(document).ready(function() {
-  setInterval(function() {
-    var iScroll = $(window).scrollTop();
-    iScroll = iScroll + 10;
-    $('html, body').animate({
-      scrollTop: iScroll
-    }, 1000);
-  }, 5000);
+$(document).ready(function () {
+    var myInterval = false;
+    myInterval = setInterval(function () {
+        var iScroll = $(window).scrollTop();
+        if (iScroll + $(window).height() == $(document).height()) {
+            clearInterval(myInterval);
+        } else {
+            iScroll = iScroll + 10;
+            $('html, body').animate({
+                scrollTop: iScroll
+            }, 1000);
+        }
+    }, 5000);
 });
 </script>
 
