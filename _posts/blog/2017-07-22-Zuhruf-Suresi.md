@@ -8,8 +8,7 @@ tag:
  - Zuhrûf
 ---
 
-![]({{site.url}}/images/43.png) 
-## Zuhrûf Sûresi
+## 43. Zuhrûf Sûresi
 
 **(1)** Ha mim
 **(2)** apaçık Kitaba andolsun ki
@@ -102,3 +101,4 @@ tag:
 **(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
 
 ![]({{site.url}}/images/altkenar.png)
+![]({{site.url}}/images/43.png) 
