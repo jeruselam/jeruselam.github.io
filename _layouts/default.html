@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="tr" xml:lang="tr">
+<head>
+{% include head.html %}
+</head>
+<!-- /#renk -->
+<body style="background-color:#F1F8E9;" id="page">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+  <article class="entry">
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        {% if page.headline %}<h2 class="entry-title">{{ page.headline }}</h2>{% else %}<h2 class="entry-title">{{ page.title }}</h2>{% endif %}
+      </header>
+
+      <a href="#Top"></a>
+      <div style="text-align: center;"><a href="#Bot"><i class="fa fa-angle-double-down" style="font-size:19px"></i></a></div>
+
+      <div class="entry-content">
+        {{ content }}
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div>
+<!-- /.pagination -->
+    <nav class="pagination" >
+      {% if page.previous %}
+        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Sonraki</a>
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
+      {% endif %}
+
+        <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up" style="font-size:19px"></i></a>
+    </nav><!-- /.pagination -->
+
+<!-- /#infinitive scroll for words-->
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+$('.content').jscroll({
+    contentSelector: "li",
+    padding: 20,
+    nextSelector: 'a.jscroll-next:last'
+});
+</script>
+<script src="/js/jquery-1.11.3.js"></script>
+<script src="/js/jquery.jscroll-2.3.9.js"></script>
+
+<!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer class="entry-wrapper">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<!-- /.Back-top -->
+<div class='container'>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
+<div class='clearfix'></div></div>  
+<script src="/js/back-to-top.js"></script><!-- /.Back-top -->
+
+<p id="Bot"></p>
+
+{% include scripts.html %}
+{% include analytics.html %}
+</body>
+</html>
