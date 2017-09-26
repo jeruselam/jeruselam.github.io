@@ -17,3 +17,6 @@ tag:
 **(4)** sinsi vesvesecinin şerrinden,
 **(5)** O ki, insanların göğüslerine fısıldar,
 **(6)** cinlerden ve insanlar(dan).
+
+
+![]({{site.url}}/images/goktepelilerkenarliklar66.png)
