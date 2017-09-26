@@ -49,18 +49,15 @@ plugins_dir:
   - jekyll-assets
 
 assets:
-  js_compressor: uglifier
-  css_compressor: sass
-  cache: _cache/assets
-  cachebust: hard
-
-assets:
   compress:
     css: true
     js: true
   autowrite: true
   cache: .asset-cache
   cache_type: filesystem
+  cachebust: hard
+  js_compressor: uglifier
+  css_compressor: sass
   cdn: https://cdn.example.com
   skip_baseurl_with_cdn: false
   skip_prefix_with_cdn: false
