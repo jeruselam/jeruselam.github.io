@@ -69,3 +69,5 @@ tag:
 **(57)** Rabbinden bir lutuf olarak o büyük başarı işte budur
 **(58)** biz o’nu kesinlikle senin diline kolaylaştırdık umulur ki düşünüp öğüt alırlar
 **(59)** biraz bekle onlar da beklemektedirler
+
+![]({{site.url}}/images/altkenar.png
