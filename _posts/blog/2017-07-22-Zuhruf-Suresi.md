@@ -101,18 +101,3 @@ tag:
 **(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
 
 ![]({{site.url}}/images/altkenar.png)
-
-
-
-<script> 
-$(document).ready(function() {
-  setInterval(function() {
-    var iScroll = $(window).scrollTop();
-    iScroll = iScroll + 10;
-    $('html, body').animate({
-      scrollTop: iScroll
-    }, 1000);
-  }, 5000);
-});
-</script>
-

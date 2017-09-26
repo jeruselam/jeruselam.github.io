@@ -64,6 +64,19 @@ $('.content').jscroll({
 
 <p id="Bot"></p>
 
+
+<script> 
+$(document).ready(function() {
+  setInterval(function() {
+    var iScroll = $(window).scrollTop();
+    iScroll = iScroll + 10;
+    $('html, body').animate({
+      scrollTop: iScroll
+    }, 1000);
+  }, 5000);
+});
+</script>
+
 {% include scripts.html %}
 {% include analytics.html %}
 </body>
