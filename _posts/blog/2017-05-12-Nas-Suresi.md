@@ -9,9 +9,6 @@ tag:
  - Nâs
 ---
 
-
-![]({{site.url}}/images/goktepelilerkenarliklar68.png)
-
 ## 114. Nâs Sûresi
 
 **(1)** De ki, insanların Rabbine sığınırım ben,
