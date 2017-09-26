@@ -1,74 +1,97 @@
----
-layout: compress
----
-
-<!doctype html>
-<html lang="tr">
+<!DOCTYPE html>
+<html lang="tr" xml:lang="tr">
 <head>
 {% include head.html %}
 </head>
-
-<body id="post">
+<!-- /#renk -->
+<body style="background-color:#F1F8E9;" id="page">
 
 {% include navigation.html %}
 
 <div id="main" role="main">
-  <article class="hentry">
-    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+  <article class="entry">
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <ul class="entry-tags">
-          {% for tag in page.tags %}<li><a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
-        </ul>
-        {% if page.link %}
-          <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
-        {% else %}
-          {% if page.headline %}<h1 class="entry-title">{{ page.headline }}</h1>{% else %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
-        {% endif %}
+        {% if page.headline %}<h2 class="entry-title">{{ page.headline }}</h2>{% else %}<h2 class="entry-title">{{ page.title }}</h2>{% endif %}
       </header>
-      <footer class="entry-meta">
-        {% if page.author %}
-          {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-        {% endif %}
-        {% if author.avatar contains 'http' %}
-          <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-        {% elsif author.avatar %}
-          <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-        {% endif %}
-        <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
-        <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
-        {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
-        {% if site.owner.disqus-shortname and page.comments or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
-        {% if page.share %}{% include social-share.html %}{% endif %}
-        {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
-      </footer>
+
+      <a href="#Top"></a>
+      <div style="text-align: center;"><a href="#Bot"><i class="fa fa-angle-double-down" style="font-size:19px"></i></a></div>
+
       <div class="entry-content">
         {{ content }}
-        {% if site.owner.disqus-shortname and page.comments or site.comments %}
-          <div id="disqus_thread"></div><!-- /#disqus_thread -->
-          {% include disqus-comments.html %}
-        {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
+  </article>
+</div>
+<!-- /.pagination -->
     <nav class="pagination" >
       {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
+        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Sonraki</a>
       {% endif %}
       {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next</a>
+        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Önceki</a>
       {% endif %}
+
+        <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up" style="font-size:19px"></i></a>
     </nav><!-- /.pagination -->
-  </article>
-</div><!-- /#main -->
+
+<!-- /#infinitive scroll for words-->
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+$('.content').jscroll({
+    contentSelector: "li",
+    padding: 20,
+    nextSelector: 'a.jscroll-next:last'
+});
+</script>
+<script src="/js/jquery-1.11.3.js"></script>
+<script src="/js/jquery.jscroll-2.3.9.js"></script>
+
+<!-- /#main -->
 
 <div class="footer-wrapper">
-  <footer role="contentinfo" class="entry-wrapper">
+  <footer class="entry-wrapper">
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
 
+<!-- /.Back-top -->
+<div class='container'>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
+<div class='clearfix'></div></div>  
+<script src="/js/back-to-top.js"></script><!-- /.Back-top -->
+
+<p id="Bot"></p>
+
+<!-- /.Page scolling -->
+<script> 
+$(document).ready(function () {
+    var myInterval = false;
+    myInterval = setInterval(AutoScroll, 5000);
+
+    function AutoScroll() {
+        var iScroll = $(window).scrollTop();
+        iScroll = iScroll + 10;
+        $('html, body').animate({
+            scrollTop: iScroll
+        }, 1000);
+    }
+    
+    $(window).scroll(function () {
+        var iScroll = $(window).scrollTop();
+        if (iScroll == 0) {
+            myInterval = setInterval(AutoScroll, 5000);
+        }
+        if (iScroll + $(window).height() == $(document).height()) {
+            clearInterval(myInterval);
+        }
+    });
+});
+</script>
+
 {% include scripts.html %}
 {% include analytics.html %}
-
 </body>
 </html>
