@@ -19,4 +19,4 @@ tag:
 **(6)** cinlerden ve insanlar(dan).
 
 
-![]({{site.url}}/images/goktepelilerkenarliklar66.png)
+![]({{site.url}}/images/altkenar.png)
