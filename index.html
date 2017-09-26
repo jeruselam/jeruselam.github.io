@@ -23,28 +23,3 @@ search_omit: true
 {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></li>
 {% endfor %}
 </ul>
-
-<h2>
-Rotate Text Links using jQuery
-</h2>
-<div id="Links"> <a class="links" href="http://www.google.com">Münafıklar sana geldikleri zaman muhakkak ki senin Allah’ın elçisi olduğuna tanıklık ederiz derler ve Allah bilir (ki) sen muhakkak onun elçisisin ve Allah münafıkların yalancılıklarına şüphesiz tanıklık eder.</a>
-  <a class="links" href="http://www.facebook.com">ve Allah hakkında kötü zan ile zanda bulunan münafık erkeklere ve münafık kadınlara ve ortak koşan erkeklere ve ortak koşan kadınlara azabetsin diye kötülük çemberi (olaylar) başlarına gelsin! Allah onlara gazab etmiştir ve onları la’netlemiştir ve onlara cehennemi hazırlamıştır ve orası ne kötü varılacak bir yerdir</a>
-  <a class="links" href="http://www.Twitter.com">Twitter</a>
-</div>
-
-
-
-<script> 
-$(document).ready(function() {
-  $('#Links').cycle({
-        speed: 1000,
-        timeout: 15000,
-        loader: true
-    });
-})
-</script>
-
-
-<script src="/js/jquery-1.11.3.js"></script>
-<script src="/js/jquery.jscroll-2.3.9.js"></script>
-<script src="/js/jquery.cycle.all.js"></script>
