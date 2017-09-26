@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: İnsanlar
 description: Anthropology
 excerpt: "Anthropology"

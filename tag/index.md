@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sûreler
 permalink: /tag/
 search_omit: true
