@@ -56,7 +56,7 @@ tag:
 **(44)** ve Allah kimi sapıklıkta bırakırsa artık onun O’ndan sonra hiçbir velisi yoktur ve zalimlerin azabı gördükleri zaman geri dönecek hiçbir yol var mı? dediklerini görürsün
 **(45)** yine onları ona (ateşe) sunulurlarken aşağılıktan başlarını öne eğik görürsün, gizli gizli göz ucuyla bakarlar ve inananlar kıyamet günü şüphesiz asıl ziyana uğrayanlar kendilerini ve ailelerini ziyan edenlerdir demişlerdir, bakın gerçekten zalimler sürekli bir azab içindedirler
 **(46)** ve onların Allah’tan başka kendilerine yardım edecek hiçbir velileri yoktur ve Allah kimi sapıklıkta bırakırsa artık onun için hiçbir yol yoktur
-**(47)** 
+**(47)** onun geri çevrilmesi mümkün olmayan bir gün gelmezden önce Rabbinize uyun o gün Allahtan sizin için sığınacak hiçbir yer yoktur
 **(48)** 
 **(49)** 
 **(50)** 
