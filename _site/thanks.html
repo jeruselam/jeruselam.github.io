@@ -19,6 +19,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/scroll.css"> 
+
 <title>Teşekkürler &#8211; Kur'an-ı Kerim</title>
 
 
@@ -175,7 +176,8 @@
       <div style="text-align: center;"><a href="#Bot"><i class="fa fa-angle-double-down" style="font-size:19px"></i></a></div>
 
       <div class="entry-content">
-        <p>Mesaj gönderdiğiniz için teşekkür ederiz.</p>
+        <div class="success">Mesaj gönderdiğiniz için teşekkür ederiz.</div>
+
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -205,7 +207,8 @@ $('.content').jscroll({
 
 <div class="footer-wrapper">
   <footer class="entry-wrapper">
-    <div class="social-icons">
+    <div class="teaser clearfix">
+<div class="social-icons">
 	
 	
 	
@@ -249,44 +252,20 @@ class="statcounter"><img class="statcounter"
 src="//c.statcounter.com/11443843/0/c8d207ab/1/" alt="" /></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-</div><!-- /.social-icons -->
+</div></div><!-- /.social-icons -->
 
   </footer>
 </div><!-- /.footer-wrapper -->
 
 <!-- /.Back-top -->
+
 <div class='container'>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Üst</button>
-</div>  
-<script src="/js/back-to-top.js"></script><!-- /.Back-top -->
+</div> 
+ 
+<script src="/js/back-to-top.js"></script>
 
 <p id="Bot"></p>
-
-<!-- /.Page scolling -->
-<script> 
-$(document).ready(function () {
-    var myInterval = false;
-    myInterval = setInterval(AutoScroll, 5000);
-
-    function AutoScroll() {
-        var iScroll = $(window).scrollTop();
-        iScroll = iScroll + 10;
-        $('html, body').animate({
-            scrollTop: iScroll
-        }, 1000);
-    }
-    
-    $(window).scroll(function () {
-        var iScroll = $(window).scrollTop();
-        if (iScroll == 0) {
-            myInterval = setInterval(AutoScroll, 5000);
-        }
-        if (iScroll + $(window).height() == $(document).height()) {
-            clearInterval(myInterval);
-        }
-    });
-});
-</script>
 
 <script type="text/javascript">
   var BASE_URL = 'https://jeruselam.github.io';
