@@ -1,7 +1,7 @@
 var camera, scene, renderer;
-			var geometry, material, mesh;
+var geometry, material, mesh;
 
-			function init() {
+function init() {
 
 				camera = new THREE.PerspectiveCamera( 519, window.innerWidth / window.innerHeight, 0.1, 10 );
 				camera.position.z = 3;
@@ -21,7 +21,7 @@ var camera, scene, renderer;
 				
 			}
 
-			function animate( time ) {
+function animate( time ) {
 
 				mesh.rotation.x = time * 0.0005;
 				mesh.rotation.y = time * 0.001;
@@ -31,6 +31,6 @@ var camera, scene, renderer;
 
 			}
 
-			init();
-			requestAnimationFrame( animate );
+init();
+requestAnimationFrame( animate );
 
