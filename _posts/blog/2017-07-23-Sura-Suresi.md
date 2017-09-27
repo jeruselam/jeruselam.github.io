@@ -57,11 +57,11 @@ tag:
 **(45)** yine onları ona (ateşe) sunulurlarken aşağılıktan başlarını öne eğik görürsün, gizli gizli göz ucuyla bakarlar ve inananlar kıyamet günü şüphesiz asıl ziyana uğrayanlar kendilerini ve ailelerini ziyan edenlerdir demişlerdir, bakın gerçekten zalimler sürekli bir azab içindedirler
 **(46)** ve onların Allah’tan başka kendilerine yardım edecek hiçbir velileri yoktur ve Allah kimi sapıklıkta bırakırsa artık onun için hiçbir yol yoktur
 **(47)** onun geri çevrilmesi mümkün olmayan bir gün gelmezden önce Rabbinize uyun o gün Allahtan sizin için sığınacak hiçbir yer yoktur
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)**
+**(48)** eğer yüz çevirirlerse biz seni onların üzerine bekçi göndermedik sana düşen duyurmaktan başkası değildir elbette biz insana bizden bir rahmet taddırdığımız zaman ona sevinir ama eğer ellerinin öne sürdüğü işlerden dolayı başlarına bir kötülük gelirse şüphesiz hemen insan nankör olur
+**(49)** göklerin ve yerin mülkü Allah’ındır ne diliyorsa yaratır,  dilediği kimse için dişiler bahşeder ve dilediği kimse için erkekler bahşeder
+**(50)** yahut onları çift (ikiz) erkekler ve dişiler yapar ve dilediği kimseyi kısır yapar şüphesiz O bilendir, gücü yetendir
+**(51)** ve Allah’ın vahiy dışında bir insanla (karşılıklı) yahut perde arkasından konuşması yoktur, olmaz yahut ne diliyorsa izniyle vahyedecek bir elçi gönderir şüphesiz O yücedir, hüküm ve hikmet sahibidir
+**(52)** işte böyle sana emrimizden bir ruh vahyettik, sen Kitap nedir ve iman nedir biliyor değildin fakat biz onu, kullarımızdan dilediğimiz kimseyi onunla doğru yola ilettiğimiz bir nur yaptık şüphesiz sen doğru yola
+**(53)** göklerde bulunan herşeyin ve yerde bulunan herşeyin sahibi olan Allah’ın yoluna götürüyorsun iyi bilin ki bütün işler sonunda Allah’a varır
 
 ![]({{site.url}}/images/altkenar.png)
