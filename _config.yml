@@ -23,10 +23,13 @@ language_default  : 'tr'
 # html minify
 compress_html:
   clippings: all
-  comments: all
+  comments: ["<!-- ", " -->"]
   endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
   profile: true
-  startings: [head, body]
+  startings: [html, head, body]
 
 # Jekyll configuration
 
