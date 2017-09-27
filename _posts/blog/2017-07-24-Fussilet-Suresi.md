@@ -10,9 +10,9 @@ tag:
 
 ## 41. Fussilet Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
+**(1)** Hâ Mîm
+**(2)** Rahmandan Rahim(den) indirilmiştir
+**(3)** bilen bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
 **(4)** 
 **(5)** 
 **(6)** 
