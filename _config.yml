@@ -26,6 +26,7 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
+    clippings: [script, css]
     envs: [local]
   blanklines: false
   startings: [html, head, body]
