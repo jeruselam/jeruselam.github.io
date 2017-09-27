@@ -40,20 +40,18 @@ layout: compress
 
         <p id="back-top" {% if page.enable_chat %}class="right-higher"{% else %}class="right"{% endif %}><a href="#Top"><i class="fa fa-angle-double-up" style="font-size:19px"></i></a>
     </nav><!-- /.pagination -->
+<!-- /#main -->
 
-<!-- /#infinitive scroll for words-->
-<script type="text/javascript">
-// content selector is used to extract the additional items 
-$('.content').jscroll({
-    contentSelector: "li",
-    padding: 20,
-    nextSelector: 'a.jscroll-next:last'
-});
-</script>
 <script src="/js/jquery-1.11.3.js"></script>
 <script src="/js/jquery.jscroll-2.3.9.js"></script>
 
-<!-- /#main -->
+<!-- /#infinitive scroll for words-->
+<script src="/js/iscrolling.js"></script>
+
+<div class="teaser clearfix">
+<!-- /.Back-top -->
+<script src="/js/back-to-top.js"></script>
+</div>
 
 <div class="footer-wrapper">
   <footer class="entry-wrapper">
@@ -64,8 +62,7 @@ $('.content').jscroll({
 <!-- /.Back-top -->
 <div class='container'>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
-<div class='clearfix'></div></div>  
-<script src="/js/back-to-top.js"></script><!-- /.Back-top -->
+</div>  
 
 <p id="Bot"></p>
 
