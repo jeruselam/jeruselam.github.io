@@ -13,7 +13,7 @@ sitemap: false
 <ul class="post-list">
 {% assign sorted-titles = site.posts | sort: 'title' %}
 {% for post in sorted-titles limit: 114 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <!-- Read time -->
+  <li><article><a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">{{ post.title }} <!-- Read time -->
 {% capture words %}
 	{{ post.content | number_of_words | divided_by:99 }}
 {% endcapture %}
