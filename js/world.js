@@ -17,7 +17,7 @@ function init() {
 
 				renderer = new THREE.WebGLRenderer( { antialias: true } );
 				renderer.setSize( window.innerWidth, window.innerHeight );
-				document.body.appendChild( renderer.domElement );				
+				document.footer.appendChild( renderer.domElement );				
 				
 			}
 
