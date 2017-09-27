@@ -13,7 +13,7 @@ tag:
 **(1)** Hâ Mîm
 **(2)** Rahmandan Rahim(den) indirilmiştir
 **(3)**  <a href="" title="ع ل م">bilen</a> bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
-**(4)** müjdeleyici olarak ve uyarıcı olarak fakat çokları yüz çevirmiştir, onlar işitmezler
+**(4)** müjdeleyici olarak ve uyarıcı olarak, fakat çokları yüz çevirmiştir, onlar işitmezler
 **(5)** 
 **(6)** 
 **(7)** 
