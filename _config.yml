@@ -27,6 +27,7 @@ compress_html:
   endings: all
   ignore:
     clippings: [script, css]
+    endings: [script, css]
     envs: [local]
   blanklines: false
   startings: [html, head, body]
