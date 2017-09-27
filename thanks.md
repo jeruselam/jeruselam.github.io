@@ -8,5 +8,5 @@ permalink: /thanks.html
 ---  
 
 
+<div class="success">Mesaj gönderdiğiniz için teşekkür ederiz.</div>
 
-Mesaj gönderdiğiniz için teşekkür ederiz.
