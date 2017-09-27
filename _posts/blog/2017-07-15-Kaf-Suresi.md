@@ -55,3 +55,5 @@ tag:
 **(43)** elbette biz, biz yaşatırız ve öldürürüz ve dönüş bizedir
 **(44)** (o) gün onlar(ın üstün)den yer yarılır, sür’atle koşarlar, işte bu toplamadır, bize göre kolaydır 
 **(45)** biz onların dedikleri şeyleri biliyoruz ve sen onların üstünde bir zorlayıcı değilsin, tehdidimden korkan kimselere Kur’an ile öğüt ver 
+
+![]({{site.url}}/images/altkenar.png)

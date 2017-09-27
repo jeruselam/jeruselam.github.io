@@ -28,3 +28,5 @@ tag:
 **(16)** de ki, Allah’a dininizi siz mi öğreteceksiniz? Allah göklerde olanları ve yerde olanları bilir, Allah her şeyi bilendir
 **(17)** İslam olmalarını senin başına kakıyorlar, de ki, müslüman olmanızı benim başıma kakmayın tersine eğer doğrulardan iseniz, Allah size, size imana hidayeti nedeniyle minnet(iyilik) eder 
 **(18)** şüphesiz, Allah göklerin ve yerin gizlisini bilir ve Allah yaptıklarınızı görmektedir
+
+![]({{site.url}}/images/altkenar.png)

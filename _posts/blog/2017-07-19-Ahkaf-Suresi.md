@@ -45,3 +45,5 @@ tag:
 **(33)** gökleri ve yeri yaratan ve bunları yaratmakla yorulmayan Allah’ın ölüleri diriltmeğe gerçekten kadir olduğunu görmediler mi? evet şüphesiz O her şey üzerine kadirdir
 **(34)** ve inkar eden(ler) kimseler ateşe karşı sunulacakları bugün  gerçek değil miymiş? Rabbimiz hakkı için evet derler, öyleyse inkar ediyor(lar) olmanızdan dolayı azabı tadın der
 **(35)** o halde azim (ve irade) sahibi elçilerin sabrettikleri gibi sabret ve asla onlar için acele etme, onlar tehdit edildikleri şeyi (azabı) gördükleri gün (sanki) gündüzden bir sa’at dışında yaşamamışlar gibi olurlar, (bu) bir duyurudur, yoldan çıkmış topluluktan başkası mı helak edilecektir?
+
+![]({{site.url}}/images/altkenar.png)

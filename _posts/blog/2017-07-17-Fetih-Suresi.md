@@ -40,3 +40,5 @@ size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karş�
 **(27)** andolsun Allah Elçisinin rüyasını hak ile doğruladı, Allah dilerse eğer, başlarınızı traş ederek ve(ya) kısaltarak korkmadan güven içinde Mescid-i Haram’a gireceksiniz, böylece sizin bilmediğiniz şeyi bildi ve bundan başka yakın bir fetih verdi
 **(28)** O Elçisini onu bütün dinlere üstün kılmak için hidayet ile ve hak din ile gönderendir ve Allah şahid olarak yeter
 **(29)** Muhammed Allah’ın elçisidir ve onun yanında bulunanlar kafirlere karşı katı, birbirlerine karşı merhametlidirler onları rüku’ ederek, secde ederek Allahdan bir lutuf ve rızasını aradıklarını görürsün, yüzlerinde secde izinden nişanları vardır, onlara karşı kafirleri öfkelendirsin diye onların Tevrat’taki vasıfları ve İncildeki vasıfları şöyledir, filizini çıkaran, onu güçlendiren sonra kalınlaşan derken gövdesinin üstüne dikilen bir ekin gibidir, ekincilerin hoşuna gider, Allah inananlara ve onlardan iyi işler yapanlara mağfiret ve büyük mükafat va’detmiştir
+
+![]({{site.url}}/images/altkenar.png)
