@@ -19,7 +19,7 @@ tag:
 **(7)** ve böyle ki biz sana kentlerin anasını(Mekke’yi) ve çevresindekileri uyarman için ve onda asla kuşku bulunmayan toplanma gününe karşı uyarman için arapça bir Kur’an vahyettik, bir bölük cennette ve bir bölük ateştedir
 **(8)** ve şayet Allah dileseydi onları bir tek millet yapardı fakat dilediği kimseyi rahmetine sokar zalimlere gelince onların hiçbir velisi yoktur ve yardımcısı yoktur
 **(9)** yoksa O’ndan başka dostlar (mi?) edindiler halbuki dost olan, O Allah’tır ve O ölüleri diriltir ve O her şey üzerine kadirdir
-**(10)** ve ayrılığa düştüğünüz ne varsa işte budur, hakkında herhangi bir hüküm vermek Allah’a aittir, Rabbim Allah, O’na dayandım ve O’na yöneldim
+**(10)** ve hakkında ayrılığa düştüğünüz ne varsa işte budur herhangi bir hüküm vermek Allah’a aittir, Rabbim Allah O’na dayandım ve O’na yöneldim
 **(11)** gökleri ve yeri yoktan var edendir, size kendinizden çiftler ve hayvanlardan çiftler yaratmıştır, bu(düzen içi)nde sizi üretiyor, O’na benzer hiçbir şey yoktur ve O işitendir, görendir
 **(12)** göklerin ve yerin anahtarları O’nundur, dilediği kimse niçin rızkı açar ve kısar, şüphesiz O her şeyi bilendir
 **(13)** dinden onunla Nuh’a tavsiye ettiği ne varsa ve sana vahyettiğimizi ve onunla İbrahim’e ve Musa’ya ve ve Îsa’ya tavsiye ettiğimizi size şeri’at (hukuk düzeni) yaptı, şöyle ki dini doğru tutun ve onda ayrılığa düşmeyin, onları kendisine çağırdığın, ortak koşanlara ağır geldi, Allah dilediği kimseyi kendisine seçer ve iyi niyyetle  yönelen kimseyi kendisine iletir
