@@ -22,12 +22,10 @@ language_default  : 'tr'
 
 # html minify
 compress_html:
-  clippings: [div, p, ul, td, h1, h2]
+  clippings: all
   comments: ["<!-- ", " -->"]
-  endings: [p, li, td]
+  endings: all
   ignore:
-    clippings: [script, css]
-    endings: [script, css]
     envs: [local]
   blanklines: false
   startings: [html, head, body]
