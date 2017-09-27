@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Teşekkürler"
 description: "Thank you for your message"
 sitemap: false
