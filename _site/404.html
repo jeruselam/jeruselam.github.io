@@ -863,6 +863,15 @@ if (forwardingURL.indexOf(".md") > -1)
     baseURL = "https://jeruselam.github.io";
     newURL = forwardingURL;
   }
+  if (forwardingURL == "//")
+  {
+    console.log("Found via Docker Compose file for Archive");
+    gonnaFwd = true;
+    archive = true;
+    // make it so redirects cascade; first, use the base URL, then append path
+    baseURL = "https://jeruselam.github.io";
+    newURL = forwardingURL;
+  }
 
 if (archive==false) {
   // CSV CHECK
@@ -972,8 +981,9 @@ src="//c.statcounter.com/11443843/0/c8d207ab/1/" alt="" /></a></div></noscript>
 
 <!-- /.Back-top -->
 <div class='container'>
-<button onclick="topFunction()" id="myBtn" title="Go to top">Yukarı</button>
-<div class='clearfix'></div></div>  
+<button onclick="topFunction()" id="myBtn" title="Go to top">Üst</button>
+<div class='clearfix'>
+</div></div>  
 <script src="/js/back-to-top.js"></script><!-- /.Back-top -->
 
 <p id="Bot"></p>
