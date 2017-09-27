@@ -1,17 +1,34 @@
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
+function animateScrollTop(target, duration) {
+    duration = duration || 16;
 
-function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("myBtn").style.display = "block";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
+    var $window = $(window);
+    var scrollTopProxy = { value: $window.scrollTop() };
+    var expectedScrollTop = scrollTopProxy.value;
+
+    if (scrollTopProxy.value != target) {
+        $(scrollTopProxy).animate(
+            { value: target },
+            {
+                duration: duration,
+
+                step: function (stepValue) {
+                    var roundedValue = Math.round(stepValue);
+                    if ($window.scrollTop() !== expectedScrollTop) {
+                        // The user has tried to scroll the page
+                        $(scrollTopProxy).stop();
+                    }
+                    $window.scrollTop(roundedValue);
+                    expectedScrollTop = roundedValue;
+                },
+
+                complete: function () {
+                    if ($window.scrollTop() != target) {
+                        setTimeout(function () {
+                            animateScrollTop(target);
+                        }, 16);
+                    }
+                }
+            }
+        );
     }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-    document.body.animate({scrollTop: 0}, 300);
-    //document.documentElement.scrollTop = 0;    
-    //$('html, body').animate({scrollTop: 0}, 300);
 }
