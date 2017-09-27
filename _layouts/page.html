@@ -42,14 +42,7 @@ layout: compress
     </nav><!-- /.pagination -->
 
 <!-- /#infinitive scroll for words-->
-<script type="text/javascript">
-// content selector is used to extract the additional items 
-$('.content').jscroll({
-    contentSelector: "li",
-    padding: 20,
-    nextSelector: 'a.jscroll-next:last'
-});
-</script>
+<script src="/js/iscrolling.js"></script>
 <script src="/js/jquery-1.11.3.js"></script>
 <script src="/js/jquery.jscroll-2.3.9.js"></script>
 
@@ -69,31 +62,8 @@ $('.content').jscroll({
 
 <p id="Bot"></p>
 
-<!-- /.Page scolling -->
-<script> 
-$(document).ready(function () {
-    var myInterval = false;
-    myInterval = setInterval(AutoScroll, 5000);
-
-    function AutoScroll() {
-        var iScroll = $(window).scrollTop();
-        iScroll = iScroll + 10;
-        $('html, body').animate({
-            scrollTop: iScroll
-        }, 1000);
-    }
-    
-    $(window).scroll(function () {
-        var iScroll = $(window).scrollTop();
-        if (iScroll == 0) {
-            myInterval = setInterval(AutoScroll, 5000);
-        }
-        if (iScroll + $(window).height() == $(document).height()) {
-            clearInterval(myInterval);
-        }
-    });
-});
-</script>
+<!-- /.Page scrolling -->
+<script src="/js/pscrolling.js"></script>
 
 {% include scripts.html %}
 {% include analytics.html %}
