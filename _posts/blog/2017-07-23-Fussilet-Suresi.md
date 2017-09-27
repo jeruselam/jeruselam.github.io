@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fussilet
-description: Sûre
+description: (Fasıldan) ayırd edilmiş, izah ve tafsil edilmiş
 excerpt: "41'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
