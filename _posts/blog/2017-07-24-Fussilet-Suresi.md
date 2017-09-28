@@ -24,15 +24,15 @@ tag:
 **(12)** böylece onları iki gün içinde yedi gök yaptı ve her göğe emrini vahyetti ve biz dünya semasını lambalarla ve koruma ile donattık işte bu bilenin güçlü olanın takdiridir
 **(13)** fakat eğer yüz çevirirlerse de ki ben ’Ad ve Semud’un başına düşen yıldırım gibi bir yıldırıma karşı sizi uyardım
 **(14)** hani onlara önlerinden ve arkalarından elçiler gelmişti Allah’tan başkasına sakın kulluk etmeyin şayet Rabbimiz dileseydi dediler elbette melekler indirirdi elbette biz onunla gönderildiğiniz şeyi (mesajı) tanımıyoruz
-**(15)** fakat Ad (kavmi) hakkı olmaksızın yeryüzünde büyüklük ve  tasladılar ve kuvveti bizden daha şiddetli kimdir? dediler
-**(16)** ki onları yaratan yaratan Allah elbette o görmediler mi? O kuvvetçe kendilerinden daha güçlüdür ve bizim ayetlerimizi inkara devam ettiler
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
-**(23)** 
+**(15)** fakat Ad (kavmi) hakkı olmaksızın yeryüzünde büyüklük ve  tasladılar ve kuvveti bizden daha şiddetli kimdir? dediler ki onları yaratan Allah elbette o görmediler mi? O kuvvetçe kendilerinden daha güçlüdür ve bizim ayetlerimizi inkara devam ettiler
+**(16)** biz de dünya hayatında rezillik azabını taddırmak için uğursuz günlerde üzerlerine dondurucu bir rüzgar gönderdik ahiret azabı ise daha da kepaze edicidir ve onlara hiç yardım edilmeyecektir
+**(17)** Semud(kavmin)e gelince onlara yol gösterdi fakat onlar körlüğü doğru yolu bulmağa yeğlediler böylece yapıyor(lar) oldukları yüzünden alçaltıcı azab yıldırımı onları yakaladı
+**(18)** ve inananları ve korunanları kurtardık 
+**(19)** ve (o) gün Allah’ın düşmanları ateşe toplanır onlar bir araya getirilirler
+**(20)** nihayet oraya vardıkları zaman yapıyor(lar) oldukları (işler) hakkında kulakları ve gözleri ve derileri aleyhlerine şahidlik ettiler
+**(21)** ve derilerine aleyhimize niçin? şahidlik ettiniz dediler bizi her şeyi konuşturan Allah konuşturdu dediler ve O ilk defa sizi yaratmıştı işte O’na döndürülüyorsunuz
+**(22)** ve siz aleyhinize şahidlik etmesinden gizleniyor değildiniz kulaklarınızın ve değildiniz gözlerinizin ve değildiniz derilerinizin fakat elbette ki Allah yaptıklarınızın çoğunu bilmez sanıyordunuz
+**(23)** ve işte bu zannettiğiniz Rabbinize karşı zannınız sizi helak etti ve ziyana uğrayanlardan oldunuz 
 **(24)** 
 **(25)** 
 **(26)** 
