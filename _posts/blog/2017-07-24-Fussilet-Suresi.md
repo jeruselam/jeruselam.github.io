@@ -21,9 +21,9 @@ tag:
 **(9)** de ki arzı iki gün içinde yaratanı siz mi? inkar ediyorsunuz ve O’na eşler koşuyorsunuz, O alemlerin Rabbidir
 **(10)** ve orada (arzda) üstünden ağır baskılar yaptı ve orada bereketler ve orada arayıp soranlar için gıdalarını dört gün içinde eşit olarak takdir etti
 **(11)** ve o sonra duman halinde olan göğe yöneldi, sonra ona ve arza isteyerek veya istemeyerek gelin dedi, ki isteyerek geldik dediler
-**(12)** 
-**(13)** 
-**(14)** 
+**(12)** böylece onları iki gün içinde yedi gök yaptı ve her göğe emrini vahyetti ve biz dünya semasını lambalarla ve koruma ile donattık işte bu bilenin güçlü olanın takdiridir
+**(13)** fakat eğer yüz çevirirlerse de ki ben ’Ad ve Semud’un başına düşen yıldırım gibi bir yıldırıma karşı sizi uyardım
+**(14)** hani onlara önlerinden ve arkalarından elçiler gelmişti Allah’tan başkasına sakın kulluk etmeyin şayet Rabbimiz dileseydi dediler elbette melekler indirirdi elbette biz onunla gönderildiğiniz şeyi (mesajı) tanımıyoruz
 **(15)** 
 **(16)** 
 **(17)** 
