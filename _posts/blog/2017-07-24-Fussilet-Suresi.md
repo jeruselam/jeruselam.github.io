@@ -41,15 +41,15 @@ tag:
 **(29)** ve inkar eden(ler) kimseler dediler ki Rabbimiz bizi saptıran cin ve insanları bize göster onları ayaklarımızın altına alalım alçaklardan olsunlar
 **(30)** sonra şüphesiz Rabbimiz Allah’tır diyen(lere) kimselere doğru olanlara üzerine melekler iner öyle ki korkmayın ve üzülmeyin fakat size söz verilen cennetle sevinin
 **(31)** biz sizin dünya hayatında ve ahirette dostlarınızız ve orada canlarınızın çektiği her şey size vardır ve orada istediğiniz her şey size vardır 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)**
+**(32)** çok bağışlayanın çok esirgeyenin ağırlamasıdır
+**(33)** ve Allah’a çağıran kimseden ve iyi iş yapandan ve şüphesiz ben müslümanlardanım diyenden daha güzel sözlü kim olabilir? 
+**(34)** ve iyilik ve ne de kötülük eşit değildir (onu) en güzel olanla sav bir de bakarsın ki seninle aranda (ve) onun arasında düşmanlık olan sanki sıcak bir dosttur
+**(35)** sabreden(lerden) kimselerden başkası buna kavuşturulmaz ve  şansı büyük olandan başkası buna kavuşturulmaz
+**(36)** ve eğer şeytandan kötü bir düşünce seni dürtecek olursa hemen Allah’a sığın çünkü O, O işitendir bilendir
+**(37)** ve gece ve gündüz ve güneş ve ay O’nun ayetlerindendir güneşe ne de aya secde etmeyin fakat eğer O’na tapıyor(sanız) iseniz onları yaratan Allah’a secde edin 
+**(38)** fakat eğer Rabbinin yanında bulunanlar büyüklük taslarlarsa O’nu gece ve gündüz tesbih ederler ve onlar hiç usanmazlar
+**(39)** O’nun ayetlerinden biri de (şudur) sen toprağı boynu bükük görürsün onun üzerine suyu döktüğümüz titreşir ve kabarır elbette onu dirilten ölüleri de diriltir elbette O her şey üzerine kadirdir
+**(40)** şüphesiz doğruluktan sapanlar hususunda ayetlerimiz bize gizli kalmazlar, ateşin içine atılan kimse mi? daha iyidir yoksa kıyamet günü güvenle gelen kimse (mi?) ne diliyorsanız yapın elbette O, şeyleri yaptıklarınızı görmektedir
 **(41)** 
 **(42)** 
 **(43)** 
