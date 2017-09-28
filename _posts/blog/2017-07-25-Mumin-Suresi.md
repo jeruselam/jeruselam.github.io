@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mu'min
-description: 
+description: İman eden, itaat eden, emniyete kavuşan.
 excerpt: "40'ncı Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
