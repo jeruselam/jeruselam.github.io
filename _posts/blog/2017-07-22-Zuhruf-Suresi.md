@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zuhrûf
-description: Sûre
+description: Yaldızlı zinet, yalancı süs, gösteriş, ziynet altın.
 excerpt: "43'ncü Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
