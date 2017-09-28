@@ -12,7 +12,7 @@ tag:
 
 **(1)** Hâ Mîm
 **(2)** Rahmandan Rahim(den) indirilmiştir
-**(3)**  <a href="" title="ع ل م">bilen</a> bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
+**(3)**  <a title="ع ل م">bilen</a> bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
 **(4)** müjdeleyici olarak ve uyarıcı olarak, fakat çokları yüz çevirmiştir, onlar işitmezler
 **(5)** ve dediler ki bizi kendisine çağırdığın şeye karşı kılıflar içinde kalblerimiz var ve kulaklarımızda bir ağırlık var ve bizim aramızda ve senin aranda bir perde var, sen (istediğini) yap elbette biz de yapıyoruz
 **(6)** de ki elbette ben sizin gibi bir insanım elbette tanrınızın bir tek tanrı olduğu bana vahyediliyor artık O’na doğrulun ve O’ndan mağfiret dileyin, ortak koşanların vay haline
