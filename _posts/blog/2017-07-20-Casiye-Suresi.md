@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Câsiye
-description: Sûre
+description: Diz çökmüş, topluluk, cemaat, yığın, taş yığını.
 excerpt: "45'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
