@@ -16,11 +16,11 @@ tag:
 **(4)** müjdeleyici olarak ve uyarıcı olarak, fakat çokları yüz çevirmiştir, onlar işitmezler
 **(5)** ve dediler ki bizi kendisine çağırdığın şeye karşı kılıflar içinde kalblerimiz var ve kulaklarımızda bir ağırlık var ve bizim aramızda ve senin aranda bir perde var, sen (istediğini) yap elbette biz de yapıyoruz
 **(6)** de ki elbette ben sizin gibi bir insanım elbette tanrınızın bir tek tanrı olduğu bana vahyediliyor artık O’na doğrulun ve O’ndan mağfiret dileyin, ortak koşanların vay haline
-**(7)** 
-**(8)** 
-**(9)** 
-**(10)** 
-**(11)** 
+**(7)** onlar ki zekat vermezler ve onlar, onlar ahireti inkar ederler
+**(8)** şüphesiz iman eden(ler) kimseler ve iyi işler yapanlar, onlar için kesinti olmaksızın bir mükafat vardır
+**(9)** de ki arzı iki gün içinde yaratanı siz mi? inkar ediyorsunuz ve O’na eşler koşuyorsunuz, O alemlerin Rabbidir
+**(10)** ve orada (arzda) üstünden ağır baskılar yaptı ve orada bereketler ve orada arayıp soranlar için gıdalarını dört gün içinde eşit olarak takdir etti
+**(11)** ve o sonra duman halinde olan göğe yöneldi, sonra ona ve arza isteyerek veya istemeyerek gelin dedi, ki isteyerek geldik dediler
 **(12)** 
 **(13)** 
 **(14)** 
