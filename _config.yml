@@ -67,13 +67,16 @@ assets:
   digest: true
   assets:
     - "*.png"
+    - "*.jpg"
     - "bundle.css"
+    - "*.scss"
   sources:
     - assets/css
     - images
     - _sass
     - assets/fonts
     - assets/js
+    - js
   features:
     liquid: false
     integrity: false
