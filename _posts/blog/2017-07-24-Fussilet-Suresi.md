@@ -60,8 +60,8 @@ tag:
 **(48)** ve önceden yalvarıp duruyor(lar) oldukları şeyler onlardan sapıp gitmiştir ve onlar kendileri için kaçacak hiçbir yer olmadığını anlamışlardır
 **(49)** insan hayır (iyilik) istemekten usanmaz ama eğer kendisine bir şer dokunursa hemen üzülür ümitsiz olur
 **(50)** ve ona dokunan bir zarardan sonra eğer biz ona kendimizden bir rahmet taddırırsak elbette der ki bu benim hakkımdır ve kıyametin kopacağını sanmıyorum eğer Rabbime götürülmüş olsam bile muhakkak O’nun yanında benim için daha güzel şeyler vardır biz  inkar edenlere kimselere yaptıklarını mutlaka haber vereceğiz ve mutlaka kaba azabdan taddıracağız 
-**(51)** 
-**(52)** 
+**(51)** ne zaman ki insana bir ni’met verdiğimizde yüz çevirir ve yan çizer ve yan çizer ve ne zaman ki ona bir şer dokunduğunda hemen bol bol yalvarıp durur
+**(52)** de ki eğer (Kur’an) Allah tarafından ise sonra siz de onu inkar etmişseniz gördünüz mü ki uzak bir ayrılığa düşen o kimseden daha sapık kim olabilir? 
 **(53)** 
 **(54)** 
 
