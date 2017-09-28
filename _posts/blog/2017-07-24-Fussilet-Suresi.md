@@ -61,8 +61,8 @@ tag:
 **(49)** insan hayır (iyilik) istemekten usanmaz ama eğer kendisine bir şer dokunursa hemen üzülür ümitsiz olur
 **(50)** ve ona dokunan bir zarardan sonra eğer biz ona kendimizden bir rahmet taddırırsak elbette der ki bu benim hakkımdır ve kıyametin kopacağını sanmıyorum eğer Rabbime götürülmüş olsam bile muhakkak O’nun yanında benim için daha güzel şeyler vardır biz  inkar edenlere kimselere yaptıklarını mutlaka haber vereceğiz ve mutlaka kaba azabdan taddıracağız 
 **(51)** ne zaman ki insana bir ni’met verdiğimizde yüz çevirir ve yan çizer ve yan çizer ve ne zaman ki ona bir şer dokunduğunda hemen bol bol yalvarıp durur
-**(52)** de ki eğer (Kur’an) Allah tarafından ise sonra siz de onu inkar etmişseniz gördünüz mü ki uzak bir ayrılığa düşen o kimseden daha sapık kim olabilir? 
-**(53)** 
-**(54)** 
+**(52)** de ki eğer (Kur’an) Allah tarafından ise sonra siz de onu inkar etmişseniz, gördünüz mü ki uzak bir ayrılığa düşen o kimseden daha sapık kim olabilir? 
+**(53)**  biz onlara ufuklarda ve kendi canlarında o(Kur’a)n’ın gerçek olduğu onlara iyice belli olana kadar ayetlerimizi göstereceğiz  Rabbinin O’nun her şey üzerine şahit olması yetmez mi?
+**(54)** iyi bil ki onlar Rablerine kavuşmaktan kuşku içindedirler iyi bil ki O her şeyi kuşatmıştır
 
 ![]({{site.url}}/images/altkenar.png)
