@@ -16,9 +16,9 @@ tag:
 **(4)** inkar eden(lerden) kimselerden başkası Allah’ın ayetleri hakkında mücadele etmez o halde onların şehirlerde dolaşmaları seni aldatmasın
 **(5)** onlardan önce Nuh kavmi ve onlardan sonraki kollar yalanladı ve her millet elçisini yakalamağa yeltendi ve onunla hakkı gidermek için boş şeyler ileri sürerek tartıştılar bu yüzden onları yakaladım azabım nasıl oldu
 **(6)** ve böylece inkar eden(ler) kimseler hakkındaki Rabbinin sözü yerini buldu onlar ki; ateş halkıdır
-**(7)** Arş’ı taşıyan(lar) kimseler ve 	onun çevresinde bulunanlar Rablerini hamd ile (överek) tesbih ederler ve O’na inanırlar ve inanan(lar) kimseler için mağfiret dilerler Rabbimiz sen rahmet ile ve bilgi ile her şeyi kapladın tevbe eden(leri) kimseleri ve senin yoluna uyanları bağışla ve onları cehennem azabından koru 
-**(8)** 
-**(9)** 
+**(7)** Arş’ı taşıyan(lar) kimseler ve onun çevresinde bulunanlar Rablerini hamd ile (överek) tesbih ederler ve O’na inanırlar ve inanan(lar) kimseler için mağfiret dilerler Rabbimiz sen rahmet ile ve bilgi ile her şeyi kapladın tevbe eden(leri) kimseleri ve senin yoluna uyanları bağışla ve onları cehennem azabından koru 
+**(8)** Rabbimiz onları ve babalarından ve eşleri(nden) ve çocukları(ndan) iyi olan kimseleri onlara söz verdiğin Adn cennetlerine sok ve şüphesiz sen üstün olan hüküm ve hikmet sahibi olan sensin
+**(9)** ve onları kötülüklerden koru ve kimi sen kötülüklerden korursan o gün elbette ona acımışsındır ve o büyük başarı işte budur 
 **(10)** 
 **(11)** 
 **(12)** 
