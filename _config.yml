@@ -28,7 +28,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  startings: [xml, html, head, body]
+  startings: [feed, html, head, body]
 
 # Jekyll configuration
 
