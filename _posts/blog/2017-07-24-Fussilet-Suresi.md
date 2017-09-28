@@ -54,12 +54,12 @@ tag:
 **(42)** önünden ne de arkasından boşa çıkaracak bir söz ona gelmez çok övülenden hüküm ve hikmet sahibinden indirilmiştir
 **(43)** sana söylenen senden önceki elçilere söylenmiş olandan başka bir şey değildir kuşkusuz Rabbin bağışlama sahibi ve acı azab sahibidir
 **(44)** ve eğer biz onu yabancı (dilde) bir Kur’an yapsaydık derlerdi ki onun ayetleri açıklanmalı değil miydi? arab olana yabancı söz mü? de ki o inananlar için bir yol göstericidir ve (gönüllere) şifadır inanmayanlara gelince onların kulaklarında bir ağırlık vardır ve o onlara bir körlüktür onlar uzak bir yerden çağırılıyorlar
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
+**(45)** ve andolsun biz Musa’ya Kitabı vermiştik fakat onda ayrılığa düşülmüştü ve eğer Rabbinden geçmiş bir söz olmasaydı aralarında derhal hüküm verilirdi fakat onlar ondan işkilli bir kuşku içindedirler 
+**(46)** kim iyi iş yaparsa yararı kendisinedir ve kim kötülük yaparsa zararı kendisinedir ve Rabbin kullara zulmedici değildir
+**(47)** sa’at (kıyamet) bilgisi O’na döndürülür ve O’nun bilgisi olmadan meyvalar kabuklarından çıkmaz, hiçbir dişi gebe kalmaz ve  doğurmaz ve onlara seslenildiği ortaklarım (o) gün nerede? sana arz ederiz ki bizden hiçbir gören yok demişlerdir 
+**(48)** ve önceden yalvarıp duruyor(lar) oldukları şeyler onlardan sapıp gitmiştir ve onlar kendileri için kaçacak hiçbir yer olmadığını anlamışlardır
+**(49)** insan hayır (iyilik) istemekten usanmaz ama eğer kendisine bir şer dokunursa hemen üzülür ümitsiz olur
+**(50)** ve ona dokunan bir zarardan sonra eğer biz ona kendimizden bir rahmet taddırırsak elbette der ki bu benim hakkımdır ve kıyametin kopacağını sanmıyorum eğer Rabbime götürülmüş olsam bile muhakkak O’nun yanında benim için daha güzel şeyler vardır biz  inkar edenlere kimselere yaptıklarını mutlaka haber vereceğiz ve mutlaka kaba azabdan taddıracağız 
 **(51)** 
 **(52)** 
 **(53)** 
