@@ -9,7 +9,6 @@ tag:
 ---
 
 ## 41. Fussilet Sûresi
-![]({{site.url}}/images/ustkenar.png)
 
 **(1)** Hâ Mîm
 **(2)** Rahmandan Rahim(den) indirilmiştir
