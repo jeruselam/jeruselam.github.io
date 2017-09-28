@@ -49,11 +49,11 @@ tag:
 **(37)** ve gece ve gündüz ve güneş ve ay O’nun ayetlerindendir güneşe ne de aya secde etmeyin fakat eğer O’na tapıyor(sanız) iseniz onları yaratan Allah’a secde edin 
 **(38)** fakat eğer Rabbinin yanında bulunanlar büyüklük taslarlarsa O’nu gece ve gündüz tesbih ederler ve onlar hiç usanmazlar
 **(39)** O’nun ayetlerinden biri de (şudur) sen toprağı boynu bükük görürsün onun üzerine suyu döktüğümüz titreşir ve kabarır elbette onu dirilten ölüleri de diriltir elbette O her şey üzerine kadirdir
-**(40)** şüphesiz doğruluktan sapanlar hususunda ayetlerimiz bize gizli kalmazlar, ateşin içine atılan kimse mi? daha iyidir yoksa kıyamet günü güvenle gelen kimse (mi?) ne diliyorsanız yapın elbette O, şeyleri yaptıklarınızı görmektedir
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
+**(40)** şüphesiz doğruluktan sapanlar hususunda ayetlerimiz bize gizli kalmazlar, ateşin içine atılan kimse mi? daha iyidir yoksa kıyamet günü güvenle gelen kimse (mi?) ne diliyorsanız yapın elbette O şeyleri yaptıklarınızı görmektedir
+**(41)** şüphesiz onlar kendilerine gelen Zikr’i (Kur’an’ı) inkar ettiler halbuki o aziz bir Kitaptır
+**(42)** önünden ne de arkasından boşa çıkaracak bir söz ona gelmez çok övülenden hüküm ve hikmet sahibinden indirilmiştir
+**(43)** sana söylenen senden önceki elçilere söylenmiş olandan başka bir şey değildir kuşkusuz Rabbin bağışlama sahibi ve acı azab sahibidir
+**(44)** ve eğer biz onu yabancı (dilde) bir Kur’an yapsaydık derlerdi ki onun ayetleri açıklanmalı değil miydi? arab olana yabancı söz mü? de ki o inananlar için bir yol göstericidir ve (gönüllere) şifadır inanmayanlara gelince onların kulaklarında bir ağırlık vardır ve o onlara bir körlüktür onlar uzak bir yerden çağırılıyorlar
 **(45)** 
 **(46)** 
 **(47)** 
