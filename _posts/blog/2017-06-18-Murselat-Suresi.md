@@ -33,7 +33,7 @@ tag:
 **(20)** sizi âdi bir sudan yaratmadık mı?
 **(21)** onu sağlam bir karar yerine koyduk
 **(22)** belirli bir süreye kadar
-**(23)** ve biçimlendirdik, biz ne güzel biçim vereniz
+**(23)** ve biçimlendirdik biz ne güzel biçim vereniz
 **(24)** o gün yalanlayanların vay haline
 **(25)** Arz’ı toplanma yeri yapmadık mı?
 **(26)** diriler (için) ve ölüler (için)
