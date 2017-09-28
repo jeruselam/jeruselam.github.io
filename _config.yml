@@ -68,8 +68,6 @@ assets:
   assets:
     - "*.png"
     - "*.jpg"
-    - "scroll.css"
-    - "*.scss"
   sources:
     - assets/css
     - images
