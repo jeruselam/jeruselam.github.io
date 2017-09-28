@@ -33,14 +33,14 @@ tag:
 **(21)** ve derilerine aleyhimize niçin? şahidlik ettiniz dediler bizi her şeyi konuşturan Allah konuşturdu dediler ve O ilk defa sizi yaratmıştı işte O’na döndürülüyorsunuz
 **(22)** ve siz aleyhinize şahidlik etmesinden gizleniyor değildiniz kulaklarınızın ve değildiniz gözlerinizin ve değildiniz derilerinizin fakat elbette ki Allah yaptıklarınızın çoğunu bilmez sanıyordunuz
 **(23)** ve işte bu zannettiğiniz Rabbinize karşı zannınız sizi helak etti ve ziyana uğrayanlardan oldunuz 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
-**(29)** 
-**(30)** 
-**(31)** 
+**(24)** şimdi eğer dayanabilirlerse onların yeri ateştir ve eğer affedilmek isterlerse onlar affedilenlerden değildir
+**(25)** ve biz onlara birtakım arkadaşlar musallat ettik onların önlerinde bulunanı, onların önlerinde ve arkalarında bulunanı onlara süslü gösterdiler ve söz kendilerine, kendilerinden önce gelip geçmiş olan cin(ler)den ve insan(lardan) topluluklarına gerekli oldu çünkü onlar ziyanda idiler
+**(26)** ve inkar eden(ler) kimseler ki bu Kur’an’ı dinlemeyin dediler ve onda (okunduğunda) gürültü edin belki ona galib gelirsiniz
+**(27)** fakat inkar eden(lere) kimselere şiddetli bir azab taddıracağız ve onları yapıyor(lar) olduklarının en kötüsüyle cezalandıracağız
+**(28)** Allah düşmanlarının bu cezası ateştir onlara orada ayetlerimizi inkar etmeleri sebebiyle ceza olarak sürekli kalma yurdu vardır
+**(29)** ve inkar eden(ler) kimseler dediler ki Rabbimiz bizi saptıran cin ve insanları bize göster onları ayaklarımızın altına alalım alçaklardan olsunlar
+**(30)** sonra şüphesiz Rabbimiz Allah’tır diyen(lere) kimselere doğru olanlara üzerine melekler iner öyle ki korkmayın ve üzülmeyin fakat size söz verilen cennetle sevinin
+**(31)** biz sizin dünya hayatında ve ahirette dostlarınızız ve orada canlarınızın çektiği her şey size vardır ve orada istediğiniz her şey size vardır 
 **(32)** 
 **(33)** 
 **(34)** 
