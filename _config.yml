@@ -28,7 +28,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  startings: [html, head, body]
+  startings: [xml, html, head, body]
 
 # Jekyll configuration
 
@@ -70,7 +70,6 @@ assets:
     - "*.jpg"
     - "scroll.css"
     - "*.scss"
-    - "*.xml"
   sources:
     - assets/css
     - images
