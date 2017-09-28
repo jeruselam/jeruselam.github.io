@@ -68,7 +68,7 @@ assets:
   assets:
     - "*.png"
     - "*.jpg"
-    - "bundle.css"
+    - "scroll.css"
     - "*.scss"
   sources:
     - assets/css
@@ -78,8 +78,8 @@ assets:
     - assets/js
     - js
   features:
-    liquid: false
-    integrity: false
+    liquid: true
+    integrity: true
     # This will add height and width attributes for an img tag.
     automatic_img_size: true
     # This will add the digest path as an alt attribute for an img tag.
