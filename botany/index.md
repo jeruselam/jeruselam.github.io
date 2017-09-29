@@ -17,13 +17,6 @@ search_omit: true
 - Bölge: Cache Creek Oluşumu, Kanada
 
 ----------------------------------------
-![söğüt yaprağı fosili 2]({{site.url}}/images/3sogut-yapragi.jpg){:class="img-responsive"}
-
-- Yaş: 54-37 milyon yıl
-- Dönem: Senozoik zaman, Eosen dönemi
-- Bölge: Green River Oluşumu, Uintah County, Utah, USA
-
-----------------------------------------
 ![söğüt yaprağı fosili 3]({{site.url}}/images/2bir_tur_sogut_yapragi.jpg) {:class="img-responsive"}
 
 - Dönem: Senozoik zaman, Eosen dönemi
