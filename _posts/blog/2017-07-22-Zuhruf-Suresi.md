@@ -100,4 +100,4 @@ tag:
 **(88)** ve onun Rab demesi(ne andolsun) şüphesiz bunlar inanmayan bir kavimdir
 **(89)** şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir
 
-![]({{site.url}}/images/altkenar.png)
+![Zuhrûf]({{site.url}}/images/altkenar.png)

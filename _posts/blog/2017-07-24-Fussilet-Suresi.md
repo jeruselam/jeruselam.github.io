@@ -65,4 +65,4 @@ tag:
 **(53)**  biz onlara ufuklarda ve kendi canlarında o(Kur’a)n’ın gerçek olduğu onlara iyice belli olana kadar ayetlerimizi göstereceğiz  Rabbinin O’nun her şey üzerine şahit olması yetmez mi?
 **(54)** iyi bil ki onlar Rablerine kavuşmaktan kuşku içindedirler iyi bil ki O her şeyi kuşatmıştır
 
-![]({{site.url}}/images/altkenar.png)
+![Fussilet]({{site.url}}/images/altkenar.png)
