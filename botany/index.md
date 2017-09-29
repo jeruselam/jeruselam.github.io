@@ -17,7 +17,7 @@ search_omit: true
 - Bölge: Cache Creek Oluşumu, Kanada
 
 ----------------------------------------
-![söğüt yaprağı fosili]({{site.url}}/images/354-355-sogut-yapragi.jpg)
+![söğüt yaprağı fosili]({{site.url}}/images/YA2_354-355-sogut-yapragi.jpg)
 
 - Yaş: 54-37 milyon yıl
 - Dönem: Senozoik zaman, Eosen dönemi
