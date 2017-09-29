@@ -48,7 +48,7 @@ plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-time-to-read
-  - jekyll-assetsgem
+  - jekyll-assets
   - jekyll-coffeescript
   - jekyll-sass-converter
 
