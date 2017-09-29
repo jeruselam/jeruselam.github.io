@@ -27,6 +27,7 @@ group :jekyll_plugins do
    gem 'jekyll-assets'
    gem 'jekyll-coffeescript'
    gem 'jekyll-sass-converter'
+   gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

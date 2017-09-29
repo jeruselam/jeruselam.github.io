@@ -53,6 +53,7 @@ plugins_dir:
   - jekyll-assets
   - jekyll-coffeescript
   - jekyll-sass-converter
+  - jekyll-redirect-from
 
 assets:
   compress:
