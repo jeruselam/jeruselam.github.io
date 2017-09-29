@@ -68,8 +68,6 @@ assets:
   assets:
     - "*.png"
     - "*.jpg"
-    - "bundle.css"
-    - "*.scss"
   sources:
     - assets/css
     - images
