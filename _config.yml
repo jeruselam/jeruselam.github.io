@@ -49,7 +49,6 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-time-to-read
   - jekyll-assets
-  - jekyll-coffeescript
 
 assets:
   compress:
