@@ -24,7 +24,7 @@ search_omit: true
 - Bölge: Green River Oluşumu, Uintah County, Utah, USA
 
 ----------------------------------------
-![söğüt yaprağı fosili 3]({{site.url}}/images/2bir_tur_sogut_yapragi.jpg)
+![söğüt yaprağı fosili 3]({{site.url}}/images/2bir_tur_sogut_yapragi.jpg){:class="img-responsive"}
 
 - Dönem: Senozoik zaman, Eosen dönemi
 - Yaş: 54 – 37 milyon yıl
