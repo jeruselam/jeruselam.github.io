@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zuhrûf
-description: Yaldızlı zinet, yalancı süs, gösteriş, ziynet altın.
+description: Sûre
 excerpt: "43'ncü Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
@@ -76,7 +76,7 @@ tag:
 **(64)** şüphesiz Allah O’dur, benim Rabbim ve sizin Rabbiniz, O’na tapın, doğru yol budur
 **(65)** aralarından çıkan guruplar birbirleriyle ihtilafa düştüler, acıklı bir günün azabından zulmedenlerin vay haline
 **(66)** sa’atin ansızın ve onlar hiç farkında değillerken başlarına gelmesinden başkasını mı? bekliyorlar
-**(67)** muttakiler dışında o gün dostlar bir kısmı diğerine düşmandır
+**(67)** o gün dostlar, muttakiler dışında bir kısmı diğerine düşmandır
 **(68)** kullarım size korku yoktur ve ne de siz bugün üzülmeyeceksiniz
 **(69)** ayetlerimize iman eden(ler) kimseler ve müslüman olanlar
 **(70)** haydi cennete girin, siz ve eşleriniz ağırlanıp sevindirileceksiniz
