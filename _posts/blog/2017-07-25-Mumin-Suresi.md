@@ -19,10 +19,10 @@ tag:
 **(7)** Arş’ı taşıyan(lar) kimseler ve onun çevresinde bulunanlar Rablerini hamd ile (överek) tesbih ederler ve O’na inanırlar ve inanan(lar) kimseler için mağfiret dilerler Rabbimiz sen rahmet ile ve bilgi ile her şeyi kapladın tevbe eden(leri) kimseleri ve senin yoluna uyanları bağışla ve onları cehennem azabından koru 
 **(8)** Rabbimiz onları ve babalarından ve eşleri(nden) ve çocukları(ndan) iyi olan kimseleri onlara söz verdiğin Adn cennetlerine sok ve şüphesiz sen üstün olan hüküm ve hikmet sahibi olan sensin
 **(9)** ve onları kötülüklerden koru ve kimi sen kötülüklerden korursan o gün elbette ona acımışsındır ve o büyük başarı işte budur 
-**(10)** 
-**(11)** 
-**(12)** 
-**(13)** 
+**(10)** şüphesiz inkar eden(lere) kimselere (şöyle) seslenilir	Allah’ın (size) kızması sizin kendi kendinize kızmanızdan daha büyüktür zira siz imana çağrılırdınız fakat inkar ederdiniz
+**(11)** dediler ki Rabbimiz bizi iki kez öldürdün ve iki kez dirilttin günahlarımızı itiraf ettik, çıkmak için hiçbir (bir) yol var mı?
+**(12)** bu tek olan Allah’a çağrıldığınız zaman inkar etmeniz ve eğer O’na ortak koşulursa inanmanız sebebiyledir artık hüküm yüce ve büyük Allah’a aittir
+**(13)** O’dur ki ayetlerini size gösteriyor ve sizin için gökten rızık indiriyor ve (O’na) yönelen kimseden başkası öğüt almaz
 **(14)** 
 **(15)** 
 **(16)** 
