@@ -39,7 +39,7 @@ tag:
 **(27)** ve Musa dedi elbette ben hesap gününe inanmayan kibirlilerin hepsinden benim de Rabbim ve sizin de Rabbinize sığındım
 **(28)** ve Fir’avn ailesinden imanını gizleyen mü’min bir adam (şöyle) dedi Rabbim Allah’tır diyor diye bir adamı öldürüyor musunuz? oysa gerçekten size Rabbinizden kanıtlarla gelmiştir ve eğer o bir yalancı ise yalanı kendi zararınadır ve eğer o doğru söylüyor ise size va’dettiklerinin bir kısmı başınıza gelir şüphesiz Allah o aşırı giden yalancı kimseyi doğru yola iletmez
 **(29)** kavmim bugün mülk sizindir yeryüzüne hakimsiniz Allâh’ın hışmından bizi kim kurtarır? Fir’avn eğer bize gelirse dedi ben size gördüğüm şeyden başkasını göstermiyorum ve ben sizi doğru yoldan başkasına iletmem
-**(30)** 
+**(30)** ve inanan (adam) dedi ki kavmim elbette ben üzerinize öncekilerin gününün mislinden korkuyorum
 **(31)** 
 **(32)** 
 **(33)** 
