@@ -9,7 +9,7 @@ search_omit: true
 
 <div style="text-align: center;"><h3>Anthropology - Kafatası Fosillerinden Örnekler</h3></div>
 ----------------------------------
-![insan kafatası fosilleri]({{site.url}}/images/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
+![]({{site.url}}/images/EFY_tr_4b_254_insanKafataslari_insanirklari.jpg)
 
 - a) Bengalli orta yaşlı bir erkek
 - b) 15. yüzyılda yaşamış bir Peru yerlisi

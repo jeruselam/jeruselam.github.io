@@ -4,7 +4,7 @@ description       : Türkçe Tercümesi
 title             : Kur'an-ı Kerim
 logo              : muhur2.png
 search            : false
-baseurl           : "/"
+baseurl           : ""
 url               : https://jeruselam.github.io
 author:
   name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
@@ -35,8 +35,6 @@ compress_html:
 enforce_ssl       : jeruselam.github.io
 encoding          : UTF-8
 safe              : bool
-whitelist:
-  - jekyll-redirect-from
 timezone          : Europe/Istanbul
 permalink         : /:categories/:title/
 markdown          : kramdown
@@ -51,9 +49,6 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-time-to-read
   - jekyll-assets
-  - jekyll-coffeescript
-  - jekyll-sass-converter
-  - jekyll-redirect-from
 
 assets:
   compress:

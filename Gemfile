@@ -12,7 +12,9 @@ gem "jekyll", "3.5.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
+gem 'coffee-script'
 gem 'compass'
+gem 'sass'
 gem 'uglifier'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -25,9 +27,6 @@ group :jekyll_plugins do
    gem "jekyll-sitemap"
    gem "jekyll-gist"
    gem 'jekyll-assets'
-   gem 'jekyll-coffeescript'
-   gem 'jekyll-sass-converter'
-   gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
