@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Site Haritası
+title: ""
+desciption: Site Haritası
 date: 
 modified:
 excerpt:
