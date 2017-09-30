@@ -96,4 +96,4 @@ tag:
 **(84)** 
 **(85)** 
 
-![]({{site.url}}/images/altkenar.png)
+![Mu'min]({{site.url}}/images/altkenar.png)

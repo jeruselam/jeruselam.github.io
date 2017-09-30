@@ -18,4 +18,4 @@ tag:
 **(5)** O ki, insanların göğüslerine fısıldar,
 **(6)** cinlerden ve insanlar(dan).
 
-![]({{site.url}}/images/altkenar.png)
+![Nâs]({{site.url}}/images/altkenar.png)

@@ -49,4 +49,4 @@ tag:
 **(37)** eğer onları isteseydi ve sizi sıkıştırsaydı, cimrilik ederdiniz ve kinlerinizi ortaya çıkarırdı
 **(38)** işte sizler onlarsınız ki Allah yolunda infak etmeye çağrılıyorsunuz ama içinizden kimisi cimrilik ediyor ve cimrilik eden kimse şüphesiz kendi nefsine karşı cimrilik etmiş olur ve Allah zengindir ve sizler fakirsiniz ve eğer yüz çevirecek olursanız yerinize sizden başka bir toplum  getirir sonra onlar sizin gibi olmazlar
 
-![]({{site.url}}/images/altkenar.png)
+![Muhammed]({{site.url}}/images/altkenar.png)

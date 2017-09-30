@@ -64,4 +64,4 @@ tag:
 **(52)** işte böyle sana emrimizden bir ruh vahyettik, sen Kitap nedir ve iman nedir biliyor değildin fakat biz onu, kullarımızdan dilediğimiz kimseyi onunla doğru yola ilettiğimiz bir nur yaptık şüphesiz sen doğru yola
 **(53)** göklerde bulunan herşeyin ve yerde bulunan herşeyin sahibi olan Allah’ın yoluna götürüyorsun iyi bilin ki bütün işler sonunda Allah’a varır
 
-![]({{site.url}}/images/altkenar.png)
+![Sûrâ]({{site.url}}/images/altkenar.png)
