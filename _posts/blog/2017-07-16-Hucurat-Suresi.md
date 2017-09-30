@@ -29,4 +29,4 @@ tag:
 **(17)** İslam olmalarını senin başına kakıyorlar, de ki, müslüman olmanızı benim başıma kakmayın tersine eğer doğrulardan iseniz, Allah size, size imana hidayeti nedeniyle minnet(iyilik) eder 
 **(18)** şüphesiz, Allah göklerin ve yerin gizlisini bilir ve Allah yaptıklarınızı görmektedir
 
-![Hucurât]({{site.url}}/images/altkenar.png)
+![]({{site.url}}/images/altkenar.png)
