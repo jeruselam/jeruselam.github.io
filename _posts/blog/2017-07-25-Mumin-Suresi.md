@@ -49,7 +49,7 @@ tag:
 **(37)** böylece göklerin sebeplerine Musâ’nın tanrısına bakayım çünkü ben onu yalancıdır sanıyorum ve böylece kötü işi Fir’avn’a süslü gösterildi ve yoldan çıkarıldı ve Fir’avn’ın tuzağı hüsrandan başka değildi
 **(38)** inanan (adam) dedi ki kavmim bana uyun sizi doğru yola götüreyim
 **(39)** kavmim gerçekten bu dünya hayatı bir geçinmedir ve gerçekten o ahiret ebedi olarak durulacak yerdir
-**(40)**
+**(40)** kim bir kötülük yaparsa onun mislinden başkasıyla cezalandırılmaz ve o erkekten veya kadın(dan) inanarak her kim faydalı bir iş yaparsa ve işte onlar cennete girerler orada hesabı olmaksızın kendilerine rızık verilir
 **(41)** 
 **(42)** 
 **(43)** 
