@@ -57,13 +57,13 @@ tag:
 **(45)** onların kurdukları tuzakların kötülüklerinden Allah onu korudu ve azabın en kötüsü Fir’avn ailesini kuşattı
 **(46)** ateş, sabah ve akşam ona sunulurlar ve kıyametin koptuğu günü Fir’avn ailesini azabın en çetinine sokun (denilir)
 **(47)** ve ateşin içinde birbirleriyle tartışırlarken zayıf olanlar büyüklük taslayanlara dediler ki elbette biz size uymuş idik ateşin ufak bir parçasını siz bizden savabilir misiniz?
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)** 
-**(54)** 
+**(48)** büyüklük taslayanlar dedi(ler) ki elbette biz hepimiz onun içindeyiz şüphesiz Allah elbette kullar arasında hüküm verdi
+**(49)** ve ateş içindekiler cehennemin bekçilerine dedi(ler) ki Rabbinize du’a edin bizden azabı bir gün biraz hafifletsin 
+**(50)** elçileriniz açık kanıtlarla size geliyor değil miydi? dediler evet (gelirlerdi) dediler öyle ise yalvar(ıp dur)un fakat kafirlerin yalvarması dalaletten başkası değildir
+**(51)** elbette biz elçilerimize ve inanan(lara) kimselere dünya hayatında ve şahidlerin (şahidliğe) duracakları günde yardım ederiz 
+**(52)** o gün zalimlere ma’zeretleri fayda vermez ve onlar için la’net vardır ve onlara yurt(lar)ın en kötüsü vardır
+**(53)** ve andolsun biz Musa’ya hidayet verdik ve İsrail oğullarına Kitabı miras kıldık 
+**(54)** sağduyu sahiplerine bir yol göstericidir ve öğüttür
 **(55)** 
 **(56)** 
 **(57)** 
