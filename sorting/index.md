@@ -1,6 +1,6 @@
 ---
-layout: post
-title: ""
+layout: compress
+title: "Sitemap"
 desciption: Site Haritası
 date: 
 modified:
