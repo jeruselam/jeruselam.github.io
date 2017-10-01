@@ -40,10 +40,10 @@ tag:
 **(28)** ve Fir’avn ailesinden imanını gizleyen mü’min bir adam (şöyle) dedi Rabbim Allah’tır diyor diye bir adamı öldürüyor musunuz? oysa gerçekten size Rabbinizden kanıtlarla gelmiştir ve eğer o bir yalancı ise yalanı kendi zararınadır ve eğer o doğru söylüyor ise size va’dettiklerinin bir kısmı başınıza gelir şüphesiz Allah o aşırı giden yalancı kimseyi doğru yola iletmez
 **(29)** kavmim bugün mülk sizindir yeryüzüne hakimsiniz Allâh’ın hışmından bizi kim kurtarır? Fir’avn eğer bize gelirse dedi ben size gördüğüm şeyden başkasını göstermiyorum ve ben sizi doğru yoldan başkasına iletmem
 **(30)** ve inanan (adam) dedi ki kavmim elbette ben üzerinize öncekilerin gününün mislinden korkuyorum
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
+**(31)** Nûh ve ’Ad kavminin ve Semud’un ve onlardan sonrakilerin durumu gibi ve Allah kullara zulmetmek isteyecek değildir 
+**(32)** kavmim gerçekten ben sizin için o çağırma gününden korkuyorum
+**(33)** o gün arkanızı dönüp kaçarsınız ama sizin için Allahtan hiç kurtaracak kimse yoktur ve Allah kimi şaşırtırsa artık ona hiçbir yol gösteren olmaz
+**(34)** ve andolsun daha önce Yusuf açık kanıtlarla size gelmişti fakat onun size getirdikleri şeyler hakkında şüphede (olmaktan) geri durmadınız nihayet öldüğü zaman Allah asla ondan sonra elçi göndermez  Allah aşırı giden o şüpheci kimseleri işte böyle saptırır
 **(35)** 
 **(36)** 
 **(37)** 
