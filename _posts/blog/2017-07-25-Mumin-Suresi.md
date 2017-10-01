@@ -64,7 +64,7 @@ tag:
 **(52)** o gün zalimlere ma’zeretleri fayda vermez ve onlar için la’net vardır ve onlara yurt(lar)ın en kötüsü vardır
 **(53)** ve andolsun biz Musa’ya hidayet verdik ve İsrail oğullarına Kitabı miras kıldık 
 **(54)** sağduyu sahiplerine bir yol göstericidir ve öğüttür
-**(55)** 
+**(55)** o halde mutlaka sabret Allah’ın va’di gerçektir ve günahına istiğfar et ve Rabbini akşam sabah övgü ile an 
 **(56)** 
 **(57)** 
 **(58)** 
