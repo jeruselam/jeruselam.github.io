@@ -53,9 +53,9 @@ tag:
 **(41)** kavmim ben sizi kurtuluşa çağırıyorum ve siz beni ateşe çağırıyorsunuz bana ne oluyor? 
 **(42)** siz beni Allah’a nankörlük etmeğe ve benim onun hakkında bilgim olmayan şeyleri O’na ortak koşmağa çağırıyorsunuz ben ise sizi aziz olana çok bağışlayana çağırıyorum
 **(43)** siz kesinlikle beni ona çağırıyorsunuz şüphe yok (oysa) (ki) dünyada ne de ahirette onun du’aya değer tarafı yoktur ve elbette bizim dönüşümüz Allah’adır aşırı gidenler işte onlar ateş halkıdır
-**(44)** 
-**(45)** 
-**(46)** 
+**(44)** size ne söylediysem yakında hatırlayacaksınız ve işimi Allah’a bırakıyorum şüphesiz Allah kulları görür
+**(45)** onların kurdukları tuzakların kötülüklerinden Allah onu korudu ve azabın en kötüsü Fir’avn ailesini kuşattı
+**(46)** ateş, sabah ve akşam ona sunulurlar ve Fir’avn ailesini kıyametin koptuğu günü azabın en çetinine sokun (denilir)
 **(47)** 
 **(48)** 
 **(49)** 
