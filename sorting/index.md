@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: post
 title: ""
 desciption: Site Haritası
 date: 
