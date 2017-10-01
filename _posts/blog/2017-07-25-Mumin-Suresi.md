@@ -47,8 +47,8 @@ tag:
 **(35)** onlar ki kendilerine gelmiş bir delil olmadan Allah’ın ayetleri hakkında tartışırlar Allah yanında ve inanan(lar) kimseler yanında ne büyük bir kızgınlıktır Allah her zorbanın kibirli kalbi üzerini işte böyle mühürler
 **(36)** ve Fir’avn dedi ki Hâmân bana yüksek bir kule yap belki sebeplere erişirim
 **(37)** böylece göklerin sebeplerine Musâ’nın tanrısına bakayım çünkü ben onu yalancıdır sanıyorum ve böylece kötü işi Fir’avn’a süslü gösterildi ve yoldan çıkarıldı ve Fir’avn’ın tuzağı hüsrandan başka değildi
-**(38)** 
-**(39)** 
+**(38)** inanan (adam) dedi ki kavmim bana uyun sizi doğru yola götüreyim
+**(39)** kavmim gerçekten bu dünya hayatı bir geçinmedir ve gerçekten o ahiret ebedi olarak durulacak yerdir
 **(40)**
 **(41)** 
 **(42)** 
