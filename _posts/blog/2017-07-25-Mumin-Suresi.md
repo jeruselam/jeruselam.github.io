@@ -50,9 +50,9 @@ tag:
 **(38)** inanan (adam) dedi ki kavmim bana uyun sizi doğru yola götüreyim
 **(39)** kavmim gerçekten bu dünya hayatı bir geçinmedir ve gerçekten o ahiret ebedi olarak durulacak yerdir
 **(40)** kim bir kötülük yaparsa onun mislinden başkasıyla cezalandırılmaz ve o erkekten veya kadın(dan) inanarak her kim faydalı bir iş yaparsa ve işte onlar cennete girerler orada hesabı olmaksızın kendilerine rızık verilir
-**(41)** 
-**(42)** 
-**(43)** 
+**(41)** kavmim ben sizi kurtuluşa çağırıyorum ve siz beni ateşe çağırıyorsunuz bana ne oluyor? 
+**(42)** siz beni Allah’a nankörlük etmeğe ve benim onun hakkında bilgim olmayan şeyleri O’na ortak koşmağa çağırıyorsunuz ben ise sizi aziz olana çok bağışlayana çağırıyorum
+**(43)** siz kesinlikle beni ona çağırıyorsunuz şüphe yok (oysa) (ki) dünyada ne de ahirette onun du’aya değer tarafı yoktur ve elbette bizim dönüşümüz Allah’adır aşırı gidenler işte onlar ateş halkıdır
 **(44)** 
 **(45)** 
 **(46)** 
