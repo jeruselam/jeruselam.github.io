@@ -44,9 +44,9 @@ tag:
 **(32)** kavmim gerçekten ben sizin için o çağırma gününden korkuyorum
 **(33)** o gün arkanızı dönüp kaçarsınız ama sizin için Allahtan hiç kurtaracak kimse yoktur ve Allah kimi şaşırtırsa artık ona hiçbir yol gösteren olmaz
 **(34)** ve andolsun daha önce Yusuf açık kanıtlarla size gelmişti fakat onun size getirdikleri şeyler hakkında şüphede (olmaktan) geri durmadınız nihayet öldüğü zaman Allah asla ondan sonra elçi göndermez  Allah aşırı giden o şüpheci kimseleri işte böyle saptırır
-**(35)** 
-**(36)** 
-**(37)** 
+**(35)** onlar ki kendilerine gelmiş bir delil olmadan Allah’ın ayetleri hakkında tartışırlar Allah yanında ve inanan(lar) kimseler yanında ne büyük bir kızgınlıktır Allah her zorbanın kibirli kalbi üzerini işte böyle mühürler
+**(36)** ve Fir’avn dedi ki Hâmân bana yüksek bir kule yap belki sebeplere erişirim
+**(37)** böylece göklerin sebeplerine Musâ’nın tanrısına bakayım çünkü ben onu yalancıdır sanıyorum ve böylece kötü işi Fir’avn’a süslü gösterildi ve yoldan çıkarıldı ve Fir’avn’ın tuzağı hüsrandan başka değildi
 **(38)** 
 **(39)** 
 **(40)**
