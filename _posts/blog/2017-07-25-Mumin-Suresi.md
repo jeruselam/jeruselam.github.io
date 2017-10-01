@@ -55,7 +55,7 @@ tag:
 **(43)** siz kesinlikle beni ona çağırıyorsunuz şüphe yok (oysa) (ki) dünyada ne de ahirette onun du’aya değer tarafı yoktur ve elbette bizim dönüşümüz Allah’adır aşırı gidenler işte onlar ateş halkıdır
 **(44)** size ne söylediysem yakında hatırlayacaksınız ve işimi Allah’a bırakıyorum şüphesiz Allah kulları görür
 **(45)** onların kurdukları tuzakların kötülüklerinden Allah onu korudu ve azabın en kötüsü Fir’avn ailesini kuşattı
-**(46)** ateş, sabah ve akşam ona sunulurlar ve Fir’avn ailesini kıyametin koptuğu günü azabın en çetinine sokun (denilir)
+**(46)** ateş, sabah ve akşam ona sunulurlar ve kıyametin koptuğu günü Fir’avn ailesini azabın en çetinine sokun (denilir)
 **(47)** 
 **(48)** 
 **(49)** 
