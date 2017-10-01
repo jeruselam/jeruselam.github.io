@@ -56,7 +56,7 @@ tag:
 **(44)** size ne söylediysem yakında hatırlayacaksınız ve işimi Allah’a bırakıyorum şüphesiz Allah kulları görür
 **(45)** onların kurdukları tuzakların kötülüklerinden Allah onu korudu ve azabın en kötüsü Fir’avn ailesini kuşattı
 **(46)** ateş, sabah ve akşam ona sunulurlar ve kıyametin koptuğu günü Fir’avn ailesini azabın en çetinine sokun (denilir)
-**(47)** 
+**(47)** ve ateşin içinde birbirleriyle tartışırlarken zayıf olanlar büyüklük taslayanlara dediler ki elbette biz size uymuş idik ateşin ufak bir parçasını siz bizden savabilir misiniz?
 **(48)** 
 **(49)** 
 **(50)** 
