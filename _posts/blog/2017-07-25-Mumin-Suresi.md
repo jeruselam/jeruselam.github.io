@@ -76,13 +76,13 @@ tag:
 **(64)** Allah O’dur ki arzı size durulacak yer ve göğü bina yaptı ve sizi şekillendirdi ve şekillerinizi güzel yaptı ve sizi güzel rızıklarla besledi işte budur Rabbiniz Allah alemlerin Rabbi Allah ne yücedir
 **(65)** O diridir O’ndan başka tanrı yoktur dini yalnız kendisine halis kılarak O’na yalvarın hamd alemlerin Rabbi Allah’a mahsustur
 **(66)** de ki elbette Rabbimden açık deliller bana geldiği zaman Allah’tan başka sizin yalvardıklarınıza tapmaktan ben men’olundum ve alemlerin Rabbine teslim olmakla emrolundum 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
-**(72)** 
-**(73)** 
+**(67)** O’dur ki sizi yarattı topraktan sonra nutfe(sperm)den sonra alaka(embriyo)dan sonra sizi çocuk olarak çıkarıyor sonra güçlü çağınıza ermeniz için sonra ihtiyarlar olmanız için ve içinizden kimi daha önce öldürülüyor ve belli süreye erişmeniz için ve umulur ki aklınızı kullanırsınız
+**(68)** yaşatan ve öldüren O’dur bir işi hükmettiği zaman sadece ona ol! der o da olur
+**(69)** Allah’ın ayetleri hakkında tartışan(ları) kimseleri görmedin mi? nasıl da? çevriliyorlar
+**(70)** Kitabı ve elçilerimizi onunla gönderdiğimiz şeyi yalanlayan(lar) kimseler fakat yakında bileceklerdir
+**(71)** o zaman boyunlarında demir halkalar ve zincirler sürüklenceklerdir
+**(72)** kaynar su içinde sonra ateşte yakılacaklardır
+**(73)** sonra onlara, ortak koşuyor(lar) olduğunuz şeyler nerede? denilecektir
 **(74)** 
 **(75)** 
 **(76)** 
