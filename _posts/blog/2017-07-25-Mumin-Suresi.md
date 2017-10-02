@@ -75,7 +75,7 @@ tag:
 **(63)** Allah’ın ayetlerini kasden inkar etmekte olanlar kimseler işte böyle çevriliyorlardı
 **(64)** Allah O’dur ki arzı size durulacak yer ve göğü bina yaptı ve sizi şekillendirdi ve şekillerinizi güzel yaptı ve sizi güzel rızıklarla besledi işte budur Rabbiniz Allah alemlerin Rabbi Allah ne yücedir
 **(65)** O diridir O’ndan başka tanrı yoktur dini yalnız kendisine halis kılarak O’na yalvarın hamd alemlerin Rabbi Allah’a mahsustur
-**(66)** 
+**(66)** de ki elbette Rabbimden açık deliller bana geldiği zaman Allah’tan başka sizin yalvardıklarınıza tapmaktan ben men’olundum ve alemlerin Rabbine teslim olmakla emrolundum 
 **(67)** 
 **(68)** 
 **(69)** 
