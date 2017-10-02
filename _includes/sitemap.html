@@ -192,7 +192,18 @@
 		li li {font-weight: normal;}
 
 
-		
+		ul ul {
+			background: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%3E%3Cline%20x1%20%3D%20%22.5%22%20y1%20%3D%20%220%22%20x2%20%3D%20%22.5%22%20y2%20%3D%20%22100%25%22%20stroke%20%3D%20%22black%22%20stroke-width%20%3D%20%221%22%2F%3E%3C%2Fsvg%3E');
+		}
+		ul ul li {
+			background: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%3E%3Cline%20x1%20%3D%20%22.5%22%20y1%20%3D%20%2210.5%22%20x2%20%3D%20%2250%22%20y2%20%3D%20%2210.5%22%20stroke%20%3D%20%22black%22%20stroke-width%20%3D%20%221%22%2F%3E%3C%2Fsvg%3E');
+			shape-rendering:crispEdges;
+
+		}
+		ul ul li:last-child {
+			background: #fff url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%3E%3Cpolyline%20points%20%3D%20%22.5%2C0%20.5%2C10.5%2050%2C10.5%22%20fill%20%3D%20%22white%22%20stroke%20%3D%20%22black%22%20%20stroke-width%20%3D%20%221%22%2F%3E%3C%2Fsvg%3E');
+			shape-rendering:crispEdges;
+		}
 		ul ul li span:before {content:" + "; margin: 0 0 0 -6px; font-size: 1em; line-height: 1.5em; /*border: 1px solid black; border-width: 0 0 1px 0*/}
 		ul ul li.end span:before {content:""; margin: 0 0 0 2px; /*border: 1px solid black; border-width: 0 0 0 0*/}
 
