@@ -65,7 +65,7 @@ tag:
 **(53)** ve andolsun biz Musa’ya hidayet verdik ve İsrail oğullarına Kitabı miras kıldık 
 **(54)** sağduyu sahiplerine bir yol göstericidir ve öğüttür
 **(55)** o halde mutlaka sabret Allah’ın va’di gerçektir ve günahına istiğfar et ve Rabbini akşam sabah övgü ile an 
-**(56)** şüphesiz kendilerine gelen (hiçbir) delil olmadan Allah’ın ayetleri hakkında tartışan(lar) kimseler onların göğüslerinde büyüklük (taslamaktan) başka bir şey yoktur 
+**(56)** şüphesiz kendilerine gelen (hiçbir) delil olmadan Allah’ın ayetleri hakkında tartışan(lar) kimseler onların göğüslerinde büyüklük (taslamaktan) başka bir şey yoktur onlar(ın) erişemeyecekleri Allah’a sen sığın çünkü işiten gören O, O’dur 
 **(57)** 
 **(58)** 
 **(59)** 
