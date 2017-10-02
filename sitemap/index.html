@@ -27,20 +27,74 @@ sitemap: false
 
 		<div class="btn"><a href="javascript:void(0)" id="hide">Tümü daralt</a></div> 
 	</nav>
-<ul><li>
-
-<ul><li><span>Kur'an</span>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
 
+<ul class="tag-box inline">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 
+<ul><li>
+
+
+<ul style="display: none;">
+<ul><li><span>Kur'an</span>
   {% for post in site.tags[this_word] %}{% if post.title != null %}
     <li class="end"><a href="{{ site.url }}{{ post.url }}"><span>{{ this_word }}</span></a></li>
   {% endif %}{% endfor %}
+</ul>
   {% endunless %}{% endfor %}
+
+</ul>
+
+
+
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Abese-Suresi/"><span>Abese</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Adiyat-Suresi/"><span>Adiyât</span></a></li>
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
+
+
+<li class="end"><a href="https://jeruselam.github.io/Ahkaf-Suresi/"><span>Ahkâf</span></a></li>
 
 </ul></li>
 
