@@ -88,12 +88,12 @@ tag:
 **(76)** cehennemin kapılarından girin orada ebedi kalacaksınız kibirlenenlerin yeri ne kötüdür
 **(77)** artık sabret şüphesiz Allah’ın va’di (sözü) gerçektir onları tehdidettiğimiz şeylerin bir kısmını ya sana gösteririz yahut seni vefat ettiririz sonunda bize döndürüleceklerdir
 **(78)** ve andolsun biz senden önce de elçiler gönderdik onlardan kimini sana anlattık ve onlardan kimini sana anlatmadık ve hiçbir elçinin Allah’ın izni dışında bir mu’cize getirmesi mümkün değildir Allah’ın emri geldiği zaman hak ile yerine getirilir ve boşa çıkarmağa uğraşanlar orada hüsrana uğrarlar
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
+**(79)** Allah O’dur ki kimine binmeniz için ve kiminden yemeniz için size hayvanları yarattı 
+**(80)** ve sizin için onlarda faydalar vardır gönüllerinizdeki arzuya onların üstünde erersiniz ve onların üstünde ve gemilerin üstünde taşınırsınız
+**(81)** size ayetlerini gösteriyor Allah’ın ayetlerinden hangisini? inkar ediyorsunuz
+**(82)** yeryüzünde gezip dolaşmadılar mı? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler onlar bunlardan daha çok  ve kuvvet bakımından ve yeryüzündeki eserleri bakımından daha şiddetli idiler ama kazanıyor(lar) oldukları şeyler kendilerine hiçbir yarar sağlamadı 
+**(83)** ne zaman ki elçileri açık kanıtlarla onlara gelince bilgiden yanlarında bulunan ile sevindiler sonunda onunla alay ediyor(lar) oldukları şey kendilerini kuşatıverdi
+**(84)** ne zaman ki hışmımızı gördüler tek Allah’a inandık ve O’na ortak koştuğumuz şeyleri inkar ettik dediler
+**(85)** fakat hışmımızı gördükleri zaman inanmaları kendilerine bir fayda sağlamadı elbette Allah’ın kulları hakkında gelip geçen yasası budur
 
-![Mu'min]({{site.url}}/images/altkenar.png)
+![40b]({{site.url}}/images/altkenar.png)
