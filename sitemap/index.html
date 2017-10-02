@@ -33,7 +33,6 @@ sitemap: false
 
 <ul><li>
 <ul><li><span>Kur'an</span>
-<ul class="tag-box inline">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 
@@ -43,7 +42,7 @@ sitemap: false
   {% endif %}{% endfor %}
 </ul>
   {% endunless %}{% endfor %}
-</ul></li>
+</li>
 
 <li class="end"><a href="https://jeruselam.github.io/about/"><span>Hakkında</span></a></li>
 
