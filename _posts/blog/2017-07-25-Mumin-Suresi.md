@@ -66,15 +66,15 @@ tag:
 **(54)** sağduyu sahiplerine bir yol göstericidir ve öğüttür
 **(55)** o halde mutlaka sabret Allah’ın va’di gerçektir ve günahına istiğfar et ve Rabbini akşam sabah övgü ile an 
 **(56)** şüphesiz kendilerine gelen (hiçbir) delil olmadan Allah’ın ayetleri hakkında tartışan(lar) kimseler onların göğüslerinde büyüklük (taslamaktan) başka bir şey yoktur onlar(ın) erişemeyecekleri Allah’a sen sığın çünkü işiten gören O, O’dur 
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
+**(57)** gökleri ve yeri yaratmak insanları yaratmaktan çok daha zordur fakat insanların çoğu bilmezler
+**(58)** kör ve gören ve inanan(lar) kimseler ve iyi işler yapanlar ve ne de kötülük yapan eşit olmaz ne kadar az düşünüyorsunuz
+**(59)** sa’at mutlaka gelecektir bunda asla şüphe yoktur fakat insanların çoğu inanmazlar
+**(60)** ve Rabbiniz dedi ki bana du’a edin sizden kabul edeyim  şüphesiz bana kulluk etmeğe büyüklenen(ler) kimseler aşağılık olarak cehenneme gireceklerdir
+**(61)** Allah O’dur ki size içinde istirahat etmeniz için geceyi ve görmeniz için gündüzü yaptı şüphesiz Allah insanlara karşı lutuf sahibidir fakat insanların çoğu şükretmezler
+**(62)** her şeyin yaratıcısı olan Rabbiniz Allah O’ndan başka tanrı yoktur işte budur nasıl da? çevriliyorsunuz
+**(63)** Allah’ın ayetlerini kasden inkar etmekte olanlar kimseler işte böyle çevriliyorlardı
+**(64)** Allah O’dur ki arzı size durulacak yer ve göğü bina yaptı ve sizi şekillendirdi ve şekillerinizi güzel yaptı ve sizi güzel rızıklarla besledi işte budur Rabbiniz Allah alemlerin Rabbi Allah ne yücedir
+**(65)** O diridir O’ndan başka tanrı yoktur dini yalnız kendisine halis kılarak O’na yalvarın hamd alemlerin Rabbi Allah’a mahsustur
 **(66)** 
 **(67)** 
 **(68)** 
