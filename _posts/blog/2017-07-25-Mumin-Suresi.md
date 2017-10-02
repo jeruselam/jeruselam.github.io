@@ -83,11 +83,11 @@ tag:
 **(71)** o zaman boyunlarında demir halkalar ve zincirler sürüklenceklerdir
 **(72)** kaynar su içinde sonra ateşte yakılacaklardır
 **(73)** sonra onlara, ortak koşuyor(lar) olduğunuz şeyler nerede? denilecektir
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
+**(74)** diyecekler ki Allah’tan başkaları? bizden kayboldular hayır önceden biz hiçbir şeye tapmıyor değilmişiz işte Allah kafirleri böyle böyle şaşırtır
+**(75)** bu durum sizin hakkı olmaksızın yeryüzünde şımarmanızdan ötürüdür ve böbürlenmiş olmanızdan ötürüdür 
+**(76)** cehennemin kapılarından girin orada ebedi kalacaksınız kibirlenenlerin yeri ne kötüdür
+**(77)** artık sabret şüphesiz Allah’ın va’di (sözü) gerçektir onları tehdidettiğimiz şeylerin bir kısmını ya sana gösteririz yahut seni vefat ettiririz sonunda bize döndürüleceklerdir
+**(78)** ve andolsun biz senden önce de elçiler gönderdik onlardan kimini sana anlattık ve onlardan kimini sana anlatmadık ve hiçbir elçinin Allah’ın izni dışında bir mu’cize getirmesi mümkün değildir Allah’ın emri geldiği zaman hak ile yerine getirilir ve boşa çıkarmağa uğraşanlar orada hüsrana uğrarlar
 **(79)** 
 **(80)** 
 **(81)** 
