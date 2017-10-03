@@ -16,7 +16,7 @@ tag:
 **(4)** eğer Allah çocuk edinmek isteseydi ne diliyorsa yarattıklarından elbette seçerdi O (bundan münezzehtir) yücedir O tek kahredici Allah’tır
 **(5)** gökleri ve yeri hak ile yarattı gündüzün üzerine geceyi örter ve gecenin üzerine gündüzü örter ve güneşi ve ayı buyruğu altına  almıştır her biri belli bir süreye kadar akıp gitmektedir iyi bil ki O azizdir ve çok bağışlayandır
 **(6)** sizi bir tek candan yarattı sonra ondan eşini meydana getirdi ve sizin için davarlardan sekiz çift indirdi ve sizi üç karanlık(lar) içinde bir yaratılıştan sonra yaratılışla annelerinizin karınlarında yaratmaktadır işte budur, Rabbiniz Allah mülk O’nundur O’nun dışında tanrı yoktur nasıl? çevriliyorsunuz
-**(7)** eğer inkar ederseniz şüphesiz Allah sizden zengindir fakat kulları için küfre razı olmaz ve eğer şükrederseniz sizin için ona razı olur hiçbir günahkar diğerinin günahını (günahını) çekmez sonra dönüşünüz Rabbinizedir yapıyorlar olduğunuz şeyleri size haber verir çünkü O göğüslerin özünü bilir
+**(7)** eğer inkar ederseniz şüphesiz Allah zengindir fakat sizden kulları için küfre razı olmaz ve eğer şükrederseniz sizin için ona razı olur hiçbir günahkar diğerinin günahını (günahını) çekmez sonra dönüşünüz Rabbinizedir yapıyorlar olduğunuz şeyleri size haber verir çünkü O göğüslerin özünü bilir
 **(8)** 
 **(9)** 
 **(10)** 
