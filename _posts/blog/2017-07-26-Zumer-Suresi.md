@@ -23,9 +23,9 @@ tag:
 **(11)** de ki muhakkak bana dini yalnız O’na halis kılarak Allah’a kulluk etmem emredildi 
 **(12)** ve bana müslümanların ilki olmam emredildi 
 **(13)** de ki elbette ben eğer Rabbime isyan edersem büyük bir günün azabından korkarım
-**(14)** 
-**(15)** 
-**(16)** 
+**(14)** de ki dinimi yalnız O’na halis kılarak Allah’a kulluk ediyorum
+**(15)** siz de O’ndan başka dilediğinize kulluk edin de ki şüphesiz kıyamet günü ziyana uğrayanlar kendilerini ve ailelerini ziyan  edenlerdir dikkat edin işte bu apaçık bir ziyandır
+**(16)** onların üstlerinden ateşten gölgeler ve altlarından (ateşten) gölgeler vardır işte bu durumdan Allah kullarını korkutur kullarım benden korkun
 **(17)** 
 **(18)** 
 **(19)** 
