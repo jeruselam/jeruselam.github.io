@@ -12,7 +12,7 @@ tag:
 
 **(1)** Kitabını indirilmesi aziz hüküm ve hikmet sahibi Allah tarafındandır
 **(2)** elbette biz sana bu Kitabı hak ile indirdik dini yalnız O’na halis kılarak sen Allah’a kulluk et 
-**(3)** iyi bil ki halis din yalnız Allah’ındır ve O’ndan başka dostlar edinen kimseler biz bunlara daha yakın Allah’a bizi yaklaştırmaları dışıda (bir sebeple) tapmıyoruz şüphesiz ki Allah onlar arasında hükmünü verecektir ne ki onlar onun hakkında ayrılığa düşüyorlar şüphesiz ki Allah o yalancı nankör olanı doğru yola iletmez
+**(3)** iyi bil ki halis din yalnız Allah’ındır ve O’ndan başka dostlar edinen kimseler bunlara daha yakın Allah’a bizi yaklaştırmaları dışıda (bir sebeple) biz tapmıyoruz ne ki onlar onun hakkında ayrılığa düşüyorlar Allah şüphesiz ki onlar arasında hükmünü verecektir Allah şüphesiz ki o yalancı nankör olanı doğru yola iletmez
 **(4)** 
 **(5)** 
 **(6)** 
