@@ -19,10 +19,10 @@ tag:
 **(7)** eğer inkar ederseniz şüphesiz Allah zengindir fakat sizden kulları için küfre razı olmaz ve eğer şükrederseniz sizin için ona razı olur hiçbir günahkar diğerinin günahını (günahını) çekmez sonra dönüşünüz Rabbinizedir yapıyorlar olduğunuz şeyleri size haber verir çünkü O göğüslerin özünü bilir
 **(8)** insana bir zarar dokunduğu zaman O’na içtenlikle yönelerek hemen Rabbine du’a eder sonra kendisinden ona bir ni’met verdiği zaman önceden O’na yalvarmakta olduğunu unutur ve O’nun yolundan saptırmak için Allah’a eşler koşar de ki küfrünle azıcık yaşa şüphesiz sen ateş halkından(sın)
 **(9)** yoksa o gece sa’atlerinde secde ederek ve ayakta durarak ibadet eden ahiretten korkan ve Rabbinin rahmetini uman gibi midir? de ki bilen(lerle) kimselerle ve bilmeyen(ler) kimseler eşit midir? doğrusu ancak sağduyu sahipleri öğüt alır
-**(10)** 
-**(11)** 
-**(12)** 
-**(13)** 
+**(10)** de ki inanan kullarım Rabbinizden korkun güzel davranan(lara) kimselere bu dünyada güzellik vardır ve Allah’ın yeri geniştir ancak sabredenlere ödülleri hesabı olmaksızın ödenecektir
+**(11)** de ki muhakkak bana dini yalnız O’na halis kılarak Allah’a kulluk etmem emredildi 
+**(12)** ve bana müslümanların ilki olmam emredildi 
+**(13)** de ki elbette ben eğer Rabbime isyan edersem büyük bir günün azabından korkarım
 **(14)** 
 **(15)** 
 **(16)** 
