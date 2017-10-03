@@ -26,8 +26,8 @@ tag:
 **(14)** de ki dinimi yalnız O’na halis kılarak Allah’a kulluk ediyorum
 **(15)** siz de O’ndan başka dilediğinize kulluk edin de ki şüphesiz kıyamet günü ziyana uğrayanlar kendilerini ve ailelerini ziyan  edenlerdir dikkat edin işte bu apaçık bir ziyandır
 **(16)** onların üstlerinden ateşten gölgeler ve altlarından (ateşten) gölgeler vardır işte bu durumdan Allah kullarını korkutur kullarım benden korkun
-**(17)** 
-**(18)** 
+**(17)** Tağut’a kulluk etmekten kaçınan(lara) kimselere ve Allah’a yönelenlere onlar için müjde vardır kullarımı müjdele 
+**(18)** onlar ki sözü dinlerler ve onun en güzeline uyarlar işte onlar Allah’ın doğru yola ilettikleri kimselerdir ve işte onlar sağduyu sahipleridir
 **(19)** 
 **(20)** 
 **(21)** 
