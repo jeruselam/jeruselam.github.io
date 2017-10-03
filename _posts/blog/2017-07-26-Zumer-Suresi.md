@@ -18,7 +18,7 @@ tag:
 **(6)** sizi bir tek candan yarattı sonra ondan eşini meydana getirdi ve sizin için davarlardan sekiz çift indirdi ve sizi üç karanlık(lar) içinde bir yaratılıştan sonra yaratılışla annelerinizin karınlarında yaratmaktadır işte budur, Rabbiniz Allah mülk O’nundur O’nun dışında tanrı yoktur nasıl? çevriliyorsunuz
 **(7)** eğer inkar ederseniz şüphesiz Allah zengindir fakat sizden kulları için küfre razı olmaz ve eğer şükrederseniz sizin için ona razı olur hiçbir günahkar diğerinin günahını (günahını) çekmez sonra dönüşünüz Rabbinizedir yapıyorlar olduğunuz şeyleri size haber verir çünkü O göğüslerin özünü bilir
 **(8)** insana bir zarar dokunduğu zaman O’na içtenlikle yönelerek hemen Rabbine du’a eder sonra kendisinden ona bir ni’met verdiği zaman önceden O’na yalvarmakta olduğunu unutur ve O’nun yolundan saptırmak için Allah’a eşler koşar de ki küfrünle azıcık yaşa şüphesiz sen ateş halkından(sın)
-**(9)** 
+**(9)** yoksa o gece sa’atlerinde secde ederek ve ayakta durarak ibadet eden ahiretten korkan ve Rabbinin rahmetini uman gibi midir? de ki bilen(lerle) kimselerle ve bilmeyen(ler) kimseler eşit midir? doğrusu ancak sağduyu sahipleri öğüt alır
 **(10)** 
 **(11)** 
 **(12)** 
