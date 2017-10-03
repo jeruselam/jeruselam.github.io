@@ -13,8 +13,8 @@ tag:
 **(1)** Kitabını indirilmesi aziz hüküm ve hikmet sahibi Allah tarafındandır
 **(2)** elbette biz sana bu Kitabı hak ile indirdik dini yalnız O’na halis kılarak sen Allah’a kulluk et 
 **(3)** iyi bil ki halis din yalnız Allah’ındır ve O’ndan başka dostlar edinen kimseler bunlara daha yakın Allah’a bizi yaklaştırmaları dışıda (bir sebeple) biz tapmıyoruz ne ki onlar onun hakkında ayrılığa düşüyorlar Allah şüphesiz ki onlar arasında hükmünü verecektir Allah şüphesiz ki o yalancı nankör olanı doğru yola iletmez
-**(4)** 
-**(5)** 
+**(4)** eğer Allah çocuk edinmek isteseydi ne diliyorsa yarattıklarından elbette seçerdi O (bundan münezzehtir) yücedir O tek kahredici Allah’tır
+**(5)** gökleri ve yeri hak ile yarattı gündüzün üzerine geceyi örter ve gecenin üzerine gündüzü örter ve güneşi ve ayı buyruğu altına  almıştır her biri belli bir süreye kadar akıp gitmektedir iyi bil ki O azizdir ve çok bağışlayandır
 **(6)** 
 **(7)** 
 **(8)** 
