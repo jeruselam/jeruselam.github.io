@@ -86,4 +86,4 @@ tag:
 **(74)** 
 **(75)** 
 
-![39b]({{site.url}}/images/altkenar.png)
+![39b]({{site.url}}/images/ayrac-muhur.png)
