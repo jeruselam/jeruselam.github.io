@@ -28,10 +28,10 @@ tag:
 **(16)** onların üstlerinden ateşten gölgeler ve altlarından (ateşten) gölgeler vardır işte bu durumdan Allah kullarını korkutur kullarım benden korkun
 **(17)** Tağut’a kulluk etmekten kaçınan(lara) kimselere ve Allah’a yönelenlere onlar için müjde vardır kullarımı müjdele 
 **(18)** onlar ki sözü dinlerler ve onun en güzeline uyarlar işte onlar Allah’ın doğru yola ilettikleri kimselerdir ve işte onlar sağduyu sahipleridir
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
+**(19)** azab kararı üzerine hak olan kimse mi? sen mi? ateşte bulunanı kurtaracaksın
+**(20)** fakat onlar ki Rablerinden korkarlar onlara odalar üstüste yapılmış odalar vardır altından ırmaklar akmaktadır (bu) Allah’ın va’didir Allah va’dinden caymaz
+**(21)** görmedin mi? şüphesiz Allah gökten bir su indirdi sonra onu yerin içindeki kaynaklara geçirdi sonra onunla çeşitli renklerde ekin çıkarıyor sonra (ekin) kurur ve onu sararmış görürsün sonra onu bir çöp yapar şüphesiz sağduyu sahipleri için bunda bir ibret vardır
+**(22)** Rabbinden bir nur üzerinde Allah’ın göğsünü İslam’a açtığı o kimse değil midir? Allah’ı anmağa karşı yürekleri katılaşmış olanlara yazıklar olsun onlar apaçık bir sapıklık içindedirler
 **(23)** 
 **(24)** 
 **(25)** 
