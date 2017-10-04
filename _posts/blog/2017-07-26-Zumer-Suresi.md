@@ -52,10 +52,10 @@ tag:
 **(40)** onu rezil eden azab kime? geliyor ve sürekli azab (kimin) üzerine konuyor?
 **(41)** elbette biz Kitabı insanlar için hak ile sana indirdik artık kim doğru yola gelirse kendi yararınadır ve kim de saparsa şüphesiz kendi zararına sapmış olur ve sen onların üzerinde vekil değil(sin) 
 **(42)** Allah ölümleri sırasında canları ve uykularında ölmeyen(leri) kimseleri vefat ettirir sonra üzerlerinde ölümüne hükmettiği kimseleri yanında tutar ve ötekilerini belirli bir süreye kadar salıverir şüphesiz düşünen bir toplum için bunda ibretler vardır
-**(43)** 
-**(44)** 
-**(45)** 
-**(46)** 
+**(43)** yoksa Allah’tan başka şefa’atçiler mi edindiler? de ki onlar hiçbir şeye malik olmayan ve düşünmeyen olsalar bile mi?
+**(44)** de ki şefa’at tamamen Allah’ındır göklerin ve yerin mülkü O’nundur sonra O’na döndürüleceksiniz
+**(45)** ve tek olarak Allah anıldığı zaman ahirete inanmayan(ların) kimselerin kalbleri ürker ve O’ndan başka kimseler anıldığı zaman onlar hemen sevinirler
+**(46)** de ki görülmeyeni ve görüleni bilen gökleri ve yeri yoktan var eden Allah’ım kullarının arasında hakkında ayrılığa düştükleri(düşüyor) oldukları şeylerde (ancak) sen hükmedersin 
 **(47)** 
 **(48)** 
 **(49)** 
