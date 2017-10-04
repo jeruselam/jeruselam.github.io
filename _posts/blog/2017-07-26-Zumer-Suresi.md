@@ -66,15 +66,15 @@ tag:
 **(54)** ve Rabbinize dönün ve azab size gelip çatmadan önce O’na teslim olun sonra asla size yardım edilmez
 **(55)** ve ansızın ve siz hiç farkına varmadan azab size gelmezden önce Rabbinizden size indirilenin en güzeline uyun 
 **(56)** Allah’ın yanında kusur edişimden dolayı nefsin vah (bana) ve ben gerçekten kimselerden, alay edenlerden oldum demesinden (sakının)
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
+**(57)** yahut şayet Allah bana hidayet etseydi elbette ben muttakilerden olurdum demesinden 
+**(58)** yahut azabı gördüğü zaman keşke gerçekten benim için bir kez daha (dönüş) olsaydı böylece güzel hareket edenlerden olsaydım demesinden
+**(59)** hayır elbette sana ayetlerim geldi fakat sen onları yalanladın ve büyüklük tasladın ve nankörlerden oldun 
+**(60)** ve kıyamet günü Allah’a karşı yalan uyduranların yüzlerini kapkara görürsün kibirlenenler için cehennemde bir yer yok mudur?
+**(61)** ve Allah kimseleri, başarılarıyle korunanları kurtarır onlara kötülük dokunmaz ve onlar üzülmezler
+**(62)** Allah her şeyin yaratıcısıdır ve O her şey üzerine vekildir
+**(63)** göklerin ve yerin anahtarları O’nundur ve Allah’ın ayetlerini inkar eden(ler) kimseler işte ziyana uğrayanlar onlardır
+**(64)** de ki ey cahiller bana Allah’tan başkasına mı? kulluk etmemi emrediyorsunuz
+**(65)** ve elbette sana ve senden önceki kimselere şöyle vahyedildi andolsun eğer ortak koşarsan amelin boşa çıkar ve kaybedenlerden olursun 
 **(66)** 
 **(67)** 
 **(68)** 
