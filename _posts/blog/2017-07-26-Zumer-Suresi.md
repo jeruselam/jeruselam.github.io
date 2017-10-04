@@ -61,9 +61,9 @@ tag:
 **(49)** insana bir zarar dokunduğu zaman bize du’a eder sonra bizden ona bir ni’met verdiğimiz vakit elbette der bu bana bilgi(m) sayesinde verildi hayır o bir imtihandır fakat çokları bilmiyorlar
 **(50)** elbette kimseler, onlardan öncekiler bunu demişlerdi ama kazandıkları şeyler kendilerine yararı olmadı 
 **(51)** sonra kazandıklarının kötülükleri başlarına geldi kimselere bunlardan zulmedenlere yaptıklarının kötülükleri erişecektir ve onlar engel olacak değillerdir
-**(52)** 
-**(53)** 
-**(54)** 
+**(52)** bilmediler mi? elbette Allah rızkı dilediği kimseye açar ve kısar şüphesiz bunda inanan bir toplum için ibretler vardır
+**(53)** de ki nefislerine karşı aşırı giden kullarım Allah’ın rahmetinden asla umut kesmeyin şüphesiz Allah bütün günahları bağışlar çünkü O çok esirgeyendir O çok bağışlayandır
+**(54)** ve Rabbinize dönün ve azab size gelip çatmadan önce O’na teslim olun sonra asla size yardım edilmez
 **(55)** 
 **(56)** 
 **(57)** 
