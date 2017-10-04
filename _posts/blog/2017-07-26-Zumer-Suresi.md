@@ -57,8 +57,8 @@ tag:
 **(45)** ve tek olarak Allah anıldığı zaman ahirete inanmayan(ların) kimselerin kalbleri ürker ve O’ndan başka kimseler anıldığı zaman onlar hemen sevinirler
 **(46)** de ki görülmeyeni ve görüleni bilen gökleri ve yeri yoktan var eden Allah’ım kullarının arasında hakkında ayrılığa düştükleri(düşüyor) oldukları şeylerde (ancak) sen hükmedersin 
 **(47)** ve eğer o zulmedenlerin kimseler için ki olsaydı ve eğer  yeryüzünde bulunanların tümü ve onunla beraber bir misli daha olsaydı kıyamet günü kötü azabdan (kurtulmak için) onu mutlaka fidye verirlerdi ve Allah'tan hiç hesabetmedikleri şeyler onların karşılarına çıkmıştır 
-**(48)** 
-**(49)** 
+**(48)** ve yaptıkları işlerin kötülükleri kendilerine görünmüştür ve onunla alay ediyor(lar) oldukları şey onları kuşatmıştır 
+**(49)** insana bir zarar dokunduğu zaman bize du’a eder sonra bizden ona bir ni’met verdiğimiz vakit elbette der bu bana bilgi(m) sayesinde verildi hayır o bir imtihandır fakat çokları bilmiyorlar
 **(50)** 
 **(51)** 
 **(52)** 
