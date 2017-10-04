@@ -81,9 +81,9 @@ tag:
 **(69)** ve Rabbinin nuru ile yer parlar ve Kitap (ortaya) konur ve peygamberler ve şahidler getirilir ve aralarında adaletle hükmedilir ve onlara asla haksızlık edilmez
 **(70)** ve her nefse yaptığının karşılığı tam verilir ve O onların ne yaptıklarını en iyi bilendir
 **(71)** ve inkar eden(ler) kimseler bölük bölük cehenneme sürülürler nihayet oraya geldikleri zaman kapıları açılır ve onun bekçileri onlara şöyle der Rabbinizin ayetlerini size okuyan ve sizi bu gününüze kavuşacağınıza uyaran kendi aranızdan elçiler gelmedi mi? evet derler ama kafirler üzerine azab sözü hak olmuştur
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
+**(72)** içinde ebedi kalmak üzere cehennemin kapılarından girin denilir kibirlenenlerin yeri ne kötüdür
+**(73)** ve Rablerinin (azabından) korunan(lar) kimseler bölük bölük cennete sevk edilirler nihayet geldikleri zaman ve onun kapıları açılır ve onun bekçileri onlara selam size (ne) hoşsunuz ebedi kalmak üzere buraya girin derler 
+**(74)** ve Allah’a hamdolsun derler o ki; bize verdiği sözünü yerine getirdi ve dilediğimiz yerinde oturacağımız cennetten yurda bizi varis kıldı çalışanların ücreti ne güzeldir
+**(75)** ve meleklerin Arşın çevresinde dönerek Rablerini hamd ile tesbih ettiklerini görürsün ve aralarında hak ile hükmedilir ve Hamd alemlerin Rabbi Allah’a’dır denilir 
 
 ![39b]({{site.url}}/images/ayrac-muhur.png)
