@@ -38,14 +38,14 @@ tag:
 **(26)** Allah onlara dünya hayatında rezillik taddırdı ahiret azabı ise daha büyüktür keşke bilselerdi
 **(27)** ve andolsun biz insanlara bu Kur’an’da her temsili anlattık umulur ki öğüt alırlar
 **(28)** (bu) pürüzü olmayan Arapça Kur’an’dır umulur ki sakınırlar
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
+**(29)** Allah (şöyle bir) misalle örnek verdi ortakları birbiriyle çekişen bir adam (köle) ve yalnız bir kişiye bağlı olan bir adam ikisinin durumu eşit midir? hamd yalnız Allah’a mahsustur fakat çokları bilmiyorlar
+**(30)** şüphesiz sen öleceksin ve onlar da ölecekler
+**(31)** sonra şüphesiz siz kıyamet günü Rabbinizin divanında davalaşacaksınız
+**(32)** Allah hakkında yalan uydurandan kimseden ve kendisine geldiği zaman doğruyu yalanlayandan daha zalim kim olabilir? kafirler için cehennemde bir yer yok mudur?
+**(33)** ve doğruyu getiren(ler) kimseler ve onu doğrulayanlar işte korunanlar onlardır
+**(34)** Rablerinin yanında onlara diledikleri her şey vardır güzel davrananların mükafatı işte budur 
+**(35)** Allah’ın onlardan yaptıklarının en kötülerini örtmesi içindir ve yapıyorlar olduklarının en güzeliyle ecirlerini mükafatlandırması içindir
+**(36)** Allah kuluna kâfi değil mi? ve O’ndan başka kimselerle seni korkutuyorlar ve Allah kimi şaşırtırsa onu artık hiçbir yola getiren olmaz 
 **(37)** 
 **(38)** 
 **(39)** 
