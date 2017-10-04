@@ -75,8 +75,8 @@ tag:
 **(63)** göklerin ve yerin anahtarları O’nundur ve Allah’ın ayetlerini inkar eden(ler) kimseler işte ziyana uğrayanlar onlardır
 **(64)** de ki ey cahiller bana Allah’tan başkasına mı? kulluk etmemi emrediyorsunuz
 **(65)** ve elbette sana ve senden önceki kimselere şöyle vahyedildi andolsun eğer ortak koşarsan amelin boşa çıkar ve kaybedenlerden olursun 
-**(66)** 
-**(67)** 
+**(66)** hayır Allah’a kulluk et ve şükredenlerden ol 
+**(67)** ve Allah’ı, O’nun kadrini gereği gibi takdir edemediler ve kıyamet günü yer tamamen O’nun avucu içindedir ve gökler sağ elinde dürülmüştür O onların ortak koştuklarından münezzehtir ve yücedir 
 **(68)** 
 **(69)** 
 **(70)** 
@@ -86,4 +86,4 @@ tag:
 **(74)** 
 **(75)** 
 
-![39b]({{site.url}}/images/ayrac-muhur.png)
+[![39b]({{site.url}}/images/ayrac-muhur.png)] ({{site.url}})
