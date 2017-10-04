@@ -65,7 +65,7 @@ tag:
 **(53)** de ki nefislerine karşı aşırı giden kullarım Allah’ın rahmetinden asla umut kesmeyin şüphesiz Allah bütün günahları bağışlar çünkü O çok esirgeyendir O çok bağışlayandır
 **(54)** ve Rabbinize dönün ve azab size gelip çatmadan önce O’na teslim olun sonra asla size yardım edilmez
 **(55)** ve ansızın ve siz hiç farkına varmadan azab size gelmezden önce Rabbinizden size indirilenin en güzeline uyun 
-**(56)** 
+**(56)** Allah’ın yanında kusur edişimden dolayı nefsin vah (bana) ve ben gerçekten kimselerden, alay edenlerden oldum demesinden (sakının)
 **(57)** 
 **(58)** 
 **(59)** 
