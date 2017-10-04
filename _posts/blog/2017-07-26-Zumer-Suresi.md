@@ -33,11 +33,11 @@ tag:
 **(21)** görmedin mi? şüphesiz Allah gökten bir su indirdi sonra onu yerin içindeki kaynaklara geçirdi sonra onunla çeşitli renklerde ekin çıkarıyor sonra (ekin) kurur ve onu sararmış görürsün sonra onu bir çöp yapar şüphesiz sağduyu sahipleri için bunda bir ibret vardır
 **(22)** Rabbinden bir nur üzerinde Allah’ın göğsünü İslam’a açtığı o kimse değil midir? Allah’ı anmağa karşı yürekleri katılaşmış olanlara yazıklar olsun onlar apaçık bir sapıklık içindedirler
 **(23)** Allah ikişerli birbirine benzer sözün en güzelini bir Kitap halinde indirdi ondan kimselerin derileri ürperir sonra Rablerinden korkanların derileri ve kalbleri Allah’ın zikrine yumuşar işte bu Allah’ın rehberidir dilediği kimseyi bununla doğru yola iletir ama Allah kimi sapıklığında bırakırsa artık ona hiçbir yol gösteren olmaz 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
+**(24)** kıyamet günü azabdan en kötü yüzüyle korunmağa çalışan kimse mi? ve zalimlere kazanıyor olduğunuz şeyleri tadın denilir 
+**(25)** onlardan öncekiler, kimseler yalanladılar böylece onlara hiç farkına varmadıkları bir yönden azab geldi
+**(26)** Allah onlara dünya hayatında rezillik taddırdı ahiret azabı ise daha büyüktür keşke bilselerdi
+**(27)** ve andolsun biz insanlara bu Kur’an’da her temsili anlattık umulur ki öğüt alırlar
+**(28)** (bu) pürüzü olmayan Arapça Kur’an’dır umulur ki sakınırlar
 **(29)** 
 **(30)** 
 **(31)** 
