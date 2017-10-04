@@ -46,11 +46,11 @@ tag:
 **(34)** Rablerinin yanında onlara diledikleri her şey vardır güzel davrananların mükafatı işte budur 
 **(35)** Allah’ın onlardan yaptıklarının en kötülerini örtmesi içindir ve yapıyorlar olduklarının en güzeliyle ecirlerini mükafatlandırması içindir
 **(36)** Allah kuluna kâfi değil mi? ve O’ndan başka kimselerle seni korkutuyorlar ve Allah kimi şaşırtırsa onu artık hiçbir yola getiren olmaz 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)**
-**(41)** 
+**(37)** ve Allah kime yol gösterirse artık onu hiçbir şaşırtan olmaz aziz Allah intikam sahibi değil midir?
+**(38)** ve andolsun şayet onlara sorsan gökleri ve yeri kim? yarattı elbette Allah derler de ki o halde Allah’tan başka yalvardığınız şeyleri gördünüz mü? eğer Allah bana bir zarar vermek istese O’nun zararını onlar mı? kaldıracaklar yahut bana bir rahmet dilese O’nun rahmetini onlar mı? durduracaklar de ki Allah bana yeter O’na tevekkül edenler dayanırlar
+**(39)** de ki kavmim durumunuza göre yapın elbette ben de yapıyorum yakında bileceksiniz
+**(40)** onu rezil eden azab kime? geliyor ve sürekli azab (kimin) üzerine konuyor?
+**(41)** elbette biz Kitabı insanlar için hak ile sana indirdik artık kim doğru yola gelirse kendi yararınadır ve kim de saparsa şüphesiz kendi zararına sapmış olur ve sen onların üzerinde vekil değil(sin) 
 **(42)** 
 **(43)** 
 **(44)** 
