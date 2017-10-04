@@ -77,10 +77,10 @@ tag:
 **(65)** ve elbette sana ve senden önceki kimselere şöyle vahyedildi andolsun eğer ortak koşarsan amelin boşa çıkar ve kaybedenlerden olursun 
 **(66)** hayır Allah’a kulluk et ve şükredenlerden ol 
 **(67)** ve Allah’ı, O’nun kadrini gereği gibi takdir edemediler ve kıyamet günü yer tamamen O’nun avucu içindedir ve gökler sağ elinde dürülmüştür O onların ortak koştuklarından münezzehtir ve yücedir 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
+**(68)** ve Sur’a üflenir sonra göklerde olanlar ve yerde olanlar Allah’ın dilediği kimseler dışında ölür (bayılır) sonra ona bir daha üflenir onlar birden kalkmış bakıyorlardır
+**(69)** ve Rabbinin nuru ile yer parlar ve Kitap (ortaya) konur ve peygamberler ve şahidler getirilir ve aralarında adaletle hükmedilir ve onlara asla haksızlık edilmez
+**(70)** ve her nefse yaptığının karşılığı tam verilir ve O onların ne yaptıklarını en iyi bilendir
+**(71)** ve inkar eden(ler) kimseler bölük bölük cehenneme sürülürler nihayet oraya geldikleri zaman kapıları açılır ve onun bekçileri onlara şöyle der Rabbinizin ayetlerini size okuyan ve sizi bu gününüze kavuşacağınıza uyaran kendi aranızdan elçiler gelmedi mi? evet derler ama kafirler üzerine azab sözü hak olmuştur
 **(72)** 
 **(73)** 
 **(74)** 
