@@ -59,8 +59,8 @@ tag:
 **(47)** ve eğer o zulmedenlerin kimseler için ki olsaydı ve eğer  yeryüzünde bulunanların tümü ve onunla beraber bir misli daha olsaydı kıyamet günü kötü azabdan (kurtulmak için) onu mutlaka fidye verirlerdi ve Allah'tan hiç hesabetmedikleri şeyler onların karşılarına çıkmıştır 
 **(48)** ve yaptıkları işlerin kötülükleri kendilerine görünmüştür ve onunla alay ediyor(lar) oldukları şey onları kuşatmıştır 
 **(49)** insana bir zarar dokunduğu zaman bize du’a eder sonra bizden ona bir ni’met verdiğimiz vakit elbette der bu bana bilgi(m) sayesinde verildi hayır o bir imtihandır fakat çokları bilmiyorlar
-**(50)** 
-**(51)** 
+**(50)** elbette kimseler, onlardan öncekiler bunu demişlerdi ama kazandıkları şeyler kendilerine yararı olmadı 
+**(51)** sonra kazandıklarının kötülükleri başlarına geldi kimselere bunlardan zulmedenlere yaptıklarının kötülükleri erişecektir ve onlar engel olacak değillerdir
 **(52)** 
 **(53)** 
 **(54)** 
