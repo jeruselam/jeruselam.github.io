@@ -32,7 +32,7 @@ tag:
 **(20)** fakat onlar ki Rablerinden korkarlar onlara odalar üstüste yapılmış odalar vardır altından ırmaklar akmaktadır (bu) Allah’ın va’didir Allah va’dinden caymaz
 **(21)** görmedin mi? şüphesiz Allah gökten bir su indirdi sonra onu yerin içindeki kaynaklara geçirdi sonra onunla çeşitli renklerde ekin çıkarıyor sonra (ekin) kurur ve onu sararmış görürsün sonra onu bir çöp yapar şüphesiz sağduyu sahipleri için bunda bir ibret vardır
 **(22)** Rabbinden bir nur üzerinde Allah’ın göğsünü İslam’a açtığı o kimse değil midir? Allah’ı anmağa karşı yürekleri katılaşmış olanlara yazıklar olsun onlar apaçık bir sapıklık içindedirler
-**(23)** 
+**(23)** Allah ikişerli birbirine benzer sözün en güzelini bir Kitap halinde indirdi ondan kimselerin derileri ürperir sonra Rablerinden korkanların derileri ve kalbleri Allah’ın zikrine yumuşar işte bu Allah’ın rehberidir dilediği kimseyi bununla doğru yola iletir ama Allah kimi sapıklığında bırakırsa artık ona hiçbir yol gösteren olmaz 
 **(24)** 
 **(25)** 
 **(26)** 
