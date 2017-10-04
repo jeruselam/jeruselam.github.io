@@ -51,7 +51,7 @@ tag:
 **(39)** de ki kavmim durumunuza göre yapın elbette ben de yapıyorum yakında bileceksiniz
 **(40)** onu rezil eden azab kime? geliyor ve sürekli azab (kimin) üzerine konuyor?
 **(41)** elbette biz Kitabı insanlar için hak ile sana indirdik artık kim doğru yola gelirse kendi yararınadır ve kim de saparsa şüphesiz kendi zararına sapmış olur ve sen onların üzerinde vekil değil(sin) 
-**(42)** 
+**(42)** Allah ölümleri sırasında canları ve uykularında ölmeyen(leri) kimseleri vefat ettirir sonra üzerlerinde ölümüne hükmettiği kimseleri yanında tutar ve ötekilerini belirli bir süreye kadar salıverir şüphesiz düşünen bir toplum için bunda ibretler vardır
 **(43)** 
 **(44)** 
 **(45)** 
