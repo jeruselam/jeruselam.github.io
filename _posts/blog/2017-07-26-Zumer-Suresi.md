@@ -86,4 +86,4 @@ tag:
 **(74)** 
 **(75)** 
 
-[![39b]({{site.url}}/images/ayrac-muhur.png)](https://jeruselam.github.io)
+![39b]({{site.url}}/images/ayrac-muhur.png)
