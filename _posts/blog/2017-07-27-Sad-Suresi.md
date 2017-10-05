@@ -41,10 +41,10 @@ tag:
 **(29)** mübarek Kitab (ki) ayetlerini düşünsünler diye ve sağduyu sahipleri öğüt alsınlar diye onu sana indirdik
 **(30)** ve biz Davud’a Süleyman’ı armağan ettik şüphesiz o (Allah’a) yönelirdi ne güzel kuldu
 **(31)** hani kendisine akşam üstü safin (görkemli) (saf kan Arap) atları gösterilmişti 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
+**(32)** muhakkak ben Rabbimi anmaktan (ötürü) mal sevgisini tercih ettim dedi nihayet (atlar) perde ile gizlendi
+**(33)** getirin onları bana sonra bacaklarını ve boyunlarını okşamağa başladı 
+**(34)** ve andolsun Süleyman’ı denedik ve tahtının üstüne bir ceset bıraktık sonra (bize) yöneldi
+**(35)** Rabbim beni affet ve benden sonra hiç kimseye nasib olmayan bir mülk (hükümdarlık) ver bana dedi çünkü sensin sen çok lutfeden
 **(36)** 
 **(37)** 
 **(38)** 
