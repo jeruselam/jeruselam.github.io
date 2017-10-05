@@ -21,24 +21,24 @@ tag:
 **(9)** kovulurlar ve onlar için sürekli bir azab vardır
 **(10)** (fakat) yalnız bir söz kapan kimseyi onu delici bir şihab (ışın) izler 
 **(11)** şimdi onlara sor yaratılış bakımından kendileri mi? daha çetin yoksa bizim yarattıklarımız kimseler (mi?) elbette onları biz yarattık
-**(12)** 
-**(13)** 
-**(14)** 
-**(15)** 
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
-**(29)** 
+**(12)** hayır sen şaşıyorsun onlar ise alay ediyorlar
+**(13)** ve ne zaman öğüt verilse öğüt almazlar
+**(14)** ve ne zaman bir mu’cize görseler alay ederler
+**(15)** ve bu apaçık bir büyüden başka bir şey değildir diyorlar 
+**(16)** öldüğümüz ve toprak ve kemik olduğumuz zaman mı? biz mi? diriltileceğiz
+**(17)** evvelki atalarımız da mı?
+**(18)** de ki evet ve siz aşağılanacaksınız
+**(19)** o (iş) sadece bir tek korkunç sesten ibarettir onlar hemen bakıp kalırlar
+**(20)** ve vah bize dediler bu ceza günüdür
+**(21)** bu onu yalanlıyor olduğunuz hüküm günüdür
+**(22)** (o) zalim(leri) kimseleri ve onların eşlerini ve tapıyor(lar) olduklarını toplayın 
+**(23)** Allah’tan başka onları cehennemin yoluna götürün
+**(24)** ve durdurun onları çünkü onlar sorguya çekileceklerdir
+**(25)** size ne oldu ki? birbirinize yardım etmiyorsunuz
+**(26)** hayır onlar o gün teslim olmuşlardır
+**(27)** ve döner bir kısmı diğerine sorar
+**(28)** dediler ki şüphesiz siz bize sağdan gelirdiniz
+**(29)** hayır dediler zaten siz inanan insanlar değildiniz 
 **(30)** 
 **(31)** 
 **(32)** 
