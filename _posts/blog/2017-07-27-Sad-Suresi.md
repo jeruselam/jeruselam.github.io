@@ -14,11 +14,11 @@ tag:
 **(2)** doğrusu inkar eden(ler) kimseler bir gurur ve ayrılık içindedirler
 **(3)** onlardan önceki nesillerden nicesini helak ettik feryad ettiler fakat kurtuluş zamanı geçmişti 
 **(4)** ve onlara kendilerinden bir uyarıcı (peygamber) gelmesine hayret ettiler ve kafirler dedi(ler) ki bu yalancı bir sihirbazdır
-**(5)** 
-**(6)** 
-**(7)** 
-**(8)** 
-**(9)** 
+**(5)** tanrıları bir tek tanrı yaptı mı? şüphesiz bu tuhaf bir şeydir
+**(6)** ve onlardan bir grup fırladı yürüyün ve tanrılarınıza bağlı kalın çünkü bu arzu edilen bir şeydir
+**(7)** biz bunu öteki dinde işitmedik bu uydurma(dan) başka bir şey değildir
+**(8)** aramızdan ona Zikr indirildi mi? doğrusu onlar benim Zikr’imden şüphe içindedirler hayır onlar azabımı henüz tadmadılar
+**(9)** yoksa daima üstün olan çok lutufta bulunan Rabbinin rahmet hazineleri onların yanında (mı?
 **(10)** 
 **(11)** 
 **(12)** 
