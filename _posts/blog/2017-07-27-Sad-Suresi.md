@@ -53,20 +53,20 @@ tag:
 **(41)** ve kulumuz Eyyub’u an hani Rabbine seslenmişti bana şeytan bir yorgunluk ve azab dokundurdu 
 **(42)** ayağını (yere) vur (işte) bu yıkanacak ve içilecek serin (bir su) 
 **(43)** ve bizden bir rahmet olarak ve sağduyu sahiplerine bir ibret olarak ailesini ve onlarla beraber bir eşini ona armağan ettik 
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)** 
-**(57)** 
+**(44)** ve eline bir demet sap al ve onunla vur ve asla yeminini bozma gerçekten biz onu sabreden (bir kul) bulmuştuk ne güzel kuldu o daima (bize) başvururdu
+**(45)** ve kullarımız İbrahim’i ve İshak’ı ve kuvvet sahibi ve basiretli Ya’kub’u an 
+**(46)** elbette ahiret yurdu düşüncesiyle samimiyetle biz onları ihlaslı (kul) yaptık 
+**(47)** ve onlar bizim yanımızda seçkinlerdendir hayırlılardandır
+**(48)** ve an İsma’il’i ve Elyesa’ı ve Zülkifil’i ve Zülkifil’i hepsi de iyilerdendir
+**(49)** bu bir hatırlamadır ve gerçekten korunanlar için güzel bir gelecek vardır
+**(50)** kapıları kendilerine açılmış Adn cennetleri
+**(51)** orada (koltuklara) yaslanılar orada bir çok meyva ve içki isterler
+**(52)** ve yanlarında bakışlarını (eşlerine) diken yaşıt dilberler (vardır) 
+**(53)** hesap günü için size söz verilen şey işte budur
+**(54)** doğrusu bu bizim rızkımızın, onun hiç bitip tükenmesi yoktur
+**(55)** bu böyledir ve fakat elbette azgınlara en kötü bir gelecek vardır 
+**(56)** cehennem oraya girerler ne kötü bir döşektir
+**(57)** işte onu tadsınlar kaynar ve kokuşmuşdur
 **(58)** 
 **(59)** 
 **(60)** 
