@@ -45,7 +45,7 @@ tag:
 **(33)** getirin onları bana sonra bacaklarını ve boyunlarını okşamağa başladı 
 **(34)** ve andolsun Süleyman’ı denedik ve tahtının üstüne bir ceset bıraktık sonra (bize) yöneldi
 **(35)** Rabbim beni affet ve benden sonra hiç kimseye nasib olmayan bir mülk (hükümdarlık) ver bana dedi çünkü sensin sen çok lutfeden
-**(36)** 
+**(36)** biz ona rüzgarı boyun eğdirdik istediği yere onun buyruğuyla tatlı tatlı eserdi 
 **(37)** 
 **(38)** 
 **(39)** 
