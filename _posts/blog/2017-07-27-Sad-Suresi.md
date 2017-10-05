@@ -50,9 +50,9 @@ tag:
 **(38)** ve birbirine zincirlerle bağlanmış başka (şeytan)ları 
 **(39)** bu bizim ihsanımızdır artık dilediğine ver veya verme hesabı yoktur
 **(40)** ve şüphesiz onun için bizim yanımızda bir yakınlık vardır ve güzel bir gelecek
-**(41)** 
-**(42)** 
-**(43)** 
+**(41)** ve kulumuz Eyyub’u an hani Rabbine seslenmişti bana şeytan bir yorgunluk ve azab dokundurdu 
+**(42)** ayağını (yere) vur (işte) bu yıkanacak ve içilecek serin (bir su) 
+**(43)** ve bizden bir rahmet olarak ve sağduyu sahiplerine bir ibret olarak ailesini ve onlarla beraber bir eşini ona armağan ettik 
 **(44)** 
 **(45)** 
 **(46)** 
