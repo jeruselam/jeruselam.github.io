@@ -67,36 +67,36 @@ tag:
 **(55)** bu böyledir ve fakat elbette azgınlara en kötü bir gelecek vardır 
 **(56)** cehennem oraya girerler ne kötü bir döşektir
 **(57)** işte onu tadsınlar kaynar ve kokuşmuşdur
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)** 
-**(88)** 
+**(58)** ve daha başka (vardır) ona (azaba) çeşit çeşit benzer
+**(59)** işte şunlar sizinle beraber (cehenneme) girecek guruptur onlara merhaba yoktur onlar ateşe gireceklerdir
+**(60)** dediler ki hayır asıl size, size merhaba yoktur siz bunu bizim önümüze getirdiniz ne kötü durak
+**(61)** dediler Rabbimiz bunu bizim önümüze kim getirdiyse onun ateşteki azabını bir kat daha artır 
+**(62)** ve ne oldu ki? bize dediler kötülerden saydığımız adamları görmüyoruz
+**(63)** hani onları alay konusu edinirdik yoksa gözler(imiz) onlardan kaydı (mı?) 
+**(64)** mutlaka bu gerçektir ateş halkının tartışmasıdır
+**(65)** de ki ancak ben bir uyarıcıyım ve tek kahreden Allah’tan başka hiçbir tanrı yoktur 
+**(66)** göklerin ve yerin ve ikisi arasında olanların Rabbidir daima üstündür çok bağışlayandır
+**(67)** de ki O büyük bir haberdir
+**(68)** siz ondan yüz çeviriyorsunuz
+**(69)** yüce topluluk tartıştıkları sırada benim hiçbir bilgi(m) yoktu
+**(70)** ben sadece apaçık bir uyarıcı (olduğum için) dışında bana vahyedilmiyor
+**(71)** hani Rabbin meleklere demişti ki elbette ben çamurdan bir insan yaratacağım
+**(72)** onu biçimlendirdiğim ve ona ruhumdan üflediğim zaman derhal ona secdeye kapanın 
+**(73)** melekler hepsi tüm olarak secde ettiler
+**(74)** İblis dışında, o büyüklük tasladı ve kafirlerden oldu
+**(75)** dedi ki, İblis iki elimle yarattığıma secde etmekten seni alıkoyan nedir? büyüklük mü tasladın? yoksa yücelerden (mi) oldun?
+**(76)** dedi ben ondan iyiyim beni ateşten yarattın onu ise çamurdan yarattın 
+**(77)** buyurdu ki haydi çık oradan şüphesiz sen kovuldun
+**(78)** ve şüphesiz lanetim ceza gününe kadar senin üzerinedir
+**(79)** Rabbim dedi öyleyse bana yeniden dirilecekleri güne kadar süre ver 
+**(80)** buyurdu elbette sen süre verilenlerdensin
+**(81)** bilinen vaktin gününe kadar
+**(82)** senin izzetine and olsun ki onları, tümünü azdıracağım dedi
+**(83)** onlardan ihlaslı kulların dışında
+**(84)** buyurdu ki gerçektir ve gerçekten ben diyorum ki
+**(85)** elbette senden ve onlar içinde tümüyle sana uyan kimselerden cehennemi dolduracağım
+**(86)** de ki ben sizden buna karşı hiçbir ücret istemiyorum ve ben yapmacık yapanlardan değil(im) 
+**(87)** O (Kur’an) bütün alemlere öğüt(ten) başkası değildir
+**(88)** bir süre sonra onun haberini gayet iyi bileceksiniz
 
 ![38s]({{site.url}}/images/ayrac-muhur.png)
