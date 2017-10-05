@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sâffât
-description: s.
+description: Saf yapanlar, saf ve temiz olma.
 excerpt: "37'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
@@ -10,17 +10,17 @@ tag:
 
 ## 37. Sâffât Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)** 
-**(7)** 
-**(8)** 
-**(9)** 
-**(10)** 
-**(11)** 
+**(1)** andolsun sıra sıra dizilenlere
+**(2)** ve bağırıp sürenlere
+**(3)** ve zikir okuyanlara 
+**(4)** şüphesiz Tanrınız elbette birdir
+**(5)** göklerin ve yerin Rabbidir ve bunlar arasında ne varsa ve doğuların Rabbidir
+**(6)** elbette biz bir zinetle, dünya semasını yıldızlarla süsledik
+**(7)** ve ita’at dışına çıkan her türlü şeytana karşı (onu) koruduk 
+**(8)** yüce melekleri dinleyemezler ve her yandan taşlanırlar 
+**(9)** kovulurlar ve onlar için sürekli bir azab vardır
+**(10)** (fakat) yalnız bir söz kapan kimseyi onu delici bir şihab (ışın) izler 
+**(11)** şimdi onlara sor yaratılış bakımından kendileri mi? daha çetin yoksa bizim yarattıklarımız kimseler (mi?) elbette onları biz yarattık
 **(12)** 
 **(13)** 
 **(14)** 
