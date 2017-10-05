@@ -46,10 +46,10 @@ tag:
 **(34)** ve andolsun Süleyman’ı denedik ve tahtının üstüne bir ceset bıraktık sonra (bize) yöneldi
 **(35)** Rabbim beni affet ve benden sonra hiç kimseye nasib olmayan bir mülk (hükümdarlık) ver bana dedi çünkü sensin sen çok lutfeden
 **(36)** biz ona rüzgarı boyun eğdirdik istediği yere onun buyruğuyla tatlı tatlı eserdi 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)**
+**(37)** ve şeytanları, her bina ustasını ve dalgıcı
+**(38)** ve birbirine zincirlerle bağlanmış başka (şeytan)ları 
+**(39)** bu bizim ihsanımızdır artık dilediğine ver veya verme hesabı yoktur
+**(40)** ve şüphesiz onun için bizim yanımızda bir yakınlık vardır ve güzel bir gelecek
 **(41)** 
 **(42)** 
 **(43)** 
