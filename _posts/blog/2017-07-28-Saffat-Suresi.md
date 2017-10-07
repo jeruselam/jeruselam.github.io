@@ -15,7 +15,7 @@ tag:
 **(3)** ve zikir okuyanlara 
 **(4)** şüphesiz Tanrınız elbette birdir
 **(5)** göklerin ve yerin ve bunlar arasında ne varsa Rabbidir ve doğuların Rabbidir
-**(6)** elbette biz dünya semasını bir zinetle yıldızlarla süsledik
+**(6)** elbette biz dünya semasını bir zinetle, yıldızlarla süsledik
 **(7)** ve ita’at dışına çıkan her türlü şeytana karşı (onu) koruduk 
 **(8)** yüce melekleri dinleyemezler ve her yandan taşlanırlar 
 **(9)** kovulurlar ve onlar için sürekli bir azab vardır
