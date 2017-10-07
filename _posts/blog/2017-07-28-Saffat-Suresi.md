@@ -55,35 +55,35 @@ tag:
 **(43)** Ni’met	cennetlerinde
 **(44)** tahtlar üzerinde karşılıklı otururlar
 **(45)** önlerinde akan kaynaktan kadehler dolaştırılır
-**(46)** 
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
-**(72)** 
-**(73)** 
-**(74)** 
+**(46)** içenler için lezzetli berrak
+**(47)** onda sersemletme yoktur ve onlar onunla sarhoş olmazlar 
+**(48)** ve yanlarında kendilerini bakışlarıyla hapsetmiş iri gözlü (eşler) (vardır) 
+**(49)** onlar bembeyaz saklı yumurta gibi (eşlerdir) 
+**(50)** biri diğerine dönmüş soruyorlar
+**(51)** onlardan bir sözcü şüphesiz benim bir arkadaşım vardı dedi
+**(52)** derdi ki sen doğrulayan(lar) kimseler(den) misin? 
+**(53)** biz öldüğümüz ve toprak ve kemik olduğumuz zaman mı? biz mi? cezalanacağız
+**(54)** dedi ki siz bakar mısınız?
+**(55)** baktı cehennemin ortasında onu gördü
+**(56)** tallahi dedi sen az daha beni de alçaltacaktın
+**(57)** ve Rabbimin ni’meti olmasaydı şimdi ben de (oraya) getirilenlerden olurdum 
+**(58)** biz öleceklerden değil miyiz?
+**(59)** ilk ölümümüz dışında ve biz azaba uğratılcak değiliz 
+**(60)** gerçekten bu büyük başarının ta kendisidir
+**(61)** çalışanlar bunun misli gibi çalışsınlar 
+**(62)** ağırlanmak için bu mu? hayırlı yoksa zakkum ağacı (mı?)
+**(63)** elbette biz onu zalimler için bir fitne (sınav) yaptık
+**(64)** elbette o cehennemin dibinde çıkan bir ağaçtır
+**(65)** tomurcukları şeytanların başları gibidir
+**(66)** onlar ondan yiyeceklerdir ve karınlarını onunla dolduracaklardır 
+**(67)** sonra şüphesiz onların bunun üzerine kaynar sudan bir içkileri vardır 
+**(68)** sonra elbette dönecekleri yer mutlaka cehennemdir
+**(69)** çünkü onlar babalarını sapık kimseler buldular
+**(70)** kendileri de onların izleri üzerinde koşturuyorlar
+**(71)** ve andolsun evvelkilerin çoğu onlardan önce sapmıştı
+**(72)** ve andolsun biz onların içine uyarıcılar göndermiştik
+**(73)** uyarılanların sonu bak nasıl oldu
+**(74)** ancak Allah’ın halis kulları hariçtir 
 **(75)** 
 **(76)** 
 **(77)** 
