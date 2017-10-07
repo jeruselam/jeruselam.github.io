@@ -14,12 +14,12 @@ tag:
 **(2)** ve bağırıp sürenlere
 **(3)** ve zikir okuyanlara 
 **(4)** şüphesiz Tanrınız elbette birdir
-**(5)** göklerin ve yerin Rabbidir ve bunlar arasında ne varsa ve doğuların Rabbidir
-**(6)** elbette biz bir zinetle, dünya semasını yıldızlarla süsledik
+**(5)** göklerin ve yerin ve bunlar arasında ne varsa Rabbidir ve doğuların Rabbidir
+**(6)** elbette biz dünya semasını bir zinetle yıldızlarla süsledik
 **(7)** ve ita’at dışına çıkan her türlü şeytana karşı (onu) koruduk 
 **(8)** yüce melekleri dinleyemezler ve her yandan taşlanırlar 
 **(9)** kovulurlar ve onlar için sürekli bir azab vardır
-**(10)** (fakat) yalnız bir söz kapan kimseyi onu delici bir şihab (ışın) izler 
+**(10)** (fakat) yalnız bir söz kapan kimseyi, onu delici bir şihab (ışın) izler 
 **(11)** şimdi onlara sor yaratılış bakımından kendileri mi? daha çetin yoksa bizim yarattıklarımız kimseler (mi?) elbette onları biz yarattık
 **(12)** hayır sen şaşıyorsun onlar ise alay ediyorlar
 **(13)** ve ne zaman öğüt verilse öğüt almazlar
@@ -32,21 +32,21 @@ tag:
 **(20)** ve vah bize dediler bu ceza günüdür
 **(21)** bu onu yalanlıyor olduğunuz hüküm günüdür
 **(22)** (o) zalim(leri) kimseleri ve onların eşlerini ve tapıyor(lar) olduklarını toplayın 
-**(23)** Allah’tan başka onları cehennemin yoluna götürün
+**(23)** Allah’tan başka, onları cehennemin yoluna götürün
 **(24)** ve durdurun onları çünkü onlar sorguya çekileceklerdir
 **(25)** size ne oldu ki? birbirinize yardım etmiyorsunuz
 **(26)** hayır onlar o gün teslim olmuşlardır
 **(27)** ve döner bir kısmı diğerine sorar
 **(28)** dediler ki şüphesiz siz bize sağdan gelirdiniz
 **(29)** hayır dediler zaten siz inanan insanlar değildiniz 
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
+**(30)** ve bizim sizi zorlayacak hiçbir gücümüz yoktu bilakis siz azgın bir toplum idiniz
+**(31)** Rabbimizin sözü artık bize hak oldu elbette biz tadacağız
+**(32)** sizi azdırdık çünkü biz kendimiz azmıştık
+**(33)** onlar o gün azabda ortaktırlar
+**(34)** biz suçlulara işte böyle yaparız
+**(35)** çünkü onlara Allah’tan başka tanrı yoktur dendiği zaman onlar büyüklük tasıyor(lar) idiler
+**(36)** ve cinlenmiş bir şair için tanrılarımızı biz mi? terk edeceğiz derlerdi 
+**(37)** hayır o gerçeği getirmişti ve elçileri doğrulamıştı 
 **(38)** 
 **(39)** 
 **(40)**
