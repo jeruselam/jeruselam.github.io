@@ -115,16 +115,16 @@ tag:
 **(103)** ne zaman ki ikisi (Allah’ın emrine) teslim oludu ve (çocuğu) alnı üzerine yıktı 
 **(104)** ve biz ona İbrahim diye seslendik 
 **(105)** andolsun sen rüyayı doğruladın elbette biz güzel davrananları işte böyle mükafatlandırırız
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
-**(110)** 
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
-**(115)** 
+**(106)** gerçekten bu muhakkak o apaçık bir imtihandır
+**(107)** ve fidye olarak ona büyük bir kurbanlık verdik 
+**(108)** ve sonra gelenler arasında ona (iyi bir ün) bıraktık 
+**(109)** İbrahim üzerine selam olsun 
+**(110)** biz güzel davrananları işte böyle mükafatlandırırız
+**(111)** çünkü o bizim mü’min kullarımızdandı
+**(112)** ve bir peygamber olarak ona iyilerden İshak’ı müjdeledik 
+**(113)** ve kendisine ve onların neslinden İshak’a bereketler verdik iyi hareket eden de ve kendisine açıkça zulmeden de var 
+**(114)** ve andolsun Musa’ya ve Harun’a lutuflarda bulunduk 
+**(115)** ve onları ve kavimlerini büyük sıkıntıdan kurtardık 
 **(116)** 
 **(117)** 
 **(118)** 
