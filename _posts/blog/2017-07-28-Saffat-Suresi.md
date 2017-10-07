@@ -125,18 +125,18 @@ tag:
 **(113)** ve kendisine ve onların neslinden İshak’a bereketler verdik iyi hareket eden de ve kendisine açıkça zulmeden de var 
 **(114)** ve andolsun Musa’ya ve Harun’a lutuflarda bulunduk 
 **(115)** ve onları ve kavimlerini büyük sıkıntıdan kurtardık 
-**(116)** 
-**(117)** 
-**(118)** 
-**(119)** 
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
-**(124)** 
-**(125)** 
-**(126)** 
-**(127)** 
+**(116)** ve onlara yardım ettik böylece kendileri üstün gelenler(den) oldular 
+**(117)** ve onlara açık ifadeli Kitabı verdik 
+**(118)** ve onları doğru yola ilettik
+**(119)** ve sonra gelenler arasında onlara (iyi bir ün) bıraktık 
+**(120)** Musa’ya ve Harun’a selam olsun 
+**(121)** elbette biz güzel davrananları işte böyle mükafatlandırırız
+**(122)** çünkü ikisi de bizim inanan kullarımızdandı
+**(123)** ve şüphesiz İlyas elçilerdendi
+**(124)** kavmine demişti ki hani korunmaz mısınız?
+**(125)** Ba’l’e mi yalvarıyorsunuz? ve yaratıcıların en güzelini bırakıyorsunuz 
+**(126)** sizin Rabbiniz ve önceki atalarınızın Rabbi Allah’ı? 
+**(127)** onu yalanladılar bundan dolayı onlar (azaba) getirileceklerdir
 **(128)** 
 **(129)** 
 **(130)** 
