@@ -47,14 +47,14 @@ tag:
 **(35)** çünkü onlara Allah’tan başka tanrı yoktur dendiği zaman onlar büyüklük tasıyor(lar) idiler
 **(36)** ve cinlenmiş bir şair için tanrılarımızı biz mi? terk edeceğiz derlerdi 
 **(37)** hayır o gerçeği getirmişti ve elçileri doğrulamıştı 
-**(38)** 
-**(39)** 
-**(40)**
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
-**(45)** 
+**(38)** şüphesiz siz acı azabı tadacaksınız
+**(39)** ve yapmış olduğunuz şeyler dışında cezalandırılmayacaksınız
+**(40)** (ve) Allah’ın halis kulları hariçtir 
+**(41)** işte onlar için bilinen bir rızık vardır
+**(42)** (türlü) meyvalar ve onlar ağırlanırlar
+**(43)** Ni’met	cennetlerinde
+**(44)** tahtlar üzerinde karşılıklı otururlar
+**(45)** önlerinde akan kaynaktan kadehler dolaştırılır
 **(46)** 
 **(47)** 
 **(48)** 
