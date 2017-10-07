@@ -137,33 +137,33 @@ tag:
 **(125)** Ba’l’e mi yalvarıyorsunuz? ve yaratıcıların en güzelini bırakıyorsunuz 
 **(126)** sizin Rabbiniz ve önceki atalarınızın Rabbi Allah’ı? 
 **(127)** onu yalanladılar bundan dolayı onlar (azaba) getirileceklerdir
-**(128)** 
-**(129)** 
-**(130)** 
-**(131)** 
-**(132)** 
-**(133)** 
-**(134)** 
-**(135)** 
-**(136)** 
-**(137)** 
-**(138)** 
-**(139)** 
-**(140)**
-**(141)** 
-**(142)** 
-**(143)** 
-**(144)** 
-**(145)** 
-**(146)** 
-**(147)** 
-**(148)** 
-**(149)** 
-**(150)** 
-**(151)** 
-**(152)** 
-**(153)** 
-**(154)** 
+**(128)** yalnız Allah’ın halis kulları hariçtir 
+**(129)** sonra gelenler arasında biz ona (iyi bir ün) bıraktık 
+**(130)** İlyas’a selam olsun
+**(131)** elbette biz güzel davrananları işte böyle mükafatlandırırız 
+**(132)** çünkü o bizim mü’min kullarımızdandı 
+**(133)** ve şüphesiz Lut gönderilen elçilerdendi
+**(134)** hani onu ve ailesini, hepsini kurtarmıştık 
+**(135)** (azabda) kalacaklar arasında bulunan acuze bir kadın dışında
+**(136)** sonra ötekileri kırdık (geçirdik)
+**(137)** şüphesiz siz onların yanlarından sabahleyin geçip gidiyorsunuz
+**(138)** ve geceleyin, düşünmüyor musunuz?
+**(139)** ve şüphesiz Yunus gönderilen elçilerdendi
+**(140)** hani dolu gemiye kaçmıştı
+**(141)** kur’a çekti ve yenilenlerden oldu 
+**(142)** ve sonra onu o kendi kendisini kınarken balık yuttu 
+**(143)** eğer ki o tesbih edenlerden olmasaydı
+**(144)** yeniden diriltilecekleri güne kadar onun karnında kalırdı
+**(145)** ve o hasta bir halde iken onu ağaçsız çıplak bir yere attık 
+**(146)** ve asma kabak bir ağacı üzerine bitirdik 
+**(147)** ve onu yüz bin (insan)a ya da daha fazlasına elçi gönderdik
+**(148)** ve inandılar biz de onları bir süreye kadar geçindirdik
+**(149)** şimdi onlara sor kızlar Rabbine (mi?) onlara da oğlanlar (mı?)
+**(150)** ve yoksa melekleri onlar görüyorlarken dişi olarak (mı?) yarattık
+**(151)** iyi bilin ki elbette onlar iftiraları yüzünden diyorlar ki 
+**(152)** Allah doğurdu ve onlar elbette yalancıdırlar
+**(153)** oğlanlara karşı kızları tercih mi etmiş? 
+**(154)** ne? size (ne) oldu? nasıl hüküm veriyorsunuz
 **(155)** 
 **(156)** 
 **(157)** 
