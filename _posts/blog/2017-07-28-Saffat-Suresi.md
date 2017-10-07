@@ -84,37 +84,37 @@ tag:
 **(72)** ve andolsun biz onların içine uyarıcılar göndermiştik
 **(73)** uyarılanların sonu bak nasıl oldu
 **(74)** ancak Allah’ın halis kulları hariçtir 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)** 
-**(88)** 
-**(89)** 
-**(90)** 
-**(91)** 
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
-**(99)** 
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
+**(75)** ve andolsun Nuh bize yalvarmıştı ne güzel kabul buyurmuştuk
+**(76)** onu ve ailesini büyük sıkıntıdan kurtarmıştık 
+**(77)** ve onun zürriyetini, onları kalıcı yaptık 
+**(78)** ve ona sonra gelenler arasında (iyi bir ün) bıraktık 
+**(79)** alemler içinde Nuh’a selam olsun 
+**(80)** şüphesiz biz güzel davrananları işte böyle mükafatlandırırız
+**(81)** çünkü o bizim inanan kullarımızdandır 
+**(82)** sonra ötekilerini suda boğduk
+**(83)** ve şüphesiz İbrahim de onun kolundan idi
+**(84)** zira Rabbine tertemiz bir kalb ile gelmişti
+**(85)** hani babasına ve kavmine demişti ki neye tapıyorsunuz
+**(86)** Allah’ı bırakıp uydurma tanrılar (mı?) istiyorsunuz
+**(87)** alemlerin Rabbi hakkında zannınız nedir?
+**(88)** yıldızlara göz atarak baktı 
+**(89)** ve elbette ben hastayım dedi 
+**(90)** bunun üzerine arkalarını dönüp ondan kaçtılar 
+**(91)** o da onların tanrılarına gizlice sokuldu ve yemez misini? dedi 
+**(92)** neyiniz var? konuşmuyorsunuz
+**(93)** ve gizlice sokulup sağ eliyle üzerlerine darbe indirdi
+**(94)** hemen koşarak ona gittiler 
+**(95)** yonttuğunuz şeylere mi tapıyorsunuz? dedi 
+**(96)** oysa sizi ve yaptığınız (bu şeyleri) Allah yaratmıştır
+**(97)** onun için bir bina yapın ve onu ateşe atın dediler
+**(98)** ve ona bir tuzak kurmak istediler biz de onları aşağılıklardan kıldık
+**(99)** ve dedi ki elbette ben Rabbime gideceğim O beni doğru yola iletecek
+**(100)** Rabbim bana iyilerden (bir çocuk) lutfet
+**(101)** ona halim bir erkek çocuk müjdeledik 
+**(102)** ne zaman ki (çocuk) onun yanında koşma çağına erişince (İbrahim ona) yavrum dedi şüphesiz ki ben uykuda görüyorum, ben seni kesiyorum (düşün) bak görüyorsun ne? (dersin) babacığım dedi sana emredilen şeyi yap eğer Allah dilerse beni sabredenlerden bulacaksın 
+**(103)** ne zaman ki ikisi (Allah’ın emrine) teslim oludu ve (çocuğu) alnı üzerine yıktı 
+**(104)** ve biz ona İbrahim diye seslendik 
+**(105)** andolsun sen rüyayı doğruladın elbette biz güzel davrananları işte böyle mükafatlandırırız
 **(106)** 
 **(107)** 
 **(108)** 
