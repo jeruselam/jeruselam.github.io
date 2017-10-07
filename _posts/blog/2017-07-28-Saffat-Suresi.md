@@ -164,33 +164,33 @@ tag:
 **(152)** Allah doğurdu ve onlar elbette yalancıdırlar
 **(153)** oğlanlara karşı kızları tercih mi etmiş? 
 **(154)** ne? size (ne) oldu? nasıl hüküm veriyorsunuz
-**(155)** 
-**(156)** 
-**(157)** 
-**(158)** 
-**(159)** 
-**(160)** 
-**(161)** 
-**(162)** 
-**(163)** 
-**(164)** 
-**(165)** 
-**(166)** 
-**(167)** 
-**(168)** 
-**(169)** 
-**(170)** 
-**(171)** 
-**(172)** 
-**(173)** 
-**(174)** 
-**(175)** 
-**(176)** 
-**(177)** 
-**(178)** 
-**(179)** 
-**(180)** 
-**(181)** 
-**(182)** 
+**(155)** hiç mi düşünmüyorsunuz?
+**(156)** yoksa sizin açık bir deliliniz (mi var?) 
+**(157)** eğer doğrulardan iseniz Kitabınızı getirin
+**(158)** ve O’nunla cinler arasında bir nesep uydurdular oysa cinler kendilerinin (yüce divana) getirileceklerini bilmişlerdir
+**(159)** onların taktıkları sıfatlardan Allah (münezzehtir) yücedir
+**(160)** fakat Allah’ın temiz kulları hariçtir 
+**(161)** ne siz ve ne de taptıklarınız
+**(162)** siz O’na karşı saptıracak değil(siniz)
+**(163)** cehenneme girecek O kimseden başkasını
+**(164)** ve bizden kimsenin onun dışında bilinen bir makamı yoktur
+**(165)** ve elbette o saf saf dizilenler biziz, muhakkak biz
+**(166)** ve elbette o tesbih edenler biziz, muhakkak biz
+**(167)** ve elbette onlar şöyle diyorlardı
+**(168)** eğer yanımızda öncekilerden bir uyarı olsaydı kuşkusuz
+**(169)** elbette biz Allah’ın halis kulları olurduk 
+**(170)** ama onu inkar ettiler yakında bileceklerdir
+**(171)** ve andolsun kullarımıza şu sözümüz geçmişti gönderilen elçi
+**(172)** mutlaka onlar, kendileri zafere ulaştırılanlar olacaktır 
+**(173)** ve mutlaka bizim ordumuz onlara galip gelecektir
+**(174)** o halde bir süreye kadar onlardan dön 
+**(175)** onları gözetle yakında göreceklerdir
+**(176)** bizim azabımızı mı? acele istiyorlar
+**(177)** yurtlarına (azab) indiği zaman uyarılmış olanların sabahı ne kötü olur 
+**(178)** ve bir süreye kadar onlardan uzaklaş 
+**(179)** ve (bekle de) gör yakında onlar da göreceklerdir
+**(180)** kudret ve şeref sahibi Rabbin onların nitelendirmelerinden yücedir
+**(181)** ve gönderilen elçiler üzerine selam olsun 
+**(182)** ve alemlerin Rabbi Allah’a hamd olsun 
 
 ![37s]({{site.url}}/images/ayrac-muhur.png)
