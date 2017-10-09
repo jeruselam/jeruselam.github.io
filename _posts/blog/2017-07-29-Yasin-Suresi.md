@@ -36,18 +36,18 @@ tag:
 **24** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
 **25** şüphesiz ben sizin Rabbinize inandım beni dinleyin
 **26** cennete gir! denilince dedi ki keşke kavmim bilseydi
-**27**
-**28**
-**29**
-**30**
-**31**
-**32**
-**33**
-**34**
-**35**
-**36**
-**37**
-**38**
+**27** Rabbimin beni ne yüzden bağışladığını ve beni ağırlananlardan kıldığını 
+**28** ve biz ondan sonra kavminin üzerine gökten hiçbir ordu indirmedik ve indirici değildik
+**29** hayır sadece bir tek korkunç gürültü oldu hemen onlar sönüverdiler
+**30** yazık şu kullara hiçbir elçi onlara gelmez ki mutlaka onlar onunla alay ederlerdi
+**31** kendilerinden önce nice nesillerden yok ettik görmediler mi? onlar kendilerine bir daha dönmezler
+**32** ancak hepsi huzurumuza toplandığı zaman getirileceklerdir
+**33** ve onlar için ölü toprak bir ayettir biz onu dirilttik ve ondan dane çıkardık ve ondan yiyorlar
+**34** ve orada hurma ve üzüm bahçeleri yarattık ve orada çeşmelerden akıttık 
+**35** onun ürününden ve ellerinin emeğinden yemeleri için hala şükretmiyorlar mı?
+**36** O (Allah) ki ne yücedir toprağın bitirdiklerinden ve kendilerinden ve bilmedikleri nice şeylerden bütün çiftleri yaratmıştır 
+**37** ve gece onlar için bir ayettir gündüzü ondan soyup alırız onlar birden karanlıkta kalıverirler
+**38** ve güneş kendinin karar bulacağı yere akıp gider bu üstün olanın ve bilenin takdiridir
 **39**
 **40**
 **41**
