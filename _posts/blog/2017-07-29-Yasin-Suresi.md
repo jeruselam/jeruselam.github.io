@@ -25,12 +25,12 @@ tag:
 **13** ve onlara elçiler geldiği zaman şu kent halkını misal olarak anlat 
 **14** biz onlara iki (elçi) gönderdik onları yalanladılar biz de üçüncüsüyle destekledik dediler ki biz elbette size gönderilen elçileriz
 **15** dediler ki siz bizim gibi insandan başka bir şey değilsiniz ve Rahman hiçbir şey indirmemiştir hayır! siz sadece yalan söylüyorsunuz
-**16**
-**17**
-**18**
-**19**
-**20**
-**21**
+**16** dediler ki Rabbimiz bilir ki biz elbette size gönderilmiş elçileriz
+**17** ve üzerimize düşen açıkça duyurmaktan başka bir şey yoktur 
+**18** dediler ki doğrusu biz sizin yüzünüzden uğursuzluğa uğradık eğer vazgeçmezseniz sizi mutlaka taşlarız ve size bizden acıklı bir azab dokunur 
+**19** dediler ki uğursuzluğunuz sizin kendinizdedir size öğüt verildiği için mi? hayır siz aşırı giden bir kavimsiniz
+**20** ve bir adam koşarak kentin en uzak yerinden geldi kavmim elçilere uyun dedi
+**21** sizden bir ücret istemeyen kimselere uyun ve onlar doğru yoldadırlar
 **22**
 **23**
 **24**
