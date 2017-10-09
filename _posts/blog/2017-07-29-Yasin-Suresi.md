@@ -10,16 +10,16 @@ tag:
 
 ## 36. Yâsîn Sûresi
 
-**(1)** Yâ Sîn
-**(2)** hikmetli Kur’an’a andolsun
-**(3)** kuşkusuz sen gönderilmiş elçilerdensin
-**(4)** dosdoğru bir yol üzerinde
-**(5)** çok esirgeyenin üstün olanın indirdiği (üzerindesin)
-**(6)** babaları uyarılmamış bir toplumu uyarman için bu yüzden onlar gaflet içindedirler
-**(7)** andolsun onların çoğu üzerine o söz hak oldu artık onlar inanmazlar
-**(8)** elbette biz onların boyunlarına halkalar geçirdik o (halkalar) çenelere kadar dayanır bu yüzden onların kafaları kalkıktır
-**(9** ve önlerinden, önlerinden bir sed ve arkalarından bir sed kıldık (çektik) ve onları kapattık artık onlar görmezler
-**(10)** uyarsan (da) yada uyarmasan (da) onlar için birdir inanmazlar
+**1** Yâ Sîn
+**2** hikmetli Kur’an’a andolsun
+**3** kuşkusuz sen gönderilmiş elçilerdensin
+**4** dosdoğru bir yol üzerinde
+**5** çok esirgeyenin üstün olanın indirdiği (üzerindesin)
+**6** babaları uyarılmamış bir toplumu uyarman için bu yüzden onlar gaflet içindedirler
+**7** andolsun onların çoğu üzerine o söz hak oldu artık onlar inanmazlar
+**8** elbette biz onların boyunlarına halkalar geçirdik o (halkalar) çenelere kadar dayanır bu yüzden onların kafaları kalkıktır
+**9** ve önlerinden, önlerinden bir sed ve arkalarından bir sed kıldık (çektik) ve onları kapattık artık onlar görmezler
+**10** uyarsan (da) yada uyarmasan (da) onlar için birdir inanmazlar
 **(11)** ancak sen Zikre uyan ve görmeden Rahman’dan korkan kimseyi uyarabilirsin işte öylesini bir mağfiretle ve güzel bir mükafatla müjdele 
 **(12)** şüphe yokki biz, biz ölüleri diriltiriz ve öne sürdükleri şeyleri ve eserlerini (işleri) yazarız ve her şeyi apaçık bir sicile ayrıntılı kaydettik
 **(13)** ve onlara elçiler geldiği zaman şu kent halkını misal olarak anlat 
