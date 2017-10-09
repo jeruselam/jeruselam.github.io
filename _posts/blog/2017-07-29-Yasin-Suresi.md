@@ -61,19 +61,19 @@ tag:
 **49** bir tek korkunç sesten başka bir şey beklemiyorlar ve onlar çekişip dururlarken ansızın onları yakalar 
 **50** artık bir vasiyete ne de ailelerine dönmeye güçleri yetmez
 **51** ve sur’a üflendi işte onlar kabirlerden Rablerine koşuyorlar
-**52**
-**53**
-**54**
-**55**
-**56**
-**57**
-**58**
-**59**
-**60**
-**61**
-**62**
-**63**
-**64**
+**52** vah bize yattığımız yerden bizi kim? kaldırdı Rahman’ın va’dettiği şey işte budur demek peygamberler doğru söylemiş dediler 
+**53** hayır sadece bir tek gürültü olur onların hepsi hemen huzurumuza getirilirler
+**54** o gün hiç kimseye hiçbir şekilde haksızlık yapılmaz ve siz yapmış olduklarınızın dışında cezalandırılmazsınız 
+**55** şüphesiz cennet halkı o gün bir meşguliyet içinde eğlenirler
+**56** gölgelerde kendileri ve eşleri koltuklar üzerine yaslanmışlardır
+**57** onlar için orada meyvalar vardır ve onlar için istedikleri her şey vardır 
+**58** çok esirgeyen Rabden sözle selam (vardır)
+**59** ey suçlular bugün şöyle ayrılın 
+**60** Adem oğulları size şeytana tapmayın diye ben and vermedim mi? şüphesiz o sizin apaçık düşmanınızdır
+**61** ve bana tapın doğru yol budur
+**62** ve andolsun sizden birçok kuşağı saptırmıştı düşünenlerden olmaz mısınız?
+**63** ki işte size va’dedilen cehennem
+**64** inkarınızdan dolayı oraya bugün girin 
 **65**
 **66**
 **67**
