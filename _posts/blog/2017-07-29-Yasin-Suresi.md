@@ -91,7 +91,7 @@ tag:
 **79** de ki onları ilk defa yaratan diriltecek ve O her yaratmayı bilir
 **80** O ki size yeşil ağaçtan ateş yaptı işte siz ondan yakıyorsunuz
 **81** gökleri ve yeri yaratan onların benzerlerini yaratmaya muktedir değil midir? elbette (yaratır) O çok bilen yaratıcıdır
-**82**
-**83**
+**82** şüphesiz O’nun işi bir şeyi istediği zaman ona sadece ol! demesidir hemen oluverir
+**83** O ki yücedir her şeyin hükümranlığı O’nun elindedir ve O’na döndürüleceksiniz
 
 ![36y]({{site.url}}/images/ayrac-muhur.png)
