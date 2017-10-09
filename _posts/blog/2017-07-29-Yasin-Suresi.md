@@ -82,15 +82,15 @@ tag:
 **70** diri olan kimseleri uyarman için ve inkar edenlere karşı (azab) söz(ü) hak olsun diye 
 **71** ki biz ellerimizin yaptıkları şeylerden kendilerine nice hayvanlar yarattık görmediler mi? kendileri onlara malik olmaktadırlar
 **72** onları kendilerine boyun eğdirdik onlardan bazıları binekleridir ve onlardan bazılarını yerler
-**73**
-**74**
-**75**
-**76**
-**77**
-**78**
-**79**
-**80**
-**81**
+**73** kendileri için onlarda birçok yararlar ve içecekler vardır hala şükretmiyorlar mı?
+**74** ve onlar yardım edilir umarak Allah’tan başka tanrılar edindiler
+**75** onlara yardım etmeye güçleri yetmez ve onlar, onlar için hazırlanmış askerlerdir
+**76** onların sözü seni üzmesin biz elbette onların gizlediklerini ve açığa vurduklarını biliyoruz 
+**77** bizim kendisini bir nutfe(sperm)den yarattığımızı insan görmedi mi? şimdi o apaçık bir hasım oldu 
+**78** ve kendi yaratılışını unutarak bize bir örnekle misal verdi şu çürümüş kemikleri kim? diriltecek dedi
+**79** de ki onları ilk defa yaratan diriltecek ve O her yaratmayı bilir
+**80** O ki size yeşil ağaçtan ateş yaptı işte siz ondan yakıyorsunuz
+**81** gökleri ve yeri yaratan onların benzerlerini yaratmaya muktedir değil midir? elbette (yaratır) O çok bilen yaratıcıdır
 **82**
 **83**
 
