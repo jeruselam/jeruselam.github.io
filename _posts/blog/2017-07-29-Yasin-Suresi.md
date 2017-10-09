@@ -20,7 +20,7 @@ tag:
 **(8)** elbette biz onların boyunlarına halkalar geçirdik o (halkalar) çenelere kadar dayanır bu yüzden onların kafaları kalkıktır
 **(9** ve önlerinden, önlerinden bir sed ve arkalarından bir sed kıldık (çektik) ve onları kapattık artık onlar görmezler
 **(10)** uyarsan (da) yada uyarmasan (da) onlar için birdir inanmazlar
-**(11)** ancak sen Zikre uyan ve görmeden Rahman’dan korkan kimseyi uyarabilirsin işte öylesini bir mağfiretle ve güzeöne sürdükleril bir ve yazarızmükafatla müjdele 
+**(11)** ancak sen Zikre uyan ve görmeden Rahman’dan korkan kimseyi uyarabilirsin işte öylesini bir mağfiretle ve güzel bir mükafatla müjdele 
 **(12)** şüphe yokki biz, biz ölüleri diriltiriz ve öne sürdükleri şeyleri ve eserlerini (işleri) yazarız ve her şeyi apaçık bir sicile ayrıntılı kaydettik
 **(13)** ve onlara elçiler geldiği zaman şu kent halkını misal olarak anlat 
 **(14)** biz onlara iki (elçi) gönderdik onları yalanladılar biz de üçüncüsüyle destekledik dediler ki biz elbette size gönderilen elçileriz
