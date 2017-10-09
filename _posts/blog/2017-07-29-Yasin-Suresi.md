@@ -74,14 +74,14 @@ tag:
 **62** ve andolsun sizden birçok kuşağı saptırmıştı düşünenlerden olmaz mısınız?
 **63** ki işte size va’dedilen cehennem
 **64** inkarınızdan dolayı oraya bugün girin 
-**65**
-**66**
-**67**
-**68**
-**69**
-**70**
-**71**
-**72**
+**65** o gün ağızları üzerini mühürleriz ve neler kazanıyor(lar) idiyseler elleri bize söyler ve ayakları şahidlik eder
+**66** ve eğer dilesek gözleri üzerini silerdik ve yola dökülürlerdi ama nasıl? görecekler
+**67** ve eğer dilesek onları oldukları yerde değiştirip dondururduk artık ileri gitmeye ne de geri dönmeye güçleri yetmez
+**68** ve kime uzun ömür versek onu, yaratılışını baş aşağı çeviririz akıllarını kullanmıyorlar mı?
+**69** biz ona şiir öğretmedik ve ona yakışmaz da hayır O sadece bir  öğüt ve apaçık Kur’an’dır
+**70** diri olan kimseleri uyarman için ve inkar edenlere karşı (azab) söz(ü) hak olsun diye 
+**71** ki biz ellerimizin yaptıkları şeylerden kendilerine nice hayvanlar yarattık görmediler mi? kendileri onlara malik olmaktadırlar
+**72** onları kendilerine boyun eğdirdik onlardan bazıları binekleridir ve onlardan bazılarını yerler
 **73**
 **74**
 **75**
