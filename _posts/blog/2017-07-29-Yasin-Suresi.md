@@ -48,7 +48,7 @@ tag:
 **36** O (Allah) ki ne yücedir toprağın bitirdiklerinden ve kendilerinden ve bilmedikleri nice şeylerden bütün çiftleri yaratmıştır 
 **37** ve gece onlar için bir ayettir gündüzü ondan soyup alırız onlar birden karanlıkta kalıverirler
 **38** ve güneş kendinin karar bulacağı yere akıp gider bu üstün olanın ve bilenin takdiridir
-**39**
+**39** ve aya konaklar tayin ettik nihayet eski, kuru hurma sapına benzer bir hale geldi 
 **40**
 **41**
 **42**
