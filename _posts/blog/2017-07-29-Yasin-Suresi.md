@@ -20,19 +20,19 @@ tag:
 **8** elbette biz onların boyunlarına halkalar geçirdik o (halkalar) çenelere kadar dayanır bu yüzden onların kafaları kalkıktır
 **9** ve önlerinden, önlerinden bir sed ve arkalarından bir sed kıldık (çektik) ve onları kapattık artık onlar görmezler
 **10** uyarsan (da) yada uyarmasan (da) onlar için birdir inanmazlar
-**(11)** ancak sen Zikre uyan ve görmeden Rahman’dan korkan kimseyi uyarabilirsin işte öylesini bir mağfiretle ve güzel bir mükafatla müjdele 
-**(12)** şüphe yokki biz, biz ölüleri diriltiriz ve öne sürdükleri şeyleri ve eserlerini (işleri) yazarız ve her şeyi apaçık bir sicile ayrıntılı kaydettik
-**(13)** ve onlara elçiler geldiği zaman şu kent halkını misal olarak anlat 
-**(14)** biz onlara iki (elçi) gönderdik onları yalanladılar biz de üçüncüsüyle destekledik dediler ki biz elbette size gönderilen elçileriz
-**(15)** dediler ki siz bizim gibi insandan başka bir şey değilsiniz ve Rahman hiçbir şey indirmemiştir hayır! siz sadece yalan söylüyorsunuz
-**(16)** dediler ki Rabbimiz bilir ki biz elbette size gönderilmiş elçileriz
-**(17)** ve üzerimize düşen açıkça duyurmaktan başka bir şey yoktur 
-**(18)** dediler ki doğrusu biz sizin yüzünüzden uğursuzluğa uğradık eğer vazgeçmezseniz sizi mutlaka taşlarız ve size bizden acıklı bir azab dokunur 
-**(19)** dediler ki uğursuzluğunuz sizin kendinizdedir size öğüt verildiği için mi? hayır siz aşırı giden bir kavimsiniz
-**(20)** ve bir adam koşarak kentin en uzak yerinden geldi kavmim elçilere uyun dedi
-**(21)** sizden bir ücret istemeyen kimselere uyun ve onlar doğru yoldadırlar
-**(22)** ve ben niçin? beni yaratana kulluk etmeyeyim ve O’na döndürüleceksiniz
-**(23)** O’ndan başka tanrılar edinir miyim? eğer Rahman bana bir zarar vermek dilese onların şefa’ati bana hiçbir (fayda) sağlamaz ve onlar beni asla kurtaramazlar
+**11** ancak sen Zikre uyan ve görmeden Rahman’dan korkan kimseyi uyarabilirsin işte öylesini bir mağfiretle ve güzel bir mükafatla müjdele 
+**12** şüphe yokki biz, biz ölüleri diriltiriz ve öne sürdükleri şeyleri ve eserlerini (işleri) yazarız ve her şeyi apaçık bir sicile ayrıntılı kaydettik
+**13** ve onlara elçiler geldiği zaman şu kent halkını misal olarak anlat 
+**14** biz onlara iki (elçi) gönderdik onları yalanladılar biz de üçüncüsüyle destekledik dediler ki biz elbette size gönderilen elçileriz
+**15** dediler ki siz bizim gibi insandan başka bir şey değilsiniz ve Rahman hiçbir şey indirmemiştir hayır! siz sadece yalan söylüyorsunuz
+**16** dediler ki Rabbimiz bilir ki biz elbette size gönderilmiş elçileriz
+**17** ve üzerimize düşen açıkça duyurmaktan başka bir şey yoktur 
+**18** dediler ki doğrusu biz sizin yüzünüzden uğursuzluğa uğradık eğer vazgeçmezseniz sizi mutlaka taşlarız ve size bizden acıklı bir azab dokunur 
+**19** dediler ki uğursuzluğunuz sizin kendinizdedir size öğüt verildiği için mi? hayır siz aşırı giden bir kavimsiniz
+**20)** ve bir adam koşarak kentin en uzak yerinden geldi kavmim elçilere uyun dedi
+**21** sizden bir ücret istemeyen kimselere uyun ve onlar doğru yoldadırlar
+**22** ve ben niçin? beni yaratana kulluk etmeyeyim ve O’na döndürüleceksiniz
+**23** O’ndan başka tanrılar edinir miyim? eğer Rahman bana bir zarar vermek dilese onların şefa’ati bana hiçbir (fayda) sağlamaz ve onlar beni asla kurtaramazlar
 **(24)** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
 **(25)** şüphesiz ben sizin Rabbinize inandım beni dinleyin
 **(26)** cennete gir! denilince dedi ki keşke kavmim bilseydi
