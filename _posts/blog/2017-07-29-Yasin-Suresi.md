@@ -33,23 +33,23 @@ tag:
 **21** sizden bir ücret istemeyen kimselere uyun ve onlar doğru yoldadırlar
 **22** ve ben niçin? beni yaratana kulluk etmeyeyim ve O’na döndürüleceksiniz
 **23** O’ndan başka tanrılar edinir miyim? eğer Rahman bana bir zarar vermek dilese onların şefa’ati bana hiçbir (fayda) sağlamaz ve onlar beni asla kurtaramazlar
-**(24)** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
-**(25)** şüphesiz ben sizin Rabbinize inandım beni dinleyin
-**(26)** cennete gir! denilince dedi ki keşke kavmim bilseydi
-**(27)** Rabbimin beni ne yüzden bağışladığını ve beni ağırlananlardan kıldığını 
-**(28)** ve biz ondan sonra kavminin üzerine gökten hiçbir ordu indirmedik ve indirici değildik
-**(29)** hayır sadece bir tek korkunç gürültü oldu hemen onlar sönüverdiler
-**(30)** yazık şu kullara hiçbir elçi onlara gelmez ki mutlaka onlar onunla alay ederlerdi
-**(31)** kendilerinden önce nice nesillerden yok ettik görmediler mi? onlar kendilerine bir daha dönmezler
-**(32)** ancak hepsi huzurumuza toplandığı zaman getirileceklerdir
-**(33)** ve onlar için ölü toprak bir ayettir biz onu dirilttik ve ondan dane çıkardık ve ondan yiyorlar
-**(34)** ve orada hurma ve üzüm bahçeleri yarattık ve orada çeşmelerden akıttık 
-**(35)** onun ürününden ve ellerinin emeğinden yemeleri için hala şükretmiyorlar mı?
-**(36)** O (Allah) ki ne yücedir toprağın bitirdiklerinden ve kendilerinden ve bilmedikleri nice şeylerden bütün çiftleri yaratmıştır 
-**(37)** ve gece onlar için bir ayettir gündüzü ondan soyup alırız onlar birden karanlıkta kalıverirler
-**(38)** ve güneş kendinin karar bulacağı yere akıp gider bu üstün olanın ve bilenin takdiridir
-**(39)** ve aya konaklar tayin ettik nihayet eski, kuru hurma sapına benzer bir hale geldi 
-**(40)** ne güneş ona (aya) aya erişmesi mümkün olur ne de gece gündüzün önüne geçebilir ve hepsi bir felekte (yörüngede) yüzmektedirler
+**24** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
+**25** şüphesiz ben sizin Rabbinize inandım beni dinleyin
+**26** cennete gir! denilince dedi ki keşke kavmim bilseydi
+**27** Rabbimin beni ne yüzden bağışladığını ve beni ağırlananlardan kıldığını 
+**28** ve biz ondan sonra kavminin üzerine gökten hiçbir ordu indirmedik ve indirici değildik
+**29** hayır sadece bir tek korkunç gürültü oldu hemen onlar sönüverdiler
+**30** yazık şu kullara hiçbir elçi onlara gelmez ki mutlaka onlar onunla alay ederlerdi
+**31** kendilerinden önce nice nesillerden yok ettik görmediler mi? onlar kendilerine bir daha dönmezler
+**32** ancak hepsi huzurumuza toplandığı zaman getirileceklerdir
+**33** ve onlar için ölü toprak bir ayettir biz onu dirilttik ve ondan dane çıkardık ve ondan yiyorlar
+**34** ve orada hurma ve üzüm bahçeleri yarattık ve orada çeşmelerden akıttık 
+**35** onun ürününden ve ellerinin emeğinden yemeleri için hala şükretmiyorlar mı?
+**36** O (Allah) ki ne yücedir toprağın bitirdiklerinden ve kendilerinden ve bilmedikleri nice şeylerden bütün çiftleri yaratmıştır 
+**37** ve gece onlar için bir ayettir gündüzü ondan soyup alırız onlar birden karanlıkta kalıverirler
+**38** ve güneş kendinin karar bulacağı yere akıp gider bu üstün olanın ve bilenin takdiridir
+**39** ve aya konaklar tayin ettik nihayet eski, kuru hurma sapına benzer bir hale geldi 
+**40** ne güneş ona (aya) aya erişmesi mümkün olur ne de gece gündüzün önüne geçebilir ve hepsi bir felekte (yörüngede) yüzmektedirler
 **(41)** ve onlar için bir ayet onların çoçuklarını dolu gemide taşımamızdır
 **(42)** ve kendilerine onun gibi binecekleri şeyler yaratmamızdır 
 **(43)** ve eğer dilesek onları (suda) boğarız onlara imdad (eden) olmaz ve ne de onlar kurtarılmazlar
