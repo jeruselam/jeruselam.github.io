@@ -49,13 +49,13 @@ tag:
 **37** ve gece onlar için bir ayettir gündüzü ondan soyup alırız onlar birden karanlıkta kalıverirler
 **38** ve güneş kendinin karar bulacağı yere akıp gider bu üstün olanın ve bilenin takdiridir
 **39** ve aya konaklar tayin ettik nihayet eski, kuru hurma sapına benzer bir hale geldi 
-**40**
-**41**
-**42**
-**43**
-**44**
-**45**
-**46**
+**40** ne güneş ona (aya) aya erişmesi mümkün olur ne de gece gündüzün önüne geçebilir ve hepsi bir felekte (yörüngede) yüzmektedirler
+**41** ve onlar için bir ayet onların çoçuklarını dolu gemide taşımamızdır
+**42** ve kendilerine onun gibi binecekleri şeyler yaratmamızdır 
+**43** ve eğer dilesek onları (suda) boğarız onlara imdad (eden) olmaz ve ne de onlar kurtarılmazlar
+**44** ancak bizden bir rahmet ve bir süreye kadar yaşatma (vardır) 
+**45** ve onlara önünüzdeki, önünüzdeki olanlardan ve arkanızdaki olanlardan sakının dendiği zaman umulur ki esirgenirsiniz
+**46** zaten onlara ondan yüz çevirmiş olmadıkları Rabblerinin ayetlerinden hiçbir ayet gelmez 
 **47**
 **48**
 **49**
