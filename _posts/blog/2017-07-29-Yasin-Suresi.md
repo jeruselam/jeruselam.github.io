@@ -34,8 +34,8 @@ tag:
 **22** ve ben niçin? beni yaratana kulluk etmeyeyim ve O’na döndürüleceksiniz
 **23** O’ndan başka tanrılar edinir miyim? eğer Rahman bana bir zarar vermek dilese onların şefa’ati bana hiçbir (fayda) sağlamaz ve onlar beni asla kurtaramazlar
 **24** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
-**25**
-**26**
+**25** şüphesiz ben sizin Rabbinize inandım beni dinleyin
+**26** cennete gir! denilince dedi ki keşke kavmim bilseydi
 **27**
 **28**
 **29**
