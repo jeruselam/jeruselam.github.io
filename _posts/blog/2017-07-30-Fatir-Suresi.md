@@ -17,11 +17,11 @@ tag:
  yalanlanmıştır ve bütün işler Allah’a döndürülecektir
 **(5)** ey insanlar elbette Allah’ın va’di gerçektir dünya hayatı sizi asla aldatmasın ve o aldatıcı sizi Allah ile aldatmasın
 **(6)** şüphesiz şeytan size düşmandır siz de onu düşman edinin şüphesiz o taraftarlarını alevli ateşin halkından olmağa çağırır
-**(7)**
-**(8)**
-**(9)**
-**(10)**
-**(11)**
+**(7)** inkar eden(ler) kimseler onlar için çetin bir azab vardır inanan(lar) kimseler ise ve iyi işler yapanlar onlara mağfiret ve büyük bir mükafat vardır 
+**(8)** kötü işi kendisine süslendirilen ve onu güzel gören kimse (de) mi? şüphesiz Allah dilediği kimseyi sapıklık içinde bırakır ve dilediği kimseyi yola iletir canın onlar için asla hasretlere gitmesin şüphesiz Allah onların yaptıkları şeyleri biliyor
+**(9)** Allah’tır ki rüzgarları gönderir ve bir bulut kaldırır böylece onu ölü bir ülkeye süreriz ve öldükten sonra onunla yeri diriltiriz işte diriltme böyledir
+**(10)** kim ise şeref istiyor şeref tamamen Allah’ındır güzel söz ve iyi amel O’na çıkar onu yükseltir kötü şeyleri tuzak kuranlara (gelince) onlar için çetin bir azab vardır ve onların tuzağı o bozulacaktır
+**(11)** ve Allah sizi topraktan sonra nutfe(sperm)den yarattı sonra sizi çift çift yaptı O’nun bilgisi dışında hiçbir dişi gebe kalamaz ve doğuramaz ve hiçbir canlıya ömür verilmez ve Kitapta (yazılmadıkça) onun ömründen azaltılmaz şüphesiz bu Allah’a göre kolaydır
 **(12)**
 **(13)**
 **(14)**
