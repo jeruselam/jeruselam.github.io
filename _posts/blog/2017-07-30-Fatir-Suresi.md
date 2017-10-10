@@ -16,7 +16,7 @@ tag:
 **(4)** ve eğer seni yalanlıyorlarsa elbette senden önceki elçiler (de)	
  yalanlanmıştır ve bütün işler Allah’a döndürülecektir
 **(5)** ey insanlar elbette Allah’ın va’di gerçektir dünya hayatı sizi asla aldatmasın ve o aldatıcı sizi Allah ile aldatmasın
-**(6)**
+**(6)** şüphesiz şeytan size düşmandır siz de onu düşman edinin şüphesiz o taraftarlarını alevli ateşin halkından olmağa çağırır
 **(7)**
 **(8)**
 **(9)**
