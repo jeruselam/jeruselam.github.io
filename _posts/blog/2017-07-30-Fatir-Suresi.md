@@ -10,7 +10,7 @@ tag:
 
 ## 35. Fâtır Sûresi
 
-**(1)** 
+**(1)** gökleri ve yeri yoktan var eden, melekleri ikişer ve üçer ve dörder kanatlar sahibi elçiler yapan ne kadar dilerse yaratmada artırır Allah’a hamd olsun şüphesiz Allah her şeyi yapabilendir
 **(2)** 
 **(3)** 
 **(4)** 
