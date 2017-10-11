@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alak
-description: Sûre
+description: Zahmet, meşakkat gidermek, yapışkan ve ilişkin nesne, muhabbet eylemek
 excerpt: "96'ncı Sûre"
 modified: 2017-08-29T17:50:00.564948 17:00
 encoding: UTF-8
@@ -10,23 +10,23 @@ tag:
 ---
 
 ## 96. Alak Sûresi
-**(1)** Oku, yaratan Rabbinin adıyla,
-**(2)** alaktan insanı, O yarattı.
-**(3)** Oku, ve Rabbin en büyük kerem sahibidir.
-**(4)** O ki, kalemle öğretti.
-**(5)** Bilmediği şeyi, insana öğretti.
-**(6)** Hayır, insan şüphesiz azar,
-**(7)** kendini zengin (kendine yeterli) gördüğü için.
-**(8)** Şüphesiz dönüş Rabbinedir.
-**(9)** Gördün mü? Şu men’edeni
-**(10)** (ve) Namaz kıldığı zaman bir kulu?
-**(11)** Gördün mü? Ya doğru yol üzerinde olursa
+**(1)** yaratan Rabbinin adıyla oku
+**(2)** O insanı alaktan yarattı
+**(3)** ve Rabbin en büyük kerem sahibidir, oku
+**(4)** O ki kalemle öğretti
+**(5)** insana bilmediği şeyi öğretti
+**(6)** hayır şüphesiz insan azar
+**(7)** kendini zengin (kendine yeterli) gördüğü için
+**(8)** şüphesiz dönüş Rabbinedir
+**(9)** şu men’edeni gördün mü?
+**(10)** namaz kıldığı zaman bir kulu?
+**(11)** gördün mü? ya doğru yol üzerinde olursa
 **(12)** yahut korunmayı emredese
-**(13)** gördün mü? Ya yalanlarsa? Ve yüz çevirirse?
-**(14)** Bilmedi mi (o)? Muhakkak Allah'ın gördüğünü
-**(15)** Hayır, eğer bundan vazgeçmezse perçeminden mutlaka yakalarız, 
+**(13)** gördün mü? ya yalanlarsa? ve yüz çevirirse?
+**(14)** Allah'ın gördüğünü muhakkak bilmedi mi (o)? 
+**(15)** hayır eğer bundan vazgeçmezse mutlaka perçeminden yakalarız
 **(16)** yalancı günahkar perçem(den)
-**(17)** Meclisini o zaman çağırsın.
-**(18)** Zebanileri biz de çağıracağız.
-**(19)** Hayır, ona boyun eğme, secde et ve yaklaş.
+**(17)** o zaman meclisini çağırsın
+**(18)** biz de zebanileri çağıracağız
+**(19)** hayır ona boyun eğme secde et ve yaklaş
 
