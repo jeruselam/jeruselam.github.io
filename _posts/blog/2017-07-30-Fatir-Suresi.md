@@ -22,8 +22,8 @@ tag:
 **(9)** Allah’tır ki rüzgarları gönderir ve bir bulut kaldırır böylece onu ölü bir ülkeye süreriz ve öldükten sonra onunla yeri diriltiriz işte diriltme böyledir
 **(10)** kim ise şeref istiyor şeref tamamen Allah’ındır güzel söz ve iyi amel O’na çıkar onu yükseltir kötü şeyleri tuzak kuranlara (gelince) onlar için çetin bir azab vardır ve onların tuzağı o bozulacaktır
 **(11)** ve Allah sizi topraktan sonra nutfe(sperm)den yarattı sonra sizi çift çift yaptı O’nun bilgisi dışında hiçbir dişi gebe kalamaz ve doğuramaz ve hiçbir canlıya ömür verilmez ve Kitapta (yazılmadıkça) onun ömründen azaltılmaz şüphesiz bu Allah’a göre kolaydır
-**(12)**
-**(13)**
+**(12)** ve iki deniz eşit olmaz şu tatlıdır susuzluğu keser (boğazdan) kayar şu da tuzludur içimi acıdır ve hepsinden taze et yersiniz ve takındığınız süs çıkarırsınız ve lutfundan payınızı aramanız için orada gemilerin (denizi) yarıp gittiğini görürsün ve umulur ki şükredersiniz
+**(13)** geceyi gündüzün içine sokar ve gecenin içine gündüzü sokar ve güneşi ve ayı buyruğu altına almıştır her biri belirtilmiş bir süreye kadar akıp gider Rabbiniz Allah işte budur mülk O’nundur O’ndan başka yalvardıklarınız, bir çekirdek zarına bile sahip değillerdir
 **(14)**
 **(15)**
 **(16)**
