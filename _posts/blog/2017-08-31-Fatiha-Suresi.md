@@ -17,4 +17,4 @@ tag:
 **(4)** din gününün sahibidir
 **(5)** ancak sana kulluk ederiz ancak senden yardım isteriz
 **(6)** bizi doğru yola ilet
-**(7)** kimselerin yoluna onlar ki kendilerine ni'met verdin gazabedilmiş olan(ların) değil ve sapmışların değil
+**(7)** onlar ki yoluna ni'met verdin kendilerine gazabedilmiş olan(ların) kimselerin değil ve sapmışların değil
