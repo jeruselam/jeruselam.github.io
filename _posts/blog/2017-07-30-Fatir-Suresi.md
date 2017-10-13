@@ -42,7 +42,7 @@ tag:
 **(29)** şüphesiz Allah’ın Kitabını okuyan(lar) kimseler ve namazı kılanlar ve verdiğimiz rızıktan gizli ve açık infak edenler asla batmayacak bir ticaret umarlar 
 **(30)** onlara ücretlerini tam ödesin diye ve lutfundan fazlasını vermesi için çünkü O çok bağışlayandır çok karşılık verendir
 **(31)** O kendinden öncekini, kendinden öncekini doğrulayan Kitaptan sana vahyettiğimiz gerçektir şüphesiz Allah kullarını görendir haber alandır
-**(32)**
+**(32)** sonra kullarımız (arasın)dan seçtiklerimize Kitabı miras verdik onlardan kimi nefsine zulmedendir ve kimi orta gidendir ve kimi de Allah’ın izniyle hayırlarda öne geçendir işte O büyük lutuf budur 
 **(33)**
 **(34)**
 **(35)**
