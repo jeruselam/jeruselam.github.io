@@ -29,11 +29,11 @@ tag:
 **(16)** eğer dilese sizi götürür ve yeni bir halk getirir 
 **(17)** ve bu, Allah üzerine zorlu değildir
 **(18)** ve hiçbir günahkar başkasının günahını çekmez ve eğer yükü ağır gelen kimse onu taşımak için (başkalarını) çağırsa ve şayet akrabası, akrabası (dahi) olsa ondan (yükünden) hiçbir şey taşınmaz sen ancak görmeden Rablerinden korkanları ve namazı kılanları uyarırsın ve kim ma’nen arınıp yücelirse şüphesiz kendi yararına arınmış olur ve dönüş Allah’adır
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
+**(19)** ve körle gören eşit değildir 
+**(20)** ve karanlıklar ve ne de aydınlık değildir 
+**(21)** ve gölge (ile) ve ne de sıcaklık değildir 
+**(22)** ve dirilerle ve ölüler eşit olmaz şüphesiz Allah dilediği kimseye işittirir yoksa sen kabirler içindeki kimselere işittirecek değilsin 
+**(23)** sen uyarıcı(dan) başka değilsin 
 **(24)**
 **(25)**
 **(26)**
