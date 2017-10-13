@@ -36,8 +36,8 @@ tag:
 **(23)** sen uyarıcı(dan) başka değilsin 
 **(24)** şüphesiz biz müjdeleyici ve uyarıcı gerçek ile seni gönderdik ve içinde bir uyarıcı (gelip) geçmiş olmayan hiçbir millet yoktur 
 **(25)** ve eğer seni yalanlıyorlarsa elbette bunlardan önceki kimseler de yalanlamışlardı elçileri onlara açık kanıtlar ve sahifeler ve aydınlatıcı Kitap getirmişlerdi
-**(26)**
-**(27)**
+**(26)** sonra ben de inkar eden(leri) kimseleri yakaladım benim inkarım nasıl? oldu 
+**(27)** elbette Allah gökten su indirdi böylece onunla renkleri çeşit çeşit meyvalar ve dağlardan değişik renklerde, beyaz ve kırmızı ve simsiyah kara yollar çıkardık görmedin mi
 **(28)**
 **(29)**
 **(30)**
