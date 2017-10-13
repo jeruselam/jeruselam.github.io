@@ -45,8 +45,8 @@ tag:
 **(32)** sonra kullarımız (arasın)dan seçtiklerimize Kitabı miras verdik onlardan kimi nefsine zulmedendir ve kimi orta gidendir ve kimi de Allah’ın izniyle hayırlarda öne geçendir işte O büyük lutuf budur 
 **(33)** Adn cennetleri oraya girerler orada altından bilezikler ve inci(ler) takınırlar ve orada giysileri ipektir
 **(34)** ve dediler ki tasayı bizden gideren Allah’a hamdolsun doğrusu Rabbimiz çok bağışlayandır çok karşılık verendir
-**(35)** O (Rab) ki lutfuyla bizi durulacak yurda kondurdu orada bize asla bir yorgunluk dokunmaz ve ne de orada bize bir usanç dokunmaz
-**(36)**
+**(35)** O (Rab) ki lutfuyla bizi durulacak yurda kondurdu orada bize asla bir yorgunluk dokunmaz ve orada bize ne de bir usanç dokunmaz
+**(36)** ve inkar edenler onlara cehennem ateşi vardır onlara hükmedilmez ölsünler ve onun azabı onlardan hafifletilmez işte böyle her nankörü cezalandırırız 
 **(37)**
 **(38)**
 **(39)**
