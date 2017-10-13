@@ -34,8 +34,8 @@ tag:
 **(21)** ve gölge (ile) ve ne de sıcaklık değildir 
 **(22)** ve dirilerle ve ölüler eşit olmaz şüphesiz Allah dilediği kimseye işittirir yoksa sen kabirler içindeki kimselere işittirecek değilsin 
 **(23)** sen uyarıcı(dan) başka değilsin 
-**(24)**
-**(25)**
+**(24)** şüphesiz biz müjdeleyici ve uyarıcı gerçek ile seni gönderdik ve içinde bir uyarıcı (gelip) geçmiş olmayan hiçbir millet yoktur 
+**(25)** ve eğer seni yalanlıyorlarsa elbette bunlardan önceki kimseler de yalanlamışlardı elçileri onlara açık kanıtlar ve sahifeler ve aydınlatıcı Kitap getirmişlerdi
 **(26)**
 **(27)**
 **(28)**
