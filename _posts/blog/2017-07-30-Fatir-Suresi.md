@@ -38,10 +38,10 @@ tag:
 **(25)** ve eğer seni yalanlıyorlarsa elbette bunlardan önceki kimseler de yalanlamışlardı elçileri onlara açık kanıtlar ve sahifeler ve aydınlatıcı Kitap getirmişlerdi
 **(26)** sonra ben de inkar eden(leri) kimseleri yakaladım benim inkarım nasıl? oldu 
 **(27)** elbette Allah gökten su indirdi böylece onunla renkleri çeşit çeşit meyvalar ve dağlardan değişik renklerde, beyaz ve kırmızı ve simsiyah kara yollar çıkardık görmedin mi
-**(28)** insanlardan ve hayvanlardan ve davarlardan türlü renkte olanlar vardır böyle ancak kulları içinden bilginler Allah’tan (gereğince) korkar 
-**(29)**
-**(30)**
-**(31)**
+**(28)** insanlardan ve hayvanlardan ve davarlardan türlü renkte olanlar vardır böyle ancak kulları içinden bilginler Allah’tan (gereğince) korkar şüphesiz Allah daima üstündür çok bağışlayandır
+**(29)** şüphesiz Allah’ın Kitabını okuyan(lar) kimseler ve namazı kılanlar ve verdiğimiz rızıktan gizli ve açık infak edenler asla batmayacak bir ticaret umarlar 
+**(30)** onlara ücretlerini tam ödesin diye ve lutfundan fazlasını vermesi için çünkü O çok bağışlayandır çok karşılık verendir
+**(31)** O kendinden öncekini, kendinden öncekini doğrulayan Kitaptan sana vahyettiğimiz gerçektir şüphesiz Allah kullarını görendir haber alandır
 **(32)**
 **(33)**
 **(34)**
