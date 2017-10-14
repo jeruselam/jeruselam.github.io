@@ -52,9 +52,9 @@ tag:
 **(39)** sizi yeryüzünde halifeler (yöneticiler) yapan O’dur artık kim nankörlük ederse nankörlüğü kendi zararınadır ve Rableri yanında kafirlerin küfrü gazabdan başka bir şey artırmaz ve kafirlerin küfrü ne de ziyandan başka bir şey artırmaz 
 **(40)** de ki siz Allah’tan başka yalvardığınız ortaklarınızı gördünüz mü? yerden hangi şeyi? yarattılar bana gösterin yoksa onların göklerde ortaklıkları var (mı?) yoksa biz onlara bir Kitap verdik de onlar da ondan bir delil üzerindeler hayır o zalimler birbirlerine, birbirlerine aldatmakdan başka bir şey va’detmiyorlar 
 **(41)** şüphesiz Allah gökleri ve yeri yıkılmamaları için tutmaktadır andolsun ikisi yıkılsa ondan sonra onları hiç kimse tutamaz şüphesiz O halimdir çok bağışlayandır
-**(42)** ve andolsun eğer kendilerine bir uyarıcı (peygamber) gelirse daha çok doğru yolda olacaklarına yeminlerinin bütün gücüyle herbir milletten Allah’a yemin ettiler fakat uyarıcı gelince onların nefretten başka bir şey(ini) arttırmadı 
-**(43)**
-**(44)**
-**(45)**
+**(42)** ve andolsun eğer kendilerine bir uyarıcı (peygamber) gelirse daha çok doğru yolda olacaklarına yeminlerinin bütün gücüyle herbir milletten Allah’a yemin ettiler fakat uyarıcı gelince onların nefretten başka bir şey arttırmadı 
+**(43)** yeryüzünde büyüklük taslama(larını) ve kötü tuzak(lar) kurma(larını artırdı) oysa kötü tuzak, sahibi(nden) başkasına dolanmaz öncekilerin yasasından başkasını mı? bekliyorlar halbuki Allah’ın yasasında bir değişme bulamazsın ve Allah’ın yasasında bir sapma bulamazsın
+**(44)** yeryüzünde hiç gez(ip dolaş)madılar mı? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler onlar kuvvet bakımından bunlardan daha güçlü idiler ve Allah’ı göklerde engelleyecek hiçbir şey yoktur ve yerde yoktur şüphesiz O bilendir güçlüdür
+**(45)** ve eğer Allah insanları yaptıkları işler yüzünden cezalandıracak olsaydı süreleri geldiği zaman onun sırtı üzerinde (yeryüzünde) hiçbir canlı bırakmazdı fakat onları belirtilmiş bir süreye kadar erteliyor kuşkusuz Allah kullarını görmektedir
 
 ![35f]({{site.url}}/images/ayrac-muhur.png)
