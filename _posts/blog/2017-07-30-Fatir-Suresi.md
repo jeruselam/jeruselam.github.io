@@ -48,9 +48,9 @@ tag:
 **(35)** O (Rab) ki lutfuyla bizi durulacak yurda kondurdu orada bize asla bir yorgunluk dokunmaz ve orada bize ne de bir usanç dokunmaz
 **(36)** ve inkar edenler onlara cehennem ateşi vardır onlara hükmedilmez ölsünler ve onun azabı onlardan hafifletilmez işte böyle her nankörü cezalandırırız 
 **(37)** ve onlar orada feryadederler Rabbimiz bizi çıkar yapmış olduğumuz başka olarak iyi işler yapalım öğüt alacak kimsenin orada öğüt alacağı kadar sizi yaşatmadık mı? ve uyarıcı size geldi öyle ise (azabı) tadın zalimlerin artık hiçbir yardımcısı yoktur 
-**(38)**
-**(39)**
-**(40)**
+**(38)** şüphesiz Allah göklerin ve yerin gaybını bilendir şüphesiz O göğüslerin özünü bilir
+**(39)** sizi yeryüzünde halifeler (yöneticiler) yapan O’dur artık kim nankörlük ederse nankörlüğü kendi zararınadır ve Rableri yanında kafirlerin küfrü gazabdan başka bir şey artırmaz ve kafirlerin küfrü ne de ziyandan başka bir şey artırmaz 
+**(40)** de ki siz Allah’tan başka yalvardığınız ortaklarınızı gördünüz mü? yerden hangi şeyi? yarattılar bana gösterin yoksa onların göklerde ortaklıkları var (mı?) yoksa biz onlara bir Kitap verdik de onlar da ondan bir delil üzerindeler hayır o zalimler birbirlerine, birbirlerine aldatmakdan başka bir şey va’detmiyorlar 
 **(41)**
 **(42)**
 **(43)**
