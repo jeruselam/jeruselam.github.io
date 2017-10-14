@@ -47,7 +47,7 @@ tag:
 **(34)** ve dediler ki tasayı bizden gideren Allah’a hamdolsun doğrusu Rabbimiz çok bağışlayandır çok karşılık verendir
 **(35)** O (Rab) ki lutfuyla bizi durulacak yurda kondurdu orada bize asla bir yorgunluk dokunmaz ve orada bize ne de bir usanç dokunmaz
 **(36)** ve inkar edenler onlara cehennem ateşi vardır onlara hükmedilmez ölsünler ve onun azabı onlardan hafifletilmez işte böyle her nankörü cezalandırırız 
-**(37)**
+**(37)** ve onlar orada feryadederler Rabbimiz bizi çıkar yapmış olduğumuz başka olarak iyi işler yapalım öğüt alacak kimsenin orada öğüt alacağı kadar sizi yaşatmadık mı? ve uyarıcı size geldi öyle ise (azabı) tadın zalimlerin artık hiçbir yardımcısı yoktur 
 **(38)**
 **(39)**
 **(40)**
