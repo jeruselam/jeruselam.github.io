@@ -17,8 +17,8 @@ tag:
 **(5)** ayetlerimiz hakkında aciz bırakmağa çalışan(lar) kimseler ise işte onlar için pislikten acı bir azab vardır 
 **(6)** ve kendilerine bilgi verilen(ler) kimseler, Rabbinden sana indirilenin gerçek olduğunu ve mutlak galib ve hamde layık olanın yoluna ilettiğini görürler 
 **(7)** ve inkar eden(ler) kimseler dediler ki siz tamamen dağılıp parçalandığınız zaman sizin yeni bir yaratılış içinde olacağınızı size haber veren bir adam size gösterelim mi?
-**(8)**
-**(9)**
+**(8)** Allah’a karşı bir yalan uydurdu mu?C yoksa kendisinde delilik mi var? hayır ahirete inanmayanlar kimseler, azab ve uzak bir sapıklık içindedirler 
+**(9)** elleri (önlerinde) arasında (önlerinde) bulunanı ve gökten ve yerden arkalarında bulunanı görmüyorlar mı? eğer dilesek onları yere batırırız ya da üzerlerine gökten parçalar düşürürüz şüphesiz bunda yönelen kul(ların) hepsi için bir ibret vardır
 **(10)**
 **(11)**
 **(12)**
