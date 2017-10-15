@@ -19,11 +19,11 @@ tag:
 **(7)** ve inkar eden(ler) kimseler dediler ki siz tamamen dağılıp parçalandığınız zaman sizin yeni bir yaratılış içinde olacağınızı size haber veren bir adam size gösterelim mi?
 **(8)** Allah’a karşı bir yalan uydurdu mu?C yoksa kendisinde delilik mi var? hayır ahirete inanmayanlar kimseler, azab ve uzak bir sapıklık içindedirler 
 **(9)** elleri (önlerinde) arasında (önlerinde) bulunanı ve gökten ve yerden arkalarında bulunanı görmüyorlar mı? eğer dilesek onları yere batırırız ya da üzerlerine gökten parçalar düşürürüz şüphesiz bunda yönelen kul(ların) hepsi için bir ibret vardır
-**(10)**
-**(11)**
-**(12)**
-**(13)**
-**(14)**
+**(10)** ve andolsun ki Davud’a tarafımızdan bir üstünlük verdik,  dağlar ve (ey) kuşlar onunla beraber tesbih edin ve ona demiri yumuşattık
+**(11)** geniş zırhlar yap dokumasını ölçülü yap ve (hepiniz) iyi işler yapın çünkü ben yaptıklarınızı görmekteyim
+**(12)** ve Süleyman’a sabah gidişi bir ay(lık mesafe) ve akşam dönüşü bir ay(lık mesafe) rüzgarı ve onun için katran kaynağını akıttık ve cinlerin bir kısmı ki onun önünde, onun önünde Rabbinin izniyle çalışırdı ve onlardan kim buyruğumuzdan sapsa ona alevli azabı taddırırdık
+**(13)** ona kalelerden ve heykeller(den) ve havuzlar kadar (geniş) leğenler(den) ve sabit kazanlar(dan) ne diliyorsa yaparlardı (ey) Davud ailesi yapın, şükredin ve kullarımdan şükreden azdır
+**(14)** onun ölümüne hükmettiğimiz zaman değneğini yiyen bir yer (ağaç) kurdundan başkası onun öldüğünü göstermedi ne zaman ki yıkıldı anlaşıldı ki cinler eğer gaybı bilseler idi küçük düşürücü azab içinde kalmazlardı 
 **(15)**
 **(16)**
 **(17)**
