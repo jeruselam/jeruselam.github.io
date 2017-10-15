@@ -10,9 +10,9 @@ tag:
 
 ## 34. Sebe Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
+**(1)** hamd Allah’a mahsustur öyle ki göklerde ne varsa ve yerde ne varsa onundur ve ahirette hamd O’na mahsustur ve O hüküm ve hikmet sahibidir haber alandır
+**(2)** ne ki yerin içine giriyor ve ne ki ondan çıkıyor ve ne ki gökten iniyor ve ne ki oraya çıkıyor bilir ve O çok esirgeyendir çok bağışlayandır
+**(3)** ve inkar eden(ler) kimseler dediler ki sa’at bize gelmez, de ki hayır gaybı bilen Rabbim hakkı için o mutlaka size gelecektir, göklerde zerre ağırlığınca olan ne de yerde olan O’ndan gizli kalmaz ve bundan küçük yoktur ve büyük yoktur ki apaçık bir Kitapta olmasın
 **(4)** 
 **(5)** 
 **(6)**
