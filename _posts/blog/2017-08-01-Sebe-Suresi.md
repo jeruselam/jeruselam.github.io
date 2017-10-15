@@ -16,7 +16,7 @@ tag:
 **(4)** inanan(ları) kimseleri ve iyi işler yapanları mükafatlandırması için işte onlar için mağfiret ve güzel rızık vardır
 **(5)** ayetlerimiz hakkında aciz bırakmağa çalışan(lar) kimseler ise işte onlar için pislikten acı bir azab vardır 
 **(6)** ve kendilerine bilgi verilen(ler) kimseler, Rabbinden sana indirilenin gerçek olduğunu ve mutlak galib ve hamde layık olanın yoluna ilettiğini görürler 
-**(7)**
+**(7)** ve inkar eden(ler) kimseler dediler ki siz tamamen dağılıp parçalandığınız zaman sizin yeni bir yaratılış içinde olacağınızı size haber veren bir adam size gösterelim mi?
 **(8)**
 **(9)**
 **(10)**
