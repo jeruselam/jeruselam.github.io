@@ -14,8 +14,8 @@ tag:
 **(2)** ne ki yerin içine giriyor ve ne ki ondan çıkıyor ve ne ki gökten iniyor ve ne ki oraya çıkıyor bilir ve O çok esirgeyendir çok bağışlayandır
 **(3)** ve inkar eden(ler) kimseler dediler ki sa’at bize gelmez, de ki hayır gaybı bilen Rabbim hakkı için o mutlaka size gelecektir, göklerde zerre ağırlığınca olan ne de yerde olan O’ndan gizli kalmaz ve bundan küçük yoktur ve büyük yoktur ki apaçık bir Kitapta olmasın
 **(4)** inanan(ları) kimseleri ve iyi işler yapanları mükafatlandırması için işte onlar için mağfiret ve güzel rızık vardır
-**(5)** 
-**(6)**
+**(5)** ayetlerimiz hakkında aciz bırakmağa çalışan(lar) kimseler ise işte onlar için pislikten acı bir azab vardır 
+**(6)** ve kendilerine bilgi verilen(ler) kimseler, Rabbinden sana indirilenin gerçek olduğunu ve mutlak galib ve hamde layık olanın yoluna ilettiğini görürler 
 **(7)**
 **(8)**
 **(9)**
