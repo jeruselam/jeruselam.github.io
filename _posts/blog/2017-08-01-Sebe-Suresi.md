@@ -25,7 +25,7 @@ tag:
 **(13)** ona kalelerden ve heykeller(den) ve havuzlar kadar (geniş) leğenler(den) ve sabit kazanlar(dan) ne diliyorsa yaparlardı (ey) Davud ailesi yapın, şükredin ve kullarımdan şükreden azdır
 **(14)** onun ölümüne hükmettiğimiz zaman değneğini yiyen bir yer (ağaç) kurdundan başkası onun öldüğünü göstermedi ne zaman ki yıkıldı anlaşıldı ki cinler eğer gaybı bilseler idi küçük düşürücü azab içinde kalmazlardı 
 **(15)** andolsun Sebe (oğulların)ın oturdukları yerlerde bir ibret, sağdan ve soldan iki bahçe vardır Rabbinizin rızkından yeyin ve O’na şükredin, hoş (bir) ülke ve Rabbin çok bağışlayandır
-**(16)** 
+**(16)** ama yüz çevirdiler bu yüzden Arim selini üzerlerine gönderdik ve onların iki bahçesini buruk yemişli ve acı meyvalı ve içinde biraz sedir ağacı iki bahçeye çevirdik
 **(17)**
 **(18)**
 **(19)**
