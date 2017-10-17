@@ -35,8 +35,8 @@ tag:
 **(23)** ve O’nun huzurunda O’nun izin verdiği kimselerden başkasının şefa’ati fayda vermez nihayet ne zaman ki onların yüreklerinden korku giderildi derler ki Rabbiniz "hakkı" ne? buyurdu ve O yücedir büyüktür
 **(24)** de ki göklerden ve yerden size kim? rızık veriyor de ki Allah o halde biz veya siz doğru yol üzerindeyiz veya açık bir sapıklık içindeyiz
 **(25)** de ki bizim işlediğimiz suçtan sorulacak değil(siniz) ve biz sizin işlediğinizden sorumlu değil(iz) 
-**(26)**
-**(27)**
+**(26)** de ki Rabbimiz hepimizi bir araya toplayacak sonra aramızdakini hak ile çözecektir ve O sorunları en güzel çözümleyendir bilendir
+**(27)** de ki O’na kattığınız ortakları bana gösterin hayır doğrusu O galib hüküm ve hikmet sahibi Allah’tır 
 **(28)**
 **(29)**
 **(30)**
