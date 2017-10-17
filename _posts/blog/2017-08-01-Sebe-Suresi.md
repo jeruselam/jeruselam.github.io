@@ -29,8 +29,8 @@ tag:
 **(17)** inkarlarından ötürü onları böyle cezalandırdık biz inkar edenden başkasını cezalandırır mıyız? 
 **(18)** ve onların arasında ve açıkça görünen kentler içinde bereketlendirdiğimiz kentler arasında var ettik ve bunlar arasında yürümeyi takdir ettik, geceleri ve gündüzleri güven içinde oralarda yürüyün
 **(19)** Rabbimiz seferlerimizin arasını uzaklaştır dediler ve kendilerine zulmettiler biz de onları efsanelere çevirdik onları hepsini parçalayarak darmadağın ettik şüphesiz şükreden sabreden herkes için bunda ibretler vardır 
-**(20)** ve andolsun İblis onlar hakkındaki zannını doğru çıkardı inananlardan bir bölümü dışındakiler (hepsi) ona uydular
-**(21)**
+**(20)** ve andolsun İblis onlar hakkındaki zannını doğru çıkardıkuşku inananlardan bir bölümü dışındakiler (hepsi) ona uydular
+**(21)** ve onun onlar üzerinde zorlayıcı bir gücü yoktu ancak ondan kuşku içinde o kimseden ahirete inanan kimseyi (ayırd edip) bilelim diye Rabbin her şeyi korumaktadır
 **(22)**
 **(23)**
 **(24)**
