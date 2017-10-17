@@ -31,7 +31,7 @@ tag:
 **(19)** Rabbimiz seferlerimizin arasını uzaklaştır dediler ve kendilerine zulmettiler biz de onları efsanelere çevirdik onları hepsini parçalayarak darmadağın ettik şüphesiz şükreden sabreden herkes için bunda ibretler vardır 
 **(20)** ve andolsun İblis onlar hakkındaki zannını doğru çıkardıkuşku inananlardan bir bölümü dışındakiler (hepsi) ona uydular
 **(21)** ve onun onlar üzerinde zorlayıcı bir gücü yoktu ancak ondan kuşku içinde o kimseden ahirete inanan kimseyi (ayırd edip) bilelim diye Rabbin her şeyi korumaktadır
-**(22)**
+**(22)** de ki Allah’tan başka (tanrı) sandığınız şeyleri çağırın göklerde zerre ağırlığınca bir şeye sahip değillerdir ve yerde değiller ve bu ikisinde onların hiçbir ortaklıkları yoktur ve O’nun onlardan hiçbir yardımcısı yoktur 
 **(23)**
 **(24)**
 **(25)**
