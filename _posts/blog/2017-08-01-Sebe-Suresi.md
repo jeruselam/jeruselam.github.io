@@ -36,11 +36,11 @@ tag:
 **(24)** de ki göklerden ve yerden size kim? rızık veriyor de ki Allah o halde biz veya siz doğru yol üzerindeyiz veya açık bir sapıklık içindeyiz
 **(25)** de ki bizim işlediğimiz suçtan sorulacak değil(siniz) ve biz sizin işlediğinizden sorumlu değil(iz) 
 **(26)** de ki Rabbimiz hepimizi bir araya toplayacak sonra aramızdakini hak ile çözecektir ve O sorunları en güzel çözümleyendir bilendir
-**(27)** de ki O’na kattığınız ortakları bana gösterin hayır doğrusu O galib hüküm ve hikmet sahibi Allah’tır 
-**(28)**
-**(29)**
-**(30)**
-**(31)**
+**(27)** de ki O’na kattığınız ortakları bana gösterin hayır doğrusu O galib, hüküm ve hikmet sahibi Allah’tır 
+**(28)** biz seni bütün insanlara müjdeleyici olman ve uyarıcı olman dışında göndermedik fakat insanların çoğu bilmezler
+**(29)** diyorlar ki eğer doğru iseniz bu tehdid(ettiğiniz azap) ne zaman 
+**(30)** de ki sizin için belirtilmiş bir gün vardır ondan bir sa’at geri kalmazsınız ve ileri geçemezsiniz
+**(31)** inkar eden(ler) kimseler dediler ki biz bu Kur’an’a ne de ellerinde olan, ellerinde olan şeye inanmayız şayet zalimleri bir kısmı diğerine söz atarlarken Rablerinin huzurunda tutuklanmış olduğunda sen bir görsen zayıf düşürülen(ler) kimseler büyüklük taslayan(lara) kimselere siz inanan insanlar olmasaydınız elbette biz olurduk diyorlar
 **(32)**
 **(33)**
 **(34)**
