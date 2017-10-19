@@ -42,7 +42,7 @@ tag:
 **(30)** de ki sizin için belirtilmiş bir gün vardır ondan bir sa’at geri kalmazsınız ve ileri geçemezsiniz
 **(31)** inkar eden(ler) kimseler dediler ki biz bu Kur’an’a ne de ellerinde olan, ellerinde olan şeye inanmayız şayet zalimleri bir kısmı diğerine söz atarlarken Rablerinin huzurunda tutuklanmış olduğunda sen bir görsen zayıf düşürülen(ler) kimseler büyüklük taslayan(lara) kimselere siz olmasaydınız elbette biz inanan insanlar olurduk diyorlar
 **(32)** büyüklük taslayan(lar) kimseler zayıf düşürülen(lere) kimselere dedi(ler) ki size geldikten sonra hidayetten biz mi? engelledik hayır siz kendiniz suç işliyordunuz
-**(33)** ve zayıf düşürülen(ler) kimseler büyüklük taslayan(lara) kimselere dedi(ler) hayır gece ve gündüz hileler (kuruyordunuz) Allah’ı inkar etmemizi ve O’na eşler koşmamızı bize emrediyordunuz ve azabı gördüklerinde pişmanlıklarını içlerinde gizlediler biz de inkar eden(ler) kimselerin boyunlarına demir halkalar geçirdik yapıyor(lar) oldukları şeylerden başkasıyla mı? cezalandırılacaklar
+**(33)** ve zayıf düşürülen(ler) kimseler büyüklük taslayan(lara) kimselere hayır gece ve gündüz hileler (kuruyordunuz) Allah’ı inkar etmemizi ve O’na eşler koşmamızı bize emrediyordunuz dedi(ler) ve azabı gördüklerinde pişmanlıklarını içlerinde gizlediler biz de inkar eden(ler) kimselerin boyunlarına demir halkalar geçirdik, yapıyor(lar) oldukları şeylerden başkasıyla mı? cezalandırılacaklar
 **(34)**
 **(35)**
 **(36)**
