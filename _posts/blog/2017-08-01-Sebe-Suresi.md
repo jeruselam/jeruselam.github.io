@@ -44,9 +44,9 @@ tag:
 **(32)** büyüklük taslayan(lar) kimseler zayıf düşürülen(lere) kimselere dedi(ler) ki size geldikten sonra hidayetten biz mi? engelledik hayır siz kendiniz suç işliyordunuz
 **(33)** ve zayıf düşürülen(ler) kimseler büyüklük taslayan(lara) kimselere hayır gece ve gündüz hileler (kuruyordunuz) Allah’ı inkar etmemizi ve O’na eşler koşmamızı bize emrediyordunuz dedi(ler) ve azabı gördüklerinde pişmanlıklarını içlerinde gizlediler biz de inkar eden(ler) kimselerin boyunlarına demir halkalar geçirdik, yapıyor(lar) oldukları şeylerden başkasıyla mı? cezalandırılacaklar
 **(34)** ve biz bir ülkeye şüphesiz biz sizin gönderildiğiniz şeyi onu inkar ediyoruz diyenden varlıkla şımarmış kimseleri uyarıcı hiçbir başkasını göndermedik 
-**(35)**
-**(36)**
-**(37)**
+**(35)** ve dediler ki biz malca ve evladça daha çoğuz ve biz azaba uğratılacak değiliz 
+**(36)** de ki şüphesiz Rabbim dilediği kimseye rızkı yayar ve kısar fakat insanların çoğu bilmezler
+**(37)** katımızda sizi mertebece yaklaştıran evladlarınız değildir ve mallarınız değildir ancak inanan(lar) kimseler başka ve faydalı iş yapanlar işte onlara yaptıklarının kat kat fazlası mükafat vardır ve onlar saraylarda güven içindedirler
 **(38)**
 **(39)**
 **(40)**
