@@ -46,9 +46,9 @@ tag:
 **(34)** ve biz bir ülkeye şüphesiz biz sizin gönderildiğiniz şeyi onu inkar ediyoruz diyenden varlıkla şımarmış kimseleri uyarıcı hiçbir başkasını göndermedik 
 **(35)** ve dediler ki biz malca ve evladça daha çoğuz ve biz azaba uğratılacak değiliz 
 **(36)** de ki şüphesiz Rabbim dilediği kimseye rızkı yayar ve kısar fakat insanların çoğu bilmezler
-**(37)** katımızda sizi mertebece yaklaştıran evladlarınız değildir ve mallarınız değildir ancak inanan(lar) kimseler başka ve faydalı iş yapanlar işte onlara yaptıklarının kat kat fazlası mükafat vardır ve onlar saraylarda güven içindedirler
-**(38)**
-**(39)**
+**(37)** katımızda sizi mertebece yaklaştıran evladlarınız değildir ve mallarınız değildir ancak inanan(lar) kimseler ve faydalı iş yapanlar başka işte onlara yaptıklarının kat kat fazlası mükafat vardır ve onlar saraylarda güven içindedirler
+**(38)** ayetlerimizi etkisiz kılmağa çalışanlara gelince onlar azabın içine getirileceklerdir
+**(39)** de ki şüphesiz Rabbim kullarından dilediği kimseye rızkı yayar ve ona kısar ne ki siz bir şey infak etseniz, O onun yerine başkasını verir ve O rızık verenlerin en hayırlısıdır 
 **(40)**
 **(41)**
 **(42)**
