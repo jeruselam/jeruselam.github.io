@@ -49,8 +49,8 @@ tag:
 **(37)** katımızda sizi mertebece yaklaştıran evladlarınız değildir ve mallarınız değildir ancak inanan(lar) kimseler ve faydalı iş yapanlar başka işte onlara yaptıklarının kat kat fazlası mükafat vardır ve onlar saraylarda güven içindedirler
 **(38)** ayetlerimizi etkisiz kılmağa çalışanlara gelince onlar azabın içine getirileceklerdir
 **(39)** de ki şüphesiz Rabbim kullarından dilediği kimseye rızkı yayar ve ona kısar ne ki siz bir şey infak etseniz, O onun yerine başkasını verir ve O rızık verenlerin en hayırlısıdır 
-**(40)**
-**(41)**
+**(40)** ve o gün onların hepsini bir araya toplar sonra meleklere der ki size bunlar mı? tapıyorlardı
+**(41)** derler ki sen yücesin bizim velimiz sensin onlar değil hayır onlar cinlere tapıyorlardı çokları onlara inanıyorlardı
 **(42)**
 **(43)**
 **(44)**
