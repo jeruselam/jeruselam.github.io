@@ -52,10 +52,10 @@ tag:
 **(40)** ve o gün onların hepsini bir araya toplar sonra meleklere der ki size bunlar mı? tapıyorlardı
 **(41)** derler ki sen yücesin bizim velimiz sensin onlar değil hayır onlar cinlere tapıyorlardı çokları onlara inanıyorlardı
 **(42)** o gün birinizin diğerine bir fayda vermeye gücü yetmez ve zarar vermeğe (yetmez) biz zulmeden(lere) kimselere, onu yalanlamakta olduğunuz ateş azabını tadın deriz 
-**(43)** ve onlara ayetlerimiz açık açık okunduğu zaman dediler ki bu babalarınızın tapıyor olduğu(tanrılardan) sizi çevirmek isteyen bir adamdan başka bir şey değildir ve dediler ki bu uydurulmuş bir yalandan başka bir şey değildir ve kendilerine gelen hakkı inkar eden(ler) kimseler bu apaçık bir büyüden başkası değildir dediler 
-**(44)**
-**(45)**
-**(46)**
+**(43)** ve onlara ayetlerimiz açık açık okunduğu zaman dediler ki babalarınızın tapıyor olduğu(tanrılardan) sizi çevirmek isteyen bu bir  adamdan başka bir şey değildir ve dediler ki bu uydurulmuş bir yalandan başka bir şey değildir ve kendilerine gelen hakkı inkar eden(ler) kimseler bu apaçık bir büyüden başkası değildir dediler 
+**(44)** biz onlara okuyacakları hiçbir Kitap vermemiştik ve onlara senden önce hiçbir uyarıcı göndermemiştik
+**(45)** onlardan önceki(ler) kimseler yalanlanmışlardı ve onlara verdiklerimizin onda birine bile erişmemişlerdir fakat elçilerimi yalanladılar ama benim inkarım nasıl oldu
+**(46)** de ki size sadece bir tek (şeyi) öğütleyeyim (şu ki;) Allah için ikişer ikişer ve teker teker kalkın sonra düşünün ki arkadaşınızda hiçbir delilik yoktur O ancak sizin için öncesinde, çetin bir azabın öncesinde bir uyarıcıdır 
 **(47)**
 **(48)**
 **(49)**
