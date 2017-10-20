@@ -51,8 +51,8 @@ tag:
 **(39)** de ki şüphesiz Rabbim kullarından dilediği kimseye rızkı yayar ve ona kısar ne ki siz bir şey infak etseniz, O onun yerine başkasını verir ve O rızık verenlerin en hayırlısıdır 
 **(40)** ve o gün onların hepsini bir araya toplar sonra meleklere der ki size bunlar mı? tapıyorlardı
 **(41)** derler ki sen yücesin bizim velimiz sensin onlar değil hayır onlar cinlere tapıyorlardı çokları onlara inanıyorlardı
-**(42)**
-**(43)**
+**(42)** o gün birinizin diğerine bir fayda vermeye gücü yetmez ve zarar vermeğe (yetmez) biz zulmeden(lere) kimselere, onu yalanlamakta olduğunuz ateş azabını tadın deriz 
+**(43)** ve onlara ayetlerimiz açık açık okunduğu zaman dediler ki bu babalarınızın tapıyor olduğu(tanrılardan) sizi çevirmek isteyen bir adamdan başka bir şey değildir ve dediler ki bu uydurulmuş bir yalandan başka bir şey değildir ve kendilerine gelen hakkı inkar eden(ler) kimseler bu apaçık bir büyüden başkası değildir dediler 
 **(44)**
 **(45)**
 **(46)**
