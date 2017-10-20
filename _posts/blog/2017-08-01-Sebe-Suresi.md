@@ -56,13 +56,13 @@ tag:
 **(44)** biz onlara okuyacakları hiçbir Kitap vermemiştik ve onlara senden önce hiçbir uyarıcı göndermemiştik
 **(45)** onlardan önceki(ler) kimseler yalanlanmışlardı ve onlara verdiklerimizin onda birine bile erişmemişlerdir fakat elçilerimi yalanladılar ama benim inkarım nasıl oldu
 **(46)** de ki size sadece bir tek (şeyi) öğütleyeyim (şu ki;) Allah için ikişer ikişer ve teker teker kalkın sonra düşünün ki arkadaşınızda hiçbir delilik yoktur O ancak sizin için öncesinde, çetin bir azabın öncesinde bir uyarıcıdır 
-**(47)**
-**(48)**
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
-**(54)**
+**(47)** de ki ben sizden hiçbir ücret istemedim o sizindir benim ücretim yalnız Allah’a aittir ve O her şey üzerine şahiddir
+**(48)** de ki şüphesiz Rabbim gaybleri bilendir gerçeği (kalbine) atar 
+**(49)** de ki artık hak geldi batıl bir şey ortaya çıkaramaz ve geri getiremez
+**(50)** de ki eğer saparsam şüphesiz kendi (zararıma) sapmış olurum ve eğer yolu bulursam şüphesiz Rabbimin bana vahyettiği sayesindedir şüphesiz O işitendir yakındır
+**(51)** şayet telaşa düştükleri zaman bir görsen hiçbiri kurtulamaz ve yakın yerden yakalanmışlardır 
+**(52)** ve ona inandık demektedirler ama uzak yerden elde etmeleri onlar için nasıl olur? 
+**(53)** oysa andolsun onu daha önce inkar etmişlerdi ve uzak yerden görülmeyene atıyorlardı 
+**(54)** onların arasına ve bundan önce benzerlerine yapıldığı gibi arzu ettikleri şeyler arasına perde çekildi doğrusu onlar katmerli bir kuşku içindedirler 
 
 ![34s]({{site.url}}/images/ayrac-muhur.png)
