@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ahzâb
-description: Yaşlılıktan dolayı bunamak, bir kavim, bir devlet, bir şahıs adı.
+description: Bölükler, kısımlar, gruplar; toprağı katı yer.
 excerpt: "33'ncü Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
