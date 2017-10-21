@@ -23,10 +23,10 @@ tag:
 **(11)** işte orada mü’minler denenmişti ve şiddetli bir sarsıntı ile sarsılmışlardı 
 **(12)** ve hani münafıklar ve kalblerinde hastalık bulunanlar Allah ve Resulü boş vaatler dışında bize vaadde bulunmadı diyordu 
 **(13)** ve hani onlardan bir grup demişti ki Yesrib (Medine) halkı artık dönün size duracak yer yoktur ve onlardan bir topluluk evlerimiz gerçekten (sağlam değil) açıktır diyerek peygamberden izin istiyordu oysa onlar(ın evleri) açık değildi kaçmak(tan) başka bir şey istemiyorlardı
-**(14)**
-**(15)**
-**(16)**
-**(17)**
+**(14)** ve eğer her yandan onların üzerine girilseydi sonra baskı ve işkence yapmaları istenseydi elbette yaparlardı ve azıcık dışında bunda gecikmezlerdi 
+**(15)** oysa daha önce arkalarına dön(üp kaç)mayacaklarına Allah’a söz vermişler idiler ve Allah’a verilen sözden sorumlu idiler
+**(16)** de ki eğer ölümden veya öldürülmekten kaçıyorsanız kaçmak size fayda vermez o zaman bile pek az dışında yaşatılmazsınız
+**(17)** de ki şu kimse ki sizi Allah'dan koruyacak kimdir? eğer size bir kötülük istese veya size rahmet dilese Allah’tan başka kendilerine bir dost ne de bir yardımcı bulamazlar 
 **(18)**
 **(19)**
 **(20)**
