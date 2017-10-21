@@ -15,7 +15,7 @@ tag:
 **(3)** ve Allah’a dayan, vekil olarak Allah yeter
 **(4)** Allah (göğüs) boşluğunda bir adama iki kalb yaratmadı ve onlarla zıhar yaptığınız eşlerinizi sizin anneleriniz yapmadı ve evlatlıklarınızı sizin öz oğullarınız kılmadı bunlar sizin ağızlarınıza gelen sözlerinizdir Allah gerçeği söyler ve O doğru yola iletir 
 **(5)** onları babalarına nisbetle çağırın bu Allah yanında daha adaletlidir eğer babalarını bilmiyorsanız onlar sizin dinde kardeşlerinizdir ve dostlarınızdır ve bu konuda yanılarak yaptığınızda size bir günah yoktur fakat kalblerinizin bile bile yaptığında vardır ve Allah çok bağışlayandır çok esirgeyendir
-**(6)**
+**(6)** peygamber mü’minlere canlarından daha yakındır ve onun eşleri onların anneleridir. Allah’ın kitabında (anne tarafından akrabalar),  bir kısmı diğerine öteki mü’minlerden ve muhacirlerden (anne tarafından akrabalar) daha yakındırlar ancak hariç dostlarınıza bir iyilik yapmanız bunlar Kitapta yazılmıştır
 **(7)**
 **(8)**
 **(9)**
