@@ -16,13 +16,13 @@ tag:
 **(4)** Allah (göğüs) boşluğunda bir adama iki kalb yaratmadı ve onlarla zıhar yaptığınız eşlerinizi sizin anneleriniz yapmadı ve evlatlıklarınızı sizin öz oğullarınız kılmadı bunlar sizin ağızlarınıza gelen sözlerinizdir Allah gerçeği söyler ve O doğru yola iletir 
 **(5)** onları babalarına nisbetle çağırın bu Allah yanında daha adaletlidir eğer babalarını bilmiyorsanız onlar sizin dinde kardeşlerinizdir ve dostlarınızdır ve bu konuda yanılarak yaptığınızda size bir günah yoktur fakat kalblerinizin bile bile yaptığında vardır ve Allah çok bağışlayandır çok esirgeyendir
 **(6)** peygamber mü’minlere canlarından daha yakındır ve onun eşleri onların anneleridir. Allah’ın kitabında (anne tarafından akrabalar),  bir kısmı diğerine öteki mü’minlerden ve muhacirlerden (anne tarafından akrabalar) daha yakındırlar ancak hariç dostlarınıza bir iyilik yapmanız bunlar Kitapta yazılmıştır
-**(7)** ve hani biz peygamberlerden ve senden ve Nuh’dan ve İbrahim’den ve Musa’dan ve Meryem oğlu Îsa’dan ahidlerini almıştık ve onlardan sapasağlam söz almıştık 
-**(8)** doğrulara doğruluklarından sorması için ve kafirler için acıklı bir azab hazırlamıştır 
-**(9)**
-**(10)**
-**(11)**
-**(12)**
-**(13)**
+**(7)** ve hani biz peygamberlerden ahidlerini almıştık ve senden ve Nuh’dan ve İbrahim’den ve Musa’dan ve Meryem oğlu Îsa’dan ve onlardan sapasağlam söz almıştık 
+**(8)** doğrulara doğruluklarından sorması için, ve kafirler için acıklı bir azab hazırlamıştır 
+**(9)** ey inanan(lar) kimseler Allah’ın size olan ni’metini hatırlayın hani bir zaman size ordular gelmişti ve biz onların üzerine bir rüzgar ve sizin görmediğiniz ordular göndermiştik ve Allah yaptıklarınız şeyleri görmekte idi 
+**(10)** hani onlar üstünüzden ve sizin alt tarafınızdan gelmişlerdi ve hani gözler kaymıştı ve hançerelere yürekler dayanmıştı ve Allah hakında türlü düşüncelerle zanda bulunuyordunuz 
+**(11)** işte orada mü’minler denenmişti ve şiddetli bir sarsıntı ile sarsılmışlardı 
+**(12)** ve hani münafıklar ve kalblerinde hastalık bulunanlar Allah ve Resulü boş vaatler dışında bize vaadde bulunmadı diyordu 
+**(13)** ve hani onlardan bir grup demişti ki Yesrib (Medine) halkı artık dönün size duracak yer yoktur ve onlardan bir topluluk evlerimiz gerçekten (sağlam değil) açıktır diyerek peygamberden izin istiyordu oysa onlar(ın evleri) açık değildi kaçmak(tan) başka bir şey istemiyorlardı
 **(14)**
 **(15)**
 **(16)**
