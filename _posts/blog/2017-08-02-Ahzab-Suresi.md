@@ -26,7 +26,7 @@ tag:
 **(14)** ve eğer her yandan onların üzerine girilseydi sonra baskı ve işkence yapmaları istenseydi elbette yaparlardı ve azıcık dışında bunda gecikmezlerdi 
 **(15)** oysa daha önce arkalarına dön(üp kaç)mayacaklarına Allah’a söz vermişler idiler ve Allah’a verilen sözden sorumlu idiler
 **(16)** de ki eğer ölümden veya öldürülmekten kaçıyorsanız kaçmak size fayda vermez o zaman bile pek az dışında yaşatılmazsınız
-**(17)** de ki sizi Allah'dan koruyacak şu kimse ki kimdir? eğer size bir kötülük istese veya size rahmet dilese Allah’tan başka kendilerine bir dost ne de bir yardımcı bulamazlar 
+**(17)** de ki kimdir? sizi Allah'dan koruyacak şu kimse ki eğer size bir kötülük istese veya size rahmet dilese Allah’tan başka kendilerine bir dost ne de bir yardımcı bulamazlar 
 **(18)**
 **(19)**
 **(20)**
