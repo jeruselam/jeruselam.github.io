@@ -27,8 +27,8 @@ tag:
 **(15)** oysa daha önce arkalarına dön(üp kaç)mayacaklarına Allah’a söz vermişler idiler ve Allah’a verilen sözden sorumlu idiler
 **(16)** de ki eğer ölümden veya öldürülmekten kaçıyorsanız kaçmak size fayda vermez o zaman bile pek az dışında yaşatılmazsınız
 **(17)** de ki kimdir? sizi Allah'dan koruyacak şu kimse ki eğer size bir kötülük istese veya size rahmet dilese Allah’tan başka kendilerine bir dost ne de bir yardımcı bulamazlar 
-**(18)**
-**(19)**
+**(18)** Allah içinizden alıkoyanları ve kardeşlerine bize gelin diyenleri elbette biliyor pek azı dışında onlar savaşa gelmezler 
+**(19)** size karşı cimriler olarak, ne zaman ki onların üstüne ölüm baygınlığı gibi korku gelince gözleri dönerek sana baktıklarını görürsün ne zaman ki korku gidince hayra karşı düşkünlük göstererek sivri dillerle sizi incitirler onlar inanmamışlar Allah onların işlerini bu yüzden boşa çıkarmıştır ve bu Allah’a göre kolaydır
 **(20)**
 **(21)**
 **(22)**
