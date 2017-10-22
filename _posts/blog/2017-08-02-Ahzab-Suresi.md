@@ -33,8 +33,8 @@ tag:
 **(21)** andolsun sizin için Allah’ın Elçisinde, Allah’a ve ahiret gününe kavuşmaya inanan ve Allah’ı çokça anan kimseler için en güzel bir örnek vardır 
 **(22)** mü’minler (düşman) orduları gördükleri zaman bu Allah’ın ve Resulünün bize va’dettiğidir ve Allah ve Resulü doğrudur dediler ve imanlarını ve teslimiyetlerini başka bir şey artırmadı 
 **(23)** mü’minlerden erkekler Allah üzerine verdikleri sözde durdular onlardan kimi adağını yerine getirdi ve onlardan kimi (şehidlik) beklemektedir ve asla (sözlerini) değişiklikle değiştirmemişlerdir
-**(24)**
-**(25)**
+**(24)** Allah doğruları doğruluklarıyle mükafatladırsın ve şayet dilerse iki yüzlülere azabetsin yahut onlardan tevbelerini kabul buyursun şüphesiz Allah çok bağışlayandır çok esirgeyendir
+**(25)** Allah kimseleri, inkar edenleri öfkeleriyle geri çevirdi hayra eremediler ve Allah savaşta mü’minlere yeter ve Allah güçlüdür üstündür
 **(26)**
 **(27)**
 **(28)**
