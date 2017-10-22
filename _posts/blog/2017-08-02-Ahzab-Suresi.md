@@ -35,10 +35,10 @@ tag:
 **(23)** mü’minlerden erkekler Allah üzerine verdikleri sözde durdular onlardan kimi adağını yerine getirdi ve onlardan kimi (şehidlik) beklemektedir ve asla (sözlerini) değişiklikle değiştirmemişlerdir
 **(24)** Allah doğruları doğruluklarıyle mükafatladırsın ve şayet dilerse iki yüzlülere azabetsin yahut onlardan tevbelerini kabul buyursun şüphesiz Allah çok bağışlayandır çok esirgeyendir
 **(25)** Allah kimseleri, inkar edenleri öfkeleriyle geri çevirdi hayra eremediler ve Allah savaşta mü’minlere yeter ve Allah güçlüdür üstündür
-**(26)**
-**(27)**
-**(28)**
-**(29)**
+**(26)** ve Kitap ehlinden onlara yardım eden kimseleri kalelerinden indirdi ve kalbleri içine korku düşürdü bir kısmını öldürüyordunuz ve bir kısmını da esir alıyordunuz 
+**(27)** ve topraklarını ve yurtlarını ve mallarını ve henüz ayak basmadığınız bir toprağı size miras verdi ve Allah her şey üzerine kadirdir
+**(28)** ey peygamber eşlerine söyle eğer siz dünya hayatını ve süsünü istiyorsanız gelin size (boşanma bedeli) vereyim ve güzel bir salışla sizi salayım 
+**(29)** ve eğer siz Allah’ı ve Eçisini ve ahiret yurdunu istiyorsanız şüphesiz Allah sizden güzel hareket edenlere büyük bir mükafat hazırlamıştır
 **(30)**
 **(31)**
 **(32)**
