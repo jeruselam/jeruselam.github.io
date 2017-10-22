@@ -39,10 +39,10 @@ tag:
 **(27)** ve topraklarını ve yurtlarını ve mallarını ve henüz ayak basmadığınız bir toprağı size miras verdi ve Allah her şey üzerine kadirdir
 **(28)** ey peygamber eşlerine söyle eğer siz dünya hayatını ve süsünü istiyorsanız gelin size (boşanma bedeli) vereyim ve güzel bir salışla sizi salayım 
 **(29)** ve eğer siz Allah’ı ve Eçisini ve ahiret yurdunu istiyorsanız şüphesiz Allah sizden güzel hareket edenlere büyük bir mükafat hazırlamıştır
-**(30)**
-**(31)**
-**(32)**
-**(33)**
+**(30)** peygamber kadınları sizden kim açık bir fuhuş (edepsizlik) yaparsa onun için azab iki kat artırılır ve bu Allah’a göre kolaydır
+**(31)** fakat Allah’a ve Resulüne sizden kim ita’ate devam ederse ve yararlı iş yaparsa ona mükafatını iki kez veririz ve onun için bol bir rızık hazırlamışızdır 
+**(32)** peygamber kadınları siz kadınlardan herhangi biri gibi değilsiniz eğer (Allah’tan) sakınıyorsanız sözlerinizde yumuşak bir eda yapmayın kalbinde hastalık bulunan böylece tamah etmesin ve güzel bir söz söyleyin 
+**(33)** ve evlerinizde vakarla oturun ilk cahiliyenin açılıp kırıtması gibi asla açılıp kırıtmayın ve namazı kılın ve zekatı verin ve Allah’a ve Resulüne ita’at edin (ey) Ehl-i Beyt şüphesiz Allah sizden kiri gidermek ve sizi tertemiz temizlemek istiyor
 **(34)**
 **(35)**
 **(36)**
