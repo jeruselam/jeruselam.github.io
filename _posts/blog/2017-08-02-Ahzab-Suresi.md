@@ -60,7 +60,7 @@ tag:
 **(48)** ve kafirlere ve münafıklara asla ita’at etme ve onların eziyetlerine aldırma ve Allah’a dayan ve Allah vekil olarak yeter 
 **(49)** ey inanan(lar)	kimseler inanan kadınları nikahladığınız zaman sonra onlara dokunmadan önce boşarsanız size onların üzerinde sayacağınız bir iddet (hakkınız) yoktur hemen geçimliklerini verin ve onları güzel bir bırakışla serbest bırakın 
 **(50)** ey peygamber şüphesiz biz sana ücretlerini verdiğin (mehirlerini) eşlerini ve Allah’ın sana ganimet verdiğinden elinde bulunanları ve amcanın kızlarını ve halalarının kızlarını ve dayının kızlarını ve seninle beraber hicret eden teyzelerinin kızlarını ve eğer peygambere kendisini hibe ederse eğer peygamberi kendisini nikahlamayı dilediyse inanmış kadını mü’minlerin dışında sana mahsus olarak helal kıldık sana bir zorluk olmaması için eşleri ve ellerinin bulunanlar hakkında onlara gerekli kıldığımız şeyi elbette biz biliyoruz ve Allah çok bağışlayan çok esirgeyendir
-**(51)** 
+**(51)** onlardan dilediği kimseyi geri bırakır ve dilediğin kimseyi yanına alırsın ve ayrıldıklarından arzu ettiği(ne dönmekte) kimseye senin üzerine bir günah yoktur 
 **(52)** 
 **(53)** 
 **(54)** 
