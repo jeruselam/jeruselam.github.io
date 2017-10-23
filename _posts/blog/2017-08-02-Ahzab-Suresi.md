@@ -59,7 +59,7 @@ tag:
 **(47)** ve mü’minlere müjdele ki gerçekten onlara Allahtan büyük bir lutuf vardır 
 **(48)** ve kafirlere ve münafıklara asla ita’at etme ve onların eziyetlerine aldırma ve Allah’a dayan ve Allah vekil olarak yeter 
 **(49)** ey inanan(lar)	kimseler inanan kadınları nikahladığınız zaman sonra onlara dokunmadan önce boşarsanız size onların üzerinde sayacağınız bir iddet (hakkınız) yoktur hemen geçimliklerini verin ve onları güzel bir bırakışla serbest bırakın 
-**(50)**
+**(50)** ey peygamber şüphesiz biz sana ücretlerini verdiğin (mehirlerini) eşlerini ve Allah’ın sana ganimet verdiğinden elinde bulunanları helal kıldık 
 **(51)** 
 **(52)** 
 **(53)** 
