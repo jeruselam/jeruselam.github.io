@@ -52,13 +52,13 @@ tag:
 **(40)** Muhammed sizin erkeklerinizden birinin babası değildir fakat Allah’ın Elçisidir ve peygamberlerin sonuncusudur ve Allah her şeyi bilendir
 **(41)** ey inanan(lar) kimseler Allah’ı çok anışla anın
 **(42)** ve sabah akşam O’nu tesbih edin 
-**(43)**
-**(44)**
-**(45)**
-**(46)**
-**(47)**
-**(48)**
-**(49)**
+**(43)** O (Allah) ki sizi karanlıklardan aydınlığa çıkarmak için üzerinize ve melekleri(üzerine) rahmet eder ve inananlara karşı çok esirgeyendir
+**(44)** kendisine kavuştukları gün selam ile karşılanırlar ve onlara güzel bir mükafat hazırlanmıştır 
+**(45)** ey peygamber elbette biz seni şahid ve müjdeci ve uyarıcı gönderdik 
+**(46)** ve izniyle Allah’a da’vetçi ve aydınlatıcı bir lamba 
+**(47)** ve mü’minlere müjdele ki gerçekten onlara Allahtan büyük bir lutuf vardır 
+**(48)** ve kafirlere ve münafıklara asla ita’at etme ve onların eziyetlerine aldırma ve Allah’a dayan ve Allah vekil olarak yeter 
+**(49)** ey inanan(lar)	kimseler inanan kadınları nikahladığınız zaman sonra onlara dokunmadan önce boşarsanız size onların üzerinde sayacağınız bir iddet (hakkınız) yoktur hemen geçimliklerini verin ve onları güzel bir bırakışla serbest bırakın 
 **(50)**
 **(51)** 
 **(52)** 
