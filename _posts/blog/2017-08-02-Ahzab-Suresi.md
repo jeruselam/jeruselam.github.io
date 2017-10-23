@@ -45,8 +45,8 @@ tag:
 **(33)** ve evlerinizde vakarla oturun ilk cahiliyenin açılıp kırıtması gibi asla açılıp kırıtmayın ve namazı kılın ve zekatı verin ve Allah’a ve Resulüne ita’at edin (ey) Ehl-i Beyt şüphesiz Allah sizden kiri gidermek ve sizi tertemiz temizlemek istiyor
 **(34)** ve Allah’ın ayetlerinden evlerinizde okunanı ve hikmeti hatırlayın şüphesiz Allah latiftir haber alandır
 **(35)** şüphesiz müslüman erkekler ve müslüman kadınlar, mü’min erkekler ve mü’min kadınlar, ta’ate devam eden erkekler ve ta’ate devam eden kadınlar, doğru erkekler ve doğru kadınlar, sabreden erkekler ve sabreden kadınlar, saygılı erkekler ve saygılı kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve koruyan kadınlar, Allah’ı çok zikreden erkekler ve zikreden kadınlar, Allah bunlar için bağışlanma ve büyük bir mükafat hazırlamıştır 
-**(36)**
-**(37)**
+**(36)** Allah ve Resulü bir işte hüküm verdiği zaman inanmış bir erkek için ve inanmış kadın (için), onlar için o işi seçme hakkı olması, artık yoktur ve kim Allah’a ve Resulüne karşı gelirse elbette apaçık bir sapkınlıkla sapıklığa düşer
+**(37)** ve hani Allah’ın ona ni’met verdiği ve senin ni’met verdiğin kimseye eşini yanında tut ve Allah’tan kork diyordun fakat Allah’ın açığa vuracağı şeyi içinde gizliyordun ve insanlardan çekiniyordun çekinmene layık olan Allah’tır ne zaman ki Zeyd o kadından ilişiğini kesince, biz onu evlatlıkları kadınlarıyle ilişkilerini kestikleri zaman evlenmek hususunda mü’minler üzerine bir güçlük olmaması için, sana nikahladık
 **(38)**
 **(39)**
 **(40)**
