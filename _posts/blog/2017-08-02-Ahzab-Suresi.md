@@ -60,9 +60,9 @@ tag:
 **(48)** ve kafirlere ve münafıklara asla ita’at etme ve onların eziyetlerine aldırma ve Allah’a dayan ve Allah vekil olarak yeter 
 **(49)** ey inanan(lar)	kimseler inanan kadınları nikahladığınız zaman sonra onlara dokunmadan önce boşarsanız size onların üzerinde sayacağınız bir iddet (hakkınız) yoktur hemen geçimliklerini verin ve onları güzel bir bırakışla serbest bırakın 
 **(50)** ey peygamber şüphesiz biz sana ücretlerini verdiğin (mehirlerini) eşlerini ve Allah’ın sana ganimet verdiğinden elinde bulunanları ve amcanın kızlarını ve halalarının kızlarını ve dayının kızlarını ve seninle beraber hicret eden teyzelerinin kızlarını ve eğer peygambere kendisini hibe ederse eğer peygamberi kendisini nikahlamayı dilediyse inanmış kadını mü’minlerin dışında sana mahsus olarak helal kıldık sana bir zorluk olmaması için eşleri ve ellerinin bulunanlar hakkında onlara gerekli kıldığımız şeyi elbette biz biliyoruz ve Allah çok bağışlayan çok esirgeyendir
-**(51)** onlardan dilediği kimseyi geri bırakır ve dilediğin kimseyi yanına alırsın ve ayrıldıklarından arzu ettiği(ne dönmekte) kimseye senin üzerine bir günah yoktur 
-**(52)** 
-**(53)** 
+**(51)** onlardan dilediği kimseyi geri bırakır ve dilediğin kimseyi yanına alırsın ve ayrıldıklarından arzu ettiği kimseye (ne dönmekte) senin üzerine bir günah yoktur, onların gözlerinin aydınlanmasına ve tasalanmamalarına ve senin verdiklerine hepsinin razı olmalarına en elverişli olan budur Allah sizin kalblerinizde olanı bilir ve Allah bilendir halimdir
+**(52)** bundan sonra (başka) kadınlar sana helal değildir ve şayet güzellikleri çok hoşuna gitse de bunları başka eşlerle değiştirmen yoktur, elinde bulunanlar (cariyeler) bunun dışındadır ve Allah her şey üzerine gözetleyicidir
+**(53)** ey inanan(lar) kimseler Peygamber’in evlerine girmeyin ancak vaktini gözetleyiciler olmadan, size yemeğe izin verilmesi hariçtir fakat çağrıldığınız zaman girin, yemeği yeyince dağılın, söze dalmayın çünkü bu Peygamberi incitiyordu fakat o sizden utanıyordu fakat Allah gerçek(i söylemek)ten utanmaz, onlarda bir şey istediğiniz zaman perde arkasından isteyin, sizin kalbleriniz için ve onların kalbleri için bu daha temizdir ve Allah’ın Elçisini sizin incitmeniz olamaz ve kendisinden sonra onun eşlerini nikahlamanız asla olamaz çünkü bu Allah katında büyük(bir günah)tır
 **(54)** 
 **(55)** 
 **(56)**
