@@ -70,15 +70,15 @@ tag:
 **(58)** mü’min erkekleri ve mü’min kadınları yaptıklarının dışındaki bir şeyle incitenler elbette bir iftira ve açık bir günah yüklenmişlerdir
 **(59)** ey Peygamber inananların eşlerine ve kızlarına ve kadınlarına söyle örtülerini üstlerine salsınlar onların tanınması için incitilmemesi için en elverişli olan budur ve Allah çok bağışlayandır çok esirgeyendir
 **(60)** andolsun iki yüzlüler ve kalblerinde bir hastalık bulunanlar şehirde kötü haberler yayanlar eğer vazgeçmezlerse seni onların üstüne süreriz sonra orada senin yanında az bir zaman dışında kalamazlar
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)**
-**(67)**
-**(68)**
-**(69)**
+**(61)** la’netlenirler nerede rastlansalar yakalanırlar ve şiddetle öldürülürler
+**(62)** Allah’ın önceden geçen(millet)ler arasındaki sünneti (yasası) budur ve Allah’ın sünnetini (yasasını) değiştirmeğe (imkan) bulamazsın 
+**(63)** insanlar sana sa’atten soruyorlar de ki şüphesiz onun bilgisi Allah’ın yanındadır ve ne? bilirsin belki sa’at yakın olur
+**(64)** şüphesiz Allah kafirlere la’net etmiştir ve onlar için çılgın bir ateş hazırlamıştır 
+**(65)** ebediyyen orada kalacaklardır bir dost ve ne de yardımcı bulamayacaklardır 
+**(66)** ateşin içinde yüzleri çevrildiği gün derler ki keşke biz Allah’a ita’at etseydik ve elçiye ita’at etseydik 
+**(67)** ve dediler ki rabbimiz şüphesiz biz beylerimize ve büyüklerimize uyduk bizi yoldan saptırdılar
+**(68)** rabbimiz onlara azab ikidan kat ver ve onlara büyük bir la’netle la’net eyle 
+**(69)** ey inanan(lar)	kimseler Musa’ya eziyet eden kimseler gibi olmayın Allah onların dediklerinden onu beraat[uzak üstünlük] ettirdi ve Allah yanında itibarlı idi 
 **(70)**
 **(71)** 
 **(72)** 
