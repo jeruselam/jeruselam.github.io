@@ -63,9 +63,9 @@ tag:
 **(51)** onlardan dilediği kimseyi geri bırakır ve dilediğin kimseyi yanına alırsın ve ayrıldıklarından arzu ettiği kimseye (ne dönmekte) senin üzerine bir günah yoktur, onların gözlerinin aydınlanmasına ve tasalanmamalarına ve senin verdiklerine hepsinin razı olmalarına en elverişli olan budur Allah sizin kalblerinizde olanı bilir ve Allah bilendir halimdir
 **(52)** bundan sonra (başka) kadınlar sana helal değildir ve şayet güzellikleri çok hoşuna gitse de bunları başka eşlerle değiştirmen yoktur, elinde bulunanlar (cariyeler) bunun dışındadır ve Allah her şey üzerine gözetleyicidir
 **(53)** ey inanan(lar) kimseler Peygamber’in evlerine girmeyin ancak vaktini gözetleyiciler olmadan, size yemeğe izin verilmesi hariçtir fakat çağrıldığınız zaman girin, yemeği yeyince dağılın, söze dalmayın çünkü bu Peygamberi incitiyordu fakat o sizden utanıyordu fakat Allah gerçek(i söylemek)ten utanmaz, onlarda bir şey istediğiniz zaman perde arkasından isteyin, sizin kalbleriniz için ve onların kalbleri için bu daha temizdir ve Allah’ın Elçisini sizin incitmeniz olamaz ve kendisinden sonra onun eşlerini nikahlamanız asla olamaz çünkü bu Allah katında büyük(bir günah)tır
-**(54)** 
-**(55)** 
-**(56)**
+**(54)** eğer bir şeyi açığa vursanız yahut onu gizleseniz şüphesiz Allah her şeyi bilmektedir
+**(55)** babaları hakkında onlara bir günah yoktur ve oğulları yoktur ve kardeşleri yoktur ve kardeşlerinin oğulları yoktur ve kızkardeşlerinin oğulları yoktur ve kadınları yoktur ve ellerinde bulunan(köle)leri yoktur ve Allah’tan korkun şüphesiz Allah her şey üzerine şahittir
+**(56)** şüphesiz Allah ve melekleri Peygamber üzerine salat[tebrik, övgü, dua, rahmet] etmektedir ey kimseler inanan(lar) siz de ona salat edin ve içtenlikle selam edin 
 **(57)**
 **(58)**
 **(59)**
