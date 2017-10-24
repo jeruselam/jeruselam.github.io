@@ -69,7 +69,7 @@ tag:
 **(57)** şüphesiz Allah’ı ve Elçisini incitenler Allah onlara dünyada ve ahirette la’net etmiştir ve onlar için alçaltıcı bir azab hazırlamıştır 
 **(58)** mü’min erkekleri ve mü’min kadınları yaptıklarının dışındaki bir şeyle incitenler elbette bir iftira ve açık bir günah yüklenmişlerdir
 **(59)** ey Peygamber inananların eşlerine ve kızlarına ve kadınlarına söyle örtülerini üstlerine salsınlar onların tanınması için incitilmemesi için en elverişli olan budur ve Allah çok bağışlayandır çok esirgeyendir
-**(60)**
+**(60)** andolsun iki yüzlüler ve kalblerinde bir hastalık bulunanlar şehirde kötü haberler yayanlar eğer vazgeçmezlerse seni onların üstüne süreriz sonra orada senin yanında az bir zaman dışında kalamazlar
 **(61)** 
 **(62)** 
 **(63)** 
