@@ -66,9 +66,9 @@ tag:
 **(54)** eğer bir şeyi açığa vursanız yahut onu gizleseniz şüphesiz Allah her şeyi bilmektedir
 **(55)** babaları hakkında onlara bir günah yoktur ve oğulları yoktur ve kardeşleri yoktur ve kardeşlerinin oğulları yoktur ve kızkardeşlerinin oğulları yoktur ve kadınları yoktur ve ellerinde bulunan(köle)leri yoktur ve Allah’tan korkun şüphesiz Allah her şey üzerine şahittir
 **(56)** şüphesiz Allah ve melekleri Peygamber üzerine salat[tebrik, övgü, dua, rahmet] etmektedir ey kimseler inanan(lar) siz de ona salat edin ve içtenlikle selam edin 
-**(57)**
-**(58)**
-**(59)**
+**(57)** şüphesiz Allah’ı ve Elçisini incitenler Allah onlara dünyada ve ahirette la’net etmiştir ve onlar için alçaltıcı bir azab hazırlamıştır 
+**(58)** mü’min erkekleri ve mü’min kadınları yaptıklarının dışındaki bir şeyle incitenler elbette bir iftira ve açık bir günah yüklenmişlerdir
+**(59)** ey Peygamber inananların eşlerine ve kızlarına ve kadınlarına söyle örtülerini üstlerine salsınlar onların tanınması için incitilmemesi için en elverişli olan budur ve Allah çok bağışlayandır çok esirgeyendir
 **(60)**
 **(61)** 
 **(62)** 
