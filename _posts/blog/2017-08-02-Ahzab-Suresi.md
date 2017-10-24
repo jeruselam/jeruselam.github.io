@@ -79,9 +79,9 @@ tag:
 **(67)** ve dediler ki rabbimiz şüphesiz biz beylerimize ve büyüklerimize uyduk bizi yoldan saptırdılar
 **(68)** rabbimiz onlara azab ikidan kat ver ve onlara büyük bir la’netle la’net eyle 
 **(69)** ey inanan(lar)	kimseler Musa’ya eziyet eden kimseler gibi olmayın Allah onların dediklerinden onu beraat[uzak üstünlük] ettirdi ve Allah yanında itibarlı idi 
-**(70)**
-**(71)** 
-**(72)** 
-**(73)** 
+**(70)** ey inanan(lar) kimseler Allah’tan korkun ve doğru söz söyleyin 
+**(71)** sizin işlerinizi düzeltsin ve sizin günahlarınızı bağışlasın ve kim Allah’a ve Resulüne ita’at ederse elbette büyük bir başarıya ermiş olur
+**(72)** şüphesiz biz emaneti göklere ve yere ve dağlara sunduk fakat onu yüklenmekten kaçındılar ve ondan korktular ve onu insan yüklendi doğrusu o çok zalimdir çok cahildir
+**(73)** Allah iki yüzlü erkeklere ve iki yüzlü kadınlara ve ortak koşan erkeklere ve ortak koşan kadınlara azab etsin diye ve Allah inanan erkekleri ve inanan kadınları bağışlasın diye ve Allah çok bağışlayandır çok esirgeyendir
 
 ![33a-Medeni]({{site.url}}/images/ayrac-muhur.png)
