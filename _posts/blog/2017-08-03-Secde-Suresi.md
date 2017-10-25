@@ -12,9 +12,9 @@ tag:
 
 **(1)** Elif Lâm Mîm
 **(2)** Kitabın indirilişi onda şüphe yoktur alemlerin Rabb'indendir
-**(3)** yoksa? onu uydurdu diyorlar hayır o Rabbin tarafından gerçektir 
-**(4)** 
-**(5)** 
+**(3)** yoksa? onu uydurdu diyorlar hayır o doğru yola gelirler umuduyla senden önce kendilerine hiçbir uyarıcı gelmeyen bir kavmi uyarman için Rabbin tarafından gerçektir 
+**(4)** Allah ki gökleri ve yeri ve bunlar arasındakileri altı günde yarattı sonra Arş üzerine istiva[istikamet ve karar] etti sizin O’ndan başka hiçbir dostunuz yoktur ve şefa’atçiniz[af için vesile] yoktur düşünüp öğüt almıyor musunuz?
+**(5)** gökten yere emri tedbir eder (indirir) sonra bir gün içinde O’na çıkar onun süresi sizin hesabınızca bin yıldır
 **(6)**
 **(7)**
 **(8)**
