@@ -11,9 +11,9 @@ tag:
 
 ## 104. Humeze Sûresi
 
-**(1)** Diliyle çekiştiren, kaş göz işaretleriyle alay eden herkesin vay haline
+**(1)** diliyle çekiştiren, kaş göz işaretleriyle alay eden herkesin vay haline
 **(2)** o ki mal yığdı ve onu saydı durdu
-**(3)** muhakkak malının onu ebedi yaşatacağını sanıyor
+**(3)** malının onu ebedi yaşatacağını muhakkak sanıyor
 **(4)** Hayır andolsun o Hutame’ye atılacaktır
 **(5)** Huteme nedir? nedir bilir misin?
 **(6)** Allah’ın tutuşturulmuş ateşidir
