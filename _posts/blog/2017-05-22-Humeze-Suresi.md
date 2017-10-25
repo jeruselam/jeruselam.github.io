@@ -19,4 +19,4 @@ tag:
 **(6)** Allah’ın tutuşturulmuş ateşidir
 **(7)** ki gönüllere işler
 **(8)** şüphesiz o onların üzerine kapatılıp kilitlenecektir
-**(9)** direkler arasında uzatılmış 
+**(9)** uzatılmış direkler arasında 
