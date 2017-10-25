@@ -10,9 +10,9 @@ tag:
 
 ## 32. Secde Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
+**(1)** Elif Lâm Mîm
+**(2)** Kitabın indirilişi onda şüphe yoktur alemlerin Rabb'indendir
+**(3)** yoksa? onu uydurdu diyorlar hayır o Rabbin tarafından gerçektir 
 **(4)** 
 **(5)** 
 **(6)**
