@@ -19,7 +19,7 @@ tag:
 **(7)** O’dur ki yarattığı her şeyi güzel yaptı ve insanı çamurdan yaratmağa başladı 
 **(8)** sonra hakir[küçük, kıymetsiz, ehemniyetsiz, itibarsız, kudretsiz] bir suyun bir özünden onun neslini yaptı 
 **(9)** sonra ona biçim verdi ve ona kendi ruhundan üfledi ve sizin  için kulak(lar) ve gözler ve gönüller yarattı ne kadar az şükrediyorsunuz
-**(10)**
+**(10)** ve biz toprakta kaybolduktan sonra mı? biz mi? yeni bir yaratılış içinde olacağız dediler doğrusu onlar Rablerine kavuşmayı inkar edenlerdir
 **(11)**
 **(12)**
 **(13)**
