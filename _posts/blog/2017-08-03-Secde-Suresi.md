@@ -20,8 +20,8 @@ tag:
 **(8)** sonra hakir[küçük, kıymetsiz, ehemniyetsiz, itibarsız, kudretsiz] bir suyun bir özünden onun neslini yaptı 
 **(9)** sonra ona biçim verdi ve ona kendi ruhundan üfledi ve sizin  için kulak(lar) ve gözler ve gönüller yarattı ne kadar az şükrediyorsunuz
 **(10)** ve biz toprakta kaybolduktan sonra mı? biz mi? yeni bir yaratılış içinde olacağız dediler doğrusu onlar Rablerine kavuşmayı inkar edenlerdir
-**(11)** de ki üzerinize vekil edilen ölüm meleği canınızı alır 
-**(12)**
+**(11)** de ki üzerinize vekil edilen ölüm meleği canınızı alır sonra Rabbinize döndürülürsünüz
+**(12)** ve eğer Rablerinin huzurunda başlarını öne eğmiş suçluları, Rabbimiz gördük ve işittik, bizi geri döndür, iyi iş yapalım artık biz kesin olarak inandık (demekte) iken bir görsen 
 **(13)**
 **(14)**
 **(15)**
