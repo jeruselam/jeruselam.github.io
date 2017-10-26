@@ -22,13 +22,13 @@ tag:
 **(10)** ve biz toprakta kaybolduktan sonra mı? biz mi? yeni bir yaratılış içinde olacağız dediler doğrusu onlar Rablerine kavuşmayı inkar edenlerdir
 **(11)** de ki üzerinize vekil edilen ölüm meleği canınızı alır sonra Rabbinize döndürülürsünüz
 **(12)** ve eğer Rablerinin huzurunda başlarını öne eğmiş suçluları, Rabbimiz gördük ve işittik, bizi geri döndür, iyi iş yapalım artık biz kesin olarak inandık (demekte) iken bir görsen 
-**(13)**
-**(14)**
-**(15)**
-**(16)**
-**(17)**
-**(18)**
-**(19)**
+**(13)** ve şayet dileseydik her nefse hidayetini verirdik fakat benden söz hak oldu cinlerden ve insanlardan bir kısmiyle cehennemi mutlaka dolduracağım 
+**(14)** o halde bu gününüzle karşılaşmayı unutmanızın karşılığını (cezasını) tadın biz de sizi unuttuk ve yapıyor(lar) oluklarınızdan ötürü ebedi azabı tadın 
+**(15)** o kimseler ki ancak bizim ayetlerimize inanırlar, kendilerine öğüt verildiği zaman derhal secdeye kapanırlar ve Rablerini överek tesbih ederler ve onlar asla büyüklük taslamazlar
+**(16)** yanları yataklardan uzaklaşır korkarak ve umarak Rablerine du’a ederler ve rızıklandırdığımız şeylerden hayır için harcarlar
+**(17)** ve yapıyor(lar) oldukları şeylere karşılık olarak onlar için gözler aydınlatıcı ne saklandığını hiç kimse asla bilemez
+**(18)** inanan kişi hiç fasık olan kimse gibi olur mu? elbette bir olmazlar
+**(19)** fakat inananlar ve iyi işler yapanlar, onlar yapıyor(lar) olduklarına karşılık durulmağa değer cennetlerde ağırlanırlar
 **(20)**
 **(21)**
 **(22)**
