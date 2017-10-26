@@ -35,10 +35,10 @@ tag:
 **(23)** ve andolsun Musa’ya Kitabı biz verdik, onun ulaşmasından sakın kuşku içinde olma ve onu İsrail oğullarına yol gösterici yaptık 
 **(24)** ve onların içinden sabrettikleri zaman ve ayetlerimize kesinlikle inanıyor olduklarında buyruğumuzla doğru yola ileten önderler yetiştirmiştik
 **(25)** şüphesiz O kıyamet günü oldukları şeylerde onların aralarında Rabbin ayrılığa düştükleri konularda hükmedecektir 
-**(26)**
-**(27)**
-**(28)**
-**(29)**
-**(30)**
+**(26)** yurtlarında dolaştıkları daha önceki nice kuşakları helak etmemiz onları yola getirmedi mi? şüphesiz bunda ibretler vardır işitmiyorlar mı?
+**(27)** biz kuru otsuz	yere suyu sürüyoruz görmüyorlar mı? ve onunla ekin bitiriyoruz hayvanları da kendileri de ondan yiyor görmüyorlar mı?
+**(28)** ve eğer doğrular(dan) iseniz bu fetih ne zaman? diyorlar 
+**(29)** de ki inkar eden(lere) kimselere fetih günü inanmaları fayda vermez ve onlar mühlet verilenler(den) değildir 
+**(30)** sen onlardan yüz çevir ve bekle zaten onlar da beklemektedirler
 
 ![32s-Mekki]({{site.url}}/images/ayrac-muhur.png)
