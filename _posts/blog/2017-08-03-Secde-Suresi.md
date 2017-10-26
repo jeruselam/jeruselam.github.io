@@ -29,12 +29,12 @@ tag:
 **(17)** ve yapıyor(lar) oldukları şeylere karşılık olarak onlar için gözler aydınlatıcı ne saklandığını hiç kimse asla bilemez
 **(18)** inanan kişi hiç fasık olan kimse gibi olur mu? elbette bir olmazlar
 **(19)** fakat inananlar ve iyi işler yapanlar, onlar yapıyor(lar) olduklarına karşılık durulmağa değer cennetlerde ağırlanırlar
-**(20)**
-**(21)**
-**(22)**
-**(23)**
-**(24)**
-**(25)**
+**(20)** ve fakat yoldan çıkanların barınacakları yer ateştir oradan her çıkmak istediklerinde yine oraya geri çevrilirler ve onlara denilir onu yalanlamakta olduğunuz ateş azabını tadın 
+**(21)** azabdan büyük ayrı olarak daha yakın azabdan mutlaka onlara taddıracağız belki dönerler
+**(22)** ve Rabbinin ayetleriyle öğüt verilen sonra onlardan yüz çeviren kimseden daha zalim kim olabilir? muhakkak ki biz suçlulardan öç alıcıyız 
+**(23)** ve andolsun Musa’ya Kitabı biz verdik, onun ulaşmasından sakın kuşku içinde olma ve onu İsrail oğullarına yol gösterici yaptık 
+**(24)** ve onların içinden sabrettikleri zaman ve ayetlerimize kesinlikle inanıyor olduklarında buyruğumuzla doğru yola ileten önderler yetiştirmiştik
+**(25)** şüphesiz O kıyamet günü oldukları şeylerde onların aralarında Rabbin ayrılığa düştükleri konularda hükmedecektir 
 **(26)**
 **(27)**
 **(28)**
