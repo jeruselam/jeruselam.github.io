@@ -28,10 +28,10 @@ tag:
 **(16)** yavrum eğer onlar hardal danesi ağırlığınca bir şey olsa ve bir kayanın içinde veya göklerde veya yerde bulunsa Allah onu mutlaka getirir
 **(17)** yavrum namazı kıl ve iyiliği emret ve kötülükten vazgeçir ve başına ne geldiyse sabret çünkü bunlar yapılması gereken işlerdendir
 **(18)** yüzünü insanlardan asla çevirne ve yeryüzünde böbürlenerek[aşırı derecede sevinmeler] yürüme zira Allah hepsini kendini beğenenleri, övünenleri sevmez
-**(19)**
-**(20)**
-**(21)**
-**(22)**
+**(19)** ve yürüyüşünde tutumlu ol[istikamet üzere] ve sesini kıs çünkü seslerin en çirkini eşeklerin sesidir 
+**(20)** elbette Allah göklerde bulunanları ve yerde bulunanları size boyun eğdirdi görmediniz mi? ve görünür ve gizli ni’metlerini size bol bol verdi ve insanlardan kimi var ki bilgisi olmadan ve yol göstereni olmadan ve aydınlatıcı bir Kitabı olmadan Allah hakkında tartışır (durur) 
+**(21)** ne zaman ki onlara Allah’ın indirdiğine uyun dense hayır biz babalarımızı üzerinde bulduğumuz şeye uyarız derler şayet şeytan onları alevli ateşin azabına çağırmış olsa da mı? 
+**(22)** ve kim Allah’a ve o güzel davranarak yüzünü teslim ederse elbette o en sağlam kulpa yapışmıştır ve işlerin sonu Allah’a döner 
 **(23)**
 **(24)**
 **(25)**
