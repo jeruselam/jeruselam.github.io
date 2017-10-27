@@ -13,7 +13,7 @@ tag:
 **(1)** Elif Lâm Mîm
 **(2)** şunlar hikmetli Kitabın ayetleridir
 **(3)** güzel davrananlara yol göstericidir ve rahmettir
-**(4)** onlar ki namazı kılarlar ve zekatı verirler ve onlar ahirete onlar kesin olarak inanırlar
+**(4)** onlar ki namazı kılarlar ve zekatı verirler ve onlar ahirete, onlar kesin olarak inanırlar
 **(5)** işte onlar Rableri tarafından doğru bir yol üzerindedirler ve işte onlar umduklarına ereceklerdir
 **(6)** ve insanlardan kimi bilgisi olmaksızın Allah’ın yolundan saptırmak için ve onu alay konusu edinmek için boş hadisi (sözü) satın alır işte onlara küçük düşürücü bir azab vardır 
 **(7)** ve ona ayetlerimiz okunduğu zaman büyüklük taslayarak sırtını döner sanki onları hiç işitmemiş sanki kulaklarında ağırlık varmış ona acıklı bir azabı müjdele 
@@ -21,7 +21,7 @@ tag:
 **(9)** orada ebedi kalacaklardır Allah’ın gerçek va’didir ve O üstündür hüküm ve hikmet sahibidir
 **(10)** görebildiğiniz bir direk olmadan gökleri yarattı ve sizi sarsar diye yere sağlam ve yüksek dağlar attı ve orada her çeşit canlıyı yaydı ve gökten bir su indirdik ve orada her çiftten güzel (bitkiler) bitirdik 
 **(11)** işte bunlar Allah’ın yarattıklarıdır O’ndan başka kimseler gösterin bana ne? yarattı doğrusu o zalimler açık bir sapıklık içindedirler
-**(12)**
+**(12)** ve andolsun biz Allah’a şükretmesi için Lokman’a hikmet verdik ve kim şükrederse şüphesiz kendisi için şükreder ve kim inkar ederse şüphesiz Allah zengindir övülmüştür
 **(13)**
 **(14)**
 **(15)**
