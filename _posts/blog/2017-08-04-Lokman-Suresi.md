@@ -16,8 +16,8 @@ tag:
 **(4)** onlar ki namazı kılarlar ve zekatı verirler ve onlar ahirete onlar kesin olarak inanırlar
 **(5)** işte onlar Rableri tarafından doğru bir yol üzerindedirler ve işte onlar umduklarına ereceklerdir
 **(6)** ve insanlardan kimi bilgisi olmaksızın Allah’ın yolundan saptırmak için ve onu alay konusu edinmek için boş hadisi (sözü) satın alır işte onlara küçük düşürücü bir azab vardır 
-**(7)**
-**(8)**
+**(7)** ve ona ayetlerimiz okunduğu zaman büyüklük taslayarak sırtını döner sanki onları hiç işitmemiş sanki kulaklarında ağırlık varmış ona acıklı bir azabı müjdele 
+**(8)** elbette inanan(lara) kimselere ve iyi işler yapanlara onlara ni’meti bol cennetler vardır 
 **(9)**
 **(10)**
 **(11)**
