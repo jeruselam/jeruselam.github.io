@@ -32,10 +32,10 @@ tag:
 **(20)** elbette Allah göklerde bulunanları ve yerde bulunanları size boyun eğdirdi görmediniz mi? ve görünür ve gizli ni’metlerini size bol bol verdi ve insanlardan kimi var ki bilgisi olmadan ve yol göstereni olmadan ve aydınlatıcı bir Kitabı olmadan Allah hakkında tartışır (durur) 
 **(21)** ne zaman ki onlara Allah’ın indirdiğine uyun dense hayır biz babalarımızı üzerinde bulduğumuz şeye uyarız derler şayet şeytan onları alevli ateşin azabına çağırmış olsa da mı? 
 **(22)** ve kim Allah’a ve o güzel davranarak yüzünü teslim ederse elbette o en sağlam kulpa yapışmıştır ve işlerin sonu Allah’a döner 
-**(23)**
-**(24)**
-**(25)**
-**(26)**
+**(23)** ve kim inkar ederse onun inkarı seni üzmesin onların dönüşleri sonunda bizedir ve yaptıkları şeyleri kendilerine haber veririz şüphesiz Allah göğüslerin özünü bilir
+**(24)** onları biraz yaşatırız sonra kaba bir azaba süreriz
+**(25)** ve andolsun onlara sorsan gökleri ve yeri kim? yarattı mutlaka Allah derler de ki hamd Allah’a layıktır hayır çokları bilmezler
+**(26)** göklerde ve yerde ne varsa Allah’ındır şüphesiz övülen Allah işte zengin O’dur
 **(27)**
 **(28)**
 **(29)**
