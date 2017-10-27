@@ -20,7 +20,7 @@ tag:
 **(8)** elbette inanan(lara) kimselere ve iyi işler yapanlara onlara ni’meti bol cennetler vardır 
 **(9)** orada ebedi kalacaklardır Allah’ın gerçek va’didir ve O üstündür hüküm ve hikmet sahibidir
 **(10)** görebildiğiniz bir direk olmadan gökleri yarattı ve sizi sarsar diye yere sağlam ve yüksek dağlar attı ve orada her çeşit canlıyı yaydı ve gökten bir su indirdik ve orada her çiftten güzel (bitkiler) bitirdik 
-**(11)**
+**(11)** işte bunlar Allah’ın yarattıklarıdır O’ndan başka kimseler gösterin bana ne? yarattı doğrusu o zalimler açık bir sapıklık içindedirler
 **(12)**
 **(13)**
 **(14)**
