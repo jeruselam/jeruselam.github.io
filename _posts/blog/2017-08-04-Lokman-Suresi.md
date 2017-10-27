@@ -22,7 +22,7 @@ tag:
 **(10)** görebildiğiniz bir direk olmadan gökleri yarattı ve sizi sarsar diye yere sağlam ve yüksek dağlar attı ve orada her çeşit canlıyı yaydı ve gökten bir su indirdik ve orada her çiftten güzel (bitkiler) bitirdik 
 **(11)** işte bunlar Allah’ın yarattıklarıdır O’ndan başka kimseler gösterin bana ne? yarattı doğrusu o zalimler açık bir sapıklık içindedirler
 **(12)** ve andolsun biz Allah’a şükretmesi için Lokman’a hikmet verdik ve kim şükrederse şüphesiz kendisi için şükreder ve kim inkar ederse şüphesiz Allah zengindir övülmüştür
-**(13)**
+**(13)** ve hani Lokman oğluna, O öğüt vererek demişti ki yavrum asla Allah’a ortak koşma çünkü ortak koşmak büyük bir zulümdür
 **(14)**
 **(15)**
 **(16)**
