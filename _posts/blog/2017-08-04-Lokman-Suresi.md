@@ -41,8 +41,8 @@ tag:
 **(29)** şüphesiz Allah gündüzün içine geceyi sokuyor ve gecenin içine gündüzü sokuyor görmedin mi ve güneşi ve ayı emrine boyun eğdirmiştir her biri belli bir süreye kadar akıp gider ve elbette Allah yaptıklarınızı haber almaktadır
 **(30)** çünkü böyledir O Allah Hakk'tır[varlığı vacip ve lazım olan] ve elbette O’ndan başka yalvardıkları batıldır[boş, geçersiz, yanlış] ve O gerçekten ulu[yüksek, üstün, yüce] ve büyük[güçlü, üstün, yüce] Allah’tır
 **(31)** görmedin mi? ki gemiler Allah’ın ni’metiyle denizde gidiyor bir kısım ayetlerini size göstersin diye sabreden şükreden herkes için şüphesiz bunda ibretler vardır 
-**(32)**
-**(33)**
+**(32)** ve onları gölgeler gibi dalga(lar) sardığı zaman dini yalnız O’na has kılarak Allah’a yalvarırlar fakat o zaman onları karaya çıkarıp kurtarınca içlerinden bir kısmı orta yolu tutar zaten her gaddarlardan inkarcıdan başkası bizim ayetlerimizi inkar etmez
+**(33)** ey insanlar Rabbinizden korkun ve günden çekinin (ki) baba çocuğunun ödeyemez, çocuk da o babası için bir şey ödeyecek değildir şüphesiz Allah’ın va’di gerçektir, dünya hayatı asla sizi aldatmasın ve Allah hakkında aldatıcı (şeytan) sizi asla aldatmasın
 **(34)**
 
 ![31l-Mekki]({{site.url}}/images/ayrac-muhur.png)
