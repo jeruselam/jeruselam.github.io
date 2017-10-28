@@ -39,7 +39,7 @@ tag:
 **(27)** şayet yeryüzünde bulunan her ne olsa, ağaçlar kalem ve deniz (mürekkep) arkasından yedi deniz (daha) ona katılsa Allah’ın kelimeleri yine tükenmez şüphesiz Allah üstündür hikmet sahibidir
 **(28)** sizin yaratılmanız değildir ve diriltilmeniz bir tek kişi(nin yaratılmasından) başka bir şey değildir şüphesiz Allah işitendir görendir
 **(29)** şüphesiz Allah gündüzün içine geceyi sokuyor ve gecenin içine gündüzü sokuyor görmedin mi ve güneşi ve ayı emrine boyun eğdirmiştir her biri belli bir süreye kadar akıp gider ve elbette Allah yaptıklarınızı haber almaktadır
-**(30)**
+**(30)** çünkü böyledir O Allah Hakk'tır[varlığı vacip ve lazım olan] ve elbette O’ndan başka yalvardıkları batıldır[boş, geçersiz, yanlış] ve O gerçekten ulu[yüksek, üstün, yüce] ve büyük[güçlü, üstün, yüce] Allah’tır
 **(31)**
 **(32)**
 **(33)**
