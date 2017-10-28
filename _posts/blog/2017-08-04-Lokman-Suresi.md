@@ -35,8 +35,8 @@ tag:
 **(23)** ve kim inkar ederse onun inkarı seni üzmesin onların dönüşleri sonunda bizedir ve yaptıkları şeyleri kendilerine haber veririz şüphesiz Allah göğüslerin özünü bilir
 **(24)** onları biraz yaşatırız sonra kaba bir azaba süreriz
 **(25)** ve andolsun onlara sorsan gökleri ve yeri kim? yarattı mutlaka Allah derler de ki hamd Allah’a layıktır hayır çokları bilmezler
-**(26)** göklerde ve yerde ne varsa Allah’ındır şüphesiz övülen Allah işte zengin O’dur
-**(27)** şayet yeryüzünde bulunan ağaçlar kalem ve deniz (mürekkep) her ne olsa arkasından yedi deniz (daha) ona katılsa Allah’ın kelimeleri yine tükenmez şüphesiz Allah üstündür hikmet sahibidir
+**(26)** göklerde ve yerde ne varsa Allah’ındır şüphesiz zengin övülen Allah işte O’dur
+**(27)** şayet yeryüzünde bulunan her ne olsa, ağaçlar kalem ve deniz (mürekkep) arkasından yedi deniz (daha) ona katılsa Allah’ın kelimeleri yine tükenmez şüphesiz Allah üstündür hikmet sahibidir
 **(28)**
 **(29)**
 **(30)**
