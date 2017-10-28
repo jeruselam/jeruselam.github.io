@@ -27,7 +27,7 @@ tag:
 **(15)** ve eğer senin hakkında bilgin olmayan bir şeyi bana ortak koşman için seni zorlarlarsa onlara asla ita’at etme ve onlarla dünyada iyilikle geçin ve bana yönelen kimsenin yoluna uy sonra dönüşünüz banadır, yapıyor(lar) olduklarnız şeyleri size haber vereceğim 
 **(16)** yavrum eğer onlar hardal danesi ağırlığınca bir şey olsa ve bir kayanın içinde veya göklerde veya yerde bulunsa Allah onu mutlaka getirir
 **(17)** yavrum namazı kıl ve iyiliği emret ve kötülükten vazgeçir ve başına ne geldiyse sabret çünkü bunlar yapılması gereken işlerdendir
-**(18)** yüzünü insanlardan asla çevirne ve yeryüzünde böbürlenerek[aşırı derecede sevinmeler] yürüme zira Allah hepsini kendini beğenenleri, övünenleri sevmez
+**(18)** yüzünü insanlardan asla çevirme ve yeryüzünde böbürlenerek[aşırı derecede sevinmeler] yürüme zira Allah hepsini, kendini beğenenleri övünenleri sevmez
 **(19)** ve yürüyüşünde tutumlu ol[istikamet üzere] ve sesini kıs çünkü seslerin en çirkini eşeklerin sesidir 
 **(20)** elbette Allah göklerde bulunanları ve yerde bulunanları size boyun eğdirdi görmediniz mi? ve görünür ve gizli ni’metlerini size bol bol verdi ve insanlardan kimi var ki bilgisi olmadan ve yol göstereni olmadan ve aydınlatıcı bir Kitabı olmadan Allah hakkında tartışır (durur) 
 **(21)** ne zaman ki onlara Allah’ın indirdiğine uyun dense hayır biz babalarımızı üzerinde bulduğumuz şeye uyarız derler şayet şeytan onları alevli ateşin azabına çağırmış olsa da mı? 
