@@ -37,8 +37,8 @@ tag:
 **(25)** ve andolsun onlara sorsan gökleri ve yeri kim? yarattı mutlaka Allah derler de ki hamd Allah’a layıktır hayır çokları bilmezler
 **(26)** göklerde ve yerde ne varsa Allah’ındır şüphesiz zengin övülen Allah işte O’dur
 **(27)** şayet yeryüzünde bulunan her ne olsa, ağaçlar kalem ve deniz (mürekkep) arkasından yedi deniz (daha) ona katılsa Allah’ın kelimeleri yine tükenmez şüphesiz Allah üstündür hikmet sahibidir
-**(28)**
-**(29)**
+**(28)** sizin yaratılmanız değildir ve diriltilmeniz bir tek kişi(nin yaratılmasından) başka bir şey değildir şüphesiz Allah işitendir görendir
+**(29)** şüphesiz Allah gündüzün içine geceyi sokuyor ve gecenin içine gündüzü sokuyor görmedin mi ve güneşi ve ayı emrine boyun eğdirmiştir her biri belli bir süreye kadar akıp gider ve elbette Allah yaptıklarınızı haber almaktadır
 **(30)**
 **(31)**
 **(32)**
