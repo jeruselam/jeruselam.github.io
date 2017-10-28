@@ -40,7 +40,7 @@ tag:
 **(28)** sizin yaratılmanız değildir ve diriltilmeniz bir tek kişi(nin yaratılmasından) başka bir şey değildir şüphesiz Allah işitendir görendir
 **(29)** şüphesiz Allah gündüzün içine geceyi sokuyor ve gecenin içine gündüzü sokuyor görmedin mi ve güneşi ve ayı emrine boyun eğdirmiştir her biri belli bir süreye kadar akıp gider ve elbette Allah yaptıklarınızı haber almaktadır
 **(30)** çünkü böyledir O Allah Hakk'tır[varlığı vacip ve lazım olan] ve elbette O’ndan başka yalvardıkları batıldır[boş, geçersiz, yanlış] ve O gerçekten ulu[yüksek, üstün, yüce] ve büyük[güçlü, üstün, yüce] Allah’tır
-**(31)**
+**(31)** görmedin mi? ki gemiler Allah’ın ni’metiyle denizde gidiyor bir kısım ayetlerini size göstersin diye sabreden şükreden herkes için şüphesiz bunda ibretler vardır 
 **(32)**
 **(33)**
 **(34)**
