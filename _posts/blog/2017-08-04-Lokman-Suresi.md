@@ -43,6 +43,6 @@ tag:
 **(31)** görmedin mi? ki gemiler Allah’ın ni’metiyle denizde gidiyor bir kısım ayetlerini size göstersin diye sabreden şükreden herkes için şüphesiz bunda ibretler vardır 
 **(32)** ve onları gölgeler gibi dalga(lar) sardığı zaman dini yalnız O’na has kılarak Allah’a yalvarırlar fakat o zaman onları karaya çıkarıp kurtarınca içlerinden bir kısmı orta yolu tutar zaten her gaddarlardan inkarcıdan başkası bizim ayetlerimizi inkar etmez
 **(33)** ey insanlar Rabbinizden korkun ve günden çekinin (ki) baba çocuğunun ödeyemez, çocuk da o babası için bir şey ödeyecek değildir şüphesiz Allah’ın va’di gerçektir, dünya hayatı asla sizi aldatmasın ve Allah hakkında aldatıcı (şeytan) sizi asla aldatmasın
-**(34)**
+**(34)** şüphesiz Allah, sa’atin bilgisi O’nun yanındadır ve O yağmuru yağdırır ve rahimlerde olanı bilir ve hiç kimse yarın ne kazanacağını bilmez ve hiç kimse hangi yerde öleceğini bilmez şüphesiz yalnız Allah bilendir haberi olandır
 
 ![31l-Mekki]({{site.url}}/images/ayrac-muhur.png)
