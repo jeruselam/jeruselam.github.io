@@ -10,14 +10,14 @@ tag:
 
 ## 30. Rûm Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)**
-**(7)**
-**(8)**
+**(1)** Elif Lâm Mîm
+**(2)** Rum(lar) yenildi 
+**(3)** ve onlar yenilgilerinden sonra en yakın bir yerde yeneceklerdir
+**(4)** birkaç yıl içinde, (bundan) önce ve sonra emir Allah’ındır ve o gün mü’minler sevinir(ler)
+**(5)** Allah’ın yardımıyle dilediği kimseye yardım eder ve O galiptir esirgeyendir 
+**(6)** Allah’ın va’didir Allah va’dinden caymaz fakat insanların çoğu bilmezler 
+**(7)** onlar dünya hayatının dış yüzünü bilirler ve onlar ahiretten gafildirler
+**(8)** kendi içlerinde hiç düşünmediler mi? Allah göklerde ve yerde ve bu ikisi arasında bulunanları hak olması dışında yaratmamıştır ve bir süre belirtilmiştir ve şüphesiz insanlardan çoğu Rabblerine kavuşmayı inkar etmektedirler
 **(9)**
 **(10)**
 **(11)**
