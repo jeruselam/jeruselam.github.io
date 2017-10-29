@@ -40,10 +40,10 @@ tag:
 **(28)** size kendinizden bir benzetmeyle misal verdi, sizinle onda eşit olan sizi rızıklandırdığımız şeylerde, birbirinizden çekindiğiniz gibi onlardan çekindiğiniz ortaklardan, sizin ellerinde bulunanlardan sizin için(köleler) varmı dır? işte biz böyle aklını kullanan bir toplum için ayetleri açıklıyoruz 
 **(29)** hayır zulmedenler bilgi(leri) olmaksızın keyiflerine uydular Allah’ın şaşırttığı kimseyi kim? yola getirebilir ve onların hiçbir yardımcıları ona göre yoktur 
 **(30)** Allah’ın yaratmasına Hanif[ilmiyle âmil olan kimse] olarak dine yüzünü çevir ki insanları ona göre yaratmıştır, Allah’ın yaratması değiştirilemez işte doğru din odur fakat insanların çoğu bilmezler
-**(31)**
-**(32)**
-**(33)**
-**(34)**
+**(31)** yalnız O’na yönelin ve O’ndan korkun ve namazı kılın ve ortak koşanlardan olmayın 
+**(32)** onlar ki dinlerini parçaladılar ve bölük bölük oldular her grup kendi yanında olanla sevinmektedir
+**(33)** ve insanlara bir zarar dokunduğu zaman O’na yönelerek Rablerine yalvarırlar sonra onlara kendinden bir rahmet taddırdığı zaman onlardan bir grup hemen Rablerine ortak koşarlar
+**(34)** kendilerine verdiğimiz şeyi inkar etmeleri için şimdi zevk içinde yaşayın yakında bileceksiniz
 **(35)**
 **(36)**
 **(37)**
