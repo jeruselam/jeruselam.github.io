@@ -37,9 +37,9 @@ tag:
 **(25)** O’nun ayetlerinden (biri de) göğün ve yerin O’nun buyruğuyla durmasıdır sonra sizi yerden bir tek da’vetle çağırdığı zaman bir de bakarsınız ki siz çıkıyorsunuzkimseler
 **(26)** göklerde ve yerde bulunan kimseler hepsi O’na ita’at etmektedirler
 **(27)** ve O ki yaratmağa başlar sonra onu tekrarlar ve bu O’na daha kolaydır ve göklerde ve yerde en yüce durum O’nundur ve O üstündür hüküm ve hikmet sahibidir
-**(28)** kendinizden bir benzetmeyle size misal verdi, sizi rızıklandırdığımız şeylerde, sizinle onda eşit olan, birbirinizden çekindiğiniz gibi onlardan çekindiğiniz, ortaklardan, sizin ellerinde bulunanlardan(köleler) sizin için varmı dır? işte biz böyle aklını kullanan bir toplum için ayetleri açıklıyoruz 
-**(29)**
-**(30)**
+**(28)** size kendinizden bir benzetmeyle misal verdi, sizinle onda eşit olan sizi rızıklandırdığımız şeylerde, birbirinizden çekindiğiniz gibi onlardan çekindiğiniz ortaklardan, sizin ellerinde bulunanlardan sizin için(köleler) varmı dır? işte biz böyle aklını kullanan bir toplum için ayetleri açıklıyoruz 
+**(29)** hayır zulmedenler bilgi(leri) olmaksızın keyiflerine uydular Allah’ın şaşırttığı kimseyi kim? yola getirebilir ve onların hiçbir yardımcıları ona göre yoktur 
+**(30)** Allah’ın yaratmasına Hanif[ilmiyle âmil olan kimse] olarak dine yüzünü çevir ki insanları ona göre yaratmıştır, Allah’ın yaratması değiştirilemez işte doğru din odur fakat insanların çoğu bilmezler
 **(31)**
 **(32)**
 **(33)**
