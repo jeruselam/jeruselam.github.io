@@ -18,20 +18,20 @@ tag:
 **(6)** Allah’ın va’didir Allah va’dinden caymaz fakat insanların çoğu bilmezler 
 **(7)** onlar dünya hayatının dış yüzünü bilirler ve onlar ahiretten gafildirler
 **(8)** kendi içlerinde hiç düşünmediler mi? Allah göklerde ve yerde ve bu ikisi arasında bulunanları hak olması dışında yaratmamıştır ve bir süre belirtilmiştir ve şüphesiz insanlardan çoğu Rabblerine kavuşmayı inkar etmektedirler
-**(9)**
-**(10)**
-**(11)**
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
-**(17)**
-**(18)**
-**(19)**
-**(20)**
-**(21)**
-**(22)**
+**(9)** yeryüzünde gezmediler mi? kendilerinden önceki kimselerin sonunun nasıl olduğuna baksınlar kuvvet bakımından kendilerinden daha güçlü idiler toprağı alt-üst etmişlerdi ve bunların imar ettiklerinden daha çok onu imar etmişlerdi onlara elçiler delillerle gelmişti fakat Allah onlara zulmedecek değildi fakat onlar kendi kendilerine zulmediyorlardı
+**(10)** sonra kötülük eden(lerin) kimselerin sonu çok kötü oldu çünkü Allah’ın ayetlerini yalanladılar ve onlarla alay ediyor idiler
+**(11)** Allah yaratmağa başlar sonra onu devam ettirir sonra O’na döndürülürsünüz
+**(12)** ve sa’at başladığı gün suçlular susarlar
+**(13)** ve kendilerine ortaklarından hiçbir şefa’atçi olmaz o zaman ortaklarını inkar eder(ler) oldular 
+**(14)** ve sa’at başladığı gün o gün ayrılırlar
+**(15)** ancak inanan(lar) kimseler ve iyi işler yapanlar onlar bir bahçe içinde neş’elendirilirler
+**(16)** fakat inkar eden(ler) kimseler ve ayetlerimizi ve ahiret buluşmasını yalanlayanlar onlar da azabın içine getirilirler
+**(17)** öyle ise akşama girdiğiniz zaman ve sabaha erdiğiniz zaman Allah’ı tesbih edin 
+**(18)** göklerde ve yerde ve günün sonunda ve öğleye erdiğiniz zaman hamd O’na mahsustur 
+**(19)** ölüden diri çıkarır ve diriden ölü çıkarır ve ölümünden sonra yeri diriltir işte siz de öyle çıkarılacaksınız
+**(20)** O’nun ayetlerinden (biri) sizi topraktan yaratmasıdır sonra bir de bakarsın ki siz insan(lar) yayılıyorsunuz
+**(21)** O’nun ayetlerinden (biri de) sizin için nefislerinizden onunla sakinleşeceğiniz eşler yaratmasıdır ve aranıza sevgi ve acıma koymasıdır şüphesiz bunda düşünen bir toplum için ibretler vardır 
+**(22)** O’nun ayetlerinden (biri de) göklerin ve yerin yaratılmasıdır ve dillerinizin ve renklerinizin değişik olmasıdır şüphesiz bunda bilenler için ibretler vardır
 **(23)**
 **(24)**
 **(25)**
