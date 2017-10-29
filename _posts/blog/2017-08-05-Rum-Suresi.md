@@ -32,12 +32,12 @@ tag:
 **(20)** O’nun ayetlerinden (biri) sizi topraktan yaratmasıdır sonra bir de bakarsın ki siz insan(lar) yayılıyorsunuz
 **(21)** O’nun ayetlerinden (biri de) sizin için nefislerinizden onunla sakinleşeceğiniz eşler yaratmasıdır ve aranıza sevgi ve acıma koymasıdır şüphesiz bunda düşünen bir toplum için ibretler vardır 
 **(22)** O’nun ayetlerinden (biri de) göklerin ve yerin yaratılmasıdır ve dillerinizin ve renklerinizin değişik olmasıdır şüphesiz bunda bilenler için ibretler vardır
-**(23)**
-**(24)**
-**(25)**
-**(26)**
-**(27)**
-**(28)**
+**(23)** O’nun ayetlerinden (biri de) geceleyin ve gündüzün uyumanızdır ve O’nun lutfundan aramanızdır şüphesiz bunda işiten bir toplum için ibretler vardır 
+**(24)** O’nun ayetlerinden (biri de) size korku ve umut şimşeği göstermesidir ve gökten bir su indirmesidir ve ölümünden sonra onunla yeri diriltmesidir aklını kullanan bir toplum için bunda ibretler vardır 
+**(25)** O’nun ayetlerinden (biri de) göğün ve yerin O’nun buyruğuyla durmasıdır sonra sizi yerden bir tek da’vetle çağırdığı zaman bir de bakarsınız ki siz çıkıyorsunuzkimseler
+**(26)** göklerde ve yerde bulunan kimseler hepsi O’na ita’at etmektedirler
+**(27)** ve O ki yaratmağa başlar sonra onu tekrarlar ve bu O’na daha kolaydır ve göklerde ve yerde en yüce durum O’nundur ve O üstündür hüküm ve hikmet sahibidir
+**(28)** kendinizden bir benzetmeyle size misal verdi, sizi rızıklandırdığımız şeylerde, sizinle onda eşit olan, birbirinizden çekindiğiniz gibi onlardan çekindiğiniz, ortaklardan, sizin ellerinde bulunanlardan(köleler) sizin için varmı dır? işte biz böyle aklını kullanan bir toplum için ayetleri açıklıyoruz 
 **(29)**
 **(30)**
 **(31)**
