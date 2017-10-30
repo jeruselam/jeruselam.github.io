@@ -53,9 +53,9 @@ tag:
 **(41)** insanların elleriyle kazandıkları yüzünden karada ve denizde fesat çıktı, belki onlar dönerler (diye) yaptıklarının bir kısmını onlara taddırıyor 
 **(42)** de ki yeryüzünde gezin ve önceki kimselerin sonunun nasıl olduğuna bakın onların çoğu ortak koşanlardan idi 
 **(43)** Allah'tan geri çevirilmeyen gün gelmesinden önce dine yüzünü dosdoğru yönelt o gün bölük bölük ayrılırlar
-**(44)**
-**(45)**
-**(46)**
+**(44)** kim inkar ederse inkarı kendi aleyhinedir ve kim iyi bir iş yapasa kendileri için hazırlamaktadırlar
+**(45)** inanan(ları) kimseleri ve lutfundan iyi işler yapanları mükafatlandırması için doğrusu O kafirleri sevmez
+**(46)** belki şükredersiniz (diye) O’nun ayetlerinden (biri de) rahmetinden size tattırması için ve buyruğuyla gemilerin yürümesi için ve O’nun lutfundan aramanız için müjdeler olarak rüzgarları göndermesidir
 **(47)**
 **(48)**
 **(49)**
