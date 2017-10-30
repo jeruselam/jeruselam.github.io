@@ -51,8 +51,8 @@ tag:
 **(39)** ne ki insanların malları içinde artması için riba (faiz) verdiniz asla Allah katında artmaz ama Allah’ın yüzünü (rızasını) isteyerek zekattan verdiğiniz işte onlar kat kat artıranlardır
 **(40)** Allah ki sizi yarattı sonra besledi sonra öldürüyor sonra diriltiyor bunlardan hiç birini yapan ortaklarınızdan kimse var mı? onların ortak koştukları şeylerden O münezzehtir ve yücedir 
 **(41)** insanların elleriyle kazandıkları yüzünden karada ve denizde fesat çıktı, belki onlar dönerler (diye) yaptıklarının bir kısmını onlara taddırıyor 
-**(42)**
-**(43)**
+**(42)** de ki yeryüzünde gezin ve önceki kimselerin sonunun nasıl olduğuna bakın onların çoğu ortak koşanlardan idi 
+**(43)** Allah'tan geri çevirilmeyen gün gelmesinden önce dine yüzünü dosdoğru yönelt o gün bölük bölük ayrılırlar
 **(44)**
 **(45)**
 **(46)**
