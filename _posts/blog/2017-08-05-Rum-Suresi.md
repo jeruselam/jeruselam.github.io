@@ -44,7 +44,7 @@ tag:
 **(32)** onlar ki dinlerini parçaladılar ve bölük bölük oldular her grup kendi yanında olanla sevinmektedir
 **(33)** ve insanlara bir zarar dokunduğu zaman O’na yönelerek Rablerine yalvarırlar sonra onlara kendinden bir rahmet taddırdığı zaman onlardan bir grup hemen Rablerine ortak koşarlar
 **(34)** kendilerine verdiğimiz şeyi inkar etmeleri için şimdi zevk içinde yaşayın yakında bileceksiniz
-**(35)**
+**(35)** yoksa onlara bir delil indirdik de o (delil) olmalarını onunla
 **(36)**
 **(37)**
 **(38)**
