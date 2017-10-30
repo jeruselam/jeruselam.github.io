@@ -47,10 +47,10 @@ tag:
 **(35)** yoksa onlara bir delil indirdik de o (delil) olmalarını, onunla ortak koşmalarını söylüyor
 **(36)** ve biz insanlara bir rahmet taddırdığımız zaman onunla sevinirler ve eğer onlara elleriyle (yapıp) öne sürdüklerinden dolayı bir kötülük erişirse onlar derhal umutsuzluğa düşerler
 **(37)** Allah dilediği kimseye rızkı genişletiyor ve daraltıyor gerçekten görmediler mi? şüphesiz inanan bir toplum için bunda ibretler vardır
-**(38)**
-**(39)**
-**(40)**
-**(41)**
+**(38)** o halde akrabaya ve yoksula ve yolcuya hakkını ver bu Allah’ın yüzünü (rızasını) isteyenler için daha hayırlıdır ve işte onlar başarıya erenlerdir
+**(39)** ne ki insanların malları içinde artması için riba (faiz) verdiniz asla Allah katında artmaz ama Allah’ın yüzünü (rızasını) isteyerek zekattan verdiğiniz işte onlar kat kat artıranlardır
+**(40)** Allah ki sizi yarattı sonra besledi sonra öldürüyor sonra diriltiyor bunlardan hiç birini yapan ortaklarınızdan kimse var mı? onların ortak koştukları şeylerden O münezzehtir ve yücedir 
+**(41)** insanların elleriyle kazandıkları yüzünden karada ve denizde fesat çıktı, belki onlar dönerler (diye) yaptıklarının bir kısmını onlara taddırıyor 
 **(42)**
 **(43)**
 **(44)**
