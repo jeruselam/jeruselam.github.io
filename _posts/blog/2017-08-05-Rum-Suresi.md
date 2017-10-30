@@ -58,8 +58,8 @@ tag:
 **(46)** belki şükredersiniz (diye) O’nun ayetlerinden (biri de) rahmetinden size tattırması için ve buyruğuyla gemilerin yürümesi için ve O’nun lutfundan aramanız için müjdeler olarak rüzgarları göndermesidir
 **(47)** andolsun ki biz senden önce elçileri kavimlerine gönderdik onlara delillerle geldiler ve biz suç işleyen(ler) kimselerden öc aldık ve mü’minlere yardım etmek üzerimize borç idi 
 **(48)** Allah ki rüzgarları gönderir bulutu kaldırır sonra nasıl diliyorsa onu gökte yayar ve parça parça eder ve arasından yağmurun çıktığını görürsün onu kullarından dilediğine uğratınca onlar hemen sevinirler
-**(49)**
-**(50)**
+**(49)** halbuki onlar daha önceden kendilerine (yağmurun) indirilmesinden önce umutsuz(dular) idiler 
+**(50)** Allah’ın rahmetinin eserlerine bir bak ölümünden sonra yeri nasıl diriltiyor şüphe yok ki böylece ölüleri diriltecektir ve O her şey üzerine kadirdir
 **(51)**
 **(52)**
 **(53)**
