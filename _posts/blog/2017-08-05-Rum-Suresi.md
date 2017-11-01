@@ -60,9 +60,9 @@ tag:
 **(48)** Allah ki rüzgarları gönderir bulutu kaldırır sonra nasıl diliyorsa onu gökte yayar ve parça parça eder ve arasından yağmurun çıktığını görürsün onu kullarından dilediğine uğratınca onlar hemen sevinirler
 **(49)** halbuki onlar daha önceden kendilerine (yağmurun) indirilmesinden önce umutsuz(dular) idiler 
 **(50)** Allah’ın rahmetinin eserlerine bir bak ölümünden sonra yeri nasıl diriltiyor şüphe yok ki böylece ölüleri diriltecektir ve O her şey üzerine kadirdir
-**(51)**
-**(52)**
-**(53)**
+**(51)** andolsun eğer bir rüzgar göndersek ve (ekini) sararmış görseler ondan sonra nankörlük etmeğe başlarlar
+**(52)** şüphesiz sen ölülere asla söz dinletemezsin ve asla  arkalarını dönüp giderlerken sağırlara çağrıyı işittiremezsin
+**(53)** ve sen körleri sapıklıklarından yola getirecek değilsin ayetlerimize inanan(lar) kimseler(den) başkasına sen işittiremezsin 
 **(54)**
 **(55)**
 **(56)**
