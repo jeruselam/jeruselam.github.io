@@ -66,8 +66,8 @@ tag:
 **(54)** Allah ki sizi zayıflıktan sonra yarattı zayıflığın ardından bir kuvvet verdi kuvvet(-ten) sonra zayıflık ve sonra ihtiyarlık verdi dilediğini yaratır ve O bilendir gücü yetendir
 **(55)** ve sa’at başladığı gün suçlular bir sa’atten başka kalmadıklarına yemin ederler işte onlar (böyle) çevriliyorlardı
 **(56)** ve bilgi ve iman verilen(ler) kimseler dedi(ler) ki andolsun siz Allah’ın yazgısınca yeniden dirilme gününe kadar kaldınız işte bu dirilme günüdür fakat siz bilmiyor(lar) idiniz
-**(57)**
-**(58)**
+**(57)** zulmetmiş olan(lara) kimselere mazeretleri o gün artık asla fayda vermez ve ne de onlardan rıza talebetmeleri istenir
+**(58)** ve andolsun biz her çeşit misali ile bu Kur’an’da insanlara anlattık ve eğer onlara bir ayet getirsen, inkar edenler kimseler siz iptal edenler(den) başka değil(siniz) derler
 **(59)**
 **(60)**
 
