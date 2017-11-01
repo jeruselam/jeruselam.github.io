@@ -64,8 +64,8 @@ tag:
 **(52)** şüphesiz sen ölülere asla söz dinletemezsin ve asla  arkalarını dönüp giderlerken sağırlara çağrıyı işittiremezsin
 **(53)** ve sen körleri sapıklıklarından yola getirecek değilsin, ayetlerimize inanan(lar) kimseler(den) başkasına sen işittiremezsin ve onlar müslüman olurlar
 **(54)** Allah ki sizi zayıflıktan sonra yarattı zayıflığın ardından bir kuvvet verdi kuvvet(-ten) sonra zayıflık ve sonra ihtiyarlık verdi dilediğini yaratır ve O bilendir gücü yetendir
-**(55)**
-**(56)**
+**(55)** ve sa’at başladığı gün suçlular bir sa’atten başka kalmadıklarına yemin ederler işte onlar (böyle) çevriliyorlardı
+**(56)** ve bilgi ve iman verilen(ler) kimseler dedi(ler) ki andolsun siz Allah’ın yazgısınca yeniden dirilme gününe kadar kaldınız işte bu dirilme günüdür fakat siz bilmiyor(lar) idiniz
 **(57)**
 **(58)**
 **(59)**
