@@ -63,7 +63,7 @@ tag:
 **(51)** andolsun eğer bir rüzgar göndersek ve (ekini) sararmış görseler ondan sonra nankörlük etmeğe başlarlar
 **(52)** şüphesiz sen ölülere asla söz dinletemezsin ve asla  arkalarını dönüp giderlerken sağırlara çağrıyı işittiremezsin
 **(53)** ve sen körleri sapıklıklarından yola getirecek değilsin, ayetlerimize inanan(lar) kimseler(den) başkasına sen işittiremezsin ve onlar müslüman olurlar
-**(54)** Allah ki sizi zayıflıktan yarattı sonra zayıflığın ardından bir kuvvet verdi sonra kuvvet(-ten) sonra zayıflık ve ihtiyarlık verdi dilediğini yaratır ve O bilendir gücü yetendir
+**(54)** Allah ki sizi zayıflıktan sonra yarattı zayıflığın ardından bir kuvvet verdi kuvvet(-ten) sonra zayıflık ve sonra ihtiyarlık verdi dilediğini yaratır ve O bilendir gücü yetendir
 **(55)**
 **(56)**
 **(57)**
