@@ -5,6 +5,8 @@ sudo eopkg it -c sytem.devel
 bundle exec jekyll build
 bundle install
 bundle update
+gem install bundler
+gem install jekyll bundler
 
 git add -A
 git commit -m "1091"
