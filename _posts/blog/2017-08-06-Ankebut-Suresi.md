@@ -26,7 +26,7 @@ tag:
 **(14)** ve andolsun biz Nuh’u kavmine gönderdik onların arasında bin seneden elli yıl eksik kaldı, Tufan haksızlık edenleri sonunda yakaladı
 **(15)** fakat onu ve gemi halkını kurtardık ve onu alemlere bir ibret yaptık 
 **(16)** ve İbrahim(i gönderdik) hani kavmine dedi ki Allah’a kulluk edin ve O’ndan korkun eğer biliyor(lar) iseniz bu sizin için daha hayırlıdır 
-**(17)**
+**(17)** ancak siz Allah’tan başka bir takım putlara tapıyorsunuz ve yalan şeyler uyduruyorsunuz şüphesiz sizin Allah’tan başka taptıklarınız size rızık vermeye güçleri yetmez siz rızkı Allah’ın yanında arayın ve O’na tapın ve O’na şükredin O’na döndürüleceksiniz
 **(18)**
 **(19)**
 **(20)**
