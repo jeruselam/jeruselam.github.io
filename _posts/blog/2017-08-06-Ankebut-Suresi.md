@@ -25,7 +25,7 @@ tag:
 **(13)** ve onlar kendi yüklerini ve kendi yükleriyle beraber (başka) yükleri taşıyacaklar ve kıyamet gününde uyduruyor(lar) oldukları şeylerden elbette sorguya çekileceklerdir 
 **(14)** ve andolsun biz Nuh’u kavmine gönderdik onların arasında bin seneden elli yıl eksik kaldı, Tufan haksızlık edenleri sonunda yakaladı
 **(15)** fakat onu ve gemi halkını kurtardık ve onu alemlere bir ibret yaptık 
-**(16)**
+**(16)** ve İbrahim(i gönderdik) hani kavmine dedi ki Allah’a kulluk edin ve O’ndan korkun eğer biliyor(lar) iseniz bu sizin için daha hayırlıdır 
 **(17)**
 **(18)**
 **(19)**
