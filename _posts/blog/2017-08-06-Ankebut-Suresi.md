@@ -10,8 +10,8 @@ tag:
 
 ## 30. Ankebût Sûresi
 
-**(1)** 
-**(2)** 
+**(1)** Elif lam mim 
+**(2)** onlar hiç sınanmadan inandık demekle insanlar bırakılacaklarını mı sandılar?
 **(3)** 
 **(4)** 
 **(5)** 
