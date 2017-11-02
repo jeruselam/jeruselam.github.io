@@ -18,8 +18,8 @@ tag:
 **(6)** ve kim cihad[din için çalışmak] ederse ancak kendi yararına cihad eder elbette Allah alemlerden zengindir
 **(7)** ve inananlar kimseler ve iyi işler yapanlar, onların kötülüklerini mutlaka örteceğiz ve onları yapmış olduklarının en güzeliyle mükafatlandıracağız 
 **(8)** ve insana ana babasına iyilik etmeyi biz tavsiye ettik ve eğer senin hakkında bilgin olmayan bir şeyi bana ortak koşman için onlar seni zorlarlarsa asla onlara ita’at etme, dönüşünüz banadır, yapmış olduğunuz şeyleri size haber veririm 
-**(9)**
-**(10)**
+**(9)** ve inananları kimseleri ve iyi işler yapanları salihler arasına sokarız
+**(10)** ve insanlardan kimisi Allah’a inandık der fakat Allah uğrunda eziyet edilince insanların işkencesini Allah’ın azabı gibi sayar ama Rabbinden bir yardım gelse andolsun derler ki elbette biz de sizinle beraberdik, alemlerin göğüslerinde bulunanı Allah daha iyi bilen değil midir?
 **(11)**
 **(12)**
 **(13)**
