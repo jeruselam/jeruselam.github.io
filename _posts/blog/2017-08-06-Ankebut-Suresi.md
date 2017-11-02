@@ -20,8 +20,8 @@ tag:
 **(8)** ve insana ana babasına iyilik etmeyi biz tavsiye ettik ve eğer senin hakkında bilgin olmayan bir şeyi bana ortak koşman için onlar seni zorlarlarsa asla onlara ita’at etme, dönüşünüz banadır, yapmış olduğunuz şeyleri size haber veririm 
 **(9)** ve inananları kimseleri ve iyi işler yapanları salihler arasına sokarız
 **(10)** ve insanlardan kimisi Allah’a inandık der fakat Allah uğrunda eziyet edilince insanların işkencesini Allah’ın azabı gibi sayar ama Rabbinden bir yardım gelse andolsun derler ki elbette biz de sizinle beraberdik, alemlerin göğüslerinde bulunanı Allah daha iyi bilen değil midir?
-**(11)**
-**(12)**
+**(11)** ve Allah inananları kimseleri elbette bilir ve iki yüzlüleri elbette bilir
+**(12)** ve inkar edenler kimseler kimselere, inananlara dedi(ler), siz bizim yolumuza uyun ve biz sizin hatalarınızı taşırız oysa kendileri onların hatalarından hiçbir şey taşıyacak değillerdir elbette onlar tamamen yalancıdırlar
 **(13)**
 **(14)**
 **(15)**
