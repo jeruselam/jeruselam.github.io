@@ -27,12 +27,12 @@ tag:
 **(15)** fakat onu ve gemi halkını kurtardık ve onu alemlere bir ibret yaptık 
 **(16)** ve İbrahim(i gönderdik) hani kavmine dedi ki Allah’a kulluk edin ve O’ndan korkun eğer biliyor(lar) iseniz bu sizin için daha hayırlıdır 
 **(17)** ancak siz Allah’tan başka bir takım putlara tapıyorsunuz ve yalan şeyler uyduruyorsunuz şüphesiz sizin Allah’tan başka taptıklarınız size rızık vermeye güçleri yetmez siz rızkı Allah’ın yanında arayın ve O’na tapın ve O’na şükredin O’na döndürüleceksiniz
-**(18)**
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
+**(18)** ve eğer yalanlarsanız elbette sizden önceki ümmetler de yalanlamışlardı ve elçiye düşen açıkça tebliğ etmekten başka bir şey yoktur 
+**(19)** Allah yaratmayı nasıl başlatıyor görmediler mi? sonra onu iade ediyor şüphesiz bu Allah’a göre kolaydır
+**(20)** de ki yeryüzünde gezin ve yaratmağa nasıl başladı bakın sonra Allah son yaratmayı da yapacaktır çünkü Allah her şey üzerine gücü yeter
+**(21)** dilediği kimseye azabeder ve dilediği kimseye acır ve hepiniz O’na çevrilirsiniz
+**(22)** ve siz yerde ve ne de gökte aciz bırakacak değilsiniz ve sizin için Allah’tan başka hiçbir koruyucu(nuz) ve ne de bir yardımcı(nız) yoktur 
+**(23)** Allah’ın ayetlerini ve O’nunla buluşmayı inkar eden(ler) kimseler, işte onlar benim rahmetimden ümidi kesmişlerdir ve işte onlar için acıklı bir azab vardır 
 **(24)**
 **(25)**
 **(26)**
