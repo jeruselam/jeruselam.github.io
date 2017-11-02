@@ -67,7 +67,7 @@ tag:
 **(55)** ve sa’at başladığı gün suçlular bir sa’atten başka kalmadıklarına yemin ederler işte onlar (böyle) çevriliyorlardı
 **(56)** ve bilgi ve iman verilen(ler) kimseler dedi(ler) ki andolsun siz Allah’ın yazgısınca yeniden dirilme gününe kadar kaldınız işte bu dirilme günüdür fakat siz bilmiyor(lar) idiniz
 **(57)** zulmetmiş olan(lara) kimselere mazeretleri o gün artık asla fayda vermez ve ne de onlardan rıza talebetmeleri istenir
-**(58)** ve andolsun biz her çeşit misali ile bu Kur’an’da insanlara anlattık ve eğer onlara bir ayet getirsen, inkar edenler kimseler siz iptal edenler(den) başka değil(siniz) derler
+**(58)** ve andolsun biz insanlara her çeşit misali ile bu Kur’an’da anlattık ve eğer onlara bir ayet getirsen, inkar edenler kimseler siz iptal edenler(den) başka değil(siniz) derler
 **(59)** Allah bilmeyen(lerin) kimselerin kalbleri üzerini işte böyle mühürler
 **(60)** sabret şüphe yok ki Allah’ın va’di haktır ve inanmayan(lar) kimseler seni telaşa düşürmesin
 
