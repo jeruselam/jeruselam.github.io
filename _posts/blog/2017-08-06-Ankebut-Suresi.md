@@ -12,10 +12,10 @@ tag:
 
 **(1)** Elif lam mim 
 **(2)** onlar hiç sınanmadan inandık demekle insanlar bırakılacaklarını mı sandılar?
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)**
+**(3)** ve andolsun onlardan öncekilerden kimseleri biz sınadık elbette Allah kimseleri, doğruları bilecektir ve yalancıları bilecektir 
+**(4)** yoksa kötülükleri yapan(lar) kimseler bizi geçeceklerini mı sandılar? ne kötü hüküm veriyorlar
+**(5)** kim ise Allah ile buluşmayı umuyor şüphesiz Allah’ın (buluşma) vakti gelmektedir ve O işitendir bilendir
+**(6)** ve kim cihad[din için çalışmak] ederse ancak kendi yararına cihad eder elbette Allah alemlerden zengindir
 **(7)**
 **(8)**
 **(9)**
