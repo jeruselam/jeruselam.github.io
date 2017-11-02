@@ -22,8 +22,8 @@ tag:
 **(10)** ve insanlardan kimisi Allah’a inandık der fakat Allah uğrunda eziyet edilince insanların işkencesini Allah’ın azabı gibi sayar ama Rabbinden bir yardım gelse andolsun derler ki elbette biz de sizinle beraberdik, alemlerin göğüslerinde bulunanı Allah daha iyi bilen değil midir?
 **(11)** ve Allah inananları kimseleri elbette bilir ve iki yüzlüleri elbette bilir
 **(12)** ve inkar edenler kimseler kimselere, inananlara dedi(ler), siz bizim yolumuza uyun ve biz sizin hatalarınızı taşırız oysa kendileri onların hatalarından hiçbir şey taşıyacak değillerdir elbette onlar tamamen yalancıdırlar
-**(13)**
-**(14)**
+**(13)** ve onlar kendi yüklerini ve kendi yükleriyle beraber (başka) yükleri taşıyacaklar ve kıyamet gününde uyduruyor(lar) oldukları şeylerden elbette sorguya çekileceklerdir 
+**(14)** ve andolsun biz Nuh’u kavmine gönderdik onların arasında bin seneden elli yıl eksik kaldı sonunda haksızlık edenleri Tufan yakaladı
 **(15)**
 **(16)**
 **(17)**
