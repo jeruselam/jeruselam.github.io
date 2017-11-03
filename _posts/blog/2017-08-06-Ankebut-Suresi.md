@@ -34,7 +34,7 @@ tag:
 **(22)** ve siz yerde ve ne de gökte aciz bırakacak değilsiniz ve sizin için Allah’tan başka hiçbir koruyucu(nuz) ve ne de bir yardımcı(nız) yoktur 
 **(23)** Allah’ın ayetlerini ve O’nunla buluşmayı inkar eden(ler) kimseler, işte onlar benim rahmetimden ümidi kesmişlerdir ve işte onlar için acıklı bir azab vardır 
 **(24)** ve kavminin cevabı onu öldürün yahut onu yakın demelerinden başka bir şey olmadı fakat Allah onu ateşten kurtardı şüphesiz inanan bir toplum için bunda ibretler vardır 
-**(25)** ve dedi ki dünya hayatında birbirinizi sevmek için Allah’ı bırakıp siz şüphesiz birtakım putlar edindiniz 
+**(25)** ve dedi ki siz dünya hayatında birbirinizi sevmek için Allah’ı bırakıp şüphesiz birtakım putlar edindiniz, kıyamet gününde bir kısmınız diğerini sonra inkar edersiniz ve bir kısmınız diğerini la’netlersiniz ve varacağınız yer ateştir ve sizin için hiçbir yardımcı yoktur 
 **(26)**
 **(27)**
 **(28)**
