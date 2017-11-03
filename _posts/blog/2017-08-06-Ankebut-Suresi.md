@@ -38,7 +38,7 @@ tag:
 **(26)** bunun üzerine Lut ona inandı ve dedi ki elbette ben Rabbime hicret edeceğim kuşkusuz O, O Azizdir Hakimdir
 **(27)** ve biz ona İshak’ı ve Ya’kub’u armağan ettik ve onun nesli içindekilere peygamberlik ve Kitap verdik ve ona dünyada karşılığını verdik ve şüphesiz o ahirette elbette iyilerdendir
 **(28)** ve Lut hani kavmine dedi ki şüphesiz siz, sizden önce onu alemlerden hiç kimsenin yapmadığı bir fuhşa gidiyorsunuz
-**(29)**
+**(29)** siz ha? erkeklere gidiyorsunuz ve yol kesiyorsunuz ve toplantılarınızda edepsizce şeyler yapıyorsunuz fakat Kavmi’nin eğer doğrulardan isen Allah’ın azabını haydi getir demelerinden başka cevabı olmadı
 **(30)**
 **(31)**
 **(32)**
