@@ -39,13 +39,13 @@ tag:
 **(27)** ve biz ona İshak’ı ve Ya’kub’u armağan ettik ve onun nesli içindekilere peygamberlik ve Kitap verdik ve ona dünyada karşılığını verdik ve şüphesiz o ahirette elbette iyilerdendir
 **(28)** ve Lut hani kavmine dedi ki şüphesiz siz, sizden önce onu alemlerden hiç kimsenin yapmadığı bir fuhşa gidiyorsunuz
 **(29)** siz ha? erkeklere gidiyorsunuz ve yol kesiyorsunuz ve toplantılarınızda edepsizce şeyler yapıyorsunuz fakat eğer doğrulardan isen Allah’ın azabını haydi getir demelerinden başka Kavmi’nin cevabı olmadı
-**(30)**
-**(31)**
-**(32)**
-**(33)**
-**(34)**
-**(35)**
-**(36)**
+**(30)** (Lut) Rabbim şu bozguncu kavme karşı bana yardım et dedi 
+**(31)** İbrahim’e bir müjde ile elçilerimiz geldikleri zaman dediler ki muhakkak biz şu kentin (Sodom) halkını helak edeceğiz çünkü oranın halkı zalimler(den) oldular
+**(32)** (İbrahim) dedi ki ama orada Lut vardır dediler ki orada 	kimin bulunduğunu biz daha iyi biliriz, onu ve ailesini kurtaracağız yalnız karısı kalacaklardan olmuştur
+**(33)** ne zaman ki elçilerimiz Lut’a geldi onlar yüzünden fenalaştı ve onlar hakkında huzursuzca daraldı ve korkma ve ne de üzülme dediler elbette biz seni ve aileni kurtaracağız yalnız karın kalacaklardan olmuştur
+**(34)** şüphesiz biz şu ülke halkının üstüne fasıklık yapıyor(lar) olmaları sebebiyle gökten bir azab indireceğiz 
+**(35)** ve andolsun biz aklını kullanan bir toplum için ondan açık bir işaret bırakmışızdır 
+**(36)** ve Medyen’e kardeşleri Şuayb’i (gönderdik) kavmim Allah’a kuluk edin ve ahiret gününü umun ve yeryüzünde asla bozgunculukla karışıklık çıkarmayın dedi
 **(37)**
 **(38)**
 **(39)**
