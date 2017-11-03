@@ -33,7 +33,7 @@ tag:
 **(21)** dilediği kimseye azabeder ve dilediği kimseye acır ve hepiniz O’na çevrilirsiniz
 **(22)** ve siz yerde ve ne de gökte aciz bırakacak değilsiniz ve sizin için Allah’tan başka hiçbir koruyucu(nuz) ve ne de bir yardımcı(nız) yoktur 
 **(23)** Allah’ın ayetlerini ve O’nunla buluşmayı inkar eden(ler) kimseler, işte onlar benim rahmetimden ümidi kesmişlerdir ve işte onlar için acıklı bir azab vardır 
-**(24)**
+**(24)** ve kavminin cevabı onu öldürün yahut onu yakın demelerinden başka bir şey olmadı fakat Allah onu ateşten kurtardı şüphesiz inanan bir toplum için bunda ibretler vardır 
 **(25)**
 **(26)**
 **(27)**
