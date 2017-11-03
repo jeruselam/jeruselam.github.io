@@ -45,13 +45,13 @@ tag:
 **(33)** ne zaman ki elçilerimiz Lut’a geldi onlar yüzünden fenalaştı ve onlar hakkında huzursuzca daraldı ve korkma ve ne de üzülme dediler elbette biz seni ve aileni kurtaracağız yalnız karın kalacaklardan olmuştur
 **(34)** şüphesiz biz şu ülke halkının üstüne fasıklık yapıyor(lar) olmaları sebebiyle gökten bir azab indireceğiz 
 **(35)** ve andolsun biz aklını kullanan bir toplum için ondan açık bir işaret bırakmışızdır 
-**(36)** ve Medyen’e kardeşleri Şuayb’i (gönderdik) kavmim Allah’a kuluk edin ve ahiret gününü umun ve yeryüzünde asla bozgunculukla karışıklık çıkarmayın dedi
-**(37)**
-**(38)**
-**(39)**
-**(40)**
-**(41)**
-**(42)**
+**(36)** ve Medyen’e kardeşleri Şuayb’i (gönderdik) kavmim dedi Allah’a kuluk edin ve ahiret gününü umun ve yeryüzünde asla bozgunculukla karışıklık çıkarmayın
+**(37)** onu yalanladılar bu yüzden onları deprem yakaladı ve yurtlarında diz üstü çöküp kaldılar
+**(38)** ve Ad’ı ve Semud’u ve gerçekten bu size oturdukları yerlerden belli olmaktadır ve şeytan onlara yaptıkları işlerini süsledi ve onları yoldan çıkardı ve görenlerden oldular
+**(39)** ve Kaarun’u ve Fir’avn’ı ve Haman’ı ve andolsun Musa onlara açık kanıtlarla geldi fakat onlar o yerde büyüklük tasladılar ama geçip gidecek değillerdi
+**(40)** nitekim hepsini günahıyla yakaladık onlardan kiminin üstüne 	taş yağdıran bir fırtına gönderdik ve onlardan kimini korkunç bir ses yakaladı ve onlardan kimini onunla yere batırdık ve onlardan kimini boğduk ve Allah onlara zulmedecek değildi fakat onlar kendi kendilerine zulmediyorlardı 
+**(41)** Allah’tan başka dostlar edinen(lerin) kimselerin misali bir ev edinen örümcek misali gibidir şüphesiz evlerin en gevşeği elbette örümcek evidir keşke bilseler idi
+**(42)** şüphesiz Allah şeyleri, kendisinden başka ne gibi şeylere onların yalvardıklarını bilir
 **(43)**
 **(44)**
 **(45)**
