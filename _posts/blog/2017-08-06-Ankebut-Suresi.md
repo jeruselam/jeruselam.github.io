@@ -75,9 +75,9 @@ tag:
 **(63)** ve eğer onlara sorsan gökten suyu kim indirdi ve öldükten sonra onunla yeri diriltti elbette Allah derler, de ki hamd (övgü) Allah’a dır doğrusu çokları düşünmezler
 **(64)** ve bu dünya hayatı eğlenceden ve oyundan başka bir şey değildir ve elbette ahiret yurdu asıl hayat işte odur keşke biliyor(lar) olsalardı
 **(65)** gemiye bindikleri zaman dini yalnız O’na halis kılarak Allah’a yalvarırlar fakat karaya onları salimen çıkarınca onlar hemen ortak koşarlar
-**(66)**
-**(67)**
-**(68)**
-**(69)**
+**(66)** kendilerine verdiğimiz şeye nankörlük etmek için ve zevk içinde yaşasınlar diye ama yakında bileceklerdir
+**(67)** çevrelerinden insanlar kaçırılırken biz (Mekke’yi) güvenli dokunulmaz kıldık görmediler mi? hâlâ batıla mı? inanıyorlar ve Allah’ın ni’metine nankörlük ediyorlar
+**(68)** ve Allah’ın üzerine yalanı iftira atan kimseden veya kendisine gelen gerçeği yalanlayandan daha zalim kimdir? cehennemde kafirler için bir yer yok mudur? 
+**(69)** biz(im uğrumuz)da cihad eden(leri) kimseleri yollarımıza biz elbette iletiriz ve muhakkak ki Allah iyilik edenlerle beraberdir
 
 ![29a-Mekki]({{site.url}}/images/ayrac-muhur.png)
