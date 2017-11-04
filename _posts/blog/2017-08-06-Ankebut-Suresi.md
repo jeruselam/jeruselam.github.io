@@ -55,14 +55,14 @@ tag:
 **(43)** ve bu misalleri insanlara biz anlatıyoruz ama bilenlerden başkası onları düşünüp anlamaz 
 **(44)** Allah gökleri ve yeri hak ile yarattı şüphesiz inananlar için bunda bir ibret vardır
 **(45)** kitaptan sana vahyedileni şeyi oku ve namazı kıl elbette namaz iğrenç şeylerden ve kötülükler(den) men’eder elbette Allah’ı anmak en büyük(ibadet)tir ve ne yapıyorsunuz Allah bilir 
-**(46)** ve o en güzel (tarzdan) başka şekilde kitap ehliyle onların haksızlık edenleri dışında asla tartışmayın 
-**(47)**
-**(48)**
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
+**(46)** ve o en güzel (tarzdan) başka şekilde kitap ehliyle onların haksızlık edenleri dışında asla tartışmayın ve deyin ki bize indirilene ve size indirilene inandık ve tanrımız ve tanrınız birdir ve biz de O’na teslim olanlarız
+**(47)** ve işte böylece sana Kitabı indirdik kendilerine Kitabı verdiklerimiz kimseler ona inanırlar ve şunlardan (Araplardan) kimseler ona inananırlar ve kafirlerden başkası ayetlerimizi inkar etmez 
+**(48)** ve bundan önce Kitap'tan okuyan sen değildin ve elinle onu yazmıyordun öyle olsaydı batılda olanlar kuşkulanırlardı
+**(49)** hayır bilgi verilmiş olanların göğüslerde bulunan o açık açık ayetlerdir ve bizim ayetlerimizi zalimlerden başkası inkar etmez 
+**(50)** ve dediler ki Rabbinden ona ayetler indirilmeli değil miydi? de ki şüphesiz ayetler (mu’cizeler) Allah’ın yanındadır ve şüphesiz ben ancak apaçık bir uyarıcıyım
+**(51)** onlara yetmedi mi? ki biz kendilerine okunan Kitabı sana indirdik şüphesiz bunda bir rahmet ve inanan bir toplum için öğüt vardır 
+**(52)** de ki benimle sizin aranızda şahid olarak Allah yeter göklerde ve yerde olanları O bilir ve batıla inananlar ve Allah’ı inkar edenler işte ziyana uğrayanlar onlardır 
+**(53)** azabı senden çabuk istiyorlar, belirtilmiş bir süre eğer olmasaydı azab onlara hemen gelirdi ve ansızın ve onlar hiç farkında değillerken o kendilerine gelecektir
 **(54)**
 **(55)**
 **(56)**
