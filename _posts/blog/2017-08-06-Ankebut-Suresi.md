@@ -51,11 +51,11 @@ tag:
 **(39)** ve Kaarun’u ve Fir’avn’ı ve Haman’ı ve andolsun Musa onlara açık kanıtlarla geldi fakat onlar o yerde büyüklük tasladılar ama geçip gidecek değillerdi
 **(40)** nitekim hepsini günahıyla yakaladık onlardan kiminin üstüne 	taş yağdıran bir fırtına gönderdik ve onlardan kimini korkunç bir ses yakaladı ve onlardan kimini onunla yere batırdık ve onlardan kimini boğduk ve Allah onlara zulmedecek değildi fakat onlar kendi kendilerine zulmediyorlardı 
 **(41)** Allah’tan başka dostlar edinen(lerin) kimselerin misali bir ev edinen örümcek misali gibidir şüphesiz evlerin en gevşeği elbette örümcek evidir keşke bilseler idi
-**(42)** şüphesiz Allah şeyleri, kendisinden başka ne gibi şeylere onların yalvardıklarını bilir
-**(43)**
-**(44)**
-**(45)**
-**(46)**
+**(42)** şüphesiz kendisinden başka ne gibi şeylere onların yalvardıklarını, şeyleri Allah bilir
+**(43)** ve bu misalleri insanlara biz anlatıyoruz ama bilenlerden başkası onları düşünüp anlamaz 
+**(44)** Allah gökleri ve yeri hak ile yarattı şüphesiz inananlar için bunda bir ibret vardır
+**(45)** kitaptan sana vahyedileni şeyi oku ve namazı kıl elbette namaz iğrenç şeylerden ve kötülükler(den) men’eder elbette Allah’ı anmak en büyük(ibadet)tir ve ne yapıyorsunuz Allah bilir 
+**(46)** ve o en güzel (tarzdan) başka şekilde kitap ehliyle onların haksızlık edenleri dışında asla tartışmayın 
 **(47)**
 **(48)**
 **(49)**
