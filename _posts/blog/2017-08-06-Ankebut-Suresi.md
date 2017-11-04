@@ -68,13 +68,13 @@ tag:
 **(56)** inanan kullarım şüphesiz benim arzım geniştir o halde bana kulluk edin
 **(57)** her can ölümü tadacaktır sonra bize döndürüleceksiniz
 **(58)** ve inananları kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetten	yüksek odalara yerleştiririz orada ebedi kalırlar çalışanların ücreti ne güzeldir 
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
+**(59)** onlar ki sabrettiler ve Rabblerine dayanmaktadırlar
+**(60)** canlı(lar)dan nicesi var ki rızkını taşıyamaz, Allah onları da sizi de besler ve O işitendir bilendir
+**(61)** andolsun eğer onlara desen ki gökleri ve yeri kim yarattı ve güneşi ve ayı (kim boyun) eğdirdi? elbette Allah derler nasıl? döndürülüyorsunuz
+**(62)** Allah kullarından dilediği kimseye rızkı açar ve ona kısar şüphesiz Allah her şeyi bilendir
+**(63)** ve eğer onlara sorsan gökten suyu kim indirdi ve öldükten sonra onunla yeri diriltti elbette Allah derler, de ki hamd (övgü) Allah’a dır doğrusu çokları düşünmezler
+**(64)** ve bu dünya hayatı eğlenceden ve oyundan başka bir şey değildir ve elbette ahiret yurdu asıl hayat işte odur keşke biliyor(lar) olsalardı
+**(65)** gemiye bindikleri zaman dini yalnız O’na halis kılarak Allah’a yalvarırlar fakat karaya onları salimen çıkarınca onlar hemen ortak koşarlar
 **(66)**
 **(67)**
 **(68)**
