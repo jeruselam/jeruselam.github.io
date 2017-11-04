@@ -63,11 +63,11 @@ tag:
 **(51)** onlara yetmedi mi? ki biz kendilerine okunan Kitabı sana indirdik şüphesiz bunda bir rahmet ve inanan bir toplum için öğüt vardır 
 **(52)** de ki benimle sizin aranızda şahid olarak Allah yeter göklerde ve yerde olanları O bilir ve batıla inananlar ve Allah’ı inkar edenler işte ziyana uğrayanlar onlardır 
 **(53)** azabı senden çabuk istiyorlar, belirtilmiş bir süre eğer olmasaydı azab onlara hemen gelirdi ve ansızın ve onlar hiç farkında değillerken o kendilerine gelecektir
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
+**(54)** ve şüphesiz cehennem inkarcıları kuşatmış iken azabı senden çabucak istiyorlar 
+**(55)** o gün üstlerinden ve ayaklarının altından azab onları örter ve (Allah) der ki ne yapıyor idiyseniz tadın 
+**(56)** inanan kullarım şüphesiz benim arzım geniştir o halde bana kulluk edin
+**(57)** her can ölümü tadacaktır sonra bize döndürüleceksiniz
+**(58)** ve inananları kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetten	yüksek odalara yerleştiririz orada ebedi kalırlar çalışanların ücreti ne güzeldir 
 **(59)**
 **(60)**
 **(61)**
