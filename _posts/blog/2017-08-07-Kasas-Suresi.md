@@ -26,16 +26,16 @@ tag:
 **(14)** ne zaman ki (Musa) erişince güçlü çağına ve olgunlaşınca biz ona hüküm ve ilim verdik, güzel davrananları işte böyle mükafatlandırırız 
 **(15)** ve halkının (kendisinden) habersiz olduğu bir sırada şehre girdi ve kendi taraftarlarından biri ve öbürü de düşmanlarından iki adamı öldüresiye dövüşürlerken orada buldu kendi taraftarlarından olan kimse düşmanlarından olana karşı (Musa’dan) yardım istedi Musa bir yumruk indirdi onun işini bitirdi (sonra) dedi ki bu şeytanın işindendir o gerçekten apaçık şaşırtıcı bir düşmandır
 **(16)** Rabbim dedi gerçekten ben nefsime zulmettim beni bağışla onu (Allah) bağışladı çünkü O çok bağışlayandır O çok esirgeyendir
-**(17)**
-**(18)**
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
-**(24)**
-**(25)**
-**(26)**
+**(17)** Rabbim dedi bana lutfettiğin ni’metler hakkı için artık bir daha suçlulara arka çıkan olmayacağım
+**(18)** şehirde korku içinde gözetleyerek sabahladı bir de baktı ki dün kendisinden yardım isteyen yine feryadediyor Musa ona dedi gerçekten sen belli ki bir azgınsın 
+**(19)** nihayet o düşman olanı yakalamak isteyince ikisine de dedi ki Musa dün bir canı öldürdüğün gibi beni öldürmek mi istiyorsun? (oysa) yeryüzünde bir zorba olmak dışında bir şey istemiyorsun ve arabuluculardan olmak istemiyorsun
+**(20)** ve şehrin öbür ucundan koşarak bir adam geldi Musa dedi şüphesiz ki ileri gelenler seni öldürmek için seni aralarında konuşuyorlar sen çık (git) elbette ben sana öğüt verenlerden(im)
+**(21)** (Musa) oradan korka korka kollayarak çıktı Rabbim dedi zalim kavimden beni kurtar 
+**(22)** ne zaman ki Medyen tarafına yönelince umarım ki dedi Rabbim doğru yola beni iletir
+**(23)** ne zaman ki Medyen suyuna varınca, insanlardan bir grubu onun başında (hayvanlarını) sularken buldu ve onların gerisinde sudan meneden iki kız buldu (Musa) dedi sizin işiniz nedir? dediler ki çobanlar sulayıp çekilinceye kadar biz sulayamayız ve babamız da büyük bir ihtiyardır 
+**(24)** onlarınkini (Musa) hemen suladı sonra gölgeye çekildi Rabbim dedi bana indireceğin hayırdan ne varsa, doğrusu ben muhtacım
+**(25)** derken o iki kızdan biri utana utana yürüyerek ona geldi muhakkah dedi babam bizim için sulamanın ücretini ödemek için seni çağırıyor ne zaman ki (Musa) ona gelince ve ona hikayeyi anlatınca korkma dedi zalim o kavimden kurtuldun
+**(26)** o (kız)lardan biri dedi babacağım bunu (çoban) tut muhakkak ücretle tuttuklarının en hayırlısıdır en güçlüsüdür en güveniliridir
 **(27)**
 **(28)**
 **(29)**
