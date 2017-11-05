@@ -10,13 +10,13 @@ tag:
 
 ## 29. Kasas Sûresi
 
-**(1)** 
-**(2)** 
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)**
-**(7)**
+**(1)** Ta sin mim
+**(2)** şunlar apaçık Kitabın ayetleridir
+**(3)** inanan bir toplum için gerçek olarak Musa ve Fir’avn’ın haberinden bir parçayı sana okuyacağız
+**(4)** şüphesiz Fir’avn yeryüzünde ululandı (zorbalığa kalktı) ve halkını çeşitli gruplara böldü onlardan bir zümreyi eziyordu oğullarını kesiyordu ve kadınlarını sağ bırakıyordu çünkü o bozgunculardan idi
+**(5)** o yerde ezilen(ler) kimseler üzerine lutfetmeyi ve onları önderler yapmayı ve onları mirasçı kılmayı biz istiyorduk 
+**(6)** ve o yerde onları iktidara getirmeyi ve korkmuş oldukları şeyi Fir’avn’a ve Haman’a ve onlardan askerlerine göstermeyi 
+**(7)** ve O(çocuğu)nu emzir diye Musa’nın annesine vahyettik ne zaman ki, başına bir şey gelmesinden korkarsan onu suya bırak ve korkma ve üzülme elbette biz onu sana tekrar geri vereceğiz ve onu elçilerden yapacağız 
 **(8)**
 **(9)**
 **(10)**
