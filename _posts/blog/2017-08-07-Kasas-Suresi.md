@@ -21,11 +21,11 @@ tag:
 **(9)** ve Fir’avn’ın karısı dedi ki bana da ve sana da göz aydınlığı, belki bize yararı dokunur diye onu öldürmeyin ya da onu evlad ediniriz ve onlar anlamıyorlardı
 **(10)** Musa’nın annesinin gönlü bomboştu ve sabahladı eğer biz inananlardan olması için onun kalbi üzerine iyice pekiştirmiş olmasaydık neredeyse onu açığa vuracaktı 
 **(11)** ve kızkardeşine dedi ki onu takip et ve onlar farkına varmadan o da onu uzaktan gözetledi
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
+**(12)** ve daha önce süt anneleri ona haram etmiştik, dedi ki sizin için onun bakımını üstlenecek ve onlar ona öğüt verecek bir ev halkını (aile) size göstereyim mi?
+**(13)** gözü aydın olması için ve üzülmesin (diye) ve bilmesi için böylece onu annesine geri verdik şüphesiz ki Allah’ın va’di haktır ve fakat çokları bilmezler
+**(14)** ne zaman ki (Musa) erişince güçlü çağına ve olgunlaşınca biz ona hüküm ve ilim verdik, güzel davrananları işte böyle mükafatlandırırız 
+**(15)** ve halkının (kendisinden) habersiz olduğu bir sırada şehre girdi ve kendi taraftarlarından biri ve öbürü de düşmanlarından iki adamı öldüresiye dövüşürlerken orada buldu kendi taraftarlarından olan kimse düşmanlarından olana karşı (Musa’dan) yardım istedi Musa bir yumruk indirdi onun işini bitirdi (sonra) dedi ki bu şeytanın işindendir o gerçekten apaçık şaşırtıcı bir düşmandır
+**(16)** Rabbim dedi gerçekten ben nefsime zulmettim beni bağışla onu (Allah) bağışladı çünkü O çok bağışlayandır O çok esirgeyendir
 **(17)**
 **(18)**
 **(19)**
