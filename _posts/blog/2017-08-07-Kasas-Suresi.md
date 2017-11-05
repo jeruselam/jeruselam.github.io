@@ -17,9 +17,9 @@ tag:
 **(5)** o yerde ezilen(ler) kimseler üzerine lutfetmeyi ve onları önderler yapmayı ve onları mirasçı kılmayı biz istiyorduk 
 **(6)** ve o yerde onları iktidara getirmeyi ve korkmuş oldukları şeyi Fir’avn’a ve Haman’a ve onlardan askerlerine göstermeyi 
 **(7)** ve O(çocuğu)nu emzir diye Musa’nın annesine vahyettik ne zaman ki, başına bir şey gelmesinden korkarsan onu suya bırak ve korkma ve üzülme elbette biz onu sana tekrar geri vereceğiz ve onu elçilerden yapacağız 
-**(8)**
-**(9)**
-**(10)**
+**(8)** Fir’avn ailesi kendilerine bir düşman ve başlarına derd olsunası için nihayet onu aldı, Fir’avn ve Haman ve askerleri gerçekten yanılıyorlardı
+**(9)** ve Fir’avn’ın karısı dedi ki bana da ve sana da göz aydınlığı, belki bize yararı dokunur diye onu öldürmeyin ya da onu evlad ediniriz ve onlar anlamıyorlardı
+**(10)** 
 **(11)**
 **(12)**
 **(13)**
