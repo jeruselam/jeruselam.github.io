@@ -56,8 +56,8 @@ tag:
 **(44)** ve o işi Musa’ya yaptığımız vakit sen batı tarafında değildin ve görenlerden değildin
 **(45)** fakat biz birçok nesiller yarattık onların üzerinden uzun zamanlar geçti ve Medyen halkı arasında sen oturmuş değildin bunlara ayetlerimizi okusaydın lakin elçi olarak gönderen biziz
 **(46)** ve seslendiğimiz zaman sen Tur’un yanında değildin fakat senden önce hiç bir uyarıcı kendilerine gelmemiş olan toplumu uyarasın diye Rabbinden bir rahmet olarak belki düşünüp öğüt alırlar
-**(47)**
-**(48)**
+**(47)** kendi elleriyle yaptıkları (günahları) yüzünden başlarına bir felaket geldiği zaman Rabbimiz keşke olmasalardı diyecekler keşke bize bir elçi gönderseydin ayetlerine uysaydık ve mü’minlerden olsaydık
+**(48)** ne zaman ki katımızdan hak onlara gelince Musa’ya ne verildiyse benzeri verilmeli değil miydi? Musa’ya verilen şeyi daha önce inkar etmemişler miydi? birbirine destek olan iki büyü! dediler ve elbette biz hepsini inkar ederiz dediler 
 **(49)**
 **(50)**
 **(51)**
