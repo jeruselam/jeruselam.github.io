@@ -45,17 +45,17 @@ tag:
 **(33)** Rabbim dedi şüphesiz ben onlardan bir kişi öldürmüştüm beni öldürecekler diye korkuyorum 
 **(34)** ve Harun kardeşimi benimle beraber beni doğrulayan bir yardımcı olarak onu gönder o dil bakımından benden daha fasihtir (güzel konuşur) zira ben beni yalanlayacaklar diye korkuyorum
 **(35)** (Allah) dedi ki senin pazunu kardeşinle kuvvetlendireceğiz ve size bir yetki vereceğiz, ayetlerimiz sayesinde onlar size asla erişemeycekler, ikiniz ve size uyan kimseler üstün geleceksiniz
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
-**(41)**
-**(42)**
-**(43)**
-**(44)**
-**(45)**
-**(46)**
+**(36)** ne zaman ki Musa açık açık ayetlerimizle onlara gelince bu uydurulmuş bir büyüden başka bir şey değildir ve ilk atalarımız arasında böyle bir şey işitmedik dediler 
+**(37)** ve Musa dedi ki Rabbim kimin kendisinin yanından hidayet getirdiğini ve bu (dünya) evin(in) sonunun, onun kime ait olacağını  daha iyi biliyor muhakkak ki zalimler iflah olmaz
+**(38)** ve Fir’avn dedi ki ey ileri gelenler sizin için benden başka hiçbir bir tanrı bilmiyorum Hâmân çamurun üzerinde benim için ateş yak ve bana bir kule yap belki Musa’nın tanrısına çıkarım çünkü ben sanıyorum ki o yalancılardandır
+**(39)** O (Fir’avn) ve askerleri hakkı olmaksızın yeryüzünde büyüklük tasladılar ve kendilerinin bize döndürülmeyeceklerini sandılar 
+**(40)** biz de onu ve askerlerini tuttuk ve suya attık bak zalimlerin sonu nasıl oldu 
+**(41)** ve biz onları ateşe çağıran önderler yaptık ve kıyamet günü asla yardım olunmazlar
+**(42)** ve onların ardına bu dünyada bir la’net taktık ve kıyamet günü ise onlar çirkinleştirilenlerdendir
+**(43)** ve insanlar için bir aydınlanma olan ve hidayet olan ve rahmet olan ilk nesilleri helak ettikten sonra andolsun biz Musa’ya Kitabı verdik belki onlar düşünür öğüt alırlar
+**(44)** ve o işi Musa’ya yaptığımız vakit sen batı tarafında değildin ve görenlerden değildin
+**(45)** fakat biz birçok nesiller yarattık onların üzerinden uzun zamanlar geçti ve Medyen halkı arasında sen oturmuş değildin bunlara ayetlerimizi okusaydın lakin elçi olarak gönderen biziz
+**(46)** ve seslendiğimiz zaman sen Tur’un yanında değildin fakat senden önce hiç bir uyarıcı kendilerine gelmemiş olan toplumu uyarasın diye Rabbinden bir rahmet olarak belki düşünüp öğüt alırlar
 **(47)**
 **(48)**
 **(49)**
