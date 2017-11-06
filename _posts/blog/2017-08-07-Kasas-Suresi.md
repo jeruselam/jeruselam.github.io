@@ -44,7 +44,7 @@ tag:
 **(32)** elini koynuna sok bir kusur olmaksızın bembeyaz çıksın ve korkudan (açılan) kanadını (kollarını) kendine çek işte bunlar Rabbinden Fir’avn’a ve onun adamlarına iki delildir çünkü onlar yoldan çıkan bir kavim olmuşlardır
 **(33)** Rabbim dedi şüphesiz ben onlardan bir kişi öldürmüştüm beni öldürecekler diye korkuyorum 
 **(34)** ve Harun kardeşimi benimle beraber beni doğrulayan bir yardımcı olarak onu gönder o dil bakımından benden daha fasihtir (güzel konuşur) zira ben beni yalanlayacaklar diye korkuyorum
-**(35)**
+**(35)** (Allah) dedi ki senin pazunu kardeşinle kuvvetlendireceğiz ve size bir yetki vereceğiz, ayetlerimiz sayesinde onlar size asla erişemeycekler, ikiniz ve size uyan kimseler üstün geleceksiniz
 **(36)**
 **(37)**
 **(38)**
