@@ -41,9 +41,9 @@ tag:
 **(29)** ne zaman ki Musa süreyi bitirince ve ailesiyle yola çıkınca Tur’un (sağ) yanında bir ateş gördü ailesine dedi ki siz durun ben bir ateş gördüm belki size ondan bir haber getiririm yahut ateşten bir kor (getiririm) böylece ısınırsınız
 **(30)** ne zaman ki mübarek yerdeki sağdaki vadinin kıyısından oraya gelince, Musa diye ağaçtan şöyle seslenildi muhakkak ben benim alemlerin Rabbi Allah
 **(31)** ve küçük bir yılan gibi (asa’nın) titreştiğini gördüğün zaman asanı at diye, dönüp kaçtı ve arkasına bile bakmadı, Musa dön ve korkma elbette sen güvende olanlardansın
-**(32)**
-**(33)**
-**(34)**
+**(32)** elini koynuna sok bir kusur olmaksızın bembeyaz çıksın ve korkudan (açılan) kanadını (kollarını) kendine çek işte bunlar Rabbinden Fir’avn’a ve onun adamlarına iki delildir çünkü onlar yoldan çıkan bir kavim olmuşlardır
+**(33)** Rabbim dedi şüphesiz ben onlardan bir kişi öldürmüştüm beni öldürecekler diye korkuyorum 
+**(34)** ve Harun kardeşimi benimle beraber beni doğrulayan bir yardımcı olarak onu gönder o dil bakımından benden daha fasihtir (güzel konuşur) zira ben beni yalanlayacaklar diye korkuyorum
 **(35)**
 **(36)**
 **(37)**
