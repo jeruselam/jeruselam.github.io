@@ -58,14 +58,14 @@ tag:
 **(46)** ve seslendiğimiz zaman sen Tur’un yanında değildin fakat senden önce hiç bir uyarıcı kendilerine gelmemiş olan toplumu uyarasın diye Rabbinden bir rahmet olarak belki düşünüp öğüt alırlar
 **(47)** kendi elleriyle yaptıkları (günahları) yüzünden başlarına bir felaket geldiği zaman Rabbimiz keşke olmasalardı diyecekler keşke bize bir elçi gönderseydin ayetlerine uysaydık ve mü’minlerden olsaydık
 **(48)** ne zaman ki katımızdan hak onlara gelince Musa’ya ne verildiyse benzeri verilmeli değil miydi? Musa’ya verilen şeyi daha önce inkar etmemişler miydi? birbirine destek olan iki büyü! dediler ve elbette biz hepsini inkar ederiz dediler 
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
-**(54)**
-**(55)**
-**(56)**
+**(49)** de ki o halde Allah katından bu ikisinden o daha doğru olan bir Kitap getirin ben ona uyayım eğer doğru iseniz
+**(50)** eğer sana cevap veremezlerse bil ki onlar kesinlikle keyiflerine uyuyorlar Allah'tan bir yol gösterici olmadan kendi keyfine uyan kimseden daha sapık kim olabilir? muhakkak ki Allah zalim kavmi doğru yola iletmez 
+**(51)** ve andolsun sözü(müzü) onlar için biz birbirine bitiştirdik belki düşünüp öğüt alırlar
+**(52)** bundan önce kendilerine Kitap verdiklerimiz onlar bu(Kur’a)n’a inanırlar 
+**(53)** onlara (Kur’an) okunduğu zaman ona inandık derler kesinlikle o Rabbimizden bir haktır zaten biz ondan önce de müslümanlar idik
+**(54)** işte onlara sabretmelerinden ötürü mükafatları iki kez verilir ve onlar kötülüğü iyilikle savarlar ve onları rızıklandırdığımız şeyden infak ederler
+**(55)** ve boş söz işittikleri zaman ondan yüz çevirirler ve bizim işlerimiz bizimdir ve sizin işleriniz sizindir size selam olsun biz cahilleri istemeyiz derler
+**(56)** şüphesiz sen sevdiğin kimseyi doğru yola iletemezsin fakat Allah dilediği kimseyi doğru yola iletir ve O yola gelecek olanları daha iyi bilir
 **(57)**
 **(58)**
 **(59)**
