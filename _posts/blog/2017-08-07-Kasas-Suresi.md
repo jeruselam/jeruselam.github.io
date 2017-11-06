@@ -36,11 +36,11 @@ tag:
 **(24)** onlarınkini (Musa) hemen suladı sonra gölgeye çekildi Rabbim dedi bana indireceğin hayırdan ne varsa, doğrusu ben muhtacım
 **(25)** derken o iki kızdan biri utana utana yürüyerek ona geldi muhakkah dedi babam bizim için sulamanın ücretini ödemek için seni çağırıyor ne zaman ki (Musa) ona gelince ve ona hikayeyi anlatınca korkma dedi zalim o kavimden kurtuldun
 **(26)** o (kız)lardan biri dedi babacağım bunu (çoban) tut muhakkak ücretle tuttuklarının en hayırlısıdır en güçlüsüdür en güveniliridir
-**(27)**
-**(28)**
-**(29)**
-**(30)**
-**(31)**
+**(27)** dedi ki sekiz yıl bana hizmet etmen karşılığında şu iki kızımdan birini sana nikahlamak elbette istiyorum eğer on(yıl)a tamamlarsan artık o sendendir ben sana zahmet vermek istemem eğer (İnşallah) Allah (İnşallah) dilerse (İnşallah) beni iyilerden bulacaksın
+**(28)** (Musa) dedi bu senin benimle arasında aramızdadır hangi süreyi yerine getirsem bana düşmanlık yoktur dediğimiz şeye karşı Allah vekildir
+**(29)** ne zaman ki Musa süreyi bitirince ve ailesiyle yola çıkınca Tur’un (sağ) yanında bir ateş gördü ailesine dedi ki siz durun ben bir ateş gördüm belki size ondan bir haber getiririm yahut ateşten bir kor (getiririm) böylece ısınırsınız
+**(30)** ne zaman ki mübarek yerdeki sağdaki vadinin kıyısından oraya gelince, Musa diye ağaçtan şöyle seslenildi muhakkak ben benim alemlerin Rabbi Allah
+**(31)** ve küçük bir yılan gibi (asa’nın) titreştiğini gördüğün zaman asanı at diye, dönüp kaçtı ve arkasına bile bakmadı, Musa dön ve korkma elbette sen güvende olanlardansın
 **(32)**
 **(33)**
 **(34)**
