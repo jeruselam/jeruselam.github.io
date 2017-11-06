@@ -66,7 +66,7 @@ tag:
 **(54)** işte onlara sabretmelerinden ötürü mükafatları iki kez verilir ve onlar kötülüğü iyilikle savarlar ve onları rızıklandırdığımız şeyden infak ederler
 **(55)** ve boş söz işittikleri zaman ondan yüz çevirirler ve bizim işlerimiz bizimdir ve sizin işleriniz sizindir size selam olsun biz cahilleri istemeyiz derler
 **(56)** şüphesiz sen sevdiğin kimseyi doğru yola iletemezsin fakat Allah dilediği kimseyi doğru yola iletir ve O yola gelecek olanları daha iyi bilir
-**(57)**
+**(57)** ve dediler ki eğer biz doğru yola uyarsak seninle beraber yurdumuzdan atılırız, biz onlara kendi katımızdan bir rızık olarak her şeyin ürünlerinin ona toplanıp getirildiği dokunulmaz bir mekan vermedik mi? 
 **(58)**
 **(59)**
 **(60)**
