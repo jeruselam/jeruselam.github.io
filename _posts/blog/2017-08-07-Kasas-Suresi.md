@@ -66,14 +66,14 @@ tag:
 **(54)** işte onlara sabretmelerinden ötürü mükafatları iki kez verilir ve onlar kötülüğü iyilikle savarlar ve onları rızıklandırdığımız şeyden infak ederler
 **(55)** ve boş söz işittikleri zaman ondan yüz çevirirler ve bizim işlerimiz bizimdir ve sizin işleriniz sizindir size selam olsun biz cahilleri istemeyiz derler
 **(56)** şüphesiz sen sevdiğin kimseyi doğru yola iletemezsin fakat Allah dilediği kimseyi doğru yola iletir ve O yola gelecek olanları daha iyi bilir
-**(57)** ve dediler ki eğer biz doğru yola uyarsak seninle beraber yurdumuzdan atılırız, biz onlara kendi katımızdan bir rızık olarak her şeyin ürünlerinin ona toplanıp getirildiği dokunulmaz bir mekan vermedik mi? 
-**(58)**
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
+**(57)** ve dediler ki eğer biz doğru yola uyarsak seninle beraber yurdumuzdan atılırız, biz onlara kendi katımızdan bir rızık olarak her şeyin ürünlerinin ona toplanıp getirildiği dokunulmaz bir mekan vermedik mi? fakat çokları bilmezler
+**(58)** ve refah içinde şımarmış kent(ler)den nicesini helak ettik İşte şunlar onların meskenleri onlardan sonra oralarda oturulmadı ancak pek az ve biz olduk biz varisler
+**(59)** ve ayetlerimizi onlara okuyan bir elçi (ülkelerin) anasına gönderinceye kadar Rabbin ülkeleri helak edici değildir ve halkı zalim olmadan ülkeleri biz helak edici değiliz 
+**(60)** ve her şeyden size ne verildiyse dünya hayatının geçimidir ve süsüdür Allah’ın yanında olan ise daha hayırlıdır ve daha kalıcıdır aklınızı kullanmıyor musunuz?
+**(61)** kendisine güzel bir söz vadettiğimiz ve o muhakkak ona kavuşacak olan, dünya hayatının geçici zevkini kendisine yaşattığımız kimse gibi sonra o kıyamet günü getirileceklerden olan kimse midir? 
+**(62)** ve o gün (Allah) onlara seslenerek der ki benim ortaklarım olduklarını zannettikleriniz nerede?
+**(63)** söz üzerlerine hak olanlar Rabbimiz derler azdırdıklarımız kimseler şunlardır kendimiz azdığımız gibi onları azdırdık, uzak olduğumuzu sana arz ederiz zaten onlar bize tapanlardan değildi 
+**(64)** 
 **(65)**
 **(66)**
 **(67)**
