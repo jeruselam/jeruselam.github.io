@@ -80,7 +80,7 @@ tag:
 **(68)** ve Rabbin ne dilerse yaratır ve seçer, seçim onlara ait değildir. Allah münezzehtir ve ortak koştukları şeylerden yücedir 
 **(69)** ve göğüslerinin neyi gizlediğini ve neyi açığa vurduğunu Rabbin bilir
 **(70)** ve O’ndan başka tanrı olmayan O Allah’tır ilk olan ve son olan hamd O’na mahsustur ve Hüküm O’nundur ve O’na döndürüleceksiniz
-**(71)** de ki gördünüz mü? eğer Allah kıyamet gününe kadar geceyi üzerinize sürekli kılsa size ışık getirecek Allah’tan başka tanrı kimdir? işitmiyor musunuz?
+**(71)** de ki gördünüz mü? eğer Allah kıyamet gününe kadar geceyi üzerinize sürekli kılsa size ışık getirecek Allah’tan başka tanrı[kendine ibadet edilen, herşeyden çok sevilen, tazim ve tesbih] kimdir? işitmiyor musunuz?
 **(72)**
 **(73)**
 **(74)**
