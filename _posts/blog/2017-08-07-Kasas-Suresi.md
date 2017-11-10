@@ -73,14 +73,14 @@ tag:
 **(61)** kendisine güzel bir söz vadettiğimiz ve o muhakkak ona kavuşacak olan, dünya hayatının geçici zevkini kendisine yaşattığımız kimse gibi sonra o kıyamet günü getirileceklerden olan kimse midir? 
 **(62)** ve o gün (Allah) onlara seslenerek der ki benim ortaklarım olduklarını zannettikleriniz nerede?
 **(63)** söz üzerlerine hak olanlar Rabbimiz derler azdırdıklarımız kimseler şunlardır kendimiz azdığımız gibi onları azdırdık, uzak olduğumuzu sana arz ederiz zaten onlar bize tapanlardan değildi 
-**(64)** 
-**(65)**
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
+**(64)** ve denir ki koştuğunuz ortakları çağırın onları çağırırlar fakat bunların çağrısına cevap vermezler ve azabı karşılarında görürler onlar yola gelseler idi ne olurdu
+**(65)** ve gün onlara seslenerek der ki elçilere ne? cevap verdiniz 
+**(66)** o gün onlara haberler kör olmuştur ve onlar birbirlerine de soramazlar
+**(67)** ama kim tevbe ederse ve inanırsa ve iyi iş yaparsa umulur ki kurtuluşa erenlerden olur
+**(68)** ve Rabbin ne dilerse yaratır ve seçer, seçim onlara ait değildir. Allah münezzehtir ve ortak koştukları şeylerden yücedir 
+**(69)** ve göğüslerinin neyi gizlediğini ve neyi açığa vurduğunu Rabbin bilir
+**(70)** ve O’ndan başka tanrı olmayan O Allah’tır ilk olan ve son olan hamd O’na mahsustur ve Hüküm O’nundur ve O’na döndürüleceksiniz
+**(71)** de ki gördünüz mü? eğer Allah kıyamet gününe kadar geceyi üzerinize sürekli kılsa size ışık getirecek Allah’tan başka tanrı kimdir? işitmiyor musunuz?
 **(72)**
 **(73)**
 **(74)**
