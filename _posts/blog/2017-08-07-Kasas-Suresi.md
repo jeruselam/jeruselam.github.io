@@ -93,7 +93,7 @@ tag:
 **(81)** nihayet onu ve evini barkını yere batırdık Allah’a karşı ona yardım edecek onun hiçbir topluluğu olmadı ve kendini kurtaranlardan değildi 
 **(82)** ve dün onun yerinde olmayı isteyenler ve demeğe başladılar  vay demek ki Allah kullarından dilediği kimseye rızkı bollaştırıyor ve kısıyor Allah’ın bize lutfetmesi olmasaydı bizi de yere batırırdı demekki gerçekten kafirler iflah olmaz
 **(83)** işte ahiret yurdu yeryüzünde böbürlenmeyi ve ne de bozguncuğu istemeyen(ler) kimselere onu veririz ve sonuç sakınanlarındır
-**(84)** 
+**(84)** ondan daha güzeli bir iyilik kim getirirse ve kötülük kim getirirse kötülükleri yapan(lar) kimseler yapıyor(lar) oldukları şeylerden başkasıyla cezalandırılmaz
 **(85)** 
 **(86)**
 **(87)**
