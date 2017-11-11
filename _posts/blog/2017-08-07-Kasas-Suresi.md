@@ -87,12 +87,12 @@ tag:
 **(75)** ve her ümmetten bir şahid çıkarırız ve delilinizi getirin deriz bilirler ki gerçek kesinlikle Allah’a aittir ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
 **(76)** elbette Karun Musa’nın kavminden idi onlara karşı azgınlık etti ve muhakkak ki ona hazinelerden vermiştik onun anahtarları kuvvet sahibi bir topluluğa ağır geliyordu, hani ona kavmi demişti ki şımarma şüphesiz Allah şımarıkları sevmez 
 **(77)** ve Allah’ın sana verdiği ahiret yurdunu içinde iste (ara) ve dünyadan nasibini unutma ve Allah’ın sana iyilik ettiği gibi iyilik et ve yeryüzünde bozgunculuk isteme çünkü Allah bozguncuları sevmez
-**(78)**
-**(79)**
-**(80)**
-**(81)**
-**(82)**
-**(83)**
+**(78)** dedi ki şüphesiz bende bulunan bir bilgi sayesinde o bana verildi bilmedi mi ki şüphesiz Allah elbette o kuvvet bakımından kendisinden daha güçlü ve daha çok cemaati bulunan, kendisinden önceki kuşaklar arasıda niceleri helak etmiştir ve suçlulara günahlarından sorulmaz 
+**(79)** (Karun) süsü (debdebesi) içinde kavminin karşısına çıktı dünya hayatını isteyen(ler) kimseler Keşke! dedi(ler) Karun’a verilen şeyin bir benzeri bize verilseydi gerçekten onun büyük şansı vardır
+**(80)** ve bilgi verilmiş olanlar dedi(ler) yazık size Allah’ın sevabı inanan ve iyi işler yapan kimse için daha hayırlıdır ve sabredenlerden başkası buna kavuşturulmaz 
+**(81)** nihayet onu ve evini barkını yere batırdık Allah’a karşı ona yardım edecek onun hiçbir topluluğu olmadı ve kendini kurtaranlardan değildi 
+**(82)** ve dün onun yerinde olmayı isteyenler ve demeğe başladılar  vay demek ki Allah kullarından dilediği kimseye rızkı bollaştırıyor ve kısıyor Allah’ın bize lutfetmesi olmasaydı bizi de yere batırırdı demekki gerçekten kafirler iflah olmaz
+**(83)** işte ahiret yurdu yeryüzünde böbürlenmeyi ve ne de bozguncuğu istemeyen(ler) kimselere onu veririz ve sonuç sakınanlarındır
 **(84)** 
 **(85)** 
 **(86)**
