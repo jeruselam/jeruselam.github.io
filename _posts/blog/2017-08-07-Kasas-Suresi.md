@@ -81,12 +81,12 @@ tag:
 **(69)** ve göğüslerinin neyi gizlediğini ve neyi açığa vurduğunu Rabbin bilir
 **(70)** ve O’ndan başka tanrı olmayan O Allah’tır ilk olan ve son olan hamd O’na mahsustur ve Hüküm O’nundur ve O’na döndürüleceksiniz
 **(71)** de ki gördünüz mü? eğer Allah kıyamet gününe kadar geceyi üzerinize sürekli kılsa size ışık getirecek Allah’tan başka tanrı[kendine ibadet edilen, herşeyden çok sevilen, tazim ve tesbih] kimdir? işitmiyor musunuz?
-**(72)**
-**(73)**
-**(74)**
-**(75)**
-**(76**
-**(77**
+**(72)** de ki baksanıza eğer Allah kıyamet gününe kadar gündüzü üzerinize sürekli kılsa onda dinleneceğiniz geceyi size getirecek Allah’tan başka tanrı kimdir? görmüyor musunuz?
+**(73)** onda dinlenmeniz için ve O’nun lutfundan aramanız için rahmetinden dolayı sizin için geceyi ve gündüzü var etti ve umulur ki şükredersiniz
+**(74)** ve o gün onlara seslenerek der ki ortaklarım oduklarını sandığınız şeyler nerede? 
+**(75)** ve her ümmetten bir şahid çıkarırız ve delilinizi getirin deriz bilirler ki gerçek kesinlikle Allah’a aittir ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
+**(76)** elbette Karun Musa’nın kavminden idi onlara karşı azgınlık etti ve muhakkak ki ona hazinelerden vermiştik onun anahtarları kuvvet sahibi bir topluluğa ağır geliyordu, hani ona kavmi demişti ki şımarma şüphesiz Allah şımarıkları sevmez 
+**(77)** ve Allah’ın sana verdiği ahiret yurdunu içinde iste (ara) ve dünyadan nasibini unutma ve Allah’ın sana iyilik ettiği gibi iyilik et ve yeryüzünde bozgunculuk isteme çünkü Allah bozguncuları sevmez
 **(78)**
 **(79)**
 **(80)**
