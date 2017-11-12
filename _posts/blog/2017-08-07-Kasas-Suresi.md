@@ -8,7 +8,7 @@ tag:
  - Kasas
 ---
 
-## 29. Kasas Sûresi
+## 28. Kasas Sûresi
 
 **(1)** Ta sin mim
 **(2)** şunlar apaçık Kitabın ayetleridir
