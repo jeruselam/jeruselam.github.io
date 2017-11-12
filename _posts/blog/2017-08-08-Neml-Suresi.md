@@ -13,19 +13,19 @@ tag:
 **(1)** Ta sin şunlar Kur’an’ın[bir araya getirilen, toplanan, okunan] ve apaçık bir Kitabın ayetleridir 
 **(2)** yol göstericidir ve inananlara müjdedir
 **(3)** onlar ki namazı kılarlar ve zekatı verirler ve onlar ahirete, onlar kesin olarak inanırlar
-**(4)** 
-**(5)** 
-**(6)**
-**(7)**
-**(8)**
-**(9)**
-**(10)**
-**(11)**
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
+**(4)** şüphesiz ahirete inanmayan kimselerin işlerini kendilerine süslemişizdir onlar körü körüne bocalarlar
+**(5)** onlar öyle kimselerdir ki en kötü azab kendilerinindir ve onlar ahirette, onlar ziyana uğrayanlardır
+**(6)** ve şüphesiz Kur’an (herşeyi) bilen hüküm ve hikmet sahibi katından sana verilmektedir 
+**(7)** hani demişti Musa ailesine şüphesiz ben bir ateş gördüm ondan  size bir haber getireyim yahut size bir ateş koru getireyim belki ısınırsınız
+**(8)** 
+**(9)** 
+**(10)** 
+**(11)** 
+**(12)** 
+**(13)** 
+**(14)** 
+**(15)** 
+**(16)** 
 **(17)**
 **(18)**
 **(19)**
