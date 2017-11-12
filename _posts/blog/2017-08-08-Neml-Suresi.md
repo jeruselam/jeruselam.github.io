@@ -11,8 +11,8 @@ tag:
 ## 27. Neml Sûresi
 
 **(1)** Ta sin şunlar Kur’an’ın[bir araya getirilen, toplanan, okunan] ve apaçık bir Kitabın ayetleridir 
-**(2)** 
-**(3)** 
+**(2)** yol göstericidir ve inananlara müjdedir
+**(3)** onlar ki namazı kılarlar ve zekatı verirler ve onlar ahirete, onlar kesin olarak inanırlar
 **(4)** 
 **(5)** 
 **(6)**
