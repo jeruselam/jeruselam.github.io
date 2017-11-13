@@ -17,10 +17,10 @@ tag:
 **(5)** onlar öyle kimselerdir ki en kötü azab kendilerinindir ve onlar ahirette, onlar ziyana uğrayanlardır
 **(6)** ve şüphesiz Kur’an (herşeyi) bilen hüküm ve hikmet sahibi katından sana verilmektedir 
 **(7)** hani demişti Musa ailesine şüphesiz ben bir ateş gördüm ondan  size bir haber getireyim yahut size bir ateş koru getireyim belki ısınırsınız
-**(8)** 
-**(9)** 
-**(10)** 
-**(11)** 
+**(8)** ne zaman ki oraya geldi, ateşin içinde bulunan kimse ve çevresinde olan kimse mübarek kılındı diye seslenildi, alemlerin Rabbi Allah eksikliklerden münezzehtir 
+**(9)** Musa gerçek şu ki ben güçlü hüküm ve hikmet sahibi Allah’ım 
+**(10)** ve at asanı ne zaman ki bir yılan gibi titreştiğini görünce arkaya dön(üp kaç)dı ve Musa geri dönmedi, korkma çünkü ben benim  huzurumda elçiler korkmaz(lar)
+**(11)** ancak kim zulmeder sonra da (yaptığı) kötülükten sonra iyilikle değiştirirse şüphesiz ben bağışlayıcıyım esirgeyiciyim
 **(12)** 
 **(13)** 
 **(14)** 
