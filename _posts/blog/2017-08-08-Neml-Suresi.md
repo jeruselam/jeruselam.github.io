@@ -21,8 +21,8 @@ tag:
 **(9)** Musa gerçek şu ki ben güçlü hüküm ve hikmet sahibi Allah’ım 
 **(10)** ve at asanı ne zaman ki bir yılan gibi titreştiğini görünce arkaya dön(üp kaç)dı ve Musa geri dönmedi, korkma çünkü ben benim  huzurumda elçiler korkmaz(lar)
 **(11)** ancak kim zulmeder sonra da (yaptığı) kötülükten sonra iyilikle değiştirirse şüphesiz ben bağışlayıcıyım esirgeyiciyim
-**(12)** 
-**(13)** 
+**(12)** ve elini koynuna sok kusur olmaksızın dokuz mu’cize içinde bembeyaz çıksın, Fir’avn’a ve onun kavmine (git) çünkü onlar fasık bir kavim oldular
+**(13)** ne zaman ki açıkça görünen ayetlerimiz onlara gelince bu dediler apaçık bir büyüdür
 **(14)** 
 **(15)** 
 **(16)** 
