@@ -23,11 +23,11 @@ tag:
 **(11)** ancak kim zulmeder sonra da (yaptığı) kötülükten sonra iyilikle değiştirirse şüphesiz ben bağışlayıcıyım esirgeyiciyim
 **(12)** ve elini koynuna sok kusur olmaksızın dokuz mu’cize içinde bembeyaz çıksın, Fir’avn’a ve onun kavmine (git) çünkü onlar fasık bir kavim oldular
 **(13)** ne zaman ki açıkça görünen ayetlerimiz onlara gelince bu dediler apaçık bir büyüdür
-**(14)** 
-**(15)** 
-**(16)** 
-**(17)**
-**(18)**
+**(14)** ve vicdanları kanaat getirdiği halde haksızlıkları yüzünden ve böbürlenmeleri yüzünden onları inkar ettiler bak işte bozguncuların sonu nasıl oldu
+**(15)** ve andolsun, Davud’a ve Süleyman’a biz bir ilim verdik ve dediler hamdolsun Allah’a ki inanan kullarından birçoğu üzerine bizi üstün kıldı
+**(16)** ve Süleyman Davud’a mirasçı oldu ve dedi ki ey insanlar kuşların dili bize öğretildi ve her şeyden bize (bir pay) verildi şüphesiz bu, elbette o açık bir lutuftur
+**(17)** ve Süleyman’a cinlerden ve insanlar(dan) ve kuşlar(dan) orduları toplandı onlar sevk ediliyordu
+**(18)** nihayet karınca vadisi üzerine geldikleri zaman bir karınca dedi ey karıncalar yuvalarınıza girin Süleyman ve orduları ve onlar farkında olmayarak sizi ezmesinler 
 **(19)**
 **(20)**
 **(21)**
