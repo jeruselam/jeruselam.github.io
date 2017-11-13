@@ -27,14 +27,14 @@ tag:
 **(15)** ve andolsun, Davud’a ve Süleyman’a biz bir ilim verdik ve dediler hamdolsun Allah’a ki inanan kullarından birçoğu üzerine bizi üstün kıldı
 **(16)** ve Süleyman Davud’a mirasçı oldu ve dedi ki ey insanlar kuşların dili bize öğretildi ve her şeyden bize (bir pay) verildi şüphesiz bu, elbette o açık bir lutuftur
 **(17)** ve Süleyman’a cinlerden ve insanlar(dan) ve kuşlar(dan) orduları toplandı onlar sevk ediliyordu
-**(18)** nihayet karınca vadisi üzerine geldikleri zaman bir karınca dedi ey karıncalar yuvalarınıza girin Süleyman ve orduları ve onlar farkında olmayarak sizi ezmesinler 
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
-**(24)**
-**(25)**
+**(18)** nihayet karınca vadisi üzerine geldikleri Rabbimzaman bir karınca dedi ey karıncalar yuvalarınıza girin Süleyman ve orduları ve onlar farkında olmayarak sizi ezmesinler 
+**(19)** onun sözüne gülümseyerek tebessüm etti ve bana ve anama babama lutfettiğin ni’metine şükredeyim diye ve senin beğeneceğin faydalı bir iş yapayım diye gönlüme ilham eyle ve beni rahmetinle iyi kullarının arasına sok Rabbim dedi 
+**(20)** ve kuşları teftiş etti dedi ki neden ben hüdhüdü göremiyorum yoksa kayıplardan(mı) oldu?
+**(21)** çetin bir azapla ona azabedeceğim ya da onu keseceğim yahut da bana açık bir delil getirecek 
+**(22)** çok geçmeden geldi ve onda senin görmediğin ben bir şey gördüm dedi ve Seba'dan sana gerçek bir haber getirdim 
+**(23)** şüphesiz ben onlara hükümdarlık eden bir kadın buldum ve herşeyden kendisine verilmiştir ve büyük bir tahtı vardır 
+**(24)** onu ve kavmini Allah’ı bırakıp güneşe secde ederlerken buldum ve onlara şeytan işlerini süsledi ve (doğru) yoldan onları çevirdi (bu yüzden) onlar yola gelmiyorlar
+**(25)** göklerde ve yerde gizleneni açığa çıkaran ve gizledikleri şeyleri ve açığa vurdukları şeyleri bilen Allah’a secde etmezler mi? 
 **(26)**
 **(27)**
 **(28)**
