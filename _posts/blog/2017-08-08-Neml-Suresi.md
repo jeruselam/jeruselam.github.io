@@ -35,10 +35,10 @@ tag:
 **(23)** şüphesiz ben onlara hükümdarlık eden bir kadın buldum ve herşeyden kendisine verilmiştir ve büyük bir tahtı vardır 
 **(24)** onu ve kavmini Allah’ı bırakıp güneşe secde ederlerken buldum ve onlara şeytan işlerini süsledi ve (doğru) yoldan onları çevirdi (bu yüzden) onlar yola gelmiyorlar
 **(25)** göklerde ve yerde gizleneni açığa çıkaran ve gizledikleri şeyleri ve açığa vurdukları şeyleri bilen Allah’a secde etmezler mi? 
-**(26)**
-**(27)**
-**(28)**
-**(29)**
+**(26)** Allah (ki) O’ndan başka Tanrı yoktur, büyük Arş’ın Rabbidir
+**(27)** dedi ki bakacağız doğru mu söyledin yoksa yalancılardan mı oldun?
+**(28)** götür bu mektubumu ve at onlara sonra onlardan biraz öteye çekil ve bak neye başvuruyorlar 
+**(29)** dedi ki ey ileri gelenler bana gerçekten çok önemli bir mektup bırakıldı 
 **(30)**
 **(31)**
 **(32)**
