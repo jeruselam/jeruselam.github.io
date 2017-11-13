@@ -39,7 +39,7 @@ tag:
 **(27)** dedi ki bakacağız doğru mu söyledin yoksa yalancılardan mı oldun?
 **(28)** götür bu mektubumu ve at onlara sonra onlardan biraz öteye çekil ve bak neye başvuruyorlar 
 **(29)** dedi ki ey ileri gelenler bana gerçekten çok önemli bir mektup bırakıldı 
-**(30)**
+**(30)** muhakkak o Süleyman'dandır ve o Rahman Rahim Allah’ın adıyla(başlamakta)dır 
 **(31)**
 **(32)**
 **(33)**
