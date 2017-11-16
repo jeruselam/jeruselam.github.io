@@ -44,12 +44,12 @@ tag:
 **(32)** dedi ki ey ileri gelenler (bu) işimde bana bir fikir verin siz olmadığınız sürece hiçbir işi kesip atan ben olmam 
 **(33)** dediler ki biz güç sahibiyiz ve yaman savaş erbabıyız ama emir senindir o halde bak ne buyurursan
 **(34)** şüphesiz hükümdarlar bir ülkeye girdikleri zaman dedi orayı bozarlar ve zillet içinde halkının şereflilerini kılarlar ve böyle yaparlar
-**(35)**
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
+**(35)** şüphesiz ben onlara bir hediye göndereyim ve elçiler ne ile dönecekler bakayım 
+**(36)** ne zaman ki Süleyman’a gelince dedi ki mal ile bana yardım mı etmek istiyorsunuz? oysa ne ki Allah bana vermiştir size verdiğinden (o) daha hayırlıdır bilakis siz hediyenizle sevinirsiniz
+**(37)** onlara dön (söyle) ona kendilerinin asla karşı koyamayacakları ordularla onlara gelirim ve zilletle ve onları hor ve hakir olarak oradan onları sürüp çıkarırım 
+**(38)** ey ileri gelenler dedi teslim olarak bana gelmelerinden önce onun tahtını hanginiz bana getirebilir
+**(39)** cinlerden bir ifrit dedi ki makamından sen kalkmadan onu ben sana getiririm gerçekten benim buna gücüm yeter bana güvenilir
+**(40)** dedi ki yanında Kitaptan bir ilim bulunan sana gözünü sen kırpmadan önce ben onu sana getirebilirim ne zaman ki onu yanında yerleşmiş görünce dedi ki Rabbimin lutfundandır bu beni sınaması için şükür mü edeceğim? yoksa inkar mı edeceğim? ve kim şükrederse şüphesiz kendisi için şükretmiştir ve kim inkar ederse şüphesiz Rabbim zengindir kerimdir
 **(41)**
 **(42)**
 **(43)**
