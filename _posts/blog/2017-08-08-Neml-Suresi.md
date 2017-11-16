@@ -40,10 +40,10 @@ tag:
 **(28)** götür bu mektubumu ve at onlara sonra onlardan biraz öteye çekil ve bak neye başvuruyorlar 
 **(29)** dedi ki ey ileri gelenler bana gerçekten çok önemli bir mektup bırakıldı 
 **(30)** muhakkak o Süleyman'dandır ve o Rahman Rahim Allah’ın adıyla(başlamakta)dır 
-**(31)**
-**(32)**
-**(33)**
-**(34)**
+**(31)** bana karşı büyüklük taslamayın ve teslim olarak bana gelin (diye yazıyor) 
+**(32)** dedi ki ey ileri gelenler (bu) işimde bana bir fikir verin siz olmadığınız sürece hiçbir işi kesip atan ben olmam 
+**(33)** dediler ki biz güç sahibiyiz ve yaman savaş erbabıyız ama emir senindir o halde bak ne buyurursan
+**(34)** şüphesiz hükümdarlar bir ülkeye girdikleri zaman dedi orayı bozarlar ve zillet içinde halkının şereflilerini kılarlar ve böyle yaparlar
 **(35)**
 **(36)**
 **(37)**
