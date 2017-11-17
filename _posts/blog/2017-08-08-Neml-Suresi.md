@@ -56,8 +56,8 @@ tag:
 **(44)** ona köşke gir dendi ne zaman ki (köşkü) görünce derin bir su sandı ve bacaklarını sıvadı muhakkak o köşk dedi cilalı şeffaf sırçadandır[temiz cam gibi berrak] (Kraliçe) dedi ki Rabbim ben kendime zulmetmişim ve Süleyman’la beraber alemlerin Rabbi Allah’a teslim oldum 
 **(45)** ve andolsun kardeşleri Salih’i Semud(kavmin)e biz gönderdik Allah’a kulluk etsinler diye o zaman onlar birbiriyle çekişen iki bölük olmuşlardı 
 **(46)** dedi ki kavmim iyilikten önce kötülüğe neden koşuyorsunuz Allah’tan mağfiret dilemeniz gerekmez mi? belki esirgenirsiniz
-**(47)**
-**(48)**
+**(47)** senin yüzünden ve seninle beraber bulunanların yüzünden uğursuzluğa uğradık dediler uğursuzluğunuz dedi Allah katındadır doğrusu siz sınanan bir toplumsunuz
+**(48)** ve şehirde dokuz kişi vardı, yeryüzünde bozgunculuk yaparlardı ve düzeltmezlerdi
 **(49)**
 **(50)**
 **(51)**
