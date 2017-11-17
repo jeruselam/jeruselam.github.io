@@ -54,8 +54,8 @@ tag:
 **(42)** ne zaman ki gelince dendi senin tahtın böyle mi? o tıpkı (öyle) dedi ve bize daha önce bilgi verilmişti ve biz müslüman olmuştuk
 **(43)** ve Allah’tan başka tapmış olduğu şeyler onu alıkoymuştu çünkü kendisi inkar eden bir kavimden idi
 **(44)** ona köşke gir dendi ne zaman ki (köşkü) görünce derin bir su sandı ve bacaklarını sıvadı muhakkak o köşk dedi cilalı şeffaf sırçadandır[temiz cam gibi berrak] (Kraliçe) dedi ki Rabbim ben kendime zulmetmişim ve Süleyman’la beraber alemlerin Rabbi Allah’a teslim oldum 
-**(45)**
-**(46)**
+**(45)** ve andolsun kardeşleri Salih’i Semud(kavmin)e biz gönderdik Allah’a kulluk etsinler diye o zaman onlar birbiriyle çekişen iki bölük olmuşlardı 
+**(46)** dedi ki kavmim iyilikten önce kötülüğe neden koşuyorsunuz Allah’tan mağfiret dilemeniz gerekmez mi? belki esirgenirsiniz
 **(47)**
 **(48)**
 **(49)**
