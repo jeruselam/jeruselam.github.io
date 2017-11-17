@@ -51,9 +51,9 @@ tag:
 **(39)** cinlerden bir ifrit dedi ki makamından sen kalkmadan onu ben sana getiririm gerçekten benim buna gücüm yeter bana güvenilir
 **(40)** yanında Kitaptan bir ilim bulunan dedi ki sana gözünü sen kırpmadan önce ben onu sana getirebilirim ne zaman ki onu yanında yerleşmiş görünce dedi ki Rabbimin lutfundandır bu beni sınaması için şükür mü edeceğim? yoksa inkar mı edeceğim? ve kim şükrederse şüphesiz kendisi için şükretmiştir ve kim inkar ederse şüphesiz Rabbim zengindir kerimdir
 **(41)** dedi ki onun tahtını tanınmaz hale getirin bakalım tanıyabilecek mi yoksa tanımayan kimselerden olacak (mı) 
-**(42)** ne zaman ki gelince senin tahtın böyle mi? dendi, o tıpkı (öyle) dedi ve daha önce, bize bilgi verilmişti ve biz müslüman olmuştuk
-**(43)** 
-**(44)**
+**(42)** ne zaman ki gelince dendi senin tahtın böyle mi? o tıpkı (öyle) dedi ve bize daha önce bilgi verilmişti ve biz müslüman olmuştuk
+**(43)** ve Allah’tan başka tapmış olduğu şeyler onu alıkoymuştu çünkü kendisi inkar eden bir kavimden idi
+**(44)** ona köşke gir dendi ne zaman ki (köşkü) görünce derin bir su sandı ve bacaklarını sıvadı muhakkak o köşk dedi cilalı şeffaf sırçadandır[temiz cam gibi berrak] (Kraliçe) dedi ki Rabbim ben kendime zulmetmişim ve Süleyman’la beraber alemlerin Rabbi Allah’a teslim oldum 
 **(45)**
 **(46)**
 **(47)**
