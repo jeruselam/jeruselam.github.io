@@ -58,13 +58,13 @@ tag:
 **(46)** dedi ki kavmim iyilikten önce kötülüğe neden koşuyorsunuz Allah’tan mağfiret dilemeniz gerekmez mi? belki esirgenirsiniz
 **(47)** senin yüzünden ve seninle beraber bulunanların yüzünden uğursuzluğa uğradık dediler uğursuzluğunuz dedi Allah katındadır doğrusu siz sınanan bir toplumsunuz
 **(48)** ve şehirde dokuz kişi vardı, yeryüzünde bozgunculuk yaparlardı ve düzeltmezlerdi
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
-**(54)**
-**(55)**
+**(49)** Allah’a and içerek dediler biz gece ona ve ailesine baskın yapalım sonra velisine diyelim ailesinin helakine şahit olmadık ve biz gerçekten doğrulardanız
+**(50)** ve tuzak kurdular bir tuzak biz de tuzak kurduk bir tuzak ve onlar hiç farkında değillerdi
+**(51)** tuzaklarının sonucu bak nasıl oldu biz onları ve kavimlerini hepsini yıktık yok ettik
+**(52)** işte şunlar zulümleri yüzünden çökmüş ıssız kalmış evleridir bilen bir kavim için şüphesiz bunda ibret vardır
+**(53)** ve inanan(ları) kimseleri ve korunanları kurtardık 
+**(54)** ve Lut hani kavmine demişti ki siz göre göre o aşırı kötülüğümü yapıyorsunuz?
+**(55)** siz mi? kadınları bırakıp şehvetle erkeklere mi yaklaşıyorsunuz? gerçekten siz cahil bir toplumsunuz
 **(56)**
 **(57)**
 **(58)**
