@@ -65,12 +65,12 @@ tag:
 **(53)** ve inanan(ları) kimseleri ve korunanları kurtardık 
 **(54)** ve Lut hani kavmine demişti ki siz göre göre o aşırı kötülüğümü yapıyorsunuz?
 **(55)** siz mi? kadınları bırakıp şehvetle erkeklere mi yaklaşıyorsunuz? gerçekten siz cahil bir toplumsunuz
-**(56)**
-**(57)**
-**(58)**
-**(59)**
-**(60)**
-**(61)**
+**(56)** fakat kavminin cevabı sadece şöyle demek oldu kentinizden Lut ailesini çıkarın çünkü onlar temiz kalmak isteyen() kimselermiş
+**(57)** biz de onu ve karısı dışında ailesini kurtardık ona kalanlardan olmasını takdir ettik 
+**(58)** ve üzerlerine yağmur yağdırdık uyarılanlara yağmur ne kötü oldu
+**(59)** de ki Allah’a hamd ve O’nun seçtiği kulları üzerine selam olsun Allah mı? hayırlı yoksa ortak koştukları mı?
+**(60)** yahut kim? gökleri ve yeri yarattı ve size gökten su indirdi ve onunla bir ağacını (bile) bitirmeniz sizin için mümkün olmayan gönül açıcı, gönül açıcı bahçeler bitirdik, Allah ile beraber tanrı mı var? hayır onlar (haktan) sapan bir kavimdir 
+**(61)** 
 **(62)**
 **(63)**
 **(64)**
