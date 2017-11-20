@@ -70,8 +70,8 @@ tag:
 **(58)** ve üzerlerine yağmur yağdırdık uyarılanlara yağmur ne kötü oldu
 **(59)** de ki Allah’a hamd ve O’nun seçtiği kulları üzerine selam olsun Allah mı? hayırlı yoksa ortak koştukları mı?
 **(60)** yahut kim? gökleri ve yeri yarattı ve size gökten su indirdi ve onunla bir ağacını (bile) bitirmeniz sizin için mümkün olmayan gönül açıcı, gönül açıcı bahçeler bitirdik, Allah ile beraber tanrı mı var? hayır onlar (haktan) sapan bir kavimdir 
-**(61)** 
-**(62)**
+**(61)** yahut kimdir? dünyayı durulacak yer yapan ve arasında ırmaklar yapan ve üstünde sağlam dağlar yaratan ve arasında bir perde olarak iki deniz yaratan Allah ile beraber tanrı mı var? hayır çokları bilmiyorlar 
+**(62)** yahut kimdir? yetişen darda kalmışa du’a ettiği zaman ve kaldıran kötülüğü ve sizi sahipleri yapan yeryüzünün, Allah ile beraber tanrı mı var? ne de az düşünüyorsunuz
 **(63)**
 **(64)**
 **(65)**
