@@ -77,7 +77,7 @@ tag:
 **(65)** de ki Allah’tan başka gaybı göklerde ve yerde kimse bilmez ve ne zaman dirileceklerini bilmezler
 **(66)** doğrusu ahiret hakkındaki onların bilgileri ardarda geldi fakat onlar ondan bir kuşku içindedirler daha doğrusu onlar ondan yana kördürler
 **(67)** inkar eden(ler) kimseler dediler ki biz mi? ve babalarımız toprak olduğumuz zaman mı? (diriltilip) çıkarılacağız
-**(68)**
+**(68)** andolsun bize ve önceden atalarımıza bu (tehdid) vadedildi (yapıldı) öncekilerin masallarından bu başka bir şey değildir 
 **(69)**
 **(70)**
 **(71)**
