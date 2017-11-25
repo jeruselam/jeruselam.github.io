@@ -78,8 +78,8 @@ tag:
 **(66)** doğrusu ahiret hakkındaki onların bilgileri ardarda geldi fakat onlar ondan bir kuşku içindedirler daha doğrusu onlar ondan yana kördürler
 **(67)** inkar eden(ler) kimseler dediler ki biz mi? ve babalarımız toprak olduğumuz zaman mı? (diriltilip) çıkarılacağız
 **(68)** andolsun bize ve önceden atalarımıza bu (tehdid) vadedildi (yapıldı) öncekilerin masallarından bu başka bir şey değildir 
-**(69)**
-**(70)**
+**(69)** de ki yeryüzünde yürüyün (gezin) ve suçluların sonunun nasıl olduğunu görün 
+**(70)** onlar(ın sözlerin)e üzülme ve tuzaklarından sıkıntıda olma
 **(71)**
 **(72)**
 **(73)**
