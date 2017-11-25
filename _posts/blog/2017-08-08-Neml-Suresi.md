@@ -84,7 +84,7 @@ tag:
 **(72)** de ki belki de olmuştur acele ettiğiniz(azab)ın bir kısmı sizin ardınıza takılmıştır
 **(73)** ve şüphesiz insanlara karşı Rabbin lutuf sahibidir fakat çokları şükretmezler
 **(74)** ve onların göğüslerinin gizlediği şeyleri ve açığa vurdukları şeyleri elbette Rabbin bilir 
-**(75)**
+**(75)** 
 **(76**
 **(77**
 **(78)**
