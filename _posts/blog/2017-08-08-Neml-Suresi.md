@@ -89,10 +89,10 @@ tag:
 **(77)** ve elbette O mü’minlere bir yol göstericidir ve rahmettir
 **(78)** şüphesiz Rabbin onlar arasında hükmünü icra eder ve O azizdir[güçlü,sevgili] hakkiyle bilendir
 **(79)** o halde Allah’a tevekkül et çünkü sen apaçık[hayır ve şerri ayırt eden][ilahi akla uygun] gerçek üzerindesin
-**(80)**
-**(81)**
-**(82)**
-**(83)**
+**(80)** elbette sen duyuramazsın ölülere ve arkalarını dönerek kaçtıkları zaman çağrıyı sağırlara işittiremezsin
+**(81)** ve sen kör(ler)i sapıklıklarından[Allah'a İsyanlarından] doğru yola getirecek değilsin, ayetlerimize inananlar dışındakilere sen duyuramazsın işte onlar müslümanlardır
+**(82)** ve [konuşulan]söz başlarına geldiği zaman onlara yerden bir canlı [şuurlu varlık] çıkarırız insanların ayetlerimize inanmıyor(lar) olduklarını elbetteki o onlara söyler
+**(83)** o gün her ümmetten ayetlerimizi yalanlayanlardan bir cemaat toplarız onlar (ilahi huzura) sevk edilirler
 **(84)** 
 **(85)** 
 **(86)**
