@@ -93,10 +93,10 @@ tag:
 **(81)** ve sen kör(ler)i sapıklıklarından[Allah'a İsyanlarından] doğru yola getirecek değilsin, ayetlerimize inananlar dışındakilere sen duyuramazsın işte onlar müslümanlardır
 **(82)** ve [konuşulan]söz başlarına geldiği zaman onlara yerden bir canlı [şuurlu varlık] çıkarırız insanların ayetlerimize inanmıyor(lar) olduklarını elbetteki o onlara söyler
 **(83)** o gün her ümmetten ayetlerimizi yalanlayanlardan bir cemaat toplarız onlar (ilahi huzura) sevk edilirler
-**(84)** 
-**(85)** 
-**(86)**
-**(87)**
+**(84)** nihayet geldiklerinde (Allah onlara) der ki ilmen onları anlamadığınız halde ayetlerimi yalanladınız mı? yapıyor(lar) olduğunuz yoksa nedir? 
+**(85)** ve zulmetmeleri yüzünden başlarına karar vuku bulmuştur onlar artık konuşmazlar
+**(86)** içinde istirahat etmeleri için geceyi elbette biz yarattık ve gündüzü aydınlık yaptık görmediler mi? şüphesiz inanan bir kavim için bunda ayetler vardır
+**(87)** ve Sur’a üfleneceği gün Allah’ın diledikleri dışındaki kimseler, göklerde bulunan kimseler ve ve yerde bulunan kimseler (bayılır) korku içinde kalırlar ve hepsi boyun bükerek O’na gelirler 
 **(88)**
 **(89)**
 **(90)**
