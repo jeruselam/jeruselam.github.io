@@ -84,11 +84,11 @@ tag:
 **(72)** de ki belki de olmuştur acele ettiğiniz(azab)ın bir kısmı sizin ardınıza takılmıştır
 **(73)** ve şüphesiz insanlara karşı Rabbin lutuf sahibidir fakat çokları şükretmezler
 **(74)** ve onların göğüslerinin gizlediği şeyleri ve açığa vurdukları şeyleri elbette Rabbin bilir 
-**(75)** 
-**(76**
-**(77**
-**(78)**
-**(79)**
+**(75)** ve apaçık[gayet açık izah eden] Kitapta olmayan gökte ve yerde gizli hiçbir şey yoktur 
+**(76)** şüphesiz bu Kur’an, kendilerinin onda ayrılığa[anlaşmazlık, uyuşmazlık] düştükleri şeylerin birçoğunu İsrail oğullarına anlatmaktadır
+**(77)** ve elbette O mü’minlere bir yol göstericidir ve rahmettir
+**(78)** şüphesiz Rabbin onlar arasında hükmünü icra eder ve O azizdir[güçlü,sevgili] hakkiyle bilendir
+**(79)** o halde Allah’a tevekkül et çünkü sen apaçık[hayır ve şerri ayırt eden][ilahi akla uygun] gerçek üzerindesin
 **(80)**
 **(81)**
 **(82)**
