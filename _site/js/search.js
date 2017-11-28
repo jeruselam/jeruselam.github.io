@@ -1,9 +1,9 @@
 (function () {
 	function getQueryVariable(variable) {
 		var query = window.location.search.substring(1),
-			vars = query.split("&");
+			vars = query.split("&amp;");
 
-		for (var i = 0; i < vars.length; i++) {
+		for (var i = 0; i &lt; vars.length; i++) {
 			var pair = vars[i].split("=");
 
 			if (pair[0] === variable) {
@@ -21,8 +21,8 @@
 			preview;
 
 		// Find a relevant location in content
-		for (var i = 0; i < parts.length; i++) {
-			if (match >= 0) {
+		for (var i = 0; i &lt; parts.length; i++) {
+			if (match &gt;= 0) {
 				break;
 			}
 
@@ -31,17 +31,17 @@
 		}
 
 		// Create preview
-		if (match >= 0) {
+		if (match &gt;= 0) {
 			var start = match - (previewLength / 2),
-				end = start > 0 ? match + matchLength + (previewLength / 2) : previewLength;
+				end = start &gt; 0 ? match + matchLength + (previewLength / 2) : previewLength;
 
 			preview = content.substring(start, end).trim();
 
-			if (start > 0) {
+			if (start &gt; 0) {
 				preview = "..." + preview;
 			}
 
-			if (end < content.length) {
+			if (end &lt; content.length) {
 				preview = preview + "...";
 			}
 
@@ -49,7 +49,7 @@
 			preview = preview.replace(new RegExp("(" + parts.join("|") + ")", "gi"), "<strong>$1</strong>");
 		} else {
 			// Use start of content if no match found
-			preview = content.substring(0, previewLength).trim() + (content.length > previewLength ? "..." : "");
+			preview = content.substring(0, previewLength).trim() + (content.length &gt; previewLength ? "..." : "");
 		}
 
 		return preview;
@@ -66,7 +66,10 @@
 					contentPreview = getPreview(query, item.content, 170),
 					titlePreview = getPreview(query, item.title);
 
-				resultsHTML += "<li><h4><a href='/" + item.url.trim() + "'>" + titlePreview + "</a></h4><p><small>" + contentPreview + "</small></p></li>";
+				resultsHTML += "<li>
+<h4><a href="/%22%20+%20item.url.trim()%20+%20%22">" + titlePreview + "</a></h4>
+<p><small>" + contentPreview + "</small></p>
+</li>";
 			});
 
 			searchResultsEl.innerHTML = resultsHTML;
