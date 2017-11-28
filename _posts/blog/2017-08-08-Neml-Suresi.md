@@ -101,7 +101,7 @@ tag:
 **(89)** kim iyilik getirirse ve ondan daha hayırlısı onlar korkudan uzaktırlar, o gün güven içindedirler
 **(90)** ve kim kötülük getirirse onların yüzleri[cismi] cehenneme yıkılır yapıyor(lar) olduğunuz şeylerden başka bir şeyle mi? cezalandırılıyorsunuz
 **(91)** elbette bu kentin Rabbine sadece kulluk etmekle ben emrolundum O burayı her şey(iyle) saygıdeğer kıldı ve müslümanlardan olmam bana emredildi 
-**(92)** 
-**(93)** 
+**(92)** ve Kur’an okumam (emredildi) şimdi kim yola gelirse elbette kendi yararına yola gelmiş olur ve kim saparsa[yoldan çıkma] de ki elbette ben ancak uyarıcılardanım	
+**(93)** ve de ki Allah’a hamdolsun ayetlerini O size gösterecek siz de onları tanıyacaksınız ve Rabbin yaptıklarınız şeylerden gafil[habersiz] değildir 
 
 ![27n-Mekki]({{site.url}}/images/ayrac-muhur.png)
