@@ -2,7 +2,7 @@
 layout: page
 title: Neml
 description: Karınca.
-excerpt: "28'nci Sûre"
+excerpt: "27'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
  - Neml
