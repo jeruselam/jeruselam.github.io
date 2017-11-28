@@ -97,10 +97,10 @@ tag:
 **(85)** ve zulmetmeleri yüzünden başlarına karar vuku bulmuştur onlar artık konuşmazlar
 **(86)** içinde istirahat etmeleri için geceyi elbette biz yarattık ve gündüzü aydınlık yaptık görmediler mi? şüphesiz inanan bir kavim için bunda ayetler vardır
 **(87)** ve Sur’a üfleneceği gün Allah’ın diledikleri dışındaki kimseler, göklerde bulunan kimseler ve ve yerde bulunan kimseler (bayılır) korku içinde kalırlar ve hepsi boyun bükerek O’na gelirler 
-**(88)**
-**(89)**
-**(90)**
-**(91)** 
+**(88)** cansız sandığın dağları görürsün o bulutun yürümesi gibi yürümektedir her şeyi gayet iyi yapan Allah’ın yapısıdır doğrusu O yaptıklarınız şeyleri haber almaktadır
+**(89)** kim iyilik getirirse ve ondan daha hayırlısı onlar korkudan uzaktırlar, o gün güven içindedirler
+**(90)** ve kim kötülük getirirse onların yüzleri[cismi] cehenneme yıkılır yapıyor(lar) olduğunuz şeylerden başka bir şeyle mi? cezalandırılıyorsunuz
+**(91)** elbette bu kentin Rabbine sadece kulluk etmekle ben emrolundum O burayı her şey(iyle) saygıdeğer kıldı ve müslümanlardan olmam bana emredildi 
 **(92)** 
 **(93)** 
 
