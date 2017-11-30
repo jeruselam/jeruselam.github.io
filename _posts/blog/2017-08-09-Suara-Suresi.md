@@ -18,7 +18,7 @@ tag:
 **(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) oldukları şeyin haberleri kendilerine gelecektir
 **(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel[iyi, faydalı] çifti[çift olan şeyin teki] orada bitirmişizdir 
 **(8)** şüphesiz bunda bir ibret vardır ama yine çokları inanıcı[Mümin] değillerdir
-**(9)**
+**(9)** ve şüphesiz Rabbin işte O üstündür[Aziz] merhamet edendir[Rahim]
 **(10)**
 **(11)**
 **(12)**
