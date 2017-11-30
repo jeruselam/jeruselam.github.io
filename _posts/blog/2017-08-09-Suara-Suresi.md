@@ -15,9 +15,9 @@ tag:
 **(3)** iman etmiyorlar diye sen neredeyse kendini helak edeceksin
 **(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış oluverir 
 **(5)** ve Rahman'dan ondan yüz çevirici olmadıkları yeni hiçbir Zikir (uyarı) onlara gelmez 
-**(6)** şüphesiz yalanladılar ama kendilerine gelecektir
-**(7)**
-**(8)**
+**(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) oldukları şeyin haberleri kendilerine gelecektir
+**(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel çifti[çift olan şeyin teki] orada bitirmişizdir 
+**(8)** şüphesiz bunda bir ibret vardır ama yine çokları inanıcı[Mümin] değillerdir
 **(9)**
 **(10)**
 **(11)**
