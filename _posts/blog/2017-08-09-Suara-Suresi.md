@@ -5,7 +5,7 @@ description: Şirler
 excerpt: "26'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
- - Şuâra
+ - Suâra
 ---
 
 ## 26. Şuâra Sûresi
