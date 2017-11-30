@@ -19,15 +19,15 @@ tag:
 **(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel[iyi, faydalı] çifti[çift olan şeyin teki] orada bitirmişizdir 
 **(8)** şüphesiz bunda bir ibret vardır ama yine çokları inanıcı[Mümin] değillerdir
 **(9)** ve şüphesiz Rabbin işte O üstündür[Aziz] merhamet edendir[Rahim]
-**(10)**
-**(11)**
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
-**(17)**
-**(18)**
+**(10)** hani Rabbin Musa’ya zalim(ler) kavmine git diye seslenmişti 
+**(11)** Fir’avn’ın kavmine, onlar korunmayacaklar mı?
+**(12)** (Musa) Rabbim dedi şüphesiz ben beni yalanlayacaklar diye korkuyorum 
+**(13)** ve göğsüm daralıyor ve dilim açılmıyor Harun’a da onun için elçilik ver 
+**(14)** ve onların bana yükledikleri bir suç var beni öldürecekler diye korkuyorum
+**(15)** (Allah) hayır dedi ayetlerimizle ikiniz de gidin şüphesiz biz sizinle beraberiz dinliyoruz
+**(16)** Fir’avn’e gidin ikiniz ve deyin ki gerçekten biz alemlerin Rabbinin elçisiyiz
+**(17)** İsrail oğullarını bizimle beraber gönder 
+**(18)** (Fir’avn) dedi ki içimizden bir çocuk olarak biz seni yetiştirmedik mi? ve ömründen nice yıllar aramızda kalmadın mı? 
 **(19)**
 **(20)**
 **(21)**
