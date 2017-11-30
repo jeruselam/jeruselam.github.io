@@ -8,14 +8,14 @@ tag:
  - Şuâra
 ---
 
-## 26. Neml Sûresi
+## 26. Şuâra Sûresi
 
 **(1)** Ta sin mim
 **(2)** şunlar apaçık Kitabın ayetleridir
 **(3)** iman etmiyorlar diye sen neredeyse kendini helak edeceksin
-**(4)** 
-**(5)** 
-**(6)**
+**(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış oluverir 
+**(5)** ve Rahman'dan ondan yüz çevirici olmadıkları yeni hiçbir Zikir (uyarı) onlara gelmez 
+**(6)** şüphesiz yalanladılar ama kendilerine gelecektir
 **(7)**
 **(8)**
 **(9)**
