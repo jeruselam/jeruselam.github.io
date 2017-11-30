@@ -28,17 +28,17 @@ tag:
 **(16)** Fir’avn’e gidin ikiniz ve deyin ki gerçekten biz alemlerin Rabbinin elçisiyiz
 **(17)** İsrail oğullarını bizimle beraber gönder 
 **(18)** (Fir’avn) dedi ki içimizden bir çocuk olarak biz seni yetiştirmedik mi? ve ömründen nice yıllar aramızda kalmadın mı? 
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
-**(24)**
-**(25)**
-**(26)**
-**(27)**
-**(28)**
-**(29)**
+**(19)** ve yaptığın o (kötü) işi yaptın ve sen nankörlerden(sin)
+**(20)** (Musa) dedi onu yaptığım zaman ben dalalette[hak ve hakikat yolundan sapmak] idim
+**(21)** sizden korkunca aranızdan kaçtım sonra Rabbim bana hükümdarlık verdi ve beni elçilerden yaptı
+**(22)** ve işte başıma kaktığın ni’met, İsrail oğullarını köle yapman (yüzündendir)
+**(23)** Fir’avn dedi ki alemlerin Rabbi nedir?
+**(24)** dedi ki göklerin ve yerin ve ikisi arasında olanların Rabbidir eğer gerçekten inanan kimseler iseniz
+**(25)** (Fir’avn) çevresinde bulunan kimselere dedi işitiyor musunuz?
+**(26)** (Musa) dedi sizin Rabbinizdir ve önceki atalarınızın Rabbidir
+**(27)** (Fir’avn) dedi şüphesiz size gönderilen elçiniz mutlaka delidir
+**(28)** (Musa) dedi doğunun ve batının ve bunlar arasında olanların Rabbidir eğer düşünüyor iseniz
+**(29)** (Fir’avn) dedi andolsun ki eğer benden başka bir tanrı edinirsen seni mutlaka zindana atılanlardan yapacağım
 **(30)**
 **(31)**
 **(32)**
