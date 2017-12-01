@@ -50,42 +50,42 @@ tag:
 **(38)** ve belli[belirli] bir günün belirlenen vaktinde büyücüler bir araya getirildi 
 **(39)** ve halka da denildi siz de toplanıyor musunuz? 
 **(40)** umarız ki onlara büyücülere uyarız eğer onlar üstün gelirler ise
-**(41)**
-**(42)**
-**(43)**
-**(44)**
-**(45)**
-**(46)**
-**(47)**
-**(48)**
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
-**(72)**
-**(73)**
-**(74)**
-**(75)**
-**(76)**
+**(41)** ne zaman ki büyücüler geldi(ler) Fir’avn’a dediler bize bir ücret var değil mi? eğer biz üstün gelenler olursak 
+**(42)** evet dedi şüphesiz siz o takdirde yakınlardan olacaksınız
+**(43)** Musa onlara siz atacağınız şeyi atın dedi
+**(44)** sonra attılar iplerini ve değneklerini ve dediler Fir’avn’ın şerefine biz elbette biz galib geleceğiz
+**(45)** Musa asasını attı o birden onların uydurdukları şey(ler)i  yutmağa başladı
+**(46)** büyücüler secdeye derhal kapandılar 
+**(47)** alemlerin Rabbine inandık dediler 
+**(48)** Musa’nın ve Harun’un Rabbine
+**(49)** (Fir’avn) dedi size ben izin vermeden önce ona inandınız mı? şüphesiz O büyüyü size öğreten büyüğünüzdür öyleyse yakında bileceksiniz ellerinizi ve ayaklarınızı çapraz olarak mutlaka keseceğim ve hepinizi asacağım 
+**(50)** dediler zarar yok muhakkak biz Rabbimize döneceğiz
+**(51)** şüphesiz biz Rabbimizin bizi ilk inananlar olduğumuz için hatalarımızı bağışlayacağını umarız 
+**(52)** ve Musa’ya vahyettik kullarımı geceleyin yürüt diye siz mutlaka takibedileceksiniz
+**(53)** Fir’avn sonra kentlere (asker) toplayıcılar gönderdi 
+**(54)** şüphesiz şunlar az bir topluluktur
+**(55)** ve elbette onlar bizi kızdırmaktadırlar
+**(56)** ve mutlaka biz ihtiyatlı[tedbirli] bir cemaatiz
+**(57)** bahçeler(in)den ve çeşmeler(inden) böylece biz onları çıkardık 
+**(58)** ve hazineler(inden) ve o güzel yer(lerinden)
+**(59)** böylece İsrail oğullarına bunları miras yaptık 
+**(60)** güneş doğarken onların ardına düştüler 
+**(61)** ne zaman ki birbirini görünce iki topluluk Musa’nın adamları şüphesiz biz dedi(ler) işte yakalandık
+**(62)** (Musa) hayır dedi şüphesiz Rabbim benimle beraberdir bana yol gösterecektir
+**(63)** Musa’ya vur değneğinle denize diye vahyettik sonra yarıldı ve her bölüm kocaman bir dağ gibi oldu 
+**(64)** ve buraya yaklaştırdık ötekileri
+**(65)** ve Musa’yı kurtardık ve beraberinde olanları hepsini
+**(66)** sonra boğduk ötekilerini
+**(67)** muhakkak ki bunda bir ibret vardır ama çokları inanmazlar
+**(68)** ve şüphesiz Rabbin O’dur üstün olan merhamet eden
+**(69)** oku onlara İbrahim’in haberini
+**(70)** hani babasına ve kavmine demişti neye? tapıyorsunuz
+**(71)** dediler putlara tapıyoruz onların önünde ibadete duruyoruz
+**(72)** dedi ki du’a ettiğiniz zaman onlar sizi işitiyorlar mı?
+**(73)** yahut size fayda verebiliyorlar (mı?) veya zarar verebiliyorlar( mı)?
+**(74)** hayır dediler babalarımızı böyle yaparlarken bulduk
+**(75)** gördünüz mü? dedi neye tapıyorsunuz
+**(76)** siz ve eski atalarınız 
 **(77)**
 **(78)**
 **(79)**
