@@ -86,13 +86,13 @@ tag:
 **(74)** hayır dediler babalarımızı böyle yaparlarken bulduk
 **(75)** gördünüz mü? dedi neye tapıyorsunuz
 **(76)** siz ve eski atalarınız 
-**(77)**
-**(78)**
-**(79)**
-**(80)**
-**(81)**
-**(82)**
-**(83)**
+**(77)** onlar benim düşmanımdır yalnız alemlerin Rabbi hariç 
+**(78)** beni yaratan O’dur bana yol gösteren
+**(79)** ve O’dur bana yediren ve içiren
+**(80)** ve hastalandığım zaman O’dur bana şifa veren
+**(81)** O’dur beni öldürecek olan sonra diriltecek olan
+**(82)** ve din (ceza) günü hatamı beni affetmesini umduğum O’dur 
+**(83)** Rabbim bana hüküm ver ve Salihler arasına beni kat 
 **(84)** 
 **(85)** 
 **(86)**
