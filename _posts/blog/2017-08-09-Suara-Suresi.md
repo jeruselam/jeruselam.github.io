@@ -45,11 +45,11 @@ tag:
 **(33)** ve elini çıkardı işte o (da) parıl parıl parlıyor(du) bakanlara
 **(34)** (Fir’avn) çevresindeki ileri gelenlere şüphesiz dedi bu bilen bir büyücüdür
 **(35)** büyüsüyle toprağınızdan sizi çıkarmak istiyor o halde ne? buyurursunuz
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
+**(36)** dediler ki onu ve kardeşini beklet ve kentlere toplayıcılar gönder 
+**(37)** bütün bilgin büyücüleri sana getirsinler 
+**(38)** ve belli[belirli] bir günün belirlenen vaktinde büyücüler bir araya getirildi 
+**(39)** ve halka da denildi siz de toplanıyor musunuz? 
+**(40)** umarız ki onlara büyücülere uyarız eğer onlar üstün gelirler ise
 **(41)**
 **(42)**
 **(43)**
