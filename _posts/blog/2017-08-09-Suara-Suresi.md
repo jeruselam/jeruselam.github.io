@@ -39,12 +39,12 @@ tag:
 **(27)** (Fir’avn) dedi şüphesiz size gönderilen elçiniz mutlaka delidir
 **(28)** (Musa) dedi doğunun ve batının ve bunlar arasında olanların Rabbidir eğer düşünüyor iseniz
 **(29)** (Fir’avn) dedi andolsun ki eğer benden başka bir tanrı edinirsen seni mutlaka zindana atılanlardan yapacağım
-**(30)**
-**(31)**
-**(32)**
-**(33)**
-**(34)**
-**(35)**
+**(30)** (Musa) dedi apaçık bir şey sana getirsem de mi? 
+**(31)** (Fir’avn) dedi onu getir eğer doğrulardan isen
+**(32)** sonra attı asasını bir de (baktılar ki) o apaçık bir ejderha
+**(33)** ve elini çıkardı işte o (da) parıl parıl parlıyor(du) bakanlara
+**(34)** (Fir’avn) çevresindeki ileri gelenlere şüphesiz dedi bu bilen bir büyücüdür
+**(35)** büyüsüyle toprağınızdan sizi çıkarmak istiyor o halde ne? buyurursunuz
 **(36)**
 **(37)**
 **(38)**
