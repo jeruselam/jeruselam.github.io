@@ -109,9 +109,9 @@ tag:
 **(97)** vallahi gerçekten biz apaçık bir sapıklık içinde imişiz
 **(98)** çünkü alemlerin Rabbine sizi eşit tutuyorduk 
 **(99)** suçlulardan başkası bizi saptıramazlar
-**(100)** bizim şefa’atçilerimiz artık yoktur 
-**(101)** 
-**(102)** 
+**(100)** bizim şefa’atçilerimiz[bir suçun bağışlanması için vasıtalık eden] artık yoktur 
+**(101)** ve sıcak[samimi] bir dostumuz yoktur 
+**(102)** ah keşke bizim için bir (dönüş) daha olsa ve inananlardan olsak 
 **(103)** 
 **(104)** 
 **(105)** 
