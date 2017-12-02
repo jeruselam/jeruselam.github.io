@@ -112,24 +112,24 @@ tag:
 **(100)** bizim şefa’atçilerimiz[bir suçun bağışlanması için vasıtalık eden] artık yoktur 
 **(101)** ve sıcak[samimi] bir dostumuz yoktur 
 **(102)** ah keşke bizim için bir (dönüş) daha olsa ve inananlardan olsak 
-**(103)** 
-**(104)** 
-**(105)** 
-**(106)**
-**(107)**
-**(108)**
-**(109)**
-**(110)**
-**(111)**
-**(112)**
-**(113)**
-**(114)**
-**(115)**
-**(116)**
-**(117)**
-**(118)**
-**(119)**
-**(120)**
+**(103)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan olmazlar
+**(104)** şüphesiz Rabbin O’dur üstün olan merhamet eden
+**(105)** Nuh kavmi gönderilen elçileri yalanladı	
+**(106)** kardeşleri Nuh hani onlara demişti korunmaz mısınız?
+**(107)** muhakkak ben sizin için güvenilir bir elçiyim
+**(108)** Allah’tan korkun ve bana ita’at edin
+**(109)** ve buna karşı hiç bir ücret ben sizden istemiyorum alemlerin Rabbine ait olandan başka bana bir ücret yoktur
+**(110)** öyle ise korkun Allah’tan ve bana ita’at edin
+**(111)** dediler ki sana bayağı[kötü,fena,rezil] kimseler uymuşken biz inanır mıyız?
+**(112)** ve dedi ki onların yapıyor oldukları şeyleri ben bilmem 
+**(113)** doğrusu onların hesabı ancak Rabbime aittir eğer düşünürseniz
+**(114)** ve ben inananları kovacak değilim 
+**(115)** ben apaçık bir uyarıcı(dan) başka değilim
+**(116)** Nuh dediler eğer vazgeçmezsen mutlaka taşlananlardan olacaksın 
+**(117)** (Nuh) Rabbim dedi şüphesiz kavmim beni yalanladı
+**(118)** o halde aç benimle onların arasını (kesin hükümle) açarak ve beni kurtar ve mü’minlerden benimle beraber bulunanları 
+**(119)** biz de onu kurtardık ve dolu gemi içinde onunla beraber bulunanları 
+**(120)** sonra bunun ardından geride kalanları boğduk
 **(121)**
 **(122)**
 **(123)**
