@@ -99,17 +99,17 @@ tag:
 **(87)** diriltilecekleri gün beni utandırma[acı veren keder]
 **(88)** o gün (ne) mal ne de oğullar fayda vermez
 **(89)** Allah’a sağlam ve temiz kalb getiren kimse dışındakine
-**(90)**
-**(91)** 
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)**
-**(97)**
-**(98)**
-**(99)**
-**(100)**
+**(90)** ve cennet muttakiler[kendini Allah(cc) sevmediği fena işlerden koruyan ve günahtan çekinen] için yaklaştırılır 
+**(91)** ve cehennem azgınların karşısına çıkarılır 
+**(92)** ve onlara denilir taptıklarınız şeyler hani nerede? 
+**(93)** Allah’tan başkası size yardım ediyorlar mı? yahut kendilerine yardımları dokunuyor (mu?)
+**(94)** onlar ve azgınlar oraya tepe taklak atılırlar
+**(95)** ve İblis’in bütün askerleri 
+**(96)** onlar orada çekişerek derler ki 
+**(97)** vallahi gerçekten biz apaçık bir sapıklık içinde imişiz
+**(98)** çünkü alemlerin Rabbine sizi eşit tutuyorduk 
+**(99)** suçlulardan başkası bizi saptıramazlar
+**(100)** bizim şefa’atçilerimiz artık yoktur 
 **(101)** 
 **(102)** 
 **(103)** 
