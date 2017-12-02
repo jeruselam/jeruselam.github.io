@@ -93,12 +93,12 @@ tag:
 **(81)** O’dur beni öldürecek olan sonra diriltecek olan
 **(82)** ve din (ceza) günü hatamı beni affetmesini umduğum O’dur 
 **(83)** Rabbim bana hüküm ver ve Salihler arasına beni kat 
-**(84)** 
-**(85)** 
-**(86)**
-**(87)**
-**(88)**
-**(89)**
+**(84)** ve nasib eyle bana sonra gelenler içinde doğruluk dili 
+**(85)** ve beni kıl ni’met(i bol olan) cennetinin varislerinden 
+**(86)** ve bağışla babamı çünkü o sapıklardandır
+**(87)** diriltilecekleri gün beni utandırma[acı veren keder]
+**(88)** o gün (ne) mal ne de oğullar fayda vermez
+**(89)** Allah’a sağlam ve temiz kalb getiren kimse dışındakine
 **(90)**
 **(91)** 
 **(92)** 
