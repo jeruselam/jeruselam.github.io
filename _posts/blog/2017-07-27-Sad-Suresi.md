@@ -82,9 +82,9 @@ tag:
 **(70)** ben sadece apaçık bir uyarıcı (olduğum için) dışında bana vahyedilmiyor
 **(71)** hani Rabbin meleklere demişti ki elbette ben çamurdan bir insan yaratacağım
 **(72)** onu biçimlendirdiğim ve ona ruhumdan üflediğim zaman derhal ona secdeye kapanın 
-**(73)** melekler hepsi tüm olarak secde ettiler
-**(74)** İblis dışında, o büyüklük tasladı ve kafirlerden oldu
-**(75)** dedi ki, İblis iki elimle yarattığıma secde etmekten seni alıkoyan nedir? büyüklük mü tasladın? yoksa yücelerden (mi) oldun?
+**(73)** hepsi tüm olarak melekler secde ettiler
+**(74)** İblis dışında. o büyüklük tasladı ve kafirlerden oldu
+**(75)** dedi ki, (ey) İblis, iki elimle yarattığıma secde etmekten seni alıkoyan nedir? büyüklük mü tasladın? yoksa yücelerden (mi) oldun?
 **(76)** dedi ben ondan iyiyim beni ateşten yarattın onu ise çamurdan yarattın 
 **(77)** buyurdu ki haydi çık oradan şüphesiz sen kovuldun
 **(78)** ve şüphesiz lanetim ceza gününe kadar senin üzerinedir
