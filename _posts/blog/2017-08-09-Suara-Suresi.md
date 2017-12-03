@@ -130,21 +130,21 @@ tag:
 **(118)** o halde aç benimle onların arasını (kesin hükümle) açarak ve beni kurtar ve mü’minlerden benimle beraber bulunanları 
 **(119)** biz de onu kurtardık ve dolu gemi içinde onunla beraber bulunanları 
 **(120)** sonra bunun ardından geride kalanları boğduk
-**(121)**
-**(122)**
-**(123)**
-**(124)**
-**(125)**
-**(126)**
-**(127)**
-**(128)**
-**(129)**
-**(130)**
-**(131)**
-**(132)**
-**(133)**
-**(134)**
-**(135)**
+**(121)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
+**(122)** ve şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+**(123)** Ad (kavmi) de gönderilen elçileri yalanladı 
+**(124)** hani kardeşleri Hud onlara demişti korunmaz mısınız?
+**(125)** şüphesiz ben sizin için güvenilir bir elçiyim 
+**(126)** Allah’tan korkun ve bana ita’at edin
+**(127)** buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim[Ahirete ait mükafat] ancak alemlerin Rabbine aittir
+**(128)** siz her tepeye (yol üzerine) bir işaret (saraylar) yapıyor musunuz? eğleniyor (musunuz?)
+**(129)** ve köşkler (ve müstahkem kaleler) ediniyorsunuz belki ebedi yaşarsınız diye
+**(130)** ve yakaladığınız zaman zorbalar gibi yakalıyorsunuz 
+**(131)** o halde Allah’tan korkun ve bana ita’at edin
+**(132)** ve bildiğiniz şeyleri (ni’metleri) size bol bol veren kimseden korkun 
+**(133)** ki O size davarlar[deve,sığır,koyun gibi hayvanlar] ve oğullar vermiştir 
+**(134)** ve bahçeler ve çeşmeler[kaynak, pınar]
+**(135)** doğrusu ben büyük bir günün size azabından korkuyorum 
 **(136)**
 **(137)**
 **(138)**
