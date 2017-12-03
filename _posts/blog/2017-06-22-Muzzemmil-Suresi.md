@@ -19,7 +19,7 @@ tag:
 **(6)** gerçekten gece kalkmak, o daha tesirlidir ve söz(ler) daha sağlamdır
 **(7)** çünkü senin gündüzde uzun süre uğraşacağın şeyler vardır
 **(8)** ve Rabbinin adını an ve O’na bütün gönlünle yönel
-**(9)** doğunun ve batının Rabbidir, O’ndan başka tanrı yoktur, yalnız O’nu vekil edin
+**(9)** doğunun ve batının Rabbidir, O’ndan başka tanrı[ilah] yoktur, yalnız O’nu vekil edin
 **(10)** onların dedikleri şeylere sabret ve güzel bir ayrılışla onlardan ayrıl
 **(11)** beni yalnız bırak ve ni’met sahibi yalanlayıcıları ve onlara biraz mühlet ver
 **(12)** doğrusu bizim yanımızda bukağılar vardır ve cehennem
