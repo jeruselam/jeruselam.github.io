@@ -145,15 +145,15 @@ tag:
 **(133)** ki O size davarlar[deve,sığır,koyun gibi hayvanlar] ve oğullar vermiştir 
 **(134)** ve bahçeler ve çeşmeler[kaynak, pınar]
 **(135)** doğrusu ben büyük bir günün size azabından korkuyorum 
-**(136)**
-**(137)**
-**(138)**
-**(139)**
-**(140)**
-**(141)**
-**(142)**
-**(143)**
-**(144)**
+**(136)** dediler ki öğüt versen de veya öğüt verenlerden olmasan da bizce aynıdır
+**(137)** bu (davranışımız) evvelkilerin ahlakı(ndan) başka değildir
+**(138)** ve biz azaba uğratılacak değiliz
+**(139)** onu yalanladılar biz de onları helak ettik muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
+**(140)** şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+**(141)** gönderilen elçileri[peygamber] Semud (kavmi) de yalanladı 
+**(142)** hani onlara kardeşleri Salih demişti ki korunmaz mısınız?
+**(143)** doğrusu ben sizin için güvenilir bir elçiyim[resül]
+**(144)** Allah’tan korkun ve bana ita’at edin
 **(145)**
 **(146)**
 **(147)**
