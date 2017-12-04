@@ -16,7 +16,7 @@ tag:
 **(4)** şüphesiz Fir’avn yeryüzünde ululandı (zorbalığa kalktı) ve halkını çeşitli gruplara böldü onlardan bir zümreyi eziyordu oğullarını kesiyordu ve kadınlarını sağ bırakıyordu çünkü o bozgunculardan idi
 **(5)** o yerde ezilen(ler) kimseler üzerine lutfetmeyi ve onları önderler yapmayı ve onları mirasçı kılmayı biz istiyorduk 
 **(6)** ve o yerde onları iktidara getirmeyi ve korkmuş oldukları şeyi Fir’avn’a ve Haman’a ve onlardan askerlerine göstermeyi 
-**(7)** ve O(çocuğu)nu emzir diye Musa’nın annesine vahyettik ne zaman ki, başına bir şey gelmesinden korkarsan onu suya bırak ve korkma ve üzülme elbette biz onu sana tekrar geri vereceğiz ve onu elçilerden yapacağız 
+**(7)** ve Onu(çocuğu) emzir diye Musa’nın annesine vahyettik, ne zaman ki başına bir şey gelmesinden korkarsan onu suya bırak ve korkma ve üzülme elbette biz onu sana tekrar geri vereceğiz ve onu elçilerden yapacağız 
 **(8)** Fir’avn ailesi kendilerine bir düşman ve başlarına derd olsunası için nihayet onu aldı, Fir’avn ve Haman ve askerleri gerçekten yanılıyorlardı
 **(9)** ve Fir’avn’ın karısı dedi ki bana da ve sana da göz aydınlığı, belki bize yararı dokunur diye onu öldürmeyin ya da onu evlad ediniriz ve onlar anlamıyorlardı
 **(10)** Musa’nın annesinin gönlü bomboştu ve sabahladı eğer biz inananlardan olması için onun kalbi üzerine iyice pekiştirmiş olmasaydık neredeyse onu açığa vuracaktı 
