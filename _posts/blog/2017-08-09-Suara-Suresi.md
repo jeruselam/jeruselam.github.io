@@ -154,33 +154,33 @@ tag:
 **(142)** hani onlara kardeşleri Salih demişti ki korunmaz mısınız?
 **(143)** doğrusu ben sizin için güvenilir bir elçiyim[resül]
 **(144)** Allah’tan korkun ve bana ita’at edin
-**(145)**
-**(146)**
-**(147)**
-**(148)**
-**(149)**
-**(150)**
-**(151)**
-**(152)**
-**(153)**
-**(154)**
-**(155)**
-**(156)**
-**(157)**
-**(158)**
-**(159)**
-**(160)**
-**(161)**
-**(162)**
-**(163)**
-**(164)**
-**(165)**
-**(166)**
-**(167)**
-**(168)**
-**(169)**
-**(170)**
-**(171)**
+**(145)** buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim yalnız alemlerin Rabbine aittir
+**(146)** burada güven içinde bırakılacağınızı mı sanıyorsunuz? 
+**(147)** bahçeler içinde ve çeşme başlarında
+**(148)** ve ekinler arasında ve yumuşak tomurcuklu hurmalıklarda 
+**(149)** ve ustalıkla dağlardan evler yontuyorsunuz 
+**(150)** Allah’tan korkun ve bana ita’at edin
+**(151)** aşırıların[Allah'ın(cc) razı olmayacağı şeylere parasını,malını ve zamanını harcayan] emrine uymayın
+**(152)** yeryüzünde bozgunculuk yapan kimselerin ve ıslah etmeyenlerin
+**(153)** doğrusu dediler sen iyice büyülenmişlerdensin 
+**(154)** sen bizim gibi bir insandan başka değilsin bize bir mu’cize getir eğer doğrulardan isen
+**(155)** dedi ki işte bu dişi devedir onun su içme hakkı vardır ve belli bir gün siz(e)in su içme hakkı vardır 
+**(156)** sakın ona bir kötülük dokundurmayın sonra sizi büyük bir günün azabı yakalar 
+**(157)** nihayet onu kestiler ama pişman oldular 
+**(158)** ve onları azab yakaladı muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
+**(159)** şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+**(160)** Lut kavmi gönderilen elçileri yalanladı
+**(161)** hani demişti onlara kardeşleri Lut korunmaz mısınız?
+**(162)** şüphesiz ben sizin için güvenilir bir elçiyim
+**(163)** Allah’tan korkun ve bana ita’at edin
+**(164)** buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim yalnız[mutlaka,ancak] alemlerin Rabbine aittir
+**(165)** alemlerin içinde erkeklere mi gidiyorsunuz?
+**(166)** ve Rabbinizin sizin için yarattığı şeyleri bırakıyor  (musunuz?) eşlerinizi bilakis siz sınırı aşan bir kavimsiniz
+**(167)** Lut andolsun eğer vazgeçmezsen dediler mutlaka sürülenlerden olacaksın
+**(168)** (Lut) dedi ki şüphesiz ben sizin bu işinize kızanlardanım
+**(169)** Rabbim yaptıkları şeylerden beni ve ailemi kurtar 
+**(170)** biz de onu ve ailesini tamamen kurtardık 
+**(171)** geride kalanlar arasında yalnız bir koca karı hariç 
 **(172)**
 **(173)**
 **(174)**
