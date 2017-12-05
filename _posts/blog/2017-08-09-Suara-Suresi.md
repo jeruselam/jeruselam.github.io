@@ -181,13 +181,13 @@ tag:
 **(169)** Rabbim yaptıkları şeylerden beni ve ailemi kurtar 
 **(170)** biz de onu ve ailesini tamamen kurtardık 
 **(171)** geride kalanlar arasında yalnız bir koca karı hariç 
-**(172)**
-**(173)**
-**(174)**
-**(175)**
-**(176)**
-**(177)**
-**(178)**
+**(172)** sonra ötekilerini helak ettik
+**(173)** ve üzerlerine bir yağmur yağdırdık uyarılanların[Kafir ve Münafıklar] yağmuru çok kötü oldu 
+**(174)** muhakkak ki bunda bir ibret[kesin alamet] vardır ama yine çokları inananlardan[Mümin] değildir
+**(175)** ve şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+**(176)** Eyke halkı gönderilen elçileri[peygamber] yalanladı
+**(177)** hani demişti onlara Şu’ayb korunmaz mısınız?
+**(178)** şüphesiz ben sizin için güvenilir bir elçiyim[resul]
 **(179)**
 **(180)**
 **(181)**
