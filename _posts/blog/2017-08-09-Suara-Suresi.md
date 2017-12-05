@@ -188,12 +188,12 @@ tag:
 **(176)** Eyke halkı gönderilen elçileri[peygamber] yalanladı
 **(177)** hani demişti onlara Şu’ayb korunmaz mısınız?
 **(178)** şüphesiz ben sizin için güvenilir bir elçiyim[resul]
-**(179)**
-**(180)**
-**(181)**
-**(182)**
-**(183)**
-**(184)** 
+**(179)** Allah’tan korkun[derin düşünerek sakının] ve bana ita’at edin
+**(180)** ve buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim yalnız alemlerin Rabbine[Allah] aittir
+**(181)** ölçüyü tam yapın ve eksiltenlerden olmayın
+**(182)** dosdoğru terazi ile tartın 
+**(183)** ve insanların haklarını kısmayın ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın 
+**(184)** ve sizi ve önceki nesilleri yaratandan korkun
 **(185)** 
 **(186)**
 **(187)**
