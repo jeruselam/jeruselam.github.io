@@ -194,11 +194,11 @@ tag:
 **(182)** dosdoğru terazi ile tartın 
 **(183)** ve insanların haklarını kısmayın ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın 
 **(184)** ve sizi ve önceki nesilleri yaratandan korkun
-**(185)** 
-**(186)**
-**(187)**
-**(188)**
-**(189)**
+**(185)** dediler ki muhakkak sen iyice büyülenmişlerdensin 
+**(186)** ve sen bizim gibi bir insandan başka bir şey değilsin ve biz seni mutlaka yalancılardan sanıyoruz
+**(187)** üzerimize gökten parçalar o halde düşür eğer doğrulardan isen
+**(188)** Rabbim dedi yaptığınız şeyi daha iyi bilir 
+**(189)** fakat onu yalanladılar gölge[eden bulut] gününün azabı nihayet onları yakaladı gerçekten o büyük bir günün azabı idi
 **(190)**
 **(191)** 
 **(192)** 
