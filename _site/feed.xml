@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Kur'an-ı Kerim</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://jeruselam.github.io/feed.xml">
-<link rel="alternate" type="text/html" href="https://jeruselam.github.io">
-<updated>2017-12-05T01:05:35+03:00</updated>
+<link rel="self" type="application/atom+xml" href="https://jeruselam.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://jeruselam.github.io" />
+<updated>2017-12-05T18:25:37+03:00</updated>
 <id>https://jeruselam.github.io/</id>
 <author>
   <name>Jeruselam</name>
@@ -14,8 +14,8 @@
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fatiha-Suresi/">
+  <title type="html"><![CDATA[Fatiha]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fatiha-Suresi/" />
   <id>https://jeruselam.github.io/Fatiha-Suresi</id>
   <updated>2017-08-30T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-31T00:00:00+03:00</published>
@@ -25,7 +25,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="1-fatiha-sûresi"&gt;1. Fatiha Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;1-fatiha-sûresi&quot;&gt;1. Fatiha Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Rahman Rahim Allah’ın adıyla
 &lt;strong&gt;(2)&lt;/strong&gt; Alemlerin Rabbi Allah’a hamdolsun
@@ -35,13 +35,13 @@
 &lt;strong&gt;(6)&lt;/strong&gt; bizi doğru yola ilet
 &lt;strong&gt;(7)&lt;/strong&gt; onlar ki yoluna ni’met verdin kendilerine gazabedilmiş olan(ların) kimselerin değil ve sapmışların değil&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Fatiha-Suresi/"&gt;Fatiha&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 31, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Fatiha-Suresi/&quot;&gt;Fatiha&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 31, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Suara-Suresi/">
+  <title type="html"><![CDATA[Şuâra]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Suara-Suresi/" />
   <id>https://jeruselam.github.io/Suara-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-09T00:00:00+03:00</published>
@@ -51,7 +51,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="26-Şuâra-sûresi"&gt;26. Şuâra Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;26-Şuâra-sûresi&quot;&gt;26. Şuâra Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Ta sin mim
 &lt;strong&gt;(2)&lt;/strong&gt; şunlar apaçık Kitabın ayetleridir
@@ -224,24 +224,24 @@
 &lt;strong&gt;(169)&lt;/strong&gt; Rabbim yaptıkları şeylerden beni ve ailemi kurtar 
 &lt;strong&gt;(170)&lt;/strong&gt; biz de onu ve ailesini tamamen kurtardık 
 &lt;strong&gt;(171)&lt;/strong&gt; geride kalanlar arasında yalnız bir koca karı hariç 
-&lt;strong&gt;(172)&lt;/strong&gt;
-&lt;strong&gt;(173)&lt;/strong&gt;
-&lt;strong&gt;(174)&lt;/strong&gt;
-&lt;strong&gt;(175)&lt;/strong&gt;
-&lt;strong&gt;(176)&lt;/strong&gt;
-&lt;strong&gt;(177)&lt;/strong&gt;
-&lt;strong&gt;(178)&lt;/strong&gt;
-&lt;strong&gt;(179)&lt;/strong&gt;
-&lt;strong&gt;(180)&lt;/strong&gt;
-&lt;strong&gt;(181)&lt;/strong&gt;
-&lt;strong&gt;(182)&lt;/strong&gt;
-&lt;strong&gt;(183)&lt;/strong&gt;
-&lt;strong&gt;(184)&lt;/strong&gt; 
-&lt;strong&gt;(185)&lt;/strong&gt; 
-&lt;strong&gt;(186)&lt;/strong&gt;
-&lt;strong&gt;(187)&lt;/strong&gt;
-&lt;strong&gt;(188)&lt;/strong&gt;
-&lt;strong&gt;(189)&lt;/strong&gt;
+&lt;strong&gt;(172)&lt;/strong&gt; sonra ötekilerini helak ettik
+&lt;strong&gt;(173)&lt;/strong&gt; ve üzerlerine bir yağmur yağdırdık uyarılanların[Kafir ve Münafıklar] yağmuru çok kötü oldu 
+&lt;strong&gt;(174)&lt;/strong&gt; muhakkak ki bunda bir ibret[kesin alamet] vardır ama yine çokları inananlardan[Mümin] değildir
+&lt;strong&gt;(175)&lt;/strong&gt; ve şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+&lt;strong&gt;(176)&lt;/strong&gt; Eyke halkı gönderilen elçileri[peygamber] yalanladı
+&lt;strong&gt;(177)&lt;/strong&gt; hani demişti onlara Şu’ayb korunmaz mısınız?
+&lt;strong&gt;(178)&lt;/strong&gt; şüphesiz ben sizin için güvenilir bir elçiyim[resul]
+&lt;strong&gt;(179)&lt;/strong&gt; Allah’tan korkun[derin düşünerek sakının] ve bana ita’at edin
+&lt;strong&gt;(180)&lt;/strong&gt; ve buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim yalnız alemlerin Rabbine[Allah] aittir
+&lt;strong&gt;(181)&lt;/strong&gt; ölçüyü tam yapın ve eksiltenlerden olmayın
+&lt;strong&gt;(182)&lt;/strong&gt; dosdoğru terazi ile tartın 
+&lt;strong&gt;(183)&lt;/strong&gt; ve insanların haklarını kısmayın ve yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın 
+&lt;strong&gt;(184)&lt;/strong&gt; ve sizi ve önceki nesilleri yaratandan korkun
+&lt;strong&gt;(185)&lt;/strong&gt; dediler ki muhakkak sen iyice büyülenmişlerdensin 
+&lt;strong&gt;(186)&lt;/strong&gt; ve sen bizim gibi bir insandan başka bir şey değilsin ve biz seni mutlaka yalancılardan sanıyoruz
+&lt;strong&gt;(187)&lt;/strong&gt; üzerimize gökten parçalar o halde düşür eğer doğrulardan isen
+&lt;strong&gt;(188)&lt;/strong&gt; Rabbim dedi yaptığınız şeyi daha iyi bilir 
+&lt;strong&gt;(189)&lt;/strong&gt; fakat onu yalanladılar gölge[eden bulut] gününün azabı nihayet onları yakaladı gerçekten o büyük bir günün azabı idi
 &lt;strong&gt;(190)&lt;/strong&gt;
 &lt;strong&gt;(191)&lt;/strong&gt; 
 &lt;strong&gt;(192)&lt;/strong&gt; 
@@ -281,15 +281,15 @@
 &lt;strong&gt;(226)&lt;/strong&gt;
 &lt;strong&gt;(227)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="26S-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;26S-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Suara-Suresi/"&gt;Şuâra&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 09, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Suara-Suresi/&quot;&gt;Şuâra&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 09, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Neml-Suresi/">
+  <title type="html"><![CDATA[Neml]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Neml-Suresi/" />
   <id>https://jeruselam.github.io/Neml-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-08T00:00:00+03:00</published>
@@ -299,7 +299,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="27-neml-sûresi"&gt;27. Neml Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;27-neml-sûresi&quot;&gt;27. Neml Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Ta sin şunlar Kur’an’ın[bir araya getirilen, toplanan, okunan] ve apaçık bir Kitabın ayetleridir 
 &lt;strong&gt;(2)&lt;/strong&gt; yol göstericidir ve inananlara müjdedir
@@ -395,15 +395,15 @@
 &lt;strong&gt;(92)&lt;/strong&gt; ve Kur’an okumam (emredildi) şimdi kim yola gelirse elbette kendi yararına yola gelmiş olur ve kim saparsa[yoldan çıkma] de ki elbette ben ancak uyarıcılardanım	
 &lt;strong&gt;(93)&lt;/strong&gt; ve de ki Allah’a hamdolsun ayetlerini O size gösterecek siz de onları tanıyacaksınız ve Rabbin yaptıklarınız şeylerden gafil[habersiz] değildir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="27n-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;27n-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Neml-Suresi/"&gt;Neml&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 08, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Neml-Suresi/&quot;&gt;Neml&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 08, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Kasas-Suresi/">
+  <title type="html"><![CDATA[Kasas]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Kasas-Suresi/" />
   <id>https://jeruselam.github.io/Kasas-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-07T00:00:00+03:00</published>
@@ -413,7 +413,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="28-kasas-sûresi"&gt;28. Kasas Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;28-kasas-sûresi&quot;&gt;28. Kasas Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Ta sin mim
 &lt;strong&gt;(2)&lt;/strong&gt; şunlar apaçık Kitabın ayetleridir
@@ -504,15 +504,15 @@
 &lt;strong&gt;(87)&lt;/strong&gt; ve sana indirildikten sonra sakın Allah’ın ayetlerinden seni alıkoymasınlar ve Rabbine da’vet et ve ortak koşanlardan olma 
 &lt;strong&gt;(88)&lt;/strong&gt; ve Allah ile beraber başka bir tanrıya yalvarma O’ndan başka tanrı yoktur O’nun yüzü(zatı)ndan başka her şey helak olacaktır Hüküm O’nundur ve O’na döndürüleceksiniz&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="28k-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;28k-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Kasas-Suresi/"&gt;Kasas&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 07, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Kasas-Suresi/&quot;&gt;Kasas&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 07, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Ankebut-Suresi/">
+  <title type="html"><![CDATA[Ankebût]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Ankebut-Suresi/" />
   <id>https://jeruselam.github.io/Ankebut-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-06T00:00:00+03:00</published>
@@ -522,7 +522,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="30-ankebût-sûresi"&gt;30. Ankebût Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;30-ankebût-sûresi&quot;&gt;30. Ankebût Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Elif lam mim 
 &lt;strong&gt;(2)&lt;/strong&gt; onlar hiç sınanmadan inandık demekle insanlar bırakılacaklarını mı sandılar?
@@ -594,15 +594,15 @@
 &lt;strong&gt;(68)&lt;/strong&gt; ve Allah’ın üzerine yalanı iftira atan kimseden veya kendisine gelen gerçeği yalanlayandan daha zalim kimdir? cehennemde kafirler için bir yer yok mudur? 
 &lt;strong&gt;(69)&lt;/strong&gt; biz(im uğrumuz)da cihad eden(leri) kimseleri yollarımıza biz elbette iletiriz ve muhakkak ki Allah iyilik edenlerle beraberdir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="29a-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;29a-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Ankebut-Suresi/"&gt;Ankebût&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 06, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Ankebut-Suresi/&quot;&gt;Ankebût&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 06, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Rum-Suresi/">
+  <title type="html"><![CDATA[Rûm]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Rum-Suresi/" />
   <id>https://jeruselam.github.io/Rum-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-05T00:00:00+03:00</published>
@@ -612,7 +612,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="30-rûm-sûresi"&gt;30. Rûm Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;30-rûm-sûresi&quot;&gt;30. Rûm Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Elif Lâm Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; Rum(lar) yenildi 
@@ -675,15 +675,15 @@
 &lt;strong&gt;(59)&lt;/strong&gt; Allah bilmeyen(lerin) kimselerin kalbleri üzerini işte böyle mühürler
 &lt;strong&gt;(60)&lt;/strong&gt; sabret şüphe yok ki Allah’ın va’di haktır ve inanmayan(lar) kimseler seni telaşa düşürmesin&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="30r-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;30r-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Rum-Suresi/"&gt;Rûm&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 05, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Rum-Suresi/&quot;&gt;Rûm&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 05, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Lokman-Suresi/">
+  <title type="html"><![CDATA[Lokmân]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Lokman-Suresi/" />
   <id>https://jeruselam.github.io/Lokman-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-04T00:00:00+03:00</published>
@@ -693,7 +693,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="31-lokmân-sûresi"&gt;31. Lokmân Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;31-lokmân-sûresi&quot;&gt;31. Lokmân Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Elif Lâm Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; şunlar hikmetli Kitabın ayetleridir
@@ -730,15 +730,15 @@
 &lt;strong&gt;(33)&lt;/strong&gt; ey insanlar Rabbinizden korkun ve günden çekinin (ki) baba çocuğunun ödeyemez, çocuk da o babası için bir şey ödeyecek değildir şüphesiz Allah’ın va’di gerçektir, dünya hayatı asla sizi aldatmasın ve Allah hakkında aldatıcı (şeytan) sizi asla aldatmasın
 &lt;strong&gt;(34)&lt;/strong&gt; şüphesiz Allah, sa’atin bilgisi O’nun yanındadır ve O yağmuru yağdırır ve rahimlerde olanı bilir ve hiç kimse yarın ne kazanacağını bilmez ve hiç kimse hangi yerde öleceğini bilmez şüphesiz yalnız Allah bilendir haberi olandır&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="31l-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;31l-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Lokman-Suresi/"&gt;Lokmân&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 04, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Lokman-Suresi/&quot;&gt;Lokmân&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 04, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Secde-Suresi/">
+  <title type="html"><![CDATA[Secde]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Secde-Suresi/" />
   <id>https://jeruselam.github.io/Secde-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-03T00:00:00+03:00</published>
@@ -748,7 +748,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="32-secde-sûresi"&gt;32. Secde Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;32-secde-sûresi&quot;&gt;32. Secde Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Elif Lâm Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; Kitabın indirilişi onda şüphe yoktur alemlerin Rabb’indendir
@@ -781,15 +781,15 @@
 &lt;strong&gt;(29)&lt;/strong&gt; de ki inkar eden(lere) kimselere fetih günü inanmaları fayda vermez ve onlar mühlet verilenler(den) değildir 
 &lt;strong&gt;(30)&lt;/strong&gt; sen onlardan yüz çevir ve bekle zaten onlar da beklemektedirler&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="32s-Mekki" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;32s-Mekki&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Secde-Suresi/"&gt;Secde&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 03, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Secde-Suresi/&quot;&gt;Secde&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 03, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Ahzab-Suresi/">
+  <title type="html"><![CDATA[Ahzâb]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Ahzab-Suresi/" />
   <id>https://jeruselam.github.io/Ahzab-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-02T00:00:00+03:00</published>
@@ -799,7 +799,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="33-ahzâb-sûresi"&gt;33. Ahzâb Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;33-ahzâb-sûresi&quot;&gt;33. Ahzâb Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; ey peygamber Allah’tan kork ve asla kafirlere ve münafıklara ita’at etme şüphesiz Allah bilendir hüküm ve hikmet sahibidir
 &lt;strong&gt;(2)&lt;/strong&gt; ve Rabbinden sana vahyedilen şeye uy muhakkak ki Allah yaptıklarınız şeyleri haber almaktadır
@@ -875,15 +875,15 @@
 &lt;strong&gt;(72)&lt;/strong&gt; şüphesiz biz emaneti göklere ve yere ve dağlara sunduk fakat onu yüklenmekten kaçındılar ve ondan korktular ve onu insan yüklendi doğrusu o çok zalimdir çok cahildir
 &lt;strong&gt;(73)&lt;/strong&gt; Allah iki yüzlü erkeklere ve iki yüzlü kadınlara ve ortak koşan erkeklere ve ortak koşan kadınlara azab etsin diye ve Allah inanan erkekleri ve inanan kadınları bağışlasın diye ve Allah çok bağışlayandır çok esirgeyendir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="33a-Medeni" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;33a-Medeni&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Ahzab-Suresi/"&gt;Ahzâb&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 02, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Ahzab-Suresi/&quot;&gt;Ahzâb&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 02, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sebe-Suresi/">
+  <title type="html"><![CDATA[Sebe]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sebe-Suresi/" />
   <id>https://jeruselam.github.io/Sebe-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-08-01T00:00:00+03:00</published>
@@ -893,7 +893,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="34-sebe-sûresi"&gt;34. Sebe Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;34-sebe-sûresi&quot;&gt;34. Sebe Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; hamd Allah’a mahsustur öyle ki göklerde ne varsa ve yerde ne varsa onundur ve ahirette hamd O’na mahsustur ve O hüküm ve hikmet sahibidir haber alandır
 &lt;strong&gt;(2)&lt;/strong&gt; ne ki yerin içine giriyor ve ne ki ondan çıkıyor ve ne ki gökten iniyor ve ne ki oraya çıkıyor bilir ve O çok esirgeyendir çok bağışlayandır
@@ -950,15 +950,15 @@
 &lt;strong&gt;(53)&lt;/strong&gt; oysa andolsun onu daha önce inkar etmişlerdi ve uzak yerden görülmeyene atıyorlardı 
 &lt;strong&gt;(54)&lt;/strong&gt; onların arasına ve bundan önce benzerlerine yapıldığı gibi arzu ettikleri şeyler arasına perde çekildi doğrusu onlar katmerli bir kuşku içindedirler&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="34s" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;34s&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Sebe-Suresi/"&gt;Sebe&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on August 01, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Sebe-Suresi/&quot;&gt;Sebe&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on August 01, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fatir-Suresi/">
+  <title type="html"><![CDATA[Fâtır]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fatir-Suresi/" />
   <id>https://jeruselam.github.io/Fatir-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-30T00:00:00+03:00</published>
@@ -968,7 +968,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="35-fâtır-sûresi"&gt;35. Fâtır Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;35-fâtır-sûresi&quot;&gt;35. Fâtır Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; gökleri ve yeri yoktan var eden, melekleri ikişer ve üçer ve dörder kanatlar sahibi elçiler yapan Allah’a hamd olsun ne kadar dilerse yaratmada artırır şüphesiz Allah her şeyi yapabilendir
 &lt;strong&gt;(2)&lt;/strong&gt; ne ki Allah rahmetten insanlar için (Allah) açar onu tutan olamaz ve ne ki (Allah) tutar, O’ndan sonra onu salıverecek olmaz ve O üstündür, hüküm ve hikmet sahibidir
@@ -1017,15 +1017,15 @@
 &lt;strong&gt;(44)&lt;/strong&gt; yeryüzünde hiç gez(ip dolaş)madılar mı? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler onlar kuvvet bakımından bunlardan daha güçlü idiler ve Allah’ı göklerde engelleyecek hiçbir şey yoktur ve yerde yoktur şüphesiz O bilendir güçlüdür
 &lt;strong&gt;(45)&lt;/strong&gt; ve eğer Allah insanları yaptıkları işler yüzünden cezalandıracak olsaydı süreleri geldiği zaman onun sırtı üzerinde (yeryüzünde) hiçbir canlı bırakmazdı fakat onları belirtilmiş bir süreye kadar erteliyor kuşkusuz Allah kullarını görmektedir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="35f" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;35f&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Fatir-Suresi/"&gt;Fâtır&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 30, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Fatir-Suresi/&quot;&gt;Fâtır&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 30, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Yasin-Suresi/">
+  <title type="html"><![CDATA[Yâsîn]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Yasin-Suresi/" />
   <id>https://jeruselam.github.io/Yasin-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-29T00:00:00+03:00</published>
@@ -1035,7 +1035,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="36-yâsîn-sûresi"&gt;36. Yâsîn Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;36-yâsîn-sûresi&quot;&gt;36. Yâsîn Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Yâ Sîn
 &lt;strong&gt;(2)&lt;/strong&gt; hikmetli Kur’an’a andolsun
@@ -1121,15 +1121,15 @@
 &lt;strong&gt;(82)&lt;/strong&gt; şüphesiz O’nun işi bir şeyi istediği zaman ona sadece ol! demesidir hemen oluverir
 &lt;strong&gt;(83)&lt;/strong&gt; O ki yücedir her şeyin hükümranlığı O’nun elindedir ve O’na döndürüleceksiniz&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="36y" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;36y&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Yasin-Suresi/"&gt;Yâsîn&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 29, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Yasin-Suresi/&quot;&gt;Yâsîn&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 29, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Saffat-Suresi/">
+  <title type="html"><![CDATA[Sâffât]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Saffat-Suresi/" />
   <id>https://jeruselam.github.io/Saffat-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-28T00:00:00+03:00</published>
@@ -1139,7 +1139,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="37-sâffât-sûresi"&gt;37. Sâffât Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;37-sâffât-sûresi&quot;&gt;37. Sâffât Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; andolsun sıra sıra dizilenlere
 &lt;strong&gt;(2)&lt;/strong&gt; ve bağırıp sürenlere
@@ -1324,15 +1324,15 @@
 &lt;strong&gt;(181)&lt;/strong&gt; ve gönderilen elçiler üzerine selam olsun 
 &lt;strong&gt;(182)&lt;/strong&gt; ve alemlerin Rabbi Allah’a hamd olsun&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="37s" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;37s&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Saffat-Suresi/"&gt;Sâffât&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 28, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Saffat-Suresi/&quot;&gt;Sâffât&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 28, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sad-Suresi/">
+  <title type="html"><![CDATA[Sâd]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sad-Suresi/" />
   <id>https://jeruselam.github.io/Sad-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-27T00:00:00+03:00</published>
@@ -1342,7 +1342,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="38-sâd-sûresi"&gt;38. Sâd Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;38-sâd-sûresi&quot;&gt;38. Sâd Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Sâd şan, şeref sahibi Kur’an’a andolsun
 &lt;strong&gt;(2)&lt;/strong&gt; doğrusu inkar eden(ler) kimseler bir gurur ve ayrılık içindedirler
@@ -1433,15 +1433,15 @@
 &lt;strong&gt;(87)&lt;/strong&gt; O (Kur’an) bütün alemlere öğüt(ten) başkası değildir
 &lt;strong&gt;(88)&lt;/strong&gt; bir süre sonra onun haberini gayet iyi bileceksiniz&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="38s" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;38s&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Sad-Suresi/"&gt;Sâd&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 27, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Sad-Suresi/&quot;&gt;Sâd&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 27, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Zumer-Suresi/">
+  <title type="html"><![CDATA[Zumer]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Zumer-Suresi/" />
   <id>https://jeruselam.github.io/Zumer-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-26T00:00:00+03:00</published>
@@ -1451,7 +1451,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="39-zumer-sûresi"&gt;39. Zumer Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;39-zumer-sûresi&quot;&gt;39. Zumer Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Kitabını indirilmesi aziz hüküm ve hikmet sahibi Allah tarafındandır
 &lt;strong&gt;(2)&lt;/strong&gt; elbette biz sana bu Kitabı hak ile indirdik dini yalnız O’na halis kılarak sen Allah’a kulluk et 
@@ -1529,15 +1529,15 @@
 &lt;strong&gt;(74)&lt;/strong&gt; ve Allah’a hamdolsun derler o ki; bize verdiği sözünü yerine getirdi ve dilediğimiz yerinde oturacağımız cennetten yurda bizi varis kıldı çalışanların ücreti ne güzeldir
 &lt;strong&gt;(75)&lt;/strong&gt; ve meleklerin Arşın çevresinde dönerek Rablerini hamd ile tesbih ettiklerini görürsün ve aralarında hak ile hükmedilir ve Hamd alemlerin Rabbi Allah’a’dır denilir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="39b" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;39b&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Zumer-Suresi/"&gt;Zumer&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Zumer-Suresi/&quot;&gt;Zumer&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 26, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Mumin-Suresi/">
+  <title type="html"><![CDATA[Mu'min]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Mumin-Suresi/" />
   <id>https://jeruselam.github.io/Mumin-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-25T00:00:00+03:00</published>
@@ -1547,7 +1547,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="40-mumin-sûresi"&gt;40. Mu’min Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;40-mumin-sûresi&quot;&gt;40. Mu’min Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Hâ Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; Kitabın indirilişi aziz (daima galib) alim (herşeyi en iyi bilen) Allah tarafındandır 
@@ -1635,15 +1635,15 @@
 &lt;strong&gt;(84)&lt;/strong&gt; ne zaman ki hışmımızı gördüler tek Allah’a inandık ve O’na ortak koştuğumuz şeyleri inkar ettik dediler
 &lt;strong&gt;(85)&lt;/strong&gt; fakat hışmımızı gördükleri zaman inanmaları kendilerine bir fayda sağlamadı elbette Allah’ın kulları hakkında gelip geçen yasası budur&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/ayrac-muhur.png" alt="40b" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/ayrac-muhur.png&quot; alt=&quot;40b&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Mumin-Suresi/"&gt;Mu'min&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 25, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Mumin-Suresi/&quot;&gt;Mu'min&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 25, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fussilet-Suresi/">
+  <title type="html"><![CDATA[Fussilet]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Fussilet-Suresi/" />
   <id>https://jeruselam.github.io/Fussilet-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-24T00:00:00+03:00</published>
@@ -1653,11 +1653,11 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="41-fussilet-sûresi"&gt;41. Fussilet Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;41-fussilet-sûresi&quot;&gt;41. Fussilet Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Hâ Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; Rahmandan Rahim(den) indirilmiştir
-&lt;strong&gt;(3)&lt;/strong&gt;  &lt;a title="ع ل م"&gt;bilen&lt;/a&gt; bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
+&lt;strong&gt;(3)&lt;/strong&gt;  &lt;a title=&quot;ع ل م&quot;&gt;bilen&lt;/a&gt; bir toplum için ayetleri açıklanmış Arapça okunan bir Kitaptır
 &lt;strong&gt;(4)&lt;/strong&gt; müjdeleyici olarak ve uyarıcı olarak, fakat çokları yüz çevirmiştir, onlar işitmezler
 &lt;strong&gt;(5)&lt;/strong&gt; ve dediler ki bizi kendisine çağırdığın şeye karşı kılıflar içinde kalblerimiz var ve kulaklarımızda bir ağırlık var ve bizim aramızda ve senin aranda bir perde var, sen (istediğini) yap elbette biz de yapıyoruz
 &lt;strong&gt;(6)&lt;/strong&gt; de ki elbette ben sizin gibi bir insanım elbette tanrınızın bir tek tanrı olduğu bana vahyediliyor artık O’na doğrulun ve O’ndan mağfiret dileyin, ortak koşanların vay haline
@@ -1710,15 +1710,15 @@
 &lt;strong&gt;(53)&lt;/strong&gt;  biz onlara ufuklarda ve kendi canlarında o(Kur’a)n’ın gerçek olduğu onlara iyice belli olana kadar ayetlerimizi göstereceğiz  Rabbinin O’nun her şey üzerine şahit olması yetmez mi?
 &lt;strong&gt;(54)&lt;/strong&gt; iyi bil ki onlar Rablerine kavuşmaktan kuşku içindedirler iyi bil ki O her şeyi kuşatmıştır&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/altkenar.png" alt="Fussilet" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/altkenar.png&quot; alt=&quot;Fussilet&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Fussilet-Suresi/"&gt;Fussilet&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 24, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Fussilet-Suresi/&quot;&gt;Fussilet&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 24, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sura-Suresi/">
+  <title type="html"><![CDATA[Şûrâ]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Sura-Suresi/" />
   <id>https://jeruselam.github.io/Sura-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-23T00:00:00+03:00</published>
@@ -1728,7 +1728,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="42-Şûrâ-sûresi"&gt;42. Şûrâ Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;42-Şûrâ-sûresi&quot;&gt;42. Şûrâ Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Hâ Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; Ayn Sîn Kâf
@@ -1784,15 +1784,15 @@
 &lt;strong&gt;(52)&lt;/strong&gt; işte böyle sana emrimizden bir ruh vahyettik, sen Kitap nedir ve iman nedir biliyor değildin fakat biz onu, kullarımızdan dilediğimiz kimseyi onunla doğru yola ilettiğimiz bir nur yaptık şüphesiz sen doğru yola
 &lt;strong&gt;(53)&lt;/strong&gt; göklerde bulunan herşeyin ve yerde bulunan herşeyin sahibi olan Allah’ın yoluna götürüyorsun iyi bilin ki bütün işler sonunda Allah’a varır&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/altkenar.png" alt="Sûrâ" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/altkenar.png&quot; alt=&quot;Sûrâ&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Sura-Suresi/"&gt;Şûrâ&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 23, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Sura-Suresi/&quot;&gt;Şûrâ&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 23, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Zuhruf-Suresi/">
+  <title type="html"><![CDATA[Zuhrûf]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Zuhruf-Suresi/" />
   <id>https://jeruselam.github.io/Zuhruf-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-22T00:00:00+03:00</published>
@@ -1802,7 +1802,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="43-zuhrûf-sûresi"&gt;43. Zuhrûf Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;43-zuhrûf-sûresi&quot;&gt;43. Zuhrûf Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Ha mim
 &lt;strong&gt;(2)&lt;/strong&gt; apaçık Kitaba andolsun ki
@@ -1894,15 +1894,15 @@
 &lt;strong&gt;(88)&lt;/strong&gt; ve onun Rab demesi(ne andolsun) şüphesiz bunlar inanmayan bir kavimdir
 &lt;strong&gt;(89)&lt;/strong&gt; şimdi sen onlardan geç ve de ki selam olsun, yakında bileceklerdir&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/altkenar.png" alt="Zuhrûf" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/altkenar.png&quot; alt=&quot;Zuhrûf&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Zuhruf-Suresi/"&gt;Zuhrûf&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 22, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Zuhruf-Suresi/&quot;&gt;Zuhrûf&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 22, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"></title>
-  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Duhan-Suresi/">
+  <title type="html"><![CDATA[Duhân]]></title>
+  <link rel="alternate" type="text/html" href="https://jeruselam.github.io/Duhan-Suresi/" />
   <id>https://jeruselam.github.io/Duhan-Suresi</id>
   <updated>2017-09-29T17:50:00.564948 17:00T00:00:00-00:00</updated>
   <published>2017-07-21T00:00:00+03:00</published>
@@ -1912,7 +1912,7 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;h2 id="44-duhân-sûresi"&gt;44. Duhân Sûresi&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;44-duhân-sûresi&quot;&gt;44. Duhân Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Hâ Mîm
 &lt;strong&gt;(2)&lt;/strong&gt; apaçık Kitaba andolsun ki
@@ -1974,9 +1974,9 @@
 &lt;strong&gt;(58)&lt;/strong&gt; biz o’nu kesinlikle senin diline kolaylaştırdık umulur ki düşünüp öğüt alırlar
 &lt;strong&gt;(59)&lt;/strong&gt; biraz bekle onlar da beklemektedirler&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://jeruselam.github.io/images/altkenar.png" alt="Duhân" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://jeruselam.github.io/images/altkenar.png&quot; alt=&quot;Duhân&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href="https://jeruselam.github.io/Duhan-Suresi/"&gt;Duhân&lt;/a&gt; was originally published by Jeruselam at &lt;a href="https://jeruselam.github.io"&gt;Kur'an-ı Kerim&lt;/a&gt; on July 21, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://jeruselam.github.io/Duhan-Suresi/&quot;&gt;Duhân&lt;/a&gt; was originally published by Jeruselam at &lt;a href=&quot;https://jeruselam.github.io&quot;&gt;Kur'an-ı Kerim&lt;/a&gt; on July 21, 2017.&lt;/p&gt;</content>
 </entry>
 
 </feed>
