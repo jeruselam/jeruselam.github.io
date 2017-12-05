@@ -199,28 +199,28 @@ tag:
 **(187)** üzerimize gökten parçalar o halde düşür eğer doğrulardan isen
 **(188)** Rabbim dedi yaptığınız şeyi daha iyi bilir 
 **(189)** fakat onu yalanladılar gölge[eden bulut] gününün azabı nihayet onları yakaladı gerçekten o büyük bir günün azabı idi
-**(190)**
-**(191)** 
-**(192)** 
-**(193)** 
-**(194)** 
-**(195)** 
-**(196)**
-**(197)**
-**(198)**
-**(199)**
-**(200)**
-**(201)** 
-**(202)** 
-**(203)** 
-**(204)** 
-**(205)** 
-**(206)**
-**(207)**
-**(208)**
-**(209)**
-**(210)**
-**(211)**
+**(190)** muhakkak ki bunda bir ibret[kesin alamet] vardır ama yine çokları inananlardan[Mümin] değildir
+**(191)** ve şüphesiz Rabbin işte O’dur üstün olan merhamet eden 
+**(192)** muhakkak ki o (Kur’an) alemlerin Rabbinin indirmesidir
+**(193)** Ruhu’(l-Emin) onu Ruhu’(l-Emin) indirdi 
+**(194)** senin kalbine uyarıcılardan olman için
+**(195)** apaçık Arapça bir dille
+**(196)** şüphesiz o evvelkilerin Kitaplarında vardır
+**(197)** İsrail oğulları bilginlerinin onu bilmesi onlar için bir delil değil mi? 
+**(198)** ve şayet biz onu yabancılardan biri üzerine indirseydik 
+**(199)** onlara onu okusaydı ona inanıyor olmazlardı 
+**(200)** öylece biz onu suçluların kalbleri içine soktuk 
+**(201)** acıklı azabı görünceye kadar ona inanmazlar
+**(202)** ansızın (azab) onlara gelir de onlar hiç farkında olmazlar
+**(203)** biz süre verilerlerden miyiz? derler
+**(204)** bizim azabımızı mı? acele istiyorlar
+**(205)** gödün mü? eğer yıllarca biz onları yaşatsak 
+**(206)** sonra kendilerine gelse tehdid ediliyor oldukları şey
+**(207)** kendilerine (hiç) yararı yoktur yaşatılıyor oldukları şeylerin
+**(208)** ve hiçbir kenti biz helak etmedik onun uyarıcıları olmayan 
+**(209)** uyarırlardı ve zulmediciler biz değildik
+**(210)** ve O’nu (Kur’an’ı) şeytanlar indirmedi 
+**(211)** bu yaraşmaz onlara ve zaten yapamazlar
 **(212)**
 **(213)**
 **(214)**
