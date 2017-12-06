@@ -15,13 +15,13 @@ tag:
 **(3)** ve hiçbir şey yaratmayan ve kendileri yaratılan ve kendilerine dahi zarar vermeye ne de yarar vermeye güçleri yetmeyen ve öldüremeye ne de yaşatamaya ve ne de (ölüleri diriltip) kaldıramaya güçleri yetmeyen O’ndan ayrı olarak[ayırarak] birtakım tanrılar edindiler 
 **(4)** ve inkar eden(ler) kimseler dedi ki bu yalandan başka bir şey değildir onu uydurdu ve kendisine başka bir topluluk yardım etti böylece kesin bir haksızlığa ve iftiraya vardılar[derecesine ulaştılar]
 **(5)** ve evvelkilerin masalları dediler onları yazmış, onlar sabah ve akşam kendisine yazdırılıyor
-**(6)**
-**(7)**
-**(8)**
-**(9)**
-**(10)**
-**(11)**
-**(12)**
+**(6)** de ki göklerdeki ve yerdeki gizleri bilen onu indirdi şüphesiz o çok bağışlayandır[Ğafūr] çok esirgeyendir[RaHīm]
+**(7)** ve dediler ki bu elçiye[rasūl] ne oluyor ki? yemek yiyor ve çarşılarda geziyor ona bir melek indirilmeli değil mi? kendisiyle beraber uyarıcı olsun
+**(8)** üstüne bir hazine atılmalı yahut değil mi? yahut kendisinin ondan (ürününden) yiyeceği bir bahçesi olmalı değil mi? ve zalimler dediler ki büyülenmiş bir adam(dan) başkasına siz uymuyorsunuz
+**(9)** benzetmelerle bak nasıl misal verdiler senin için saptılar artık yolu bulamazlar
+**(10)** O ki yücedir eğer dilerse sana bundan daha hayırlısını verir altlarından ırmaklar akan bahçeler ve senin için saraylar yapar 
+**(11)** bilakis (duruşma) sa’atini onlar yalanladılar ve sa’ati yalanlayan kimselere biz alevli bir ateş hazırlamışızdır 
+**(12)** ne zaman ki uzak bir yerden onları görünce bunun öfkesini ve homurtusunu onlar işitirler 
 **(13)**
 **(14)**
 **(15)**
