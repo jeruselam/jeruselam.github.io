@@ -13,8 +13,8 @@ tag:
 **(1)** alemlere uyarıcı olması için kulu üzerine Furkanı indiren pek kutludur
 **(2)** öyle ki göklerin ve yerin mülkü O’nundur ve O bir çocuk edinmemiştir ve mülkünde O’nun ortağı yoktur ve her şeyi yaratmıştır ve ölçü biçim ve düzen takdir etmiştir ona 
 **(3)** ve hiçbir şey yaratmayan ve kendileri yaratılan ve kendilerine dahi zarar vermeye ne de yarar vermeye güçleri yetmeyen ve öldüremeye ne de yaşatamaya ve ne de (ölüleri diriltip) kaldıramaya güçleri yetmeyen O’ndan ayrı olarak[ayırarak] birtakım tanrılar edindiler 
-**(4)** 
-**(5)** 
+**(4)** ve inkar eden(ler) kimseler dedi ki bu yalandan başka bir şey değildir onu uydurdu ve kendisine başka bir topluluk yardım etti böylece kesin bir haksızlığa ve iftiraya vardılar[derecesine ulaştılar]
+**(5)** ve evvelkilerin masalları dediler onları yazmış, onlar sabah ve akşam kendisine yazdırılıyor
 **(6)**
 **(7)**
 **(8)**
