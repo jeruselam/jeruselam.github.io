@@ -22,7 +22,7 @@ tag:
 **(10)** O ki yücedir eğer dilerse sana bundan daha hayırlısını verir altlarından ırmaklar akan bahçeler ve senin için saraylar yapar 
 **(11)** bilakis (duruşma) sa’atini onlar yalanladılar ve sa’ati yalanlayan kimselere biz alevli bir ateş hazırlamışızdır 
 **(12)** ne zaman ki uzak bir yerden onları görünce bunun öfkesini ve homurtusunu onlar işitirler 
-**(13)**
+**(13)** ve bağlı olarak onun dar bir yerine atıldıkları zaman orada helâki çağırırlar
 **(14)**
 **(15)**
 **(16)**
