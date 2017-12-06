@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Şuâra
-description: Şirler
+description: Şairler
 excerpt: "26'nci Sûre"
 modified: 2017-09-29T17:50:00.564948 17:00
 tag: 
@@ -220,22 +220,22 @@ tag:
 **(208)** ve hiçbir kenti biz helak etmedik onun uyarıcıları olmayan 
 **(209)** uyarırlardı ve zulmediciler biz değildik
 **(210)** ve O’nu (Kur’an’ı) şeytanlar indirmedi 
-**(211)** bu yaraşmaz onlara ve zaten yapamazlar
-**(212)**
-**(213)**
-**(214)**
-**(215)**
-**(216)**
-**(217)**
-**(218)**
-**(219)**
-**(220)**
-**(221)**
-**(222)**
-**(223)**
-**(224)**
-**(225)**
-**(226)**
-**(227)**
+**(211)** bu yaraşmaz[gerekmez] onlara ve zaten yapamazlar
+**(212)** çünkü onlar işitmekten uzaklaştırılmışlardır
+**(213)** o halde Allah ile beraber başka bir tanrı çağırma sonra azabedilenlerden olursun 
+**(214)** ve en[ziyade] yakın akrabanı[aile,kabile,cemaat] uyar 
+**(215)** ve mü’minlerden sana uyan kimselere kanadını indir 
+**(216)** şayet sana karşı gelirlerse de ki sizin yaptıklarınız şeylerden şüphesiz ben uzağım 
+**(217)** ve esirgeyene[Rahim] galib[Aziz] olan üzerine tevekkül et 
+**(218)** ki O namaza durduğun zaman seni görür 
+**(219)** ve secde edenler içinde eğilip doğrulurken 
+**(220)** çünkü O işitendir[Semîu] bilendir[Alîm]
+**(221)** şeytanların kim üzerine ineceğini size haber vereyim mi?
+**(222)** her yalancı günahkar üzerine onlar inerler 
+**(223)** işitilene kulak verirler ve çokları da yalan söylerler
+**(224)** ve Şa’irler[kaydedip söyleyenler], onlar azgınlara[yoldan çıkmışlara] uyarlar
+**(225)** görmez misin? onlar her vadide şaşkın şaşkın dolaşırlar
+**(226)** ve yapmayacakları şeyleri onlar söylerler 
+**(227)** ancak inanan(lar) kimseler ve iyi işler yapanlar ve çokça Allah’ı ananlar ve kendilerine zulmedildikten sonra [yarışarak]üstün gelmeğe çalışanlar hariç ve zulmeden(ler) kimseler nasıl bir devrimle devrileceklerini yakında bileceklerdir
 
 ![26S-Mekki]({{site.url}}/images/ayrac-muhur.png)
