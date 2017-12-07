@@ -22,10 +22,10 @@ tag:
 **(10)** O ki yücedir eğer dilerse sana bundan daha hayırlısını verir altlarından ırmaklar akan bahçeler ve senin için saraylar yapar 
 **(11)** bilakis (duruşma) sa’atini onlar yalanladılar ve sa’ati yalanlayan kimselere biz alevli bir ateş hazırlamışızdır 
 **(12)** ne zaman ki uzak bir yerden onları görünce bunun öfkesini ve homurtusunu onlar işitirler 
-**(13)** ve bağlı olarak onun dar bir yerine atıldıkları zaman orada helâki[kovup süreni] çağırırlar
-**(14)** de ki bu mu? daha iyi yoksa muttakilere[haramdan çekinen] va’dedilen, onlar için mükafat[karşılık] ve varış yeri[seyredilecek, gezilecek yer] olan ebedi cennet (mi?)
-**(15)**
-**(16)**
+**(13)** ve bağlı olarak onun dar bir yerine atıldıkları zaman orada helâki[kovulup sürülmek, ortadan kaybolmak] çağırırlar
+**(14)** bir tek helâki bugün çağırmayın birçok helâki çağırın
+**(15)** de ki bu mu? daha iyi yoksa muttakilere[haramdan çekinen] va’dedilen, onlar için mükafat[karşılık] ve varış yeri[seyredilecek, gezilecek yer] olan ebedi cennet (mi?)
+**(16)** 
 **(17)**
 **(18)**
 **(19)**
