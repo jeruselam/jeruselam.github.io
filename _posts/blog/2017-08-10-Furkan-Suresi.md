@@ -28,9 +28,9 @@ tag:
 **(16)** orada ne istiyorlarsa onlara vardır ve sürekli kalırlar bu  Rabbinin üzerine sorumluluk gerektiren bir va’didir
 **(17)** ve Allah’tan başka taptıkları şeyleri onları toplayacağı gün der ki bu kullarımı siz mi? saptırdınız yoksa yolu kendileri (mi) sapıttılar
 **(18)** derler ki senin şanın yücedir senden başka veliler edinmek bize yaraşır değildi fakat anmayı unutuncaya kadar sen onları ve atalarını ni’metlendirdin ve helaki[eza ve meşakkat] hak eden bir topluluk oldular 
-**(19)**
-**(20)**
-**(21)**
+**(19)** işte dedikleriniz şeyler sizi yalanladılar (azabı) geri çevirmeğe artık gücünüz yetmez ne de yardım bulabilirsiniz ve sizden kim zulmederse ona büyük bir azab taddırırız 
+**(20)** ve senden önce elçilerden başkasını göndermedik şüphesiz onlar yemek yerlerdi ve çarşılarda gezerlerdi ve biz kiminizi kiminiz için bir sınav[akıl ve kalbi doğruluktan saptıracak şey] yaptık sabrediyor musunuz? ve Rabbin (herşeyi) görendir
+**(21)** melekleri gördükleri gün suçlulara işte o gün müjde yoktur ve onlar yasaktır[ayrılık] derler yasaklanmıştır[ayrılmış]
 **(22)**
 **(23)**
 **(24)**
