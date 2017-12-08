@@ -25,9 +25,9 @@ tag:
 **(13)** ve bağlı olarak onun dar bir yerine atıldıkları zaman orada helâki[kovulup sürülmek, ortadan kaybolmak] çağırırlar
 **(14)** bir tek helâki bugün çağırmayın birçok helâki çağırın
 **(15)** de ki bu mu? daha iyi yoksa muttakilere[haramdan çekinen] va’dedilen, onlar için mükafat[karşılık] ve varış yeri[seyredilecek, gezilecek yer] olan ebedi cennet (mi?)
-**(16)** 
-**(17)**
-**(18)**
+**(16)** orada ne istiyorlarsa onlara vardır ve sürekli kalırlar bu  Rabbinin üzerine sorumluluk gerektiren bir va’didir
+**(17)** ve Allah’tan başka taptıkları şeyleri onları toplayacağı gün der ki bu kullarımı siz mi? saptırdınız yoksa yolu kendileri (mi) sapıttılar
+**(18)** derler ki senin şanın yücedir senden başka veliler edinmek bize yaraşır değildi fakat anmayı unutuncaya kadar sen onları ve atalarını ni’metlendirdin ve helaki[eza ve meşakkat] hak eden bir topluluk oldular 
 **(19)**
 **(20)**
 **(21)**
