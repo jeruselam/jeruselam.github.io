@@ -30,9 +30,9 @@ tag:
 **(18)** derler ki senin şanın yücedir senden başka veliler edinmek bize yaraşır değildi fakat anmayı unutuncaya kadar sen onları ve atalarını ni’metlendirdin ve helaki[eza ve meşakkat] hak eden bir topluluk oldular 
 **(19)** işte dedikleriniz şeyler sizi yalanladılar (azabı) geri çevirmeğe artık gücünüz yetmez ne de yardım bulabilirsiniz ve sizden kim zulmederse ona büyük bir azab taddırırız 
 **(20)** ve senden önce elçilerden başkasını göndermedik şüphesiz onlar yemek yerlerdi ve çarşılarda gezerlerdi ve biz kiminizi kiminiz için bir sınav[akıl ve kalbi doğruluktan saptıracak şey] yaptık sabrediyor musunuz? ve Rabbin (herşeyi) görendir
-**(21)** melekleri gördükleri gün suçlulara işte o gün müjde yoktur ve onlar yasaktır[ayrılık] derler yasaklanmıştır[ayrılmış]
-**(22)**
-**(23)**
+**(21)** ve bizimle karşılaşmayı ummayan(lar) kimseler, melekler bize indirilmeli değil mi? yahut Rabbimizi görmeliydik dedi(ler) andolsun ki kendi içlerinde onlar büyüklük tasladılar ve büyük bir azgınlıkla haddi aştılar 
+**(22)** melekleri gördükleri gün işte o gün suçlulara müjde yoktur ve onlar yasaktır[ayrılık] derler, yasaklanmıştır[ayrılmış] 
+**(23)** yaptıkları şeyi her işin önüne geçiririz ve onu saçılmış toz zerreleri haline getiririz 
 **(24)**
 **(25)**
 **(26)**
