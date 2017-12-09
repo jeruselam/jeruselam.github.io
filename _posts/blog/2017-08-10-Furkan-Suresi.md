@@ -41,10 +41,10 @@ tag:
 **(29)** gerçekten o beni saptırdı Zikir'den sonra bana gelen zaten şeytan insan için yüzüstü bırakandır
 **(30)** ve Elçi dedi ki Rabbim şüphesiz kavmim bu Kur’an’ı terk edilmiş bıraktılar 
 **(31)** ve böylece biz her elçiye suçlulardan bir düşman var ettik Rabbin yol gösterici olarak ve yardımcı olarak yeter
-**(32)** ve inkar eden(ler) kimseler dedi(ler) bir defada toptan Kur’an ona indirilmeli değil miydi? onunla senin kalbini biz sağlamlaştırmak için böyle yaptık ve ağır ağır onu okuduk 
-**(33)** ve gerçeği ve en güzel açıklamayı sana getirdiğimiz dışında hiçbir misal[delil,söz] sana getiremezler 
-**(34)** cehenneme yüzleri üzerine toplanacak olanlar işte onlar yerleri çok kötüdür ve yolları çok sapıktır 
-**(35)** ve andolsun Musa’ya Kitabı biz verdik ve kendisinin yanında kardeşi Harun’u vezir[yardımcı,vekil] yaptık 
+**(32)** ve inkar eden(ler) kimseler dedi(ler) bir defada toptan Kur’an ona indirilmeli değil miydi? onunla senin kalbini biz sağlamlaştırmak için böyle yaptık ve ağır ağır onu okuduk
+**(33)** ve gerçeği ve en güzel açıklamayı sana getirdiğimiz dışında hiçbir misal[delil,söz] sana getiremezler
+**(34)** cehenneme yüzleri üzerine toplanacak olanlar işte onlar yerleri çok kötüdür ve yolları çok sapıktır
+**(35)** ve andolsun Musa’ya Kitabı biz verdik ve kendisinin yanında kardeşi Harun’u vezir[yardımcı,vekil] yaptık
 **(36)** dedik ki kavme gidin onlar ki ayetlerimizi yalanlıyorlar ve yıkılışla[perişanlık] onları yok ettik
 **(37)** ve Nuh kavmi peygamberleri yalanladıkları vakit onları boğduk ve onları yaptık insanlara bir ibret ve zalimlere acıklı[çok şiddetli ağrı veren] bir azab hazırladık
 **(38)** ve Ad’ı[Hud(as)] ve Semud’u[Sâlih(as)] ve Ress[kuyu] halkını ve bunun arasında nesilleri daha birçoğunu
@@ -58,11 +58,11 @@ tag:
 **(46)** sonra çekip aldık kendimize yavaş yavaş kolayca
 **(47)** O ki sizin için geceyi elbise ve uykuyu dinlenme yaptı ve gündüzü kalkıp çalışma zamanı yaptı
 **(48)** ve O ki rahmetinin ellerinin arasında (önünde) müjdeci rüzgarları gönderdi ve gökten tertemiz bir su indirdik
-**(49)**
-**(50)**
-**(51)**
-**(52)**
-**(53)**
+**(49)** onunla ölü bir ülkeyi diriltelim diye ve yarattığımız hayvanlardan ve insanlardan birçoğunu onunla sulayalım diye
+**(50)** ve andolsun etraflıca anlattık onların aralarında öğüt alsınlar diye ama direnmektedir insanların çoğu ancak inkarda
+**(51)** ve eğer biz dileseydik her kente bir uyarıcı gönderirdik
+**(52)** boyun eğme kafirlere ve büyük bir cihadla bununla (Kur’an) onlarla cihad et 
+**(53)** ve O iki denizi birbirine salmıştır bu tatlı susuzluğu giderici ve bu tuzlu ve acıdır ve ikisinin arasına kavuşmalarına engel[kavuşturmayan] bir engel[ayırıcı] ve bir perde[mania] koymuştur
 **(54)**
 **(55)**
 **(56)**

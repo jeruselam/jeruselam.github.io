@@ -4,9 +4,10 @@ You can visit the website
 sudo eopkg it -c sytem.devel
 bundle exec jekyll build
 bundle install
-bundle update
+bundle update or bundle update jekyll
 gem install bundler
 gem install jekyll bundler
+gem update jekyll
 
 git add -A
 git commit -m "1091"
