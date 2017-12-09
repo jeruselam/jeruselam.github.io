@@ -68,19 +68,19 @@ tag:
 **(56)** ve müjdeleyici ve uyarıcı olmak dışında biz seni göndermedik 
 **(57)** de ki Rabbine varan yolu tutmak istemeniz dışında sizden hiçbir ücret istemiyorum 
 **(58)** ve tevekkül et diri[Hayy] olana öyle ki o asla ölmez ve tesbih et O’nu överek ve kullarının günahlarını O’nun bilmesi kafidir 
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
+**(59)** O ki gökleri ve yeri ve ikisinin arasında bulunanları altı günde yarattı sonra Arş	üzerine kuruldu Rahman’dır bunu bir bilene sor
+**(60)** ve ne zaman ki onlara denildi secde edin Rahman’a derler Rahman nedir? secde eder miyiz hiç? senin bize emrettiğin şeye ve onların artırır nefretini
+**(61)** yücedir O ki gökte burçlar yaptı ve orada bir kandil ve aydınlatıcı bir ay var etti 
+**(62)** ve O ki öğüt almak isteyenler için veya şükretmek isteyenler için geceyi ve gündüzü birbirini izler yaptı 
+**(63)** ve Rahman’ın kulları öyle kimselerdir ki mütevazi olarak yeryüzünde yürürler ne zaman ki kendilerine laf atarsa cahiller Selam derler
+**(64)** Rablerine secde ederek ve (Onun divanında) durarak gecelerini geçirirler
+**(65)** ve Rabbimiz derler uzaklaştır bizden cehennemin azabını doğrusu onun azabı sargındır[şiddetli arzulu]
+**(66)** orası ne kötü bir karargahtır[durulan yer] ve bir makamdır[ikamet yeri]
+**(67)** ve infak ettikleri zaman israf etmezler ve cimrilik etmezler ve bu (ikisinin) arasında dengeli olur 
+**(68)** ve onlar Allah ile beraber başka tanrıya[ilah] yalvarmazlar ve öldürmezler canı öyle ki hak(lı sebep) dışında Allah’ın haram ettiği ve zina etmezler ve kim yaparsa bunları bulur cezasını
+**(69)** kıyamet günü onun için azab kat kat yapılır ve hor ve hakir olarak onun içinde kalır 
+**(70)** tevbe eden kimse(ler) dışında ve iman eden ve faydalı bir iş yapanlar işte değiştirecektir Allah onların kötülüklerini iyiliklere ve Allah çok bağışlayandır çok esirgeyendir
+**(71)** ve kim tevbe eder ve yaparsa faydalı iş şüphesiz döner Allah’a tevbesi kabul edilmiş olarak
 **(72)**
 **(73)**
 **(74)**
