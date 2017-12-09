@@ -33,9 +33,9 @@ tag:
 **(21)** ve bizimle karşılaşmayı ummayan(lar) kimseler, melekler bize indirilmeli değil mi? yahut Rabbimizi görmeliydik dedi(ler) andolsun ki kendi içlerinde onlar büyüklük tasladılar ve büyük bir azgınlıkla haddi aştılar 
 **(22)** melekleri gördükleri gün işte o gün suçlulara müjde yoktur ve onlar yasaktır[ayrılık] derler, yasaklanmıştır[ayrılmış] 
 **(23)** yaptıkları şeyi her işin önüne geçiririz ve onu saçılmış toz zerreleri haline getiririz 
-**(24)**
-**(25)**
-**(26)**
+**(24)** cennet halkının o gün kalacakları yer daha iyidir ve dinlenecekleri yer daha güzeldir 
+**(25)** ve göğün bulutları parçalandığı ve bir indirilişle meleklerin indirildiği gün 
+**(26)** mülk o gün gerçek Rahmanın’dır ve kafirler için çetin bir gündür
 **(27)**
 **(28)**
 **(29)**
