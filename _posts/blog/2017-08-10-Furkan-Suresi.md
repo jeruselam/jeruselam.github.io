@@ -40,7 +40,7 @@ tag:
 **(28)** vah bana ne olurdu ben tutmasaydım falanı dost
 **(29)** gerçekten o beni saptırdı Zikir'den sonra bana gelen zaten şeytan insan için yüzüstü bırakandır
 **(30)** ve Elçi dedi ki Rabbim şüphesiz kavmim bu Kur’an’ı terk edilmiş bıraktılar 
-**(31)**
+**(31)** ve böylece biz her elçiye suçlulardan bir düşman var ettik Rabbin yol gösterici olarak ve yardımcı olarak yeter
 **(32)**
 **(33)**
 **(34)**
