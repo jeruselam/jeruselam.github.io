@@ -42,22 +42,22 @@ tag:
 **(30)** ve Elçi dedi ki Rabbim şüphesiz kavmim bu Kur’an’ı terk edilmiş bıraktılar 
 **(31)** ve böylece biz her elçiye suçlulardan bir düşman var ettik Rabbin yol gösterici olarak ve yardımcı olarak yeter
 **(32)** ve inkar eden(ler) kimseler dedi(ler) bir defada toptan Kur’an ona indirilmeli değil miydi? onunla senin kalbini biz sağlamlaştırmak için böyle yaptık ve ağır ağır onu okuduk 
-**(33)** ve gerçeği ve en güzel açıklamayı sana getirdiğimiz dışında hiçbir misal sana getiremezler 
-**(34)**
-**(35)**
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
-**(41)**
-**(42)**
-**(43)**
-**(44)**
-**(45)**
-**(46)**
-**(47)**
-**(48)**
+**(33)** ve gerçeği ve en güzel açıklamayı sana getirdiğimiz dışında hiçbir misal[delil,söz] sana getiremezler 
+**(34)** cehenneme yüzleri üzerine toplanacak olanlar işte onlar yerleri çok kötüdür ve yolları çok sapıktır 
+**(35)** ve andolsun Musa’ya Kitabı biz verdik ve kendisinin yanında kardeşi Harun’u vezir[yardımcı,vekil] yaptık 
+**(36)** dedik ki kavme gidin onlar ki ayetlerimizi yalanlıyorlar ve yıkılışla[perişanlık] onları yok ettik
+**(37)** ve Nuh kavmi peygamberleri yalanladıkları vakit onları boğduk ve onları yaptık insanlara bir ibret ve zalimlere acıklı[çok şiddetli ağrı veren] bir azab hazırladık
+**(38)** ve Ad’ı[Hud(as)] ve Semud’u[Sâlih(as)] ve Ress[kuyu] halkını ve bunun arasında nesilleri daha birçoğunu
+**(39)** onlara hepsine misaller getirdik ve hepsini helakla[yıkışla] helak[ziyan] ettik
+**(40)** ve andolsun yağmura tutulan kente vardılar bela yağmuruna onu görmüyorlar mıydı? hayır onlar tekrar dirilip kalkmayı ummuyorlardı 
+**(41)** ve seni gördükleri zaman seni yapmıyorlar eğlence konusundan başka bir şey Allah bunu mu? elçi göndermiş 
+**(42)** nerdeyse bizi saptıracaktı (diyorlar) tanrılarımızdan onda biz kararlılık eğer etmeseydik ve yakında bileceklerdir azabı gördükleri zaman kimin yolunun sapık olduğunu
+**(43)** arzusunu tanrı[ilahe] edinen kimseyi gördün mü? onun üstüne sen mi? bekçi[vekil,işini gören] olacaksın 
+**(44)** yoksa sanıyor musun ki? onların çoğu gerçekten işitiyorlar veya düşünüyorlar, değildir onlar ancak hayvanlar gibidir hatta onlar yolca daha sapıktır 
+**(45)** görmedin mi? Rabbini nasıl? uzattı gölgeyi ve şayet dileseydi onu durgun yapardı sonra güneşi ona bir delil[kılavuz] kıldık 
+**(46)** sonra çekip aldık kendimize yavaş yavaş kolayca
+**(47)** O ki sizin için geceyi elbise ve uykuyu dinlenme yaptı ve gündüzü kalkıp çalışma zamanı yaptı
+**(48)** ve O ki rahmetinin ellerinin arasında (önünde) müjdeci rüzgarları gönderdi ve gökten tertemiz bir su indirdik
 **(49)**
 **(50)**
 **(51)**
