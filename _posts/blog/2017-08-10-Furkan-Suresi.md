@@ -67,7 +67,7 @@ tag:
 **(55)** ve Allah’tan başka fayda vermeyen ve ne de zarar vermeyen şeylere tapıyorlar ve Rabbine karşı kafir olan (şeytana) yardımcıdır
 **(56)** ve müjdeleyici ve uyarıcı olmak dışında biz seni göndermedik 
 **(57)** de ki Rabbine varan yolu tutmak istemeniz dışında sizden hiçbir ücret istemiyorum 
-**(58)** 
+**(58)** ve tevekkül et diri[Hayy] olana öyle ki o asla ölmez ve tesbih et O’nu överek ve kullarının günahlarını O’nun bilmesi kafidir 
 **(59)**
 **(60)**
 **(61)**
