@@ -81,9 +81,9 @@ tag:
 **(69)** kıyamet günü onun için azab kat kat yapılır ve hor ve hakir olarak onun içinde kalır 
 **(70)** tevbe eden kimse(ler) dışında ve iman eden ve faydalı bir iş yapanlar işte değiştirecektir Allah onların kötülüklerini iyiliklere ve Allah çok bağışlayandır çok esirgeyendir
 **(71)** ve kim tevbe eder ve yaparsa faydalı iş şüphesiz döner Allah’a tevbesi kabul edilmiş olarak
-**(72)** 
-**(73)**
-**(74)**
+**(72)** onlar şahitlik etmezler yalan ve boş söze ve ne zaman ki rastlarlar boş söze geçip giderler vakar[şeref ve izzet] ile
+**(73)** ve onlar Rablerinin ayetleri hatırlatıldığı zaman onlara karşı sağır ve kör davranmazlar
+**(74)** ve onlar Rabbimiz derler lutfeyle bize eşlerimizi ve çocuklarımızı gözler sevinci ve bizi muttakilere[haramdan ve günahtan çekinen] önder yap
 **(75)**
 **(76)**
 **(77)**
