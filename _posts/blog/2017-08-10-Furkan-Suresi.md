@@ -63,11 +63,11 @@ tag:
 **(51)** ve eğer biz dileseydik her kente bir uyarıcı gönderirdik
 **(52)** boyun eğme kafirlere ve büyük bir cihadla bununla (Kur’an) onlarla cihad et 
 **(53)** ve O iki denizi birbirine salmıştır bu tatlı susuzluğu giderici ve bu tuzlu ve acıdır ve ikisinin arasına kavuşmalarına engel[kavuşturmayan] bir engel[ayırıcı] ve bir perde[mania] koymuştur
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
+**(54)** ve O sudan bir insan yarattı ve onu neseb[atalar zinciri] ve sıhr[akrabalık zinciri] kıldı ve Rabbin her şeye gücü yetendir
+**(55)** ve Allah’tan başka fayda vermeyen ve ne de zarar vermeyen şeylere tapıyorlar ve Rabbine karşı kafir olan (şeytana) yardımcıdır
+**(56)** ve müjdeleyici ve uyarıcı olmak dışında biz seni göndermedik 
+**(57)** de ki Rabbine varan yolu tutmak istemeniz dışında sizden hiçbir ücret istemiyorum 
+**(58)** 
 **(59)**
 **(60)**
 **(61)**
