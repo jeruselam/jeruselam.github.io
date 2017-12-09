@@ -41,8 +41,8 @@ tag:
 **(29)** gerçekten o beni saptırdı Zikir'den sonra bana gelen zaten şeytan insan için yüzüstü bırakandır
 **(30)** ve Elçi dedi ki Rabbim şüphesiz kavmim bu Kur’an’ı terk edilmiş bıraktılar 
 **(31)** ve böylece biz her elçiye suçlulardan bir düşman var ettik Rabbin yol gösterici olarak ve yardımcı olarak yeter
-**(32)**
-**(33)**
+**(32)** ve inkar eden(ler) kimseler dedi(ler) bir defada toptan Kur’an ona indirilmeli değil miydi? onunla senin kalbini biz sağlamlaştırmak için böyle yaptık ve ağır ağır onu okuduk 
+**(33)** ve gerçeği ve en güzel açıklamayı sana getirdiğimiz dışında hiçbir misal sana getiremezler 
 **(34)**
 **(35)**
 **(36)**
