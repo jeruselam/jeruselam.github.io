@@ -36,10 +36,10 @@ tag:
 **(24)** cennet halkının o gün kalacakları yer daha iyidir ve dinlenecekleri yer daha güzeldir 
 **(25)** ve göğün bulutları parçalandığı ve bir indirilişle meleklerin indirildiği gün 
 **(26)** mülk o gün gerçek Rahmanın’dır ve kafirler için çetin bir gündür
-**(27)**
-**(28)**
-**(29)**
-**(30)**
+**(27)** ve o gün zalim ellerini ısırır ne olurdu keşke der ben edineydim elçiyle beraber bir yol
+**(28)** vah bana ne olurdu ben tutmasaydım falanı dost
+**(29)** gerçekten o beni saptırdı Zikir'den sonra bana gelen zaten şeytan insan için yüzüstü bırakandır
+**(30)** ve Elçi dedi ki Rabbim şüphesiz kavmim bu Kur’an’ı terk edilmiş bıraktılar 
 **(31)**
 **(32)**
 **(33)**
