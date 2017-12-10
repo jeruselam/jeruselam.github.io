@@ -13,14 +13,14 @@ tag:
 **(1)** bu indirdiğimiz ve farz kıldığımız bir suredir ve onda açık açık[delilli,kanıtlı] ayetler indirdik belki düşünüp öğüt alırsınız
 **(2)** zina eden kadına ve zina eden erkeğe onlardan her birine yüz değnek vurun ve asla sizi tutmasın onlara karşı acıma duygusu Allah’ın dininde (cezasını uygulamada) eğer Allah’a ve ahiret gününe inananlar iseniz ve mü’minlerden bir grup onlara yapılan azaba şahid olsun
 **(3)** zina eden erkek, zina eden kadından veya müşrik[Allah'tan başkasına ibadet eden] kadından başkasıyla evlenmez ve zina eden kadın, zina eden erkekten veya müşrik erkekten başkasıyla evlenmez bu mü’minler üzerine haram kılınmıştır 
-**(4)** ancak hariçtir bundan sonra tevbe eden(ler) kimseler ve uslananlar çünkü Allah çok bağışlayandır çok esirgeyendir
-**(5)** eşlerini zina ile suçlayan kimseler ve kendilerinden başka onların şahidleri bulunmayanlar onlardan her birinin (o halde) şahidliği kendisinin mutlaka doğru söyleyenlerden olduğuna Allah’ı dört defa şahid tutmasıdır 
-**(6)** beşinci defasında kuşkusuz Allah’ın la’netinin kendi üzerine olmasını diler eğer yalan söyleyenlerden ise
-**(7)** ve onun (kocasının) yalan söyleyenlerden olduğuna Allah’ı dört defa şahid tutup kadının şahidlik etmesi kendisinden azabı kaldırır 
-**(8)** beşinci defa da kuşkusuz Allah’ın gazabının kendi üzerine olmasını diler eğer (kocası) doğrulardan ise 
-**(9)**
-**(10)**
-**(11)**
+**(4)** namuslu kadınları zina ile suçlayan sonra dört şahid getirmeyenlere vurun onlara seksen değnek ve artık onların şahidliğini asla kabul etmeyin ve işte onlar yoldan çıkmış kimselerdir
+**(5)** ancak hariçtir bundan sonra tevbe eden(ler) kimseler ve uslananlar çünkü Allah çok bağışlayandır çok esirgeyendir
+**(6)** eşlerini zina ile suçlayan kimseler ve kendilerinden başka onların şahidleri bulunmayanlar onlardan her birinin (o halde) şahidliği kendisinin mutlaka doğru söyleyenlerden olduğuna Allah’ı dört defa şahid tutmasıdır 
+**(7)** beşinci defasında kuşkusuz Allah’ın la’netinin kendi üzerine olmasını diler eğer yalan söyleyenlerden ise
+**(8)** ve onun (kocasının) yalan söyleyenlerden olduğuna Allah’ı dört defa şahid tutup kadının şahidlik etmesi kendisinden azabı kaldırır 
+**(9)** beşinci defa da kuşkusuz Allah’ın gazabının kendi üzerine olmasını diler eğer (kocası) doğrulardan ise 
+**(10)** Allah’ın size lutfu ya olmasaydı ve rahmeti ve şüphesiz Allah tevbeleri çok kabul edendir hikmet sahibidir
+**(11)** kuşkusuz iftirayı getirenler içinizden bir topluluktur onu sizin için şer sanmayın bilakis o sizin için hayırdır onlardan her kişi ne işledi (ise) (karşılığını görecektir) onlardan günahının en büyüğünü yüklenen kimseye onun (yalanı için) büyük bir azab (vardır)
 **(12)**
 **(13)**
 **(14)**
