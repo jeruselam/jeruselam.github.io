@@ -21,11 +21,11 @@ tag:
 **(9)** beşinci defa da kuşkusuz Allah’ın gazabının kendi üzerine olmasını diler eğer (kocası) doğrulardan ise 
 **(10)** Allah’ın size lutfu ya olmasaydı ve rahmeti ve şüphesiz Allah tevbeleri çok kabul edendir hikmet sahibidir
 **(11)** kuşkusuz iftirayı getirenler içinizden bir topluluktur onu sizin için şer sanmayın bilakis o sizin için hayırdır onlardan her kişi ne işledi (ise) (karşılığını görecektir) onlardan günahının en büyüğünü yüklenen kimseye onun (yalanı için) büyük bir azab (vardır)
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
+**(12)** onu işittiğiniz zaman inanan erkeklerin ve inanan kadınların kendiliklerinden güzel zanda bulunup ve bu apaçık bir iftiradır demeleri gerekmez miydi?
+**(13)** ona dört şahid getirmeleri gerekmez miydi? madem ki şahidleri getirmediler o halde onlar Allah yanında onlar yalancılardır
+**(14)** ve Allah’ın size lutfu ve rahmeti eğer olmasaydı içine daldığınız şey (iftira) hakkında büyük bir azab dünyada ve ahirette size mutlaka dokunurdu 
+**(15)** çünkü siz onu alıveriyorsunuz dillerinizle ve söylüyorsunuz ağızlarınızla sizin hakkında bilgi(niz) hiç olmayan bir şeyi ve onu sanıyorsunuz önemsiz bir iş oysa o Allah yanında büyüktür
+**(16)** Seni tenzih ederiz bu büyük bir iftiradır bunu konuşmamız bize yakışmaz demeniz onu işittiğiniz zaman gerekmez miydi?
 **(17)**
 **(18)**
 **(19)**
