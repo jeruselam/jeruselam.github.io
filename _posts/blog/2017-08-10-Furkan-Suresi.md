@@ -83,9 +83,9 @@ tag:
 **(71)** ve kim tevbe eder ve yaparsa faydalı iş şüphesiz döner Allah’a tevbesi kabul edilmiş olarak
 **(72)** onlar şahitlik etmezler yalan ve boş söze ve ne zaman ki rastlarlar boş söze geçip giderler vakar[şeref ve izzet] ile
 **(73)** ve onlar Rablerinin ayetleri hatırlatıldığı zaman onlara karşı sağır ve kör davranmazlar
-**(74)** ve onlar Rabbimiz derler lutfeyle bize eşlerimizi ve çocuklarımızı gözler sevinci ve bizi muttakilere[haramdan ve günahtan çekinen] önder yap
-**(75)**
-**(76)**
-**(77)**
+**(74)** ve onlar Rabbimiz derler lutfeyle bize eşlerimizi ve çocuklarımızı gözler sevinci ve bizi muttakilere[haramdan ve günahtan çekinenlere] önder yap
+**(75)** işte onlar sabretmelerine karşılık saraylarda  ödüllendireleceklerdir ve orada bir sağlık dileği ve selam ile karşılanacaklardır 
+**(76)** orada ebedi kalacaklardır ne güzel karargahtır ve makamdır
+**(77)** de ki ne diye? değer versin size Rabbim du’anız (ibadetiniz) olmadıktan sonra andolsun yalanladınız bu yüzden (azab) kaçınılmaz olacaktır
 
 ![25F-Mekki]({{site.url}}/images/ayrac-muhur.png)
