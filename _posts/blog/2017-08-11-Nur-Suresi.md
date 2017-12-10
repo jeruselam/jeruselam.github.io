@@ -10,8 +10,8 @@ tag:
 
 ## 24. Nûr Sûresi
 
-**(1)** 
-**(2)** 
+**(1)** bu indirdiğimiz ve farz kıldığımız bir suredir ve onda açık açık[delilli,kanıtlı] ayetler indirdik belki düşünüp öğüt alırsınız
+**(2)** zina eden kadına ve zina eden erkeğe onlardan her birine yüz değnek vurun ve asla sizi tutmasın onlara karşı acıma duygusu Allah’ın dininde (cezasını uygulamada) eğer Allah’a ve ahiret gününe inananlar iseniz ve mü’minlerden bir grup onlara yapılan azaba şahid olsun
 **(3)** 
 **(4)** 
 **(5)** 
