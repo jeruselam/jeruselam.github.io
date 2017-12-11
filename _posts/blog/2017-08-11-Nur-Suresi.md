@@ -36,8 +36,8 @@ tag:
 **(24)** o gün şahidlik edecektir kendilerine dilleri ve elleri ve ayakları yapıyor(lar) oldukları şeylere
 **(25)** o gün onlara tam verir Allah hak ettikler cezalarını ve onlar bilirler şüphesiz Allah O apaçık Hakk’tır
 **(26)** kötü kadınlar kötü erkeklere, kötü erkekler kötü kadınlara, iyi kadınlar iyi erkeklere, iyi erkekler iyi kadınlara bunlar[şanlı,şerefli kimse] onların söyledikleri şeylerden [fenalıktan]uzaktırlar bunlara vardır bir bağışlama ve cömertçe bir rızık
-**(27)**
-**(28)**
+**(27)** ey kimseler inanan(lar) kendi evlerinizden başka evlere girmeyin ta ki izin almadan ve (ev) halkı üzerine selam vermeden herhalde bu daha hayırlıdır sizin için umulur ki düşünüp anlarsınız
+**(28)** eğer orada kimseyi bulamazsanız oraya girmeyin size izin verilinceye kadar ve eğer size dönün! denirse o halde dönün o daha temizdir sizin için ve Allah yaptıklarınız şeyleri bilendir
 **(29)**
 **(30)**
 **(31)**
