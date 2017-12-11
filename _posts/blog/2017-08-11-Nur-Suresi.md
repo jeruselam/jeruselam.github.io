@@ -31,8 +31,8 @@ tag:
 **(19)** şüphesiz kimselere inananlar içinde edepsizliğin yayılmasını isteyenlere dünyada ve ahirette acıklı bir azab vardır ve Allah bilir ancak siz bilmezsiniz
 **(20)** ve eğer olmasaydı lutfu Allah’ın size ve rahmeti ve kuşkusuz Allah çok şefkatlidir[Ra'ūf] merhametlidir[RaHīm]
 **(21)** ey inanan(lar) kimseler şeytanın adımlarını[yolunu] izlemeyin ve kim izlerse şeytanın adımlarını muhakkak o (ona) emreder edepsizliği ve kötülüğü ve eğer olmasaydı size Allah’ın lutfu ve rahmeti temizlemezdi sizden hiç birinizi asla fakat Allah dilediği kimseyi arındırır ve Allah işitendir bilendir
-**(22)**
-**(23)**
+**(22)** ve yemin etmesinler sizden fazilet sahipleri ve servet yakınlık sahipleri (akrabalara) (bir şey) vermemeğe ve yoksullara ve Allah yolunda hicret edenlere ve affetsinler ve hoşgörsünler sizi Allah’ın bağışlamasını sevmez misiniz? ve Allah bağışlayandır esirgeyendir
+**(23)** şüphesiz bir şeyden habersiz namuslu kadınlara inanmış kadınlara zina iftirası edenler la’netlenmişlerdir dünya’da ve ahirette ve onlar için vardır büyük bir azab
 **(24)**
 **(25)**
 **(26)**
