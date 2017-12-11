@@ -33,9 +33,9 @@ tag:
 **(21)** ey inanan(lar) kimseler şeytanın adımlarını[yolunu] izlemeyin ve kim izlerse şeytanın adımlarını muhakkak o (ona) emreder edepsizliği ve kötülüğü ve eğer olmasaydı size Allah’ın lutfu ve rahmeti temizlemezdi sizden hiç birinizi asla fakat Allah dilediği kimseyi arındırır ve Allah işitendir bilendir
 **(22)** ve yemin etmesinler sizden fazilet sahipleri ve servet yakınlık sahipleri (akrabalara) (bir şey) vermemeğe ve yoksullara ve Allah yolunda hicret edenlere ve affetsinler ve hoşgörsünler sizi Allah’ın bağışlamasını sevmez misiniz? ve Allah bağışlayandır esirgeyendir
 **(23)** şüphesiz bir şeyden habersiz namuslu kadınlara inanmış kadınlara zina iftirası edenler la’netlenmişlerdir dünya’da ve ahirette ve onlar için vardır büyük bir azab
-**(24)**
-**(25)**
-**(26)**
+**(24)** o gün şahidlik edecektir kendilerine dilleri ve elleri ve ayakları yapıyor(lar) oldukları şeylere
+**(25)** o gün onlara tam verir Allah hak ettikler cezalarını ve onlar bilirler şüphesiz Allah O apaçık Hakk’tır
+**(26)** kötü kadınlar kötü erkeklere, kötü erkekler kötü kadınlara, iyi kadınlar iyi erkeklere, iyi erkekler iyi kadınlara bunlar[şanlı,şerefli kimse] onların söyledikleri şeylerden [fenalıktan]uzaktırlar bunlara vardır bir bağışlama ve cömertçe bir rızık
 **(27)**
 **(28)**
 **(29)**
