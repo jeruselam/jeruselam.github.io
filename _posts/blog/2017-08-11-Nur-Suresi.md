@@ -26,11 +26,11 @@ tag:
 **(14)** ve Allah’ın size lutfu ve rahmeti eğer olmasaydı içine daldığınız şey (iftira) hakkında büyük bir azab dünyada ve ahirette size mutlaka dokunurdu 
 **(15)** çünkü siz onu alıveriyorsunuz dillerinizle ve söylüyorsunuz ağızlarınızla sizin hakkında bilgi(niz) hiç olmayan bir şeyi ve onu sanıyorsunuz önemsiz bir iş oysa o Allah yanında büyüktür
 **(16)** Seni tenzih ederiz bu büyük bir iftiradır bunu konuşmamız bize yakışmaz demeniz onu işittiğiniz zaman gerekmez miydi?
-**(17)**
-**(18)**
-**(19)**
-**(20)**
-**(21)**
+**(17)** Allah size öğüt veriyor bir daha asla böyle bir şeye dönmemeniz için eğer inananlar iseniz
+**(18)** ve açıklıyor Allah size ayetleri(ni) ve Allah bilendir hüküm ve hikmet sahibidir
+**(19)** şüphesiz kimselere inananlar içinde edepsizliğin yayılmasını isteyenlere dünyada ve ahirette acıklı bir azab vardır ve Allah bilir ancak siz bilmezsiniz
+**(20)** ve eğer olmasaydı lutfu Allah’ın size ve rahmeti ve kuşkusuz Allah çok şefkatlidir[Ra'ūf] merhametlidir[RaHīm]
+**(21)** ey inanan(lar) kimseler şeytanın adımlarını[yolunu] izlemeyin ve kim izlerse şeytanın adımlarını muhakkak o (ona) emreder edepsizliği ve kötülüğü ve eğer olmasaydı size Allah’ın lutfu ve rahmeti temizlemezdi sizden hiç birinizi asla fakat Allah dilediği kimseyi arındırır ve Allah işitendir bilendir
 **(22)**
 **(23)**
 **(24)**
