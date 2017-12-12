@@ -39,10 +39,10 @@ tag:
 **(27)** ey kimseler inanan(lar) kendi evlerinizden başka evlere girmeyin ta ki izin almadan ve (ev) halkı üzerine selam vermeden herhalde bu daha hayırlıdır sizin için umulur ki düşünüp anlarsınız
 **(28)** eğer orada kimseyi bulamazsanız oraya girmeyin size izin verilinceye kadar ve eğer size dönün! denirse o halde dönün o daha temizdir sizin için ve Allah yaptıklarınız şeyleri bilendir
 **(29)** sizin eşyanız bulunan içinde oturulmayan evlere (izinsiz) girmenizden dolayı size bir günah yoktur ve Allah bilir açığa vurduğunuz şeyi ve gizlediğiniz şeyi
-**(30)** söyle inanan erkeklere sakınsınlar [ayıptan] bakışlarını ve korusunlar ırzlarını bu daha temizdir onlar için şüphesiz Allah her yaptıkları şeyleri haber almaktadır
-**(31)** 
-**(32)**
-**(33)**
+**(30)** söyle inanan erkeklere sakınsınlar[ayıptan] bakışlarını ve korusunlar ırzlarını bu daha temizdir onlar için şüphesiz Allah her yaptıkları şeyleri haber almaktadır
+**(31)** ve söyle inanan[mümin] kadınlara sakınsınlar bakışlarını ve korusunlar ırzlarını ve göstermesinler [kadınlara mahsus]süslerini ancak hariç ondan görünenler ve koysunlar başörtülerini[başa sarılan bez] (göğüs) yırtmaçlarının üstüne ve göstermesinler süslerini kocaları dışındakilere yahut babaları yahut kocalarının babaları yahut oğulları yahut kocalarının oğulları yahut kardeşleri yahut kardeşlerinin oğulları yahut kızkardeşlerinin oğulları yahut kadınları yahut ellerinin sahip oldukları (köleleri) yahut erkeklerden kadına ihtiyacı bulunmayan tabi’leri (hizmetlileri) yahut çocuklara onlar ki henüz anlamazlar kadınların mahrem yerlerini ve vurmasınlar ayaklarını süslerinden gizledikleri şeylerin bilinmesi için ve topluca[hep] Allah’a tevbe edin ey mü’minler umulur ki felaha erersiniz
+**(32)** ve bekarları evlendirin içinizden ve iyileri kölelerinizden[ibadet eden hizmetli] ve cariyeleriniz(den)[genç kadın hizmetli] eğer yoksul iseler onları zengin eder Allah lutfundan ve Allahın (mülkü) geniştir (her şeyi) bilendir
+**(33)** ve iffetlerini korusunlar evlenme (nikah imkanı) bulamayan(lar) kimseler Allah kendilerini zengin edinceye kadar lutfundan ve eğer onlar hakında hayırlı olduğunu bilirseniz ellerinizin sahip olduklarından mükatebe ([yazılı nikah] sözleşme) yapmak isteyen(lerle) kimselerle mükatebe[yazı ile bağlı nikah] yapın ve Allah’ın size verdiği malından onlara verin ve dünya hayatının geçici menfaatini elde etmek için cariyelerinizi[genç kadın hizmetli] fuhşa zorlamayın eğer namuslu kalmayı istiyorlarsa ve kim onları zorlarsa şüphesiz Allah zorlanmalarından sonra bağışlayıcı esirgeyicidir
 **(34)**
 **(35)**
 **(36)**
