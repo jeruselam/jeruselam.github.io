@@ -32,7 +32,7 @@ tag:
 **(20)** ve eğer olmasaydı lutfu Allah’ın size ve rahmeti ve kuşkusuz Allah çok şefkatlidir[Ra'ūf] merhametlidir[RaHīm]
 **(21)** ey inanan(lar) kimseler şeytanın adımlarını[yolunu] izlemeyin ve kim izlerse şeytanın adımlarını muhakkak o (ona) emreder edepsizliği ve kötülüğü ve eğer olmasaydı size Allah’ın lutfu ve rahmeti temizlemezdi sizden hiç birinizi asla fakat Allah dilediği kimseyi arındırır ve Allah işitendir bilendir
 **(22)** ve yemin etmesinler sizden fazilet sahipleri ve servet yakınlık sahipleri (akrabalara) (bir şey) vermemeğe ve yoksullara ve Allah yolunda hicret edenlere ve affetsinler ve hoşgörsünler sizi Allah’ın bağışlamasını sevmez misiniz? ve Allah bağışlayandır esirgeyendir
-**(23)** şüphesiz bir şeyden habersiz namuslu kadınlara inanmış kadınlara zina iftirası edenler la’netlenmişlerdir dünya’da ve ahirette ve onlar için vardır büyük bir azab
+**(23)** şüphesiz inanmış[mümin] kadınlara bir şeyden habersiz namuslu kadınlara zina iftirası edenler la’netlenmişlerdir dünya’da ve ahirette ve onlar için vardır büyük bir azab
 **(24)** o gün şahidlik edecektir kendilerine dilleri ve elleri ve ayakları yapıyor(lar) oldukları şeylere
 **(25)** o gün onlara tam verir Allah hak ettikler cezalarını ve onlar bilirler şüphesiz Allah O apaçık Hakk’tır
 **(26)** kötü kadınlar kötü erkeklere, kötü erkekler kötü kadınlara, iyi kadınlar iyi erkeklere, iyi erkekler iyi kadınlara bunlar[şanlı,şerefli kimse] onların söyledikleri şeylerden [fenalıktan]uzaktırlar bunlara vardır bir bağışlama ve cömertçe bir rızık
@@ -43,7 +43,7 @@ tag:
 **(31)** ve söyle inanan[mümin] kadınlara sakınsınlar bakışlarını ve korusunlar ırzlarını ve göstermesinler [kadınlara mahsus]süslerini ancak hariç ondan görünenler ve koysunlar başörtülerini[başa sarılan bez] (göğüs) yırtmaçlarının üstüne ve göstermesinler süslerini kocaları dışındakilere yahut babaları yahut kocalarının babaları yahut oğulları yahut kocalarının oğulları yahut kardeşleri yahut kardeşlerinin oğulları yahut kızkardeşlerinin oğulları yahut kadınları yahut ellerinin sahip oldukları (köleleri) yahut erkeklerden kadına ihtiyacı bulunmayan tabi’leri (hizmetlileri) yahut çocuklara onlar ki henüz anlamazlar kadınların mahrem yerlerini ve vurmasınlar ayaklarını süslerinden gizledikleri şeylerin bilinmesi için ve topluca[hep] Allah’a tevbe edin ey mü’minler umulur ki felaha erersiniz
 **(32)** ve bekarları evlendirin içinizden ve iyileri kölelerinizden[ibadet eden hizmetli] ve cariyeleriniz(den)[genç kadın hizmetli] eğer yoksul iseler onları zengin eder Allah lutfundan ve Allahın (mülkü) geniştir (her şeyi) bilendir
 **(33)** ve iffetlerini korusunlar evlenme (nikah imkanı) bulamayan(lar) kimseler Allah kendilerini zengin edinceye kadar lutfundan ve eğer onlar hakında hayırlı olduğunu bilirseniz ellerinizin sahip olduklarından mükatebe ([yazılı nikah] sözleşme) yapmak isteyen(lerle) kimselerle mükatebe[yazı ile bağlı nikah] yapın ve Allah’ın size verdiği malından onlara verin ve dünya hayatının geçici menfaatini elde etmek için cariyelerinizi[genç kadın hizmetli] fuhşa zorlamayın eğer namuslu kalmayı istiyorlarsa ve kim onları zorlarsa şüphesiz Allah zorlanmalarından sonra bağışlayıcı esirgeyicidir
-**(34)**
+**(34)** 
 **(35)**
 **(36)**
 **(37)**
