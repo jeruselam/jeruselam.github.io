@@ -39,7 +39,7 @@ tag:
 **(27)** ey kimseler inanan(lar) kendi evlerinizden başka evlere girmeyin ta ki izin almadan ve (ev) halkı üzerine selam vermeden herhalde bu daha hayırlıdır sizin için umulur ki düşünüp anlarsınız
 **(28)** eğer orada kimseyi bulamazsanız oraya girmeyin size izin verilinceye kadar ve eğer size dönün! denirse o halde dönün o daha temizdir sizin için ve Allah yaptıklarınız şeyleri bilendir
 **(29)** sizin eşyanız bulunan içinde oturulmayan evlere (izinsiz) girmenizden dolayı size bir günah yoktur ve Allah bilir açığa vurduğunuz şeyi ve gizlediğiniz şeyi
-**(30)** söyle inanan erkeklere sakınsınlar[ayıptan] bakışlarını ve korusunlar ırzlarını bu daha temizdir onlar için şüphesiz Allah her yaptıkları şeyleri haber almaktadır
+**(30)** söyle inanan erkeklere sakınsınlar [ayıptan] bakışlarını ve korusunlar ırzlarını bu daha temizdir onlar için şüphesiz Allah her yaptıkları şeyleri haber almaktadır
 **(31)** 
 **(32)**
 **(33)**
