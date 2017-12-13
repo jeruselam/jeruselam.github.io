@@ -11,7 +11,7 @@ tag:
 ## 24. Nûr Sûresi
 
 **(1)** bu indirdiğimiz ve farz kıldığımız bir suredir ve onda açık açık[delilli,kanıtlı] ayetler indirdik belki düşünüp öğüt alırsınız
-**(2)** zina eden kadına ve zina eden erkeğe onlardan her birine yüz değnek vurun ve eğer Allah’a ve ahiret gününe inananlar Allah’ın dininde (cezasını uygulamada) onlara karşı acıma duygusu asla sizi tutmasın iseniz ve mü’minlerden bir grup onlara yapılan azaba şahid olsun
+**(2)** zina eden kadına ve zina eden erkeğe onlardan her birine yüz değnek vurun ve eğer Allah’a ve ahiret gününe inananlar iseniz Allah’ın dininde (cezasını uygulamada) onlara karşı acıma duygusu asla sizi tutmasın ve mü’minlerden bir grup onlara yapılan azaba şahid olsun
 **(3)** zina eden erkek, zina eden kadından veya müşrik[Allah'tan başkasına ibadet eden] kadından başkasıyla evlenmez ve zina eden kadın, zina eden erkekten veya müşrik erkekten başkasıyla evlenmez bu mü’minler üzerine haram kılınmıştır 
 **(4)** namuslu kadınları zina ile suçlayan sonra dört şahid getirmeyenlere seksen değnek vurun onlara ve artık onların şahidliğini asla kabul etmeyin ve işte onlar yoldan çıkmış kimselerdir
 **(5)** ancak hariçtir bundan sonra tevbe eden(ler) kimseler ve uslananlar çünkü Allah çok bağışlayandır çok esirgeyendir
