@@ -44,14 +44,14 @@ tag:
 **(32)** ve içinizden bekarları ve kölelerinizden[ibadet eden hizmetli] ve cariyeleriniz(den)[genç kadın hizmetli] iyileri evlendirin eğer yoksul iseler Allah lutfundan onları zengin eder ve Allahın (mülkü) geniştir (her şeyi) bilendir
 **(33)** ve Allah lutfundan kendilerini zengin edinceye kadar evlenme (nikah imkanı) bulamayan(lar) kimseler iffetlerini korusunlar ve eğer onlar hakında hayırlı olduğunu bilirseniz ellerinizin sahip olduklarından mükatebe ([yazılı akit] sözleşme) yapmak isteyen(lerle) kimselerle mükatebe yapın ve Allah’ın size verdiği malından onlara verin ve eğer namuslu kalmayı istiyorlarsa dünya hayatının geçici menfaatini elde etmek için cariyelerinizi[genç hizmetli kadın] fuhşa zorlamayın ve kim onları zorlarsa şüphesiz Allah zorlanmalarından[istemeyerek yapmalarından] sonra bağışlayıcı esirgeyicidir
 **(34)** ve andolsun ki size açıklayıcı ayetler ve sizden önce gelip geçen kimselerden bir temsil ve muttakiler için bir öğüt indirdik 
-**(35)** Allah göklerin ve yerin nurudur, O’nun nuru lamba içinde bulunan bir kandile benzer cam lamba içerisindedir, cam inciden bir yıldız (gibidir) sanki ne doğudan ve ne de batıdan mübarek zeytin bir ağacı(nın yağından) yakılır, öyle ki neredeyse onun yağı ışık verir ve eğer ateş değmese (bile), nur üstüne nur, Allah nuruna dilediği kimseyi hidayet eder, Allah benzetmelerle insanlara misaller verir ve Allah her şeyi bilir
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
-**(41)**
-**(42)**
+**(35)** Allah göklerin ve yerin nurudur, O’nun nuru lamba içinde bulunan bir kandile benzer, cam lamba içerisindedir, cam sanki inciden bir yıldız (gibidir), ne doğudan ve ne de batıdan mübarek zeytin bir ağacı(nın yağından) yakılır, öyle ki neredeyse onun yağı ışık verir ve eğer ateş değmese (bile), nur üstüne nur, Allah nuruna dilediği kimseyi hidayet eder, Allah benzetmelerle insanlara misaller verir ve Allah her şeyi bilir
+**(36)** Allah’ın yükseltilmesine ve adının içlerinde anılmasına izin verdiği evlerdedir onların içinde sabah ve akşam O’nu tesbih ederler 
+**(37)** erkekler (ki) ticaret ve ne de alışveriş Allah’ı anmaktan ve namaz kılmaktan ve zekat vermekten kendilerini alıkoymaz yüreklerin ve gözlerin onda ters döneceği günden onlar korkarlar 
+**(38)** Allah yaptıkları şeylerin en güzel karşılığını vermesi için ve lutfundan daha fazlası için ve Allah hesapsız olarak dilediği kimseyi rızıklandırır 
+**(39)** ve inkar eden(ler) kimseler onların işleri düz arazideki serap gibidir susayan onu sanır su fakat ne zaman ki yanına gelince hiçbir şey bulamaz ve Allah’ı yanında bulur onun hesabını tam görür ve Allah hesabı çabuk görendir
+**(40)** yahut derin bir deniz içindeki karanlıklar gibidir ki üstünü örten bir dalga onun üstünden bir dalga onun üstünden bir bulut onun biri diğerinin üstüne karanlıklar, ne zaman ki elini çıkarsa neredeyse onu dahi göremez Allah ona bir nur vermemişse bir kimseye onun hiçbir nuru artık olmaz 
+**(41)** görmedin mi? şüphesiz göklerde olan ve yerde olan kimseler ve saflar halinde uçan kuşlar onu Allah’ı tesbih ederler her biri andolsun kendi du’asını ve tesbihini bilir ve Allah onların yaptıkları şeyleri bilmektedir
+**(42)** ve göklerin ve yerin mülkü Allah’ındır ve dönüş Allah’adır
 **(43)**
 **(44)**
 **(45)**
