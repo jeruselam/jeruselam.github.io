@@ -66,11 +66,11 @@ tag:
 **(54)** de ki Allah’a ita’at edin ve Rasule ita’at edin eğer dönerseniz artık ancak onun sorumluluğu, kendisine yükletilen şeydir ve sizin sorumluluğunuz size yükletilen şeydir ve eğer ona ita’at ederseniz doğru yolu bulursunuz ve Rasule düşen açık bir şekilde duyurmaktan başka bir şey değildir 
 **(55)** sizden inanan(lara) kimselere ve iyi işler yapanlara Allah va’detmiştir onlardan önceki kimseleri hükümran kıldığı gibi yeryüzünde onları hükümran kılacaktır ve kendileri için razı olduğu dinlerini kendilerine sağlamlaştıracaktır ve korkularının ardından (tam) bir güvene onları erdirecektir bana kulluk edecekler bana hiçbir şeyi ortak koşmayacaklar ama kim(ler) bundan sonra inkar ederse işte onlar yoldan çıkanlardır
 **(56)** ve namazı kılın ve zekatı verin ve Elçiye ita’at edin umulur ki merhamet olunursunuz
-**(57)**
-**(58)**
-**(59)**
-**(60)**
-**(61)**
+**(57)** inkar eden(lerin) kimselerin yeryüzünde (Allah’ı) aciz bırakacaklarını sanma ve onların varacağı yer ateştir ve ne kötü bir varış yeridir
+**(58)** ey inanan(lar) kimseler ellerinizin altında bulunan (köle ve hizmetçi) kimseler ve sizden erginliğe henüz ermemiş olanlar üç vakitte izin istesinler sabah namazından önce ve öğle vakti elbisenizi çıkar(ıp yat)acağınız zaman ve yatsı namazından sonra sizin için mahrem olan üç vakittir bunların dışında bir günah yoktur size ve yoktur onlara biriniz diğerinin yanına girip çıkarsınız Allah size ayetleri böyle açıklar Allah bilendir hüküm ve hikmet sahibidir
+**(59)** sizin çocuklarınız erginlik çağına erdikleri zaman kendilerinden önceki kimselerin izin istedikleri gibi izin istesinler Allah size ayetlerini işte böyle açıklıyor ve Allah bilendir hüküm ve hikmet sahibidir
+**(60)** ve (ihtiyar) oturan kadınlardan ki evlenmeye ümidi kalmamıştır süslerini göstermeden dış örtülerini bırakmalarında kendileri için bir günah yoktur ama sakınmaları kendileri için daha hayırlıdır ve Allah işitendir bilendir
+**(61)** kör üzerine bir güçlük yoktur ve topal üzerine bir güçlük yoktur ve hasta üzerine güçlük yoktur ve kendi evlerinizden yemenizde sizin üzerinize (bir güçlük) yoktur yahut babalarınızın evlerinden yahut annelerinizin evlerinden yahut kardeşlerinizin evlerinden yahut kızkardeşlerinizin evlerinden yahut amcalarınızın evlerinden yahut halalarınızın evlerinden yahut dayılarınızın evlerinden yahut teyzelerinizin evlerinden yahut anahtarlarına sahip olduğunuzun yahut arkadaşınızın, toplu olarak yahut ayrı ayrı yemenizde üzerinize bir günah yoktur evlere girdiğiniz zaman Allah tarafından bereketli güzel (bir yaşam) dileğiyle kendinize selam verin işte böyle Allah size ayetleri açıklıyor umulur ki aklınızı kullanırsınız
 **(62)**
 **(63)**
 **(64)**
