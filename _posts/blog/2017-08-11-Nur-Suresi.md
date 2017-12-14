@@ -64,8 +64,8 @@ tag:
 **(52)** ve kim(ler) Allah’a ve Resulüne ita’at ederse ve Allah’tan korkarsa[sevgiden gelen edepli hal] ve sakınırsa[rızayı gaye ve masad edinir] işte kazananlar onlardır
 **(53)** ve Allah’a yeminlerinin var gücüyle yemin ettiler	 (savaşa) çıkacaklarına eğer onlara emredersen de ki yemin etmeyin itaatiniz malumdur şüphesiz Allah yaptıklarınız şeylerden haberdardır
 **(54)** de ki Allah’a ita’at edin ve Rasule ita’at edin eğer dönerseniz artık ancak onun sorumluluğu, kendisine yükletilen şeydir ve sizin sorumluluğunuz size yükletilen şeydir ve eğer ona ita’at ederseniz doğru yolu bulursunuz ve Rasule düşen açık bir şekilde duyurmaktan başka bir şey değildir 
-**(55)**
-**(56)**
+**(55)** sizden inanan(lara) kimselere ve iyi işler yapanlara Allah va’detmiştir onlardan önceki kimseleri hükümran kıldığı gibi yeryüzünde onları hükümran kılacaktır ve kendileri için razı olduğu dinlerini kendilerine sağlamlaştıracaktır ve korkularının ardından (tam) bir güvene onları erdirecektir bana kulluk edecekler bana hiçbir şeyi ortak koşmayacaklar ama kim(ler) bundan sonra inkar ederse işte onlar yoldan çıkanlardır
+**(56)** ve namazı kılın ve zekatı verin ve Elçiye ita’at edin umulur ki merhamet olunursunuz
 **(57)**
 **(58)**
 **(59)**
