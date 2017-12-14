@@ -56,9 +56,9 @@ tag:
 **(44)** Allah gece ve gündüzü çevirir kuşkusuz bunda gözleri olanlar için bir ibret vardır
 **(45)** ve her canlıyı sudan[akıcı olandan] Allah yarattı karnı üzerinde (sürünerek) onlardan kimi yürür ve onlardan kimi iki ayak üstünde yürür ve onlardan kimi dört (ayak) üstünde yürür, Allah ne dilerse, yaratır çünkü Allah her şey üzerine kadirdir
 **(46)** andolsun biz indirdik (gerçekleri) açıklayan ayetler ve Allah dilediği kimseyi doğru yola iletir 
-**(47)** ve Allah’a ve Rasule inandık ve ita’at ettik diyorlar bunun ardından onladan bir grup sonra dönüyor ve bunlar inanmış değillerdir
-**(48)**
-**(49)**
+**(47)** ve Allah’a ve Rasule inandık ve ita’at ettik diyorlar bunun ardından sonra onlardan bir grup dönüyor ve bunlar inanmış değillerdir
+**(48)** aralarında hükmetmesi için Allah’a ve Rasulüne çağırıldıkları zaman onlardan bir grup hemen yüz çevirirler
+**(49)** 
 **(50)**
 **(51)**
 **(52)**
