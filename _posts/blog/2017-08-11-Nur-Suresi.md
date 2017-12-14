@@ -71,7 +71,7 @@ tag:
 **(59)** sizin çocuklarınız erginlik çağına erdikleri zaman kendilerinden önceki kimselerin izin istedikleri gibi izin istesinler Allah size ayetlerini işte böyle açıklıyor ve Allah bilendir hüküm ve hikmet sahibidir
 **(60)** ve (ihtiyar) oturan kadınlardan ki evlenmeye ümidi kalmamıştır süslerini göstermeden dış örtülerini bırakmalarında kendileri için bir günah yoktur ama sakınmaları kendileri için daha hayırlıdır ve Allah işitendir bilendir
 **(61)** kör üzerine bir güçlük yoktur ve topal üzerine bir güçlük yoktur ve hasta üzerine güçlük yoktur ve kendi evlerinizden yemenizde sizin üzerinize (bir güçlük) yoktur yahut babalarınızın evlerinden yahut annelerinizin evlerinden yahut kardeşlerinizin evlerinden yahut kızkardeşlerinizin evlerinden yahut amcalarınızın evlerinden yahut halalarınızın evlerinden yahut dayılarınızın evlerinden yahut teyzelerinizin evlerinden yahut anahtarlarına sahip olduğunuzun yahut arkadaşınızın, toplu olarak yahut ayrı ayrı yemenizde üzerinize bir günah yoktur evlere girdiğiniz zaman Allah tarafından bereketli güzel (bir yaşam) dileğiyle kendinize selam verin işte böyle Allah size ayetleri açıklıyor umulur ki aklınızı kullanırsınız
-**(62)**
+**(62)** şüphesiz mü’minler Allah’a ve Elçisine inanırlar ve ne zaman ki toplumsal bir iş için onunla beraber olurlar ondan izin alıncaya kadar gitmezler şüphesiz senden izin alanlar Allah’a ve Elçisine inananlar işte onlardır bazı işleri için senden izin istedikleri zaman onlardan dilediğin kimseye izin ver ve Allah’tan onlar için mağfiret dile şüphesiz Allah çok bağışlayandır çok esirgeyendir
 **(63)**
 **(64)**
 
