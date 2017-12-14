@@ -58,8 +58,8 @@ tag:
 **(46)** andolsun biz indirdik (gerçekleri) açıklayan ayetler ve Allah dilediği kimseyi doğru yola iletir 
 **(47)** ve Allah’a ve Rasule inandık ve ita’at ettik diyorlar bunun ardından sonra onlardan bir grup dönüyor ve bunlar inanmış değillerdir
 **(48)** aralarında hükmetmesi için Allah’a ve Rasulüne çağırıldıkları zaman onlardan bir grup hemen yüz çevirirler
-**(49)** 
-**(50)**
+**(49)** ve eğer hüküm kendi lehlerine olursa ita’at ederek ona gelirler 
+**(50)** kalblerinde bir hastalık mı var? yoksa Allah’ın kendilerine ve Elçisi(nin) haksızlık yapacak diye şühpe mi ettiler? yoksa korkuyorlar mı? hayır işte onlar zalimlerdir
 **(51)**
 **(52)**
 **(53)**
