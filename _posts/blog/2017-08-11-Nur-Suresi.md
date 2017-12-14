@@ -62,8 +62,8 @@ tag:
 **(50)** kalblerinde bir hastalık mı var? yoksa Allah’ın kendilerine ve Elçisi(nin) haksızlık yapacak diye şühpe mi ettiler? yoksa korkuyorlar mı? hayır işte onlar zalimlerdir
 **(51)** ancak aralarında hükmetmesi için Allah’a ve Rasulüne çağırıldıkları zaman inananların sözü işittik ve ita’at ettik demeleridir işte kurtuluşa erenler onlardır 
 **(52)** ve kim(ler) Allah’a ve Resulüne ita’at ederse ve Allah’tan korkarsa[sevgiden gelen edepli hal] ve sakınırsa[rızayı gaye ve masad edinir] işte kazananlar onlardır
-**(53)**
-**(54)**
+**(53)** ve Allah’a yeminlerinin var gücüyle yemin ettiler	 (savaşa) çıkacaklarına eğer onlara emredersen de ki yemin etmeyin itaatiniz malumdur şüphesiz Allah yaptıklarınız şeylerden haberdardır
+**(54)** de ki Allah’a ita’at edin ve Rasule ita’at edin eğer dönerseniz artık ancak onun sorumluluğu, kendisine yükletilen şeydir ve sizin sorumluluğunuz size yükletilen şeydir ve eğer ona ita’at ederseniz doğru yolu bulursunuz ve Rasule düşen açık bir şekilde duyurmaktan başka bir şey değildir 
 **(55)**
 **(56)**
 **(57)**
