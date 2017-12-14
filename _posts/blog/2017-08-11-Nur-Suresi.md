@@ -55,7 +55,7 @@ tag:
 **(43)** görmedin mi? şüphesiz ki Allah bulutları sürer sonra onların arasını birleştirir sonra birbiri üstüne onları yığar (sıkıştırır)  arasından yağmurun çıktığını sonra görürsün ve gökten orada dağlardan bir dolu indirir onunla dilediğini vurur ve dilediğinden onu öteye çevirir[yöneltir] neredeyse şimşeğinin parıltısı gözleri alır
 **(44)** Allah gece ve gündüzü çevirir kuşkusuz bunda gözleri olanlar için bir ibret vardır
 **(45)** ve her canlıyı sudan[akıcı olandan] Allah yarattı karnı üzerinde (sürünerek) onlardan kimi yürür ve onlardan kimi iki ayak üstünde yürür ve onlardan kimi dört (ayak) üstünde yürür, Allah ne dilerse, yaratır çünkü Allah her şey üzerine kadirdir
-**(46)**
+**(46)** andolsun biz indirdik (gerçekleri) açıklayan ayetler ve Allah dilediği kimseyi doğru yola iletir 
 **(47)**
 **(48)**
 **(49)**
