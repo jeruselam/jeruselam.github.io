@@ -60,8 +60,8 @@ tag:
 **(48)** aralarında hükmetmesi için Allah’a ve Rasulüne çağırıldıkları zaman onlardan bir grup hemen yüz çevirirler
 **(49)** ve eğer hüküm kendi lehlerine olursa ita’at ederek ona gelirler 
 **(50)** kalblerinde bir hastalık mı var? yoksa Allah’ın kendilerine ve Elçisi(nin) haksızlık yapacak diye şühpe mi ettiler? yoksa korkuyorlar mı? hayır işte onlar zalimlerdir
-**(51)**
-**(52)**
+**(51)** ancak aralarında hükmetmesi için Allah’a ve Rasulüne çağırıldıkları zaman inananların sözü işittik ve ita’at ettik demeleridir işte kurtuluşa erenler onlardır 
+**(52)** ve kim(ler) Allah’a ve Resulüne ita’at ederse ve Allah’tan korkarsa[sevgiden gelen edepli hal] ve sakınırsa[rızayı gaye ve masad edinir] işte kazananlar onlardır
 **(53)**
 **(54)**
 **(55)**
