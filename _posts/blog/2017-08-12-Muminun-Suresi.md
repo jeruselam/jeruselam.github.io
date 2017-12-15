@@ -3,15 +3,15 @@ layout: page
 title: Mu'minûn
 description: Emniyete Kavuşan inanan. Korkulardan Emniyet veren Allah'ın(cc.) emirlerine ve kanunlarına iman eden.
 excerpt: "23'ncü Sûre"
-modified: 2017-09-29T17:50:00.564948 17:00
+modified: 2017-12-29T17:50:00.564948 17:00
 tag: 
  - Mu'minûn
 ---
 
 ## 23. Mu'minûn Sûresi
 
-**(1)** 
-**(2)** 
+**(1)** andolsun mü’minler felaha[rahat] ulaştı
+**(2)** ki onlar namazlarında saygılıdırlar
 **(3)** 
 **(4)** 
 **(5)** 
