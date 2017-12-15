@@ -85,7 +85,7 @@ tag:
 **(73)** ve şüphesiz sen doğru bir yola onları çağırıyorsun
 **(74)** ve kuşkusuz ahirete inanmayan(lar) kimseler yoldan sapıyorlar
 **(75)** ve eğer biz onlara acısaydık sıkıntıdan kendilerinde olanı kaldırsaydık azgınlıklarında bocalamaya yine devam ederlerdi
-**(76)**
+**(76)** 
 **(77)**
 **(78)**
 **(79)**
