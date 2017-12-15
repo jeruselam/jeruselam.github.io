@@ -24,11 +24,11 @@ tag:
 **(12)** ve andolsun çamurun[balçık,meni] süzmesinden insanı biz yarattık 
 **(13)** sonra sağlam bir karar yerine bir nutfe (sperm[hücre]) olarak onu koyduk
 **(14)** nutfeyi alaka(embriyo)ya sonra çevirdik, alaka(embriyo)yı bir çiğnemlik ete sonra çevirdik, bir çiğnemlik eti kemiklere sonra çevirdik, kemiklere et sonra giydirdik, bambaşka bir yaratık sonra onu yaptık, yaratanların en güzeli Allah ne yücedir 
-**(15)**
-**(16)**
-**(17)**
-**(18)**
-**(19)**
+**(15)** sonra şüphesiz siz bunun ardından öleceksiniz
+**(16)** sonra muhakkak siz kıyamet günü diriltileceksiniz
+**(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil biz değiliz 
+**(18)** ve gökten belli ölçüde su indirdik ve yerde onu durdurduk elbette biz onu gidermeğe[bir yola saptırmak] de kadiriz
+**(19)** sizin için hurma ve üzüm bahçeleri içlerinde bulunan birçok meyvalar size onunla (suyla) sonra yetiştirdik ve onlardan yiyorsunuz
 **(20)**
 **(21)**
 **(22)**
