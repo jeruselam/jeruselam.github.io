@@ -62,29 +62,29 @@ tag:
 **(50)** ve Meryem oğlunu ve annesini bir mu’cize kıldık ve oturmaya uygun ve suyu bulunan bir tepeye onları yerleştirdik
 **(51)** ey elçiler güzel şeylerden yeyin ve yararlı iş yapın çünkü ben yaptıklarınız şeyleri bilmekteyim
 **(52)** ve şüphesiz bu sizin ümmetiniz bir tek ümmettir ve ben de sizin Rabbinizim benden korkun
-**(53)**
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
-**(72)**
-**(73)**
-**(74)**
-**(75)**
+**(53)** fakat işlerini aralarında Kitaplara[mektuplara] parçalayıp ayırdılar her gurup kendi yanında bulunanla sevinmektedir
+**(54)** bir süreye kadar gafletleri içinde onları bırak 
+**(55)** kendilerine verdiğimiz mal ve oğullar ile onlar sanıyorlar mı? 
+**(56)** onların iyiliklerine koşuyoruz bilakis onlar farkında değiller
+**(57)** şüphesiz onlar ki onlar Rablerine saygıdan titrerler
+**(58)** ve onlar ki onlar Rablerinin ayetlerine inanırlar
+**(59)** ve onlar ki onlar Rablerine ortak koşmazlar
+**(60)** ve onlar ki kalbleri ürpererek verdikleri şeyi verirler şüphesiz onlar Rablerinin huzuruna dönecekler
+**(61)** işte onlar hayır işlerine koşarlar ve onlar (hayır) için önde giderler
+**(62)** ve gücünün yetiğinden başkasını hiç kimseye biz teklif etmeyiz ve gerçeği söyleyen bir Kitap katımızda vardır ve onlara asla haksızlık edilmez
+**(63)** fakat onların kalbleri bundan gaflet içindedir bundan başka onların işleri vardır ki onlar (hep) o (işler) için çalışırlar
+**(64)** nihayet azab ile varlıklılarını yakaladığımız zaman hemen onlar feryada başlarlar
+**(65)** bugün artık feryadetmeyin şüphesiz size bize karşı yardım olunmaz
+**(66)** gerçekten size ayetlerim okunuyor idi fakat siz arkanız üzere dönüyordunuz 
+**(67)** ona (ayetlerime) karşı kibirlenerek geceleyin saçmalıyordunuz
+**(68)** o sözü (Kur’an’ı) onlar iyice düşünmediler mi? önceki atalarına gelmeyen bir şey yoksa onlara geldi (mi)?
+**(69)** yoksa elçilerini tanımadıkları (için mi?) onlar onu inkar ediyorlar
+**(70)** yoksa onda bir delilik var (-mı) diyorlar? hayır hakkı o kendilerine getirdi fakat çokları haktan hoşlanmıyorlar
+**(71)** ve eğer hak onların keyiflerine uysaydı gökler ve yer ve bunların içinde bulunan kimseler bozulur giderdi bilakis Zikir’lerini biz onlara getirdik fakat onlar Zikirlerinden yüz çeviriyorlar
+**(72)** Rabbinin vergisi bir vergi yoksa onlardan istiyor musun? ve O rızık verenlerin en hayırlısıdır 
+**(73)** ve şüphesiz sen doğru bir yola onları çağırıyorsun
+**(74)** ve kuşkusuz ahirete inanmayan(lar) kimseler yoldan sapıyorlar
+**(75)** ve eğer biz onlara acısaydık sıkıntıdan kendilerinde olanı kaldırsaydık azgınlıklarında bocalamaya yine devam ederlerdi
 **(76)**
 **(77)**
 **(78)**
