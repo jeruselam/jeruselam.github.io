@@ -42,26 +42,26 @@ tag:
 **(30)** şüphesiz bunda nice ibretler vardır gerçi biz (onları) sınıyorduk
 **(31)** sonra onların ardından başka bir nesil yetiştirdik 
 **(32)** ve onlara kendi içlerinden bir elçi gönderdik Allah’a kulluk edin diye O’ndan başka sizin için hiçbir ilah yoktur korunmaz mısınız?
-**(33)**
-**(34)**
-**(35)**
-**(36)**
-**(37)**
-**(38)**
-**(39)**
-**(40)**
-**(41)**
-**(42)**
-**(43)**
-**(44)**
-**(45)**
-**(46)**
-**(47)**
-**(48)**
-**(49)**
-**(50)**
-**(51)**
-**(52)**
+**(33)** ve inkar edenler kavminden ileri gelenler ve ahiret buluşmasını yalanlayanlar ve dünya hayatında kendilerine refah verdiklerimiz dedi ki sizin gibi bir insandan başka bir şey değildir bu ondan sizin yediğinizden yiyor ve sizin içtiğinizden içiyor 
+**(34)** ve eğer sizin gibi bir insana ita’at ederseniz gerçekten siz o takdirde mutlaka ziyana uğrayanlarsınız
+**(35)** siz öldüğünüz ve toprak ve kemik olduğunuz zaman sizin (yeniden hayata) çıkarılacağınızı O size va’dediyor mu?
+**(36)** heyhat (ne kadar uzak) heyhat (ne kadar uzak) size va’dedilen şey
+**(37)** dünya hayatımız(dan) başka bir şey değildir bu ölürüz ve yaşarız ve biz tekrar diriltilecek değiliz
+**(38)** Allah hakkında yalan uyduran bir adam(dan) başka bir şey değildir O ve biz ona inanıcı(insan)lar değiliz 
+**(39)** Rabbim dedi beni yalanlamaları karşısında bana yardım et 
+**(40)** (Allah) dedi ki az sonra onlar pişman olacaklar
+**(41)** gerçekten o korkunç ses derken onları yakaladı ve sel süprüntüsü haline onları getirdik o zalim kavim uzak olsun
+**(42)** sonra onların ardından başka nesiller yetiştirdik 
+**(43)** hiçbir ümmet süresinden ileri geçemez ve geri kalamaz
+**(44)** sonra ardı ardına elçilerimizi gönderdik, elçileri bir ümmete ne zaman geldiyse onlar birbiri ardınca onu yalanladılar birbiri ardınca biz de onları devirdik ve hepsini birer ibret hikayesi yaptık inanmayan toplum uzak olsun 
+**(45)** sonra Musa’yı ve kardeşi Harun’u ayetlerimizle ve apaçık bir delille gönderdik
+**(46)** Fir’avn’e ve ileri gelen adamlarına, onlar büyüklük tasladılar ve böbürlenen bir topluluk oldular
+**(47)** iki adamın kavmi bize kölelik ederken bizim gibi şu iki insana inanacak mıyız? dediler 
+**(48)** onları yalanladılar ve helak edilenlerden oldular
+**(49)** ve andolsun Musa’ya Kitabı (Tevrat’ı) biz verdik belki onlar doğru yolu bulurlar diye
+**(50)** ve Meryem oğlunu ve annesini bir mu’cize kıldık ve oturmaya uygun ve suyu bulunan bir tepeye onları yerleştirdik
+**(51)** ey elçiler güzel şeylerden yeyin ve yararlı iş yapın çünkü ben yaptıklarınız şeyleri bilmekteyim
+**(52)** ve şüphesiz bu sizin ümmetiniz bir tek ümmettir ve ben de sizin Rabbinizim benden korkun
 **(53)**
 **(54)**
 **(55)**
