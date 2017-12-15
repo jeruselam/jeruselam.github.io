@@ -39,9 +39,9 @@ tag:
 **(27)** biz de vahyettik ona ki gözlerimizin önünde ve vahyimizle gemiyi yap ne zaman ki bizim buyruğumuz gelince ve tandır kaynayınca ona her (cins)ten iki çift ve onlar içinde söz alehylerine geçmiş kimseler hariç aileni sok (bindir) ve zulmeden(ler) kimseler hakkında bana yalvarma onlar mutlaka boğulacaklardır
 **(28)** gemi üzerine sen ve yanındaki kimseler yerleştiğiniz zaman de ki zalim kavimden bizi kurtaran Allah’a hamdolsun 
 **(29)** ve de ki Rabbim mübarek bir inişle beni indir ve sen konuklayanların en hayırlısısın
-**(30)**
-**(31)**
-**(32)**
+**(30)** şüphesiz bunda nice ibretler vardır gerçi biz (onları) sınıyorduk
+**(31)** sonra onların ardından başka bir nesil yetiştirdik 
+**(32)** ve onlara kendi içlerinden bir elçi gönderdik Allah’a kulluk edin diye O’ndan başka sizin için hiçbir ilah yoktur korunmaz mısınız?
 **(33)**
 **(34)**
 **(35)**
