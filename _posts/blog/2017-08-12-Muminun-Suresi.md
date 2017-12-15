@@ -28,17 +28,17 @@ tag:
 **(16)** sonra muhakkak siz kıyamet günü diriltileceksiniz
 **(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil biz değiliz 
 **(18)** ve gökten belli ölçüde su indirdik ve yerde onu durdurduk elbette biz onu gidermeğe[bir yola saptırmak] de kadiriz
-**(19)** sizin için hurma ve üzüm bahçeleri içlerinde bulunan birçok meyvalar size onunla (suyla) sonra yetiştirdik ve onlardan yiyorsunuz
-**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten Tur-i Sinâdan çıkan bir ağaç
-**(21)**
-**(22)**
-**(23)**
-**(24)**
-**(25)**
-**(26)**
-**(27)**
-**(28)**
-**(29)**
+**(19)** sonra sizin için hurma ve üzüm bahçeleri içlerinde bulunan birçok meyvalar size onunla (suyla) yetiştirdik ve onlardan yiyorsunuz
+**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten Tur-i Sinâdan[dağ eteği] çıkan bir ağaç
+**(21)** ve şüphesiz hayvanlarda ibret, sizin için vardır karınlarının içindekinden size içiriyoruz ve sizin için daha birçok faydalar, onlarda vardır ve onlardan yersiniz
+**(22)** ve onların üzerinde ve gemiler üzerinde taşınırsınız
+**(23)** ve andolsun Nuh’u kavmine biz gönderdik kavmim dedi Allah’a kulluk edin sizin için O’ndan başka hiçbir ilah yoktur korunmaz mısınız?
+**(24)** kavminden inkar eden kimselerden ileri gelenler (şöyle) dedi bu sizin gibi bir insandan başka bir şey değildir size üstün gelmek istiyor ve eğer Allah dileseydi melekleri elbette indirirdi geçmişteki babalarımızdan işitiğimiz böyle bir şey yoktur
+**(25)** kendisinde delilik bulunan bir adam(dan) başka bir şey  değildir O bir süreye kadar hele gözetleyin onu
+**(26)** (Nuh) dedi ki yalanlamaları karşısında Rabbim bana yardım et
+**(27)** biz de vahyettik ona ki gözlerimizin önünde ve vahyimizle gemiyi yap ne zaman ki bizim buyruğumuz gelince ve tandır kaynayınca ona her (cins)ten iki çift ve onlar içinde söz alehylerine geçmiş kimseler hariç aileni sok (bindir) ve zulmeden(ler) kimseler hakkında bana yalvarma onlar mutlaka boğulacaklardır
+**(28)** gemi üzerine sen ve yanındaki kimseler yerleştiğiniz zaman de ki zalim kavimden bizi kurtaran Allah’a hamdolsun 
+**(29)** ve de ki Rabbim mübarek bir inişle beni indir ve sen konuklayanların en hayırlısısın
 **(30)**
 **(31)**
 **(32)**
