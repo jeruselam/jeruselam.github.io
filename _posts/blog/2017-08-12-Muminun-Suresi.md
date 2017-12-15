@@ -13,9 +13,9 @@ tag:
 **(1)** andolsun mü’minler felaha[rahat] ulaştı
 **(2)** ki onlar namazlarında saygılıdırlar
 **(3)** ve onlar boş şeylerden[faydasız çirkin söz, hata etmek] yüz çevirirler
-**(4)** 
-**(5)** 
-**(6)**
+**(4)** ve onlar zekatı verirler
+**(5)** ve onlar ırzlarını korurlar
+**(6)** ancak hariç eşleri yahut ellerinin sahip oldukları (kadın hizmetli) elbette[nikah ile] onlar kınanacak değildir
 **(7)**
 **(8)**
 **(9)**
