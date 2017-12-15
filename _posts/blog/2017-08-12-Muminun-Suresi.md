@@ -16,13 +16,13 @@ tag:
 **(4)** ve onlar zekatı verirler
 **(5)** ve onlar ırzlarını korurlar
 **(6)** ancak hariç eşleri yahut ellerinin sahip oldukları (kadın hizmetli) elbette[nikah ile] onlar kınanacak değildir
-**(7)**
-**(8)**
-**(9)**
-**(10)**
-**(11)**
-**(12)**
-**(13)**
+**(7)** o halde kim bunun ötesine[başka tarafa] gitmek isterse işte onlar haddi aşanlardır
+**(8)** ve onlar emanetlerine ve ahidlerine özen gösterirler
+**(9)** ve onlar namazlarını korurlar
+**(10)** varis olacaklar işte onlardır
+**(11)** onlar ki Firdevs’e varis olacaklar onlar orada ebedi kalacaklardır
+**(12)** ve andolsun çamurun[balçık,meni] süzmesinden insanı biz yarattık 
+**(13)** sonra sağlam bir karar yerine bir nutfe (sperm[hücre]) olarak onu koyduk
 **(14)**
 **(15)**
 **(16)**
