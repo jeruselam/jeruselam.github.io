@@ -29,7 +29,7 @@ tag:
 **(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil biz değiliz 
 **(18)** ve gökten belli ölçüde su indirdik ve yerde onu durdurduk elbette biz onu gidermeğe[bir yola saptırmak] de kadiriz
 **(19)** sizin için hurma ve üzüm bahçeleri içlerinde bulunan birçok meyvalar size onunla (suyla) sonra yetiştirdik ve onlardan yiyorsunuz
-**(20)**
+**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten Tur-i Sinâdan çıkan bir ağaç
 **(21)**
 **(22)**
 **(23)**
