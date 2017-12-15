@@ -23,7 +23,7 @@ tag:
 **(11)** onlar ki Firdevs’e varis olacaklar onlar orada ebedi kalacaklardır
 **(12)** ve andolsun çamurun[balçık,meni] süzmesinden insanı biz yarattık 
 **(13)** sonra sağlam bir karar yerine bir nutfe (sperm[hücre]) olarak onu koyduk
-**(14)** sonra çevirdik nutfeyi alaka(embriyo)ya, sonra çevirdik alaka(embriyo)yı bir çiğnemlik ete, sonra çevirdik bir çiğnemlik eti kemiklere, sonra giydirdik kemiklere et, sonra onu yaptık bambaşka bir yaratık, yaratanların en güzeli Allah ne yücedir 
+**(14)** nutfeyi alaka(embriyo)ya sonra çevirdik, alaka(embriyo)yı bir çiğnemlik ete sonra çevirdik, bir çiğnemlik eti kemiklere sonra çevirdik, kemiklere et sonra giydirdik, bambaşka bir yaratık sonra onu yaptık, yaratanların en güzeli Allah ne yücedir 
 **(15)**
 **(16)**
 **(17)**
