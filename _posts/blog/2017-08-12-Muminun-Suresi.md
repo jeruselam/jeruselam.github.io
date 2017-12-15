@@ -12,7 +12,7 @@ tag:
 
 **(1)** andolsun mü’minler felaha[rahat] ulaştı
 **(2)** ki onlar namazlarında saygılıdırlar
-**(3)** 
+**(3)** ve onlar boş şeylerden[faydasız çirkin söz, hata etmek] yüz çevirirler
 **(4)** 
 **(5)** 
 **(6)**
