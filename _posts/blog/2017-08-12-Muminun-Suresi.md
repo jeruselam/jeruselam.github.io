@@ -33,10 +33,10 @@ tag:
 **(21)** ve şüphesiz hayvanlarda ibret, sizin için vardır karınlarının içindekinden size içiriyoruz ve sizin için daha birçok faydalar, onlarda vardır ve onlardan yersiniz
 **(22)** ve onların üzerinde ve gemiler üzerinde taşınırsınız
 **(23)** ve andolsun Nuh’u kavmine biz gönderdik kavmim dedi Allah’a kulluk edin sizin için O’ndan başka hiçbir ilah yoktur korunmaz mısınız?
-**(24)** kavminden inkar eden kimselerden ileri gelenler (şöyle) dedi bu sizin gibi bir insandan başka bir şey değildir size üstün gelmek istiyor ve eğer Allah dileseydi melekleri elbette indirirdi geçmişteki babalarımızdan işitiğimiz böyle bir şey yoktur
+**(24)** kavminden inkar eden kimselerden ileri gelenler (şöyle) dedi bu sizin gibi bir insandan başka bir şey değildir size üstün gelmek istiyor ve eğer Allah dileseydi melekleri elbette indirirdi geçmişteki babalarımızdan işittiğimiz böyle bir şey yoktur
 **(25)** kendisinde delilik bulunan bir adam(dan) başka bir şey  değildir O bir süreye kadar hele gözetleyin onu
 **(26)** (Nuh) dedi ki yalanlamaları karşısında Rabbim bana yardım et
-**(27)** biz de vahyettik ona ki gözlerimizin önünde ve vahyimizle gemiyi yap ne zaman ki bizim buyruğumuz gelince ve tandır kaynayınca ona her (cins)ten iki çift ve onlar içinde söz alehylerine geçmiş kimseler hariç aileni sok (bindir) ve zulmeden(ler) kimseler hakkında bana yalvarma onlar mutlaka boğulacaklardır
+**(27)** biz de vahyettik ona ki gözlerimizin önünde ve vahyimizle gemiyi yap ne zaman ki bizim buyruğumuz gelince ve tandır kaynayınca ona her (cins)ten iki çift ve onlar içinde söz aleyhlerine geçmiş kimseler hariç aileni sok (bindir) ve zulmeden(ler) kimseler hakkında bana yalvarma onlar mutlaka boğulacaklardır
 **(28)** gemi üzerine sen ve yanındaki kimseler yerleştiğiniz zaman de ki zalim kavimden bizi kurtaran Allah’a hamdolsun 
 **(29)** ve de ki Rabbim mübarek bir inişle beni indir ve sen konuklayanların en hayırlısısın
 **(30)** şüphesiz bunda nice ibretler vardır gerçi biz (onları) sınıyorduk
@@ -71,7 +71,7 @@ tag:
 **(59)** ve onlar ki onlar Rablerine ortak koşmazlar
 **(60)** ve onlar ki kalbleri ürpererek verdikleri şeyi verirler şüphesiz onlar Rablerinin huzuruna dönecekler
 **(61)** işte onlar hayır işlerine koşarlar ve onlar (hayır) için önde giderler
-**(62)** ve gücünün yetiğinden başkasını hiç kimseye biz teklif etmeyiz ve gerçeği söyleyen bir Kitap katımızda vardır ve onlara asla haksızlık edilmez
+**(62)** ve gücünün yettiğinden başkasını hiç kimseye biz teklif etmeyiz ve gerçeği söyleyen bir Kitap katımızda vardır ve onlara asla haksızlık edilmez
 **(63)** fakat onların kalbleri bundan gaflet içindedir bundan başka onların işleri vardır ki onlar (hep) o (işler) için çalışırlar
 **(64)** nihayet azab ile varlıklılarını yakaladığımız zaman hemen onlar feryada başlarlar
 **(65)** bugün artık feryadetmeyin şüphesiz size bize karşı yardım olunmaz
