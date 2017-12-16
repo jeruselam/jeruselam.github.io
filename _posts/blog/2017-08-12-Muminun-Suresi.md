@@ -94,22 +94,22 @@ tag:
 **(82)** dediler ki öldüğümüz ve toprak ve kemik olduğumuz zaman mı? biz mi? diriltileceğiz
 **(83)** andolsun bu (tehdid) bizden önce bize ve atalarımıza yapıldı bu evvelkilerin masallarından başka bir şey değildir
 **(84)** de ki dünya ve içinde bulunanlar kimindir? eğer biliyor iseniz
-**(85)** 
-**(86)**
-**(87)**
-**(88)**
-**(89)**
-**(90)**
-**(91)** 
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)**
-**(97)**
-**(98)**
-**(99)**
-**(100)**
+**(85)** Allah’ındır diyecekler de ki düşünmüyor musunuz?
+**(86)** de ki yedi göğün Rabbi ve büyük Arş’ın Rabbi kimdir? 
+**(87)** Allah’ındır diyecekler de ki korkmuyor musunuz?
+**(88)** de ki her şeyin melekutu (mülkü ve yönetimi) elinde olan ve O koruyup kollayan fakat kendisi korunup kollanmayan kimdir? eğer biliyor iseniz
+**(89)** Allah’a aittir diyecekler de ki nasıl? büyüleniyorsunuz
+**(90)** doğrusu hakkı biz onlara getirdik onlarsa yalancıdırlar
+**(91)** Allah hiçbir çocuk edinmemiştir ve O’nunla beraber hiçbir tanrı yoktur öyle olsaydı her tanrı kendi yarattığını götürürdü ve onlardan biri diğeri üzerine üstün gelmeğe çalışırdı onların tanımlamalarından Allah münezehtir (uzaktır) 
+**(92)** görünmeyeni ve görüneni (O) bilir ve onların ortak koştukları şeylerden yücedir
+**(93)** de ki Rabbim onların tehdidedildikleri şeyi eğer mutlaka bana göstereceksen
+**(94)** Rabbim zalim kavmin içinde beni bırakma
+**(95)** şüphesiz biz onları tehdidettiğimiz şeyi sana göstermeğe elbette kadiriz
+**(96)** o en güzel şeyle kötülüğü savuştur (seni) nasıl vasıflandıracaklarını biz biliyoruz
+**(97)** ve de ki şeytanların kışkırtmalarından Rabbim sana sığınırım
+**(98)** ve yanıma uğramalarından Rabbim sana sığınırım
+**(99)** nihayet ölüm onlardan birine geldiği zaman der ki Rabbim beni geri döndür
+**(100)** böylelikle terk ettiğim yerde (dünyada) yararlı bir iş yapayım hayır şüphesiz bu onun söylediği bir sözdür o ve diriltilecekleri güne kadar bir berzah önlerinde vardır
 **(101)** 
 **(102)** 
 **(103)** 
