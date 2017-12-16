@@ -85,15 +85,15 @@ tag:
 **(73)** ve şüphesiz sen doğru bir yola onları çağırıyorsun
 **(74)** ve kuşkusuz ahirete inanmayan(lar) kimseler yoldan sapıyorlar
 **(75)** ve eğer biz onlara acısaydık sıkıntıdan kendilerinde olanı kaldırsaydık azgınlıklarında bocalamaya yine devam ederlerdi
-**(76)** 
-**(77)**
-**(78)**
-**(79)**
-**(80)**
-**(81)**
-**(82)**
-**(83)**
-**(84)** 
+**(76)** andolsun azab ile biz onları yakaladık ama yine Rabblerine boyun eğmediler ve O’na yalvarmıyorlar
+**(77)** nihayet şiddetli bir azab kapısı üzerlerine açtığımız zaman derhal onlar O’nun içinde şaşkın ve umutsuz kalırlar
+**(78)** ve kulağı ve gözleri ve gönülleri sizin için inşa eden[yaratan] O’dur ne kadar az şükrediyorsunuz
+**(79)** ve yeryüzünde sizi yaratıp yayan O’dur ve O’nun (huzurunda) toplanacaksınız
+**(80)** ve yaşatan ve öldüren O’dur ve gecenin ve gündüzün değişmesi O’nun(eseri)dir aklınızı kullanmıyor musunuz?
+**(81)** hayır evvelkiler gibi ne dedi (ise) onlar da dediler
+**(82)** dediler ki öldüğümüz ve toprak ve kemik olduğumuz zaman mı? biz mi? diriltileceğiz
+**(83)** andolsun bu (tehdid) bizden önce bize ve atalarımıza yapıldı bu evvelkilerin masallarından başka bir şey değildir
+**(84)** de ki dünya ve içinde bulunanlar kimindir? eğer biliyor iseniz
 **(85)** 
 **(86)**
 **(87)**
