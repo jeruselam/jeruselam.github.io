@@ -1,0 +1,31 @@
+
+Initial setup guidelines include preparing the system and executing commands.
+
+sudo eopkg it -c sytem.devel & git & ruby & ruby-devel
+
+
+It contains the commands to be executed for jekyll installation.
+
+sudo gem install jekyll
+
+
+Includes commands to execute while in the project directory: demir@demir ~/jeruselam.github.io $ 
+
+sudo gem install jekyll bundler or gem install bundler
+
+bundle update or bundle update jekyll
+
+
+bundle exec jekyll build
+bundle install
+gem update jekyll
+
+git add -A
+git commit -m "1091"
+
+git config --global user.email "vdemir@gmail.com"
+git config --global user.name "Vedat Demir"
+
+git push origin master
+git config credential.helper 'cache --timeout=19600'
+
