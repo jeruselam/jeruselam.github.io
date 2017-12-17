@@ -125,8 +125,8 @@ tag:
 **(113)** bir gün yahut günün bir kısmı kadar kaldık sayanlara sor dediler
 **(114)** buyurdu ki az bir (zamandan) başka kalmadınız mi sandınız? keşke siz bilseydiniz
 **(115)** bizim boş yere sizi yarattığımızı ve sizin bize asla döndürülmeyeceğinizi
-**(116)** Hakk mutlak hakim[Melik] Allah pek yücedir O’ndan başka tanrı yoktur Kerim Arş’ın rabbidir
-**(117)**
-**(118)**
+**(116)** Hakk mutlak hakim[Melik] Allah pek yücedir O’ndan başka tanrı yoktur Arş’ın Kerim Rabbidir
+**(117)** ve onun hakkında hiçbir delil bulunmayan başka bir tanrıya Allah ile beraber kim taparsa şüphesiz onun hesabı Rabbinin yanındadır çünkü (o) kafirler asla iflah olmazlar
+**(118)** ve de ki Rabbim bağışla ve acı ve sen acıyanların en hayırlısısın
 
 ![23M-Mekkî]({{site.url}}/images/ayrac-muhur.png)
