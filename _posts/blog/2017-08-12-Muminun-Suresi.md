@@ -92,7 +92,7 @@ tag:
 **(80)** ve yaşatan ve öldüren O’dur ve gecenin ve gündüzün değişmesi O’nun(eseri)dir aklınızı kullanmıyor musunuz?
 **(81)** hayır evvelkiler gibi ne dedi (ise) onlar da dediler
 **(82)** dediler ki öldüğümüz ve toprak ve kemik olduğumuz zaman mı? biz mi? diriltileceğiz
-**(83)** andolsun bu (tehdid) bizden önce bize ve atalarımıza yapıldı bu evvelkilerin masallarından başka bir şey değildir
+**(83)** andolsun bize ve bizden önce bu (tehdit) atalarımıza yapıldı bu evvelkilerin masallarından başka bir şey değildir
 **(84)** de ki dünya ve içinde bulunanlar kimindir? eğer biliyor iseniz
 **(85)** Allah’ındır diyecekler de ki düşünmüyor musunuz?
 **(86)** de ki yedi göğün Rabbi ve büyük Arş’ın Rabbi kimdir? 
@@ -100,7 +100,7 @@ tag:
 **(88)** de ki her şeyin melekutu (mülkü ve yönetimi) elinde olan ve O koruyup kollayan fakat kendisi korunup kollanmayan kimdir? eğer biliyor iseniz
 **(89)** Allah’a aittir diyecekler de ki nasıl? büyüleniyorsunuz
 **(90)** doğrusu hakkı biz onlara getirdik onlarsa yalancıdırlar
-**(91)** Allah hiçbir çocuk edinmemiştir ve O’nunla beraber hiçbir tanrı yoktur öyle olsaydı her tanrı kendi yarattığını götürürdü ve onlardan biri diğeri üzerine üstün gelmeğe çalışırdı onların tanımlamalarından Allah münezehtir (uzaktır) 
+**(91)** Allah hiçbir çocuk edinmemiştir ve O’nunla beraber hiçbir tanrı yoktur öyle olsaydı her tanrı kendi yarattığını götürürdü ve onlardan biri diğeri üzerine üstün gelmeğe çalışırdı onların tanımlamalarından Allah münezzehtir (uzaktır) 
 **(92)** görünmeyeni ve görüneni (O) bilir ve onların ortak koştukları şeylerden yücedir
 **(93)** de ki Rabbim onların tehdidedildikleri şeyi eğer mutlaka bana göstereceksen
 **(94)** Rabbim zalim kavmin içinde beni bırakma
@@ -110,15 +110,15 @@ tag:
 **(98)** ve yanıma uğramalarından Rabbim sana sığınırım
 **(99)** nihayet ölüm onlardan birine geldiği zaman der ki Rabbim beni geri döndür
 **(100)** böylelikle terk ettiğim yerde (dünyada) yararlı bir iş yapayım hayır şüphesiz bu onun söylediği bir sözdür o ve diriltilecekleri güne kadar önlerinde bir berzah vardır
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
-**(106)**
-**(107)**
-**(108)**
-**(109)**
+**(101)** Sur’a üflendiği zaman o gün aralarında soylar artık yoktur ve sormazlar
+**(102)** kimlerin tartıları ağır gelirse işte onlar kurtuluşa erenlerdir
+**(103)** ve kimlerin tartıları hafif gelirse işte onlar kendilerini ziyana sokan(lar) kimselerdir cehennemde sürekli kalanlardır
+**(104)** ateş yüzlerini yalar ve (ateşin) içinde onların dişleri açıkta kalır
+**(105)** ayetlerim okunurdu size değil mi? oysa siz onları yalanlardınız
+**(106)** Rabbimiz dediler bahtsızlığımız bizi yendi ve sapık bir topluluk, biz olduk 
+**(107)** Rabbimiz bundan bizi çıkar eğer bir daha dönersek artık biz gerçekten zalimleriz
+**(108)** buyurdu ki orada sinin ve bana bir şey söylemeyin
+**(109)** gerçek şu ki kullarımdan bir zümre, Rabbimiz inandık bizi bağışla ve bize acı ve sen acıyanların en hayırlısısın diyorlar idi
 **(110)**
 **(111)**
 **(112)**
