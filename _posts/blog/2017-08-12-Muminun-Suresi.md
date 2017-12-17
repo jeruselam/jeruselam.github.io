@@ -23,16 +23,16 @@ tag:
 **(11)** onlar ki Firdevs’e varis olacaklar onlar orada ebedi kalacaklardır
 **(12)** ve andolsun çamurun[balçık,meni] süzmesinden insanı biz yarattık 
 **(13)** sonra sağlam bir karar yerine bir nutfe (sperm[hücre]) olarak onu koyduk
-**(14)** nutfeyi alaka(embriyo)ya sonra çevirdik, alaka(embriyo)yı bir çiğnemlik ete sonra çevirdik, bir çiğnemlik eti kemiklere sonra çevirdik, kemiklere et sonra giydirdik, bambaşka bir yaratık sonra onu yaptık, yaratanların en güzeli Allah ne yücedir 
+**(14)** sonra nutfeyi alaka(embriyo)ya çevirdik, sonra alaka(embriyo)yı bir çiğnemlik ete çevirdik, sonra bir çiğnemlik eti kemiklere çevirdik, sonra kemiklere et giydirdik, sonra onu bambaşka bir yaratık yaptık, yaratanların en güzeli Allah ne yücedir 
 **(15)** sonra şüphesiz siz bunun ardından öleceksiniz
 **(16)** sonra muhakkak siz kıyamet günü diriltileceksiniz
-**(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil biz değiliz 
+**(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil, biz değiliz 
 **(18)** ve gökten belli ölçüde su indirdik ve yerde onu durdurduk elbette biz onu gidermeğe[bir yola saptırmak] de kadiriz
-**(19)** sonra sizin için hurma ve üzüm bahçeleri içlerinde bulunan birçok meyvalar size onunla (suyla) yetiştirdik ve onlardan yiyorsunuz
-**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten Tur-i Sinâdan[dağ eteği] çıkan bir ağaç
-**(21)** ve şüphesiz hayvanlarda ibret, sizin için vardır karınlarının içindekinden size içiriyoruz ve sizin için daha birçok faydalar, onlarda vardır ve onlardan yersiniz
+**(19)** sonra sizin için hurma ve üzüm bahçeleri içlerinde bulunan, birçok meyvalar, size onunla (suyla) yetiştirdik ve onlardan yiyorsunuz
+**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten [dağ eteği]Tur-i Sinâdan çıkan bir ağaç
+**(21)** ve şüphesiz hayvanlarda ibret, sizin için vardır karınlarının içindekinden size içiriyoruz ve sizin için daha birçok faydalar onlarda vardır ve onlardan yersiniz
 **(22)** ve onların üzerinde ve gemiler üzerinde taşınırsınız
-**(23)** ve andolsun Nuh’u kavmine biz gönderdik kavmim dedi Allah’a kulluk edin sizin için O’ndan başka hiçbir ilah yoktur korunmaz mısınız?
+**(23)** ve andolsun Nuh’u kavmine, biz gönderdik kavmim dedi Allah’a kulluk edin sizin için O’ndan başka hiçbir ilah yoktur korunmaz mısınız?
 **(24)** kavminden inkar eden kimselerden ileri gelenler (şöyle) dedi bu sizin gibi bir insandan başka bir şey değildir size üstün gelmek istiyor ve eğer Allah dileseydi melekleri elbette indirirdi geçmişteki babalarımızdan işittiğimiz böyle bir şey yoktur
 **(25)** kendisinde delilik bulunan bir adam(dan) başka bir şey  değildir O bir süreye kadar hele gözetleyin onu
 **(26)** (Nuh) dedi ki yalanlamaları karşısında Rabbim bana yardım et
@@ -109,7 +109,7 @@ tag:
 **(97)** ve de ki şeytanların kışkırtmalarından Rabbim sana sığınırım
 **(98)** ve yanıma uğramalarından Rabbim sana sığınırım
 **(99)** nihayet ölüm onlardan birine geldiği zaman der ki Rabbim beni geri döndür
-**(100)** böylelikle terk ettiğim yerde (dünyada) yararlı bir iş yapayım hayır şüphesiz bu onun söylediği bir sözdür o ve diriltilecekleri güne kadar bir berzah önlerinde vardır
+**(100)** böylelikle terk ettiğim yerde (dünyada) yararlı bir iş yapayım hayır şüphesiz bu onun söylediği bir sözdür o ve diriltilecekleri güne kadar önlerinde bir berzah vardır
 **(101)** 
 **(102)** 
 **(103)** 
