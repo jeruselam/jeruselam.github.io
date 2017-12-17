@@ -119,13 +119,13 @@ tag:
 **(107)** Rabbimiz bundan bizi çıkar eğer bir daha dönersek artık biz gerçekten zalimleriz
 **(108)** buyurdu ki orada sinin ve bana bir şey söylemeyin
 **(109)** gerçek şu ki kullarımdan bir zümre, Rabbimiz inandık bizi bağışla ve bize acı ve sen acıyanların en hayırlısısın diyorlar idi
-**(110)**
-**(111)**
-**(112)**
-**(113)**
-**(114)**
-**(115)**
-**(116)**
+**(110)** siz onları alaya aldınız nihayet beni anmayı size unutturdular ve siz onlara daima gülüyordunuz
+**(111)** şüphesiz ben sabretmelerinin karşılığını bugün onlara verdim işte onlardır onlar kurtulup murada erenler
+**(112)** ve yeryüzünde yıllar sayısınca ne kadar? kaldınız buyurdu 
+**(113)** bir gün yahut günün bir kısmı kadar kaldık sayanlara sor dediler
+**(114)** buyurdu ki az bir (zamandan) başka kalmadınız mi sandınız? keşke siz bilseydiniz
+**(115)** bizim boş yere sizi yarattığımızı ve sizin bize asla döndürülmeyeceğinizi
+**(116)** Hakk mutlak hakim[Melik] Allah pek yücedir O’ndan başka tanrı yoktur Kerim Arş’ın rabbidir
 **(117)**
 **(118)**
 
