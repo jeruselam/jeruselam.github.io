@@ -15,10 +15,10 @@ tag:
 **(3)** ve insanlardan kimi bilgisi olmaksızın Allah hakkında tartışır ve her kaba (şarlatan) şeytana uyar 
 **(4)** onun hakkında yazılmıştır şüphesiz o kim onu takibederse muhakkak bu onu şaşırtır ve alevli ateş azabına onu götürür
 **(5)** ey insanlar eğer yeniden dirilmekten kuşku içinde iseniz (bilin ki) biz (önce) topraktan sonra [hücre]nutfe(spermden) sonra alaka(embriyondan) sonra size açıkça göstermek için biçimlenmiş ve biçimlenmemiş bir çiğnem et parçasından sizi yarattık ve belirtilmiş bir süreye kadar dilediğimizi rahimlerde tutarız
-**(6)** bu böyledir çünkü Allah O tek gerçektir ve O ölüleri diriltir ve O her şey üzerine kadirdir
-**(7)**
-**(8)**
-**(9)**
+**(6)** bu böyledir çünkü Allah O tek gerçektir[Hakk] ve O ölüleri diriltir ve O her şey üzerine kadirdir
+**(7)** ve muhakkak o sa’at[Kıyamet] gelecektir onda şüphe yoktur ve şüphesiz Allah kabirlerde olanları diriltecektir
+**(8)** insanlardan kimi bilgisi olmaksızın ve bir yol göstereni olmadan ve aydınlatıcı bir Kitabı olmadan Allah hakkında tartışır 
+**(9)** Allah’ın yolundan şaşırtmak için boynunu öteye döndürür dünyada bir kepazelik onun için vardır ve kıyamet günü yangın[ateş] azabını ona taddıracağız
 **(10)**
 **(11)**
 **(12)**
