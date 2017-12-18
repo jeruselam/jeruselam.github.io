@@ -29,7 +29,7 @@ tag:
 **(17)** ve andolsun üstünüzde yedi tabaka (gök) yarattık ve yaratmaktan gafil, biz değiliz 
 **(18)** ve gökten belli ölçüde su indirdik ve yerde onu durdurduk elbette biz onu gidermeğe[bir yola saptırmak] de kadiriz
 **(19)** sonra sizin için hurma ve üzüm bahçeleri içlerinde bulunan, birçok meyvalar, size onunla (suyla) yetiştirdik ve onlardan yiyorsunuz
-**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten [dağ eteği]Tur-i Sinâdan çıkan bir ağaç
+**(20)** ve yiyenlerin (ekmeklerini) batıracakları yağlı olarak biten [dağ eteği]Tur-i Sinâ'dan çıkan bir ağaç
 **(21)** ve şüphesiz hayvanlarda ibret, sizin için vardır karınlarının içindekinden size içiriyoruz ve sizin için daha birçok faydalar onlarda vardır ve onlardan yersiniz
 **(22)** ve onların üzerinde ve gemiler üzerinde taşınırsınız
 **(23)** ve andolsun Nuh’u kavmine, biz gönderdik kavmim dedi Allah’a kulluk edin sizin için O’ndan başka hiçbir ilah yoktur korunmaz mısınız?
@@ -86,7 +86,7 @@ tag:
 **(74)** ve kuşkusuz ahirete inanmayan(lar) kimseler yoldan sapıyorlar
 **(75)** ve eğer biz onlara acısaydık sıkıntıdan kendilerinde olanı kaldırsaydık azgınlıklarında bocalamaya yine devam ederlerdi
 **(76)** andolsun azab ile biz onları yakaladık ama yine Rabblerine boyun eğmediler ve O’na yalvarmıyorlar
-**(77)** nihayet şiddetli bir azab kapısı üzerlerine açtığımız zaman derhal onlar O’nun içinde şaşkın ve umutsuz kalırlar
+**(77)** nihayet şiddetli bir azab kapısı üzerilerine açtığımız zaman derhal onlar O’nun içinde şaşkın ve umutsuz kalırlar
 **(78)** ve kulağı ve gözleri ve gönülleri sizin için inşa eden[yaratan] O’dur ne kadar az şükrediyorsunuz
 **(79)** ve yeryüzünde sizi yaratıp yayan O’dur ve O’nun (huzurunda) toplanacaksınız
 **(80)** ve yaşatan ve öldüren O’dur ve gecenin ve gündüzün değişmesi O’nun(eseri)dir aklınızı kullanmıyor musunuz?
