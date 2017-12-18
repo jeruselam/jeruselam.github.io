@@ -19,8 +19,8 @@ tag:
 **(7)** ve muhakkak o sa’at[Kıyamet] gelecektir onda şüphe yoktur ve şüphesiz Allah kabirlerde olanları diriltecektir
 **(8)** insanlardan kimi bilgisi olmaksızın ve bir yol göstereni olmadan ve aydınlatıcı bir Kitabı olmadan Allah hakkında tartışır 
 **(9)** Allah’ın yolundan şaşırtmak için boynunu öteye döndürür dünyada bir kepazelik onun için vardır ve kıyamet günü yangın[ateş] azabını ona taddıracağız
-**(10)**
-**(11)**
+**(10)** işte bu senin ellerinin önceden yaptıkları yüzündendir ve şüphesiz Allah kullara zulmedici değildir
+**(11)** 
 **(12)**
 **(13)**
 **(14)**
