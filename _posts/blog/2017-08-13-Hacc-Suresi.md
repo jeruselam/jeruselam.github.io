@@ -36,12 +36,12 @@ tag:
 **(24)** ve sözün güzeline iletilmişlerdir ve çok övülen(Allah)ın yoluna iletilmişlerdir
 **(25)** şüphesiz inkar eden(ler) kimseler ve Allah’ın yolundan geri çevirenler ve orada yerli olan ve dışarıdan gelen bütün insanlar için eşit (ibadet yeri) yaptığımız Mescid-i (Haram’dan) ve orada kim(böyle) zulüm ile haktan sapmak  isterse acı bir azabtan ona taddırırız
 **(26)** bir zamanlar hiçbir şeyi bana ortak koşma diye Beyt(Ka’be)’nin yerine İbrahim’i kondurmuştuk ve tavaf edenler için ve ayakta duranlar için ve rüku’ edenler (ile) secde edenler için için evimi temizle 
-**(27)** kendileri için birtakım faydalara şahit olmaları için ve yürüyen hayvanlardan onlara rızık olarak verilen şeyleri üzerine belirli günlerde Allah’ın adını anmaları için onlardan yeyin ve sıkıntı içinde bulunan fakire yedirin 
-**(28)**
-**(29)**
-**(30)**
-**(31)**
-**(32)**
+**(27)** ve haccı insanlar içinde ilan et yaya olarak ve uzak yollardan her (türlü) gelen, her yorgun deve üzerinde sana gelsinler
+**(28)** kendileri için birtakım faydalara şahit olmaları için ve yürüyen hayvanlardan onlara rızık olarak verilen şeyleri üzerine belirli günlerde Allah’ın adını anmaları için onlardan yeyin ve sıkıntı içinde bulunan fakire yedirin
+**(29)** sonra kirlerini gidersinler ve adaklarını yerine getirsinler ve (Eski) Evi [Kâbe’yi] tavaf etsinler
+**(30)** işte öyle ve kim Allah’ın yasaklarına saygı gösterirse işte o Rabbinin yanında hayırlıdır ve size oku(nup açıkla)nan şeyler dışındaki hayvanlar sizin için size helal kılınmıştır artık kaçının pis putlardan ve yalan sözden kaçının
+**(31)** O’na ortak koşmadan Allah’ı hanifler[hakka ve doğruluğa yönelen]] olun ve kim Allah’a ortak koşarsa sanki gökten düşmüş ve kuş kendisini kapıyor veya uzak bir yere rüzgar onu sürüklüyor gibidir 
+**(32)** işte böyle ve Allah’ın nişanlarına[âdet,sünnet] kim saygı gösterirse
 **(33)**
 **(34)**
 **(35)**
