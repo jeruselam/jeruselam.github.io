@@ -41,7 +41,7 @@ tag:
 **(29)** sonra kirlerini gidersinler ve adaklarını yerine getirsinler ve (Eski) Evi [Kâbe’yi] tavaf etsinler
 **(30)** işte öyle ve kim Allah’ın yasaklarına saygı gösterirse işte o Rabbinin yanında hayırlıdır ve size oku(nup açıkla)nan şeyler dışındaki hayvanlar sizin için size helal kılınmıştır artık kaçının pis putlardan ve yalan sözden kaçının
 **(31)** O’na ortak koşmadan Allah’ı hanifler[hakka ve doğruluğa yönelen]] olun ve kim Allah’a ortak koşarsa sanki gökten düşmüş ve kuş kendisini kapıyor veya uzak bir yere rüzgar onu sürüklüyor gibidir 
-**(32)** işte böyle ve Allah’ın nişanlarına[âdet,sünnet] kim saygı gösterirse
+**(32)** işte böyle ve Allah’ın nişanlarına[âdet,sünnet] kim saygı gösterirse şüphesiz bu kalblerin takvasındandır
 **(33)**
 **(34)**
 **(35)**
