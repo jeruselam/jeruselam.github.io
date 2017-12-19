@@ -28,11 +28,11 @@ tag:
 **(16)** ve işte böyle açık açık ayetler olarak biz O’nu indirdik ve şüphesiz Allah dilediği kimseyi doğru yola iletir
 **(17)** şüphesiz inananlar kimseler ve kimseler; Yahudiler ve Sabiiler ve Hristiyanlar ve Mecusiler ve ortak koşanlar kimseler şüphesiz Allah kıyamet günü bunlar arasında hüküm verecektir şüphesiz Allah her şey üzerine şahittir
 **(18)** göklerdeki kimseler ve yerdeki kimseler ve güneş ve ay ve yıldızlar ve dağlar ve ağaçlar ve hayvanlar ve insanlardan birçoğu kuşkusuz O’na Allah’a secde ediyorlar görmedin mi ama birçoğu üzerine azab hak olmuştur ve Allah kimi aşağılatırsa ona değer veren artık hiç olmaz şüphesiz Allah dilediği şeyi yapar
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
+**(19)** işte şunlar Rableri hakkında çekişen iki hasım taraf, inkar eden(lere) kimselere onlara ateşten giysi biçildi kaynar su başlarının üstünden dökülüyor
+**(20)** karınlarının içindeki şeyler ve derileri onunla eritiliyor
+**(21)** ve demirden kamçılar onlar için vardır
+**(22)** (o) gamdan oradan çıkmak istedikleri her sefer oraya geri çevrilirler ve yangın azabını tadın (denilir)
+**(23)** şüphesiz Allah inanan(ları) kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokar orada altından bilezikler ve inci(ler) takınırlar ve orada giysileri ipektir
 **(24)**
 **(25)**
 **(26)**
