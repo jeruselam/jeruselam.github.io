@@ -35,8 +35,8 @@ tag:
 **(23)** şüphesiz Allah inanan(ları) kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokar orada altından bilezikler ve inci(ler) takınırlar ve orada giysileri ipektir
 **(24)** ve sözün güzeline iletilmişlerdir ve çok övülen(Allah)ın yoluna iletilmişlerdir
 **(25)** şüphesiz inkar eden(ler) kimseler ve Allah’ın yolundan geri çevirenler ve orada yerli olan ve dışarıdan gelen bütün insanlar için eşit (ibadet yeri) yaptığımız Mescid-i (Haram’dan) ve orada kim(böyle) zulüm ile haktan sapmak  isterse acı bir azabtan ona taddırırız
-**(26)**
-**(27)**
+**(26)** bir zamanlar hiçbir şeyi bana ortak koşma diye Beyt(Ka’be)’nin yerine İbrahim’i kondurmuştuk ve tavaf edenler için ve ayakta duranlar için ve rüku’ edenler (ile) secde edenler için için evimi temizle 
+**(27)** kendileri için birtakım faydalara şahit olmaları için ve yürüyen hayvanlardan onlara rızık olarak verilen şeyleri üzerine belirli günlerde Allah’ın adını anmaları için onlardan yeyin ve sıkıntı içinde bulunan fakire yedirin 
 **(28)**
 **(29)**
 **(30)**
