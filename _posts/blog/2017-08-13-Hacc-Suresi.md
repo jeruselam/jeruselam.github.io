@@ -33,8 +33,8 @@ tag:
 **(21)** ve demirden kamçılar onlar için vardır
 **(22)** (o) gamdan oradan çıkmak istedikleri her sefer oraya geri çevrilirler ve yangın azabını tadın (denilir)
 **(23)** şüphesiz Allah inanan(ları) kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokar orada altından bilezikler ve inci(ler) takınırlar ve orada giysileri ipektir
-**(24)**
-**(25)**
+**(24)** ve sözün güzeline iletilmişlerdir ve çok övülen(Allah)ın yoluna iletilmişlerdir
+**(25)** şüphesiz inkar eden(ler) kimseler ve Allah’ın yolundan geri çevirenler ve orada yerli olan ve dışarıdan gelen bütün insanlar için eşit (ibadet yeri) yaptığımız Mescid-i (Haram’dan) ve orada kim(böyle) zulüm ile haktan sapmak  isterse acı bir azabtan ona taddırırız
 **(26)**
 **(27)**
 **(28)**
