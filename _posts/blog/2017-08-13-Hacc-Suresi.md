@@ -42,9 +42,9 @@ tag:
 **(30)** işte öyle ve kim Allah’ın yasaklarına saygı gösterirse işte o Rabbinin yanında hayırlıdır ve size oku(nup açıkla)nan şeyler dışındaki hayvanlar sizin için size helal kılınmıştır artık kaçının pis putlardan ve yalan sözden kaçının
 **(31)** O’na ortak koşmadan Allah’ı hanifler[hakka ve doğruluğa yönelen]] olun ve kim Allah’a ortak koşarsa sanki gökten düşmüş ve kuş kendisini kapıyor veya uzak bir yere rüzgar onu sürüklüyor gibidir 
 **(32)** işte böyle ve Allah’ın nişanlarına[âdet,sünnet] kim saygı gösterirse şüphesiz bu kalblerin takvasındandır
-**(33)**
-**(34)**
-**(35)**
+**(33)** belirli bir süreye kadar onlarda menfaatler sizin için vardır sonra onların varacakları yer (Eski) Ev[Kâbe]’dir 
+**(34)** ve ümmetin hepsi için (kurbanlık) hayvanlardan rızık olarak verilen şey üzerine Allah’ın adını anmaları için bir kurban ibadeti biz koyduk tanrınız bir tek tanrıdır teslim olun ve samimi insanları müjdele
+**(35)** 
 **(36)**
 **(37)**
 **(38)**
