@@ -45,7 +45,7 @@ tag:
 **(33)** belirli bir süreye kadar onlarda menfaatler sizin için vardır sonra onların varacakları yer (Eski) Ev[Kâbe]’dir 
 **(34)** ve ümmetin hepsi için (kurbanlık) hayvanlardan rızık olarak verilen şey üzerine Allah’ın adını anmaları için bir kurban ibadeti biz koyduk tanrınız bir tek tanrıdır teslim olun ve samimi insanları müjdele
 **(35)** onlar ki Allah anıldığı zaman kalbleri titrer ve (başlarına) isabet edene sabrederler ve namazı kılarlar ve kendilerini rızıklandırdığımız şeylerden (Allah yoluna) harcarlar
-**(36)**
+**(36)** kurbanlık develeri sizin için Allah’ın işaretlerinden yaptık onlarda hayır sizin için vardır yanları üzerine (canları çıkınca) düştüğünde zaman (kurban için) sıra halinde dururlarken üzerilerine Allah’ın adını anın (da boğazlayın) onlardan yeyin ve kanaat edip isteyemeyene ve isteyene yedirin işte böyle size onları boyun eğdirdi umulur ki şükredersiniz
 **(37)**
 **(38)**
 **(39)**
