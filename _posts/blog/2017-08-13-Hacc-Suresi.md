@@ -44,7 +44,7 @@ tag:
 **(32)** işte böyle ve Allah’ın nişanlarına[âdet,sünnet] kim saygı gösterirse şüphesiz bu kalblerin takvasındandır
 **(33)** belirli bir süreye kadar onlarda menfaatler sizin için vardır sonra onların varacakları yer (Eski) Ev[Kâbe]’dir 
 **(34)** ve ümmetin hepsi için (kurbanlık) hayvanlardan rızık olarak verilen şey üzerine Allah’ın adını anmaları için bir kurban ibadeti biz koyduk tanrınız bir tek tanrıdır teslim olun ve samimi insanları müjdele
-**(35)** 
+**(35)** onlar ki Allah anıldığı zaman kalbleri titrer ve (başlarına) isabet edene sabrederler ve namazı kılarlar ve kendilerini rızıklandırdığımız şeylerden (Allah yoluna) harcarlar
 **(36)**
 **(37)**
 **(38)**
