@@ -53,8 +53,8 @@ tag:
 **(41)** eğer yer yüzünde onları iktidara getirirsek namazı kılarlar ve zekatı verirler ve iyiliği emrederler ve kötülükten vazgeçirmeğe çalışırlar ve bütün işlerin sonu Allah’a aittir
 **(42)** ve eğer seni yalanlıyorlarsa gerçekten Nûh ve ’Âd ve Semûd kavmi de bunlardan önce yalanlamıştı
 **(43)** ve İbrahim kavmi ve Lut kavmi
-**(44)**
-**(45)**
+**(44)** ve Medyen halkı ve Mûsâ yalanlanmıştı kafirlere ben de bir süre vermiştim sonra onları yakalamıştım benim inkarım nasıl oldu 
+**(45)** zulmederken o helak ettiğimiz kentlerden niceleri vardır ve o tavanları ve kuyu üstüne çökmüştür ve sağlam saraylar kullanılmaz olmuştur
 **(46)**
 **(47)**
 **(48)**
