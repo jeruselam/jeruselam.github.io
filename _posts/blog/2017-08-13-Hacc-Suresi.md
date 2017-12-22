@@ -47,12 +47,12 @@ tag:
 **(35)** onlar ki Allah anıldığı zaman kalbleri titrer ve (başlarına) isabet edene sabrederler ve namazı kılarlar ve kendilerini rızıklandırdığımız şeylerden (Allah yoluna) harcarlar
 **(36)** sizin için kurbanlık develeri Allah’ın işaretlerinden yaptık, onlarda Hayr sizin için vardır, yanları üzerine düştüğünde (canları çıktığı zaman) (kurban için) sıra halinde dururlarken üzerilerine Allah’ın adını anın (da boğazlayın) onlardan yeyin ve kanaat edip isteyemeyene ve isteyene yedirin işte böyle size onları boyun eğdirdi umulur ki şükredersiniz
 **(37)** onların etleri ve ne de kanları Allah’a ulaşmaz fakat sizin takvanız O’na ulaşır böylece sizi doğru yola iletti diye (ği üzere) Allah’ı anmanız için size onları boyun eğdirdi ve güzel davrananları müjdele
-**(38)** şüphesiz Allah inanan(lar) kimselerden (şerri) defeder şüphesiz Allah hiçbir hain[yalancı] inkarcıyı[kefûr] sevmez
-**(39)**
-**(40)**
-**(41)**
-**(42)**
-**(43)**
+**(38)** şüphesiz Allah inanan(lar) kimselerden (şerri) defeder şüphesiz Allah hiçbir [yalancı]hain [kefûr]inkarcıyı sevmez
+**(39)** onlara zulmedilmeleri yüzünden kendileriyle savaşılanlara izin verildi ve şüphesiz Allah onlara yardım etmeğe kadirdir
+**(40)** onlar sadece Rabbimiz Allah’tır diyorlar diye hak etmedikleri halde yurtlarından çıkarıldılar insanların bazılarını diğer bazılarıyla Allah’ın savunması eğer olmasaydı çokça Allah’ın ismi içlerinde anılan manastırlar ve kiliseler ve havralar ve mescidler yıkılırdı ve Allah kendine yardım eden kimseye elbette yardım eder kuşkusuz Allah kuvvetlidir [Azîz]galibdir
+**(41)** eğer yer yüzünde onları iktidara getirirsek namazı kılarlar ve zekatı verirler ve iyiliği emrederler ve kötülükten vazgeçirmeğe çalışırlar ve bütün işlerin sonu Allah’a aittir
+**(42)** ve eğer seni yalanlıyorlarsa gerçekten Nûh ve ’Âd ve Semûd kavmi de bunlardan önce yalanlamıştı
+**(43)** ve İbrahim kavmi ve Lut kavmi
 **(44)**
 **(45)**
 **(46)**
