@@ -46,8 +46,8 @@ tag:
 **(34)** ve ümmetin hepsi için (kurbanlık) hayvanlardan rızık olarak verilen şey üzerine Allah’ın adını anmaları için bir kurban ibadeti biz koyduk tanrınız bir tek tanrıdır teslim olun ve samimi insanları müjdele
 **(35)** onlar ki Allah anıldığı zaman kalbleri titrer ve (başlarına) isabet edene sabrederler ve namazı kılarlar ve kendilerini rızıklandırdığımız şeylerden (Allah yoluna) harcarlar
 **(36)** sizin için kurbanlık develeri Allah’ın işaretlerinden yaptık, onlarda Hayr sizin için vardır, yanları üzerine düştüğünde (canları çıktığı zaman) (kurban için) sıra halinde dururlarken üzerilerine Allah’ın adını anın (da boğazlayın) onlardan yeyin ve kanaat edip isteyemeyene ve isteyene yedirin işte böyle size onları boyun eğdirdi umulur ki şükredersiniz
-**(37)**
-**(38)**
+**(37)** onların etleri ve ne de kanları Allah’a ulaşmaz fakat sizin takvanız O’na ulaşır böylece sizi doğru yola iletti diye (ği üzere) Allah’ı anmanız için size onları boyun eğdirdi ve güzel davrananları müjdele
+**(38)** şüphesiz Allah inanan(lar) kimselerden (şerri) defeder şüphesiz Allah hiçbir hain[yalancı] inkarcıyı[kefûr] sevmez
 **(39)**
 **(40)**
 **(41)**
