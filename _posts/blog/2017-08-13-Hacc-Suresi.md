@@ -57,11 +57,11 @@ tag:
 **(45)** o zulmederken helak ettiğimiz kentlerden niceleri vardır ve o tavanları ve kuyu üstüne çökmüştür ve sağlam saraylar kullanılmaz olmuştur
 **(46)** onunla düşünecekleri kalbleri[vicdan] veyahut onunla işitecekleri kulakları onların olsun yer yüzünde hiç gezmediler mi? zira gözler kör olmaz fakat göğüsler içindeki kalbler kör olur
 **(47)** ve azabı senden çabucak istiyorlar fakat Allah sözünden caymaz ve şüphesiz Rabbinin yanında bir gün sizin yıl saydıklarınızdan bin (yıl) gibidir
-**(48)**
-**(49)**
-**(50)**
-**(51)**
-**(52)**
+**(48)** ve kentlerden niceleri var ki o zulmederken ona biraz süre vermişimdir sonra onu yakalamışımdır dönüş ancak banadır
+**(49)** de ki ey insanlar şüphesiz ben sizin için apaçık bir uyarıcıyım
+**(50)** ve inananlar için ve iyi işler yapanlar için mağfiret ve bol rızık onlara vardır
+**(51)** ayetlerimizi etkisiz bırakmak için çalışanlara gelince onlar cehennem ashabıdır
+**(52)** ve temenni ettiği zaman onun temennisine şeytan (bir düşünce) atmış olmayan hiçbir resul ve ne de nebi senden önce göndermemiştik şeytanın attığı şeyi Allah fakat siler sonra Allah kendi ayetlerini sağlamlaştırır ve Allah ’alim(bilen)dir hakimdir
 **(53)**
 **(54)**
 **(55)**
