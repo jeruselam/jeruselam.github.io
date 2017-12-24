@@ -69,12 +69,12 @@ tag:
 **(57)** ve işte onlar inkar edenler ve ayetlerimizi yalanlayanlar alçaltan bir azab onlara vardır
 **(58)** ve Allah yolunda hicret eden(ler) kimseler sonra öldürülenler veya ölenler en güzel bir rızıkla Allah onları rızıklandıracaktır ve doğrusu Allah elbette o rızık verenlerin en hayırlısıdır
 **(59)** razı olacakları bir yere elbette onları sokacaktır ve doğrusu Allah bilendir halimdir
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
+**(60)** işte böyle ve kim kendisine yapılan cezanın dengiyle ceza verir de sonra kendisine tekrar saldırılırsa Allah elbette ona yardım eder şüphesiz Allah affedendir bağışlayandır
+**(61)** işte böyle şüphesiz Allah geceyi gündüzün içine sokar ve gündüzü gecenin içine sokar ve doğrusu Allah işitendir görendir
+**(62)** işte böyle çünkü Allah o Hakk’tır ve gerçekten O’ndan başka o yalvardıkları şeyler batıldır ve gerçek şu ki O Allah çok yücedir çok büyüktür
+**(63)** Allah gökten bir su indirir kesinlikle görmedin mi yeryüzü yemyeşil böylece olur doğrusu Allah Latif'tir Habir'dir
+**(64)** göklerde ne varsa ve yerde ne varsa hep O’nundur ve ancak zengin olan övülmeğe layık olan Allah işte O’dur
+**(65)** 
 **(66)**
 **(67)**
 **(68)**
