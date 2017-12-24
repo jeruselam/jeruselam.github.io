@@ -61,14 +61,14 @@ tag:
 **(49)** de ki ey insanlar şüphesiz ben sizin için apaçık bir uyarıcıyım
 **(50)** ve inananlar için ve iyi işler yapanlar için mağfiret ve bol rızık onlara vardır
 **(51)** ayetlerimizi etkisiz bırakmak için çalışanlara gelince onlar cehennem ashabıdır
-**(52)** ve temenni ettiği zaman onun temennisine şeytan (bir düşünce) atmış olmayan hiçbir resul ve ne de nebi senden önce göndermemiştik şeytanın attığı şeyi Allah fakat siler sonra Allah kendi ayetlerini sağlamlaştırır ve Allah ’alim(bilen)dir hakimdir
-**(53)**
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
-**(59)**
+**(52)** ve temenni ettiği zaman onun temennisine şeytan (bir düşünce) atmış olmayan senden önce hiçbir resul ve ne de nebi göndermemiştik şeytanın attığı şeyi Allah fakat siler sonra Allah kendi ayetlerini sağlamlaştırır ve Allah ’alim(bilen)dir hakimdir
+**(53)** kalblerinde bir hastalık olanlara ve kalbleri katılaşanlara şeytanın attığı şeyi bir imtihan yapmak için ve şüphesiz zalimler uzak bir ayrılık içindedirler
+**(54)** ve Rabbinden onun (Kur’an)’ın bir hak (gerçek) olduğunu kendilerine ilim verilenler bilsinler diye ve ona inansınlar diye kalbleri ona böylece saygı duysun ve şüphesiz Allah inanan(ları) kimseleri doğru yola mutlaka iletir
+**(55)** ve ansızın o sa’at kendilerine gelinceye kadar yahut kısır (hayırsız) günün azabı kendilerine gelinceye kadar inkar edenlerin o(Kur’a)ndan kuşku içinde (olmaları) bitmez
+**(56)** mülk o gün Allah’ındır onların aralarında hükmeder inananlar kimseler ve iyi işler yapanlar ni’met cennetlerindedirler
+**(57)** ve işte onlar inkar edenler ve ayetlerimizi yalanlayanlar alçaltan bir azab onlara vardır
+**(58)** ve Allah yolunda hicret eden(ler) kimseler sonra öldürülenler veya ölenler en güzel bir rızıkla Allah onları rızıklandıracaktır ve doğrusu Allah elbette o rızık verenlerin en hayırlısıdır
+**(59)** razı olacakları bir yere elbette onları sokacaktır ve doğrusu Allah bilendir halimdir
 **(60)**
 **(61)**
 **(62)**
