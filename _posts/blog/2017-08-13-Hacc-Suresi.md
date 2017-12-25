@@ -73,14 +73,14 @@ tag:
 **(61)** işte böyle şüphesiz Allah geceyi gündüzün içine sokar ve gündüzü gecenin içine sokar ve doğrusu Allah işitendir görendir
 **(62)** işte böyle çünkü Allah o Hakk’tır ve gerçekten O’ndan başka o yalvardıkları şeyler batıldır ve gerçek şu ki O Allah çok yücedir çok büyüktür
 **(63)** Allah gökten bir su indirir kesinlikle görmedin mi yeryüzü yemyeşil böylece olur doğrusu Allah Latif'tir Habir'dir
-**(64)** göklerde ne varsa ve yerde ne varsa hep O’nundur ve ancak zengin olan övülmeğe layık olan Allah işte O’dur
-**(65)** 
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
+**(64)** göklerde ne varsa ve yerde ne varsa hep O’nundur ve zengin olan övülmeğe layık olan Allah ancak işte O’dur
+**(65)** görmedin mi? ki Allah yerde olanları ve emriyle denizde akıp giden gemileri sizin buyruğunuza verdi ve O’nun izni dışında yerin üstüne düşmesin diye göğü tutuyor çünkü Allah insanlara çok şefkatlidir[Raûf] çok merhametlidir[Rahîm]
+**(66)** ve sizi dirilten sonra sizi öldüren sonra (yine) sizi dirilten O’dur gerçekten insan çok nankördür
+**(67)** her ümmete onların uydukları ibadet şekli belirledik bu işte asla seninle çekişmesinler Rabbine çağır kuşkusuz sen dosdoğru bir yol üzerindesin
+**(68)** ve eğer seninle mücadele ederlerse de ki yaptıklarınız şeyleri Allah daha iyi bilir
+**(69)** onda ayrılığa düşüyor olduğunuz hususlarda kıyamet günü aranızda Allah hükmedecektir
+**(70)** bilmez misin? gökte ve yerde ne varsa kuşkusuz Allah bilir kuşkusuz bunların hepsi bir Kitaptadır şüphesiz bu Allah için kolaydır
+**(71)** ve Allah’ın dışında şeylere tapıyorlar hiçbir delil onlara indirmemiştir ve kendilerinin onun hakkında bir bilgileri yoktur ve o zalimlerin hiçbir yardımcısı yoktur
 **(72)**
 **(73)**
 **(74)**
