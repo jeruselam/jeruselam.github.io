@@ -87,6 +87,6 @@ tag:
 **(75)** Allah insanlardan ve meleklerden elçiler seçer şüphesiz Allah işitendir görendir 
 **(76)** elleri arasında (önlerinde) olanı ve arkalarında olanı bilir ve bütün işler Allah’a döndürülür
 **(77)** ey inanan kimseler rüku’ edin ve secde edin ve Rabbinize ibadet edin ve hayır işleyin umulur ki kurtuluşa erersiniz
-**(78)** ve cihadın hakkıyla Allah uğrunda cihad edin O sizi seçti ve babanız İbrahim’in dinine hiç bir güçlük dinde size yüklemedi ve bu(Kur’a)nda Elçi’nin size şahid olması için ve sizin insanlar üzerine şahid olmanız için O bundan önce size müslümanlar adını verdi haydi kılın namazı ve zekatı verin ve Allah’a sarılın mevlanız (sahibiniz) O’dur ne güzel mevladır ve ne güzel yardımcıdır
+**(78)** ve cihadın hakkıyla, Allah uğrunda cihad edin, O sizi seçti ve babanız İbrahim’in dinine, dinde hiç bir güçlük size yüklemedi ve Elçi’nin bu(Kur’a)nda size şahid olması için ve sizin insanlar üzerine şahid olmanız için O bundan önce size müslümanlar adını verdi haydi kılın namazı ve zekatı verin ve Allah’a sarılın mevlanız (sahibiniz) O’dur ne güzel mevladır ve ne güzel yardımcıdır
 
 ![22Hacc-Mekkî]({{site.url}}/images/ayrac-muhur.png)
