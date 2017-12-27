@@ -1,34 +1,14 @@
+---
+layout: page
+title: Enbiyâ
+description: Nebiler, Peygamberler(Aleyhimüsselâm).
+excerpt: "21'nci Sûre"
+modified: 2017-12-29T17:50:00.564948 17:00
+tag: 
+ - Enbiyâ
+---
 
-Initial setup guidelines include preparing the system and executing commands.
-
-sudo eopkg it -c sytem.devel & git & ruby & ruby-devel
-
-
-It contains the commands to be executed for jekyll installation.
-
-sudo gem install jekyll
-
-
-Includes commands to execute while in the project directory: demir@demir ~/jeruselam.github.io $ 
-
-sudo gem install jekyll bundler or gem install bundler
-
-bundle update or bundle update jekyll
-
-bundle install
-gem update jekyll
-
-bundle exec jekyll build
-
-git add -A
-git commit -m "1091"
-
-git config --global user.email "vdemir@gmail.com"
-git config --global user.name "Vedat Demir"
-
-git push origin master
-git config credential.helper 'cache --timeout=19600'
-
+## 21. Enbiyâ Sûresi
 
 **(1)**
 **(2)**
@@ -141,4 +121,4 @@ git config credential.helper 'cache --timeout=19600'
 **(111)**
 **(112)**
 
-
+![21Enbiyâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
