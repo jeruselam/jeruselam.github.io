@@ -33,7 +33,7 @@ tag:
 **(21)** yerden onları diriltecek yoksa tanrılar edindiler mi?
 **(22)** eğer ikisinde Allah’tan başka tanrılar olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
 **(23)** yaptığı şeylerden O sorulmaz ama onlar sorulurlar
-**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin benimle beraber olanların öğütü işte budur ve benden öncekilerin öğütü ama çokları hakkı bilmezler bundan dolayı onlar (haktan) yüz çevirirler
+**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (haktan) yüz çevirirler
 **(25)**
 **(26)**
 **(27)**
