@@ -11,12 +11,12 @@ sudo gem install jekyll
 
 Includes commands to execute while in the project directory: demir@demir ~/jeruselam.github.io $ 
 
+gem update jekyll
 sudo gem install jekyll bundler or gem install bundler
 
-bundle update or bundle update jekyll
+bundle update jekyll or bundle update
 
 bundle install
-gem update jekyll
 
 bundle exec jekyll build
 
