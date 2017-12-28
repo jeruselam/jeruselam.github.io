@@ -10,24 +10,24 @@ tag:
 
 ## 21. Enbiyâ Sûresi
 
-**(1)**
-**(2)**
-**(3)**
-**(4)**
-**(5)**
-**(6)**
-**(7)**
-**(8)**
-**(9)**
-**(10)**
-**(11)**
-**(12)**
-**(13)**
-**(14)**
-**(15)**
-**(16)**
-**(17)**
-**(18)**
+**(1)** insanların hesapları yaklaştı fakat onlar gaflet içinde yüz çevirmektedirler
+**(2)** Rablerinden kendilerine gelen her yeni ikazı onlar eğlenerek ancak dinlerler
+**(3)** kalbleri eğlencededir ve zulmeden(ler) kimseler aralarındaki konuşmayı gizlediler bu ancak sizin gibi bir insandır değil mi? siz görüyorken büyüye şimdi siz kapılacak mısınız?
+**(4)** dedi ki gökte ve yerde konuşulanı Rabbim bilir ve O işitendir bilendir
+**(5)** hayır dediler (bu) karmakarışık hayallerdir hayır onu uydurmuş hayır o şa’irdir öncekilerin gönderildikleri gibi bir mu’cize bize getirse ya
+**(6)** bunlardan önce helak ettiğimiz hiçbir kent (halkı) inanmamıştı şimdi bunlar mı? inanacaklar
+**(7)** kendilerine vahyedilen erkeklerden başkasını senden önce biz göndermedik eğer bilmiyor idiyseniz Zikir ehline sorun
+**(8)** ve yemek yemeyen ceset(ler) biz onları yapmadık ve ölümsüz değillerdi
+**(9)** sonra verdiğimiz sözü yerine getirdik onları ve dilediğimiz kimseleri kurtardık ve aşırı gidenleri helak ettik
+**(10)** içinde Zikr’iniz bulunan bir Kitap andolsun size indirdik aklınızı kullanmıyor musunuz?
+**(11)** ve zalim olan şehir(ler)den nicesini kırıp geçirdik ve onlardan sonra başka bir topluluk inşa ettik
+**(12)** azabımızı hissettikleri zaman derhal onlar oradan kaçıyorlardı
+**(13)** (boşuna) kaçmayın ve içinde şımartıldığınız şeylere, (ni’metlere) ve yurtlarınıza dönün çünkü sorguya çekileceksiniz
+**(14)** eyvah bize dediler gerçekten biz zalimlerden olduk
+**(15)** sönmüş ateş (gibi), biçilmiş (ekin gibi) biz onları yapıncaya kadar bu mırıldanmaları kesilmedi
+**(16)** ve göğü ve yeri ve bunlar arasında bulunanları eğlence[şaka] için biz yaratmadık
+**(17)** eğer bir eğlence edinmek isteseydik kendi katımızdan edinirdik eğer yapacak olsaydık
+**(18)** hayır batılın üstüne hakkı biz atarız derhal onun beynini parçalar o yok olur yakıştırdıklarınızdan ötürü size yazıklar olsun 
 **(19)**
 **(20)**
 **(21)**
