@@ -28,12 +28,12 @@ tag:
 **(16)** ve göğü ve yeri ve bunlar arasında bulunanları eğlence[şaka] için biz yaratmadık
 **(17)** eğer bir eğlence edinmek isteseydik kendi katımızdan edinirdik eğer yapacak olsaydık
 **(18)** hayır batılın üstüne hakkı biz atarız derhal onun beynini parçalar o yok olur yakıştırdıklarınızdan ötürü size yazıklar olsun 
-**(19)**
-**(20)**
-**(21)**
-**(22)**
-**(23)**
-**(24)**
+**(19)** göklerde ve yerde olan kimseler ve O’nun yanındaki kimseler O’na kulluk etmekten büyüklenmez ve yorulmazlar
+**(20)** gece ve gündüz tesbih ederler hiç ara vermezler
+**(21)** yerden onları diriltecek yoksa tanrılar edindiler mi?
+**(22)** eğer ikisinde Allah’tan başka tanrılar olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
+**(23)** yaptığı şeylerden O sorulmaz ama onlar sorulurlar
+**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin benimle beraber olanların öğütü işte budur ve benden öncekilerin öğütü ama çokları hakkı bilmezler bundan dolayı onlar (haktan) yüz çevirirler
 **(25)**
 **(26)**
 **(27)**
