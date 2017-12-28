@@ -5,7 +5,8 @@ title             : Kur'an-ı Kerim
 keywords          : Kur'an-ı Kerim, Türkçe Tercümesi
 logo              : muhur2.png
 search            : false
-baseurl           : "/"
+#baseurl           : "/"
+baseurl           : "null"
 url               : https://jeruselam.github.io
 author:
   name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
