@@ -33,11 +33,11 @@ tag:
 **(21)** yerden onları diriltecek yoksa tanrılar edindiler mi?
 **(22)** eğer ikisinde Allah’tan başka tanrılar olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
 **(23)** yaptığı şeylerden O sorulmaz ama onlar sorulurlar
-**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (haktan) yüz çevirirler
-**(25)**
-**(26)**
-**(27)**
-**(28)**
+**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin, benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (Hakk'tan) yüz çevirirler
+**(25)** ve ona şüphesiz benden başka tanrı yoktur bana kulluk edin diye vahyetmediğimiz senden önce hiçbir peygamber göndermedik
+**(26)** ve Rahman çocuk edindi dediler O münezzehtir hayır değerli  bilakis[kullar]
+**(27)** O’ndan önce söylemezler bir söz ve onlar O’nun buyruğunu yaparlar
+**(28)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı bilir ve razı olduklarından başkasına şefa’at edemezler ve onlar O’nun [sevgisinin azalması]korkusundan[ [şefkatle sevene layık surette]titrerler
 **(29)**
 **(30)**
 **(31)**
