@@ -46,9 +46,9 @@ tag:
 **(34)** ve senden önce hiçbir insana ebedi yaşam vermedik şimdi eğer sen ölürsen onlar ebedi (mi kalacaklar?)
 **(35)** her nefis ölümü tadacaktır ve sınamak için şer ile ve hayır ile sizi imtihan ederiz ve (sonunda) bize döndürüleceksiniz
 **(36)** inkar eden kimseler seni gördükleri zaman sizin tanrılarınızı diline dolayan kişi bu mudur? (diye) alay konusu etmek dışında seni edinmezler[kabullenmezler] oysa kendileri Rahman’ın Zikri(uyarısı)nı onlar inkar ediyorlar
-**(37)**
-**(38)**
-**(39)**
+**(37)** insan aceleden[çabuk isteyen olarak] yaratılmıştır ayetlerimi size göstereceğim benden acele istemeyin
+**(38)** ve eğer doğru söyleyenler iseniz bu tehdid(ettiğiniz azab) ne zaman? diyorlar 
+**(39)** inkar eden(ler) kimseler yüzlerinden ne de sırtlarından ateşi savamayacakları ve onlara yardım da olunmayacakları zamanı eğer bir bilselerdi 
 **(40)**
 **(41)**
 **(42)**
