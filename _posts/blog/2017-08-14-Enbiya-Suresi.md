@@ -38,14 +38,14 @@ tag:
 **(26)** ve Rahman çocuk edindi dediler O münezzehtir hayır değerli  bilakis[kullar]
 **(27)** O’ndan önce söylemezler bir söz ve onlar O’nun buyruğunu yaparlar
 **(28)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı bilir ve razı olduklarından başkasına şefa’at edemezler ve onlar O’nun [sevgisinin azalması]korkusundan[ [şefkatle sevene layık surette]titrerler
-**(29)**
-**(30)**
-**(31)**
-**(32)**
-**(33)**
-**(34)**
-**(35)**
-**(36)**
+**(29)** ve O’ndan[Allah] başka onlardan her kim ben bir tanrıyım[ilâh] derse böylece cehennemle onu cezalandırırız böyle zalimleri biz cezalandırırız
+**(30)** inkar eden(ler) kimseler görmediler mi? şüphesiz gökler ve yer bitişik idi biz onları ayırdık ve canlı her şeyi sudan yarattık hala inanmıyorlar mı?
+**(31)** ve onları sarsar diye yerde yüksek dağlar yarattık ve orada geniş yollar açtık umulur ki yollarını bulurlar
+**(32)** ve göğü korunmuş bir tavan yaptık onlar hala ayetlerinden yüz çevirmektedirler
+**(33)** geceyi ve gündüzü ve güneşi ve ayı yaratan O’dur her biri bir yörüngede yüzmektedir
+**(34)** ve senden önce hiçbir insana ebedi yaşam vermedik şimdi eğer sen ölürsen onlar ebedi (mi kalacaklar?)
+**(35)** her nefis ölümü tadacaktır ve sınamak için şer ile ve hayır ile sizi imtihan ederiz ve (sonunda) bize döndürüleceksiniz
+**(36)** inkar eden kimseler seni gördükleri zaman sizin tanrılarınızı diline dolayan kişi bu mudur? (diye) alay konusu etmek dışında seni edinmezler[kabullenmezler] oysa kendileri Rahman’ın Zikri(uyarısı)nı onlar inkar ediyorlar
 **(37)**
 **(38)**
 **(39)**
