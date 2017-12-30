@@ -49,9 +49,9 @@ tag:
 **(37)** insan aceleden[çabuk isteyen olarak] yaratılmıştır ayetlerimi size göstereceğim benden acele istemeyin
 **(38)** ve eğer doğru söyleyenler iseniz bu tehdid(ettiğiniz azab) ne zaman? diyorlar 
 **(39)** inkar eden(ler) kimseler yüzlerinden ne de sırtlarından ateşi savamayacakları ve onlara yardım da olunmayacakları zamanı eğer bir bilselerdi 
-**(40)**
-**(41)**
-**(42)**
+**(40)** doğrusu ansızın o onlara gelecek onları şaşırtacak onu reddetmeye güçleri yetmeyecek ve ne de kendilerine süre verilecek
+**(41)** ve andolsun senden önceki peygamberlerle alay edildi onların onunla alay ettikleri şey[ler] onlarla alay eden(leri) kimseleri ama kuşatıverdi
+**(42)** de ki gece ve gündüz Rahman'dan kim sizi koruyacak? hayır onlar Rablerinin Zikr'inden yüz çeviriyorlar
 **(43)**
 **(44)**
 **(45)**
