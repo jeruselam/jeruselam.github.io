@@ -53,11 +53,11 @@ tag:
 **(41)** ve andolsun senden önceki peygamberlerle alay edildi onların onunla alay ettikleri şey[ler] onlarla alay eden(leri) kimseleri ama kuşatıverdi
 **(42)** de ki Rahman'dan gece ve gündüz kim sizi koruyacak? hayır onlar Rablerinin Zikr'inden yüz çeviriyorlar
 **(43)** yoksa bize karşı onları koruyacak tanrıları mı var? kendilerine yardım etmeye onların gücü yetmez ne de onlara bizim tarafımızdan sahip çıkılır
-**(44)**
-**(45)**
-**(46)**
-**(47)**
-**(48)**
+**(44)** bilakis onları ve atalarını biz yaşattık nihayet ömür kendilerine uzun geldi bizim gelip yerlerini (topraklarını) uçlarından eksilttiğimizi görmüyorlar mı? üstün gelen onlar mı?
+**(45)** de ki ben ancak vahiyle sizi uyarıyorum ama uyarıldıkları zaman sağır(lar) çağrıyı işitmez(ler)
+**(46)** ve eğer Rabbinin azabından bir esinti onlara dokunsa eyvah bize derler biz gerçekten zalimler olmuşuz
+**(47)** kıyamet günü için adalet terazileri kurarız hiçbir kimseye asla haksızlık edilmez ve bir hardal danesi ağırlığınca eğer olsa onu getiririz ve hesabı gören olarak biz yeteriz
+**(48)** ve andolsun Musa’ya ve Harun’a Furkan’ı biz verdik ve muttakiler[günahtan çekinenler] için bir ışık ve bir öğüt
 **(49)**
 **(50)**
 **(51)**
