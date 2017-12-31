@@ -57,8 +57,8 @@ tag:
 **(45)** de ki ben ancak vahiyle sizi uyarıyorum ama uyarıldıkları zaman sağır(lar) çağrıyı işitmez(ler)
 **(46)** ve eğer Rabbinin azabından bir esinti onlara dokunsa eyvah bize derler biz gerçekten zalimler olmuşuz
 **(47)** kıyamet günü için adalet terazileri kurarız hiçbir kimseye asla haksızlık edilmez ve bir hardal danesi ağırlığınca eğer olsa onu getiririz ve hesabı gören olarak biz yeteriz
-**(48)** ve andolsun Musa’ya ve Harun’a Furkan’ı biz verdik ve muttakiler[günahtan çekinenler] için bir ışık ve bir öğüt
-**(49)**
+**(48)** ve andolsun Musa’ya ve Harun’a Furkan’ı biz verdik ve muttakiler[günahtan çekinenler] için [parlak]bir ışık ve bir öğüt [örnek verdik]
+**(49)** onlar görmeden Rablerinden [saygıyla]korkarlar ve onlar (Duruşma) [Kıyamet]saatinden [şefkatle sevene layık surette]titrerler
 **(50)**
 **(51)**
 **(52)**
