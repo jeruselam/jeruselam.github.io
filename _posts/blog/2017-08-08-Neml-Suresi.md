@@ -27,8 +27,8 @@ tag:
 **(15)** ve andolsun, Davud’a ve Süleyman’a biz bir ilim verdik ve dediler hamdolsun Allah’a ki inanan kullarından birçoğu üzerine bizi üstün kıldı
 **(16)** ve Süleyman Davud’a mirasçı oldu ve dedi ki ey insanlar kuşların dili bize öğretildi ve her şeyden bize (bir pay) verildi şüphesiz bu, elbette o açık bir lutuftur
 **(17)** ve Süleyman’a cinlerden ve insanlar(dan) ve kuşlar(dan) orduları toplandı onlar sevk ediliyordu
-**(18)** nihayet karınca vadisi üzerine geldikleri Rabbimzaman bir karınca dedi ey karıncalar yuvalarınıza girin Süleyman ve orduları ve onlar farkında olmayarak sizi ezmesinler 
-**(19)** onun sözüne gülümseyerek tebessüm etti ve bana ve anama babama lutfettiğin ni’metine şükredeyim diye ve senin beğeneceğin faydalı bir iş yapayım diye gönlüme ilham eyle ve beni rahmetinle iyi kullarının arasına sok Rabbim dedi 
+**(18)** karınca vadisi üzerine nihayet geldikleri zaman bir karınca ey karıncalar dedi yuvalarınıza girin Süleyman ve orduları ve onlar farkında olmayarak sizi ezmesinler 
+**(19)** onun sözüne gülümseyerek tebessüm etti ve bana ve anama babama lutfettiğin ni’metine şükredeyim diye ve senin beğeneceğin faydalı bir iş yapayım diye Rabbim gönlüme ilham eyle dedi ve beni rahmetinle iyi kullarının arasına sok 
 **(20)** ve kuşları teftiş etti dedi ki neden ben hüdhüdü göremiyorum yoksa kayıplardan(mı) oldu?
 **(21)** çetin bir azapla ona azabedeceğim ya da onu keseceğim yahut da bana açık bir delil getirecek 
 **(22)** çok geçmeden geldi ve onda senin görmediğin ben bir şey gördüm dedi ve Seba'dan sana gerçek bir haber getirdim 

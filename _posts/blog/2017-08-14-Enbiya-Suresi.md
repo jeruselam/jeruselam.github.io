@@ -51,8 +51,8 @@ tag:
 **(39)** inkar eden(ler) kimseler yüzlerinden ne de sırtlarından ateşi savamayacakları ve onlara yardım da olunmayacakları zamanı eğer bir bilselerdi 
 **(40)** doğrusu ansızın o onlara gelecek onları şaşırtacak onu reddetmeye güçleri yetmeyecek ve ne de kendilerine süre verilecek
 **(41)** ve andolsun senden önceki peygamberlerle alay edildi onların onunla alay ettikleri şey[ler] onlarla alay eden(leri) kimseleri ama kuşatıverdi
-**(42)** de ki gece ve gündüz Rahman'dan kim sizi koruyacak? hayır onlar Rablerinin Zikr'inden yüz çeviriyorlar
-**(43)**
+**(42)** de ki Rahman'dan gece ve gündüz kim sizi koruyacak? hayır onlar Rablerinin Zikr'inden yüz çeviriyorlar
+**(43)** yoksa bize karşı onları koruyacak tanrıları mı var? kendilerine yardım etmeye onların gücü yetmez ne de onlara bizim tarafımızdan sahip çıkılır
 **(44)**
 **(45)**
 **(46)**
