@@ -59,29 +59,29 @@ tag:
 **(47)** kıyamet günü için adalet terazileri kurarız hiçbir kimseye asla haksızlık edilmez ve bir hardal danesi ağırlığınca eğer olsa onu getiririz ve hesabı gören olarak biz yeteriz
 **(48)** ve andolsun Musa’ya ve Harun’a Furkan’ı biz verdik ve muttakiler[günahtan çekinenler] için [parlak]bir ışık ve bir öğüt [örnek verdik]
 **(49)** onlar görmeden Rablerinden [saygıyla]korkarlar ve onlar (Duruşma) [Kıyamet]saatinden [şefkatle sevene layık surette]titrerler
-**(50)**
-**(51)**
-**(52)**
-**(53)**
-**(54)**
-**(55)**
-**(56)**
-**(57)**
-**(58)**
-**(59)**
-**(60)**
-**(61)**
-**(62)**
-**(63)**
-**(64)**
-**(65)**
-**(66)**
-**(67)**
-**(68)**
-**(69)**
-**(70)**
-**(71)**
-**(72)**
+**(50)** ona indirdiğimiz bu (Kur’an) mübarek bir öğüttür onu şimdi siz ediyor musunuz? inkar
+**(51)** ve andolsun daha önceden İbrahim’e doğru yolu bulma yeteneğini biz vermiştik ve onu biz idik biliyor
+**(52)** hani babasına ve kavmine demişti ki sizin kendisine taptığınız şu heykeller nedir?
+**(53)** dediler ki babalarımızı onlara tapıyorlar bulduk
+**(54)** doğrusu dedi siz ve babalarınız açık bir sapıklık içindesiniz
+**(55)** dediler ki gerçeği bize getirdin mi? yoksa sen şaka mı yapıyorsun?
+**(56)** hayır dedi Rabbiniz göklerin ve yerin Rabbidir o ki onları yaratmıştır ve ben de bunun üzerine şahidlik edenlerdenim
+**(57)** Allah’a and olsun ki arkanızı dönüp siz gittikten sonra putlarınıza bir tuzak kuracağım
+**(58)** nihayet onları etti parça parça yalnız hariç onların büyüğü belki ona müracaat ederler (diye)
+**(59)** bunu tanrılarımıza kim? yaptı dediler muhakkak o zalimlerden biridir
+**(60)** onları diline dolayan bir genç işittik dediler kendisine İbrahim deniliyormuş
+**(61)** insanların gözü önüne onu getirin dediler böylece onlar tanık olsunlar
+**(62)** İbrahim tanrılarımıza bunu sen mi? yaptın dediler ki
+**(63)** hayır dedi işte şu büyükleri yapmış onlara sorun eğer onlar konuşurlarsa
+**(64)** kendi vicdanlarına döndüler ve hakikaten siz sizler haksızsınız dediler
+**(65)** sonra yine eski kafaları üzerine döndürüldüler muhakkak bilirsin ki bunlar konuşmazlar
+**(66)** dedi ki Allah’ı bırakıp da asla size fayda vermeyen ve hiçbir zarar vermeyen şeylere tapıyor musunuz?
+**(67)** Allah’tan dışında taptıklarınıza ve size yuh olsun aklınızı kullanmıyor musunuz siz?
+**(68)** dediler ki onu (İbrahim’i) yakın ve tanrılarınıza yardım edin eğer siz (bir iş) yapacaksanız
+**(69)** biz de dedik ki ateş İbrahim’e serin ve esenlik ol
+**(70)** ve ona bir tuzak kurmak istediler biz de kendilerini uğrattık hüsrana
+**(71)** ve alemlere bereketli kıldığımız bir yere (getirerek) Lut’u ve onu kurtardık
+**(72)** ve bağış olarak ona İshak’ı ve Ya’kub’u hediye ettik ve hepsini salihlerden yaptık
 **(73)**
 **(74)**
 **(75)**
