@@ -82,43 +82,43 @@ tag:
 **(70)** ve ona bir tuzak kurmak istediler biz de kendilerini uğrattık hüsrana
 **(71)** ve alemlere bereketli kıldığımız bir yere (getirerek) Lut’u ve onu kurtardık
 **(72)** ve bağış olarak ona İshak’ı ve Ya’kub’u hediye ettik ve hepsini salihlerden yaptık
-**(73)**
-**(74)**
-**(75)**
-**(76)**
-**(77)**
-**(78)**
-**(81)**
-**(82)**
-**(83)**
-**(84)**
-**(85)**
-**(86)**
-**(87)**
-**(88)**
-**(89)**
-**(90)**
-**(91)**
-**(92)**
-**(93)**
-**(94)**
-**(95)**
-**(96)**
-**(97)**
-**(98)**
-**(99)**
-**(100)**
-**(101)**
-**(102)**
-**(103)**
-**(104)**
-**(105)**
-**(106)**
-**(107)**
-**(108)**
-**(109)**
-**(110)**
-**(111)**
-**(112)**
+**(73)** ve emrimizle doğru yolu gösteren önderler yaptık onları ve hayırlı işler yapmayı ve namaz kılmayı ve zekat vermeyi onlara vahyettik ve bize kulluk eden (insanlar) idiler
+**(74)** ve Lut’a hüküm ve ilim verdik ve bir kentten onu kurtardık ki (onlar) çirkin işler yapıyor idiler yoldan çıkan[büyük günah işleyen] kötü bir kavim idiler
+**(75)** ve rahmetimizin içine onu soktuk çünkü o Salihlerden idi 
+**(76)** ve Nuh’u da, hani bunlardan önce bize yalvarmıştı onun (du’asını) biz de kabul etmiştik büyük sıkıntıdan ailesini ve kendisini kurtarmıştık
+**(77)** ve ayetlerimizi yalanlayan kimselerin kavminden onu koruduk çünkü onlar kötü bir kavim olmuşlardı hepsini biz de onları boğmuştuk
+**(78)** 
+**(81)** 
+**(82)** 
+**(83)** 
+**(84)** 
+**(85)** 
+**(86)** 
+**(87)** 
+**(88)** 
+**(89)** 
+**(90)** 
+**(91)** 
+**(92)** 
+**(93)** 
+**(94)** 
+**(95)** 
+**(96)** 
+**(97)** 
+**(98)** 
+**(99)** 
+**(100)** 
+**(101)** 
+**(102)** 
+**(103)** 
+**(104)** 
+**(105)** 
+**(106)** 
+**(107)** 
+**(108)** 
+**(109)** 
+**(110)** 
+**(111)** 
+**(112)** 
 
 ![21Enbiyâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
