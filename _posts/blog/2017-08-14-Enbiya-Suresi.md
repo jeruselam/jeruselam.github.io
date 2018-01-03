@@ -86,12 +86,14 @@ tag:
 **(74)** ve Lut’a hüküm ve ilim verdik ve bir kentten onu kurtardık ki (onlar) çirkin işler yapıyor idiler yoldan çıkan[büyük günah işleyen] kötü bir kavim idiler
 **(75)** ve rahmetimizin içine onu soktuk çünkü o Salihlerden idi 
 **(76)** ve Nuh’u da, hani bunlardan önce bize yalvarmıştı onun (du’asını) biz de kabul etmiştik büyük sıkıntıdan ailesini ve kendisini kurtarmıştık
-**(77)** ve ayetlerimizi yalanlayan kimselerin kavminden onu koruduk çünkü onlar kötü bir kavim olmuşlardı hepsini biz de onları boğmuştuk
-**(78)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
+**(77)** ve ayetlerimizi yalanlayan kimselerin kavminden onu koruduk çünkü onlar kötü bir kavim olmuşlardı biz de onları hepsini boğmuştuk
+**(78)** ve Davud’u ve Süleyman’ı, hani toplumun[kavmin] davarı orada yayıldığı zaman bir ekin hakkında onlar hükmediyorlardı onların hükümlerine biz de şahid idik
+**(79)** Süleyman’a onu bellettik ve hepsine hükümdarlık ve bilgi verdik 	ve tesbih eden dağları ve kuşları Davud’a onunla beraber boyun eğdirdik ve biz (bunları) yaparız
+**(80)** ve savaşın şiddetinden sizi korumak için sizin için zırh yapmayı ona öğretmiştik (o halde) siz şükredenlerden misiniz?
+**(81)** ve Süleyman’a şiddetli fırtınayı, içini bereketlendirdiğimiz yere onun emriyle akıp giderdi ve biz her şeyi biliriz
+**(82)** ve kendisi için denize dalan ve bundan başka işler yapan şeytanlardan kimseleri ve onları onun emrinde biz tutuyor idik
+**(83)** ve Eyyub’u da hani Rabbine du’a etmişti bu dert bana dokundu gerçekten diye ve sen merhametlilerin en merhametlisisin
+**(84)** onu(n du’asını) biz de kabul ettik ve onun ne varsa derdi kaldırdık ve ailesini ve ibadet edenler için tarafımızdan bir rahmet ve bir öğüt olarak onlarla beraber bir katını daha ona verdik
 **(85)** 
 **(86)** 
 **(87)** 
