@@ -113,14 +113,14 @@ tag:
 **(101)** kuşkusuz kendilerine bizden güzellik geçmiş olan(lar) kimseler işte onlar ondan (cehennemden) uzaklaştırılmışlardır
 **(102)** onun uğultusunu duymazlar ve onlar canlarının çektiği (ni’metler) içinde ebedi kalırlar
 **(103)** en büyük korku asla onları tasalandırmaz melekler onları şöyle karşılar işte bu size va’dedilen gününüzdür
-**(104)** 
-**(105)** 
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
-**(110)** 
-**(111)** 
-**(112)** 
+**(104)** göğü o gün yazı tomarlarını dürer gibi düreriz yaratmaya ilk başladığımız gibi onu iade ederiz üzerimize sözdür şüphesiz biz bunu yapacağız
+**(105)** ve andolsun Zikir’den (Tevrat’tan) sonra Zebur’da yazmıştık iyi kullarım mutlaka arza varis olacak
+**(106)** şüphesiz kulluk eden kavimler için bunda elbette bir öğüt vardır
+**(107)** ve alemler için rahmetten başka sebeple biz seni göndermedik
+**(108)** de ki şüphesiz bana vahyolunur ancak Tanrınız[ilāh] bir tek Tanrıdır siz O’na teslim[erkek müslümanlar] olacak mısınız?
+**(109)** eğer yüz çevirirlerse de ki eşit biçimde ben size açıkladım tehdid edildiğiniz şeyin uzak (mı olduğunu) yoksa yakın mı (olduğunu) artık bilmem
+**(110)** şüphesiz O sözün açığını bilir ve ne gizliyorsanız bilir
+**(111)** ve bilmem belki de o sizi denemek içindir ve bir süreye kadar yaşatmak içindir
+**(112)** dedi ki Rabbim hak ile hükmet ve Rabbimiz çok merhamet edendir sizin nitelendirdiğiniz şeye karşı O’nun yardımına sığınılır[istenir] 
 
 ![21Enbiyâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
