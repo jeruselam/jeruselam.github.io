@@ -99,20 +99,20 @@ tag:
 **(87)** ve Zünnun’u kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti karanlıklar içinde nihayet yalvardı senden başka tanrı yoktur diye senin şanın yücedir muhakkak ben zalimlerden oldum
 **(88)** onu(n du’asını) biz de kabul ettik ve tasadan onu kurtardık işte böyle inananları biz kurtarırız
 **(89)** ve Zekeriyya’yı da hani Rabbine du’a etmişti Rabbim tek başıma beni bırakma ve sen varislerin en iyisisin
-**(90)** 
-**(91)** 
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
-**(99)** 
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
+**(90)** onu(n du’asını) kabul buyurduk ve Yahya’yı ona armağan ettik ve eşini kendisi için ıslah ettik gerçekten onlar hayır (işlere) koşuyor(lar) idiler ve [ihlasla]umarak ve [çekinip]korkarak bize du’a ederlerdi ve bize[şefkatle sevene layık surette] derin bir saygı içinde idiler
+**(91)** ırzını korumuş olanı (Meryemi) ve ruhumuzdan ona üflemiştik ve oğlunu ve onu alemlere bir ibret yapmıştık
+**(92)** işte bu sizin ümmetiniz bir tek ümmettir sizin Rabbiniz şüphesiz benim yalnız bana kulluk edin
+**(93)** ve aralarında işlerini parçaladılar hepsi bize döneceklerdir
+**(94)** iyi işlerden ve o inanmış olarak kim yaparsa onun çabasına nankörlük edilmez asla şüphesiz biz onu (çalışmasını) yazmaktayız
+**(95)** ve helak ettiğimiz bir ülkeye (yaşamak) haramdır onlar bir daha geri dönemezler
+**(96)** nihayet Ye’cuc’un ve Me’cuc’un önü açıldığı ve onlar her tepeden akın etmeye başladıkları zaman
+**(97)** ve birden o gerçek va’d yaklaşır inkar eden(lerin) kimselerin gözleri donup kalır vah bize gaflet içinde gerçekten biz idik
+**(98)** şüphesiz siz ve Allah’tan başka taptıklarınız cehennemin odunusunuz siz oraya gireceksiniz
+**(99)** eğer onlar tanrılar olsalardı oraya girmezlerdi oysa hepsi orada sürekli kalacaklardır
+**(100)** orada bir inleme[ateş gürültüsü] onlar için vardır ve onlar orada hiçbir şey işitmezler
+**(101)** kuşkusuz kendilerine bizden güzellik geçmiş olan(lar) kimseler işte onlar ondan (cehennemden) uzaklaştırılmışlardır
+**(102)** onun uğultusunu duymazlar ve onlar canlarının çektiği (ni’metler) içinde ebedi kalırlar
+**(103)** en büyük korku asla onları tasalandırmaz melekler onları şöyle karşılar işte bu size va’dedilen gününüzdür
 **(104)** 
 **(105)** 
 **(106)** 
