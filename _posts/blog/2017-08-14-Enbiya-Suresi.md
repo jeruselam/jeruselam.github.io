@@ -94,11 +94,11 @@ tag:
 **(82)** ve kendisi için denize dalan ve bundan başka işler yapan şeytanlardan kimseleri ve onları onun emrinde biz tutuyor idik
 **(83)** ve Eyyub’u da hani Rabbine du’a etmişti bu dert bana dokundu gerçekten diye ve sen merhametlilerin en merhametlisisin
 **(84)** onu(n du’asını) biz de kabul ettik ve onun ne varsa derdi kaldırdık ve ailesini ve ibadet edenler için tarafımızdan bir rahmet ve bir öğüt olarak onlarla beraber bir katını daha ona verdik
-**(85)** 
-**(86)** 
-**(87)** 
-**(88)** 
-**(89)** 
+**(85)** ve İsma’il’i, İdris’i ve Zu’l-Kifl’i hepsi de sabredenlerdendi
+**(86)** ve onları soktuk rahmetimize çünkü onlar Salihlerdendi
+**(87)** ve Zünnun’u kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti karanlıklar içinde nihayet yalvardı senden başka tanrı yoktur diye senin şanın yücedir muhakkak ben zalimlerden oldum
+**(88)** onu(n du’asını) biz de kabul ettik ve tasadan onu kurtardık işte böyle inananları biz kurtarırız
+**(89)** ve Zekeriyya’yı da hani Rabbine du’a etmişti Rabbim tek başıma beni bırakma ve sen varislerin en iyisisin
 **(90)** 
 **(91)** 
 **(92)** 
