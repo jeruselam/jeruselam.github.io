@@ -1,34 +1,14 @@
+---
+layout: page
+title: Tâhâ
+description: Cenab-ı Hak ile Peygamberimiz(A.S.M.) arasında bir şifre, Peygamberimizin(A.S.M) bir ismidir
+excerpt: "20'nci Sûre"
+modified: 2017-12-29T17:50:00.564948 17:00
+tag: 
+ - Tâhâ
+---
 
-Initial setup guidelines include preparing the system and executing commands.
-
-sudo eopkg it -c sytem.devel & git & ruby & ruby-devel
-
-
-It contains the commands to be executed for jekyll installation.
-
-sudo gem install jekyll
-
-
-Includes commands to execute while in the project directory: demir@demir ~/jeruselam.github.io $ 
-
-gem update jekyll
-sudo gem install jekyll bundler or gem install bundler
-
-bundle update jekyll or bundle update
-
-bundle install
-
-bundle exec jekyll build
-
-git add -A
-git commit -m "1091"
-
-git config --global user.email "vdemir@gmail.com"
-git config --global user.name "Vedat Demir"
-
-git push origin master
-git config credential.helper 'cache --timeout=19600'
-
+## 20. Tâhâ Sûresi
 
 **(1)** 
 **(2)** 
@@ -123,7 +103,7 @@ git config credential.helper 'cache --timeout=19600'
 **(91)**
 **(92)** 
 **(93)** 
-**(94)**  
+**(94)** 
 **(95)** 
 **(96)** 
 **(97)** 
@@ -166,3 +146,4 @@ git config credential.helper 'cache --timeout=19600'
 **(134)** 
 **(135)** 
 
+![20Tâhâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
