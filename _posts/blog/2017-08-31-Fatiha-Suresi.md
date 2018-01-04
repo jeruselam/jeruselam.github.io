@@ -16,5 +16,5 @@ tag:
 **(3)** (O) Rahman’dır Rahim’dir
 **(4)** din gününün sahibidir
 **(5)** ancak sana kulluk ederiz ancak senden yardım isteriz
-**(6)** bizi doğru yola ilet
+**(6)** doğru yola bizi ilet
 **(7)** onlar ki yoluna ni'met verdin kendilerine gazabedilmiş olan(ların) kimselerin değil ve sapmışların değil
