@@ -21,10 +21,10 @@ tag:
 **(9)** Musa’nın haberi sana geldi mi?
 **(10)** hani bir ateş görmüştü ailesine siz durun demişti elbette ben bir ateş gördüm belki size getiririm ondan bir kor yahut ateşin (yanında) bir yol gösteren bulurum
 **(11)** ne zaman ki o(ateşin yanı)na gelince kendisine seslenildi Musa
-**(12)** 
-**(13)** 
-**(14)** 
-**(15)** 
+**(12)** şüphesiz ben ben senin Rabbinim pabuçlarını çıkar çünkü sen kutsal vadide Tuva’dasın
+**(13)** ve ben seni seçtim şimdi dinle vahyolunanı
+**(14)** muhakkak ben ben Allah’ım benden başka tanrı yoktur bana kulluk et ve beni anmak için namaz kıl
+**(15)** mutlaka Sa’at[kıyamet] neredeyse gelecektir peşinde koştuğu şeylerle her nefsin cezalanması için onu gizleyeceğim
 **(16)** 
 **(17)** 
 **(18)** 
