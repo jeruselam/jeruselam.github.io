@@ -11,14 +11,14 @@ tag:
 ## 20. Tâhâ Sûresi
 
 **(1)** Ta, Ha.
-**(2)** 
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)** 
-**(7)** 
-**(8)** 
-**(9)** 
+**(2)** sana (bu) Kur’an’ı güçlük çekesin diye biz indirmedik
+**(3)** ancak korkan(lar) kimseler için bir öğüt (indirdik)
+**(4)** yüce gökleri ve yeri yaratan tarafından (O) indirilmiştir
+**(5)** Rahman Arş üzerine istiva etmiş(kurulmuş)tur
+**(6)** göklerde ne varsa ve yerde ne varsa ve ikisinin arasında ne varsa ve toprağın altında ne varsa hep O’nundur
+**(7)** ve eğer sözü açık da söylesen muhakkak O gizliyi ve daha gizlisini bilir 
+**(8)** Allah (ki) O’ndan başka tanrı yoktur en güzel isimler O’nundur
+**(9)** Musa’nın haberi sana geldi mi?
 **(10)** 
 **(11)** 
 **(12)** 
