@@ -19,8 +19,8 @@ tag:
 **(7)** ve eğer sözü açık da söylesen muhakkak O gizliyi ve daha gizlisini bilir 
 **(8)** Allah (ki) O’ndan başka tanrı yoktur en güzel isimler O’nundur
 **(9)** Musa’nın haberi sana geldi mi?
-**(10)** 
-**(11)** 
+**(10)** hani bir ateş görmüştü ailesine siz durun demişti elbette ben bir ateş gördüm belki size getiririm ondan bir kor yahut ateşin (yanında) bir yol gösteren bulurum
+**(11)** ne zaman ki o(ateşin yanı)na gelince kendisine seslenildi Musa
 **(12)** 
 **(13)** 
 **(14)** 
