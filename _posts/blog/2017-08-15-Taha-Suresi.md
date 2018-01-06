@@ -25,7 +25,7 @@ tag:
 **(13)** ve ben seni seçtim şimdi dinle vahyolunanı
 **(14)** muhakkak ben ben Allah’ım benden başka tanrı yoktur bana kulluk et ve beni anmak için namaz kıl
 **(15)** mutlaka Sa’at[kıyamet] neredeyse gelecektir peşinde koştuğu şeylerle her nefsin cezalanması için onu gizleyeceğim
-**(16)** 
+**(16)** inanmayan ve keyfine uyan kimse on(a inanmak)dan asla seni alıkoymasın	sonra helak olursun 
 **(17)** 
 **(18)** 
 **(19)** 
