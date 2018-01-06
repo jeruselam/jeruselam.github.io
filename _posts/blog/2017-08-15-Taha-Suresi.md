@@ -28,13 +28,13 @@ tag:
 **(16)** inanmayan ve keyfine[gelip geçici heves] uyan kimse on(a inanmak)dan asla seni alıkoymasın sonra helak olursun 
 **(17)** Musa sağ elindeki şu nedir?
 **(18)** dedi ki O asa’mdır ona dayanıyorum ve davarım için onunla yaprak silkeliyorum ve benim onda daha başka ihtiyaçlarım var 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
+**(19)** (Allah) buyurdu Musa (yere) at onu
+**(20)** onu attı (bir de ne görsün) o koşan kocaman bir yılan
+**(21)** al onu ve korkma dedi ilk durumuna[haline] biz onu [birbiri ardınca]sokacağız
+**(22)** ve elini böğrüne sok ayrı bir mu’cize olarak bir hastalık olmadan bembeyaz olarak çıksın
+**(23)** en büyük mu’cizelerimizden bazılarını sana göstermek için
+**(24)** sen git Fir’avn’e çünkü o azdı[değişti, bozuldu, kinlendi, hiddetlendi]
+**(25)** dedi ki Rabbim benim göğsümü aç
 **(26)** 
 **(27)** 
 **(28)** 
