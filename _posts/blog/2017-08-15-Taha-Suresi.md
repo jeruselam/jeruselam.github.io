@@ -26,8 +26,8 @@ tag:
 **(14)** muhakkak ben ben Allah’ım benden başka tanrı yoktur bana kulluk et ve beni anmak için namaz kıl
 **(15)** mutlaka Sa’at[kıyamet] neredeyse gelecektir peşinde koştuğu şeylerle her nefsin cezalanması için onu gizleyeceğim
 **(16)** inanmayan ve keyfine[gelip geçici heves] uyan kimse on(a inanmak)dan asla seni alıkoymasın sonra helak olursun 
-**(17)** 
-**(18)** 
+**(17)** Musa sağ elindeki şu nedir?
+**(18)** dedi ki O asa’mdır ona dayanıyorum ve davarım için onunla yaprak silkeliyorum ve benim onda daha başka ihtiyaçlarım var 
 **(19)** 
 **(20)** 
 **(21)** 
