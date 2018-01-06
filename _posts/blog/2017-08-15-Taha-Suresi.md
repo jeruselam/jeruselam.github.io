@@ -49,7 +49,7 @@ tag:
 **(37)** zaten bir kez daha sana biz lutufta bulunmuştuk
 **(38)** vahyedilen şeyi hani annene vahyetmiştik
 **(39)** ki onu koy sandığa ve suya at su sahile onu bıraksın bana düşman olan ve ona düşman olan onu alacaktır ve gözümün önünde yetiştirilmen için senin üzerine benden bir sevgi koydum
-**(40)** 
+**(40)** hani kızkardeşin gidiyordu ve ona bakacak birini size göstereyim mi? diyordu annene böylece seni geri verdik ki gözü aydın olsun ve asla üzülmesin ve sen öldürmüştün bir adam tasadan seni kurtarmıştık ve (iyi bir) deneyişle seni denemiştik Medyen halkı arasında yıllarca sonra kaldın Musa belirlediğimiz vakitte sonra bize geldin
 **(41)** 
 **(42)** 
 **(43)** 
