@@ -35,20 +35,20 @@ tag:
 **(23)** en büyük mu’cizelerimizden bazılarını sana göstermek için
 **(24)** sen git Fir’avn’e çünkü o azdı[değişti, bozuldu, kinlendi, hiddetlendi]
 **(25)** dedi ki Rabbim benim göğsümü aç
-**(26)** 
-**(27)** 
-**(28)** 
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
+**(26)** ve işimi bana kolaylaştır
+**(27)** ve dilimin düğümünü çöz
+**(28)** sözümü anlasınlar
+**(29)** ve bana ailemden bir vezir ver[halkın sığınağı, yükü paylaşan]
+**(30)** kardeşim Harun’u
+**(31)** arkamı[sırt,kuvvet] onunla kuvvetlendir
+**(32)** ve işime onu ortak yap
+**(33)** ki seni çok tesbih edelim
+**(34)** ve seni çok analım
+**(35)** şüphesiz sen bizi gören sensin
+**(36)** buyurdu ki muhakkak Musa istediğin sana verildi 
+**(37)** zaten bir kez daha sana biz lutufta bulunmuştuk
+**(38)** vahyedilen şeyi hani annene vahyetmiştik
+**(39)** ki onu koy sandığa ve suya at su sahile onu bıraksın bana düşman olan ve ona düşman olan onu alacaktır ve gözümün önünde yetiştirilmen için senin üzerine benden bir sevgi koydum
 **(40)** 
 **(41)** 
 **(42)** 
