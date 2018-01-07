@@ -52,11 +52,11 @@ tag:
 **(40)** hani kızkardeşin gidiyordu ve ona bakacak birini size göstereyim mi? diyordu annene böylece seni geri verdik ki gözü aydın olsun ve asla üzülmesin ve sen öldürmüştün bir adam tasadan seni kurtarmıştık ve (iyi bir) deneyişle seni denemiştik Medyen halkı arasında yıllarca sonra kaldın Musa belirlediğimiz[takdir edilen] vakitte sonra bize geldin
 **(41)** ve kendim için seni yetiştirdim
 **(42)** sen ve kardeşin ayetlerimi götürün ve asla beni anmakta gevşeklik etmeyin
-**(43)** Fir’avn’a ikiniz gidin çünkü o azdı
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
+**(43)** ikiniz gidin Fir’avn’a çünkü o azdı
+**(44)** ve yumuşak bir söz söyleyin ona belki öğüt alır veya korkar
+**(45)** dediler ki Rabbimiz şüphesiz biz korkuyoruz bize taşkınlık eder diye yahut iyice azar diye
+**(46)** korkmayın dedi ben sizinle beraberim işitir ve görürüm
+**(47)** haydi varın ona deyin ki şüphesiz biz senin Rabbinin elçileriyiz İsrail oğullarını bizimle gönder ve onlara azab etme kuşkusuz biz sana getirdik Rabbinden bir ayet ve Esenlik[Selam] hidayete uyan kimseler üzerinedir
 **(48)** 
 **(49)** 
 **(50)** 
