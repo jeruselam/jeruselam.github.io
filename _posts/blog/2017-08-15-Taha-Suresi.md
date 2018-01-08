@@ -70,9 +70,9 @@ tag:
 **(58)** onun benzeri bir büyü biz de mutlaka sana getireceğiz bizimle sizin aranızda senin ne de bizim asla caymayacağımız uygun bir yer olsun buluşma zamanı tayin et
 **(59)** (Musa) dedi ki buluşma zamanınız kuşluk vakti insanaların toplanacağı ve süs (bayram) günü
 **(60)** Fir’avn dönüp gitti ve hilesini[halkın her işine karşı gelenleri] topladı sonra geldi
-**(61)** 
-**(62)** 
-**(63)** 
+**(61)** Musa onlara yazık size dedi Allah’a karşı yalan uydurmayın bir azab ile sonra kökünüzü keser ve doğrusu iftira eden kimse perişan olmuştur
+**(62)** kendi aralarında işlerini sonra tartıştılar ve gizlice konuştular
+**(63)** dediler ki gerçekten bunlar iki büyücüdür istiyorlar ki büyüleriyle yurdunuzdan sizi çıkarsınlar ve sizin örnek yolunuzu gidersinler[zihnen saptırsınlar]
 **(64)** 
 **(65)** 
 **(66)** 
