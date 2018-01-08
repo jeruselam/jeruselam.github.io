@@ -76,11 +76,11 @@ tag:
 **(64)** siz toplayın hilenizi sonra sıra halinde gelin ve üstün gelen kimse bugün muhakkak başarmıştır
 **(65)** dediler ki Musa (ki) ya sen at yahut (ki) atan kimse önce biz olalım
 **(66)** (Musa) dedi ki hayır siz atın (bir de ne görsün) onların ipleri ve sopaları ona büyülerinden ötürü gerçekten koşuyor gibi görünüyor
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
+**(67)** Musa içinde bir korku bu yüzden duydu
+**(68)** üstün gelecek sen şüphesiz sensin korkma dedik
+**(69)** ve sağ elinde olanı at onların yaptıkları şeyleri yutsun çünkü onların yaptıkları bir büyücünün hilesidir ve nereye varsa büyücü asla iflah olmaz
+**(70)** büyücüler secdeye sonra kapandılar Harun’un ve Musa’nın Rabbine inandık dediler 
+**(71)** (Fir’avn) dedi ki size ben izin vermeden ki önce ona inandınız mı? şüphesiz O büyüğünüzdür büyüyü size öğreten kimsedir sizin ellerinizi ve ayaklarınızı çapraz öyleyse ben keseceğim ve hurma dallarına sizi asacağım ve hangimizin azabı daha çetinmiş ve sürekli imiş bileceksiniz
 **(72)** 
 **(73)** 
 **(74)** 
