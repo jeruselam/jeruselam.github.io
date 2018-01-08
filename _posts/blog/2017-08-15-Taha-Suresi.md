@@ -61,13 +61,13 @@ tag:
 **(49)** dedi ki Rabbiniz kimdir? Musa
 **(50)** dedi Rabbimiz o ki her şeye yaratılışını verendir sonra onu doğru yola iletendir
 **(51)** (Fir’avn) dedi ilk nesillerin hali ne olacak?
-**(52)** 
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
+**(52)** dedi ki onların bilgisi Rabbimin yanında bir Kitaptadır Rabbim asla şaşmaz ve unutmaz
+**(53)** o ki size yeri beşik yaptı ve sizin için onda yollar açtı ve gökten bir su indirdi ve onunla her çeşit bitkiden çiftler[dişi(yumurta) ve erkek(polen)] çıkardık
+**(54)** yeyin ve hayvanlarınızı otlatın şüphesiz bunda akıl sahipleri için ibretler vardır
+**(55)** ondan (topraktan) sizi yarattık yine oraya döndürürüz ve sonra bir kez daha ondan sizi çıkarırız 
+**(56)** ve andolsun ayetlerimizin biz ona gösterdik hepsini yine de yalanladı ve dayattı
+**(57)** dedi ki büyünle yurdumuzdan bizi çıkarmak için mi geldin? Musa
+**(58)** onun benzeri bir büyü biz de mutlaka sana getireceğiz bizimle sizin aranızda senin ne de bizim asla caymayacağımız uygun bir yer olsun buluşma zamanı tayin et
 **(59)** 
 **(60)** 
 **(61)** 
