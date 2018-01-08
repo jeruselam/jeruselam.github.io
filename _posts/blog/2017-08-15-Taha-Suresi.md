@@ -81,7 +81,7 @@ tag:
 **(69)** ve sağ elinde olanı at onların yaptıkları şeyleri yutsun çünkü onların yaptıkları bir büyücünün hilesidir ve nereye varsa büyücü asla iflah olmaz
 **(70)** büyücüler secdeye sonra kapandılar Harun’un ve Musa’nın Rabbine inandık dediler 
 **(71)** (Fir’avn) dedi ki size ben izin vermeden ki önce ona inandınız mı? şüphesiz O büyüğünüzdür büyüyü size öğreten kimsedir sizin ellerinizi ve ayaklarınızı çapraz öyleyse ben keseceğim ve hurma dallarına sizi asacağım ve hangimizin azabı daha çetinmiş ve sürekli imiş bileceksiniz
-**(72)** 
+**(72)** dediler ki açık delillere bize gelene ve bizi yaratan kimseye asla seni tercih edemeyiz sen yapacağın şeyi o halde yap ancak bu dünya hayatında (istediğini) yapabilirsin
 **(73)** 
 **(74)** 
 **(75)** 
