@@ -11,7 +11,7 @@ tag:
 
 ## 95. Tîn Sûresi
 **(1)** Andolsun incire ve zeytine
-**(2)** ve sina dağına
+**(2)** ve Sina dağına
 **(3)** ve bu güvenli şehre (andolsun)
 **(4)** andolsun biz insanı en güzel biçimde yarattık
 **(5)** sonra onu aşağıların aşağısına çevirdik

@@ -57,10 +57,10 @@ tag:
 **(45)** dediler ki Rabbimiz şüphesiz biz korkuyoruz bize taşkınlık eder diye yahut iyice azar diye
 **(46)** korkmayın dedi ben sizinle beraberim işitir ve görürüm
 **(47)** haydi varın ona deyin ki şüphesiz biz senin Rabbinin elçileriyiz İsrail oğullarını bizimle gönder ve onlara azab etme kuşkusuz biz sana getirdik Rabbinden bir ayet ve Esenlik[Selam] hidayete uyan kimseler üzerinedir
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
+**(48)** gerçekten biz muhakkak azabın yalanlayan kimsenin ve yüz çevirenin üzerine (olacağı) doğrusu bize vahyolundu 
+**(49)** dedi ki Rabbiniz kimdir? Musa
+**(50)** dedi Rabbimiz o ki her şeye yaratılışını verendir sonra onu doğru yola iletendir
+**(51)** (Fir’avn) dedi ilk nesillerin hali ne olacak?
 **(52)** 
 **(53)** 
 **(54)** 
