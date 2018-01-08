@@ -68,8 +68,8 @@ tag:
 **(56)** ve andolsun ayetlerimizin biz ona gösterdik hepsini yine de yalanladı ve dayattı
 **(57)** dedi ki büyünle yurdumuzdan bizi çıkarmak için mi geldin? Musa
 **(58)** onun benzeri bir büyü biz de mutlaka sana getireceğiz bizimle sizin aranızda senin ne de bizim asla caymayacağımız uygun bir yer olsun buluşma zamanı tayin et
-**(59)** 
-**(60)** 
+**(59)** (Musa) dedi ki buluşma zamanınız kuşluk vakti insanaların toplanacağı ve süs (bayram) günü
+**(60)** Fir’avn dönüp gitti ve hilesini[halkın her işine karşı gelenleri] topladı sonra geldi
 **(61)** 
 **(62)** 
 **(63)** 
