@@ -73,9 +73,9 @@ tag:
 **(61)** Musa onlara yazık size dedi Allah’a karşı yalan uydurmayın bir azab ile sonra kökünüzü keser ve doğrusu iftira eden kimse perişan olmuştur
 **(62)** kendi aralarında işlerini sonra tartıştılar ve gizlice konuştular
 **(63)** dediler ki gerçekten bunlar iki büyücüdür istiyorlar ki büyüleriyle yurdunuzdan sizi çıkarsınlar ve sizin örnek yolunuzu gidersinler[zihnen saptırsınlar]
-**(64)** 
-**(65)** 
-**(66)** 
+**(64)** siz toplayın hilenizi sonra sıra halinde gelin ve üstün gelen kimse bugün muhakkak başarmıştır
+**(65)** dediler ki Musa (ki) ya sen at yahut (ki) atan kimse önce biz olalım
+**(66)** (Musa) dedi ki hayır siz atın (bir de ne görsün) onların ipleri ve sopaları ona büyülerinden ötürü gerçekten koşuyor gibi görünüyor
 **(67)** 
 **(68)** 
 **(69)** 
