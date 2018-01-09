@@ -82,12 +82,12 @@ tag:
 **(70)** büyücüler secdeye sonra kapandılar Harun’un ve Musa’nın Rabbine inandık dediler 
 **(71)** (Fir’avn) dedi ki size ben izin vermeden ki önce ona inandınız mı? şüphesiz O büyüğünüzdür büyüyü size öğreten kimsedir sizin ellerinizi ve ayaklarınızı çapraz öyleyse ben keseceğim ve hurma dallarına sizi asacağım ve hangimizin azabı daha çetinmiş ve sürekli imiş bileceksiniz
 **(72)** dediler ki açık delillere bize gelene ve bizi yaratan kimseye asla seni tercih edemeyiz sen yapacağın şeyi o halde yap ancak bu dünya hayatında (istediğini) yapabilirsin
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
+**(73)** bizim günahlarımızı ve üzerine büyüyü bizi yapmaya zorladığın şeyleri bağışlaması için kuşkusuz biz Rabbimize inandık Allah daha hayırlıdır ve daha süreklidir
+**(74)** şüphesiz suçlu olarak Rabbine kim gelirse cehennem onun için vardır orada ölemez ve yaşayamaz
+**(75)** ve muhakkak iyi işler yapmış olarak bir mü’min kim O’na gelirse yüksek dereceler işte onlar için vardır
+**(76)** altlarından ırmaklar akan Adn cennetleri orada sürekli olarak kalırlar ve arınan kimselerin mükafatı işte budur
+**(77)** ve andolsun kullarımı geceleyin yürüt ve onlar için denizde kuru bir yol vur[tut] yetişme(sin)den korkma ve endişe etme diye Musa’ya biz vahyetmiştik
+**(78)** Fir’avn askerleriyle onların ardına düştü denizden onları örten şey örttü (boğdu)
 **(79)** 
 **(80)** 
 **(81)** 
