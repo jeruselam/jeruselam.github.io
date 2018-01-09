@@ -88,15 +88,15 @@ tag:
 **(76)** altlarından ırmaklar akan Adn cennetleri orada sürekli olarak kalırlar ve arınan kimselerin mükafatı işte budur
 **(77)** ve andolsun kullarımı geceleyin yürüt ve onlar için denizde kuru bir yol vur[tut] yetişme(sin)den korkma ve endişe etme diye Musa’ya biz vahyetmiştik
 **(78)** Fir’avn askerleriyle onların ardına düştü denizden onları örten şey örttü (boğdu)
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)**
+**(79)** ve Fir’avn toplumunu saptırdı ve doğru yola iletmedi
+**(80)** İsrail oğulları andolsun düşmanınızdan biz sizi kurtardık ve Tur’un sağ yanında size va’dettik ve üzerinize kudret helvası ve bıldırcın indirdik
+**(81)** sizi rızıklandırdığımız şeylerin temizlerinden yeyin ama bu hususta taşkınlık etmeyin gazabım üzerinize sonra iner ve gazabım kimin üstüne inerse andolsun o düşmüş(mahvolmuş)tur
+**(82)** ve ben tevbe eden ve inanan ve yararlı iş yapan sonra da yola gelen kimseye karşı çok bağışlayıcıyımdır 
+**(83)** kavminden (ayrılmaya) seni aceleyle sevk eden nedir? Musa
+**(84)** dedi ki onlar işte benim izim üzerindeler ve Rabbim razı olman için sana ben acele ettim
+**(85)** ama biz dedi senden sonra kavmini muhakkak sınadık ve Samiri onları saptırdı
+**(86)** Musa üzüntülü[pişman] çok kızgın[öfkeli] bir halde kavmine bunun üzerine döndü Kavmim dedi güzel bir va’adle Rabbiniz size va’detmemiş miydi? süre size uzun mu geldi? Rabbinizden bir gazabın üstünüze insin diye mi istediniz? bana verdiğiniz sözden bu yüzden caydınız
+**(87)** dediler ki kendi malımızla senin sözünden çıkmadık fakat o milletin süs(eşyas)ından yükler (günahlar) bize yükletilmişti onları attık aynı şekilde Samiri de attı
 **(88)** 
 **(89)** 
 **(90)** 
