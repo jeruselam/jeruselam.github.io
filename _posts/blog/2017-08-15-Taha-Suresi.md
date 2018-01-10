@@ -97,7 +97,7 @@ tag:
 **(85)** ama biz dedi senden sonra kavmini muhakkak sınadık ve Samiri onları saptırdı
 **(86)** Musa üzüntülü[pişman] çok kızgın[öfkeli] bir halde kavmine bunun üzerine döndü Kavmim dedi güzel bir va’adle Rabbiniz size va’detmemiş miydi? süre size uzun mu geldi? Rabbinizden bir gazabın üstünüze insin diye mi istediniz? bana verdiğiniz sözden bu yüzden caydınız
 **(87)** dediler ki kendi malımızla senin sözünden çıkmadık fakat o milletin süs(eşyas)ından yükler (günahlar) bize yükletilmişti onları attık aynı şekilde Samiri de attı
-**(88)** 
+**(88)** onun böğürmesi olan bir buzağı heykeli onlara sonra ortaya çıkardı dediler ki bu sizin tanrınız ve Musa’nın tanrısıdır fakat o unuttu
 **(89)** 
 **(90)** 
 **(91)**
