@@ -98,9 +98,9 @@ tag:
 **(86)** Musa üzüntülü[pişman] çok kızgın[öfkeli] bir halde kavmine bunun üzerine döndü Kavmim dedi güzel bir va’adle Rabbiniz size va’detmemiş miydi? süre size uzun mu geldi? Rabbinizden bir gazabın üstünüze insin diye mi istediniz? bana verdiğiniz sözden bu yüzden caydınız
 **(87)** dediler ki kendi malımızla senin sözünden çıkmadık fakat o milletin süs(eşyas)ından yükler (günahlar) bize yükletilmişti onları attık aynı şekilde Samiri de attı
 **(88)** onun böğürmesi olan bir buzağı heykeli onlara sonra ortaya çıkardı dediler ki bu sizin tanrınız ve Musa’nın tanrısıdır fakat o unuttu
-**(89)** bir sözle kendilerine asla dönemez
-**(90)** 
-**(91)**
+**(89)** bir sözle kendilerine asla dönemez onlar görmüyorlar mı? ve onlara yarar ve bir zarar vermeye malik değildir
+**(90)** önceden andolsun Harun kendilerine demişti kavmim şüphesiz bununla siz sınandınız ve şüphesiz Rabbiniz çok esirgeyendir bana tâbi olun ve buyruğuma ita’at edin
+**(91)** Musa bize dönünceye kadar buna tapmaktan asla vazgeçmeyeceğiz dediler
 **(92)** 
 **(93)** 
 **(94)** 
