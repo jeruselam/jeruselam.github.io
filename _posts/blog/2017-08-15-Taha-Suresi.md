@@ -104,9 +104,9 @@ tag:
 **(92)** Harun dedi [o] zaman gördüğünde onların saptıklarını sana engel olan nedir? 
 **(93)** neden bana uymadın? buyruğuma karşı mı geldin?
 **(94)** (ey) anamın oğlu dedi sakalımı ve başımı tutma muhakkak ki ben sözümü tutmadın ve İsrail oğulları arasında ayrılık çıkardın diyeceksin diye korktum
-**(95)** 
-**(96)** 
-**(97)** 
+**(95)** dedi ki Samiri senin amacın nedir?
+**(96)** dedi ki onların görmedikleri şeyleri ben gördüm onda Elçinin eserinden bir avuç sonra aldım ve onu attım ve böyle (yapmayı) nefsim bana hoş gösterdi
+**(97)** (Musa) dedi git (defol) artık sen hayat boyunca bana dokunmayın! diyeceksin ve şüphesiz sana va’dedilenden (cezadan) asla kurtulamayacaksın durup ısrarla ona taptığın tanrına şimdi bak biz onu yakacağız sonra ufalayıp denize onu savuracağız
 **(98)** 
 **(99)** 
 **(100)** 
