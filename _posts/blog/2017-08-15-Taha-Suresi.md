@@ -127,9 +127,9 @@ tag:
 **(115)** ve andolsun önceden Adem’e biz emretmiştik fakat unuttu ve onda bir azim biz bulmadık
 **(116)** ve hani meleklere demiştik Adem’e secede edin secde ettiler yalnız İblis[şeytan] diretti
 **(117)** dedik ki Adem şüphesiz bu düşmandır sana ve eşine sakın sizi çıkarmasın cennetten sonra [bela ve sıkıntıya düşerek]yorulursun
-**(118)** 
-**(119)** 
-**(120)** 
+**(118)** şüphesiz senin için burada acıkmak yoktur ve çıplak kalmak yoktur
+**(119)** ve şüphesiz sen burada susamayacaksın ve sıcaktan etkilenmeyeceksin
+**(120)** nihayet fısıldadı ona şeytan dedi ki Adem [sonu olmayan]ebedilik [sülale]ağacını ve yok olmayacak bir [mülk olarak]hükümranlığı sana göstereyim mi? 
 **(121)** 
 **(122)** 
 **(123)** 
