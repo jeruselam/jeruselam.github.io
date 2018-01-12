@@ -109,9 +109,9 @@ tag:
 **(97)** (Musa) dedi git (defol) artık sen hayat boyunca bana dokunmayın! diyeceksin ve şüphesiz sana va’dedilenden (cezadan) asla kurtulamayacaksın durup ısrarla ona taptığın tanrına şimdi bak biz onu yakacağız sonra ufalayıp denize onu savuracağız
 **(98)** ancak tanrınız[ilah] O’ndan başka tanrı[ilah] olmayan Allah’tır O’nun bilgisi her şeyi kuşatmıştır
 **(99)** böylece geçmişlerin haberlerinden sana anlatıyoruz katımızdan bir Zikir gerçekten sana verdik
-**(100)** 
-**(101)** 
-**(102)** 
+**(100)** kim yüz çevirirse ondan şüphesiz o kıyamet günü (ağır) bir günah yüklenecektir
+**(101)** orada sürekli olarak kalacaklardır ve kıyamet gününde onlar için ne kötü bir yüktür
+**(102)** o gün Sur’a üflenir ve o gün kör bir durumda suçluları toplarız
 **(103)** 
 **(104)** 
 **(105)** 
