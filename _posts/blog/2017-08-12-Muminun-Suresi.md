@@ -15,7 +15,7 @@ tag:
 **(3)** ve onlar boş şeylerden[faydasız çirkin söz, hata etmek] yüz çevirirler
 **(4)** ve onlar zekatı verirler
 **(5)** ve onlar ırzlarını korurlar
-**(6)** ancak hariç eşleri yahut ellerinin sahip oldukları (kadın hizmetli) elbette[nikah ile] onlar kınanacak değildir
+**(6)** ancak hariç eşleri yahut ellerinin sahip oldukları (kadın hizmetliler) elbette[nikahı ile] onlar kınanacak değildir
 **(7)** o halde kim bunun ötesine[başka tarafa] gitmek isterse işte onlar haddi aşanlardır
 **(8)** ve onlar emanetlerine ve ahidlerine özen gösterirler
 **(9)** ve onlar namazlarını korurlar
