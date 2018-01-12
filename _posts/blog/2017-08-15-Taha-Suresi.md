@@ -126,7 +126,7 @@ tag:
 **(114)** gerçek[Haḳḳ] hükümdar[Melik] olan Allah yücedir vahyedilmesi sana tamamlansın diye önce[hiçbir tecrübeye dayanmadan yalnız akıl ile] Kur’an’ı (okumaya) asla acele etme ve de ki Rabbim ilmimi artır bana
 **(115)** ve andolsun önceden Adem’e biz emretmiştik fakat unuttu ve onda bir azim biz bulmadık
 **(116)** ve hani meleklere demiştik Adem’e secede edin secde ettiler yalnız İblis[şeytan] diretti
-**(117)** dedik ki Adem şüphesiz bu düşmandır sana ve eşine sakın sizi çıkarmasın cennetten sonra yorulursun[bela ve sıkıntıya düşmek]
+**(117)** dedik ki Adem şüphesiz bu düşmandır sana ve eşine sakın sizi çıkarmasın cennetten sonra [bela ve sıkıntıya düşerek]yorulursun
 **(118)** 
 **(119)** 
 **(120)** 
