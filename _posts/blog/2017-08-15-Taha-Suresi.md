@@ -131,7 +131,7 @@ tag:
 **(119)** ve şüphesiz sen burada susamayacaksın ve sıcaktan etkilenmeyeceksin
 **(120)** nihayet fısıldadı ona şeytan dedi ki Adem [sonu olmayan]ebedilik [sülale]ağacını ve yok olmayacak bir [mülk olarak]hükümranlığı sana göstereyim mi? 
 **(121)** o(ağaç)tan[ondan] yediler kötü yerleri kendilerine böylece göründü ve cennet yaprağından üstlerini örtmeğe başladılar ve Adem Rabbine [emrine]karşı geldi ve şaşırdı[yoldan çıktı]
-**(122)** 
+**(122)** sonra onu seçti[tehir etmek, sonraya bırakmak] Rabbi onun tevbesini[pişmanlık] kabul etti ve doğru yola iletti
 **(123)** 
 **(124)** 
 **(125)** 
