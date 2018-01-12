@@ -101,9 +101,9 @@ tag:
 **(89)** bir sözle kendilerine asla dönemez onlar görmüyorlar mı? ve onlara yarar ve bir zarar vermeye malik değildir
 **(90)** önceden andolsun Harun kendilerine demişti kavmim şüphesiz bununla siz sınandınız ve şüphesiz Rabbiniz çok esirgeyendir bana tâbi olun ve buyruğuma ita’at edin
 **(91)** Musa bize dönünceye kadar buna tapmaktan asla vazgeçmeyeceğiz dediler
-**(92)** 
-**(93)** 
-**(94)** 
+**(92)** Harun dedi [o] zaman gördüğünde onların saptıklarını sana engel olan nedir? 
+**(93)** neden bana uymadın? buyruğuma karşı mı geldin?
+**(94)** (ey) anamın oğlu dedi sakalımı ve başımı tutma muhakkak ki ben sözümü tutmadın ve İsrail oğulları arasında ayrılık çıkardın diyeceksin diye korktum
 **(95)** 
 **(96)** 
 **(97)** 
