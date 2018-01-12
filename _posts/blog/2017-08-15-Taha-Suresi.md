@@ -112,12 +112,12 @@ tag:
 **(100)** kim yüz çevirirse ondan şüphesiz o kıyamet günü (ağır) bir günah yüklenecektir
 **(101)** orada sürekli olarak kalacaklardır ve kıyamet gününde onlar için ne kötü bir yüktür
 **(102)** o gün Sur’a üflenir ve o gün kör bir durumda suçluları toplarız
-**(103)** 
-**(104)** 
-**(105)** 
-**(106)** 
-**(107)** 
-**(108)** 
+**(103)** kendi aralarında gizli gizli derler on gün(den) başka kalmadınız
+**(104)** onların dedikleri şeyleri biz daha iyi biliriz o zaman onların seçkinleri der ki yol (hayat tarzı) bakımından bir gün(den) başkaca siz kalmadınız
+**(105)** ve dağlardan sana soruyorlar de ki Rabbim ufalayıp onları savuracak
+**(106)** yerlerini boş, dümdüz bırakacaktır
+**(107)** orada bir eğrilik ne de bir tümsek görmeyeceksin
+**(108)** o gün onun[Hakk ve hakikatini eğri büğrü sebeblerle tahrif etmeyen] hiç pürüzü olmayan çağrıcıya uyarlar ve Rahman’ın huzurunda sesler kısılır fısıltıdan başka bir şey işitemezsin
 **(109)** 
 **(110)** 
 **(111)** 
