@@ -118,15 +118,15 @@ tag:
 **(106)** yerlerini boş, dümdüz bırakacaktır
 **(107)** orada bir eğrilik ne de bir tümsek görmeyeceksin
 **(108)** o gün onun[Hakk ve hakikatini eğri büğrü sebeblerle tahrif etmeyen] hiç pürüzü olmayan çağrıcıya uyarlar ve Rahman’ın huzurunda sesler kısılır fısıltıdan başka bir şey işitemezsin
-**(109)** 
-**(110)** 
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
-**(115)** 
-**(116)** 
-**(117)** 
+**(109)** Rahman’ın kendisine izin verdiği ve onun sözünden hoşlandığı kimseden başkasının şefa’atinin faydası o gün yoktur
+**(110)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı O bilir ve O’nu bilgice onlar ise kavrayamazlar
+**(111)** bütün yüzler[sebepler] o diri[Hayy] olana ve herşeye hakim[Kayyûm] olana boyun eğmiştir ve muhakkak zulüm yüklenen kimse perişan olmuştur
+**(112)** ve iyi olan işlerden kim yaparsa ve o inanırsa artık korkmaz zulümden ne de hakkının çiğnenmesinden
+**(113)** ve Arapça bir Kur’an olarak böyle sana onu indirdik ve onda tehditleri türlü biçimlere açıkladık umulur ki korunurlar yahut (Kur’an) onlara bir hatırlama yaptırır
+**(114)** gerçek[Haḳḳ] hükümdar[Melik] olan Allah yücedir vahyedilmesi sana tamamlansın diye önce[hiçbir tecrübeye dayanmadan yalnız akıl ile] Kur’an’ı (okumaya) asla acele etme ve de ki Rabbim ilmimi artır bana
+**(115)** ve andolsun önceden Adem’e biz emretmiştik fakat unuttu ve onda bir azim biz bulmadık
+**(116)** ve hani meleklere demiştik Adem’e secede edin secde ettiler yalnız İblis[şeytan] diretti
+**(117)** dedik ki Adem şüphesiz bu düşmandır sana ve eşine sakın sizi çıkarmasın cennetten sonra yorulursun[bela ve sıkıntıya düşmek]
 **(118)** 
 **(119)** 
 **(120)** 
