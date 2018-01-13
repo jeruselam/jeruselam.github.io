@@ -132,11 +132,11 @@ tag:
 **(120)** nihayet fısıldadı ona şeytan dedi ki Adem [sonu olmayan]ebedilik [sülale]ağacını ve yok olmayacak bir [mülk olarak]hükümranlığı sana göstereyim mi? 
 **(121)** o(ağaç)tan[ondan] yediler kötü yerleri kendilerine böylece göründü ve cennet yaprağından üstlerini örtmeğe başladılar ve Adem Rabbine [emrine]karşı geldi ve şaşırdı[yoldan çıktı]
 **(122)** sonra onu seçti[tehir etmek, sonraya bırakmak] Rabbi onun [pişmanlık]tevbesini kabul etti ve doğru yola iletti
-**(123)** 
-**(124)** 
-**(125)** 
-**(126)** 
-**(127)** 
+**(123)** dedi ki inin oradan hepiniz bir kısmınız diğerinize düşmansınız artık benden bir hidayet size geldiği zaman sonra kim benim hidayetime uyarsa (ona) sapkınlık yoktur ve bir sıkıntı yoktur
+**(124)** ama kim beni anmaktan yüz çevirirse dar bir geçim şüphesiz ki onun için vardır ve kör olarak kıyamet günü onu haşrederiz
+**(125)** der ki Rabbim kör olarak niçin? beni haşrettin andolsun ben görüyor idim
+**(126)** (Allah) buyurur ki nasıl ki ayetlerimiz sana geldiğinde sen onları unuttuysan öylece bugün sen unutulursun
+**(127)** israf eden ve Rabbinin ayetlerine inanmayanları kimseleri işte böyle cezalandırırız ve ahiretin elbette azabı daha çetindir ve daha süreklidir
 **(128)** 
 **(129)** 
 **(130)** 
