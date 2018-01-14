@@ -14,7 +14,7 @@ tag:
 **(1)** Kaf ha ya ’ayn sad
 **(2)** Rabbinin rahmetini kulu Zekeriyya’ya bu, anmasıdır
 **(3)** hani gizli bir seslenişle Rabbine yalvarmıştı
-**(4)** 
+**(4)** Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle başım [saç beyazlığı]tutuştu ve sana du’a ile Rabbim bahtsız[şikayet eden] olmadım
 **(5)** 
 **(6)** 
 **(7)** 
