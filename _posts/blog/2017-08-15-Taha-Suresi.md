@@ -137,13 +137,13 @@ tag:
 **(125)** der ki Rabbim kör olarak niçin? beni haşrettin andolsun ben görüyor idim
 **(126)** (Allah) buyurur ki nasıl ki ayetlerimiz sana geldiğinde sen onları unuttuysan öylece bugün sen unutulursun
 **(127)** israf eden ve Rabbinin ayetlerine inanmayanları kimseleri işte böyle cezalandırırız ve ahiretin elbette azabı daha çetindir ve daha süreklidir
-**(128)** 
-**(129)** 
-**(130)** 
-**(131)** 
-**(132)** 
-**(133)** 
-**(134)** 
-**(135)** 
+**(128)** meskenlerinde dolaştıkları nesillerden kendilerinden önce nicelerini yok edişimiz onları yola getirmedi mi? akıl sahipleri için ibretler elbette bunda vardır
+**(129)** Rabbin tarafından daha önce söylenmiş bir söz eğer olmasaydı (azap) gerekli ve belirtilmiş bir süre şüphesiz olurdu
+**(130)** onların dedikleri şeylere o halde sabret ve güneşin doğmasından önce ve batmasından önce Rabbini överek tesbih et gece sa’atlerinden bir kısmında ve gündüzün taraflarında tesbih et umulur ki hoşnut olursun
+**(131)** ve o konuda kendilerini denemek için dünya hayatının süsüne onlardan bazı zümreleri onunla faydalandırdığımız şeylere doğru gözlerini asla dikme ve Rabbinin rızkı daha hayırlıdır ve daha süreklidir
+**(132)** ve ailene namazı emret ve ona (namaz kılmaya) dayan biz senden istemiyoruz rızık biz seni besliyoruz ve akıbet takva(sahipleri)nindir
+**(133)** şayet şüphesiz biz ondan önce bir azab ile onları helak etseydik elbette derlerdi Rabbimiz keşke bize bir elçi gönderseydin rezil olmadan ve alçak (olmadan) önce senin ayetlerine uysaydık
+**(134)** de ki herkes gözetlemektedir gözetleyin düzgün yolun sahipleri kimdir ve doğru yolda olan kimdir bileceksiniz 
+**(135)** insanların hesapları yaklaştı fakat onlar gaflet içinde yüz çevirmektedirler
 
 ![20Tâhâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
