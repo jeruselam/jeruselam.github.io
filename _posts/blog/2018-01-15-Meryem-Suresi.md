@@ -12,8 +12,8 @@ tag:
 ## 19. Meryem Sûresi
 
 **(1)** Kaf ha ya ’ayn sad
-**(2)** 
-**(3)** 
+**(2)** Rabbinin rahmetini kulu Zekeriyya’ya bu, anmasıdır
+**(3)** hani gizli bir seslenişle Rabbine yalvarmıştı
 **(4)** 
 **(5)** 
 **(6)** 
