@@ -22,9 +22,9 @@ tag:
 **(9)** dedi ki öyledir senin Rabbin O bana kolaydır ve gerçekten daha önce ve sen hiçbir şey değilken seni de yaratmıştım dedi 
 **(10)** Rabbim dedi (öyle ise) bana bir işaret ver senin işaretin dedi sapasağlam olduğun halde üç gece insanlarla konuşamamandır
 **(11)** ma’bedden kavminin karşısına çıkıp onlara sabah ve akşam tesbih edin diye işaret etti
-**(12)** 
-**(13)** 
-**(14)** 
+**(12)** kuvvetle Kitabı tut Yahya ve çocuk iken ona hikmet verdik
+**(13)** ve katımızdan bir rahmet ve temizlik ve sakınan (bir kimse) oldu
+**(14)** ve ana babasına iyilik ediciydi ve bir zorba baş kaldıran değildi
 **(15)** 
 **(16)** 
 **(17)** 
