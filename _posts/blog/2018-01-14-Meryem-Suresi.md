@@ -20,8 +20,8 @@ tag:
 **(7)** Zekeriyya şüphesiz biz sana müjdeleriz bir oğul onun adı Yahya’dır ona daha önce adaş yapmadık
 **(8)** dedi ki Rabbim benim oğlum nasıl olur? ve karım da kısırdır ve gerçekten ihtiyarlığın son sınırına ben ulaştım
 **(9)** dedi ki öyledir senin Rabbin O bana kolaydır ve gerçekten daha önce ve sen hiçbir şey değilken seni de yaratmıştım dedi 
-**(10)** 
-**(11)** 
+**(10)** Rabbim dedi (öyle ise) bana bir işaret ver senin işaretin dedi sapasağlam olduğun halde üç gece insanlarla konuşamamandır
+**(11)** ma’bedden kavminin karşısına çıkıp onlara sabah ve akşam tesbih edin diye işaret etti
 **(12)** 
 **(13)** 
 **(14)** 
