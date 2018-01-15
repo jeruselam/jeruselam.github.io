@@ -25,7 +25,7 @@ tag:
 **(12)** kuvvetle Kitabı tut Yahya ve çocuk iken ona hikmet verdik
 **(13)** ve katımızdan bir rahmet ve temizlik ve sakınan (bir kimse) oldu
 **(14)** ve ana babasına iyilik ediciydi ve bir zorba baş kaldıran değildi
-**(15)** 
+**(15)**  doğduğu gün ve öleceği gün ve diri olarak kaldırılacağı gün ona selam olsun!
 **(16)** 
 **(17)** 
 **(18)** 
