@@ -26,17 +26,17 @@ tag:
 **(13)** ve katımızdan bir rahmet ve temizlik ve sakınan (bir kimse) oldu
 **(14)** ve ana babasına iyilik ediciydi ve bir zorba baş kaldıran değildi
 **(15)**  doğduğu gün ve öleceği gün ve diri olarak kaldırılacağı gün ona selam olsun!
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
+**(16)** Kitapta Meryem’i an (hatırla) bir zaman doğu yönünde bir yere ailesinden o ayrılıp çekilmişti
+**(17)** onlarla arasına bir perde çekmişti biz de gönderdik ona ruhumuzu (Cebrail’i) ona düzgün bir insan şeklinde göründü
+**(18)** (Meryem) dedi ki şüphesiz ben senden Rahman’a sığınırım eğer korkuyor isen
+**(19)** dedi ki sadece sana tertemiz bir erkek çocuğu hediye edeyim diye ben Rabbinin elçisiyim
+**(20)** benim oğlum nasıl olur dedi bir insan bana dokunmadı ve ben değilim iffetsiz 
+**(21)** öyledir dedi iş olup karara bağlanarak ve bizden bir rahmet ve insanlara bir mu’cize onu kılmak için Rabbin dedi O bana kolaydır 
+**(22)** ona gebe kaldı ve uzak bir yere onunla çekildi
+**(23)** ve doğum sancısı onu getirdi bir hurma dalı(nın altı)na Keşke! dedi bundan önce ölseydim ve unutulanlar gibi unutulsa idim
+**(24)** altından ona şöyle seslendi gerçekten üzülme Rabbin alt tarafında bir su arkı var etti
+**(25)** hurma dalını sana doğru silkele taze olgun hurma üzerine dökülsün
+**(26)** ye ve iç ve gözün aydın olsun eğer insanlardan birini görürsen de ki Rahman için şüphesiz ben oruç adadım bugün asla hiçbir insanla konuşmayacağım
 **(27)** 
 **(28)** 
 **(29)** 
