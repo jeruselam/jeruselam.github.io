@@ -37,9 +37,9 @@ tag:
 **(24)** altından ona şöyle seslendi gerçekten üzülme Rabbin alt tarafında bir su arkı var etti
 **(25)** hurma dalını sana doğru silkele taze olgun hurma üzerine dökülsün
 **(26)** ye ve iç ve gözün aydın olsun eğer insanlardan birini görürsen de ki Rahman için şüphesiz ben oruç adadım bugün asla hiçbir insanla konuşmayacağım
-**(27)** 
-**(28)** 
-**(29)** 
+**(27)** onu taşıyarak kavmine getirdi tuhaf, korkunç bir iş dediler Meryem gerçekten sen yaptın 
+**(28)** Harun’un kızkardeşi baban kötü bir adam değildi ve annen de iffetsiz değildi
+**(29)** onlara (çocuğu) gösterdi dediler ki çocukla beşikte[seven ve muhabbet eden hidayete vesile olan] olan kimsey(l)e nasıl konuşuruz[hitap ederiz] 
 **(30)** 
 **(31)** 
 **(32)** 
