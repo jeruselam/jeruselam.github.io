@@ -44,8 +44,8 @@ tag:
 **(31)** ve nerede olursam beni bereketli kıldı ve namaz kılmayı ve sağ olduğum sürece zekat vermeyi bana emretti
 **(32)** ve anneme iyilik eder (kıldı) ve beni baş kaldıran bir zorba yapmadı
 **(33)** ve doğduğum gün ve öleceğim gün ve diri olarak kaldırılacağım gün bana esenlik[selamet, emniyet] verilmiştir 
-**(34)** 
-**(35)** 
+**(34)** işte Meryem oğlu Îsa hakkında şüphe edip ayrılığa düştükleri gerçek söz
+**(35)** hiçbir[gayet] çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
 **(36)** 
 **(37)** 
 **(38)** 
