@@ -39,8 +39,8 @@ tag:
 **(26)** ye ve iç ve gözün aydın olsun eğer insanlardan birini görürsen de ki Rahman için şüphesiz ben oruç adadım bugün asla hiçbir insanla konuşmayacağım
 **(27)** onu taşıyarak kavmine getirdi tuhaf, korkunç bir iş dediler Meryem gerçekten sen yaptın 
 **(28)** Harun’un kızkardeşi baban kötü bir adam değildi ve annen de iffetsiz değildi
-**(29)** onlara (çocuğu) gösterdi dediler ki çocukla beşikte[tutkuyla seven ve muhabbet eden hidayete vesile] olan kimsey(l)e nasıl konuşuruz[hitap ederiz] 
-**(30)** 
+**(29)** onlara (çocuğu) gösterdi dediler ki çocukla [tutkuyla seven ve muhabbet eden hidayete vesile]beşikte olan kimsey(l)e nasıl konuşuruz[hitap ederiz] 
+**(30)** (Çocuk) dedi şüphesiz ben Allah’ın kuluyum Kitabı bana verdi ve beni peygamber yaptı
 **(31)** 
 **(32)** 
 **(33)** 
