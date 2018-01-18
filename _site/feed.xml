@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://jeruselam.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://jeruselam.github.io" />
-<updated>2018-01-18T01:54:44+03:00</updated>
+<updated>2018-01-19T01:25:13+03:00</updated>
 <id>https://jeruselam.github.io/</id>
 <author>
   <name>Jeruselam</name>
@@ -25,14 +25,20 @@
     <uri>https://jeruselam.github.io</uri>
     <email>jeruselam@yandex.com</email>
   </author>
-  <content type="html">&lt;head&gt;
-  &lt;meta content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;Content-Type&quot; /&gt;
-  &lt;title&gt;CSS Typed OM Level 1&lt;/title&gt;
-  &lt;meta content=&quot;width=device-width, initial-scale=1, shrink-to-fit=no&quot; name=&quot;viewport&quot; /&gt;
-  &lt;meta content=&quot;WD&quot; name=&quot;w3c-status&quot; /&gt;
-  &lt;link href=&quot;default.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
-  &lt;meta content=&quot;Bikeshed version 214e5510b850ac6c32ab4be02484a8388cfe3eff&quot; name=&quot;generator&quot; /&gt;
-  &lt;link href=&quot;https://www.w3.org/TR/css-typed-om-1/&quot; rel=&quot;canonical&quot; /&gt;
+  <content type="html">
+&lt;meta content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;Content-Type&quot; /&gt;
+
+&lt;title&gt;CSS Typed OM Level 1&lt;/title&gt;
+&lt;meta content=&quot;width=device-width, initial-scale=1, shrink-to-fit=no&quot; name=&quot;viewport&quot; /&gt;
+
+&lt;meta content=&quot;WD&quot; name=&quot;w3c-status&quot; /&gt;
+
+&lt;link href=&quot;default.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+
+&lt;meta content=&quot;Bikeshed version 214e5510b850ac6c32ab4be02484a8388cfe3eff&quot; name=&quot;generator&quot; /&gt;
+
+&lt;link href=&quot;https://www.w3.org/TR/css-typed-om-1/&quot; rel=&quot;canonical&quot; /&gt;
+
 &lt;style&gt;
 /* Put nice boxes around each algorithm. */
 [data-algorithm]:not(.heading) {
@@ -50,6 +56,7 @@
     margin: 1em 0;
 }
 &lt;/style&gt;
+
 &lt;style&gt;/* style-md-lists */
 
             /* This is a weird hack for me not yet following the commonmark spec
@@ -60,6 +67,7 @@
             [data-md] &gt; :last-child {
                 margin-bottom: 0;
             }&lt;/style&gt;
+
 &lt;style&gt;/* style-selflinks */
 
             .heading, .issue, .note, .example, li, dt {
@@ -106,6 +114,7 @@
             a.self-link::before            { content: &quot;¶&quot;; }
             .heading &gt; a.self-link::before { content: &quot;§&quot;; }
             dfn &gt; a.self-link::before      { content: &quot;#&quot;; }&lt;/style&gt;
+
 &lt;style&gt;/* style-counters */
 
             body {
@@ -135,6 +144,7 @@
             figcaption:not(.no-marker)::before {
                 content: &quot;Figure &quot; counter(figure) &quot; &quot;;
             }&lt;/style&gt;
+
 &lt;style&gt;/* style-autolinks */
 
             .css.css, .property.property, .descriptor.descriptor {
@@ -197,6 +207,7 @@
             [data-link-type=biblio] {
                 white-space: pre;
             }&lt;/style&gt;
+
 &lt;style&gt;/* style-dfn-panel */
 
         .dfn-panel {
@@ -234,6 +245,7 @@
 
         .dfn-paneled { cursor: pointer; }
         &lt;/style&gt;
+
 &lt;style&gt;/* style-syntax-highlighting */
 pre.idl.highlight { color: #708090; }
 .highlight:not(.idl) { background: hsl(24, 20%, 95%); }
@@ -292,16 +304,16 @@ pre.highlight, pre &gt; code.highlight { display: block; padding: 1em; margin: .
 .highlight .vi { color: #0077aa } /* Name.Variable.Instance */
 .highlight .il { color: #000000 } /* Literal.Number.Integer.Long */
 &lt;/style&gt;
-  &lt;link href=&quot;https://www.w3.org/StyleSheets/TR/2016/W3C-WD&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
-&lt;/head&gt;
+
+&lt;link href=&quot;/css/base2.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
 
 &lt;h2 id=&quot;19-meryem-sûresi&quot;&gt;19. Meryem Sûresi&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;(1)&lt;/strong&gt; Kaf ha ya ’ayn sad
 &lt;strong&gt;(2)&lt;/strong&gt; Rabbinin rahmetini kulu Zekeriyya’ya bu, anmasıdır
 &lt;strong&gt;(3)&lt;/strong&gt; hani gizli bir seslenişle Rabbine yalvarmıştı
-&lt;strong&gt;(4)&lt;/strong&gt; Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle başım tutuştu[saç beyazlığı] ve sana du’a ile Rabbim bahtsız[şikayet eden] olmadım
-&lt;strong&gt;(5)&lt;/strong&gt; doğrusu ben arkamdan[torun] yerime geçecek yakınlarımdan korktum ve karım da kısırdır (Ne olur) bana katından bir veli(aht) lutfet
+&lt;strong&gt;(4)&lt;/strong&gt; Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle [saç beyazlığıyla]başım tutuştu ve sana du’a ile Rabbim bahtsız[şikayet eden] olmadım
+&lt;strong&gt;(5)&lt;/strong&gt; doğrusu ben arkamdan[torundan] yerime geçecek yakınlarımdan korktum ve karım da kısırdır (Ne olur) bana katından bir veli(aht) lutfet
 &lt;strong&gt;(6)&lt;/strong&gt; bana mirasçı olsun ve Ya’kub oğullarına mirasçı olsun ve Rabbim razı olduklarından onu yap
 &lt;strong&gt;(7)&lt;/strong&gt; Zekeriyya şüphesiz biz sana müjdeleriz bir oğul onun adı Yahya’dır ona daha önce adaş yapmadık
 &lt;strong&gt;(8)&lt;/strong&gt; dedi ki Rabbim benim oğlum nasıl olur? ve karım da kısırdır ve gerçekten ihtiyarlığın son sınırına ben ulaştım
@@ -331,11 +343,11 @@ pre.highlight, pre &gt; code.highlight { display: block; padding: 1em; margin: .
 &lt;strong&gt;(32)&lt;/strong&gt; ve anneme iyilik eder (kıldı) ve beni baş kaldıran bir zorba yapmadı
 &lt;strong&gt;(33)&lt;/strong&gt; ve doğduğum gün ve öleceğim gün ve diri olarak kaldırılacağım gün bana esenlik[selamet, emniyet] verilmiştir 
 &lt;strong&gt;(34)&lt;/strong&gt; işte Meryem oğlu Îsa hakkında şüphe edip ayrılığa düştükleri gerçek söz
-&lt;strong&gt;(35)&lt;/strong&gt; hiçbir[gayet] çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
-&lt;strong&gt;(36)&lt;/strong&gt; 
-&lt;strong&gt;(37)&lt;/strong&gt; 
-&lt;strong&gt;(38)&lt;/strong&gt; 
-&lt;strong&gt;(39)&lt;/strong&gt; 
+&lt;strong&gt;(35)&lt;/strong&gt; [gayet]hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
+&lt;strong&gt;(36)&lt;/strong&gt; ve şüphesiz Allah benim Rabbimdir ve sizin Rabbinizdir O’na kulluk edin dosdoğru yol işte budur 
+&lt;strong&gt;(37)&lt;/strong&gt; kendi aralarından hizipler[gruplar] ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
+&lt;strong&gt;(38)&lt;/strong&gt; bize geldikleri gün ne güzel görürler onlar ne güzel işitirler ama zalimler bugün apaçık sapıklık içindedirler
+&lt;strong&gt;(39)&lt;/strong&gt; hasret[ziyan] gününe (karşı) onları uyar onlar gaflet içinde iken ve onlar iman etmezlerken o zaman işe hükmedilir 
 &lt;strong&gt;(40)&lt;/strong&gt; 
 &lt;strong&gt;(41)&lt;/strong&gt; 
 &lt;strong&gt;(42)&lt;/strong&gt; 
