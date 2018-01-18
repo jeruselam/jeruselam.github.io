@@ -9,7 +9,6 @@ tag:
  - Meryem
 ---
 
-{% include CSS.html %}
 ## 19. Meryem Sûresi
 
 **(1)** Kaf ha ya ’ayn sad
