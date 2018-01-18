@@ -48,8 +48,8 @@ tag:
 **(35)** [gayet]hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
 **(36)** ve şüphesiz Allah benim Rabbimdir ve sizin Rabbinizdir O’na kulluk edin dosdoğru yol işte budur 
 **(37)** kendi aralarından hizipler[gruplar] ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
-**(38)** 
-**(39)** 
+**(38)** bize geldikleri gün ne güzel görürler onlar ne güzel işitirler ama zalimler bugün apaçık sapıklık içindedirler
+**(39)** hasret[ziyan] gününe (karşı) onları uyar onlar gaflet içinde iken ve onlar iman etmezlerken o zaman işe hükmedilir 
 **(40)** 
 **(41)** 
 **(42)** 
