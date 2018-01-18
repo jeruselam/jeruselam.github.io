@@ -45,8 +45,8 @@ tag:
 **(32)** ve anneme iyilik eder (kıldı) ve beni baş kaldıran bir zorba yapmadı
 **(33)** ve doğduğum gün ve öleceğim gün ve diri olarak kaldırılacağım gün bana esenlik[selamet, emniyet] verilmiştir 
 **(34)** işte Meryem oğlu Îsa hakkında şüphe edip ayrılığa düştükleri gerçek söz
-**(35)** hiçbir[gayet] çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
-**(36)** 
+**(35)** [gayet]hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
+**(36)** ve şüphesiz Allah benim Rabbimdir ve sizin Rabbinizdir O’na kulluk edin dosdoğru yol işte budur 
 **(37)** 
 **(38)** 
 **(39)** 
