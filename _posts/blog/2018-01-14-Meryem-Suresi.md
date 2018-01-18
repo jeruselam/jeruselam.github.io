@@ -47,7 +47,7 @@ tag:
 **(34)** işte Meryem oğlu Îsa hakkında şüphe edip ayrılığa düştükleri gerçek söz
 **(35)** [gayet]hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
 **(36)** ve şüphesiz Allah benim Rabbimdir ve sizin Rabbinizdir O’na kulluk edin dosdoğru yol işte budur 
-**(37)** 
+**(37)** kendi aralarından hizipler[gruplar] ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
 **(38)** 
 **(39)** 
 **(40)** 
