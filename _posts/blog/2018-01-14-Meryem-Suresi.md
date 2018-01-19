@@ -50,10 +50,10 @@ tag:
 **(37)** kendi aralarından hizipler[gruplar] ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
 **(38)** bize geldikleri gün ne güzel görürler onlar ne güzel işitirler ama zalimler bugün apaçık sapıklık içindedirler
 **(39)** hasret[ziyan] gününe (karşı) onları uyar onlar gaflet içinde iken ve onlar iman etmezlerken o zaman işe hükmedilir 
-**(40)** 
-**(41)** 
-**(42)** 
-**(43)** 
+**(40)** dünyaya ve onun üzerinde bulunanlara ancak biz biz varis oluruz ve bize döndürülürler 
+**(41)** İbrahim’i Kitapta an (hatırla) gerçekten o çok doğru bir peygamber idi
+**(42)** hani babasına demişti ki babacığım sana hiçbir yararı olmayan ve görmeyen ve işitmeyen şeylere niçin? tapıyorsun
+**(43)** elbette bana babacığım sana gelmeyen bir bilgi bana geldi bana uy düzgün bir yola seni ileteyim
 **(44)** 
 **(45)** 
 **(46)** 
