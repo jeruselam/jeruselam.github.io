@@ -58,12 +58,13 @@ tag:
 **(45)** babacığım elbette ben Rahmandan bir azab sana dokunacak diye korkuyorum şeytanın dostu o zaman olursun
 **(46)** dedi ki İbrahim benim tanrılarımdan sen yüz mü çeviriyorsun? eğer vazgeçmezsen andolsun seni taşlarım[uzaklaş] uzun süre benden ayrıl, git
 **(47)** sana selam dedi Rabbimden senin için mağfiret dileyeceğim çünkü O bana çok lutufkardır
-**(48)** Allah’tan başka yalvardıklarınızdan ve sizden ayrılıyorum ve umarım ki Rabbime yalnız yalvarıyorum 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)** 
+**(48)** Allah’tan başka yalvardıklarınızdan ve sizden ayrılıyorum ve umarım ki Rabbime yalnız yalvarıyorum Rabbime yalvarmakla bahtsız olmam
+**(49)** ne zaman ki onlardan ayrıldı ve Allah’tan başka onların taptıklarından	
+İshak’ı ve Ya’kub’u ona biz armağan ettik ve hepsini peygamber yaptık
+**(50)** ve rahmetimizden onlara lutfettik ve onlar için yüce bir doğruluk dili verdik
+**(51)** Musa’yı da Kitapta an çünkü o içi temiz idi ve nebi bir peygamber{rasūl} idi
+**(52)** ve Tur’un sağ tarafından ona seslendik ve özel konuşmak için onu yaklaştırdık
+**(53)** ve peygamber olarak kardeşi Harun’u acıdığımızdan dolayı ona armağan ettik
 **(54)** 
 **(55)** 
 **(56)** 
