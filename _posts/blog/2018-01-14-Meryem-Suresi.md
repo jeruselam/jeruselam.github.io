@@ -72,9 +72,9 @@ tag:
 **(59)** öyle bir nesil onlardan sonra yerlerine geldi namazı onlar zayi{ziyan, telef} ettiler ve şehvetlerine uydular yakında onlar kötülük{aklın istikamet kaybını} bulacaklardır
 **(60)** ancak tevbe eden kimseler ve inananlar ve iyi işler yapanlar işte onlar cennete girecekler ve hiç haksızlığa uğratılmayacaklardır
 **(61)** gıyaben{ahirete ait} kullarına Rahman’ın va’dettiği Adn cennetleri(ne gireceklerdir) şüphesiz O’nun va’di yerine gelecektir
-**(62)** 
-**(63)** 
-**(64)** 
+**(62)** yalnızca selam, boş söz orada işitmezler ve sabah ve akşam orada rızıkları da hazırdır
+**(63)** kullarımızdan korunanlara vereceğimiz cennet işte budur
+**(64)** ve Rabbinin emri dışında biz {yukarıdan aşağıya}inmeyiz önümüzde olan herşey ve arkamızda olan ve bunlar arasında olan O’na aittir Rabbin unutkan asla değildir
 **(65)** 
 **(66)** 
 **(67)** 
