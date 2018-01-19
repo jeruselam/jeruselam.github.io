@@ -54,11 +54,11 @@ tag:
 **(41)** İbrahim’i Kitapta an (hatırla) gerçekten o çok doğru bir peygamber idi
 **(42)** hani babasına demişti ki babacığım sana hiçbir yararı olmayan ve görmeyen ve işitmeyen şeylere niçin? tapıyorsun
 **(43)** elbette bana babacığım sana gelmeyen bir bilgi bana geldi bana uy düzgün bir yola seni ileteyim
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
+**(44)** babacığım şeytana tapma çünkü şeytan Rahman’a isyan etmiştir
+**(45)** babacığım elbette ben Rahmandan bir azab sana dokunacak diye korkuyorum şeytanın dostu o zaman olursun
+**(46)** dedi ki İbrahim benim tanrılarımdan sen yüz mü çeviriyorsun? eğer vazgeçmezsen andolsun seni taşlarım[uzaklaş] uzun süre benden ayrıl, git
+**(47)** sana selam dedi Rabbimden senin için mağfiret dileyeceğim çünkü O bana çok lutufkardır
+**(48)** Allah’tan başka yalvardıklarınızdan ve sizden ayrılıyorum ve umarım ki Rabbime yalnız yalvarıyorum 
 **(49)** 
 **(50)** 
 **(51)** 
