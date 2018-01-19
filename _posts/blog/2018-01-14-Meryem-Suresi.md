@@ -82,7 +82,7 @@ tag:
 **(69)** her milletten hangisinin Rahman’a karşı en çok isyan edeni sonra ayıracağız 
 **(70)** onlar oraya girmeğe kimlerin uygun olduğunu sonra elbette biz daha iyi biliriz 
 **(71)** ve içinizden oraya gitmeyecek hiç kimse yoktur Rabbinin üzerine (bu) kesin bir borçtur
-**(72)** 
+**(72)** muttakileri (sakınanları) kimseleri sonra kurtarırız ve diz üstü çökmüş olarak orada zalimleri bırakırız
 **(73)** 
 **(74)** 
 **(75)** 
