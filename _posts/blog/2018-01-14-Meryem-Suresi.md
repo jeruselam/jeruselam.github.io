@@ -69,9 +69,9 @@ tag:
 **(56)** ve İdris’i de Kitapta an çünkü o çok doğru{samimi,sadık} bir {nebi}peygamber idi
 **(57)** yüce bir yere onu yükseltmiştik
 **(58)** işte bunlar Adem neslinden peygamberlerden kendilerine Allah’ın ni’met verdiği kimselerdir ve Nuh ile beraber taşıdıklarımız kimselerdendir ve İbrahim ve İsrail (Ya’kub) neslindendir ve yol gösterdiğimiz ve seçtiğimiz kimselerdendir Rahman’ın ayetleri onlara okunduğu zaman ağlayarak secdeye kapanırlardı
-**(59)** 
-**(60)** 
-**(61)** 
+**(59)** öyle bir nesil onlardan sonra yerlerine geldi namazı onlar zayi{ziyan, telef} ettiler ve şehvetlerine uydular yakında onlar kötülük{aklın istikamet kaybını} bulacaklardır
+**(60)** ancak tevbe eden kimseler ve inananlar ve iyi işler yapanlar işte onlar cennete girecekler ve hiç haksızlığa uğratılmayacaklardır
+**(61)** gıyaben{ahirete ait} kullarına Rahman’ın va’dettiği Adn cennetleri(ne gireceklerdir) şüphesiz O’nun va’di yerine gelecektir
 **(62)** 
 **(63)** 
 **(64)** 
