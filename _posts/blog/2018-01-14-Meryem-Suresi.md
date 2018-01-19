@@ -4,7 +4,6 @@ title: Meryem
 description: İsa (A.S.)'ın annesinin ismidir
 excerpt: "19'ncu Sûre"
 modified: 2018-01-14T17:50:00.564948 17:00
-encoding: UTF-8
 tag: 
  - Meryem
 ---
