@@ -83,9 +83,9 @@ tag:
 **(70)** onlar oraya girmeğe kimlerin uygun olduğunu sonra elbette biz daha iyi biliriz 
 **(71)** ve içinizden oraya gitmeyecek hiç kimse yoktur Rabbinin üzerine (bu) kesin bir borçtur
 **(72)** muttakileri (sakınanları) kimseleri sonra kurtarırız ve diz üstü çökmüş olarak orada zalimleri bırakırız
-**(73)** 
-**(74)** 
-**(75)** 
+**(73)** ve açık açık ayetlerimiz onlara okunduğu zaman inanan(lar) kimseler için inkar edenler kimseler derler iki topluluktan hangisinin makamı daha hayırlıdır ve meclisi (mevkii) daha güzeldir?
+**(74)** ve onlardan önce nice nesiller helak ettik eşyaca ve gösterişce onlar daha güzeldi 
+**(75)** de ki sapıklık içinde kim ise Rahman ona bi süre süre versin va’dedildikleri şeyleri nihayet gördükleri zaman ya azabı veya (duruşma) sa’ati(ni) kimin o mekanı daha kötüdür ve {yardımcı,asker}adamları daha zayıftır bileceklerdir 
 **(76)** 
 **(77)** 
 **(78)** 
