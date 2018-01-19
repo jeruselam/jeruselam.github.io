@@ -80,7 +80,7 @@ tag:
 **(67)** önceden ve hiçbir şey değilken bizim onu yarattığımızı insan düşünmüyor mu?
 **(68)** Rabbine andolsun ki şeytanları ve onları{soylarını} mutlaka toplayacağız sonra diz çökmüş vaziyette cehennemin çevresinde onları bulunduracağız{durduracağız}
 **(69)** her milletten hangisinin Rahman’a karşı en çok isyan edeni sonra ayıracağız 
-**(70)** 
+**(70)** onlar oraya girmeğe kimlerin uygun olduğunu sonra elbette biz daha iyi biliriz 
 **(71)** 
 **(72)** 
 **(73)** 
