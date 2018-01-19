@@ -79,7 +79,7 @@ tag:
 **(66)** ve insan diyor ki öldüğüm zaman mı? muhakkak diri olarak çıkarılacağım
 **(67)** önceden ve hiçbir şey değilken bizim onu yarattığımızı insan düşünmüyor mu?
 **(68)** Rabbine andolsun ki şeytanları ve onları{soylarını} mutlaka toplayacağız sonra diz çökmüş vaziyette cehennemin çevresinde onları bulunduracağız{durduracağız}
-**(69)** her milletten hangisinin Rahman’a karşı en çok isyan edeni sonra ayıracağız 
+**(69)** her milletten hangisinin en çok isyan edeni Rahman’a karşı sonra ayıracağız 
 **(70)** 
 **(71)** 
 **(72)** 
