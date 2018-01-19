@@ -67,8 +67,8 @@ tag:
 **(54)** İsma’il’i de Kitapta an çünkü o sözünde sadık idi ve nebi bir peygamber{rasūl} idi
 **(55)** ve zekat vermeyi namaz kılmayı halkına emrederdi ve Rabbi yanında beğenilmişlerden idi
 **(56)** ve İdris’i de Kitapta an çünkü o çok doğru{samimi,sadık} bir {nebi}peygamber idi
-**(57)** 
-**(58)** 
+**(57)** yüce bir yere onu yükseltmiştik
+**(58)** işte bunlar Adem neslinden peygamberlerden kendilerine Allah’ın ni’met verdiği kimselerdir ve Nuh ile beraber taşıdıklarımız kimselerdendir ve İbrahim ve İsrail (Ya’kub) neslindendir ve yol gösterdiğimiz ve seçtiğimiz kimselerdendir Rahman’ın ayetleri onlara okunduğu zaman ağlayarak secdeye kapanırlardı
 **(59)** 
 **(60)** 
 **(61)** 
