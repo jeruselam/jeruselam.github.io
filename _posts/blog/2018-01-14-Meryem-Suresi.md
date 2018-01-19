@@ -14,8 +14,8 @@ tag:
 **(1)** Kaf ha ya ’ayn sad
 **(2)** Rabbinin rahmetini kulu Zekeriyya’ya bu, anmasıdır
 **(3)** hani gizli bir seslenişle Rabbine yalvarmıştı
-**(4)** Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle [saç beyazlığıyla]başım tutuştu ve sana du’a ile Rabbim bahtsız[şikayet eden] olmadım
-**(5)** doğrusu ben arkamdan[torundan] yerime geçecek yakınlarımdan korktum ve karım da kısırdır (Ne olur) bana katından bir veli(aht) lutfet
+**(4)** Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle {saç beyazlığıyla}başım tutuştu ve sana du’a ile Rabbim bahtsız{şikayet eden} olmadım
+**(5)** doğrusu ben arkamdan{torundan} yerime geçecek yakınlarımdan korktum ve karım da kısırdır (Ne olur) bana katından bir veli(aht) lutfet
 **(6)** bana mirasçı olsun ve Ya’kub oğullarına mirasçı olsun ve Rabbim razı olduklarından onu yap
 **(7)** Zekeriyya şüphesiz biz sana müjdeleriz bir oğul onun adı Yahya’dır ona daha önce adaş yapmadık
 **(8)** dedi ki Rabbim benim oğlum nasıl olur? ve karım da kısırdır ve gerçekten ihtiyarlığın son sınırına ben ulaştım
@@ -39,24 +39,24 @@ tag:
 **(26)** ye ve iç ve gözün aydın olsun eğer insanlardan birini görürsen de ki Rahman için şüphesiz ben oruç adadım bugün asla hiçbir insanla konuşmayacağım
 **(27)** onu taşıyarak kavmine getirdi tuhaf, korkunç bir iş dediler Meryem gerçekten sen yaptın 
 **(28)** Harun’un kızkardeşi baban kötü bir adam değildi ve annen de iffetsiz değildi
-**(29)** onlara (çocuğu) gösterdi dediler ki çocukla beşikte[tutkuyla seven ve muhabbet eden, hidayete vesile] olan kimsey(l)e nasıl konuşuruz[hitap ederiz] 
+**(29)** onlara (çocuğu) gösterdi dediler ki çocukla beşikte{tutkuyla seven ve muhabbet eden, hidayete vesile} olan kimsey(l)e nasıl konuşuruz{hitap ederiz} 
 **(30)** (Çocuk) dedi şüphesiz ben Allah’ın kuluyum Kitabı bana verdi ve beni peygamber yaptı
 **(31)** ve nerede olursam beni bereketli kıldı ve namaz kılmayı ve sağ olduğum sürece zekat vermeyi bana emretti
 **(32)** ve anneme iyilik eder (kıldı) ve beni baş kaldıran bir zorba yapmadı
-**(33)** ve doğduğum gün ve öleceğim gün ve diri olarak kaldırılacağım gün bana esenlik[selamet, emniyet] verilmiştir 
+**(33)** ve doğduğum gün ve öleceğim gün ve diri olarak kaldırılacağım gün bana esenlik{selamet, emniyet} verilmiştir 
 **(34)** işte Meryem oğlu Îsa hakkında şüphe edip ayrılığa düştükleri gerçek söz
-**(35)** [gayet]hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
+**(35)** {gayet}hiçbir çocuk edinmek Allah’a yakışmaz O’nun şanı yücedir bir işi hükmettiği zaman ona sadece ol! der (o da) olur
 **(36)** ve şüphesiz Allah benim Rabbimdir ve sizin Rabbinizdir O’na kulluk edin dosdoğru yol işte budur 
-**(37)** kendi aralarından hizipler[gruplar] ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
+**(37)** kendi aralarından hizipler{gruplar} ayrılığa düştüler büyük bir günü görmekten ötürü inkar eden kimselerin artık vay haline
 **(38)** bize geldikleri gün ne güzel görürler onlar ne güzel işitirler ama zalimler bugün apaçık sapıklık içindedirler
-**(39)** hasret[ziyan] gününe (karşı) onları uyar onlar gaflet içinde iken ve onlar iman etmezlerken o zaman işe hükmedilir 
+**(39)** hasret{ziyan} gününe (karşı) onları uyar onlar gaflet içinde iken ve onlar iman etmezlerken o zaman işe hükmedilir 
 **(40)** dünyaya ve onun üzerinde bulunanlara ancak biz biz varis oluruz ve bize döndürülürler 
 **(41)** İbrahim’i Kitapta an (hatırla) gerçekten o çok doğru bir peygamber idi
 **(42)** hani babasına demişti ki babacığım sana hiçbir yararı olmayan ve görmeyen ve işitmeyen şeylere niçin? tapıyorsun
 **(43)** elbette bana babacığım sana gelmeyen bir bilgi bana geldi bana uy düzgün bir yola seni ileteyim
 **(44)** babacığım şeytana tapma çünkü şeytan Rahman’a isyan etmiştir
 **(45)** babacığım elbette ben Rahmandan bir azab sana dokunacak diye korkuyorum şeytanın dostu o zaman olursun
-**(46)** dedi ki İbrahim benim tanrılarımdan sen yüz mü çeviriyorsun? eğer vazgeçmezsen andolsun seni taşlarım[uzaklaş] uzun süre benden ayrıl, git
+**(46)** dedi ki İbrahim benim tanrılarımdan sen yüz mü çeviriyorsun? eğer vazgeçmezsen andolsun seni taşlarım{uzaklaş} uzun süre benden ayrıl, git
 **(47)** sana selam dedi Rabbimden senin için mağfiret dileyeceğim çünkü O bana çok lutufkardır
 **(48)** Allah’tan başka yalvardıklarınızdan ve sizden ayrılıyorum ve umarım ki Rabbime yalnız yalvarıyorum Rabbime yalvarmakla bahtsız olmam
 **(49)** ne zaman ki onlardan ayrıldı ve Allah’tan başka onların taptıklarından	
@@ -67,7 +67,7 @@ tag:
 **(53)** ve kardeşi Harun’u peygamber olarak {şefkatle}acıdığımızdan dolayı ona armağan ettik
 **(54)** İsma’il’i de Kitapta an çünkü o sözünde sadık idi ve nebi bir peygamber{rasūl} idi
 **(55)** ve zekat vermeyi namaz kılmayı halkına emrederdi ve Rabbi yanında beğenilmişlerden idi
-**(56)** ve İdris’i Kitapta de an çünkü o çok doğru{samimi,sadık} bir {nebi}peygamber idi
+**(56)** ve İdris’i de Kitapta an çünkü o çok doğru{samimi,sadık} bir {nebi}peygamber idi
 **(57)** 
 **(58)** 
 **(59)** 
