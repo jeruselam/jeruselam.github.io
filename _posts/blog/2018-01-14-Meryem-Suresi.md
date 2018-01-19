@@ -85,13 +85,13 @@ tag:
 **(72)** muttakileri (sakınanları) kimseleri sonra kurtarırız ve diz üstü çökmüş olarak orada zalimleri bırakırız
 **(73)** ve açık açık ayetlerimiz onlara okunduğu zaman inanan(lar) kimseler için inkar edenler kimseler derler iki topluluktan hangisinin makamı daha hayırlıdır ve meclisi (mevkii) daha güzeldir?
 **(74)** ve onlardan önce nice nesiller helak ettik eşyaca ve gösterişce onlar daha güzeldi 
-**(75)** de ki sapıklık içinde kim ise Rahman ona bi süre süre versin va’dedildikleri şeyleri nihayet gördükleri zaman ya azabı veya (duruşma) sa’ati(ni) kimin o mekanı daha kötüdür ve {yardımcı,asker}adamları daha zayıftır bileceklerdir 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
+**(75)** de ki sapıklık içinde kim ise Rahman ona bi süre{zaman} süre versin va’dedildikleri şeyleri nihayet gördükleri zaman ya azabı veya (duruşma) sa’ati(ni) kimin o mekanı daha kötüdür ve {yardımcı,asker}adamları daha zayıftır bileceklerdir 
+**(76)** ve yola gelen(lerin) kimselerin hidayetini Allah artırır ve kalıcı olan yararlı işler mükafat bakımından Rabbinin yanında daha hayırlıdır ve varılacak yer bakımından daha iyidir
+**(77)** ayetlerimizi inkar eden(leri) kimseleri ve mal ve evlad bana verilecek diyeni gördün mü? 
+**(78)** gaybı bildi mi? yoksa Rahman’ın huzurunda bir söz aldı mı?
+**(79)** onun dediği şeyi hayır biz yazacağız ve onun için azabı uzattıkça uzatacağız
+**(80)** ve dediği şeye varis olacağız ve tek başına o bize gelecek
+**(81)** ve kendilerine itibar olsun diye Allah’tan başka tanrılar{ilahlar} edindiler
 **(82)** 
 **(83)** 
 **(84)** 
