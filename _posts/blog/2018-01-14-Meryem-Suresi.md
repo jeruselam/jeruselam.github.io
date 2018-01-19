@@ -64,9 +64,9 @@ tag:
 **(50)** ve rahmetimizden onlara lutfettik ve onlar için yüce bir doğruluk dili verdik
 **(51)** Musa’yı da Kitapta an çünkü o içi temiz idi ve nebi bir peygamber{rasūl} idi
 **(52)** ve Tur’un sağ tarafından ona seslendik ve özel konuşmak için onu yaklaştırdık
-**(53)** ve peygamber olarak kardeşi Harun’u acıdığımızdan dolayı ona armağan ettik
-**(54)** 
-**(55)** 
+**(53)** ve kardeşi Harun’u peygamber olarak {şefkatle}acıdığımızdan dolayı ona armağan ettik
+**(54)** İsma’il’i de Kitapta an çünkü o sözünde sadık idi ve nebi bir peygamber{rasūl} idi
+**(55)** ve zekat vermeyi namaz kılmayı halkına emrederdi ve Rabbi yanında beğenilmişlerden idi
 **(56)** 
 **(57)** 
 **(58)** 
