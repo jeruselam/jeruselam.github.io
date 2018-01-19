@@ -81,7 +81,7 @@ tag:
 **(68)** Rabbine andolsun ki şeytanları ve onları{soylarını} mutlaka toplayacağız sonra diz çökmüş vaziyette cehennemin çevresinde onları bulunduracağız{durduracağız}
 **(69)** her milletten hangisinin Rahman’a karşı en çok isyan edeni sonra ayıracağız 
 **(70)** onlar oraya girmeğe kimlerin uygun olduğunu sonra elbette biz daha iyi biliriz 
-**(71)** 
+**(71)** ve içinizden oraya gitmeyecek hiç kimse yoktur Rabbinin üzerine (bu) kesin bir borçtur
 **(72)** 
 **(73)** 
 **(74)** 
