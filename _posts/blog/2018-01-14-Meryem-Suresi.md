@@ -105,9 +105,9 @@ tag:
 **(92)** ve çocuk edinmek Rahman’a yakışmaz
 **(93)** göklerde ve yerde bulunan kimselerin hepsi ancak Rahman’a kul olarak gelecektir
 **(94)** muhakkak onları {kaydedip}kuşatmış ve bir bir onları saymıştır
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
+**(95)** ve onların hepsi kıyamet günü tek başına O’na gelecektir
+**(96)** şüphesiz inanan(lar) kimseler (için) ve faydalı işler yapanlar (için) onlar için Rahman bir sevgi yaratacaktır
+**(97)** şüphesiz biz onunla muttakileri (sakınanları) müjdelemen için ve inatçı bir kavmi onunla uyarman için senin diline O’nu kolaylaştırdık 
+**(98)** ve onlardan önce nesillerden nicesini helak ettik onlardan hiç birini hissediyor musun? yahut onların cılız bir sesini işitiyor (musun?)
 
 ![19Meryem-Mekkî]({{site.url}}/images/ayrac-muhur.png)
