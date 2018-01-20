@@ -100,11 +100,11 @@ tag:
 **(87)** Rahman’ın huzurunda söz alan kimselerin dışındakilerin şefa’ate asla güçleri yetmeyecektir
 **(88)** ve Rahman çocuk edindi dediler
 **(89)** andolsun ki siz pek kötü{büyük yalan} bir şeyde{istek ve dilekte} (cür’ette) bulundunuz
-**(90)** 
-**(91)**
-**(92)** 
-**(93)** 
-**(94)** 
+**(90)** ondan dolayı neredeyse gökler çatlayacak ve yer yarılacak ve dağlar yıkılıp dağılacak
+**(91)** Rahman için çocuk iddia{mesele,dava} etmelerinden
+**(92)** ve çocuk edinmek Rahman’a yakışmaz
+**(93)** göklerde ve yerde bulunan kimselerin hepsi ancak Rahman’a kul olarak gelecektir
+**(94)** muhakkak onları {kaydedip}kuşatmış ve bir bir onları saymıştır
 **(95)** 
 **(96)** 
 **(97)** 
