@@ -95,10 +95,10 @@ tag:
 **(82)** hayır bunların tapmalarını inkar edecekler ve bunlara zıd{düşman} olacaklardır
 **(83)** kafirler{Hakkı görmeyen ve inkar eden ve iyilik bilmeyenler} üzerine şeytanları biz gönderdik görmedin mi? kışkırttıkça{koparıp hareket ettirdikçe} onları kışkırtıyorlar{kandırıyor ve aldatıyorlar}
 **(84)** onlar hakkında asla acele etme {itibar edip, hesaplayıp}saydıkça elbette onlar için biz sayıyoruz
-**(85)** 
-**(86)** 
-**(87)**
-**(88)** 
+**(85)** Rahman'ın huzurunda konuk olarak muttakileri{haramdan ve günahtan} (sakınanları) o gün toplayacağız
+**(86)** ve yaya ve susuz olarak cehenneme suçluları da süreceğiz
+**(87)** Rahman’ın huzurunda söz alan kimselerin dışındakilerin şefa’ate asla güçleri yetmeyecektir
+**(88)** ve Rahman çocuk edindi dediler
 **(89)** 
 **(90)** 
 **(91)**
