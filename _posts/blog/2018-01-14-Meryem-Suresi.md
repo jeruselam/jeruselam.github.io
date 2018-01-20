@@ -92,9 +92,9 @@ tag:
 **(79)** onun dediği şeyi hayır biz yazacağız ve onun için azabı uzattıkça uzatacağız
 **(80)** ve dediği şeye varis olacağız ve tek başına o bize gelecek
 **(81)** ve kendilerine itibar olsun diye Allah’tan başka tanrılar{ilahlar} edindiler
-**(82)** 
-**(83)** 
-**(84)** 
+**(82)** hayır bunların tapmalarını inkar edecekler ve bunlara zıd{düşman} olacaklardır
+**(83)** kafirler{Hakkı görmeyen ve inkar eden ve iyilik bilmeyenler} üzerine şeytanları biz gönderdik görmedin mi? kışkırttıkça{koparıp hareket ettirdikçe} onları kışkırtıyorlar{kandırıyor ve aldatıyorlar}
+**(84)** onlar hakkında asla acele etme {itibar edip, hesaplayıp}saydıkça elbette onlar için biz sayıyoruz
 **(85)** 
 **(86)** 
 **(87)**
