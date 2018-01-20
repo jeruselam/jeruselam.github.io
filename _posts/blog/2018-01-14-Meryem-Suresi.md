@@ -99,7 +99,7 @@ tag:
 **(86)** ve yaya ve susuz olarak cehenneme suçluları da süreceğiz
 **(87)** Rahman’ın huzurunda söz alan kimselerin dışındakilerin şefa’ate asla güçleri yetmeyecektir
 **(88)** ve Rahman çocuk edindi dediler
-**(89)** 
+**(89)** andolsun ki siz pek kötü{büyük yalan} bir şeyde{istek ve dilekte} (cür’ette) bulundunuz
 **(90)** 
 **(91)**
 **(92)** 
