@@ -19,7 +19,7 @@ tag:
 **(7)** hangisinin daha güzel iş yaptığını onları denemek için kendisine süs olsun diye yer üzerindeki şeyleri şüphesiz biz yarattık
 **(8)** (yerin) üzerindeki şeyleri kupkuru bir toprak biz elbette yaparız
 **(9)** yoksa sadece Kehf{mağara} ve Rakim{mektup} sahiplerinin bizim şaşılacak ayetlerimizden olduklarını (mi) sandın?
-**(10)** mağaraya o gençler sığındıkları zaman Rabbimiz dediler bir rahmet katından bize ver ve bir çıkış yolu şu işimizden bize hazırla
+**(10)** mağaraya o gençler sığındıkları zaman Rabbimiz dediler bir rahmet katından bize ver ve bir çıkış yolu şu {hâdiseden}işimizden bize hazırla
 **(11)** 
 **(12)** 
 **(13)** 
