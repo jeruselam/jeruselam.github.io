@@ -20,10 +20,10 @@ tag:
 **(8)** (yerin) üzerindeki şeyleri kupkuru bir toprak biz elbette yaparız
 **(9)** yoksa sadece Kehf{mağara} ve Rakim{mektup} sahiplerinin bizim şaşılacak ayetlerimizden olduklarını (mi) sandın?
 **(10)** mağaraya o gençler sığındıkları zaman Rabbimiz dediler bir rahmet katından bize ver ve bir çıkış yolu şu {hâdiseden}işimizden bize hazırla
-**(11)** 
-**(12)** 
-**(13)** 
-**(14)** 
+**(11)** nice yıllar mağarada kulaklarına biz de (ağırlık) vurduk
+**(12)** sonra (onların) kaldıkları süreyi iki zümreden hangisinin daha iyi hesabedeceğini bilmek için onları uyandırdık
+**(13)** onların haberlerini gerçek olarak biz sana anlatıyoruz muhakkak onlar Rablerine inanmış gençlerdi biz de onların hidayetlerini artırmıştık
+**(14)** ve kalblerinin üstüne metanet bağlamıştık kalktılar ve dediler ki Rabbimiz göklerin ve yerin Rabbidir O’ndan başkasına Tanrı{ilah} biz asla demeyiz yoksa o zaman saçma sapan konuşmuş oluruz
 **(15)** 
 **(16)** 
 **(17)** 
