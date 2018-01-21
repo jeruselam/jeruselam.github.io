@@ -18,7 +18,7 @@ tag:
 **(6)** üzüntüden herhalde sen bu söze inanmıyorlar diye peşlerinde kendini helak edeceksin
 **(7)** hangisinin daha güzel iş yaptığını onları denemek için kendisine süs olsun diye yer üzerindeki şeyleri şüphesiz biz yarattık
 **(8)** (yerin) üzerindeki şeyleri kupkuru bir toprak biz elbette yaparız
-**(9)** yoksa sadece Kehf ve Rakim{mektup} sahiplerinin bizim şaşılacak ayetlerimizden olduklarını (mi) sandın?
+**(9)** yoksa sadece Kehf{mağara} ve Rakim{mektup} sahiplerinin bizim şaşılacak ayetlerimizden olduklarını (mi) sandın?
 **(10)** 
 **(11)** 
 **(12)** 
