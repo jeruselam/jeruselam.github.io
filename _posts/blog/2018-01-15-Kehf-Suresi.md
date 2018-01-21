@@ -28,7 +28,7 @@ tag:
 **(16)** madem ki siz onlardan ayrıldınız ve Allah’tan başka taptıkları şeylerden mağaraya o halde sığının Rabbiniz rahmetini size yaysın (bollaştırsın) ve size (şu) işinizden yararlı bir şey hazırlasın 
 **(17)** ve doğduğu zaman güneşi görürsün mağaralarından sağa doğru eğiliyor ve battığı zaman sola doğru onları makaslayıp geçiyor ve onlar bir dehlizin içindedirler onun (mağaranın) bu (durumu) Allah’ın ayetlerindendir Allah kime hidayet verirse o yolu bulmuştur ve kimi de sapıklıkta bırakırsa onun için yol gösteren bir dost artık bulamazsın
 **(18)** onlar uyudukları halde sen onları uyanıklar sanırsın ve sağlarına ve sollarına onları (uykuda) çeviririz ve köpekleri de girişte ön ayaklarını uzatmış vaziyettedir eğer onların durumunu görseydin mutlaka dönüp onlardan kaçardın ve korku onlardan içine dolardı
-**(19)** 
+**(19)** yine böyle kendi aralarında sormaları için onları dirilttik içlerinden konuşan biri dedi ki ne kadar? kaldınız bir gün ya da günün bir parçası (kadar) kaldık dediler Rabbiniz dediler ne kadar kaldığınızı daha iyi bilir şu şehre gümüş (para) ile birinizi gönderin baksın hangi yiyecek daha temiz ise ondan bir azık size getirsin ve dikkatli davransın sakın sizi birisine sezdirmesin
 **(20)** 
 **(21)** 
 **(22)** 
