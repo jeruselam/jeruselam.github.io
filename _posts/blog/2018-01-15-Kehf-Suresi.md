@@ -24,10 +24,10 @@ tag:
 **(12)** sonra (onların) kaldıkları süreyi iki zümreden hangisinin daha iyi hesabedeceğini bilmek için onları uyandırdık
 **(13)** onların haberlerini gerçek olarak biz sana anlatıyoruz muhakkak onlar Rablerine inanmış gençlerdi biz de onların hidayetlerini artırmıştık
 **(14)** ve kalblerinin üstüne metanet bağlamıştık kalktılar ve dediler ki Rabbimiz göklerin ve yerin Rabbidir O’ndan başkasına Tanrı{ilah} biz asla demeyiz yoksa o zaman saçma sapan konuşmuş oluruz
-**(15)** 
-**(16)** 
-**(17)** 
-**(18)** 
+**(15)** şunlar şu kavmimiz O’ndan başka tanrılar edindiler onların açık bir delil getirmeleri gerekmez mi? Allah’a karşı yalan uydurandan daha zalim kim olabilir?
+**(16)** madem ki siz onlardan ayrıldınız ve Allah’tan başka taptıkları şeylerden mağaraya o halde sığının Rabbiniz rahmetini size yaysın (bollaştırsın) ve size (şu) işinizden yararlı bir şey hazırlasın 
+**(17)** ve doğduğu zaman güneşi görürsün mağaralarından sağa doğru eğiliyor ve battığı zaman sola doğru onları makaslayıp geçiyor ve onlar bir dehlizin içindedirler onun (mağaranın) bu (durumu) Allah’ın ayetlerindendir Allah kime hidayet verirse o yolu bulmuştur ve kimi de sapıklıkta bırakırsa onun için yol gösteren bir dost artık bulamazsın
+**(18)** onlar uyudukları halde sen onları uyanıklar sanırsın ve sağlarına ve sollarına onları (uykuda) çeviririz ve köpekleri de girişte ön ayaklarını uzatmış vaziyettedir eğer onların durumunu görseydin mutlaka dönüp onlardan kaçardın ve korku onlardan içine dolardı
 **(19)** 
 **(20)** 
 **(21)** 
