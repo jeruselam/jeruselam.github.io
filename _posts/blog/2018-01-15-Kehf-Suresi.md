@@ -15,8 +15,8 @@ tag:
 **(3)** sürekli olarak onun içinde kalacaklardır
 **(4)** ve Allah çocuk edindi diyenleri uyarması için
 **(5)** onların bu hususta hiçbir bilgisi yoktur ve atalarının yoktur
-**(6)** 
-**(7)** 
+**(6)** üzüntüden herhalde sen bu söze inanmıyorlar diye peşlerinde kendini helak edeceksin
+**(7)** hangisinin daha güzel iş yaptığını onları denemek için kendisine süs olsun diye yer üzerindeki şeyleri şüphesiz biz yarattık
 **(8)** 
 **(9)** 
 **(10)** 
