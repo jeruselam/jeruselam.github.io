@@ -11,10 +11,10 @@ tag:
 ## 18. Kehf Sûresi
 
 **(1)** Allah’a hamdolsun ki Kitabı kuluna indirdi ve hiçbir eğrilik ona koymadı
-**(2)** şiddetli azaba karşı dosdoğru olarak uyarması için ve güzel mükafat kendileri için bulunduğunu iyi işler yapan mü’minlere müjdelemesi için katından (indirdi) 
+**(2)** şiddetli azaba karşı dosdoğru olarak uyarması için katından (indirdi) ve güzel mükafat kendileri için bulunduğunu iyi işler yapan mü’minlere müjdelemesi için 
 **(3)** sürekli olarak onun içinde kalacaklardır
 **(4)** ve Allah çocuk edindi diyenleri uyarması için
-**(5)** 
+**(5)** onların bu hususta hiçbir bilgisi yoktur ve atalarının yoktur
 **(6)** 
 **(7)** 
 **(8)** 
