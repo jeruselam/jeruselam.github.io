@@ -29,8 +29,8 @@ tag:
 **(17)** ve doğduğu zaman güneşi görürsün mağaralarından sağa doğru eğiliyor ve battığı zaman sola doğru onları makaslayıp geçiyor ve onlar bir dehlizin içindedirler onun (mağaranın) bu (durumu) Allah’ın ayetlerindendir Allah kime hidayet verirse o yolu bulmuştur ve kimi de sapıklıkta bırakırsa onun için yol gösteren bir dost artık bulamazsın
 **(18)** onlar uyudukları halde sen onları uyanıklar sanırsın ve sağlarına ve sollarına onları (uykuda) çeviririz ve köpekleri de girişte ön ayaklarını uzatmış vaziyettedir eğer onların durumunu görseydin mutlaka dönüp onlardan kaçardın ve korku onlardan içine dolardı
 **(19)** yine böyle kendi aralarında sormaları için onları dirilttik içlerinden konuşan biri dedi ki ne kadar? kaldınız bir gün ya da günün bir parçası (kadar) kaldık dediler Rabbiniz dediler ne kadar kaldığınızı daha iyi bilir şu şehre gümüş (para) ile birinizi gönderin baksın hangi yiyecek daha temiz ise ondan bir azık size getirsin ve dikkatli davransın sakın sizi birisine sezdirmesin
-**(20)** 
-**(21)** 
+**(20)** çünkü onlar eğer ellerine geçirirlerse sizi taşlayarak öldürürler yahut kendi dinlerine döndürürler asla ve asla o takdirde iflah olamazsınız 
+**(21)** ve şüphesiz Allah’ın va’dinin gerçek olduğunu ve şüphesiz saatin(geleceğinde) onda asla şüphe olmadığını bilsinler diye onları böylece buldurduk onların durumlarını kendi aralarında o sırada tartışıyorlardı onların üstüne bir bina bina edin dediler Rableri onları daha iyi bilir onların işine gâlip gelenler dediler ki onların üstüne bir mescid mutlaka yapacağız
 **(22)** 
 **(23)** 
 **(24)** 
