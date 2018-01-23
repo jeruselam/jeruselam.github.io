@@ -37,7 +37,7 @@ tag:
 **(25)** ve üç yüz yıl mağaralarında kaldılar ve dokuz (yıl) ilave ettiler
 **(26)** de ki ne kadar kaldıklarını Allah daha iyi bilir göklerin ve yerin gaybı O’nundur ne güzel görendir onu ne güzel işitendir onların O’ndan başka hiçbir yardımcısı yoktur ve kendi hükmüne kimseyi O ortak etmez
 **(27)** Rabbinin Kitabı’ndan sana vahyedilen şeyi oku O’nun sözlerini değiştirecek yoktur ve O’ndan başka sığınılacak bir kimse bulamazsın
-**(28)** akşam sabah rızasını isteyerek Rablerine yalvaranlarla beraber nefsini{gayretle} tut (sabret) ve dünya hayatının süsünü isteyerek onlardan gözlerin sapmasın ve bizi anmaktan kalbini alıkoyduğumuz ve keyfine tâbi olan ve işi aşırılık olan kişiye itaat etme 
+**(28)** akşam sabah rızasını isteyerek Rablerine yalvaranlarla beraber nefsini tut{gayretle} (sabret) ve dünya hayatının süsünü isteyerek onlardan gözlerin sapmasın ve bizi anmaktan kalbini alıkoyduğumuz ve keyfine tâbi olan ve işi aşırılık olan{israf eden} kişiye itaat etme 
 **(29)** 
 **(30)** 
 **(31)** 
