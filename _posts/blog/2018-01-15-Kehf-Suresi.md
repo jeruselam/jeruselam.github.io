@@ -38,10 +38,10 @@ tag:
 **(26)** de ki ne kadar kaldıklarını Allah daha iyi bilir göklerin ve yerin gaybı O’nundur ne güzel görendir onu ne güzel işitendir onların O’ndan başka hiçbir yardımcısı yoktur ve kendi hükmüne kimseyi O ortak etmez
 **(27)** Rabbinin Kitabı’ndan sana vahyedilen şeyi oku O’nun sözlerini değiştirecek yoktur ve O’ndan başka sığınılacak bir kimse bulamazsın
 **(28)** akşam sabah rızasını isteyerek Rablerine yalvaranlarla beraber nefsini tut{gayretle} (sabret) ve dünya hayatının süsünü isteyerek onlardan gözlerin sapmasın ve bizi anmaktan kalbini alıkoyduğumuz ve keyfine tâbi olan ve işi aşırılık olan{israf eden} kişiye itaat etme 
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
+**(29)** de ki bu gerçek Rabbinizdendir artık dileyen kimse inansın ve dileyen kimse inkar etsin çünkü biz, zalimlere bir ateş hazırladık {perdeden}çadırı onları kuşatmıştır ve eğer feryad edip yardım isteseler yüzleri haşlayan erimiş maden gibi bir su ile kendilerine yardım edilir o ne kötü bir içecektir ve ne kötü ağırlanmadır
+**(30)** onlar ki şüphesiz inandılar ve iyi işler yaptılar elbette biz işi güzel yapan kimsenin ecrini asla zayi etmeyiz 
+**(31)** onlar öyle kimselerdir ki Adn cennetleri kendileri için vardır altlarından ırmaklar akar altından bileziklerle orada bezenirler ve ince ipekten ve kalın ipekten yeşil giysiler giyerler koltuklar üzerine orada yaslanırlar ne güzel sevap ve ne güzel ağırlanma
+**(32)** ve şu iki adamı (ki) misal olarak onlara anlat ikisinden birine iki bağ üzüm vermiştik ve hurmalarla onların etrafını çevirmiştik ve ortalarında da ekin bitirmiştik
 **(33)** 
 **(34)** 
 **(35)** 
