@@ -42,13 +42,13 @@ tag:
 **(30)** onlar ki şüphesiz inandılar ve iyi işler yaptılar elbette biz işi güzel yapan kimsenin ecrini asla zayi etmeyiz 
 **(31)** onlar öyle kimselerdir ki Adn cennetleri kendileri için vardır altlarından ırmaklar akar altından bileziklerle orada bezenirler ve ince ipekten ve kalın ipekten yeşil giysiler giyerler koltuklar üzerine orada yaslanırlar ne güzel sevap ve ne güzel ağırlanma
 **(32)** ve şu iki adamı (ki) misal olarak onlara anlat ikisinden birine iki bağ üzüm vermiştik ve hurmalarla onların etrafını çevirmiştik ve ortalarında da ekin bitirmiştik
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
+**(33)** her iki bağ (da) yemişini vermişti ve ondan hiçbir şey eksik etmemişti ve aralarından bir ırmak akıtmıştık
+**(34)** ve O(adam)ın ürünü vardı ve o konuşurken arkadaşı dedi ki malca senden ben zenginim ve adamca da güçlüyüm
+**(35)** ve kendisine zulmederek o bağına girdi ebediyyen bunun yok olacağını hiç sanmam dedi
+**(36)** ve kıyametin kopacağını hiç zannetmem Rabbime şayet döndürülsem bile bundan daha güzel bir akıbet bulurum
+**(37)** kendisiyle konuşan arkadaşı ona dedi ki topraktan sonra nutfe (sperm)den seni yaratanı sonra da bir adam olarak seni biçimlendireni inkar mı ediyorsun? 
+**(38)** fakat O Allah benim Rabbimdir ve hiç kimseyi Rabbime asla ben ortak koşmam
+**(39)** Allah ne dilerse Allah’tan başka kuvvet yoktur demen bağına girdiğin zaman gerekmez miydi? gerçi sen beni senden malca ve evlatça daha az görüyorsun
 **(40)** 
 **(41)** 
 **(42)** 
