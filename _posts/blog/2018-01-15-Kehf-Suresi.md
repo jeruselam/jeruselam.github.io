@@ -52,8 +52,8 @@ tag:
 **(40)** umulur ki Rabbim senin bağından daha iyisini bana verebilir ve onun üzerine gökten yıldırımlar gönderir bağın böylece kupkuru bir toprak kesilir
 **(41)** yahut suyu dibe çekilir bir daha onu aramaya gücün yetmez
 **(42)** derken ürünü yok edildi ve ona harcadıkları şeyler üzerine ellerini oğuşturmağa başladı ve o çardakları üzerine yıkılmıştı ve keşke ben diyordu kimseyi Rabbime ortak koşmasaydım
-**(43)** 
-**(44)** 
+**(43)** ve onun Allah’tan başka kendisine yardım eden bir topluluğu olmadı ve kendisinine yardım edilen olmadı
+**(44)** işte o durumda velilik (koruyuculuk) yalnız hak olan Allah’a mahsustur mükafatı en iyi olan O’dur ve akıbet daha hayırlıdır
 **(45)** 
 **(46)** 
 **(47)** 
