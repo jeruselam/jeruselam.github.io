@@ -48,9 +48,9 @@ tag:
 **(36)** ve kıyametin kopacağını hiç zannetmem Rabbime şayet döndürülsem bile bundan daha güzel bir akıbet bulurum
 **(37)** kendisiyle konuşan arkadaşı ona dedi ki topraktan sonra nutfe (sperm)den seni yaratanı sonra da bir adam olarak seni biçimlendireni inkar mı ediyorsun? 
 **(38)** fakat O Allah benim Rabbimdir ve hiç kimseyi Rabbime asla ben ortak koşmam
-**(39)** Allah ne dilerse Allah’tan başka kuvvet yoktur demen bağına girdiğin zaman gerekmez miydi? gerçi sen beni senden malca ve evlatça daha az görüyorsun
-**(40)** 
-**(41)** 
+**(39)** bağına girdiğin zaman Allah ne dilerse Allah’tan başka kuvvet yoktur demen gerekmez miydi? gerçi sen beni senden malca ve evlatça daha az görüyorsun
+**(40)** umulur ki Rabbim senin bağından daha iyisini bana verebilir ve onun üzerine gökten yıldırımlar gönderir bağın böylece kupkuru bir toprak kesilir
+**(41)** yahut suyu dibe çekilir onu aramaya bir daha gücün yetmez
 **(42)** 
 **(43)** 
 **(44)** 
