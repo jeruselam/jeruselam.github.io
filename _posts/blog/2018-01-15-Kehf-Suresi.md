@@ -31,13 +31,13 @@ tag:
 **(19)** yine böyle kendi aralarında sormaları için onları dirilttik içlerinden konuşan biri dedi ki ne kadar? kaldınız bir gün ya da günün bir parçası (kadar) kaldık dediler Rabbiniz dediler ne kadar kaldığınızı daha iyi bilir şu şehre gümüş (para) ile birinizi gönderin baksın hangi yiyecek daha temiz ise ondan bir azık size getirsin ve dikkatli davransın sakın sizi birisine sezdirmesin
 **(20)** çünkü onlar eğer ellerine geçirirlerse sizi taşlayarak öldürürler yahut kendi dinlerine döndürürler asla ve asla o takdirde iflah olamazsınız 
 **(21)** ve şüphesiz Allah’ın va’dinin gerçek olduğunu ve şüphesiz saatin(geleceğinde) onda asla şüphe olmadığını bilsinler diye onları böylece buldurduk onların durumlarını kendi aralarında o sırada tartışıyorlardı onların üstüne bir bina bina edin dediler Rableri onları daha iyi bilir onların işine gâlip gelenler dediler ki onların üstüne bir mescid mutlaka yapacağız
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
+**(22)** onlar üçtür diyecekler dördüncüleri köpekleridir ve görülmeyene taş atar gibi beştir diyecekler altıncıları köpekleridir ve yedidir diyecekler sekizincileri köpekleridir de ki onların sayısını Rabbim daha iyi bilir sathi tartışma dışında onlar hakkında münakaşaya girme azı dışında onları bilen yoktur ve bunlardan hiçbirine onlar hakkında bir şey sorma
+**(23)** ve hiçbir şey için yarın bunu mutlaka yapacağım deme 
+**(24)** ancak Allah dilerse ve unuttuğun zaman Rabbini an (hatırla) ve de ki Rabbimin bundan daha yakın bir doğruya{hayır,rahmet, hidayete} beni ulaştırmasını umarım
+**(25)** ve üç yüz yıl mağaralarında kaldılar ve dokuz (yıl) ilave ettiler
+**(26)** de ki ne kadar kaldıklarını Allah daha iyi bilir göklerin ve yerin gaybı O’nundur ne güzel görendir onu ne güzel işitendir onların O’ndan başka hiçbir yardımcısı yoktur ve kendi hükmüne kimseyi O ortak etmez
+**(27)** Rabbinin Kitabı’ndan sana vahyedilen şeyi oku O’nun sözlerini değiştirecek yoktur ve O’ndan başka sığınılacak bir kimse bulamazsın
+**(28)** akşam sabah rızasını isteyerek Rablerine yalvaranlarla beraber nefsini{gayretle} tut (sabret) ve dünya hayatının süsünü isteyerek onlardan gözlerin sapmasın ve bizi anmaktan kalbini alıkoyduğumuz ve keyfine tâbi olan ve işi aşırılık olan kişiye itaat etme 
 **(29)** 
 **(30)** 
 **(31)** 
