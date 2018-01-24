@@ -60,10 +60,10 @@ tag:
 **(48)** ve sıra sıra senin Rabbine hepsi sunulmuşlardır andolsun ilk defa sizi yarattığımız gibi bize geldiniz oysa size bir vade tayin etmeyeceğimizi siz sanmıştınız
 **(49)** Kitap (ortaya) konulmuştur ve suçluların onun içindekilerden korkarak ve ne oluyor bu Kitaba (ne) küçük ne de büyük (hiçbir şey) bırakmıyor her (yaptığımız) şeyi sayıp döküyor vah bize dediklerini görürsün ve yaptıkları şeyleri hazır bulmuşlardır ve kimseye Rabbin zulmetmez
 **(50)** ve hani meleklere Adem’e secde edin demiştik İblis hariç secde ettiler (O) cinlerden idi Rabbinin buyruğunun dışına çıktı siz onun neslini ve onu mu benden ayrı olarak dostlar ediniyorsunuz? oysa onlar sizin düşmanınızdır zalimler için ne kötü {karşılıklı}bir değiştirmedir
-**(51)** 
-**(52)** 
-**(53)** 
-**(54)** 
+**(51)** göklerin ve yerin yaratılmasında ve ne de kendilerinin yaratılmasında onları hazır bulundurmadım ve yoldan şaşırtanları{çıkaranları} yardımcı edinmiş değilim
+**(52)** ve o gün (Allah, kafirlere) der ki benim ortaklarım zannettiğiniz şeyleri çağırın işte çağırdılar ama kendilerine cevap vermediler ve onların aralarına biz {korkunç}tehlikeli bir uçurum koyduk
+**(53)** ve ateşi suçlular{sıcak, çukur yeri} gördüler kendilerinin içine düşeceklerini artık iyice anladılar fakat ondan kaçacak bir yer bulamadılar
+**(54)** ve andolsun her çeşit misali insanlara bu Kur’an’da biz türlü biçimlerde anlattık ama insan her şeyden {hakkı bulmaktan}daha çok tartışmacıdır
 **(55)** 
 **(56)** 
 **(57)** 
