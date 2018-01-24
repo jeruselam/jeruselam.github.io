@@ -59,7 +59,7 @@ tag:
 **(47)** O gün dağları yürütürüz ve çırılçıplak yeri görürsün onları toplamışız ve onlardan hiçbirini bırakmamışızdır
 **(48)** ve sıra sıra senin Rabbine hepsi sunulmuşlardır andolsun ilk defa sizi yarattığımız gibi bize geldiniz oysa size bir vade tayin etmeyeceğimizi siz sanmıştınız
 **(49)** Kitap (ortaya) konulmuştur ve suçluların onun içindekilerden korkarak ve ne oluyor bu Kitaba (ne) küçük ne de büyük (hiçbir şey) bırakmıyor her (yaptığımız) şeyi sayıp döküyor vah bize dediklerini görürsün ve yaptıkları şeyleri hazır bulmuşlardır ve kimseye Rabbin zulmetmez
-**(50)** 
+**(50)** ve hani meleklere Adem’e secde edin demiştik İblis hariç secde ettiler (O) cinlerden idi Rabbinin buyruğunun dışına çıktı siz onun neslini ve onu mu benden ayrı olarak dostlar ediniyorsunuz? oysa onlar sizin düşmanınızdır zalimler için ne kötü {karşılıklı}bir değiştirmedir
 **(51)** 
 **(52)** 
 **(53)** 
