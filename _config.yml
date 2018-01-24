@@ -111,6 +111,8 @@ incremental       : bool
 destination       : ./_site
 layouts_dir       : ./_layouts
 contact_dir       : ./contact
+search_dir        : ./search
+random_dir        : ./random
 atom_path         : /atom.xml
 
 sitemap:
