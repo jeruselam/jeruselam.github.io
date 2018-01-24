@@ -110,6 +110,7 @@ keep_files        : ["/images", "favicon.png", ".git"]
 incremental       : bool
 destination       : ./_site
 layouts_dir       : ./_layouts
+contact_dir       : ./contact
 atom_path         : /atom.xml
 
 sitemap:
