@@ -64,7 +64,7 @@ tag:
 **(52)** ve o gün (Allah, kafirlere) der ki benim ortaklarım zannettiğiniz şeyleri çağırın işte çağırdılar ama kendilerine cevap vermediler ve onların aralarına biz {korkunç}tehlikeli bir uçurum koyduk
 **(53)** ve ateşi suçlular{sıcak, çukur yeri} gördüler kendilerinin içine düşeceklerini artık iyice anladılar fakat ondan kaçacak bir yer bulamadılar
 **(54)** ve andolsun her çeşit misali insanlara bu Kur’an’da biz türlü biçimlerde anlattık ama insan her şeyden {hakkı bulmaktan}daha çok tartışmacıdır
-**(55)** 
+**(55)** hidayet kendilerine geldiği zaman inanmaktan ve Rablerine istiğfar etmekten insanları alıkoyan şey ancak evvelkilerin yasasının{yol ve adetlerinin} kendilerine de gelmesidir yahut azabın açıkça{önce,ilkin} karşılarına gelmesidir 
 **(56)** 
 **(57)** 
 **(58)** 
