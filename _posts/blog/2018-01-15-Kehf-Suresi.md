@@ -66,10 +66,10 @@ tag:
 **(54)** ve andolsun her çeşit misali insanlara bu Kur’an’da biz türlü biçimlerde anlattık ama insan her şeyden {hakkı bulmaktan}daha çok tartışmacıdır
 **(55)** hidayet kendilerine geldiği zaman inanmaktan ve Rablerine istiğfar etmekten insanları alıkoyan şey ancak evvelkilerin yasasının{yol ve adetlerinin} kendilerine de gelmesidir yahut azabın açıkça{önce,ilkin} karşılarına gelmesidir 
 **(56)** ve müjdeleyiciler ve uyarıcılar (olması) dışında elçileri biz göndermeyiz ve hakkı onunla gidermek için batılla inkar eden(ler) kimseler mücadele ediyorlar ve ayetlerimi ve uyarıldıkları şeyleri alay konusu edindiler
-**(57)** Rabbinin ayetleri hatırlatılan fakat onlardan yüz çeviren kimseden ve ellerinin öne sürdüğü şeyi{kötülükleri} unutandan daha zalim kim olabilir? 
-**(58)** 
-**(59)** 
-**(60)** 
+**(57)** Rabbinin ayetleri hatırlatılan fakat onlardan yüz çeviren kimseden ve ellerinin öne sürdüğü şeyi{kötülükleri} unutandan daha zalim kim olabilir? gerçekten biz onların kalbleri üzerine onu anlamalarına engel olan örtüler ve kulaklarının içine ağırlıklar koyduk eğer onları çağırsan da doğru yola asla o halde asla doğru yola gelmezler
+**(58)** ve Rabbin çok bağışlayandır rahmet sahibidir yaptıklariyle eğer onları hemen cezalandırsaydı onların azabını çabuklaştırırdı fakat va’dedilen bir zaman onlar için vardır ondan başka sığınacak bir yer asla bulamayacaklardır
+**(59)** ve zulmetmeğe başlayınca işte (şu) kentleri helak ettik ve onları helak etmek için bir süre belirledik
+**(60)** ve uşağına Musa hani demişti ki iki denizin birleştiği yere varıncaya kadar durmayacağım veya uzun bir zaman yürüyeceğim
 **(61)** 
 **(62)** 
 **(63)** 
