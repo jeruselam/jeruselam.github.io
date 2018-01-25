@@ -69,8 +69,8 @@ tag:
 **(57)** Rabbinin ayetleri hatırlatılan fakat onlardan yüz çeviren kimseden ve ellerinin öne sürdüğü şeyi{kötülükleri} unutandan daha zalim kim olabilir? gerçekten biz onların kalbleri üzerine onu anlamalarına engel olan örtüler ve kulaklarının içine ağırlıklar koyduk eğer onları çağırsan da doğru yola asla o halde asla doğru yola gelmezler
 **(58)** ve Rabbin çok bağışlayandır rahmet sahibidir yaptıklariyle eğer onları hemen cezalandırsaydı onların azabını çabuklaştırırdı fakat va’dedilen bir zaman onlar için vardır ondan başka sığınacak bir yer asla bulamayacaklardır
 **(59)** ve zulmetmeğe başlayınca işte (şu) kentleri helak ettik ve onları helak etmek için bir süre belirledik
-**(60)** ve uşağına Musa hani demişti ki iki denizin birleştiği yere varıncaya kadar durmayacağım veya uzun bir zaman yürüyeceğim
-**(61)** 
+**(60)** ve Musa hani uşağına demişti ki iki denizin birleştiği yere varıncaya kadar durmayacağım veya uzun bir zaman yürüyeceğim
+**(61)** ne zaman ki iki (denizin) arasının birleştiği yere varınca balıklarını unuttular (balık) sıyrılıp denizde yolunu tuttu
 **(62)** 
 **(63)** 
 **(64)** 
