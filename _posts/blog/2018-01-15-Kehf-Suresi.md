@@ -71,9 +71,9 @@ tag:
 **(59)** ve zulmetmeğe başlayınca işte (şu) kentleri helak ettik ve onları helak etmek için bir süre belirledik
 **(60)** ve Musa hani uşağına demişti ki iki denizin birleştiği yere varıncaya kadar durmayacağım veya uzun bir zaman yürüyeceğim
 **(61)** ne zaman ki iki (denizin) arasının birleştiği yere varınca balıklarını unuttular (balık) sıyrılıp denizde yolunu tuttu
-**(62)** 
-**(63)** 
-**(64)** 
+**(62)** ne zaman ki orayı geçip gittiklerinde (Musa) uşağına dedi kahvaltımızı bize getir andolsun ki şu yolculuğumuzdan yorgunluk çektik
+**(63)** (Uşağı) gördün mü? dedi kayaya sığındığımız vakit gerçekten ben balığı unuttum fakat onu söylememi şeytandan başkası bana unutturmadı ve şaşılacak biçimde denizin içinde yolunu tuttu
+**(64)** (Musa) işte aradığımız şey dedi izleri üzerini ta’kibederek geriye döndüler
 **(65)** 
 **(66)** 
 **(67)** 
