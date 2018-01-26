@@ -74,13 +74,13 @@ tag:
 **(62)** ne zaman ki orayı geçip gittiklerinde (Musa) uşağına dedi kahvaltımızı bize getir andolsun ki şu yolculuğumuzdan yorgunluk çektik
 **(63)** (Uşağı) gördün mü? dedi kayaya sığındığımız vakit gerçekten ben balığı unuttum fakat onu söylememi şeytandan başkası bana unutturmadı ve şaşılacak biçimde denizin içinde yolunu tuttu
 **(64)** (Musa) işte aradığımız şey dedi izleri üzerini ta’kibederek geriye döndüler
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
+**(65)** ve kullarımızdan bir kul buldular biz ona katımızdan bir rahmet vermiştik ve ona katımızdan bir ilim öğretmiştik
+**(66)** Musa ona dedi ki bir sana öğretilen şeyden bana da öğretmen için bilgi üzere sana tabi olabilir miyim? 
+**(67)** dedi ki sabırla benimle beraber bulunmaya sen asla dayanamazsın
+**(68)** ve haberdar edilerek onu kavrayamadığın bir şeye nasıl? dayanabilirsin 
+**(69)** eğer Allah dilerse beni sabredici bulursun dedi ve senin emrine karşı gelmem
+**(70)** eğer dedi bana tabi olursan bir hatırlatma onu sana ben anlatıncaya kadar bana hiçbir (şey) soru sorma
+**(71)** sonra yürüdüler nihayet gemiye bindikleri zaman onu deliverdi, dedi{ki} halkını boğmak için mi onu deldin? gerçekten sen çok tehlikeli bir iş yaptın
 **(72)** 
 **(73)** 
 **(74)** 
