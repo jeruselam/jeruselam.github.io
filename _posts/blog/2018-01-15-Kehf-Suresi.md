@@ -81,8 +81,8 @@ tag:
 **(69)** eğer Allah dilerse beni sabredici bulursun dedi ve senin emrine karşı gelmem
 **(70)** eğer dedi bana tabi olursan bir hatırlatma onu sana ben anlatıncaya kadar bana hiçbir (şey) soru sorma
 **(71)** sonra yürüdüler nihayet gemiye bindikleri zaman onu deliverdi, dedi{ki} halkını boğmak için mi onu deldin? gerçekten sen çok tehlikeli bir iş yaptın
-**(72)** 
-**(73)** 
+**(72)** demedim mi? dedi gerçekten sen benimle beraber bulunmaya sabırla dayanamazsın
+**(73)** unuttuğum şeyden ötürü beni kınama ve bu işimden dolayı bana bir güçlük çıkarma dedi
 **(74)** 
 **(75)** 
 **(76)** 
