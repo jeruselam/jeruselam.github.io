@@ -83,7 +83,7 @@ tag:
 **(71)** sonra yürüdüler nihayet gemiye bindikleri zaman onu deliverdi, dedi{ki} halkını boğmak için mi onu deldin? gerçekten sen çok tehlikeli bir iş yaptın
 **(72)** demedim mi? dedi gerçekten sen benimle beraber bulunmaya sabırla dayanamazsın
 **(73)** unuttuğum şeyden ötürü beni kınama ve bu işimden dolayı bana bir güçlük çıkarma dedi
-**(74)** 
+**(74)** yine yürüdüler nihayet bir çocuğa rastladılar hemen onu öldürdü 
 **(75)** 
 **(76)** 
 **(77)** 
