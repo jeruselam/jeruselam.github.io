@@ -18,7 +18,7 @@ tag:
 **(5)** Şüphesiz iyiler, karışımı kâfûr olan bir kadehten içerler,
 **(6)** Allah’ın kulları ondan bir kaynak içerler, fışkırtarak akıtırlar,
 **(7)** adaklarını yerine getirirler ve salgın şerri olan, bir günden korkarlar, 
-**(8)** ve esire ve yetime ve sevdikleri yoksula yemeği yedirirler,
+**(8)** ve sevdikleri[muhafaza ettikleri] yoksula ve yetime ve esire yemeği yedirirler,
 **(9)** Allah rızası için biz size yediriyoruz, sizden bir karşılık, ne de teşekkür beklemiyoruz,
 **(10)** çünkü biz çok katı, suratsız bir günde Rabbimizden korkarız.
 **(11)** Allah onları o günün şerrinden korumuştur ve onlara parlaklık ve sevinç vermiştir, 

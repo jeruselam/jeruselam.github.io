@@ -84,7 +84,7 @@ tag:
 **(72)** demedim mi? dedi gerçekten sen benimle beraber bulunmaya sabırla dayanamazsın
 **(73)** unuttuğum şeyden ötürü beni kınama ve bu işimden dolayı bana bir güçlük çıkarma dedi
 **(74)** yine yürüdüler nihayet bir çocuğa rastladılar hemen onu öldürdü (Musa) dedi ki bir can karşılığı olmadan tertemiz bir canı mı katlettin? doğrusu sen çirkin bir iş yaptın
-**(75)** 
+**(75)** sana dememiş miydim? dedi benimle beraber bulunmaya sen sabırla dayanamazsın
 **(76)** 
 **(77)** 
 **(78)** 
