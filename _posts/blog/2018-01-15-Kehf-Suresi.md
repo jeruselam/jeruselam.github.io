@@ -85,9 +85,9 @@ tag:
 **(73)** unuttuğum şeyden ötürü beni kınama ve bu işimden dolayı bana bir güçlük çıkarma dedi
 **(74)** yine yürüdüler nihayet bir çocuğa rastladılar hemen onu öldürdü (Musa) dedi ki bir can karşılığı olmadan tertemiz bir canı mı katlettin? doğrusu sen çirkin bir iş yaptın
 **(75)** sana dememiş miydim? dedi benimle beraber bulunmaya sen sabırla dayanamazsın
-**(76)** 
-**(77)** 
-**(78)** 
+**(76)** dedi ki eğer bundan sonra bir şey sana sorarsam bana arkadaş artık olma elbette bir özür benim tarafımdan sana ulaşmıştır
+**(77)** yine yürüdüler nihayet bir kent halkına vardıklarında oranın halkından yemek istediler onları konuklamaktan fakat kaçındılar derken orada yıkılmağa yüz tutan bir duvar buldular hemen onu doğrulttu (Musa) dedi ki eğer buna karşılık bir ücret isteseydin alırdın
+**(78)** işte bu dedi benimle senin arasının ayrılmasıdır sabırla üzerine güç yetiremediğin şeylerin içyüzünü sana haber vereceğim
 **(79)** 
 **(80)** 
 **(81)** 
