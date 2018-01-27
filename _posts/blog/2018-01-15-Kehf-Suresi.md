@@ -92,10 +92,10 @@ tag:
 **(80)** çocuğa gelince onun anası babası mü’min insanlar idi onlara azgınlık ve küfür sarmasından korktuk
 **(81)** istedik ki ondan daha temiz ve merhamete daha yakınını daha hayırlısını Rableri onun yerine versin
 **(82)** duvar ise şehirde iki yetim çocuğun idi ve altında onlara ait bir hazine vardı ve babaları da iyi bir kimse idi Rabbin istedi ki güçlü çağlarına onlar (büyüyüp) ersinler ve Rabbinden bir rahmet olarak hazinelerini çıkarsınlar ben kendiliğimden bunları yapmadım sabırla hakkında senin güç yetiremediğin şeylerin içyüzü işte budur
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
+**(83)** ve Zu’l-Karneyn’den sana soruyorlar de ki ondan bir hatıra size okuyacağım
+**(84)** elbette biz yeryüzünde onu güçlü kıldık ve ona verdik her şeyden bir sebep[vasıta]
+**(85)** o da tuttu bir yol
+**(86)** nihayet ne zaman ki güneşin battığı yere ulaştı ve onu buldu [hararetli]kara balçıklı bir gözede batarken ve onun yanında da bir kavim buldu dedik ki Zu’l-Karneyn ya azâb edersin veya kendilerine güzel davranırsın
 **(87)** 
 **(88)** 
 **(89)** 
