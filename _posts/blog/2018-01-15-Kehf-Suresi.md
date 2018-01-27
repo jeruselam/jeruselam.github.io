@@ -89,9 +89,9 @@ tag:
 **(77)** yine yürüdüler nihayet bir kent halkına vardıklarında oranın halkından yemek istediler onları konuklamaktan fakat kaçındılar derken orada yıkılmağa yüz tutan bir duvar buldular hemen onu doğrulttu (Musa) dedi ki eğer buna karşılık bir ücret isteseydin alırdın
 **(78)** işte bu dedi benimle senin arasının ayrılmasıdır sabırla üzerine güç yetiremediğin şeylerin içyüzünü sana haber vereceğim
 **(79)** O gemi denizde çalışan yoksulların idi ki onu kusurlu yapmak istedim çünkü onların ilerisinde zorla her gemiyi alan bir kral vardı
-**(80)** 
-**(81)** 
-**(82)** 
+**(80)** çocuğa gelince onun anası babası mü’min insanlar idi onlara azgınlık ve küfür sarmasından korktuk
+**(81)** istedik ki ondan daha temiz ve merhamete daha yakınını daha hayırlısını Rableri onun yerine versin
+**(82)** duvar ise şehirde iki yetim çocuğun idi ve altında onlara ait bir hazine vardı ve babaları da iyi bir kimse idi Rabbin istedi ki güçlü çağlarına onlar (büyüyüp) ersinler ve Rabbinden bir rahmet olarak hazinelerini çıkarsınlar ben kendiliğimden bunları yapmadım sabırla hakkında senin güç yetiremediğin şeylerin içyüzü işte budur
 **(83)** 
 **(84)** 
 **(85)** 
