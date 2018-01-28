@@ -115,10 +115,10 @@ tag:
 **(103)** de ki işleri bakımından en çok ziyana uğrayanları size söyleyeyim mi?
 **(104)** dünya hayatında onların bütün çabaları boşa gider ve kendileri de işlerini kendilerinin [daha]iyi yaptıklarını sanırlar
 **(105)** işte onlar Rablerinin ayetlerini ve O’na kavuşmayı inkar eden kimselerdir eylemleri bu yüzden boşa çıkar kıyamet günü onlar için bir terazi kurmayız
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
-**(110)** 
+**(106)** işte bu inkarları ve ayetlerimi ve elçilerimi eğlence edinmeleri sebebiyle onların cezası cehennemdir 
+**(107)** şüphesiz iman eden kimseler ve iyi işler yapanlar konak olarak Firdevs cennetleri onlar için vardır
+**(108)** orada sürekli kalacaklardır oradan ayrılmak hiç istemezler
+**(109)** de ki Rabbimin sözleri(ni yazmak) için deniz mürekkep olsa şayet ve yardım için bir o kadarını daha şayet getirsek bile Rabbimin sözleri tükenmeden önce deniz tükenir
+**(110)** de ki şüphesiz ben de sizin gibi bir insanım bana vahyolunuyor şüphesiz Tanrınız[İlahınız] bir tek Tanrıdır[İlahtır] Rabbine kavuşmayı o halde kim arzu eder ise iyi iş(ler) yapsın ve (hiç) kimseyi Rabbine (yaptığı) ibadete asla ortak etmesin
 
 ![18Kehf-Mekkî]({{site.url}}/images/ayrac-muhur.png)
