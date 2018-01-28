@@ -109,11 +109,11 @@ tag:
 **(97)** onu aşmaya artık ne güçleri yetti ne de onu delmeye güçleri yetti
 **(98)** (Zu’l-Karneyn) dedi ki Rabbimden bu bir rahmetdir Rabbimin va’di geldiği zaman onu yerle bir eder ve Rabbimin va’di haktır (gerçektir)
 **(99)** [diğer]birbiri içinde dalgalanır bir halde o gün birbirlerini[bir kısmını] biz bırakırız ve Sur’a üflenir ve hepsini onları toplarız
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
+**(100)** ve açıkça [inkar edenlere]kafirlere o gün cehennemi göstereceğiz
+**(101)** onlar ki beni anmaya karşı gözleri [örtülü]perde içinde idi ve (Kur’an’ı) dinlemeğe tahammül edemez idiler
+**(102)** o inkarcılar kullarımı benden ayrı olarak kendilerine veliler (dost) edineceklerini mi sandılar? şüphesiz biz konak olarak kafirlere cehennemi hazırladık
+**(103)** de ki işleri bakımından en çok ziyana uğrayanları size söyleyeyim mi?
+**(104)** dünya hayatında onların bütün çabaları boşa gider ve kendileri de işlerini kendilerinin [daha]iyi yaptıklarını sanırlar
 **(105)** 
 **(106)** 
 **(107)** 
