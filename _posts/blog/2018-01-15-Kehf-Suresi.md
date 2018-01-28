@@ -114,7 +114,7 @@ tag:
 **(102)** o inkarcılar kullarımı benden ayrı olarak kendilerine veliler (dost) edineceklerini mi sandılar? şüphesiz biz konak olarak kafirlere cehennemi hazırladık
 **(103)** de ki işleri bakımından en çok ziyana uğrayanları size söyleyeyim mi?
 **(104)** dünya hayatında onların bütün çabaları boşa gider ve kendileri de işlerini kendilerinin [daha]iyi yaptıklarını sanırlar
-**(105)** 
+**(105)** işte onlar Rablerinin ayetlerini ve O’na kavuşmayı inkar eden kimselerdir eylemleri bu yüzden boşa çıkar kıyamet günü onlar için bir terazi kurmayız
 **(106)** 
 **(107)** 
 **(108)** 
