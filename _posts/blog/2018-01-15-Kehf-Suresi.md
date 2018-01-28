@@ -96,15 +96,15 @@ tag:
 **(84)** elbette biz yeryüzünde onu güçlü kıldık ve ona verdik her şeyden bir sebep[vasıta]
 **(85)** o da tuttu bir yol
 **(86)** nihayet ne zaman ki güneşin battığı yere ulaştı ve onu buldu [hararetli]kara balçıklı bir gözede batarken ve onun yanında da bir kavim buldu dedik ki Zu’l-Karneyn ya azâb edersin veya kendilerine güzel davranırsın
-**(87)** 
-**(88)** 
-**(89)** 
-**(90)** 
-**(91)**
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
+**(87)** dedi ki kim haksızlık ederse ona azab edeceğiz sonra Rabbine döndürülecektir görülmemiş bir azapla O da ona azab edecektir
+**(88)** inanan ve iyi işler yapan kimseye ise en güzel mükafat ve buyruğumuzdan kolay olanı ona söyleyeceğiz
+**(89)** sonra yine bir yol tuttu
+**(90)** nihayet ne zaman ki güneşin doğduğu yere ulaştı ve ona (güneşe) karşı kendilerine bir siper yapmadığımız bir kavmin üzerine doğarken onu buldu
+**(91)** işte böyle ve ilmimizle onun yanındakini muhakkak biliyorduk
+**(92)** sonra yine bir yol tuttu
+**(93)** nihayet ne zaman ki iki sed arasına ulaştı onların dışında neredeyse hiç söz anlamayan bir kavim buldu 
+**(94)** dediler ki Zu’l-Karneyn şüphesiz Ye’cuc ve Me’cuc[kavmi] yeryüzünde bozgunculuk yapıyorlar bizimle onların arasına bir [doğal engel]sed yapman için sana bir vergi verelim mi?
+**(95)** dedi ki Rabbimin içinde beni bulundurduğu imkanlar daha hayırlıdır güçle siz bana yardım edin de sizinle onlar arasına sağlam bir engel yapayım
 **(96)** 
 **(97)** 
 **(98)** 
