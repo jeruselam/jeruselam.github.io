@@ -35,7 +35,6 @@ compress_html:
 
 enforce_ssl       : jeruselam.github.io
 encoding          : UTF-8
-safe              : bool
 whitelist:
   - jekyll-redirect-from
 timezone          : Europe/Istanbul
