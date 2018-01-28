@@ -103,11 +103,11 @@ tag:
 **(91)** işte böyle ve ilmimizle onun yanındakini muhakkak biliyorduk
 **(92)** sonra yine bir yol tuttu
 **(93)** nihayet ne zaman ki iki sed arasına ulaştı onların dışında neredeyse hiç söz anlamayan bir kavim buldu 
-**(94)** dediler ki Zu’l-Karneyn şüphesiz Ye’cuc ve Me’cuc[kavmi] yeryüzünde bozgunculuk yapıyorlar bizimle onların arasına bir [doğal engel]sed yapman için sana bir vergi verelim mi?
+**(94)** dediler ki Zu’l-Karneyn şüphesiz Ye’cuc ve Me’cuc[kavmi] yeryüzünde bozgunculuk yapıyorlar bizimle onların arasına bir [yapay engel]sed yapman için sana bir vergi verelim mi?
 **(95)** dedi ki Rabbimin içinde beni bulundurduğu imkanlar daha hayırlıdır güçle siz bana yardım edin de sizinle onlar arasına sağlam bir engel yapayım
-**(96)** 
-**(97)** 
-**(98)** 
+**(96)** demir kütleleri bana getirin o kadar ki iki dağın arasını aynı seviyeye getirince üfleyin! dedi nihayet bir ateş haline onu sokunca getirin bana dedi erimiş katran üzerine dökeyim
+**(97)** onu aşmaya artık ne güçleri yetti ne de onu delmeye güçleri yetti
+**(98)** (Zu’l-Karneyn) dedi ki Rabbimden bu bir rahmetdir Rabbimin va’di geldiği zaman yerle bir onu eder ve Rabbimin va’di haktır (gerçektir)
 **(99)** 
 **(100)** 
 **(101)** 
