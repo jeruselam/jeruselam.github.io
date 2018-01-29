@@ -11,9 +11,9 @@ tag:
 ## 17. İsrâ Sûresi
 
 **(1)** O (Allah) ki eksiklikten uzaktır ayetlerimizden bir bölümünü kendisine göstermemiz için öyle ki çevresini bereketli kıldığımız Mescid-i Haram’dan Mescid-i Aksa’ya gecenin bir vaktinde kulunu yürüttü gerçekten O işitendir görendir
-**(2)** 
-**(3)** 
-**(4)** 
+**(2)** ve Kitabı Musa’ya biz verdik ve benden başka bir vekil edinmeyin diye İsrail oğullarına onu bir kılavuz yaptık
+**(3)** Nuh ile beraber taşıdığımız kimselerin çocukları doğrusu o çok şükreden bir kul idi
+**(4)** ve Kitapta İsrail oğullarına şu[nun için] hükmü verdik o ülkede iki kez bozgunculuk yapacaksınız ve kibirli büyüklenme ile çok böbürleneceksiniz
 **(5)** 
 **(6)** 
 **(7)** 
