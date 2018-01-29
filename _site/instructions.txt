@@ -1,4 +1,10 @@
 
+---
+layout: null
+sitemap: false
+search_omit: false
+---  
+
 Initial setup guidelines include preparing the system and executing commands.
 
 sudo eopkg it -c sytem.devel & git & ruby & ruby-devel
