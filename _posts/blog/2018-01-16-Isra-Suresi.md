@@ -10,7 +10,7 @@ tag:
 
 ## 17. İsrâ Sûresi
 
-**(1)** 
+**(1)** O (Allah) ki eksiklikten uzaktır ayetlerimizden bir bölümünü kendisine göstermemiz için öyle ki çevresini bereketli kıldığımız Mescid-i Haram’dan Mescid-i Aksa’ya gecenin bir vaktinde kulunu yürüttü gerçekten O işitendir görendir
 **(2)** 
 **(3)** 
 **(4)** 
