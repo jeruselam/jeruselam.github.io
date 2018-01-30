@@ -14,8 +14,8 @@ tag:
 **(2)** ve Kitabı Musa’ya biz verdik ve benden başka bir vekil edinmeyin diye İsrail oğullarına onu bir kılavuz yaptık
 **(3)** Nuh ile beraber taşıdığımız kimselerin çocukları doğrusu o çok şükreden bir kul idi
 **(4)** ve Kitapta İsrail oğullarına şu[nun için] hükmü verdik o ülkede iki kez bozgunculuk yapacaksınız ve kibirli büyüklenme ile çok böbürleneceksiniz
-**(5)** 
-**(6)** 
+**(5)** ne zaman ki birincisinin zamanı gelince bizim çok güçlü kullarımızı üzerinize gönderdik evlerin aralarına girip (sizi) [gizlice]araştırdılar yapılması gereken bir [söz]va’d idi
+**(6)** sonra size tekrar onları yenme imkanı verdik ve mallarla ve oğullarla sizi destekledik ve savaşçılarınızı sizi daha çok yaptık 
 **(7)** 
 **(8)** 
 **(9)** 
