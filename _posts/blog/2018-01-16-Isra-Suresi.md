@@ -20,10 +20,10 @@ tag:
 **(8)** belki Rabbiniz size acır ve eğer siz dönerseniz biz de döneriz ve cehennemi kafirler için kuşatıcı[zarar ve ziyan yeri] yapmışızdır
 **(9)** gerçekten bu Kur’an yola iletir ki o en doğru olana ve iyi işler yapan mü’minlere müjdeler şüphesiz büyük bir ecir kendileri için vardır
 **(10)** ve şüphesiz Ahirete inanmayan(lara) kimselere onlara acıklı bir azab hazırlamışızdır
-**(11)** 
-**(12)** 
-**(13)** 
-**(14)** 
+**(11)** ve hayra du’a eder (gibi) insan şerre du’a etmektedir ve insan pek acelecidir
+**(12)** ve geceyi ve gündüzü iki ayet biz yaptık gecenin ayetini (sonra) sildik ve Rabbinizin lutfunu aramanız için ve yılların sayısını ve hesabı bilmeniz için gündüz ayetini aydınlatıcı yaptık her şeyi açık açık anlattık
+**(13)** her insanın kuşunu (kaderini) boynuna bağladık ve kıyamet günü onun için açılmış olarak bulacağı bir Kitap çıkarırız
+**(14)** Kitabını oku hesapçı olarak sana bugün kendi nefsin yeter
 **(15)** 
 **(16)** 
 **(17)** 
