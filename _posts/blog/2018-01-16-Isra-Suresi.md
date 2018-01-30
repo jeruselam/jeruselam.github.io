@@ -17,9 +17,9 @@ tag:
 **(5)** ne zaman ki birincisinin zamanı gelince bizim çok güçlü kullarımızı üzerinize gönderdik evlerin aralarına girip (sizi) [gizlice]araştırdılar yapılması gereken bir [söz]va’d idi
 **(6)** sonra size tekrar onları yenme imkanı verdik ve mallarla ve oğullarla sizi destekledik ve savaşçılarınızı[topluluğunuzu] sizi daha çok yaptık 
 **(7)** eğer iyilik ederseniz kendinize iyilik etmiş olursunuz ve eğer kötülük ederseniz o da aleyhinizedir ne zaman ki sonuncusunun zamanı gelince yüzlerinizi kötü duruma soksunlar diye ve ilk kez girdikleri gibi Mescid’e (Kudüs’e) girsinler diye ve helak ederek ele geçirdikleri şeyleri mahvetsinler diye
-**(8)** belki Rabbiniz size acır ve eğer siz dönerseniz biz de döneriz ve cehennemi kafirler için kuşatıcı yapmışızdır
-**(9)** 
-**(10)** 
+**(8)** belki Rabbiniz size acır ve eğer siz dönerseniz biz de döneriz ve cehennemi kafirler için kuşatıcı[zarar ve ziyan yeri] yapmışızdır
+**(9)** gerçekten bu Kur’an yola iletir ki o en doğru olana ve iyi işler yapan mü’minlere müjdeler şüphesiz büyük bir ecir kendileri için vardır
+**(10)** ve şüphesiz Ahirete inanmayan(lara) kimselere onlara acıklı bir azab hazırlamışızdır
 **(11)** 
 **(12)** 
 **(13)** 
