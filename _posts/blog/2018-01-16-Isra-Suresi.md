@@ -15,9 +15,9 @@ tag:
 **(3)** Nuh ile beraber taşıdığımız kimselerin çocukları doğrusu o çok şükreden bir kul idi
 **(4)** ve Kitapta İsrail oğullarına şu[nun için] hükmü verdik o ülkede iki kez bozgunculuk yapacaksınız ve kibirli büyüklenme ile çok böbürleneceksiniz
 **(5)** ne zaman ki birincisinin zamanı gelince bizim çok güçlü kullarımızı üzerinize gönderdik evlerin aralarına girip (sizi) [gizlice]araştırdılar yapılması gereken bir [söz]va’d idi
-**(6)** sonra size tekrar onları yenme imkanı verdik ve mallarla ve oğullarla sizi destekledik ve savaşçılarınızı sizi daha çok yaptık 
-**(7)** 
-**(8)** 
+**(6)** sonra size tekrar onları yenme imkanı verdik ve mallarla ve oğullarla sizi destekledik ve savaşçılarınızı[topluluğunuzu] sizi daha çok yaptık 
+**(7)** eğer iyilik ederseniz kendinize iyilik etmiş olursunuz ve eğer kötülük ederseniz o da aleyhinizedir ne zaman ki sonuncusunun zamanı gelince yüzlerinizi kötü duruma soksunlar diye ve ilk kez girdikleri gibi Mescid’e (Kudüs’e) girsinler diye ve helak ederek ele geçirdikleri şeyleri mahvetsinler diye
+**(8)** belki Rabbiniz size acır ve eğer siz dönerseniz biz de döneriz ve cehennemi kafirler için kuşatıcı yapmışızdır
 **(9)** 
 **(10)** 
 **(11)** 
