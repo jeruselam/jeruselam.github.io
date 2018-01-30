@@ -25,7 +25,7 @@ tag:
 **(13)** her insanın kuşunu (kaderini) boynuna bağladık ve kıyamet günü onun için açılmış olarak bulacağı bir Kitap çıkarırız
 **(14)** Kitabını oku hesapçı olarak sana bugün kendi nefsin yeter
 **(15)** kim hidayeti seçerse şüphesiz kendisi için seçmiş olur ve kim saparsa şüphesiz kendi aleyhine sapar ve hiçbir günahkar başkasının günah yükünü taşımaz ve hatta elçi göndermedikçe biz azab edecek değiliz
-**(16)** 
+**(16)** ve bir kenti biz helak etmek istediğimiz zaman onun varlıklılarına emrederiz orada kötü işler yaparlar (azab) karar(ı) onlara böylece gerekli olur biz de orayı darmadağın yıkarız
 **(17)** 
 **(18)** 
 **(19)** 
