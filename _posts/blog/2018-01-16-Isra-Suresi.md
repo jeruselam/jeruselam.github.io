@@ -24,7 +24,7 @@ tag:
 **(12)** ve geceyi ve gündüzü iki ayet biz yaptık gecenin ayetini (sonra) sildik ve Rabbinizin lutfunu aramanız için ve yılların sayısını ve hesabı bilmeniz için gündüz ayetini aydınlatıcı yaptık her şeyi açık açık anlattık
 **(13)** her insanın kuşunu (kaderini) boynuna bağladık ve kıyamet günü onun için açılmış olarak bulacağı bir Kitap çıkarırız
 **(14)** Kitabını oku hesapçı olarak sana bugün kendi nefsin yeter
-**(15)** 
+**(15)** kim hidayeti seçerse şüphesiz kendisi için seçmiş olur ve kim saparsa şüphesiz kendi aleyhine sapar ve hiçbir günahkar başkasının günah yükünü taşımaz ve hatta elçi göndermedikçe biz azab edecek değiliz
 **(16)** 
 **(17)** 
 **(18)** 
