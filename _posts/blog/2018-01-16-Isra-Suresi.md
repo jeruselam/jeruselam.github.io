@@ -26,8 +26,8 @@ tag:
 **(14)** Kitabını oku hesapçı olarak sana bugün kendi nefsin yeter
 **(15)** kim hidayeti seçerse şüphesiz kendisi için seçmiş olur ve kim saparsa şüphesiz kendi aleyhine sapar ve hiçbir günahkar başkasının günah yükünü taşımaz ve hatta elçi göndermedikçe biz azab edecek değiliz
 **(16)** ve bir kenti biz helak etmek istediğimiz zaman onun varlıklılarına emrederiz orada kötü işler yaparlar (azab) karar(ı) onlara böylece gerekli olur biz de orayı darmadağın yıkarız
-**(17)** 
-**(18)** 
+**(17)** ve Nuh’dan sonra nice kuşakları helak ettik ve kullarının günahlarını haber alıcı görücü olarak Rabbin yeter
+**(18)** [çabuk geçeni](dünyayı) kim istiyor ise istediğimiz kimseye dilediğimiz kadar orada ona acele olanı çabucak veririz sonra ona cehennem (yerini) yaparız kınanmış olarak ve kovulmuş[hor ve hakir toplanmış] olarak oraya girer
 **(19)** 
 **(20)** 
 **(21)** 
