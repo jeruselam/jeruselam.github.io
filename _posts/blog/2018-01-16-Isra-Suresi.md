@@ -28,9 +28,9 @@ tag:
 **(16)** ve bir kenti biz helak etmek istediğimiz zaman onun varlıklılarına emrederiz orada kötü işler yaparlar (azab) karar(ı) onlara böylece gerekli olur biz de orayı darmadağın yıkarız
 **(17)** ve Nuh’dan sonra nice kuşakları helak ettik ve kullarının günahlarını haber alıcı görücü olarak Rabbin yeter
 **(18)** [çabuk geçeni](dünyayı) kim istiyor ise istediğimiz kimseye dilediğimiz kadar orada ona acele olanı çabucak veririz sonra ona cehennem (yerini) yaparız kınanmış olarak ve kovulmuş[hor ve hakir toplanmış] olarak oraya girer
-**(19)** 
-**(20)** 
-**(21)** 
+**(19)** ve kim de ahireti isterse ve yaraşır biçimde ve o ona inanarak çalışırsa öylelerinin çalışmalarının karşılığı verilir
+**(20)** Rabbinin mükafatından onlara da ve onlara da hepsine uzatırız ve Rabbinin [lutuf,ihsan]hediyesi [görünüşle]kısıtlanmış değildir
+**(21)** onların kimini kimi üzerine bak nasıl üstün yaptık elbette ahiret dereceler bakımından daha büyüktür ve üstünlük bakımından daha büyüktür
 **(22)** 
 **(23)** 
 **(24)** 
