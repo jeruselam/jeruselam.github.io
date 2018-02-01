@@ -31,7 +31,7 @@ tag:
 **(19)** ve kim de ahireti isterse ve yaraşır biçimde ve o ona inanarak çalışırsa öylelerinin çalışmalarının karşılığı verilir
 **(20)** Rabbinin mükafatından onlara da ve onlara da hepsine uzatırız ve Rabbinin [lutuf,ihsan]hediyesi [görünüşle]kısıtlanmış değildir
 **(21)** onların kimini kimi üzerine bak nasıl üstün yaptık elbette ahiret dereceler bakımından daha büyüktür ve üstünlük bakımından daha büyüktür
-**(22)** 
+**(22)** başka bir tanrı[ilah] Allah ile beraber asla edinme [ayıplanmış]kınanmış olarak ve yalnız başına bırakılmış[yüzsüz] olarak sonra oturup kalırsın
 **(23)** 
 **(24)** 
 **(25)** 
