@@ -43,12 +43,12 @@ tag:
 **(31)** fakirlik korkusuyla çocuklarınızı öldürmeyin biz sizi de besliyoruz onları da şüphesiz onları öldürmek büyük günahtır
 **(32)** ve asla zinaya yaklaşmayın çünkü o açık bir kötülüktür ve çok kötü bir yoldur
 **(33)** ve haksız yere Allah’ın haram kıldığı canı asla öldürmeyin ve haksızlıkla kim öldürülürse onun velisine bir yetki muhakkak vermişizdir fakat öldürmede aşırı gitmesin çünkü kendisine yardım edilmiştir
-**(34)** ve erginlik çağına erişinceye kadar o en güzel tarz dışında yetimin malına asla yaklaşmayın ve ahdi[mukavele,vasiyeti] yerine getirin çünkü ahd’den sorulacaktır
+**(34)** ve erginlik çağına erişinceye kadar o en güzel tarz dışında yetimin malına asla yaklaşmayın ve ahdi[mukavele,vasiyeti] yerine getirin çünkü ahd’den sorulacaktır[sorgu olacaktır]
 **(35)** ölçtüğünüz zaman ölçüyü tam yapın doğru terazi ile tartın bu daha iyidir ve sonuç bakımından daha güzeldir
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
+**(36)** ve senin hakkında bilgin olmayan şeyin ardına düşme çünkü kulak ve göz ve gönül bunların hepsi o(yaptığı)ndan sorumludur
+**(37)** ve [aşırı derecede sevinerek]kabara kabara yeryüzünde yürüme çünkü sen yeri yırtamazsın ve boyca dağlara erişemezsin
+**(38)** bunların hepsi Rabbinin katında kötü olandır hoş görülmeyen şeylerdir
+**(39)** şunlar Hikmetten Rabbinin sana vahyettiği şeydendir başka tanrı[ilah] Allah ile bereber edinme uzaklaştırılmış olarak kınanmış olarak cehenneme sonra atılırsın
 **(40)** 
 **(41)** 
 **(42)** 
