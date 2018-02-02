@@ -35,12 +35,12 @@ tag:
 **(23)** ve kendisinden başkasına tapmamanızı ve anaya babaya iyilik etmenizi Rabbin emretti ikisinden birisi yahut her ikisi ihtiyarlık çağına senin yanında ulaşırsa onlara Öf! deme sakın ve onları azarlama güzel bir söz söyle0 onlara
 **(24)** ve acımadan[merhametten] dolayı [himaye ederek]küçülme kanadını onlara indir ve deki Rabbim küçükken beni nasıl yetiştirdilerse sen de bunlara [merhamet et]acı 
 **(25)** içlerinizdeki şeyleri Rabbiniz daha iyi bilir eğer iyi kişiler siz olursanız şüphesiz O tevbe[rücu] edenleri bağışlayandır
-**(26)** 
-**(27)** 
-**(28)** 
-**(29)** 
-**(30)** 
-**(31)** 
+**(26)** ve hakkını akrabaya ve yoksula ve yolcuya ver (fakat) savurarak saçıp savurma
+**(27)** çünkü savurganlar şeytanların kardeşleri olmuşlardır ve şeytan ise Rabbine karşı çok nankördür
+**(28)** ve eğer Rabbinden umduğun bir rahmeti bekleyerek onlardan yüz çevirecek olursan bari söyle onlara yumuşak bir söz
+**(29)** ve asla yapma el(ler)ini boynuna bağlanmış ve açma tamamen açarak sonra kalırsın hasret içinde kınanmış
+**(30)** şüphesiz Rabbin açar (bol bol verir) rızkı dilediği kimseye ve kısar çünkü O kullarını bilir görür
+**(31)** fakirlik korkusuyla çocuklarınızı öldürmeyin biz sizi de besliyoruz onları da şüphesiz onları öldürmek büyük günahtır
 **(32)** 
 **(33)** 
 **(34)** 
