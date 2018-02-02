@@ -43,8 +43,8 @@ tag:
 **(31)** fakirlik korkusuyla çocuklarınızı öldürmeyin biz sizi de besliyoruz onları da şüphesiz onları öldürmek büyük günahtır
 **(32)** ve asla zinaya yaklaşmayın çünkü o açık bir kötülüktür ve çok kötü bir yoldur
 **(33)** ve haksız yere Allah’ın haram kıldığı canı asla öldürmeyin ve haksızlıkla kim öldürülürse onun velisine bir yetki muhakkak vermişizdir fakat öldürmede aşırı gitmesin çünkü kendisine yardım edilmiştir
-**(34)** 
-**(35)** 
+**(34)** ve erginlik çağına erişinceye kadar o en güzel tarz dışında yetimin malına asla yaklaşmayın ve ahdi[mukavele,vasiyeti] yerine getirin çünkü ahd’den sorulacaktır
+**(35)** ölçtüğünüz zaman ölçüyü tam yapın doğru terazi ile tartın bu daha iyidir ve sonuç bakımından daha güzeldir
 **(36)** 
 **(37)** 
 **(38)** 
