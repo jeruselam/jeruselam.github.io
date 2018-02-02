@@ -41,8 +41,8 @@ tag:
 **(29)** ve asla yapma el(ler)ini boynuna bağlanmış ve açma tamamen açarak sonra kalırsın hasret içinde kınanmış
 **(30)** şüphesiz Rabbin açar (bol bol verir) rızkı dilediği kimseye ve kısar çünkü O kullarını bilir görür
 **(31)** fakirlik korkusuyla çocuklarınızı öldürmeyin biz sizi de besliyoruz onları da şüphesiz onları öldürmek büyük günahtır
-**(32)** 
-**(33)** 
+**(32)** ve asla zinaya yaklaşmayın çünkü o açık bir kötülüktür ve çok kötü bir yoldur
+**(33)** ve haksız yere Allah’ın haram kıldığı canı asla öldürmeyin ve haksızlıkla kim öldürülürse onun velisine bir yetki muhakkak vermişizdir fakat öldürmede aşırı gitmesin çünkü kendisine yardım edilmiştir
 **(34)** 
 **(35)** 
 **(36)** 
