@@ -48,7 +48,7 @@ tag:
 **(36)** ve senin hakkında bilgin olmayan şeyin ardına düşme çünkü kulak ve göz ve gönül bunların hepsi o(yaptığı)ndan sorumludur
 **(37)** ve [aşırı derecede sevinerek]kabara kabara yeryüzünde yürüme çünkü sen yeri yırtamazsın ve boyca dağlara erişemezsin
 **(38)** bunların hepsi Rabbinin katında kötü olandır hoş görülmeyen şeylerdir
-**(39)** şunlar Hikmetten Rabbinin sana vahyettiği şeydendir başka tanrı[ilah] Allah ile bereber edinme uzaklaştırılmış olarak kınanmış olarak cehenneme sonra atılırsın
+**(39)** şunlar [gizli hakikat]Hikmetten Rabbinin sana vahyettiği şeydendir Allah ile beraber başka tanrı[ilah] edinme uzaklaştırılmış olarak kınanmış olarak cehenneme sonra atılırsın
 **(40)** 
 **(41)** 
 **(42)** 
