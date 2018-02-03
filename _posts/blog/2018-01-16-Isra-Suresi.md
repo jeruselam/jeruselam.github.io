@@ -50,7 +50,7 @@ tag:
 **(38)** bunların hepsi Rabbinin katında kötü olandır hoş görülmeyen şeylerdir
 **(39)** şunlar [gizli hakikat]Hikmetten Rabbinin sana vahyettiği şeydendir Allah ile beraber başka tanrı[ilah] edinme uzaklaştırılmış olarak kınanmış olarak cehenneme sonra atılırsın
 **(40)** oğulları Rabbiniz size seçti ve (kendisine) meleklerden kadınlar edindi, (öyle) mi? gerçekten siz büyük (çok tehlikeli) bir söz söylüyorsunuz
-**(41)** 
+**(41)** andolsun düşünüp anlasınlar diye bu Kur’an’da biz türlü biçimlerde  anlattık fakat (bu) nefretlerinden başkasını artırmıyor
 **(42)** 
 **(43)** 
 **(44)** 
