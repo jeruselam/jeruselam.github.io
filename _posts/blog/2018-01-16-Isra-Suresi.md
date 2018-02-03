@@ -32,7 +32,7 @@ tag:
 **(20)** Rabbinin mükafatından onlara da ve onlara da hepsine uzatırız ve Rabbinin [lutuf,ihsan]hediyesi [görünüşle]kısıtlanmış değildir
 **(21)** onların kimini kimi üzerine bak nasıl üstün yaptık elbette ahiret dereceler bakımından daha büyüktür ve üstünlük bakımından daha büyüktür
 **(22)** başka bir tanrı[ilah] Allah ile beraber asla edinme [ayıplanmış]kınanmış olarak ve yalnız başına bırakılmış[yüzsüz] olarak sonra oturup kalırsın
-**(23)** ve kendisinden başkasına tapmamanızı ve anaya babaya iyilik etmenizi Rabbin emretti ikisinden birisi yahut her ikisi ihtiyarlık çağına senin yanında ulaşırsa onlara Öf! deme sakın ve onları azarlama güzel bir söz söyle0 onlara
+**(23)** ve kendisinden başkasına tapmamanızı ve anaya babaya iyilik etmenizi Rabbin emretti ikisinden birisi yahut her ikisi ihtiyarlık çağına senin yanında ulaşırsa onlara Öf! deme sakın ve onları azarlama güzel bir söz söyle onlara
 **(24)** ve acımadan[merhametten] dolayı [himaye ederek]küçülme kanadını onlara indir ve deki Rabbim küçükken beni nasıl yetiştirdilerse sen de bunlara [merhamet et]acı 
 **(25)** içlerinizdeki şeyleri Rabbiniz daha iyi bilir eğer iyi kişiler siz olursanız şüphesiz O tevbe[rücu] edenleri bağışlayandır
 **(26)** ve hakkını akrabaya ve yoksula ve yolcuya ver (fakat) savurarak saçıp savurma
@@ -49,7 +49,7 @@ tag:
 **(37)** ve [aşırı derecede sevinerek]kabara kabara yeryüzünde yürüme çünkü sen yeri yırtamazsın ve boyca dağlara erişemezsin
 **(38)** bunların hepsi Rabbinin katında kötü olandır hoş görülmeyen şeylerdir
 **(39)** şunlar [gizli hakikat]Hikmetten Rabbinin sana vahyettiği şeydendir Allah ile beraber başka tanrı[ilah] edinme uzaklaştırılmış olarak kınanmış olarak cehenneme sonra atılırsın
-**(40)** 
+**(40)** oğulları Rabbiniz size seçti ve (kendisine) meleklerden kadınlar edindi, (öyle) mi? gerçekten siz büyük (çok tehlikeli) bir söz söylüyorsunuz
 **(41)** 
 **(42)** 
 **(43)** 
