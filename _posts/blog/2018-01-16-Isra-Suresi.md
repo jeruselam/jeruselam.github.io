@@ -53,7 +53,7 @@ tag:
 **(41)** andolsun düşünüp anlasınlar diye bu Kur’an’da biz türlü biçimlerde  anlattık fakat (bu) nefretlerinden başkasını artırmıyor
 **(42)** de ki dedikleri gibi O’nunla beraber tanrılar[ilahlar] eğer olsaydı o zaman Arşın sahibine [açık ve büyük]bir yol onlar da ararlardı
 **(43)** (haşa) münezzehtir O ve uludur[üstündür] onların dediklerinden çok[daha] yücedir
-**(44)** 
+**(44)** yedi gök[bulut ve emsali örtü] ve yeryüzü ve bunların içindeki kimseler O’nu tesbih ederler ve hamd ile tesbih etmeyen hiçbir şey yoktur onların tesbihlerini ama siz anlamazsınız şüphesiz O halimdir çok bağışlayandır
 **(45)** 
 **(46)** 
 **(47)** 

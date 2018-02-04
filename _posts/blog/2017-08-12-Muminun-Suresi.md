@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mu'minûn
-description: Emniyete Kavuşan inanan. Korkulardan Emniyet veren Allah'ın(cc.) emirlerine ve kanunlarına iman eden.
+description: Emniyete kavuşan, korkulardan emniyet veren Allah'ın(cc.) emirlerine ve kanunlarına inanan iman eden.
 excerpt: "23'ncü Sûre"
 modified: 2017-12-29T17:50:00.564948 17:00
 tag: 
@@ -76,7 +76,7 @@ tag:
 **(64)** nihayet azab ile varlıklılarını yakaladığımız zaman hemen onlar feryada başlarlar
 **(65)** bugün artık feryadetmeyin şüphesiz size bize karşı yardım olunmaz
 **(66)** gerçekten size ayetlerim okunuyor idi fakat siz arkanız üzere dönüyordunuz 
-**(67)** ona (ayetlerime) karşı kibirlenerek geceleyin saçmalıyordunuz
+**(67)** ona (ayetlerime) karşı kibirlenerek geceleyin[toplantılarda] saçmalıyordunuz
 **(68)** o sözü (Kur’an’ı) onlar iyice düşünmediler mi? önceki atalarına gelmeyen bir şey yoksa onlara geldi (mi)?
 **(69)** yoksa elçilerini tanımadıkları (için mi?) onlar onu inkar ediyorlar
 **(70)** yoksa onda bir delilik var (-mı) diyorlar? hayır hakkı o kendilerine getirdi fakat çokları haktan hoşlanmıyorlar
