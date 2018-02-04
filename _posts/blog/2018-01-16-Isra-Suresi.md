@@ -54,7 +54,7 @@ tag:
 **(42)** de ki dedikleri gibi O’nunla beraber tanrılar[ilahlar] eğer olsaydı o zaman Arşın sahibine [açık ve büyük]bir yol onlar da ararlardı
 **(43)** (haşa) münezzehtir O ve uludur[üstündür] onların dediklerinden çok[daha] yücedir
 **(44)** yedi gök[bulut ve emsali örtü] ve yeryüzü ve bunların içindeki kimseler O’nu tesbih ederler ve hamd ile tesbih etmeyen hiçbir şey yoktur onların tesbihlerini ama siz anlamazsınız şüphesiz O halimdir çok bağışlayandır
-**(45)** ve Kur’an okuduğun zaman seninle (aranıza) ahirete inanmayan(ların) kimselerin arasına gizli bir perde çekeriz
+**(45)** ve Kur’an okuduğun zaman (aranıza) seninle ahirete inanmayan(ların) kimselerin arasına gizli bir perde çekeriz
 **(46)** 
 **(47)** 
 **(48)** 
