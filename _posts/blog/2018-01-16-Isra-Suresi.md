@@ -56,7 +56,7 @@ tag:
 **(44)** yedi gök[bulut ve emsali örtü] ve yeryüzü ve bunların içindeki kimseler O’nu tesbih ederler ve hamd ile tesbih etmeyen hiçbir şey yoktur onların tesbihlerini ama siz anlamazsınız şüphesiz O halimdir çok bağışlayandır
 **(45)** ve Kur’an okuduğun zaman (aranıza) seninle ahirete inanmayan(ların) kimselerin arasına gizli bir perde çekeriz
 **(46)** ve kalbleri üzerine onu anlamalarına engel olacak kabuklar kılarız ve kulaklarına bir ağırlık (koyarız) ve Kur’an’da birliğini Rabbini andığın zaman arkalarına dönüp [dağılıp ürküp]kaçarlar
-**(47)** onlar fısıldaşırken[ki] zaman zalimlerin büyülenmiş bir adamdan başkasına siz uymuyorsunuz dedikleri zaman ve seni dinlerken onların ne sebeple dinlediklerini biz gayet iyi biliyoruz
+**(47)** zalimlerin büyülenmiş bir adamdan başkasına siz uymuyorsunuz dedikleri zaman onlar fısıldaşırken ve onların seni dinlerken ne sebeple dinlediklerini biz gayet iyi biliyoruz
 **(48)** 
 **(49)** 
 **(50)** 
