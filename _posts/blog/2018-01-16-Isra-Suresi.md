@@ -63,7 +63,7 @@ tag:
 **(51)** veya gönlünüzde[meydana gelen] büyüyen herhangi bir yaratık[yaratılış] diyecekler ki kim bizi tekrar döndürebilir de ki ilk defa sizi yaratan başlarını sana alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler de ki belki de pek yakın olabilir
 **(52)** sizi çağıracağı gün O’na hamdederek çağrısına uyarsınız ve pek az (bir süre) dışında (dünyada) kalmadınız sanırsınız
 **(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan aralarına[ikisinin arasına] girer doğrusu şeytan insanın apaçık düşmanıdır
-**(54)** Rabbiniz sizi daha iyi bilir eğer dilerse size acır veya eğer dilerse size azabeder onların üzerine biz seni bir vekil göndermedik
+**(54)** Rabbiniz[Allah] sizi daha iyi bilir eğer dilerse size acır veya eğer dilerse size azabeder biz seni onların üzerine [vazifeli]bir vekil göndermedik
 **(55)** ve göklerde ve yerde olanları Rabbin daha iyi bilir ve andolsun ki kimi üzerine peygamberlerin kimini biz üstün kıldık ve Davud’a da Zebur’u verdik 
 **(56)** 
 **(57)** 
