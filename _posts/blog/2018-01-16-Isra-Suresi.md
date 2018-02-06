@@ -62,8 +62,8 @@ tag:
 **(50)** de ki (ister) taş veya demir olun
 **(51)** veya gönlünüzde[meydana gelen] büyüyen herhangi bir yaratık[yaratılış] diyecekler ki kim bizi tekrar döndürebilir de ki ilk defa sizi yaratan başlarını sana alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler de ki belki de pek yakın olabilir
 **(52)** sizi çağıracağı gün O’na hamdederek çağrısına uyarsınız ve pek az (bir süre) dışında (dünyada) kalmadınız sanırsınız
-**(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan [ikisinin arasına]aralarına girer doğrusu şeytan insanın apaçık düşmanıdır
-**(54)** 
+**(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan aralarına[ikisinin arasına] girer doğrusu şeytan insanın apaçık düşmanıdır
+**(54)** ve göklerde ve yerde olanları Rabbin daha iyi bilir ve andolsun ki kimi üzerine peygamberlerin kimini biz üstün kıldık ve Davud’a da Zebur’u verdik
 **(55)** 
 **(56)** 
 **(57)** 
