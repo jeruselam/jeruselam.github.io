@@ -61,8 +61,8 @@ tag:
 **(49)** ve dediler ki kemikler ve ufalanmış toprak iken biz mi? yeni bir yaratılışla diriltilecek biz miyiz?
 **(50)** de ki (ister) taş veya demir olun
 **(51)** veya gönlünüzde[meydana gelen] büyüyen herhangi bir yaratık[yaratılış] diyecekler ki kim bizi tekrar döndürebilir de ki ilk defa sizi yaratan başlarını sana alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler de ki belki de pek yakın olabilir
-**(52)** 
-**(53)** 
+**(52)** sizi çağıracağı gün O’na hamdederek çağrısına uyarsınız ve pek az (bir süre) dışında (dünyada) kalmadınız sanırsınız
+**(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan [ikisinin arasına]aralarına girer doğrusu şeytan insanın apaçık düşmanıdır
 **(54)** 
 **(55)** 
 **(56)** 
