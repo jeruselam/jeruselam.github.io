@@ -58,9 +58,9 @@ tag:
 **(46)** ve kalbleri üzerine onu anlamalarına engel olacak kabuklar kılarız ve kulaklarına bir ağırlık (koyarız) ve Kur’an’da birliğini Rabbini andığın zaman arkalarına dönüp [dağılıp ürküp]kaçarlar
 **(47)** onlar fısıldaşırken zalimlerin büyülenmiş bir adamdan başkasına siz uymuyorsunuz dedikleri zaman ve seni dinlerken onların ne sebeple dinlediklerini biz gayet iyi biliyoruz
 **(48)** benzetmelerle sana bak nasıl misaller verdiler [doğrudan]şaştılar artık bir daha yolu bulamazlar
-**(49)** 
-**(50)** 
-**(51)** 
+**(49)** ve dediler ki kemikler ve ufalanmış toprak iken biz mi? yeni bir yaratılışla diriltilecek biz miyiz?
+**(50)** de ki (ister) taş veya demir olun
+**(51)** veya gönlünüzde[meydana gelen] büyüyen herhangi bir yaratık[yaratılış] diyecekler ki kim bizi tekrar döndürebilir de ki ilk defa sizi yaratan başlarını sana alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler de ki belki de pek yakın olabilir
 **(52)** 
 **(53)** 
 **(54)** 
