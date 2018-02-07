@@ -12,15 +12,15 @@ tag:
 
 **(1)** bu indirdiğimiz ve farz kıldığımız bir suredir ve onda açık açık[delilli,kanıtlı] ayetler indirdik belki düşünüp öğüt alırsınız
 **(2)** zina eden kadına ve zina eden erkeğe onlardan her birine yüz değnek vurun ve eğer Allah’a ve ahiret gününe inananlar iseniz Allah’ın dininde (cezasını uygulamada) onlara karşı acıma duygusu asla sizi tutmasın ve mü’minlerden bir grup onlara yapılan azaba şahid olsun
-**(3)** zina eden erkek, zina eden kadından veya müşrik[Allah'tan başkasına ibadet eden] kadından başkasıyla evlenmez ve zina eden kadın, zina eden erkekten veya müşrik erkekten başkasıyla evlenmez bu mü’minler üzerine haram kılınmıştır 
-**(4)** namuslu kadınları zina ile suçlayan sonra dört şahid getirmeyenlere, seksen değnek vurun onlara ve artık onların şahidliğini asla kabul etmeyin ve işte onlar yoldan çıkmış kimselerdir
-**(5)** ancak hariçtir bundan sonra tevbe eden(ler) kimseler ve uslananlar çünkü Allah çok bağışlayandır çok esirgeyendir
-**(6)** eşlerini zina ile suçlayan kimseler ve kendilerinden başka onların şahidleri bulunmayanlar onlardan her birinin (o halde) şahidliği, kendisinin mutlaka doğru söyleyenlerden olduğuna Allah’ı dört defa şahid tutmasıdır 
-**(7)** beşinci defasında kuşkusuz Allah’ın la’netinin kendi üzerine olmasını diler eğer yalan söyleyenlerden ise
-**(8)** ve onun (kocasının) yalan söyleyenlerden olduğuna Allah’ı dört defa şahid tutup kadının şahidlik etmesi kendisinden azabı kaldırır 
-**(9)** beşinci defa da kuşkusuz Allah’ın gazabının kendi üzerine olmasını diler eğer (kocası) doğrulardan ise 
+**(3)** zina eden erkek zina eden kadından veya müşrik[Allah'tan başkasına ibadet eden] kadından başkasıyla evlenmez ve zina eden kadın zina eden erkekten veya müşrik erkekten başkasıyla evlenmez mü’minler üzerine bu haram kılınmıştır 
+**(4)** namuslu kadınları zina ile suçlayan sonra dört şahid getirmeyenlere seksen değnek vurun onlara ve artık onların şahidliğini asla kabul etmeyin ve işte onlar yoldan çıkmış kimselerdir
+**(5)** ancak bundan sonra tevbe eden(ler) kimseler ve uslananlar hariçtir çünkü Allah çok bağışlayandır çok esirgeyendir
+**(6)** eşlerini zina ile suçlayan kimseler ve kendilerinden başka onların şahidleri bulunmayanlar onlardan her birinin (o halde) şahidliği kendisinin mutlaka doğru söyleyenlerden olduğuna Allah’ı dört defa şahid tutmasıdır 
+**(7)** beşinci defasında kuşkusuz eğer yalan söyleyenlerden ise Allah’ın la’netinin kendi üzerine olmasını diler
+**(8)** ve onun (kocasının) yalan söyleyenlerden olduğuna Allah’ı dört defa şahid tutup kadının şahidlik etmesi azabı kendisinden kaldırır 
+**(9)** beşinci defa da kuşkusuz eğer (kocası) doğrulardan ise Allah’ın gazabının kendi üzerine olmasını diler
 **(10)** Allah’ın size lutfu ve rahmeti ya olmasaydı ve şüphesiz Allah tevbeleri çok kabul edendir hikmet sahibidir
-**(11)** kuşkusuz iftirayı getirenler içinizden bir topluluktur, onu sizin için şer sanmayın bilakis o sizin için hayırdır, onlardan her kişi ne işledi (ise) (karşılığını görecektir), onlardan günahının en büyüğünü yüklenen kimseye onun (yalanı için) büyük bir azab (vardır)
+**(11)** iftirayı getirenler kuşkusuz içinizden bir topluluktur sizin için onu şer sanmayın bilakis o sizin için hayırdır onlardan kişi ne işledi (ise) her (karşılığını görecektir) onlardan günahının en büyüğünü yüklenen kimseye onun (yalanın) büyük bir azabı (vardır)
 **(12)** onu işittiğiniz zaman inanan erkeklerin ve inanan kadınların kendiliklerinden güzel zanda bulunup ve bu apaçık bir iftiradır demeleri gerekmez miydi?
 **(13)** ona dört şahid getirmeleri gerekmez miydi? madem ki şahidleri getirmediler o halde onlar Allah yanında, onlar yalancılardır
 **(14)** ve Allah’ın size lutfu ve rahmeti eğer olmasaydı içine daldığınız şey (iftira) hakkında büyük bir azab dünyada ve ahirette size mutlaka dokunurdu 
