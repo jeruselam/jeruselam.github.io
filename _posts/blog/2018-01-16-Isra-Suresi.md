@@ -67,8 +67,8 @@ tag:
 **(55)** ve göklerde ve yerde olanları Rabbin[Allah] daha iyi bilir ve andolsun ki kimi üzerine peygamberlerin kimini biz üstün kıldık ve Davud’a da Zebur’u verdik 
 **(56)** de ki O’ndan başka[yakın] (tanrı olduğunu) sandığınız şeylere[hırsla] yalvarın (fakat) sizden [zayıflık halini]sıkıntıyı gidermeye ve değiştirmeye güçleri yetmez
 **(57)** onların yalvardıkları kimseler Rablerine en yakın hangisi (diye) bir vesile ararlar ve O’nun merhametini umarlar ve azabından korkarlar çünkü Rabbinin azabı cidden korkunçtur
-**(58)** 
-**(59)** 
+**(58)** hiçbir kent yoktur ki ancak kıyamet gününden önce biz onu yok ederiz yahut şiddetli bir azap ile ona azab ederiz Bu Kitapta[levh-i mahfuz dan Kur'ana] yazılmıştır
+**(59)** ve evvelkilerin (onları) yalanlamaları dışında ayetler (mu’cizeler) göndermekten bizi alıkoyan yoktur ve açık bir mu’cize olarak dişi deveyi Semud’a	verdik onlara o[deve] zulmetmelerine sebeb oldu ve korkutmak dışında biz mu’cizeleri göndermeyiz
 **(60)** 
 **(61)** 
 **(62)** 
