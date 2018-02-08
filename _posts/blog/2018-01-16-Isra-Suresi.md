@@ -71,7 +71,7 @@ tag:
 **(59)** ve evvelkilerin (onları) yalanlamaları dışında ayetler (mu’cizeler) göndermekten bizi alıkoyan yoktur ve açık bir mu’cize olarak dişi deveyi Semud’a	verdik onlara o[deve] zulmetmelerine sebeb oldu ve korkutmak dışında biz mu’cizeleri göndermeyiz
 **(60)** bir zaman sana demiştik şüphesiz Rabbin[Allah] insanları kuşatmıştır sana gösterdiğimiz [seyredilen]rü’yayı ve la’netlenmiş [soyun]ağacı, insanlar için sınama (aracı), başka bir şey biz yapmadık Kur’an’da biz onları korkutuyoruz fakat azgınlıklarından başkasını daha da fazla artırmıyor
 **(61)** bir zaman meleklere demiştik secde edin Adem’e İblis dışında secde ettiler çamur olarak yarattığın kimseye ben mi secde edeceğim? dedi
-**(62)** 
+**(62)** şu benden üstün yaptığını gördün mü? dedi andolsun eğer kıyamet gününe kadar beni ertelersen
 **(63)** 
 **(64)** 
 **(65)** 
