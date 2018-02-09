@@ -73,7 +73,7 @@ tag:
 **(61)** bir zaman meleklere demiştik secde edin Adem’e İblis dışında secde ettiler çamur olarak yarattığın kimseye ben mi secde edeceğim? dedi
 **(62)** benden şu üstün yaptığını gördün mü? dedi andolsun eğer kıyamet gününe kadar beni ertelersen pek azı hariç onun zürriyetini hakimiyetime alacağım
 **(63)** (Allah) dedi ki git onlardan kim sana uyarsa şüphesiz [mukabil]cezanız cehennemdir mükemmel bir ceza[karşılık]
-**(64)** sesinle onlardan gücünün yettiği[istediğin] kimseyi [yalnızlaştırarak]yerinden oynat[yoldan çıkar] ve [düşman bir takım]atlılarınla ve [bilgisiz]yayalarınla onların üzerine yaygarayı bas ve mallarda ve evladlarda onlara ortak ol ve onlara va’dler yap şeytan onlara aldatıştan başka bir şey va’detmez
+**(64)** sesinle onlardan gücünün yettiği[istediğin] kimseyi [yalnızlaştırarak]yerinden oynat[yoldan çıkar] ve [düşman bir takım]atlılarınla ve [bilgisiz]yayalarınla onların üzerine yaygarayı bas [kendi tarafına çek götür] ve mallarda ve evladlarda onlara ortak[arkadaş] ol ve onlara va’dler yap şeytan onlara aldatıştan başka bir şey va’detmez
 **(65)** şüphesiz benim kullarıma onların üzerinde senin bir gücün yoktur ve vekil olarak Rabbin[Allah] yeter
 **(66)** 
 **(67)** 
