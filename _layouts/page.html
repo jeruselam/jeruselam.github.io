@@ -68,8 +68,9 @@ search_omit: true
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
-
-
+<script>
+jQuery(document.links)   .filter(function() {     return this.hostname != window.location.hostname;   })     .attr('target', '_blank'); 
+</script>
 {% include scripts.html %}
 {% include analytics.html %}
 </body>
