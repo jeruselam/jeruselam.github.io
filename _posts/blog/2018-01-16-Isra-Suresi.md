@@ -75,9 +75,9 @@ tag:
 **(63)** (Allah) dedi ki git onlardan kim sana uyarsa şüphesiz [mukabil]cezanız cehennemdir mükemmel bir ceza[karşılık]
 **(64)** sesinle onlardan gücünün yettiği[istediğin] kimseyi [yalnızlaştırarak]yerinden oynat[yoldan çıkar] ve [düşman bir takım]atlılarınla ve [bilgisiz]yayalarınla onların üzerine yaygarayı bas [kendi tarafına çek götür] ve mallarda ve evladlarda onlara ortak[arkadaş] ol ve onlara [akıbetinden korkulacak iş için]va’dler yap şeytan onlara aldatıştan başka bir şey va’detmez
 **(65)** şüphesiz benim kullarıma onların üzerinde senin bir gücün yoktur ve vekil olarak Rabbin[Allah] yeter
-**(66)** 
-**(67)** 
-**(68)** 
+**(66)** Rabbiniz O’dur ki lutfundan (payınızı) aramanız için denizde gemileri size yürütür doğrsu O size çok acır
+**(67)** denizde bir sıkıntı size dokunduğu zaman O’ndan başka bütün yalvardıklarınız kaybolur fakat (O) karaya sizi kurtarıp çıkarınca yine yüz çevirirsiniz gerçekten insan nankördür
+**(68)** karayı[toprağı] ters çevirip sizi batırmayacağından yahut üzerinize taşlar savuran bir kasırga göndermeyeceğinden emin misiniz? sonra kendinize bir koruyucu bulamazsınız
 **(69)** 
 **(70)** 
 **(71)** 
