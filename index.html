@@ -37,3 +37,7 @@ search_omit: true
     </a>
 </p>
 {% include rotate.html %}
+
+<script>
+jQuery(document.links)   .filter(function() {     return this.hostname != window.location.hostname;   })     .attr('target', '_blank'); 
+</script>
