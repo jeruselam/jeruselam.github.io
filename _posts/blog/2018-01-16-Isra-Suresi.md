@@ -5,7 +5,7 @@ description: Gece hızla yürütmek ve geri döndürmek
 excerpt: "17'nci Sûre"
 modified: 2018-01-16T17:50:00.564948 17:00
 tag: 
- - İsrâ
+ - Isrâ
 ---
 
 ## 17. İsrâ Sûresi
@@ -78,7 +78,7 @@ tag:
 **(66)** Rabbiniz O’dur ki lutfundan (payınızı) aramanız için denizde gemileri size yürütür doğrsu O size çok acır
 **(67)** denizde bir sıkıntı size dokunduğu zaman O’ndan başka bütün yalvardıklarınız kaybolur fakat (O) karaya sizi kurtarıp çıkarınca yine yüz çevirirsiniz gerçekten insan nankördür
 **(68)** karayı[toprağı] ters çevirip sizi batırmayacağından yahut üzerinize taşlar savuran bir kasırga göndermeyeceğinden emin misiniz? sonra kendinize bir koruyucu bulamazsınız
-**(69)** 
+**(69)** yoksa bir kez daha oraya sizi gönderip bir kez daha üstünüze [denizden]bir fırtına salarak inkar ettiğinizden dolayı sizi boğmayacağından emin misiniz? ve bize karşı onu izleyip koruyacak [yardımcı]birini O zaman kendinize bulamazsınız
 **(70)** 
 **(71)** 
 **(72)** 
