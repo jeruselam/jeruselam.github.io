@@ -81,7 +81,7 @@ tag:
 **(69)** yoksa bir kez daha oraya sizi gönderip bir kez daha üstünüze [denizden]bir fırtına salarak inkar ettiğinizden dolayı sizi boğmayacağından emin misiniz? ve onu bize karşı izleyip koruyacak [yardımcı]birini O zaman kendinize bulamazsınız
 **(70)** ve andolsun, Adem oğullarına biz çok ikram ettik ve karada ve denizde onları taşıdık ve güzel rızıklarla onları besledik ve tam bir üstünlükle yarattıklarımızın bir çoğu üzerine onları üstün kıldık
 **(71)** her milleti [rehber,önder]imamıyla çağırdığımız gün sağından[mübarek] Kitabı kimlerin verilirse işte onlar Kitaplarını okurlar ve en ufak haksızlığa uğratılmazlar
-**(72)** 
+**(72)** ve şu (dünyada) o [cahil,bilgisiz manevi]kör olan kimse ahirette de kördür ve yolu daha da sapıktır
 **(73)** 
 **(74)** 
 **(75)** 
