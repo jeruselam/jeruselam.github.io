@@ -84,8 +84,8 @@ tag:
 **(72)** ve şu (dünyada) o [cahil,bilgisiz manevi]kör olan kimse ahirette de kördür ve yolu daha da sapıktır
 **(73)** ve sana vahyettiğimizden eğer ondan başkasını üstümüze iftira atman için az daha onlar [akıl ve kalbini hakikatten saptırarak]seni kandıracaklardı işte o zaman seni dost edinirlerdi
 **(74)** gerçekten biz seni eğer [ibadet ve itaatte]sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak]yanaşacaktın
-**(75)** o takdirde kat kat hayatı ve kat kat ölümü sana taddırırdık sonra bize karşı kendine bir yardımcı bulamazdın
-**(76)** 
+**(75)** o takdirde kat kat[benzer] hayatı ve kat kat[benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
+**(76)** ve oradan yurdundan çıkarmak için neredeyse seni tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
 **(77)** 
 **(78)** 
 **(79)** 
