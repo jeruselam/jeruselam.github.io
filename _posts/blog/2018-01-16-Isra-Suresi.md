@@ -82,8 +82,8 @@ tag:
 **(70)** ve andolsun, Adem oğullarına biz çok ikram ettik ve karada ve denizde onları taşıdık ve güzel rızıklarla onları besledik ve tam bir üstünlükle yarattıklarımızın bir çoğu üzerine onları üstün kıldık
 **(71)** her milleti [rehber,önder]imamıyla çağırdığımız gün sağından[mübarek] Kitabı kimlerin verilirse işte onlar Kitaplarını okurlar ve en ufak haksızlığa uğratılmazlar
 **(72)** ve şu (dünyada) o [cahil,bilgisiz manevi]kör olan kimse ahirette de kördür ve yolu daha da sapıktır
-**(73)** ve eğer sana vahyettiğimizden ondan başkasını üstümüze iftira atman için az daha onlar seni kandıracaklardı işte o zaman seni dost edinirlerdi
-**(74)** 
+**(73)** ve sana vahyettiğimizden eğer ondan başkasını üstümüze iftira atman için az daha onlar [akıl ve kalbini hakikatten saptırarak]seni kandıracaklardı işte o zaman seni dost edinirlerdi
+**(74)** gerçekten biz seni eğer [ibadet ve itaatte]sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak]yanaşacaktın
 **(75)** 
 **(76)** 
 **(77)** 
