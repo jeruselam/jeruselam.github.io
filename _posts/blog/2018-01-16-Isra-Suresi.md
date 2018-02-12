@@ -85,7 +85,7 @@ tag:
 **(73)** ve sana vahyettiğimizden eğer ondan başkasını üstümüze iftira atman için az daha onlar [akıl ve kalbini hakikatten saptırarak]seni kandıracaklardı işte o zaman seni dost edinirlerdi
 **(74)** gerçekten biz seni eğer [ibadet ve itaatte]sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak]yanaşacaktın
 **(75)** o takdirde kat kat[benzer] hayatı ve kat kat[benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
-**(76)** ve oradan yurdundan çıkarmak için neredeyse seni tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
+**(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak]tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
 **(77)** 
 **(78)** 
 **(79)** 
