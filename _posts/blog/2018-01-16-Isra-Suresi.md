@@ -87,7 +87,7 @@ tag:
 **(75)** o takdirde kat kat[benzer] hayatı ve kat kat[benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
 **(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak]tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
 **(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti]yasası (budur) ve bizim yasamızda bir değişiklik asla bulamazsın
-**(78)** güneşin sarkmasından[batmasından] gecenin [ilk]kararmasına kadar namaz kıl ve sabahın Kur’an’ını da[toplanmış mevcudatı] (unutma) çünkü sabah Kur’an görülecek şeydir
+**(78)** güneşin sarkmasından[batmasından] gecenin [ilk]kararmasına kadar namaz kıl ve sabahın Kur’an’ını da[toplanmış mevcudatı] (unutma) çünkü sabah Kur’an görülecek[şahid olunan] şeydir
 **(79)** 
 **(80)** 
 **(81)** 
