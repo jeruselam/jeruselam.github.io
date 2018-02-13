@@ -88,7 +88,7 @@ tag:
 **(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak]tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
 **(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti]yasası (budur) ve bizim yasamızda bir değişiklik asla bulamazsın
 **(78)** güneşin sarkmasından[batmasından] gecenin [ilk]kararmasına kadar namaz kıl ve sabahın Kur’an’ını da[toplanmış mevcudatı] (unutma) çünkü sabah Kur’an görülecek[şahid olunan] şeydir
-**(79)** 
+**(79)** gecenin bir kısmında sana özgü olarak uyan[az uyu](teheccüd kıl) umulur ki güzel bir makama Rabbin[Allah] seni ulaştırır
 **(80)** 
 **(81)** 
 **(82)** 
