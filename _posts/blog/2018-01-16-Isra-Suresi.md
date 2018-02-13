@@ -86,8 +86,8 @@ tag:
 **(74)** gerçekten biz seni eğer [ibadet ve itaatte]sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak]yanaşacaktın
 **(75)** o takdirde kat kat[benzer] hayatı ve kat kat[benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
 **(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak]tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
-**(77)** 
-**(78)** 
+**(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti]yasası (budur) ve bizim yasamızda bir değişiklik asla bulamazsın
+**(78)** güneşin sarkmasından[batmasından] gecenin kararmasına kadar namaz kıl ve sabahın [toplanmış mevcudatını]Kur’an’ını da (unutma) çünkü sabah, Kur’an görülecek şeydir
 **(79)** 
 **(80)** 
 **(81)** 
