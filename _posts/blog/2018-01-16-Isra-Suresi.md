@@ -89,7 +89,7 @@ tag:
 **(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti]yasası (budur) ve bizim yasamızda bir değişiklik asla bulamazsın
 **(78)** güneşin sarkmasından[batmasından] gecenin [ilk]kararmasına kadar namaz kıl ve sabahın Kur’an’ını da[toplanmış mevcudatı] (unutma) çünkü sabah Kur’an görülecek[şahid olunan] şeydir
 **(79)** gecenin bir kısmında sana özgü olarak [az uyu]uyan(teheccüd kıl) umulur ki güzel bir makama Rabbin[Allah] seni ulaştırır
-**(80)** ve de ki doğruluk girdirişiyle Rabbim beni girdir ve doğruluk çıkarışiyle beni çıkar
+**(80)** ve de ki Rabbim doğruluk girdirişiyle beni girdir ve doğruluk çıkarışıyla beni çıkar ve yardımcı bir güç katından bana ver
 **(81)** 
 **(82)** 
 **(83)** 
