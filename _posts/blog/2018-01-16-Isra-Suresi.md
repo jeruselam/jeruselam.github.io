@@ -93,7 +93,7 @@ tag:
 **(81)** ve de ki Hak geldi ve batıl gitti zaten batıl yok olmağa mahkumdur
 **(82)** ve Kur’an'dan şifa (olan) o şeyler ve mü’minlere rahmet biz indiriyoruz ama (bu) zalimlerin ziyanından başka bir şey artırmaz 
 **(83)** ne zaman ni’met versek insana yüz çevirip yanını döner ve ne zaman ki ona dokunsa bir zarar umutsuzluğa düşer
-**(84)** 
+**(84)** de ki herkes kendi karakteri[yaratılış hususiyeti] üzerine hareket eder kimin[yeri] o en doğru yoldadır Rabbiniz[Allah] daha iyi bilir
 **(85)** 
 **(86)** 
 **(87)**
