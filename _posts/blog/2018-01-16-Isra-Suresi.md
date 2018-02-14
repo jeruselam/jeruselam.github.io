@@ -92,7 +92,7 @@ tag:
 **(80)** ve de ki doğruluk girdirişiyle Rabbim beni girdir ve doğruluk çıkarışıyla beni çıkar ve yardımcı bir güç katından bana ver
 **(81)** ve de ki Hak geldi ve batıl gitti zaten batıl yok olmağa mahkumdur
 **(82)** ve Kur’an'dan şifa (olan) o şeyler ve mü’minlere rahmet biz indiriyoruz ama (bu) zalimlerin ziyanından başka bir şey artırmaz 
-**(83)** 
+**(83)** ne zaman ni’met versek insana yüz çevirip yanını döner ve ne zaman ki ona dokunsa bir zarar umutsuzluğa düşer
 **(84)** 
 **(85)** 
 **(86)** 
