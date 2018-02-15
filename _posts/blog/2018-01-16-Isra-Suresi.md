@@ -94,11 +94,11 @@ tag:
 **(82)** ve Kur’an'dan şifa (olan) o şeyler ve mü’minlere rahmet biz indiriyoruz ama (bu) zalimlerin ziyanından başka bir şey artırmaz 
 **(83)** ne zaman ni’met versek insana yüz çevirip yanını döner ve ne zaman ki ona dokunsa bir zarar umutsuzluğa düşer
 **(84)** de ki herkes kendi karakteri[yaratılış hususiyeti] üzerine hareket eder kimin[yeri] o en doğru yoldadır Rabbiniz[Allah] daha iyi bilir
-**(85)** 
-**(86)** 
-**(87)**
-**(88)** 
-**(89)** 
+**(85)** ve ruhtan sana sorarlar de ki Ruh Rabbimin emrindendir ve pek az bir şey dışında ilimden size verilmemiştir
+**(86)** andolsun eğer biz dilesek sana vahyettiğimizi tamamen gideririz sonra bize karşı bu konuda sana bir yardımcı bulamazsın
+**(87)** ancak hariç Rabbinin rahmeti çünkü O’nun sana olan lutfu cidden büyüktür
+**(88)** de ki andolsun eğer bu Kur’an’ın bir benzerini getirmek üzere insan(lar) ve cin(ler) toplansalar ve eğer biri diğerine arka (destek) olsalar onun benzerini getiremezler 
+**(89)** ve andolsun her çeşit misali bu Kur’an’da insanlara biz türlü biçimlerde anlattık ama insanlardan çoğu ancak inkarda direttiler
 **(90)** 
 **(91)**
 **(92)** 
