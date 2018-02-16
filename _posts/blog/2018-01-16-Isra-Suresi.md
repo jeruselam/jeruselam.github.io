@@ -103,8 +103,8 @@ tag:
 **(91)** yahut senin hurmalardan ve üzümlerden bir bahçen olmalı aralarından gürül gürül ırmaklar fışkırtmalısın
 **(92)** yahut zannettiğin gibi gökten üzerimize parçalar düşürmelisin yahut karşımıza Allah’ı ve melekleri getirmelisin
 **(93)** 
-**(94)** 
-**(95)** 
+**(94)** ve hidayet kendilerine geldiği zaman iman etmekten insanları alıkoyan şey ancak elçi olarak bir insanı Allah mı gönderdi? demeleridir
+**(95)** de ki uslu uslu yürüyen melekler yer yüzünde olsaydı eğer elçi bir meleği gökten onlara elbette gönderirdik
 **(96)** 
 **(97)** 
 **(98)** 
