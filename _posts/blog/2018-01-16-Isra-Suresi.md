@@ -102,7 +102,7 @@ tag:
 **(90)** dediler ki yeryüzünden bir göze bize fışkırtıncaya kadar sana inanmayız
 **(91)** yahut senin hurmalardan ve üzümlerden bir bahçen olmalı aralarından gürül gürül ırmaklar fışkırtmalısın
 **(92)** yahut zannettiğin gibi gökten üzerimize parçalar düşürmelisin yahut karşımıza Allah’ı ve melekleri getirmelisin
-**(93)** 
+**(93)** yahut senin altından bir evin olmalı ya da göğe çıkmalısın ama asla okuyacağımız bir Kitap üzerimize indirmedikçe senin (göğe) çıkmana inanmayız de ki Rabbimin şanı yücedir ben elçi ol(arak gönderil)en bir insan(dan) başka bir şey miyim?
 **(94)** ve hidayet kendilerine geldiği zaman iman etmekten insanları alıkoyan şey ancak elçi olarak bir insanı Allah mı gönderdi? demeleridir
 **(95)** de ki uslu uslu yürüyen melekler yer yüzünde olsaydı eğer elçi bir meleği gökten onlara elbette gönderirdik
 **(96)** 
