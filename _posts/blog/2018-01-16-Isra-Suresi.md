@@ -101,7 +101,7 @@ tag:
 **(89)** ve andolsun her çeşit misali bu Kur’an’da insanlara biz türlü biçimlerde anlattık ama insanlardan çoğu ancak inkarda direttiler
 **(90)** dediler ki yeryüzünden bir göze bize fışkırtıncaya kadar sana inanmayız
 **(91)** yahut senin hurmalardan ve üzümlerden bir bahçen olmalı aralarından gürül gürül ırmaklar fışkırtmalısın
-**(92)** yahut üzerimize parçalar zannettiğin gibi gökten düşürmelisin yahut karşımıza Allah’ı ve melekleri getirmelisin
+**(92)** yahut zannettiğin gibi gökten üzerimize parçalar düşürmelisin yahut karşımıza Allah’ı ve melekleri getirmelisin
 **(93)** 
 **(94)** 
 **(95)** 
