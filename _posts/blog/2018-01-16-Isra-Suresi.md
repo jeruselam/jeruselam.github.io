@@ -105,8 +105,8 @@ tag:
 **(93)** yahut senin altından bir evin olmalı ya da göğe çıkmalısın ama asla okuyacağımız bir Kitap üzerimize indirmedikçe senin (göğe) çıkmana inanmayız de ki Rabbimin şanı yücedir ben elçi ol(arak gönderil)en bir insan(dan) başka bir şey miyim?
 **(94)** ve hidayet kendilerine geldiği zaman iman etmekten insanları alıkoyan şey ancak elçi olarak bir insanı Allah mı gönderdi? demeleridir
 **(95)** de ki uslu uslu yürüyen melekler yer yüzünde olsaydı eğer elçi bir meleği gökten onlara elbette gönderirdik
-**(96)** 
-**(97)** 
+**(96)** de ki sizin aranızda benimle şahid olarak Allah yeter şüphesiz O kullarını haber alır görür
+**(97)** ve kime hidayet ederse Allah işte odur doğru yolu bulan kimi de 	sapıklıkta bırakırsa O’ndan başka veliler onlar için bulamazsın artık ve kör ve dilsiz ve sağır yüzleri üzerine kıyamet günü onları süreriz varacakları yer cehennemdir (ateş) dindiği her seferinde çılgın alevi onlara artırırız
 **(98)** 
 **(99)** 
 **(100)** 
