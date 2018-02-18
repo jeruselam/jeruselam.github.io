@@ -111,7 +111,7 @@ tag:
 **(99)** görmediler mi ki? şüphesiz gökleri ve yeri yaratan Allah kendilerinin [aynısıyla]benzerini yaratmağa da kadirdir ve kendileri için bir süre koymuştur onda şüphe yoktur ama zalimler inkardan başka bir şey yapmazlar
 **(100)** de ki eğer siz Rabbimin rahmet hazinelerine sahip olsaydınız o zaman harcamaktan korkarak tutardınız gerçekten insan çok cimridir
 **(101)** andolsun Musa’ya açık açık biz dokuz mu’cize vermiştik İsrail oğullarına sor (Musa) onlara geldiği zaman Fir’avn ona demişti şüphesiz ben sanıyorum ki sen Musa büyülenmişsin
-**(102)** (Musa) dedi ki andolsun sen biliyorsun ki [aydınatıcı]kanıtlar olarak göklerin ve yerin Rabbinden başkası bunları indirmez şüphesiz ben de Fir’avn seni mahvolmuş görüyorum
+**(102)** (Musa) dedi ki andolsun sen biliyorsun ki [aydınlatıcı]kanıtlar olarak göklerin ve yerin Rabbinden başkası bunları indirmez şüphesiz ben de Fir’avn seni mahvolmuş görüyorum
 **(103)** 
 **(104)** 
 **(105)** 
