@@ -107,7 +107,7 @@ tag:
 **(95)** de ki uslu uslu yürüyen melekler yer yüzünde olsaydı eğer elçi bir meleği gökten onlara elbette gönderirdik
 **(96)** de ki sizin aranızda benimle şahid olarak Allah yeter şüphesiz O kullarını haber alır görür
 **(97)** ve kime hidayet ederse Allah işte odur doğru yolu bulan kimi de 	sapıklıkta bırakırsa O’ndan başka veliler onlar için bulamazsın artık ve kör ve dilsiz ve sağır yüzleri üzerine kıyamet günü onları süreriz varacakları yer cehennemdir (ateş) dindiği her seferinde çılgın alevi onlara artırırız
-**(98)** 
+**(98)** cezaları işte budur çünkü onlar ayetlerimizi inkar ettiler ve biz kemikler ve ufalanmış toprak olduktan sonra mı? dediler yeni bir yaratılışla biz mi? diriltileceğiz
 **(99)** 
 **(100)** 
 **(101)** 
