@@ -112,7 +112,7 @@ tag:
 **(100)** de ki eğer siz Rabbimin rahmet hazinelerine sahip olsaydınız o zaman harcamaktan korkarak tutardınız gerçekten insan çok cimridir
 **(101)** andolsun Musa’ya açık açık biz dokuz mu’cize vermiştik İsrail oğullarına sor (Musa) onlara geldiği zaman Fir’avn ona demişti şüphesiz ben sanıyorum ki sen Musa büyülenmişsin
 **(102)** (Musa) dedi ki andolsun sen biliyorsun ki [aydınlatıcı]kanıtlar olarak göklerin ve yerin Rabbinden başkası bunları indirmez şüphesiz ben de Fir’avn seni mahvolmuş görüyorum
-**(103)** 
+**(103)** (Fir’avn) o ülkeden onları sürüp çıkarmak istedi toptan[hep] yanındaki kimselerle biz de onu boğduk
 **(104)** 
 **(105)** 
 **(106)** 
