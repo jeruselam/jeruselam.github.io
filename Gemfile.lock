@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.1.4)
+    activesupport (5.1.5)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
@@ -35,7 +35,7 @@ GEM
     fastimage (2.1.1)
     ffi (1.9.21)
     forwardable-extended (2.6.0)
-    i18n (0.9.4)
+    i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
@@ -101,7 +101,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.1)
+    public_suffix (3.0.2)
     rack (2.0.4)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
