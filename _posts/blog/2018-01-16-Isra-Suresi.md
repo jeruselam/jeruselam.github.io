@@ -118,8 +118,8 @@ tag:
 **(106)** ve ağır ağır insanlara okuman için Kur’an’ı parçalara[kısımlara] ayırdık ve birbiri ardınca onu indirdik
 **(107)** de ki siz inanın ona veya inanmayın şüphesiz kendilerine daha önce bilgi verilen(ler) kimselere okunduğu zaman onlar çeneleri üstüne secdeye derhal kapanırlar
 **(108)** ve Rabbimizin şanı yücedir derler gerçekten Rabbimizin va’di (sözü) mutlaka yerine getirilir
-**(109)** ve kapanırlar
-**(110)** 
-**(111)**
+**(109)** ve ağlayarak çeneleri üstüne kapanırlar ve onların derin saygısını (Kur’an) artırır
+**(110)** de ki Allah diye dua edin (çağırın) veya Rahman diye dua edin (çağırın) hangisiyle çağırsanız en güzel isimler O’nundur namazında pek bağırma pek de gizleme onu (sesini) bunun arasında bir yol tut
+**(111)** ve de ki çocuk edinmeyen ve mülkte onun ortağı olmayan ve acze düşüp de yardımcıya onun (ihtiyacı) olmayan Allah’a hamdolsun ve tam bir yüceltme ile O’nu yücelt
 
 ![17İsrâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
