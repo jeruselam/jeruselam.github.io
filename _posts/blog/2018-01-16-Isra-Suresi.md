@@ -112,13 +112,13 @@ tag:
 **(100)** de ki eğer siz Rabbimin rahmet hazinelerine sahip olsaydınız o zaman harcamaktan korkarak tutardınız gerçekten insan çok cimridir
 **(101)** andolsun Musa’ya açık açık biz dokuz mu’cize vermiştik İsrail oğullarına sor (Musa) onlara geldiği zaman Fir’avn ona demişti şüphesiz ben sanıyorum ki sen Musa büyülenmişsin
 **(102)** (Musa) dedi ki andolsun sen biliyorsun ki [aydınlatıcı]kanıtlar olarak göklerin ve yerin Rabbinden başkası bunları indirmez şüphesiz ben de Fir’avn seni mahvolmuş görüyorum
-**(103)** (Fir’avn) o ülkeden onları sürüp çıkarmak istedi toptan[hep] yanındaki kimselerle biz de onu boğduk
-**(104)** 
-**(105)** 
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
+**(103)** (Fir’avn) o ülkeden onları sürüp çıkarmak istedi toptan[hep beraber] yanındaki kimselerle biz de onu boğduk
+**(104)** ve İsrail oğullarına onun ardından dedik o ülkede oturun ahiret zamanı gelince hepinizi bir araya getireceğiz
+**(105)** ve hak olarak biz o(Kur’a)nı indirdik ve hak ile inmiştir müjdeleyici olmak ve uyarıcı olmak dışında seni göndermedik
+**(106)** ve ağır ağır insanlara okuman için Kur’an’ı parçalara[kısımlara] ayırdık ve birbiri ardınca onu indirdik
+**(107)** de ki siz inanın ona veya inanmayın şüphesiz kendilerine daha önce bilgi verilen(ler) kimselere okunduğu zaman onlar çeneleri üstüne secdeye derhal kapanırlar
+**(108)** ve Rabbimizin şanı yücedir derler gerçekten Rabbimizin va’di (sözü) mutlaka yerine getirilir
+**(109)** ve kapanırlar
 **(110)** 
 **(111)**
 
