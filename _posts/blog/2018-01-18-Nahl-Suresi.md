@@ -10,7 +10,7 @@ tag:
 
 ## 16. Nahl Sûresi
 
-**(1)** 
+**(1)** Allah’ın emri geldi artık onu acele istemeyin ortak koştuklarından (Allah) uzaktır ve yücedir
 **(2)** 
 **(3)** 
 **(4)** 

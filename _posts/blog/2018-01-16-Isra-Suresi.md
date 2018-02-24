@@ -27,11 +27,11 @@ tag:
 **(15)** kim hidayeti seçerse şüphesiz kendisi için seçmiş olur ve kim saparsa şüphesiz kendi aleyhine sapar ve hiçbir günahkar başkasının günah yükünü taşımaz ve hatta elçi göndermedikçe biz azab edecek değiliz
 **(16)** ve bir kenti biz helak etmek istediğimiz zaman onun varlıklılarına emrederiz orada kötü işler yaparlar (azab) karar(ı) onlara böylece gerekli olur biz de orayı darmadağın yıkarız
 **(17)** ve Nuh’dan sonra nice kuşakları helak ettik ve kullarının günahlarını haber alıcı görücü olarak Rabbin yeter
-**(18)** [çabuk geçeni](dünyayı) kim istiyor ise istediğimiz kimseye dilediğimiz kadar orada ona acele olanı çabucak veririz sonra ona cehennem (yerini) yaparız kınanmış olarak ve kovulmuş[hor ve hakir toplanmış] olarak oraya girer
+**(18)** [çabuk geçeni] (dünyayı) kim istiyor ise istediğimiz kimseye dilediğimiz kadar orada ona acele olanı çabucak veririz sonra ona cehennem (yerini) yaparız kınanmış olarak ve kovulmuş[hor ve hakir toplanmış] olarak oraya girer
 **(19)** ve kim de ahireti isterse ve yaraşır biçimde ve o ona inanarak çalışırsa öylelerinin çalışmalarının karşılığı verilir
 **(20)** Rabbinin mükafatından onlara da ve onlara da hepsine uzatırız ve Rabbinin [lutuf,ihsan]hediyesi [görünüşle]kısıtlanmış değildir
 **(21)** onların kimini kimi üzerine bak nasıl üstün yaptık elbette ahiret dereceler bakımından daha büyüktür ve üstünlük bakımından daha büyüktür
-**(22)** başka bir tanrı[ilah] Allah ile beraber asla edinme [ayıplanmış]kınanmış olarak ve yalnız başına bırakılmış[yüzsüz] olarak sonra oturup kalırsın
+**(22)** başka bir [ilah]tanrı Allah ile beraber asla edinme [ayıplanmış]kınanmış olarak ve yalnız başına bırakılmış[yüzsüz] olarak sonra oturup kalırsın
 **(23)** ve kendisinden başkasına tapmamanızı ve anaya babaya iyilik etmenizi Rabbin emretti ikisinden birisi yahut her ikisi ihtiyarlık çağına senin yanında ulaşırsa onlara Öf! deme sakın ve onları azarlama güzel bir söz söyle onlara
 **(24)** ve [merhametten]acımadan dolayı [himaye ederek]küçülme[yumuşak] kanadını onlara indir ve deki Rabbim küçükken beni nasıl yetiştirdilerse sen de bunlara [merhamet et]acı 
 **(25)** içlerinizdeki şeyleri Rabbiniz daha iyi bilir eğer iyi kişiler siz olursanız şüphesiz O tevbe[rücu] edenleri bağışlayandır
