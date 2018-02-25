@@ -11,7 +11,7 @@ tag:
 ## 16. Nahl Sûresi
 
 **(1)** Allah’ın emri geldi, artık onu acele istemeyin (Allah) ortak koştuklarından uzaktır ve yücedir
-**(2)** uyarsın diye kullarından dilediği kimseler üzerine emrinden (olan) ruh[Cebrail(as) veya İsa(as)] ile Melekleri indirir muhakkak benden başka tanrı[ilah] yoktur benden korkun[korunun,sakının]
+**(2)** kullarından dilediği [akıllı]kimseler üzerine [nimetleri,lütufları,ihsanları] emrinden (olan) ruh[Cebrail(as) ve İsa(as)] ile Melekleri indirir muhakkak benden başka tanrı[ilah] yoktur benden korkun[sakının] diye uyarsın
 **(3)** 
 **(4)** 
 **(5)** 
