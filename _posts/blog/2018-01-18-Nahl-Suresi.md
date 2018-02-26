@@ -14,9 +14,9 @@ tag:
 **(2)** uyarsın diye kullarından dilediği [akıllı]kimseler üzerine [nimet,lütuf ve ihsanları], emrinden (olan) ruh [Cebrail(as)] ile Melekleri indirir muhakkak benden başka tanrı[ilah] yoktur benden korkun[sakının]
 **(3)** hak ile gökleri ve yeri yarattı ortak koştuklarından yücedir
 **(4)** nutfeden[hücreden] insanı yarattı birden o (insan) [gayet açık]apaçık bir hasım (olup çıktı)
-**(5)** 
-**(6)** 
-**(7)** 
+**(5)** ve hayvanları da yarattı onlarda ısınma[hararet] ve menfaatler sizin için vardır ve onlardan yersiniz
+**(6)** ve sabahleyin götürdüğünüz zaman ve akşamleyin getirdiğiniz zaman onlarda bir güzellik sizin için vardır
+**(7)** ve canlar(ınız) zahmetler çekmek dışında varıyor[ve varmış] olmadığınız (uzak) şehirlere[beldelere] ağırlıklarınızı taşırlar 
 **(8)** 
 **(9)** 
 **(10)** 
