@@ -17,7 +17,7 @@ tag:
 **(5)** ve hayvanları da yarattı onlarda ısınma[hararet] ve menfaatler sizin için vardır ve onlardan yersiniz
 **(6)** ve sabahleyin götürdüğünüz zaman ve akşamleyin getirdiğiniz zaman onlarda bir güzellik sizin için vardır
 **(7)** ve canlar(ınız) zahmetler çekmek dışında varıyor[ve varmış] olmadığınız (uzak) şehirlere[beldelere] ağırlıklarınızı taşırlar 
-**(8)** 
+**(8)** ve binmeniz için ve süs için atları ve katırları ve merkepleri sizin bilmediklerinizi (şeyleri) yaratmaktadır
 **(9)** 
 **(10)** 
 **(11)** 
