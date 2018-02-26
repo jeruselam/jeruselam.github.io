@@ -19,8 +19,8 @@ tag:
 **(7)** ve canlar(ınız) zahmetler çekmek dışında varıyor[ve varmış] olmadığınız (uzak) şehirlere[beldelere] ağırlıklarınızı taşırlar 
 **(8)** ve binmeniz için ve süs için atları ve katırları ve [eşekleri]merkepleri, sizin bilmediklerinizi [bilmediğiniz]şeyleri yaratmaktadır
 **(9)** ve doğru yol Allah’a aittir fakat onun [eziyetli]eğrisi de vardır şayet dileseydi hepinizi [hidayetle]doğru yola iletirdi
-**(10)** 
-**(11)** 
+**(10)** sizin için gökten bir su indiren O’dur içeceğ(iniz) ondandır ve hayvanları onda otlattığınız (bitkiler) ondandır
+**(11)** ekinler ve zeytin ve hurma ve üzümler ve her çeşitten meyvalar onunla size bitirmektedir düşünen bir toplum için şüphesiz bunda ibret vardır 
 **(12)** 
 **(13)** 
 **(14)** 
