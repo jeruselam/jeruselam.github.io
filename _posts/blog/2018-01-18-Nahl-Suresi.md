@@ -18,7 +18,7 @@ tag:
 **(6)** ve sabahleyin götürdüğünüz zaman ve akşamleyin getirdiğiniz zaman onlarda bir güzellik sizin için vardır
 **(7)** ve canlar(ınız) zahmetler çekmek dışında varıyor[ve varmış] olmadığınız (uzak) şehirlere[beldelere] ağırlıklarınızı taşırlar 
 **(8)** ve binmeniz için ve süs için atları ve katırları ve [eşekleri]merkepleri, sizin bilmediklerinizi [bilmediğiniz]şeyleri yaratmaktadır
-**(9)** 
+**(9)** ve doğru yol Allah’a aittir fakat onun [eziyetli]eğrisi de vardır şayet dileseydi hepinizi [hidayetle]doğru yola iletirdi
 **(10)** 
 **(11)** 
 **(12)** 
