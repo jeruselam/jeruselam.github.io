@@ -10,7 +10,7 @@ tag:
 
 ## 22. Hacc Sûresi
 
-**(1)** ey insanlar Rabbinizden korkun çünkü sa’atin depremi[Kıyamet] cidden korkunç bir şeydir
+**(1)** ey insanlar Rabbinizden korkun çünkü [Kıyametin]sa’atin depremi cidden korkunç bir şeydir
 **(2)** onu gördüğünüz gün her emziren emzirdiğini unutur ve her (yük) (sahibi) gebe yükünü bırakır ve insanları sarhoş görürsün onlar oysa sarhoş değillerdir ama Allah’ın azabı şiddetlidir
 **(3)** ve insanlardan kimi bilgisi olmaksızın Allah hakkında tartışır ve her kaba (şarlatan)şeytana uyar 
 **(4)** şüphesiz o onun hakkında yazılmıştır kim onu takibederse muhakkak bu onu şaşırtır ve alevli ateş azabına onu götürür
