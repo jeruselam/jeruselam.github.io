@@ -25,9 +25,9 @@ tag:
 **(13)** ve yeryüzünde çeşitli renklerdeki sizin için yarattıklarında vardır öğüt alan bir toplum için şüphesiz bunda ibret vardır
 **(14)** ondan taptaze et yemeniz için ve ondan kuşanacağınız süsler çıkarmanız için denizi hizmetinize veren O’dur ve görüyorsun ki O’nun lutfunu aramanız için onun içinde gemiler denizi yara yara gitmektedir ve olur ki şükredersiniz
 **(15)** ve sizi sarsmasın diye yeryüzüne dağlar ve ırmaklar ve yollar [bırakıp]attı umulur ki doğru yolu bulursunuz
-**(16)** 
-**(17)** 
-**(18)** 
+**(16)** ve (nice) işaretler ve yıldız(lar)la onlar yol bulurlar
+**(17)** yaratan, yaratmayan kimse gibi midir? düşünmüyor musunuz?
+**(18)** ve Allah’ın ni’metini eğer saysanız doğrusu sayamazsınız Allah çok bağışlayandır çok esirgeyendir
 **(19)** 
 **(20)** 
 **(21)** 
