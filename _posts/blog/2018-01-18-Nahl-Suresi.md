@@ -30,8 +30,8 @@ tag:
 **(18)** ve Allah’ın ni’metini eğer saysanız doğrusu sayamazsınız Allah çok bağışlayandır çok esirgeyendir
 **(19)** ve Allah gizlediğiniz ve açığa vurduğunuz her şeyi bilir 
 **(20)** Allah’tan başka taptıkları kimseler hiçbir şey yaratamazlar zaten onlar yaratılmaktadırlar
-**(21)** onlar ölüdürler diri değildirler (fakat) ne zaman dirileceklerini bilmezler
-**(22)** 
+**(21)** onlar ölüdürler diri değildirler (fakat) ne zaman [yeni bir yaradılışla]dirileceklerini bilmezler[şuursuzdurlar]
+**(22)** sizin [ilah]tanrınız bir tek [ilah]tanrıdır ama ahirete inanmayanların kalbleri [hakikati]inkarcıdır ve onlar büyüklük taslarlar
 **(23)** 
 **(24)** 
 **(25)** 
