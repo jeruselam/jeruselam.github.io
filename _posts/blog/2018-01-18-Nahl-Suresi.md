@@ -28,9 +28,9 @@ tag:
 **(16)** ve (nice) işaretler ve yıldız(lar)la onlar yol bulurlar
 **(17)** yaratan, yaratmayan kimse gibi midir? düşünmüyor musunuz?
 **(18)** ve Allah’ın ni’metini eğer saysanız doğrusu sayamazsınız Allah çok bağışlayandır çok esirgeyendir
-**(19)** 
-**(20)** 
-**(21)** 
+**(19)** ve Allah gizlediğiniz ve açığa vurduğunuz her şeyi bilir 
+**(20)** Allah’tan başka taptıkları kimseler hiçbir şey yaratamazlar zaten onlar yaratılmaktadırlar
+**(21)** onlar ölüdürler diri değildirler (fakat) ne zaman dirileceklerini bilmezler
 **(22)** 
 **(23)** 
 **(24)** 
