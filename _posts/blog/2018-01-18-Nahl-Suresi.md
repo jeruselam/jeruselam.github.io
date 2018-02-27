@@ -24,7 +24,7 @@ tag:
 **(12)** geceyi ve gündüzü ve güneşi ve ay’ı sizin hizmetinize verdi ve O’nun emriyle yıldızlar da boyun eğdirilmiştir aklını kullanan bir toplum için şüphesiz bunda ibretler vardır
 **(13)** ve yeryüzünde çeşitli renklerdeki sizin için yarattıklarında vardır öğüt alan bir toplum için şüphesiz bunda ibret vardır
 **(14)** ondan taptaze et yemeniz için ve ondan kuşanacağınız süsler çıkarmanız için denizi hizmetinize veren O’dur ve görüyorsun ki O’nun lutfunu aramanız için onun içinde gemiler denizi yara yara gitmektedir ve olur ki şükredersiniz
-**(15)** 
+**(15)** ve sizi sarsmasın diye yeryüzüne dağlar ve ırmaklar ve yollar [bırakıp]attı umulur ki doğru yolu bulursunuz
 **(16)** 
 **(17)** 
 **(18)** 
