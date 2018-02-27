@@ -32,9 +32,9 @@ tag:
 **(20)** Allah’tan başka taptıkları kimseler hiçbir şey yaratamazlar zaten onlar yaratılmaktadırlar
 **(21)** onlar ölüdürler diri değildirler (fakat) ne zaman [yeni bir yaradılışla]dirileceklerini bilmezler[şuursuzdurlar]
 **(22)** sizin [ilah]tanrınız bir tek [ilah]tanrıdır ama ahirete inanmayanların kalbleri [hakikati]inkarcıdır ve onlar büyüklük taslarlar
-**(23)** 
-**(24)** 
-**(25)** 
+**(23)** Allah’a gerçekten gizli kalmaz, onların gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O büyüklük taslayanları sevmez
+**(24)** ve ne zaman ki onlara dendi Rabbiniz ne indirdi evvelkilerin masalları derler 
+**(25)** kıyamet günü tam olarak kendi günahlarını ve saptırdıkları kimselerin günahlarının bir kısmını yüklenmeleri için bak bilgisizce ne kötü şey[i suçu] yükleniyorlar
 **(26)** 
 **(27)** 
 **(28)** 
