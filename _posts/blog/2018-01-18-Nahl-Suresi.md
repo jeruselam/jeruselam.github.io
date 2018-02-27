@@ -21,9 +21,9 @@ tag:
 **(9)** ve doğru yol Allah’a aittir fakat onun [eziyetli]eğrisi de vardır şayet dileseydi hepinizi [hidayetle]doğru yola iletirdi
 **(10)** sizin için gökten bir su indiren O’dur içeceğ(iniz) ondandır ve hayvanları onda otlattığınız (bitkiler) ondandır
 **(11)** ekinler ve zeytin ve hurma ve üzümler ve her çeşitten meyvalar onunla size bitirmektedir düşünen bir toplum için şüphesiz bunda ibret vardır 
-**(12)** 
-**(13)** 
-**(14)** 
+**(12)** geceyi ve gündüzü ve güneşi ve ay’ı sizin hizmetinize verdi ve O’nun emriyle yıldızlar da boyun eğdirilmiştir aklını kullanan bir toplum için şüphesiz bunda ibretler vardır
+**(13)** ve yeryüzünde çeşitli renklerdeki sizin için yarattıklarında vardır öğüt alan bir toplum için şüphesiz bunda ibret vardır
+**(14)** ondan taptaze et yemeniz için ve ondan kuşanacağınız süsler çıkarmanız için denizi hizmetinize veren O’dur ve görüyorsun ki O’nun lutfunu aramanız için onun içinde gemiler denizi yara yara gitmektedir ve olur ki şükredersiniz
 **(15)** 
 **(16)** 
 **(17)** 
