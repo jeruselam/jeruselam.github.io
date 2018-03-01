@@ -40,7 +40,7 @@ tag:
 **(28)** nefislerine zulmederlerken meleklerin canlarını aldığı kimseler, biz hiçbir kötülük yapmıyorduk diyerek teslim olurlar hayır şüphesiz sizin yaptıklarınız şeyleri Allah biliyor
 **(29)** içinde sürekli kalmak üzere cehennemin kapılarına onun için girin kibirlenenlerin yeri ne kötüdür
 **(30)** ve dendi ki korunan(lara) kimselere Rabbiniz ne? indirdi hayr dediler güzellik bu dünyada güzel iş yapan(lara) kimseler için vardır ve ahiret yurdu ise daha hayırlıdır ve korunanların yurdu ne güzeldir
-**(31)** 
+**(31)** altlarından ırmaklar akan adn cennetlerine girerler diledikleri her şey orada onlar için vardır korunanları Allah işte böyle mükafatlandırır
 **(32)** 
 **(33)** 
 **(34)** 
