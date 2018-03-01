@@ -37,7 +37,7 @@ tag:
 **(25)** kıyamet günü tam olarak kendi günahlarını ve saptırdıkları kimselerin günahlarının bir kısmını yüklenmeleri için bak bilgisizce ne kötü şey[i suçu] yükleniyorlar
 **(26)** onlardan önceki kimseler kuşkusuz tuzak kurmuşlardı temellerinden binalarını Allah yıktı (söktü) üstlerindeki tavan başlarına çökmüştü ve ummadıkları yerden azab onlara gelmişti
 **(27)** sonra kıyamet günü onları rezil eder ve derki haklarında düşmanlık ettiğiniz ortaklarım hani nerede? ilim verilmiş olanlar derler şüphesiz bugün rezillik ve kötülük kafirler üzerinedir 
-**(28)** 
+**(28)** nefislerine zulmederlerken meleklerin canlarını aldığı kimseler, biz hiçbir kötülük yapmıyorduk diyerek teslim olurlar hayır şüphesiz sizin yaptıklarınız şeyleri Allah biliyor
 **(29)** 
 **(30)** 
 **(31)** 
