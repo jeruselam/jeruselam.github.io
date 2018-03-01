@@ -39,7 +39,7 @@ tag:
 **(27)** sonra kıyamet günü onları rezil eder ve derki haklarında düşmanlık ettiğiniz ortaklarım hani nerede? ilim verilmiş olanlar derler şüphesiz bugün rezillik ve kötülük kafirler üzerinedir 
 **(28)** nefislerine zulmederlerken meleklerin canlarını aldığı kimseler, biz hiçbir kötülük yapmıyorduk diyerek teslim olurlar hayır şüphesiz sizin yaptıklarınız şeyleri Allah biliyor
 **(29)** içinde sürekli kalmak üzere cehennemin kapılarına onun için girin kibirlenenlerin yeri ne kötüdür
-**(30)** 
+**(30)** ve dendi ki korunan(lara) kimselere Rabbiniz ne? indirdi hayr dediler güzellik bu dünyada güzel iş yapan(lara) kimseler için vardır ve ahiret yurdu ise daha hayırlıdır ve korunanların yurdu ne güzeldir
 **(31)** 
 **(32)** 
 **(33)** 
