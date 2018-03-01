@@ -35,7 +35,7 @@ tag:
 **(23)** Allah’a gerçekten gizli kalmaz, onların gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O büyüklük taslayanları sevmez
 **(24)** ve ne zaman ki onlara dendi Rabbiniz ne indirdi evvelkilerin masalları derler 
 **(25)** kıyamet günü tam olarak kendi günahlarını ve saptırdıkları kimselerin günahlarının bir kısmını yüklenmeleri için bak bilgisizce ne kötü şey[i suçu] yükleniyorlar
-**(26)** 
+**(26)** onlardan önceki kimseler kuşkusuz tuzak kurmuşlardı temellerinden binalarını Allah yıktı (söktü) üstlerindeki tavan başlarına çökmüştü ve ummadıkları yerden azab onlara gelmişti
 **(27)** 
 **(28)** 
 **(29)** 
