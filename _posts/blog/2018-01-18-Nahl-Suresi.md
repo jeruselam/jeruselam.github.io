@@ -36,7 +36,7 @@ tag:
 **(24)** ve ne zaman ki onlara dendi Rabbiniz ne indirdi evvelkilerin masalları derler 
 **(25)** kıyamet günü tam olarak kendi günahlarını ve saptırdıkları kimselerin günahlarının bir kısmını yüklenmeleri için bak bilgisizce ne kötü şey[i suçu] yükleniyorlar
 **(26)** onlardan önceki kimseler kuşkusuz tuzak kurmuşlardı temellerinden binalarını Allah yıktı (söktü) üstlerindeki tavan başlarına çökmüştü ve ummadıkları yerden azab onlara gelmişti
-**(27)** 
+**(27)** sonra kıyamet günü onları rezil eder ve derki haklarında düşmanlık ettiğiniz ortaklarım hani nerede? ilim verilmiş olanlar derler şüphesiz bugün rezillik ve kötülük kafirler üzerinedir 
 **(28)** 
 **(29)** 
 **(30)** 
