@@ -41,10 +41,10 @@ tag:
 **(29)** içinde sürekli kalmak üzere cehennemin kapılarına onun için girin kibirlenenlerin yeri ne kötüdür
 **(30)** ve dendi ki korunan(lara) kimselere Rabbiniz ne? indirdi hayr dediler güzellik bu dünyada güzel iş yapan(lara) kimseler için vardır ve ahiret yurdu ise daha hayırlıdır ve korunanların yurdu ne güzeldir
 **(31)** altlarından ırmaklar akan adn cennetlerine girerler diledikleri her şey orada onlar için vardır korunanları Allah işte böyle mükafatlandırır
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
+**(32)** iyi insanlar olarak canlarını aldıkları kimselere melekler size selam derler yapıyor(lar) olduklarınıza karşılık cennete girin
+**(33)** meleklerin kendilerine gelmesini ille bekliyorlar mi? yahut Rabbinin emrinin gelmesini onlardan önceki kimseler (de) öyle yapmıştı Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
+**(34)** yaptıklarının kötülükleri nihayet onlara ulaştı ve onunla alay ettikleri şey onları kuşattı
+**(35)** ve ortak[şirk] koşan(lar) kimseler dediler eğer Allah dileseydi O’ndan başka hiçbir şeye (ne) biz ne de atalarımız tapmazdık ve hiçbir şeyi O’nsuz[ayrı olarak] haram kılmazdık onlardan önceki(ler) kimseler de böyle yapmıştı elçilere düşen yalnız açıkça tebliğ etmek değil midir?
 **(36)** 
 **(37)** 
 **(38)** 
