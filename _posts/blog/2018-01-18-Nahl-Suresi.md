@@ -48,7 +48,7 @@ tag:
 **(36)** ve andolsun her millet içinde biz bir elçi gönderdik Allah’a kulluk edin ve tagutdan kaçının diye onlardan kimine Allah hidayet etti ve onlardan kimine de sapıklık üzerlerine hak oldu yeryüzünde işte gezin ve yalanlayanların sonu bakın nasıl olmuş 
 **(37)** şayet onların yola gelmelerini ne kadar istesen de kuşkusuz Allah şaşırttığı kimseyi yola getirmez ve onların hiçbir yardımcıları olmaz
 **(38)** ve yeminlerinin bütün şiddetiyle Allah’a yemin ettiler ölen kimseyi Allah diriltmez (diye) hayır gerçek olarak O’nun onlara verdiği sözdür ama insanların çoğu bilmezler
-**(39)** hakkında ihtilaf ettiklerini onlara açıklasın (diye) ve onların yalancılar olduklarını inkar eden(ler) kimseler bilsinler (diye)
+**(39)** hakkında ihtilaf ettiklerini onlara açıklasın (diye) ve onların [katiyyen o]yalancılar olduklarını inkar eden(ler)[kafir] kimseler bilsinler (diye)
 **(40)** 
 **(41)** 
 **(42)** 
