@@ -45,7 +45,7 @@ tag:
 **(33)** meleklerin kendilerine gelmesini ille bekliyorlar mi? yahut Rabbinin emrinin gelmesini onlardan önceki kimseler (de) öyle yapmıştı Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
 **(34)** yaptıklarının kötülükleri nihayet onlara ulaştı ve onunla alay ettikleri şey onları kuşattı
 **(35)** ve ortak[şirk] koşan(lar) kimseler dediler eğer Allah dileseydi O’ndan başka hiçbir şeye (ne) biz ne de atalarımız tapmazdık ve hiçbir şeyi O’nsuz[ayrı olarak] haram kılmazdık onlardan önceki(ler) kimseler de böyle yapmıştı elçilere düşen yalnız açıkça tebliğ etmek değil midir?
-**(36)** 
+**(36)** ve andolsun her millet içinde biz bir elçi gönderdik Allah’a kulluk edin ve tagutdan kaçının diye onlardan kimine Allah hidayet etti ve onlardan kimine de sapıklık üzerlerine hak oldu yeryüzünde işte gezin ve yalanlayanların sonu bakın nasıl olmuş 
 **(37)** 
 **(38)** 
 **(39)** 
