@@ -49,11 +49,11 @@ tag:
 **(37)** şayet onların yola gelmelerini ne kadar istesen de kuşkusuz Allah şaşırttığı kimseyi yola getirmez ve onların hiçbir yardımcıları olmaz
 **(38)** ve yeminlerinin bütün şiddetiyle Allah’a yemin ettiler ölen kimseyi Allah diriltmez (diye) hayır gerçek olarak O’nun onlara verdiği sözdür ama insanların çoğu bilmezler
 **(39)** hakkında ihtilaf ettiklerini onlara açıklasın (diye) ve onların [katiyyen o]yalancılar olduklarını inkar eden(ler)[kafir] kimseler bilsinler (diye)
-**(40)** 
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
+**(40)** istediğimiz zaman bir şeyi şüphesiz söyleyeceğimiz söz sadece ona ol  dememizdir derhal oluverir
+**(41)** onlar ki sabrettiler ve sadece Rablerine [güvenip]dayanmaktadırlar
+**(42)** ve kendilerine vahyettiğimiz erkeklerden başkasını biz senden önce göndermedik siz bilmiyorsanız eğer zikir ehline sorun
+**(43)** kendilerine indirilen şeyi insanlara açıklayasın diye açık kanıtları ve Kitapları ve Zikr’i sana indirdik ta ki düşünüp öğüt alsınlar
+**(44)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden [kötülüğe sevketmek yada gayesinden alıkoymak için]kötülükler yapmayı kuran(lar) kimseler emin midirler? 
 **(45)** 
 **(46)** 
 **(47)** 
