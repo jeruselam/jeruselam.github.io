@@ -53,7 +53,7 @@ tag:
 **(41)** onlar ki sabrettiler ve sadece Rablerine [güvenip]dayanmaktadırlar
 **(42)** ve kendilerine vahyettiğimiz erkeklerden başkasını biz senden önce göndermedik siz bilmiyorsanız eğer zikir ehline sorun
 **(43)** kendilerine indirilen şeyi insanlara açıklayasın diye açık kanıtları ve Kitapları ve Zikr’i sana indirdik ta ki düşünüp öğüt alsınlar
-**(44)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden [kötülüğe sevketmek yada gayesinden alıkoymak için]kötülükler yapmayı kuran(lar) kimseler emin midirler? 
+**(44)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden [birisinin iyi ve kötü hallerini öğrenerek]kötülükler yapmayı kuran(lar) kimseler emin midirler? yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden 
 **(45)** 
 **(46)** 
 **(47)** 
