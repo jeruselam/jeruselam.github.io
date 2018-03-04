@@ -50,14 +50,14 @@ tag:
 **(38)** ve yeminlerinin bütün şiddetiyle Allah’a yemin ettiler ölen kimseyi Allah diriltmez (diye) hayır gerçek olarak O’nun onlara verdiği sözdür ama insanların çoğu bilmezler
 **(39)** hakkında ihtilaf ettiklerini onlara açıklasın (diye) ve onların [katiyyen o]yalancılar olduklarını inkar eden(ler)[kafir] kimseler bilsinler (diye)
 **(40)** istediğimiz zaman bir şeyi şüphesiz söyleyeceğimiz söz sadece ona ol  dememizdir derhal oluverir
-**(41)** onlar ki sabrettiler ve sadece Rablerine [güvenip]dayanmaktadırlar
-**(42)** ve kendilerine vahyettiğimiz erkeklerden başkasını biz senden önce göndermedik siz bilmiyorsanız eğer zikir ehline sorun
-**(43)** kendilerine indirilen şeyi insanlara açıklayasın diye açık kanıtları ve Kitapları ve Zikr’i sana indirdik ta ki düşünüp öğüt alsınlar
-**(44)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden [birisinin iyi ve kötü hallerini öğrenerek]kötülükler yapmayı kuran(lar) kimseler emin midirler? yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden 
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
+**(41)** kendilerine zulmedildikten sonra Allah uğrunda göç edenleri güzelce dünyada yerleştireceğiz ve ahiret mükafatı ise daha büyüktür keşke onlar bilselerdi
+**(42)** onlar ki sabrettiler ve sadece Rablerine [güvenip]dayanmaktadırlar
+**(43)** ve kendilerine vahyettiğimiz erkeklerden başkasını biz senden önce göndermedik siz bilmiyorsanız eğer zikir ehline sorun
+**(44)** kendilerine indirilen şeyi insanlara açıklayasın diye açık kanıtları ve Kitapları ve Zikr’i sana indirdik ta ki düşünüp öğüt alsınlar
+**(45)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden [birisinin iyi ve kötü hallerini öğrenerek]kötülükler yapmayı kuran(lar) kimseler emin midirler? yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden
+**(46)** yahut dönüp dolaşırlarken kendilerini yakalamayacağından? onlar engel olacak da değillerdir
+**(47)** yahut bir korku üzerinde kendilerini yakalamayacağından? doğrusu Rabbiniz çok şefkatlidir çok acıyandır
+**(48)** Allah’ın yarattığı şeyleri görmediler mi? Allah’a secde ederek ve onlar sürünerek gölgelerinin sağdan ve soldan [güneşin batmasına doğru] her şeyden döndüğünü
 **(49)** 
 **(50)** 
 **(51)** 
