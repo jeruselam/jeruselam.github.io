@@ -58,7 +58,7 @@ tag:
 **(46)** yahut dönüp dolaşırlarken kendilerini yakalamayacağından? onlar engel olacak da değillerdir
 **(47)** yahut bir korku üzerinde kendilerini yakalamayacağından? doğrusu Rabbiniz çok şefkatlidir çok acıyandır
 **(48)** her şeyden Allah’ın yarattığı şeyleri görmediler mi? Allah’a secde ederek ve onlar sürünerek sağdan ve soldan gölgelerinin [güneşin batmasına doğru] döndüğünü
-**(49)** 
+**(49)** ve meleklerden ve canlılardan yerde ne varsa ve göklerde ne varsa Allah’a secde ederler ve onlar asla büyük taslamazlar
 **(50)** 
 **(51)** 
 **(52)** 
