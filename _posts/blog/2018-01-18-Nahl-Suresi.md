@@ -62,10 +62,10 @@ tag:
 **(50)** üstlerindeki[yüksek derecede] Rablerinden korkarlar ve emredildikleri şeyi yaparlar
 **(51)** ve Allah dedi iki [ilah]tanrı edinmeyin şüphesiz O tek [ilah]Tanrıdır  yalnız benden korkun
 **(52)** göklerde ve yerde ne varsa ve daima din[İslam şeriatı] (kulluk) O’nundur Allah’tan başkasından mı? korkuyorsunuz
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)** 
+**(53)** size (ulaşan) her ni’met Allah'tandır sonra bir sıkıntı size dokunduğu zaman yalnız O’na yalvarırsınız
+**(54)** sonra sizden o sıkıntıyı kaldırdığı zaman içinizden bir grup hemen Rablerine ortak koşarlar
+**(55)** kendilerine verdiğimize karşı nankörlük etmek için öyleyse eğlenin[menfaat sağlayın] yakında bileceksiniz
+**(56)** ve verdiğimiz rızıktan bir pay bilmedikleri şeylere ayırıyorlar Allah’a andolsun ki uyduruyorlar [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
 **(57)** 
 **(58)** 
 **(59)** 
