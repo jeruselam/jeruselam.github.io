@@ -65,8 +65,8 @@ tag:
 **(53)** size (ulaşan) her ni’met Allah'tandır sonra bir sıkıntı size dokunduğu zaman yalnız O’na yalvarırsınız
 **(54)** sonra sizden o sıkıntıyı kaldırdığı zaman içinizden bir grup hemen Rablerine ortak koşarlar
 **(55)** kendilerine verdiğimize karşı nankörlük etmek için öyleyse eğlenin[menfaat sağlayın] yakında bileceksiniz
-**(56)** ve verdiğimiz rızıktan bir pay bilmedikleri şeylere ayırıyorlar Allah’a andolsun ki uyduruyorlar [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
-**(57)** 
+**(56)** ve verdiğimiz rızıktan bir pay[hisseyi] bilmedikleri şeylere ayırıyorlar Allah’a andolsun ki uyduruyorlar [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
+**(57)** ve [bebek]kızları Allah’a isnad ediyorlar[ayırıyorlar] şanı yüce olan ve kendilerine de [eşit yaparak]hoşlandıklarını
 **(58)** 
 **(59)** 
 **(60)** 
