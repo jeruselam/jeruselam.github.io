@@ -72,9 +72,9 @@ tag:
 **(60)** en kötü sıfatlar ahirete inanmayanlar içindir (oysa) en yüce sıfatlar Allah’ındır ve O azizdir [Hakīm]hikmet sahibidir
 **(61)** ve yaptıkları (her) haksızlıkla insanları Allah cezalandırsaydı eğer hiçbir [yürüyen]canlı (yeryüzü) üzerinde bırakmazdı fakat takdir edilen bir süreye kadar onları erteler [ecel]süreleri geldiği zaman asla bir sa’at (dahi) geri kalmazlar ne de ileri geçerler
 **(62)** ve hoşlanmadıkları şeyi Allah’a [veriyor]isnad ediyorlar ve onların dilleri en güzel sonucun kendilerinin olacağı hakkında yalan uyduruyorlar hiç şüphe yok ki mutlaka onlara ateş vardır ve onlar ona sürüleceklerdir
-**(63)** 
-**(64)** 
-**(65)** 
+**(63)** Allah’a andolsun ki muhakkak senden önceki milletlere elçi gönderdik yaptıklarını şeytan onlara süsledi O bugün onların dostudur ve onlar için acıklı bir azab vardır
+**(64)** ve inanan bir kavim için rahmet ve yol gösterici ve hakkında ayrılığa düştükleri şeyi onlara açıklaman dışında Kitabı sana indirmedik 
+**(65)** ve Allah gökten bir su indirdi ve ölümünden sonra yeri onunla diriltti şüphesiz işiten bir millet için bunda elbette ibret(ler) vardır
 **(66)** 
 **(67)** 
 **(68)** 
