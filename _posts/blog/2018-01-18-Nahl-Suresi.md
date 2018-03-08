@@ -75,8 +75,8 @@ tag:
 **(63)** Allah’a andolsun ki muhakkak senden önceki milletlere elçi gönderdik yaptıklarını şeytan onlara süsledi O bugün onların dostudur ve onlar için acıklı bir azab vardır
 **(64)** ve inanan bir kavim için rahmet ve yol gösterici ve hakkında ayrılığa düştükleri şeyi onlara açıklaman dışında Kitabı sana indirmedik 
 **(65)** ve Allah gökten bir su indirdi ve ölümünden sonra yeri onunla diriltti şüphesiz işiten [bir peygambere bağlı ve tabi]bir millet için bunda elbette ibret(ler) vardır
-**(66)** 
-**(67)** 
+**(66)** ve şüphesiz sizin için hayvanlarda ibret(ler) vardır içenler için lezzetli halis süt, onların karınlarında fışkı ile kan arasıdan olandan size içiriyoruz
+**(67)** ve hurma ağaçlarının meyvalarından ve üzümlerden onlardan sarhoşluk ve güzel bir rızık elde edersiniz şüphesiz bunda aklını kullanan bir toplum için elbette ibret(ler) vardır
 **(68)** 
 **(69)** 
 **(70)** 
