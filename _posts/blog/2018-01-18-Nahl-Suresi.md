@@ -74,7 +74,7 @@ tag:
 **(62)** ve hoşlanmadıkları şeyi Allah’a [veriyor]isnad ediyorlar ve onların dilleri en güzel sonucun kendilerinin olacağı hakkında yalan uyduruyorlar hiç şüphe yok ki mutlaka onlara ateş vardır ve onlar ona sürüleceklerdir
 **(63)** Allah’a andolsun ki muhakkak senden önceki milletlere elçi gönderdik yaptıklarını şeytan onlara süsledi O bugün onların dostudur ve onlar için acıklı bir azab vardır
 **(64)** ve inanan bir kavim için rahmet ve yol gösterici ve hakkında ayrılığa düştükleri şeyi onlara açıklaman dışında Kitabı sana indirmedik 
-**(65)** ve Allah gökten bir su indirdi ve ölümünden sonra yeri onunla diriltti şüphesiz işiten bir millet için bunda elbette ibret(ler) vardır
+**(65)** ve Allah gökten bir su indirdi ve ölümünden sonra yeri onunla diriltti şüphesiz işiten [bir peygambere bağlı ve tabi]bir millet için bunda elbette ibret(ler) vardır
 **(66)** 
 **(67)** 
 **(68)** 
