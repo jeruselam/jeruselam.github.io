@@ -83,9 +83,9 @@ tag:
 **(71)** rızıkta kiminiz üzerine kiminizi Allah üstün kıldı onda eşit olacak şekilde onlar ellerinin altında bulunanlara kendi rızıklarını verip de üstün kılınanlar değildir Allah’ın ni’metini mi? inkar ediyorlar
 **(72)** Allah size kendi nefislerinizden eşler yarattı ve size eşlerinizden oğullar ve torunlar yarattı ve güzel rızıklarla sizi besledi hâlâ batıla mı? inanıyorlar ve Allah’ın ni’metine onlar nankörlük ediyorlar
 **(73)** ve Allah’tan başka göklerden ve hiçbir yerden asla kendilerine rızık veremeyecek ve bunu asla yapamayacak olan[a] tapıyorlar
-**(74)** 
-**(75)** 
-**(76)** 
+**(74)** Allah’a meseller[eşdeğer] benzetmeler yapmayın çünkü Allah bilir siz ise bilmezsiniz
+**(75)** hiçbir şeye gücü yetmeyen başkasının malı olan bir köle misaliyle Allah misal verir ve güzel rızık ile katımızdan rızıklandırdığımız kimseyi ki o gizli ve açık ondan infak eder bunlar eşit olurlar mı? Hamd Allah’adır fakat çokları bilmezler
+**(76)** ve (şu) iki adamı misaliyle Allah misal verir birisi dilsizdir hiçbir şeye gücü yetmez ve o efendisinin üzerine bir yüktür nereye onu gönderse bir hayır getirmez ve doğru yol üzere (giden) o (kimse) ve adaleti emreden kimse o gibi olur mu?
 **(77)** 
 **(78)** 
 **(79)** 
