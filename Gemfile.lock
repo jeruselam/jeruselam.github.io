@@ -48,7 +48,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-assets (3.0.7)
+    jekyll-assets (3.0.8)
       activesupport (~> 5.0)
       execjs (~> 2.7)
       extras (~> 0.2)
@@ -119,7 +119,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.6)
+    uglifier (4.1.7)
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
