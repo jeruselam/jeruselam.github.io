@@ -89,7 +89,7 @@ tag:
 **(77)** göklerin ve yerin gaybı Allah’a aittir ve sa’atin (kıyametin) [emir]işi  (başka) değildir ancak bir göz açıp yumma gibidir yahut o daha yakın(kısa)dır şüphesiz Allah her şey üzerine gücü yetendir
 **(78)** ve hiçbir şey bilmezken annelerinizin karınlarından Allah sizi çıkardı ve size işitme ve gözler ve gönüller verdi umulur ki şükredersiniz
 **(79)** göğün boşluğunda O’nun emrine boyun eğdirilmiş kuşlara bakmadılar mı? Allah’tan başka onları tutan yoktur inanan bir kavim için bunda ayetler şüphesiz vardır
-**(80)** ve Allah sizin için evlerinizi oturma yeri yaptı ve göç gününüzde ve sizin için ikamet gününüzde kolayca kullanacağınız hafif hayvan derilerinden evler ve yünlerinden ve yapağılarından ve kıllarından giyilecek, döşenecek eşya ve bir süreye kadar geçimlik yaptı 
+**(80)** ve Allah sizin için evlerinizi oturma yeri yaptı ve sizin için göç gününüzde ve ikamet gününüzde kolayca kullanacağınız hafif hayvan derilerinden evler ve yünlerinden ve yapağılarından ve kıllarından giyilecek, döşenecek eşya ve bir süreye kadar geçimlik yaptı 
 **(81)** 
 **(82)** 
 **(83)** 
