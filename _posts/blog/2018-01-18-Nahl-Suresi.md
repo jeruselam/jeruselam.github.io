@@ -90,7 +90,7 @@ tag:
 **(78)** ve hiçbir şey bilmezken annelerinizin karınlarından Allah sizi çıkardı ve size işitme ve gözler ve gönüller verdi umulur ki şükredersiniz
 **(79)** göğün boşluğunda O’nun emrine boyun eğdirilmiş kuşlara bakmadılar mı? Allah’tan başka onları tutan yoktur inanan bir kavim için bunda ayetler şüphesiz vardır
 **(80)** ve Allah sizin için evlerinizi oturma yeri yaptı ve sizin için göç gününüzde ve ikamet gününüzde kolayca kullanacağınız hafif hayvan derilerinden evler ve yünlerinden ve yapağılarından ve kıllarından giyilecek, döşenecek eşya ve bir süreye kadar geçimlik yaptı 
-**(81)** 
+**(81)** Allah, sizin için yarattıklarından gölgeler yaptı ve sizin için dağlarda oturulacak barınaklar var etti ve sizin için sıcaktan sizi koruyan elbiseler ve savaşınızda sizi koruyan elbiseler var eyledi size ni’metini böyle tamamlıyor umulur ki siz teslim (müslüman) olursunuz
 **(82)** 
 **(83)** 
 **(84)** 
