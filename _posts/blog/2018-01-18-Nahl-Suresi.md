@@ -99,7 +99,7 @@ tag:
 **(87)** ve Allah’a o gün teslim olurlar ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
 **(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar yaptıkları bozgunculuklarından dolayı azaplarının üstüne artırırız onlara azabı
 **(89)** ve kendi aralarından üzerlerine bir şahid her ümmet içinde getireceğimiz gün bunların üzerine seni de şahid getireceğiz ve yol gösterici olarak ve rahmet olarak ve müslümanlara müjde olarak ve her şeyi açıklayan bu Kitabı sana indirdik
-**(90)** 
+**(90)** şüphesiz Allah adaleti ve ihsanı ve akrabaya [getirip]vermeyi emreder ve edepsizlikten ve fenalıktan ve azgınlıktan meneder size böyle öğüt verir umulur ki öğüt alırsınız (diye)
 **(91)**
 **(92)** 
 **(93)** 
