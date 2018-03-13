@@ -100,8 +100,8 @@ tag:
 **(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar yaptıkları bozgunculuklarından dolayı azaplarının üstüne artırırız onlara azabı
 **(89)** ve kendi aralarından üzerlerine bir şahid her ümmet içinde getireceğimiz gün bunların üzerine seni de şahid getireceğiz ve yol gösterici olarak ve rahmet olarak ve müslümanlara müjde olarak ve her şeyi açıklayan bu Kitabı sana indirdik
 **(90)** şüphesiz Allah adaleti ve ihsanı ve akrabaya [getirip]vermeyi emreder ve edepsizlikten ve fenalıktan ve azgınlıktan meneder size böyle öğüt verir umulur ki öğüt alırsınız (diye)
-**(91)**
-**(92)** 
+**(91)** andlaşma yaptığınız[sözleştiğiniz] zaman Allah’ın [sözünü]ahdini tam yerine getirin ve pekiştirdikten sonra yeminleri asla bozmayın çünkü Allah’ı üzerinize kefil (şahid) yaptınız şüphesiz Allah yaptıklarınız şeyleri bilir
+**(92)** ve bir topluluk diğer bir topluluktan daha çok olduğu için yeminlerinizi aranızda bozucu bir vasıta yaparak kuvvetli büktükten sonra ipliğini çözen kadın gibi asla olmayın çünkü bununla Allah sizi dener ve hakkında ayrılığa düştüğünüz [ihtilaf halinde]olduğunuz şeyleri kıyamet günü size açıklayacaktır
 **(93)** 
 **(94)** 
 **(95)** 
