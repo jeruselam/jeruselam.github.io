@@ -97,7 +97,7 @@ tag:
 **(85)** ve azabı zulmedenler kimseler gördükleri zaman artık onlardan hafifletilmez ve asla onlara fırsat verilmez
 **(86)** ve ortak koştuklarını ortak koşan(lar) kimseler gördükleri zaman derler ki Rabbimiz işte (bunlar) senden başka tapıyor olduğumuz ortaklarımız şu sözle onlara söz atarlar siz tamamen yalancılarsınız
 **(87)** ve Allah’a o gün teslim olurlar ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
-**(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar bozgunculuklarından yaptıkları[ndan] dolayı azaplarının üstüne azabı artırırız onlara
+**(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar yaptıkları bozgunculuklarından dolayı azaplarının üstüne artırırız onlara azabı
 **(89)** 
 **(90)** 
 **(91)**
