@@ -111,10 +111,10 @@ tag:
 **(99)** çünkü inananlar üzerinde ve Rablerine dayananlar üzerinde o(şeyta)nın bir gücü yoktur
 **(100)** onun gücü üzerinde sadece onu dost tutan(lar) kimselere ve onlar onu ortak koşan(lar) kimselere
 **(101)** ve bir ayet yerine bir ayeti değiştirdiğimiz zaman ve Allah bilirken ne indirdiğini şüphesiz derler sen iftira ediyorsun hayır onların çokları bilmiyorlar
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
+**(102)** de ki inanan(ları) kimseleri sağlamlaştırmak için gerçek olarak ve yol gösterici ve müslümanlara müjde olarak Rabbinden Ruhu’l Kudüs onu indirdi
+**(103)** ve elbette onların muhakkak bir insan ona öğretiyor dediklerini biliyoruz ona nisbet ettikleri şahsın dili a’cemi (yabancıdır) bu ise apaçık Arapça bir dildir
+**(104)** şüphesiz Allah’ın ayetlerine inanmayan(ları) kimseleri Allah doğru yola iletmez acıklı bir azab onlar için vardır
+**(105)** şüphesiz ancak Allah’ın ayetlerine inanmayan(lar) kimseler yalanı uydurur işte yalancılar onlardır
 **(106)** 
 **(107)** 
 **(108)** 
