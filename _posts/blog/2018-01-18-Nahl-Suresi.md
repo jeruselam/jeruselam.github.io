@@ -115,10 +115,10 @@ tag:
 **(103)** ve elbette onların muhakkak bir insan ona öğretiyor dediklerini biliyoruz ona nisbet ettikleri şahsın dili a’cemi (yabancıdır) bu ise apaçık Arapça bir dildir
 **(104)** şüphesiz Allah’ın ayetlerine inanmayan(ları) kimseleri Allah doğru yola iletmez acıklı bir azab onlar için vardır
 **(105)** şüphesiz ancak Allah’ın ayetlerine inanmayan(lar) kimseler yalanı uydurur işte yalancılar onlardır
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
+**(106)** (inkara) zorlanan kimseler hariç inandıktan sonra Allah’ı inkar eden ve kalbi imanla mutmain olduğu halde fakat [kalben]göğsünü [inkar eden]küfre açan kimselere Allah'tan bir gazab üzerlerine iner ve büyük bir azab onlar için vardır
+**(107)** bu böyledir şüphesiz onların ahirete dünya hayatını tercih etmelerindendir ve şüphesiz Allah’ın inkar eden kavmi doğru yola iletmeyeceğindendir
+**(108)** onlar Allah’ın kalbleri üzerini ve kulaklarını ve gözlerini mühürlediği kimselerdir ve gafiller işte onlardır
+**(109)** elbette onlar hiç şüphe yok onlar ahirette ziyana uğrayacaklardır
 **(110)** 
 **(111)** 
 **(112)** 
