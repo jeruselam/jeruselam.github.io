@@ -119,8 +119,8 @@ tag:
 **(107)** bu böyledir şüphesiz onların ahirete dünya hayatını tercih etmelerindendir ve şüphesiz Allah’ın inkar eden kavmi doğru yola iletmeyeceğindendir
 **(108)** onlar Allah’ın kalbleri üzerini ve kulaklarını ve gözlerini mühürlediği kimselerdir ve gafiller işte onlardır
 **(109)** elbette onlar hiç şüphe yok onlar ahirette ziyana uğrayacaklardır
-**(110)** 
-**(111)** 
+**(110)** sonra şüphesiz Rabbin işkenceye uğratıldıktan sonra hicret edenlerin sonra cihad edenlerin ve sabredenlerin (yanındadır) elbette Rabbin bun(lar)dan sonra elbette bağışlayandır esirgeyendir
+**(111)** o gün gelir her nefis kendi canı için uğraşır ve herkese[herbir] nefse yaptığının tam karşılığı verilir onlara asla haksızlık edilmez
 **(112)** 
 **(113)** 
 **(114)** 
