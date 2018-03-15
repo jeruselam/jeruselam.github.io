@@ -121,7 +121,7 @@ tag:
 **(109)** elbette onlar hiç şüphe yok onlar ahirette ziyana uğrayacaklardır
 **(110)** sonra şüphesiz Rabbin işkenceye uğratıldıktan sonra hicret edenlerin sonra cihad edenlerin ve sabredenlerin (yanındadır) elbette Rabbin bun(lar)dan sonra elbette bağışlayandır esirgeyendir
 **(111)** o gün gelir her nefis kendi canı için uğraşır ve herkese[herbir] nefse yaptığının tam karşılığı verilir onlara asla haksızlık edilmez
-**(112)** 
+**(112)** ve bir kenti misaliyle Allah misal[örnek] verir güven huzur içinde idi her yerden bol bol rızkı kendisine geliyordu Allah’ın ni’metlerine fakat nankörlük etti (bunun üzerine) ona Allah yapıyor(lar) oldukları[ndan] ötürü açlık ve korku elbisesi taddırdı
 **(113)** 
 **(114)** 
 **(115)** 
