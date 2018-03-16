@@ -130,7 +130,7 @@ tag:
 **(118)** ve bundan önce sana anlattıklarımızı Yahudi olanlara da haram kılmıştık onlara zulmediyor değildik fakat onlar kendilerine zulm ediyorlardı
 **(119)** sonra şüphesiz Rabbin[Allah] cehaletle kötülük işleyen(ler) kimseler için sonra bunun ardından tevbe edenler (için) ve uslananlar (için) elbette Rabbin[Allah] bunlardan sonra [ğafūr]bağışlayandır [raHīm]esirgeyendir
 **(120)** Allah’ı birleyen O’na ita’at eden İbrahim şüphesiz bir ümmet idi ve ortak[şirk] koşanlardan değildi
-**(121)** 
+**(121)** O’nun ni’metlerine şükredici idi onu seçmiş ve doğru yola iletmişti
 **(122)** 
 **(123)** 
 **(124)** 
