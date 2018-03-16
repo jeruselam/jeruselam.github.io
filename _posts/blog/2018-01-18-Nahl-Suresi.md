@@ -126,8 +126,8 @@ tag:
 **(114)** helal ve hoş (olarak) Allah’ın size verdiği rızıktan yeyin ve Allah’ın ni’metine şükredin eğer O’na kulluk ediyorsanız
 **(115)** size ölüyü ve kanı ve domuz etini ve Allah’tan başkasının adına kesilen şeyi şüphesiz haram kıldı kim mecbur kalırsa saldırmadan ve sınırı da aşmadan şüphesiz Allah [ğafūr]bağışlayandır [raHīm]esirgeyendir
 **(116)** ve dillerinizin yalan nitelendirmesinden ötürü şu helaldir şu ise haramdır demeyin Allah’a karşı sonra yalan uydurmuş olursunuz şüphesiz Allah’a karşı yalan uyduran(lar) kimseler iflah olmazlar
-**(117)** 
-**(118)** 
+**(117)** azıcık bir mefaattir ve onlara acıklı bir azab vardır
+**(118)** ve bundan önce sana anlattıklarımızı Yahudi olanlara da haram kılmıştık onlara zulmediyor değildik fakat onlar kendilerine zulm ediyorlardı
 **(119)** 
 **(120)** 
 **(121)** 
