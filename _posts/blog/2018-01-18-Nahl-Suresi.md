@@ -134,7 +134,7 @@ tag:
 **(122)** ve ona dünyada iyilik vermiştik şüphesiz O ahirette de iyilerdendir
 **(123)** sonra sana vahyettik hanif olan İbrahim’in yoluna uy ve ortak[şirk] koşanlardan değildi
 **(124)**şüphesiz onun[içinde] ayrılığa düşen(ler) kimseler üzerinde cumartesi günü (farz) kılındı ve şüphesiz onda ayrılığa düştükleri şey hakkında kıyamet günü aralarında Rabbin[Allah] elbette hükmünü verecektir
-**(125)** 
+**(125)** hikmetle ve güzel öğütle Rabbinin yoluna çağır ve o en güzel (biçimde) onlarla mücadele et kuşkusuz Rabbin[Allah] işte O’dur yolundan sapan(ları) kimseleri en iyi bilen ve O hidayete erenleri (en iyi) bilendir 
 **(126)** 
 **(127)** 
 **(128)** 
