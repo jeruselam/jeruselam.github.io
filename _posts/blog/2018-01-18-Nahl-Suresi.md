@@ -131,9 +131,9 @@ tag:
 **(119)** sonra şüphesiz Rabbin[Allah] cehaletle kötülük işleyen(ler) kimseler için sonra bunun ardından tevbe edenler (için) ve uslananlar (için) elbette Rabbin[Allah] bunlardan sonra [ğafūr]bağışlayandır [raHīm]esirgeyendir
 **(120)** Allah’ı birleyen O’na ita’at eden İbrahim şüphesiz bir ümmet idi ve ortak[şirk] koşanlardan değildi
 **(121)** O’nun ni’metlerine şükredici idi onu seçmiş ve doğru yola iletmişti
-**(122)** 
-**(123)** 
-**(124)** 
+**(122)** ve ona dünyada iyilik vermiştik şüphesiz O ahirette de iyilerdendir
+**(123)** sonra sana vahyettik hanif olan İbrahim’in yoluna uy ve ortak[şirk] koşanlardan değildi
+**(124)**şüphesiz onun cumartesi günü ayrılığa düşen(ler) kimseler üzerinde  (farz) kılındı ve şüphesiz onda ayrılığa düştükleri şey hakkında kıyamet günü aralarında Rabbin[Allah] elbette hükmünü verecektir
 **(125)** 
 **(126)** 
 **(127)** 
