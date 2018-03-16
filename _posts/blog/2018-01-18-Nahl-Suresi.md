@@ -128,8 +128,8 @@ tag:
 **(116)** ve dillerinizin yalan nitelendirmesinden ötürü şu helaldir şu ise haramdır demeyin Allah’a karşı sonra yalan uydurmuş olursunuz şüphesiz Allah’a karşı yalan uyduran(lar) kimseler iflah olmazlar
 **(117)** azıcık bir mefaattir ve onlara acıklı bir azab vardır
 **(118)** ve bundan önce sana anlattıklarımızı Yahudi olanlara da haram kılmıştık onlara zulmediyor değildik fakat onlar kendilerine zulm ediyorlardı
-**(119)** 
-**(120)** 
+**(119)** sonra şüphesiz Rabbin[Allah] cehaletle kötülük işleyen(ler) kimseler için sonra bunun ardından tevbe edenler (için) ve uslananlar (için) elbette Rabbin[Allah] bunlardan sonra [ğafūr]bağışlayandır [raHīm]esirgeyendir
+**(120)** Allah’ı birleyen O’na ita’at eden İbrahim şüphesiz bir ümmet idi ve ortak[şirk] koşanlardan değildi
 **(121)** 
 **(122)** 
 **(123)** 
