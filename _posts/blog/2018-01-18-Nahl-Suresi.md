@@ -123,8 +123,8 @@ tag:
 **(111)** o gün gelir her nefis kendi canı için uğraşır ve herkese[herbir] nefse yaptığının tam karşılığı verilir onlara asla haksızlık edilmez
 **(112)** ve bir kenti misaliyle Allah misal[örnek] verir güven huzur içinde idi her yerden bol bol rızkı kendisine geliyordu Allah’ın ni’metlerine fakat nankörlük etti (bunun üzerine) ona Allah yapıyor(lar) oldukları[ndan] ötürü açlık ve korku elbisesi taddırdı
 **(113)** ve kendilerinden bir elçi andolsun onlara geldi onu yalanladılar ve onlar zulümlerine devam ederken azab onları yakalayıverdi
-**(114)** 
-**(115)** 
+**(114)** helal ve hoş (olarak) Allah’ın size verdiği rızıktan yeyin ve Allah’ın ni’metine şükredin eğer O’na kulluk ediyorsanız
+**(115)** size ölüyü ve kanı ve domuz etini ve Allah’tan başkasının adına kesilen şeyi şüphesiz haram kıldı kim mecbur kalırsa saldırmadan ve sınırı da aşmadan şüphesiz Allah [ğafūr]bağışlayandır [raHīm]esirgeyendir
 **(116)** 
 **(117)** 
 **(118)** 
