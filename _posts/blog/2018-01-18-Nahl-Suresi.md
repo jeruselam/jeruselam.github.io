@@ -125,7 +125,7 @@ tag:
 **(113)** ve kendilerinden bir elçi andolsun onlara geldi onu yalanladılar ve onlar zulümlerine devam ederken azab onları yakalayıverdi
 **(114)** helal ve hoş (olarak) Allah’ın size verdiği rızıktan yeyin ve Allah’ın ni’metine şükredin eğer O’na kulluk ediyorsanız
 **(115)** size ölüyü ve kanı ve domuz etini ve Allah’tan başkasının adına kesilen şeyi şüphesiz haram kıldı kim mecbur kalırsa saldırmadan ve sınırı da aşmadan şüphesiz Allah [ğafūr]bağışlayandır [raHīm]esirgeyendir
-**(116)** 
+**(116)** ve dillerinizin yalan nitelendirmesinden ötürü şu helaldir şu ise haramdır demeyin Allah’a karşı sonra yalan uydurmuş olursunuz şüphesiz Allah’a karşı yalan uyduran(lar) kimseler iflah olmazlar
 **(117)** 
 **(118)** 
 **(119)** 
