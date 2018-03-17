@@ -139,5 +139,5 @@ tag:
 **(127)** 
 **(128)** 
 
-[![16Nahl-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")]({{site.url}})
+[![16Nahl-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")](https://jeruselam.github.io)
 
