@@ -134,10 +134,10 @@ tag:
 **(122)** ve ona dünyada iyilik vermiştik şüphesiz O ahirette de iyilerdendir
 **(123)** sonra sana vahyettik hanif olan İbrahim’in yoluna uy ve ortak[şirk] koşanlardan değildi
 **(124)**şüphesiz onun[içinde] ayrılığa düşen(ler) kimseler üzerinde cumartesi günü (farz) kılındı ve şüphesiz onda ayrılığa düştükleri şey hakkında kıyamet günü aralarında Rabbin[Allah] elbette hükmünü verecektir
-**(125)** hikmetle ve güzel öğütle Rabbinin yoluna çağır ve o en güzel (biçimde) onlarla mücadele et kuşkusuz Rabbin[Allah] işte O’dur en iyi bilen, yolundan sapan(ları) kimseleri ve O hidayete erenleri (en iyi) bilendir 
-**(126)** 
-**(127)** 
-**(128)** 
+**(125)** hikmetle ve güzel öğütle Rabbinin yoluna çağır ve o en güzel (biçimde) onlarla mücadele et kuşkusuz Rabbin[Allah] en iyi bilen işte O’dur, yolundan sapan(ları) kimseleri ve O hidayete erenleri (en iyi) bilendir 
+**(126)** ve eğer ceza verecekseniz onunla size verilen cezanın aynısını ceza verin ama sabdederseniz andolsun ki o sabredenler için daha iyidir
+**(127)** ve sabret senin sabrın Allah(ın yardımından) başka değildir ve onlara üzülme ve kurdukları tuzaklardan sıkıntıya düşme
+**(128)** çünkü Allah korunan(larla) kimselerle beraberdir ve onlar iyilik eden(lerle) kimselerle
 
 [![16Nahl-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")](https://jeruselam.github.io)
 
