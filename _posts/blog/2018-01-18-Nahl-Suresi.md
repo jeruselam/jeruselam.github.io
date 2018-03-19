@@ -85,7 +85,7 @@ tag:
 **(73)** ve Allah’tan başka göklerden ve hiçbir yerden asla kendilerine rızık veremeyecek ve bunu asla yapamayacak olan[a] tapıyorlar
 **(74)** Allah’a meseller[eşdeğer] benzetmeler yapmayın çünkü Allah bilir siz ise bilmezsiniz
 **(75)** hiçbir şeye gücü yetmeyen başkasının malı olan bir köle misaliyle Allah misal verir ve güzel rızık ile katımızdan rızıklandırdığımız kimseyi ki o gizli ve açık ondan infak eder bunlar eşit olurlar mı? Hamd Allah’adır fakat çokları bilmezler
-**(76)** ve (şu) iki adamı misaliyle Allah misal verir birisi dilsizdir hiçbir şeye gücü yetmez ve o efendisinin üzerine bir yüktür nereye onu gönderse bir hayır getirmez ve doğru yol üzere (giden) o (kimse) ve adaleti emreden kimse o gibi olur mu?
+**(76)** ve (şu) iki adamı misaliyle Allah misal verir birisi dilsizdir hiçbir şeye gücü yetmez ve o efendisinin üzerine bir yüktür onu nereye gönderse bir hayır getirmez ve o doğru yol üzere (giden) ve adaleti emreden kimse gibi olur mu?
 **(77)** göklerin ve yerin gaybı Allah’a aittir ve sa’atin (kıyametin) [emir]işi  (başka) değildir ancak bir göz açıp yumma gibidir yahut o daha yakın(kısa)dır şüphesiz Allah her şey üzerine gücü yetendir
 **(78)** ve hiçbir şey bilmezken annelerinizin karınlarından Allah sizi çıkardı ve size işitme ve gözler ve gönüller verdi umulur ki şükredersiniz
 **(79)** göğün boşluğunda O’nun emrine boyun eğdirilmiş kuşlara bakmadılar mı? Allah’tan başka onları tutan yoktur inanan bir kavim için bunda ayetler şüphesiz vardır
