@@ -59,7 +59,7 @@ tag:
 **(47)** yahut bir korku üzerinde kendilerini yakalamayacağından? doğrusu Rabbiniz çok şefkatlidir çok acıyandır
 **(48)** Allah’ın yarattığı şeyleri görmediler mi? Allah’a secde ederek ve onlar sürünerek sağdan ve soldan gölgelerinin [güneşin batmasına doğru] her şeyden döndüğünü
 **(49)** ve meleklerden ve canlılardan yerde ne varsa ve göklerde ne varsa Allah’a secde ederler ve onlar asla büyük taslamazlar
-**(50)** üstlerindeki[yüksek derecede] Rablerinden korkarlar ve emredildikleri şeyi yaparlar
+**(50)** üstlerindeki[yüksek derecedeki yüce] Rablerinden korkarlar ve emredildikleri şeyi yaparlar
 **(51)** ve Allah dedi iki [ilah]tanrı edinmeyin şüphesiz O tek [ilah]Tanrıdır  yalnız benden korkun
 **(52)** göklerde ve yerde ne varsa ve daima din[İslam şeriatı] (kulluk) O’nundur Allah’tan başkasından mı? korkuyorsunuz
 **(53)** size (ulaşan) her ni’met Allah'tandır sonra bir sıkıntı size dokunduğu zaman yalnız O’na yalvarırsınız
