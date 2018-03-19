@@ -22,7 +22,7 @@ tag:
 **(10)** sizin için gökten bir su indiren O’dur içeceğ(iniz) ondandır ve onda hayvanları otlattığınız (bitkiler) ondandır
 **(11)** onunla size ekinler ve zeytin ve hurma ve üzümler ve her çeşitten meyvalar bitirmektedir düşünen bir toplum için şüphesiz bunda ibret vardır 
 **(12)** geceyi ve gündüzü ve güneşi ve ay’ı sizin hizmetinize verdi ve O’nun emriyle yıldızlar da boyun eğdirilmiştir aklını kullanan bir toplum için şüphesiz bunda ibretler vardır
-**(13)** ve yeryüzünde çeşitli renklerdeki sizin için yarattıklarında vardır öğüt alan bir toplum için şüphesiz bunda ibret vardır
+**(13)** ve yeryüzünde çeşitli renklerdeki sizin için yarattıklarında vardır, öğüt alan bir toplum için şüphesiz bunda ibret vardır
 **(14)** ondan taptaze et yemeniz için ve ondan kuşanacağınız süsler çıkarmanız için denizi hizmetinize veren O’dur ve görüyorsun ki O’nun lutfunu aramanız için onun içinde gemiler denizi yara yara gitmektedir ve olur ki şükredersiniz
 **(15)** ve sizi sarsmasın diye yeryüzüne dağlar ve ırmaklar ve yollar [bırakıp]attı umulur ki doğru yolu bulursunuz
 **(16)** ve (nice) işaretler ve yıldız(lar)la onlar yol bulurlar
@@ -45,7 +45,7 @@ tag:
 **(33)** meleklerin kendilerine gelmesini ille bekliyorlar mi? yahut Rabbinin emrinin gelmesini onlardan önceki kimseler (de) öyle yapmıştı Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
 **(34)** yaptıklarının kötülükleri nihayet onlara ulaştı ve onunla alay ettikleri şey onları kuşattı
 **(35)** ve ortak[şirk] koşan(lar) kimseler dediler eğer Allah dileseydi O’ndan başka hiçbir şeye (ne) biz ne de atalarımız tapmazdık ve hiçbir şeyi O’nsuz[ayrı olarak] haram kılmazdık onlardan önceki(ler) kimseler de böyle yapmıştı elçilere düşen yalnız açıkça tebliğ etmek değil midir?
-**(36)** ve andolsun her millet içinde biz bir elçi gönderdik Allah’a kulluk edin ve tagutdan kaçının diye onlardan kimine Allah hidayet etti ve onlardan kimine de sapıklık üzerlerine hak oldu yeryüzünde işte gezin ve yalanlayanların sonu bakın nasıl olmuş 
+**(36)** ve andolsun her millet içinde biz bir elçi gönderdik Allah’a kulluk edin ve tağutdan kaçının diye onlardan kimine Allah hidayet etti ve onlardan kimine de sapıklık üzerlerine hak oldu yeryüzünde işte gezin ve yalanlayanların sonu bakın nasıl olmuş 
 **(37)** şayet onların yola gelmelerini ne kadar istesen de kuşkusuz Allah şaşırttığı kimseyi yola getirmez ve onların hiçbir yardımcıları olmaz
 **(38)** ve yeminlerinin bütün şiddetiyle Allah’a yemin ettiler ölen kimseyi Allah diriltmez (diye) hayır gerçek olarak O’nun onlara verdiği sözdür ama insanların çoğu bilmezler
 **(39)** hakkında ihtilaf ettiklerini onlara açıklasın (diye) ve onların [katiyyen o]yalancılar olduklarını inkar eden(ler)[kafir] kimseler bilsinler (diye)
