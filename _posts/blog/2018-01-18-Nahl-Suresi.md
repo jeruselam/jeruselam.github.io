@@ -66,7 +66,7 @@ tag:
 **(54)** sonra sizden o sıkıntıyı kaldırdığı zaman içinizden bir grup hemen Rablerine ortak koşarlar
 **(55)** kendilerine verdiğimize karşı nankörlük etmek için, öyleyse eğlenin[menfaat sağlayın] yakında bileceksiniz
 **(56)** ve verdiğimiz rızıktan bir pay[hisseyi] bilmedikleri şeylere ayırıyorlar Allah’a andolsun ki uyduruyorlar [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
-**(57)** ve [bebek]kızları Allah’a isnad ediyorlar[ayırıyorlar] şanı yüce olan ve kendilerine de [eşit yaparak]hoşlandıklarını
+**(57)** ve şanı yüce olan Allah’a [bebek]kızları ve kendilerine de [eşit yaparak]hoşlandıklarını isnad ediyorlar[ayırıyorlar]
 **(58)** kız çocuğu onlardan birine müjdelendiği zaman [kuruntulu]kapkara yüzü [gölge]kesilir ve o içi öfkeyle dolar
 **(59)** ona verilen müjdenin kötülüğünden dolayı kavminden gizlenir hakaretle onu tutsun mu? yoksa onu gömsün mü? toprağa bak ne kötü hüküm veriyorlar
 **(60)** en kötü sıfatlar ahirete inanmayanlar içindir (oysa) en yüce sıfatlar Allah’ındır ve O azizdir [Hakīm]hikmet sahibidir
