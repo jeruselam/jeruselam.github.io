@@ -98,7 +98,7 @@ tag:
 **(86)** ve ortak koşan(lar) kimseler ortak koştuklarını gördükleri zaman derler ki Rabbimiz işte (bunlar) senden başka tapıyor olduğumuz ortaklarımız, şu sözle onlara söz atarlar siz tamamen yalancılarsınız
 **(87)** ve Allah’a o gün teslim olurlar ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
 **(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar yaptıkları bozgunculuklarından dolayı azaplarının üstüne azabı artırırız onlara
-**(89)** ve kendi aralarından üzerlerine bir şahid her ümmet içinde getireceğimiz gün bunların üzerine seni de şahid getireceğiz ve yol gösterici olarak ve rahmet olarak ve müslümanlara müjde olarak ve her şeyi açıklayan bu Kitabı sana indirdik
+**(89)** ve kendi aralarından üzerlerine bir şahid her ümmet içinde getireceğimiz gün bunların üzerine seni de şahid getireceğiz ve müslümanlara müjde olarak ve rahmet olarak ve yol gösterici olarak ve her şeyi açıklayan bu Kitabı sana indirdik
 **(90)** şüphesiz Allah adaleti ve ihsanı ve akrabaya [getirip]vermeyi emreder ve edepsizlikten ve fenalıktan ve azgınlıktan meneder size böyle öğüt verir umulur ki öğüt alırsınız (diye)
 **(91)** andlaşma yaptığınız[sözleştiğiniz] zaman Allah’ın [sözünü]ahdini tam yerine getirin ve pekiştirdikten sonra yeminleri asla bozmayın çünkü Allah’ı üzerinize kefil (şahid) yaptınız şüphesiz Allah yaptıklarınız şeyleri bilir
 **(92)** ve bir topluluk diğer bir topluluktan daha çok olduğu için yeminlerinizi aranızda bozucu bir vasıta yaparak kuvvetli büktükten sonra ipliğini çözen kadın gibi asla olmayın çünkü bununla Allah sizi dener ve hakkında ayrılığa düştüğünüz [ihtilaf halinde]olduğunuz şeyleri kıyamet günü size açıklayacaktır
