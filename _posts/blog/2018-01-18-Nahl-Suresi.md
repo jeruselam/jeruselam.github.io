@@ -95,7 +95,7 @@ tag:
 **(83)** Allah'ın ni'metini bilirler sonra da bunu inkar ederler ve çokları da [kafirlerde]inkar ederler
 **(84)** ve her ümmetten bir şahid getirdiğimiz gün artık inkar eden(lere) kimselere izin verilmez ve ne de onların özür dilemeleri istenir
 **(85)** ve azabı zulmeden kimseler gördükleri zaman artık onlardan hafifletilmez ve asla onlara fırsat verilmez
-**(86)** ve ortak koştuklarını ortak koşan(lar) kimseler gördükleri zaman derler ki Rabbimiz işte (bunlar) senden başka tapıyor olduğumuz ortaklarımız şu sözle onlara söz atarlar siz tamamen yalancılarsınız
+**(86)** ve ortak koşan(lar) kimseler ortak koştuklarını gördükleri zaman derler ki Rabbimiz işte (bunlar) senden başka tapıyor olduğumuz ortaklarımız, şu sözle onlara söz atarlar siz tamamen yalancılarsınız
 **(87)** ve Allah’a o gün teslim olurlar ve uyduruyor(lar) oldukları şeyler kendilerinden sapıp gider
 **(88)** inkar eden(ler) kimseler ve Allah’ın yolundan engel olanlar yaptıkları bozgunculuklarından dolayı azaplarının üstüne artırırız onlara azabı
 **(89)** ve kendi aralarından üzerlerine bir şahid her ümmet içinde getireceğimiz gün bunların üzerine seni de şahid getireceğiz ve yol gösterici olarak ve rahmet olarak ve müslümanlara müjde olarak ve her şeyi açıklayan bu Kitabı sana indirdik
