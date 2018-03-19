@@ -105,7 +105,7 @@ tag:
 **(93)** şayet Allah dileseydi hepinizi bir tek ümmet yapardı fakat dilediği kimseyi şaşırtır ve dilediği kimseyi doğru yola iletir ve yapıyor(lar) olduğunuz şeylerden siz mutlaka sorulacaksınız 
 **(94)** yeminlerinizi aranızı bozan bir şey yapmayın sağlam bastıktan sonra ayak kayar ve Allah’ın yoludan engel olduğunuzdan dolayı kötülüğü tadarsınız ve sizin için büyük bir azab vardır
 **(95)** ve az bir paraya Allah’a verdiğiniz sözü asla satmayın şüphesiz Allah’ın yanında olan o sizin için daha hayırlıdır eğer bilirseniz 
-**(96)** sizin yanınızda bulunan tükenir Allah’ın yanında bulunan ise kalıcıdır yapıyor(lar) olduklarının en güzeliyle sabreden(lerin) kimselerin karşılığını elbette vereceğiz
+**(96)** sizin yanınızda bulunan tükenir Allah’ın yanında bulunan ise kalıcıdır yapıyor(lar) olduklarının en güzeliyle, sabreden(lerin) kimselerin karşılığını elbette vereceğiz
 **(97)** o inanmış olarak erkekten veya kadından her kim iyi bir iş yaparsa hoş bir hayatla onu yaşatırız ve yapıyor(lar) olduklarının en güzeliyle onların ücretini elbette veririz
 **(98)** Kur’an okuduğun zaman kovulmuş şeytandan Allah’a sığın 
 **(99)** çünkü inananlar üzerinde ve Rablerine dayananlar üzerinde o(şeyta)nın bir gücü yoktur
@@ -113,7 +113,7 @@ tag:
 **(101)** ve bir ayet yerine bir ayeti değiştirdiğimiz zaman ve Allah bilirken ne indirdiğini şüphesiz derler sen iftira ediyorsun hayır onların çokları bilmiyorlar
 **(102)** de ki inanan(ları) kimseleri sağlamlaştırmak için gerçek olarak ve yol gösterici ve müslümanlara müjde olarak Rabbinden Ruhu’l Kudüs onu indirdi
 **(103)** ve elbette onların muhakkak bir insan ona öğretiyor dediklerini biliyoruz ona nisbet ettikleri şahsın dili a’cemi (yabancıdır) bu ise apaçık Arapça bir dildir
-**(104)** şüphesiz Allah’ın ayetlerine inanmayan(ları) kimseleri Allah doğru yola iletmez acıklı bir azab onlar için vardır
+**(104)** şüphesiz Allah’ın ayetlerine inanmayan(ları) kimseleri Allah doğru yola iletmez, acıklı bir azab onlar için vardır
 **(105)** şüphesiz ancak Allah’ın ayetlerine inanmayan(lar) kimseler yalanı uydurur işte yalancılar onlardır
 **(106)** (inkara) zorlanan kimseler hariç inandıktan sonra Allah’ı inkar eden ve kalbi imanla mutmain olduğu halde fakat [kalben]göğsünü [inkar eden]küfre açan kimselere Allah'tan bir gazab üzerlerine iner ve büyük bir azab onlar için vardır
 **(107)** bu böyledir şüphesiz onların ahirete dünya hayatını tercih etmelerindendir ve şüphesiz Allah’ın inkar eden kavmi doğru yola iletmeyeceğindendir
