@@ -80,7 +80,7 @@ tag:
 **(68)** bal arısına Rabbin şöyle vahyetti dağlardan ve ağaçlardan ve kurdukları çardaklardan[damlardan] evler edin
 **(69)** sonra her çeşit meyvalardan ye ve boyun eğerek Rabbinin yollarında yürü onun karınlarından renkleri çeşit çeşit bir içecek çıkar onda insanlara şifa vardır şüphesiz bunda düşünen [bir peygambere bağlı ve tabi]bir millet için elbette bir ibret vardır
 **(70)** ve Allah sizi yarattı sonra öldürür ve biraz bilgiden sonra hiçbir şeyi bilmez olsun diye ömrün en reziline içinizden kimi itilir doğrusu Allah [ǎlīm]bilendir kadirdir
-**(71)** rızıkta kiminiz üzerine kiminizi Allah üstün kıldı onda eşit olacak şekilde onlar ellerinin altında bulunanlara kendi rızıklarını verip de üstün kılınanlar değildir Allah’ın ni’metini mi? inkar ediyorlar
+**(71)** Allah rızıkta kiminiz üzerine kiminizi üstün kıldı ellerinin altında bulunanlara kendi rızıklarını verip de üstün kılınanlar değildir onlar onda eşit olacak şekilde Allah’ın ni’metini mi? inkar ediyorlar
 **(72)** Allah size kendi nefislerinizden eşler yarattı ve size eşlerinizden oğullar ve torunlar yarattı ve güzel rızıklarla sizi besledi hâlâ batıla mı? inanıyorlar ve Allah’ın ni’metine onlar nankörlük ediyorlar
 **(73)** ve Allah’tan başka göklerden ve hiçbir yerden asla kendilerine rızık veremeyecek ve bunu asla yapamayacak olan[a] tapıyorlar
 **(74)** Allah’a meseller[eşdeğer] benzetmeler yapmayın çünkü Allah bilir siz ise bilmezsiniz
