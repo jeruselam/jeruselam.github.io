@@ -76,7 +76,7 @@ tag:
 **(64)** ve inanan bir kavim için rahmet ve yol gösterici ve hakkında ayrılığa düştükleri şeyi onlara açıklaman dışında Kitabı sana indirmedik 
 **(65)** ve Allah gökten bir su indirdi ve ölümünden sonra yeri onunla diriltti şüphesiz işiten [bir peygambere bağlı ve tabi]bir millet için bunda elbette ibret(ler) vardır
 **(66)** ve şüphesiz sizin için hayvanlarda ibret(ler) vardır içenler için lezzetli halis süt, onların karınlarında fışkı ile kan arasıdan olandan size içiriyoruz
-**(67)** ve hurma ağaçlarının meyvalarından ve üzümlerden onlardan sarhoşluk ve güzel bir rızık elde edersiniz şüphesiz bunda aklını kullanan bir toplum için elbette ibret(ler) vardır
+**(67)** ve hurma ağaçlarının meyvalarından ve üzümlerden onlardan [mest eden]sarhoşluk ve güzel bir rızık elde edersiniz şüphesiz bunda aklını kullanan bir toplum için elbette ibret(ler) vardır
 **(68)** bal arısına Rabbin şöyle vahyetti dağlardan ve ağaçlardan ve kurdukları çardaklardan[damlardan] evler edin
 **(69)** sonra her çeşit meyvalardan ye ve boyun eğerek Rabbinin yollarında yürü onun karınlarından renkleri çeşit çeşit bir içecek çıkar onda insanlara şifa vardır şüphesiz bunda düşünen [bir peygambere bağlı ve tabi]bir millet için elbette bir ibret vardır
 **(70)** ve Allah sizi yarattı sonra öldürür ve içinizden kimi bilgiden biraz sonra hiçbir şeyi bilmez olsun diye ömrün en reziline itilir doğrusu Allah [ǎlīm]bilendir kadirdir
