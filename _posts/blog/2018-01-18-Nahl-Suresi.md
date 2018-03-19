@@ -103,7 +103,7 @@ tag:
 **(91)** andlaşma yaptığınız[sözleştiğiniz] zaman Allah’ın [sözünü]ahdini tam yerine getirin ve pekiştirdikten sonra yeminleri asla bozmayın çünkü Allah’ı üzerinize kefil (şahid) yaptınız şüphesiz Allah yaptıklarınız şeyleri bilir
 **(92)** ve bir topluluk diğer bir topluluktan daha çok olduğu için yeminlerinizi aranızda bozucu bir vasıta yaparak, kuvvetli büktükten sonra ipliğini çözen kadın gibi asla olmayın çünkü bununla Allah sizi dener ve hakkında ayrılığa düştüğünüz [ihtilaf halinde]olduğunuz şeyleri kıyamet günü size açıklayacaktır
 **(93)** şayet Allah dileseydi hepinizi bir tek ümmet yapardı fakat dilediği kimseyi şaşırtır ve dilediği kimseyi doğru yola iletir ve yapıyor(lar) olduğunuz şeylerden siz mutlaka sorulacaksınız 
-**(94)** yeminlerinizi aranızı bozan bir şey yapmayın sağlam bastıktan sonra ayak kayar ve Allah’ın yoludan engel olduğunuzdan dolayı kötülüğü tadarsınız ve büyük bir azab sizin için vardır
+**(94)** yeminlerinizi aranızı bozan bir şey yapmayın sağlam bastıktan sonra ayak kayar ve Allah’ın yoludan engel olduğunuzdan dolayı kötülüğü tadarsınız ve sizin için büyük bir azab vardır
 **(95)** ve az bir paraya Allah’a verdiğiniz sözü asla satmayın şüphesiz Allah’ın yanında olan o, eğer bilirseniz sizin için daha hayırlıdır 
 **(96)** sizin yanınızda bulunan tükenir Allah’ın yanında bulunan ise kalıcıdır yapıyor(lar) olduklarının en güzeliyle sabreden(lerin) kimselerin karşılığını elbette vereceğiz
 **(97)** o inanmış olarak erkekten veya kadından her kim iyi bir iş yaparsa hoş bir hayatla onu yaşatırız ve yapıyor(lar) olduklarının en güzeliyle onların ücretini elbette veririz
