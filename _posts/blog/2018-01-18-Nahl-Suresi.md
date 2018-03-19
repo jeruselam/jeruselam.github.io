@@ -57,7 +57,7 @@ tag:
 **(45)** Allah’ın kendilerini yer(in dibin)e geçirmeyeceğinden [birisinin iyi ve kötü hallerini öğrenerek]kötülükler yapmayı kuran(lar) kimseler emin midirler? yahut hiç ummadıkları yerden hiçbir azabın kendilerine gelmeyeceğinden
 **(46)** yahut dönüp dolaşırlarken kendilerini yakalamayacağından? onlar engel olacak da değillerdir
 **(47)** yahut bir korku üzerinde kendilerini yakalamayacağından? doğrusu Rabbiniz çok şefkatlidir çok acıyandır
-**(48)** her şeyden Allah’ın yarattığı şeyleri görmediler mi? Allah’a secde ederek ve onlar sürünerek sağdan ve soldan gölgelerinin [güneşin batmasına doğru] döndüğünü
+**(48)** Allah’ın yarattığı şeyleri görmediler mi? Allah’a secde ederek ve onlar sürünerek sağdan ve soldan gölgelerinin [güneşin batmasına doğru] her şeyden döndüğünü
 **(49)** ve meleklerden ve canlılardan yerde ne varsa ve göklerde ne varsa Allah’a secde ederler ve onlar asla büyük taslamazlar
 **(50)** üstlerindeki[yüksek derecede] Rablerinden korkarlar ve emredildikleri şeyi yaparlar
 **(51)** ve Allah dedi iki [ilah]tanrı edinmeyin şüphesiz O tek [ilah]Tanrıdır  yalnız benden korkun
