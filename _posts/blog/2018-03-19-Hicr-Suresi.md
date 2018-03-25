@@ -22,7 +22,7 @@ tag:
 **(10)** ve andolsun geçmiş milletlerin içine senden önceki elçiler[i] gönderdik
 **(11)** onunla alay ediyor olmadıkları hiçbir elçi onlara gelmezdi
 **(12)** suçluların kalbleri içine işte böyle onu sokarız
-**(13)** 
+**(13)** öncekilerin sünneti [terkedilerek gelip]geçtiği halde elbette ona inanmazlar
 **(14)** 
 **(15)** 
 **(16)** 
