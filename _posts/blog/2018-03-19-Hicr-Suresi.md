@@ -18,10 +18,10 @@ tag:
 **(6)** dediler ki kendisine Zikir (Kitap) indirilmiş olan ey kimse sen mutlaka delisin
 **(7)** eğer salihlerden isen melekleri neden bize getirmiyorsun
 **(8)** hak ile olmaksızın melekleri biz indirmeyiz ve onların o zaman da mühletleri olmaz
-**(9)** 
-**(10)** 
-**(11)** 
-**(12)** 
+**(9)** O Zikri (Kitap)ı şüphesiz biz indirdik ve O’nun koruyucuları elbette biziz
+**(10)** ve andolsun geçmiş milletlerin içine senden önceki elçiler[i] gönderdik
+**(11)** onunla alay ediyor olmadıkları hiçbir elçi onlara gelmezdi
+**(12)** suçluların kalbleri içine işte böyle onu sokarız
 **(13)** 
 **(14)** 
 **(15)** 
