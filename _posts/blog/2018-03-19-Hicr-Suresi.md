@@ -25,10 +25,10 @@ tag:
 **(13)** öncekilerin sünneti [terkedilerek gelip]geçtiği halde elbette ona inanmazlar
 **(14)** gökten bir kapı onlara açsak da şayet oraya çıkacak olsalardı
 **(15)** doğrusu biz büyülenmiş bir topluluğuz gözlerimiz döndürüldü herhalde derlerdi
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
+**(16)** ve andolsun biz gökte burçlar yaptık ve bakanlar için onu süsledik
+**(17)** ve [kovularak] (taşlanmış) her şeytandan onu koruduk
+**(18)** ancak kulak hırsızlığı eden kimse hariçtir parlak bir alev onu kovalar
+**(19)** ve arzı yaydık ve oraya sağlam dağlar attık ve ölçülü mütenasib her şey(den) orada bitirdik
 **(20)** 
 **(21)** 
 **(22)** 
