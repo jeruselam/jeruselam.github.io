@@ -23,8 +23,8 @@ tag:
 **(11)** onunla alay ediyor olmadıkları hiçbir elçi onlara gelmezdi
 **(12)** suçluların kalbleri içine işte böyle onu sokarız
 **(13)** öncekilerin sünneti [terkedilerek gelip]geçtiği halde elbette ona inanmazlar
-**(14)** 
-**(15)** 
+**(14)** gökten bir kapı onlara açsak da şayet oraya çıkacak olsalardı
+**(15)** doğrusu biz büyülenmiş bir topluluğuz gözlerimiz döndürüldü herhalde derlerdi
 **(16)** 
 **(17)** 
 **(18)** 
