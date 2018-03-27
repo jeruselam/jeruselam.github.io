@@ -30,10 +30,10 @@ tag:
 **(18)** ancak kulak hırsızlığı eden kimse hariçtir parlak bir alev onu kovalar
 **(19)** ve arzı yaydık ve oraya sağlam dağlar attık ve ölçülü mütenasib her şey(den) orada bitirdik
 **(20)** ve sizin için ve onları rızıklandırıcı olmadığınız canlılar için orada [hayati]geçimlikler var ettik
-**(21)** ve hiçbir şey yoktur [şüphesiz her şeyin] hazineleri sadece bizim yanımızdadır ve biz bilinen bir miktar dışında indirmeyiz
-**(22)** 
-**(23)** 
-**(24)** 
+**(21)** ve hiçbir şey yoktur [şüphesiz her şeyin] hazineleri sadece bizim yanımızdadır ve bilinen bir miktar dışında biz indirmeyiz
+**(22)** ve aşılayıcı olarak rüzgarları gönderdik gökten su indirdik böylece sizi suladık ve onu depolayan siz değilsiniz
+**(23)** biziz elbette biz yaşatırız ve öldürürüz ve gerçek varis olan biziz
+**(24)** sizden önce geçenleri andolsun biliriz ve geri kalanları da elbette biliriz
 **(25)** 
 **(26)** 
 **(27)** 
