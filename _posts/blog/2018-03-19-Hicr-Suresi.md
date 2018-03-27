@@ -29,7 +29,7 @@ tag:
 **(17)** ve [kovularak] (taşlanmış) her şeytandan onu koruduk
 **(18)** ancak kulak hırsızlığı eden kimse hariçtir parlak bir alev onu kovalar
 **(19)** ve arzı yaydık ve oraya sağlam dağlar attık ve ölçülü mütenasib her şey(den) orada bitirdik
-**(20)** 
+**(20)** ve sizin için ve onları rızıklandırıcı olmadığınız canlılar için orada [hayati]geçimlikler var ettik
 **(21)** 
 **(22)** 
 **(23)** 
