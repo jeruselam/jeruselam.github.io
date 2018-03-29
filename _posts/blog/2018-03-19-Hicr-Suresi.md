@@ -34,9 +34,9 @@ tag:
 **(22)** ve aşılayıcı olarak rüzgarları gönderdik gökten su indirdik böylece sizi suladık ve onu depolayan siz değilsiniz
 **(23)** biziz elbette biz yaşatırız ve öldürürüz ve gerçek varis olan biziz
 **(24)** sizden önce geçenleri andolsun biliriz ve geri kalanları da elbette biliriz
-**(25)** 
-**(26)** 
-**(27)** 
+**(25)** ve gerçekten onları toplayacak olan O Rabbindir muhakak O Hakîmdir Bilendir
+**(26)** ve andolsun [kokusu]değişmiş[şekillendirilmiş] cıvık balçıktan pişmemiş[kurumuş] çamurdan insanı biz yarattık
+**(27)** ve nüfuz eden ateşten daha önce Cinleri yarattık
 **(28)** 
 **(29)** 
 **(30)** 
