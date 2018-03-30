@@ -48,10 +48,10 @@ tag:
 **(36)** dedi ki tekrar dirilecekleri güne kadar Rabbim (bari) beni ertele
 **(37)** haydi sen ertelenmişlerdensin dedi
 **(38)** bilinen vaktin gününe kadar
-**(39)** 
-**(40)** 
-**(41)** 
-**(42)** 
+**(39)** Rabbim beni azdırmandan ötürü onlara yer yüzünde andolsun (günahları) süsleyeceğim ve onları[sıkıntı ile yorarak] hepsini azdıracağım
+**(40)** içlerinden ihlâslı kulların ancak hariç
+**(41)** buyurdu ki dosdoğru bana varan yol işte budur
+**(42)** şüphesiz azgınlardan sana uyan kimseler dışında benim kullarım üzerinde senin bir gücün yoktur
 **(43)** 
 **(44)** 
 **(45)** 
