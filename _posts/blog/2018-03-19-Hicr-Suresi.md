@@ -37,13 +37,13 @@ tag:
 **(25)** ve gerçekten onları toplayacak olan O Rabbindir muhakak O Hakîmdir Bilendir
 **(26)** ve andolsun [kokusu]değişmiş[şekillendirilmiş] cıvık balçıktan pişmemiş[kurumuş] çamurdan insanı biz yarattık
 **(27)** ve nüfuz eden ateşten daha önce Cinleri yarattık
-**(28)** 
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
+**(28)** ve meleklere Rabbin bir zaman demişti ki muhakkak ben değişken[şekillendirilmiş] balçıktan kupkuru çamurdan bir insan yaratacağım 
+**(29)** onu [seviyelendirip]düzenlediğim zaman ve ruhumdan ona üflediğimde ona secdeye hemen kapanın
+**(30)** melekler hepsi topluca secde ettiler
+**(31)** yalnız İblis secde edenlerle beraber olmayı kabul etmedi
+**(32)** dedi ki secde edenlerle sen beraber olmadın sana ne (oldu) İblis
+**(33)** değişken bir balçıktan bir çamurdan yarattığın insana ben secde edemem dedi
+**(34)** oradan öyleyse çık dedi çünkü sen kovuldun
 **(35)** 
 **(36)** 
 **(37)** 
