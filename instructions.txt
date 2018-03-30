@@ -21,6 +21,7 @@ sudo gem update jekyll
 sudo gem install bundler
 bundle update
 bundle install
+bundle exec jekyll build
 
 sudo gem install jekyll bundler or gem install bundler
 
