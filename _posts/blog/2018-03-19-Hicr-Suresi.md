@@ -44,10 +44,10 @@ tag:
 **(32)** dedi ki secde edenlerle sen beraber olmadın sana ne (oldu) İblis
 **(33)** değişken bir balçıktan bir çamurdan yarattığın insana ben secde edemem dedi
 **(34)** oradan öyleyse çık dedi çünkü sen kovuldun
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
+**(35)** ve şüphesiz üzerine ceza gününe kadar la’net edilecektir
+**(36)** dedi ki tekrar dirilecekleri güne kadar Rabbim (bari) beni ertele
+**(37)** haydi sen ertelenmişlerdensin dedi
+**(38)** bilinen vaktin gününe kadar
 **(39)** 
 **(40)** 
 **(41)** 
