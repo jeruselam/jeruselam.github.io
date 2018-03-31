@@ -52,7 +52,7 @@ tag:
 **(40)** içlerinden ihlâslı kulların ancak hariç
 **(41)** buyurdu ki dosdoğru bana varan yol işte budur
 **(42)** şüphesiz azgınlardan sana uyan kimseler dışında benim kullarım üzerinde senin bir gücün yoktur
-**(43)** 
+**(43)** ve şüphesiz Cehennem onların hepsinin buluşma yeridir
 **(44)** 
 **(45)** 
 **(46)** 
