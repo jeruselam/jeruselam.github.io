@@ -94,9 +94,9 @@ tag:
 **(82)** ve dağlardan güvenli evler yontuyorlardı
 **(83)** fakat sabaha girerlerken (o) korkunç ses onları da yakaladı
 **(84)** kazanıyor(lar) oldukları şeyler kendilerinden hiçbir şeyi savamadı
-**(85)** 
-**(86)** 
-**(87)**
+**(85)** ve gökleri ve yeri ve ne de bunlar arasındakileri biz yaratmadık ancak hak ile (yarattık) ve mutlaka o sa’at gelecektir güzel bir hoşgörü ile şimdi sen hareket et
+**(86)** şüphesiz Rabbin[Allah] O yaratandır bilendir
+**(87)** ve ikililerden yedi[tekrarlananları] ve büyük Kur’an’ı andolsun sana verdik
 **(88)** 
 **(89)** 
 **(90)** 
