@@ -79,7 +79,7 @@ tag:
 **(67)** ve sevinerek şehrin halkı geldiler
 **(68)** şüphesiz bunlar benim konuğumdur dedi beni mahcubetmeyin
 **(69)** ve Allah’tan korkun ve beni rezil etmeyin
-**(70)** alemlerden seni menetmemiş miydik? dediler
+**(70)** alemlerden[dünyadan çok uzun zaman] seni menetmemiş miydik? dediler
 **(71)** 
 **(72)** 
 **(73)** 
