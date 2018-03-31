@@ -53,17 +53,17 @@ tag:
 **(41)** buyurdu ki dosdoğru bana varan yol işte budur
 **(42)** şüphesiz azgınlardan sana uyan kimseler dışında benim kullarım üzerinde senin bir gücün yoktur
 **(43)** ve şüphesiz Cehennem onların hepsinin buluşma yeridir
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
-**(51)** 
-**(52)** 
-**(53)** 
-**(54)** 
+**(44)** onun yedi kapısı vardır her kapıya onlardan bir [kısım]bölüm ayrılmıştır
+**(45)** muhakkak muttakiler cennetlerde pınar başlarındadırlar
+**(46)** güven içinde esenlikle oraya girin
+**(47)** göğüslerindeki olan kini çıkarıp atmışızdır divanlar üzerinde kardeşler olarak karşı karşıya otururlar
+**(48)** hiçbir yorgunluk orada onlara dokunmaz ve onlar oradan çıkarılacak değillerdir
+**(49)** kullarıma haber ver şüphesiz ben bağışlayanım esirgeyenim
+**(50)** fakat benim azabım o çok acı bir azabdır
+**(51)** İbrahim’in konuklarından onlara haber ver
+**(52)** ne zaman ki onun yanına girmediler ve Selam dediler dedi ki elbette biz sizden korkuyoruz
+**(53)** korkma dediler biz sana bilgin bir çocuk müjdeleriz
+**(54)** dedi ki ihtiyarlık bana dokunmasına (rağmen) beni mi müjdelediniz? ne tuhaf müjdeliyorsunuz
 **(55)** 
 **(56)** 
 **(57)** 
