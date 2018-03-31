@@ -72,14 +72,14 @@ tag:
 **(60)** ancak karısı hariç onun geri kalanlardan olmasını uygun gördük
 **(61)** ne zaman ki [Resul]Elçiler Lut ailesine geldiklerinde
 **(62)** şüphesiz siz hiç tanınmamış[akıllı hazır cevap] kimselersiniz dedi
-**(63)** dediler ki doğrusu biz sana hakkında şüphe etmekte olduklarını getirdik
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
+**(63)** dediler ki doğrusu biz hakkında şüphe etmekte olduklarını sana getirdik
+**(64)** ve gerçeği sana getirdik ve biz elbette doğru söyleyenleriz
+**(65)** gecenin bir parçasında aileni hemen yürüt ve arkalarından git içinizden hiç kimse ardına dönüp bakmasın ve emredildiğiniz yere gidin
+**(66)** ve şu buyruğu ona bildirdik mutlaka şunların arkaları sabaha girerlerken kesilecektir
+**(67)** ve sevinerek şehrin halkı geldiler
+**(68)** şüphesiz bunlar benim konuğumdur dedi beni mahcubetmeyin
+**(69)** ve Allah’tan korkun ve beni rezil etmeyin
+**(70)** alemlerden seni menetmemiş miydik? dediler
 **(71)** 
 **(72)** 
 **(73)** 
