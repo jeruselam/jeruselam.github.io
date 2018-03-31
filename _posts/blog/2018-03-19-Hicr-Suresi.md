@@ -100,14 +100,14 @@ tag:
 **(88)** onunla onlardan bazı çiftlere verdiğimiz dünyalığa gözlerini dikme ve onlara üzülme ve mü’minlere kanadını indir
 **(89)** ve de ki ben ancak ben apaçık bir uyarıcıyım
 **(90)** [bölük bölük]kısımlara ayıranlara indirdiğimiz gibi
-**(91)**
-**(92)** 
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
-**(99)**
+**(91)** onlar ki Kur’an’ı bölük bölük ettiler
+**(92)** Rabbin hakkı için hepsine biz mutlaka soracağız
+**(93)** yaptıkları şeylerden
+**(94)** emrolunduğun şeyi açıkça söyle ve ortak koşanlara aldırma
+**(95)** şüphesiz biz alay edenler(e karşı) sana yeteriz
+**(96)** Allah ile beraber başka tanrı[ilah] edinen(ler) kimseler yakında bileceklerdir
+**(97)** ve andolsun biliyoruz (ki) göğsün daralıyor senin şeylere onların söylediklerine
+**(98)** (o halde) tesbih et hamd ile Rabbini ve secde edenlerden ol
+**(99)** ve yakîn[şüphesiz sağlam bilgi] sana gelinceye kadar Rabbine kulluk et
 
 ![15Hicr-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")
