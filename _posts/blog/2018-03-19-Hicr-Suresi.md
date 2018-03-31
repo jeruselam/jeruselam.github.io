@@ -90,10 +90,10 @@ tag:
 **(78)** ve Eyke halkı gerçekten zalim kimseler idiler
 **(79)** onlardan öcümüzü aldık her ikisi de apaçık (gözler) ön(ün)dedir
 **(80)** ve andolsun peygamberleri Hicr halkı yalanladılar
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
+**(81)** ve ayetlerimizi onlara verdik fakat onlardan yüz çeviriyorlar idiler
+**(82)** ve dağlardan güvenli evler yontuyorlardı
+**(83)** fakat sabaha girerlerken (o) korkunç ses onları da yakaladı
+**(84)** kazanıyor(lar) oldukları şeyler kendilerinden hiçbir şeyi savamadı
 **(85)** 
 **(86)** 
 **(87)**
