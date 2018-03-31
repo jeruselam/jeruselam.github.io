@@ -97,9 +97,9 @@ tag:
 **(85)** ve gökleri ve yeri ve ne de bunlar arasındakileri biz yaratmadık ancak hak ile (yarattık) ve mutlaka o sa’at gelecektir güzel bir hoşgörü ile şimdi sen hareket et
 **(86)** şüphesiz Rabbin[Allah] O yaratandır bilendir
 **(87)** ve ikililerden yedi[tekrarlananları] ve büyük Kur’an’ı andolsun sana verdik
-**(88)** 
-**(89)** 
-**(90)** 
+**(88)** onunla onlardan bazı çiftlere verdiğimiz dünyalığa gözlerini dikme ve onlara üzülme ve mü’minlere kanadını indir
+**(89)** ve de ki ben ancak ben apaçık bir uyarıcıyım
+**(90)** [bölük bölük]kısımlara ayıranlara indirdiğimiz gibi
 **(91)**
 **(92)** 
 **(93)** 
