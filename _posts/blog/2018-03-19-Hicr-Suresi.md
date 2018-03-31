@@ -64,15 +64,15 @@ tag:
 **(52)** ne zaman ki onun yanına girmediler ve Selam dediler dedi ki elbette biz sizden korkuyoruz
 **(53)** korkma dediler biz sana bilgin bir çocuk müjdeleriz
 **(54)** dedi ki ihtiyarlık bana dokunmasına (rağmen) beni mi müjdelediniz? ne tuhaf müjdeliyorsunuz
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
+**(55)** gerçeği sana müjdeledik dediler umut kesenlerden asla olma
+**(56)** sapıklardan başka Rabbinin rahmetinden kim umut keser dedi
+**(57)** Ey elçiler işiniz nedir? dedi
+**(58)** şüphesiz biz suç işleyen bir kavme gönderildik dediler
+**(59)** yalnız Lut ailesi hariç elbette biz onları hepsini kurtaracağız
+**(60)** ancak karısı hariç onun geri kalanlardan olmasını uygun gördük
+**(61)** ne zaman ki [Resul]Elçiler Lut ailesine geldiklerinde
+**(62)** şüphesiz siz hiç tanınmamış[akıllı hazır cevap] kimselersiniz dedi
+**(63)** dediler ki doğrusu biz sana hakkında şüphe etmekte olduklarını getirdik
 **(64)** 
 **(65)** 
 **(66)** 
