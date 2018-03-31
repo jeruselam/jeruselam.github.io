@@ -80,16 +80,16 @@ tag:
 **(68)** şüphesiz bunlar benim konuğumdur dedi beni mahcubetmeyin
 **(69)** ve Allah’tan korkun ve beni rezil etmeyin
 **(70)** alemlerden[dünyadan çok uzun zaman] seni menetmemiş miydik? dediler
-**(71)** 
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
+**(71)** işte kızlarım dedi eğer siz yapacaksanız
+**(72)** ömrüne andolsun ki onlar sarhoşlukları içinde bocalıyorlardı
+**(73)** güneşin doğarken korkunç bir ses onları yakaladı
+**(74)** ve üstünü altına getirdik ve üzerlerine çamurdan pişmiş taşlar yağdırdık
+**(75)** işaretten anlayanlara şüphesiz bunda ibretler vardır
+**(76)** ve şüphesiz o bir yol üzerinde durmaktadır
+**(77)** inananlar için elbette bunda bir ibret vardır
+**(78)** ve Eyke halkı gerçekten zalim kimseler idiler
+**(79)** onlardan öcümüzü aldık her ikisi de apaçık (gözler) ön(ün)dedir
+**(80)** ve andolsun peygamberleri Hicr halkı yalanladılar
 **(81)** 
 **(82)** 
 **(83)** 
