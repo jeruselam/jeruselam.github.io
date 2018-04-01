@@ -11,7 +11,7 @@ tag:
 ## 15. Hicr Sûresi
 
 **(1)** Elif, Lâm, Râ şunlar Kitabın ve apaçık [okunmuş]Kur’an’ın ayetleridir
-**(2)** bir zaman gelir ki inkar eden(ler) kimseler arzu ederler keşke müslüman olsaydılar (diye)
+**(2)** bir zaman gelir ki keşke müslüman olsaydılar (diye) inkar eden(ler) kimseler arzu ederler
 **(3)** bırak onları yesinler ve eğlensinler ve [şiddetli]arzu onları oyalasın yakında bileceklerdir
 **(4)** olanların bilinen bir yazısı dışında hiçbir kenti biz yok etmedik 
 **(5)** süresini hiçbir millet ne geçebilir ne de geri kalır
