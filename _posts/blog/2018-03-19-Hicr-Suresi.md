@@ -13,7 +13,7 @@ tag:
 **(1)** Elif, Lâm, Râ şunlar Kitabın ve apaçık [okunmuş]Kur’an’ın ayetleridir
 **(2)** bir zaman gelir ki keşke müslüman olsaydılar (diye) inkar eden(ler) kimseler arzu ederler
 **(3)** bırak onları yesinler ve eğlensinler ve [şiddetli]arzu onları oyalasın yakında bileceklerdir
-**(4)** olanların bilinen bir yazısı dışında hiçbir kenti biz yok etmedik 
+**(4)** bilinen bir yazısı olanların dışında hiçbir kenti biz yok etmedik 
 **(5)** süresini hiçbir millet ne geçebilir ne de geri kalır
 **(6)** dediler ki kendisine Zikir (Kitap) indirilmiş olan ey kimse sen mutlaka delisin
 **(7)** eğer salihlerden isen melekleri neden bize getirmiyorsun
