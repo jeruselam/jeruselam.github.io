@@ -15,7 +15,7 @@ tag:
 **(3)** bırak onları yesinler ve eğlensinler ve [şiddetli]arzu onları oyalasın yakında bileceklerdir
 **(4)** bilinen bir yazısı olanların dışında hiçbir kenti biz yok etmedik 
 **(5)** süresini hiçbir millet ne geçebilir ne de geri kalır
-**(6)** dediler ki kendisine Zikir (Kitap) indirilmiş olan ey kimse sen mutlaka delisin
+**(6)** dediler ki kendisine Zikir (Kitap) indirilmiş02 olan ey kimse sen mutlaka delisin
 **(7)** eğer salihlerden isen melekleri neden bize getirmiyorsun
 **(8)** hak ile olmaksızın melekleri biz indirmeyiz ve onların o zaman da mühletleri olmaz
 **(9)** O Zikri (Kitap)ı şüphesiz biz indirdik ve O’nun koruyucuları elbette biziz
@@ -36,7 +36,7 @@ tag:
 **(24)** sizden önce geçenleri andolsun biliriz ve geri kalanları da elbette biliriz
 **(25)** ve gerçekten onları toplayacak olan O Rabbindir muhakak O Hakîmdir Bilendir
 **(26)** ve andolsun [kokusu]değişmiş[şekillendirilmiş] cıvık balçıktan pişmemiş[kurumuş] çamurdan insanı biz yarattık
-**(27)** ve nüfuz eden ateşten daha önce Cinleri yarattık
+**(27)** ve nüfuz eden ateşten Cinleri daha önce yarattık
 **(28)** ve meleklere Rabbin bir zaman demişti ki muhakkak ben değişken[şekillendirilmiş] balçıktan kupkuru çamurdan bir insan yaratacağım 
 **(29)** onu [seviyelendirip]düzenlediğim zaman ve ruhumdan ona üflediğimde ona secdeye hemen kapanın
 **(30)** melekler hepsi topluca secde ettiler
