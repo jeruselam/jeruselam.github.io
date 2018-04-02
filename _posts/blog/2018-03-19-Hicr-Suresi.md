@@ -15,7 +15,7 @@ tag:
 **(3)** bırak onları yesinler ve eğlensinler ve [şiddetli]arzu onları oyalasın yakında bileceklerdir
 **(4)** bilinen bir yazısı olanların dışında hiçbir kenti biz yok etmedik 
 **(5)** süresini hiçbir millet ne geçebilir ne de geri kalır
-**(6)** dediler ki kendisine Zikir (Kitap) indirilmiş02 olan ey kimse sen mutlaka delisin
+**(6)** dediler ki kendisine Zikir (Kitap) indirilmiş olan ey kimse sen mutlaka delisin
 **(7)** eğer salihlerden isen melekleri neden bize getirmiyorsun
 **(8)** hak ile olmaksızın melekleri biz indirmeyiz ve onların o zaman da mühletleri olmaz
 **(9)** O Zikri (Kitap)ı şüphesiz biz indirdik ve O’nun koruyucuları elbette biziz
