@@ -10,8 +10,8 @@ tag:
 
 ## 14. İbrâhîm Sûresi
 
-**(1)** Elif Lam Ra Aziz ve [Hamīd]övgüye layık olanı yoluna Rablerinin izniyle karanlıklardan aydınlığa insanları çıkarman için sana indirdiğimiz (Bu), Kitaptır
-**(2)** 
+**(1)** Elif Lam Ra, Aziz ve [Hamīd]övgüye layık olanı yoluna Rablerinin izniyle karanlıklardan aydınlığa insanları çıkarman için sana indirdiğimiz (Bu), Kitaptır
+**(2)** Allah ki göklerde ne varsa ve yerde ne varsa O’nundur [şedid-şiddetli]çetin azabdan dolayı şu kafirlerin vay haline
 **(3)** 
 **(4)** 
 **(5)** 
