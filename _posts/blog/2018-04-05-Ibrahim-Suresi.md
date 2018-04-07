@@ -19,7 +19,7 @@ tag:
 **(7)** ve hani Rabbiniz size bildirmişti eğer şükrederseniz elbette size daha fazla veririm ve eğer nankörlük ederseniz şüphesiz azabım pek çetindir
 **(8)** ve Musa dedi ki eğer siz ve yeryüzündeki kimseler hepiniz nankörlük  etseniz şüphesiz Allah zengindir övülmüştür
 **(9)** sizden öncekilerin, kimselerin, Nuh ve Ad ve Semud kavimlerinin ve onlardan sonra gelen kimselerin haberi size gelmedi mi? Allah’tan başka onları kimse bilmez elçileri onlara kanıtlar getirdi onlar ellerini fakat ağızlarına koydular ve dediler ki muhakkak biz o,[ona]onunla, sizinle gönderilen şeyi tanımayız ve bizi ona çağırdığınız şeye karşı biz derin bir kuşku içindeyiz 
-**(10)** 
+**(10)** elçileri dediler ki gökleri ve yeri yaratan Allah hakkında şüphe (edilir) mi? sizin günahlarınızdan bir kısmını bağışlamak için ve belirtilmiş bir süreye kadar sizi ertelemek için (O) sizi davet ediyor onlar dediler siz de bizim gibi bir insandan başka değilsiniz atalarımızın tapıyor olduğundan bizi çevirmek istiyorsunuz o halde bize açık bir delil getirin
 **(11)** 
 **(12)** 
 **(13)** 
