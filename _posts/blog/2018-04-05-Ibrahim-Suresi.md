@@ -20,7 +20,7 @@ tag:
 **(8)** ve Musa dedi ki eğer siz ve yeryüzündeki kimseler hepiniz nankörlük  etseniz şüphesiz Allah zengindir övülmüştür
 **(9)** sizden öncekilerin, kimselerin, Nuh ve Ad ve Semud kavimlerinin ve onlardan sonra gelen kimselerin haberi size gelmedi mi? Allah’tan başka onları kimse bilmez elçileri onlara kanıtlar getirdi onlar ellerini fakat ağızlarına koydular ve dediler ki muhakkak biz o,[ona]onunla, sizinle gönderilen şeyi tanımayız ve bizi ona çağırdığınız şeye karşı biz derin bir kuşku içindeyiz 
 **(10)** elçileri dediler ki gökleri ve yeri yaratan Allah hakkında şüphe (edilir) mi? sizin günahlarınızdan bir kısmını bağışlamak için ve belirtilmiş bir süreye kadar sizi ertelemek için (O) sizi davet ediyor onlar dediler siz de bizim gibi bir insandan başka değilsiniz atalarımızın tapıyor olduğundan bizi çevirmek istiyorsunuz o halde bize açık bir delil getirin
-**(11)** elçileri onlara dediler ki biz (de) sizin gibi insandan başka bir şey değiliz fakat kullarından dilediği kimseye Allah lutfeder Allah’ın izni olmadan size bir delil getiremeye bizim imkanımız yoktur ve inananlar Allah’a [güvenip]dayansınlar
+**(11)** elçileri onlara dediler ki biz (de) sizin gibi insandan başka bir şey değiliz fakat kullarından dilediği kimseye Allah lutfeder Allah’ın izni olmadan size [aydınlatıcı]bir delil getiremeye bizim imkanımız yoktur ve inananlar Allah’a [güvenip]dayansınlar
 **(12)** 
 **(13)** 
 **(14)** 
