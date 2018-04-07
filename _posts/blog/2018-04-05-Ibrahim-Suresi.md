@@ -12,8 +12,8 @@ tag:
 
 **(1)** Elif Lam Ra, Aziz ve [Hamīd]övgüye layık olanı yoluna Rablerinin izniyle karanlıklardan aydınlığa insanları çıkarman için sana indirdiğimiz (Bu), Kitaptır
 **(2)** Allah ki göklerde ne varsa ve yerde ne varsa O’nundur [şedid-şiddetli]çetin azabdan dolayı şu kafirlerin vay haline
-**(3)** ki onlar ahirete karşılık dünya hayatını tercih ederler ve Allah’ın yolundan engel olurlar ve onu [hakkı ve hakikati eğri büğrü heveslerle tahrif edip]eğrilmesini isterler işte onlar derin bir sapıklık içindedirler
-**(4)** 
+**(3)** ki onlar ahirete karşılık dünya hayatını tercih ederler ve Allah’ın yolundan engel olurlar ve onu [hakkı ve hakikati eğri büğrü heveslerle tahrif edip]eğrilmesini [talep ederler]isterler işte onlar derin bir sapıklık içindedirler
+**(4)** ve olara açıklasın diye kendi kavminin dilinden başka her elçiyi biz göndermedik dilediği kimseyi Allah şaşırtır ve dilediği kimseyi yola iletir ve O azizdir hüküm ve hikmet sahibidir
 **(5)** 
 **(6)** 
 **(7)** 
