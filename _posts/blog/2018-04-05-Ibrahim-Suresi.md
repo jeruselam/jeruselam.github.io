@@ -18,7 +18,7 @@ tag:
 **(6)** ve hani Musa kavmine demişti ki [o]zaman Allah’ın üzerinizdeki ni’metini hatırlayın Fir’avn soyundan sizi kurtardı işkencenin en kötüsüne onlar sizi sürüyorlardı ve oğullarınızı kesiyorlardı ve kadınlarınızı sağ bırakıyorlardı ve bunda size Rabbinizden büyük bir imtihan vardı
 **(7)** ve hani Rabbiniz size bildirmişti eğer şükrederseniz elbette size daha fazla veririm ve eğer nankörlük ederseniz şüphesiz azabım pek çetindir
 **(8)** ve Musa dedi ki eğer siz ve yeryüzündeki kimseler hepiniz nankörlük  etseniz şüphesiz Allah zengindir övülmüştür
-**(9)** 
+**(9)** sizden öncekilerin, kimselerin, Nuh ve Ad ve Semud kavimlerinin ve onlardan sonra gelen kimselerin haberi size gelmedi mi? Allah’tan başka onları kimse bilmez elçileri onlara kanıtlar getirdi onlar ellerini fakat ağızlarına koydular ve dediler ki muhakkak biz o,[ona]onunla, sizinle gönderilen şeyi tanımayız ve bizi ona çağırdığınız şeye karşı biz derin bir kuşku içindeyiz 
 **(10)** 
 **(11)** 
 **(12)** 
