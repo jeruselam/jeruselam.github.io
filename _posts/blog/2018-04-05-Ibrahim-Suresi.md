@@ -25,9 +25,9 @@ tag:
 **(13)** inkar eden(ler) kimseler elçilerine dediler ki yurdumuzdan ya sizi mutlaka çıkarırız ya da bizim dinimize dönersiniz Rableri onlara şöyle vahyetti zalimleri mutlaka helak edeceğiz
 **(14)** ve onların ardından o yere sizi yerleştireceğiz bu [adil]makamımdan korkan içindir ve tehdidimden korkan içindir
 **(15)** fetih istediler ve inatçı her zorba perişan oldu
-**(16)** 
-**(17)** 
-**(18)** 
+**(16)** ardından da cehennem, irin (gibi) bir su kendisine içirilir 
+**(17)** onu yutmağa çalışır fakat boğazından geçiremez ve her yandan ölüm ona geldiği halde ve yine o ölemez bunun ardından kaba bir azab
+**(18)** Rablerini inkar eden(lerin) kimselerin durumu fırtınalı bir günde işleri rüzgarın onu savurduğu küle benzer kazandıkları şeylerden hiçbir şeyi ele geçiremezler işte o derin sapıklıktır
 **(19)** 
 **(20)** 
 **(21)** 
