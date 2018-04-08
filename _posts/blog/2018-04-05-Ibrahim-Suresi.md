@@ -23,7 +23,7 @@ tag:
 **(11)** elçileri onlara dediler ki biz (de) sizin gibi insandan başka bir şey değiliz fakat kullarından dilediği kimseye Allah lutfeder Allah’ın izni olmadan size [aydınlatıcı]bir delil getiremeye bizim imkanımız yoktur ve inananlar Allah’a [güvenip]dayansınlar
 **(12)** elbette yollarımızı bize göstermişken Allah’a neden? biz [güvenip]dayanmayalım ve bize yaptığınız eziyetlere katlanırız ve tevekkül edenler Allah’a [güvenip]dayansınlar
 **(13)** inkar eden(ler) kimseler elçilerine dediler ki yurdumuzdan ya sizi mutlaka çıkarırız ya da bizim dinimize dönersiniz Rableri onlara şöyle vahyetti zalimleri mutlaka helak edeceğiz
-**(14)** 
+**(14)** ve onların ardından o yere sizi yerleştireceğiz bu [adil]makamımdan korkan içindir ve tehdidimden korkan içindir
 **(15)** 
 **(16)** 
 **(17)** 
