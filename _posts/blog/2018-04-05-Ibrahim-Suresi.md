@@ -28,8 +28,8 @@ tag:
 **(16)** ardından da cehennem, irin (gibi) bir su kendisine içirilir 
 **(17)** onu yutmağa çalışır fakat boğazından geçiremez ve her yandan ölüm ona geldiği halde ve yine o ölemez bunun ardından kaba bir azab
 **(18)** Rablerini inkar eden(lerin) kimselerin durumu fırtınalı bir günde işleri rüzgarın onu savurduğu küle benzer kazandıkları şeylerden hiçbir şeyi ele geçiremezler işte o derin sapıklıktır
-**(19)** 
-**(20)** 
+**(19)** hak ile gökleri ve yeri şüphesiz Allah yarattı görmedin mi? eğer dilerse sizi götürür ve yepyeni bir halk getirir
+**(20)** ve Allah’a karşı bu güç değildir
 **(21)** 
 **(22)** 
 **(23)** 
