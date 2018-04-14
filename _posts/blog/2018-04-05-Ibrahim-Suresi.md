@@ -30,7 +30,7 @@ tag:
 **(18)** Rablerini inkar eden(lerin) kimselerin durumu fırtınalı bir günde işleri rüzgarın onu savurduğu küle benzer kazandıkları şeylerden hiçbir şeyi ele geçiremezler işte o derin sapıklıktır
 **(19)** hak ile gökleri ve yeri şüphesiz Allah yarattı görmedin mi? eğer dilerse sizi götürür ve yepyeni bir halk getirir
 **(20)** ve Allah’a karşı bu güç değildir
-**(21)** 
+**(21)** ve hepsi Allah’ın huzurunda göründüler büyüklük taslayan(lara) kimselere zayıflar dediler ki şüphesiz biz size tabi idik Allah’ın azabından (en ufak) bir şey bizden siz savabilir misiniz? dediler ki eğer bize yol gösterseydi Allah biz de size yol gösterirdik sızlansak da ya da sabretsek de bize artık birdir bize hiç kaçıp sığınacak bir yer yoktur
 **(22)** 
 **(23)** 
 **(24)** 
