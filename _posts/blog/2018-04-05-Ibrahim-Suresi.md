@@ -30,8 +30,8 @@ tag:
 **(18)** Rablerini inkar eden(lerin) kimselerin durumu fırtınalı bir günde işleri rüzgarın onu savurduğu küle benzer kazandıkları şeylerden hiçbir şeyi ele geçiremezler işte o derin sapıklıktır
 **(19)** hak ile gökleri ve yeri şüphesiz Allah yarattı görmedin mi? eğer dilerse sizi götürür ve yepyeni bir halk getirir
 **(20)** ve Allah’a karşı bu güç değildir
-**(21)** ve hepsi Allah’ın huzurunda göründüler büyüklük taslayan(lara) kimselere zayıflar dediler ki şüphesiz biz size tabi idik Allah’ın azabından (en ufak) bir şey bizden siz savabilir misiniz? dediler ki eğer bize yol gösterseydi Allah biz de size yol gösterirdik sızlansak da ya da sabretsek de bize artık birdir bize hiç kaçıp sığınacak bir yer yoktur
-**(22)** 
+**(21)** ve hepsi Allah’ın huzurunda göründüler büyüklük taslayan(lara) kimselere zayıflar dediler ki şüphesiz biz size tabi idik Allah’ın azabından (en ufak) bir şey, bizden siz savabilir misiniz? dediler ki eğer bize yol gösterseydi Allah biz de size yol gösterirdik sızlansak da ya da sabretsek de bize artık birdir bize hiç kaçıp sığınacak bir yer yoktur
+**(22)** ne zaman ki iş bitirildi şeytan şöyle dedi gerçek va’di şüphesiz Allah size va’detti ve ben de size va’dettim ama ben sözümden caydım ve sizi davet etmekten başka size karşı benim hiç bir güc(üm) yoktur siz de benim da’vetime koştunuz o halde beni kınamayın fakat kendi kendinizi kınayın ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz önceden beni ortak koşmanızı şüphesiz ben reddetmiştim doğrusu zalimler (onlar) için acıklı bir azab vardır
 **(23)** 
 **(24)** 
 **(25)** 
