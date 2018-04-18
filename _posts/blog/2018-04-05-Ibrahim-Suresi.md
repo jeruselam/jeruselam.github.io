@@ -34,8 +34,8 @@ tag:
 **(22)** ne zaman ki iş bitirildi şeytan şöyle dedi gerçek va’di şüphesiz Allah size va’detti ve ben de size va’dettim ama ben sözümden caydım ve sizi davet etmekten başka size karşı benim hiç bir güc(üm) yoktur siz de benim da’vetime koştunuz o halde beni kınamayın fakat kendi kendinizi kınayın ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz önceden beni ortak koşmanızı şüphesiz ben reddetmiştim doğrusu zalimler (onlar) için acıklı bir azab vardır
 **(23)** ve Rablerinin izniyle orada sürekli kalacakları altlarından ırmaklar akan cennetlere iyi işler yapanlar ve inanan(lar) kimseler sokuldular orada onların dirlik temennileri selamdır
 **(24)** görmedin mi Allah nasıl bir benzetme yaptı güzel sözün benzeri kökü sabit ve gökte dalları olan güzel bir ağaç gibidir
-**(25)** 
-**(26)** 
+**(25)** Rabbinin izniyle her zaman meyvesini verir insanlara misallerle Allah benzetmeler yapar umulur ki öğüt alırlar (diye)
+**(26)** ve kötü sözün durumu da onun hiç kararı (kökü) olmayan yerin üstünden gövdesi koparılmış kötü bir ağaca benzer 
 **(27)** 
 **(28)** 
 **(29)** 
