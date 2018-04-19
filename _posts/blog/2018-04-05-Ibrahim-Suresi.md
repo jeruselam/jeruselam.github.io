@@ -35,9 +35,9 @@ tag:
 **(23)** ve Rablerinin izniyle orada sürekli kalacakları altlarından ırmaklar akan cennetlere iyi işler yapanlar ve inanan(lar) kimseler sokuldular orada onların dirlik temennileri selamdır
 **(24)** görmedin mi Allah nasıl bir benzetme yaptı güzel sözün benzeri kökü sabit ve gökte dalları olan güzel bir ağaç gibidir
 **(25)** Rabbinin izniyle her zaman meyvesini verir insanlara misallerle Allah benzetmeler yapar umulur ki öğüt alırlar (diye)
-**(26)** ve kötü sözün durumu da onun hiç kararı (kökü) olmayan yerin üstünden gövdesi koparılmış kötü bir ağaca benzer 
-**(27)** 
-**(28)** 
+**(26)** ve kötü sözün durumu da onun hiç kararı (kökü) olmayan yerin üstünden gövdesi koparılmış kötü bir ağaca benzer
+**(27)** dünya hayatında ve ahirette sağlam söz ile inanan(ları) kimseleri Allah [kararlı kılarak]tesbit eder ve zalimleri Allah şaşırtır ve Allah ne diliyorsa yapar 
+**(28)** Allah’ın ni’metini nankörlüğe çeviren(leri) kimseleri ve helak yurduna kavimlerini konduranları görmedin mi? 
 **(29)** 
 **(30)** 
 **(31)** 
