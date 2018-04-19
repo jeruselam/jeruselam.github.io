@@ -41,7 +41,7 @@ tag:
 **(29)** yaslanacakları cehennemdir ve ne kötü bir duraktır o
 **(30)** ve O’nun yolundan saptırmak için Allah’a eşler koştular de ki eğlenin şüphesiz gideceğiniz yer ateştir
 **(31)** inanan kullarıma söyle namazı kılsınlar ve gizli ve açık verdiğimiz rızıktan infak etsinler bir gün gelmeden önce ki onda [yaptığınız]bir alışveriş yoktur ve bir dostluk yoktur
-**(32)** 
+**(32)** Allah O’dur ki gökleri ve yeri yarattı ve gökten su indirdi ve onunla (çeşitli) meyvalar size rızık olarak çıkardı ve buyruğuyla denizde akıp gitmesi için gemileri sizin emrinize verdi ve ırmakları sizin emrinize verdi
 **(33)** 
 **(34)** 
 **(35)** 
