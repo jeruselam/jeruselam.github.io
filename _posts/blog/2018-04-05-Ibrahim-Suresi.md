@@ -38,9 +38,9 @@ tag:
 **(26)** ve kötü sözün durumu da onun hiç kararı (kökü) olmayan yerin üstünden gövdesi koparılmış kötü bir ağaca benzer
 **(27)** dünya hayatında ve ahirette sağlam söz ile inanan(ları) kimseleri Allah [kararlı kılarak]tesbit eder ve zalimleri Allah şaşırtır ve Allah ne diliyorsa yapar 
 **(28)** Allah’ın ni’metini nankörlüğe çeviren(leri) kimseleri ve helak yurduna kavimlerini konduranları görmedin mi? 
-**(29)** 
-**(30)** 
-**(31)** 
+**(29)** yaslanacakları cehennemdir ve ne kötü bir duraktır o
+**(30)** ve O’nun yolundan saptırmak için Allah’a eşler koştular de ki eğlenin şüphesiz gideceğiniz yer ateştir
+**(31)** inanan kullarıma söyle namazı kılsınlar ve bir gün gelmeden önce gizli ve açık verdiğimiz rızıktan infak etsinler onda bir alışveriş ki yoktur ve bir dostluk yoktur
 **(32)** 
 **(33)** 
 **(34)** 
