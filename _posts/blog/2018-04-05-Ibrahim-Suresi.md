@@ -40,7 +40,7 @@ tag:
 **(28)** Allah’ın ni’metini nankörlüğe çeviren(leri) kimseleri ve helak yurduna kavimlerini konduranları görmedin mi? 
 **(29)** yaslanacakları cehennemdir ve ne kötü bir duraktır o
 **(30)** ve O’nun yolundan saptırmak için Allah’a eşler koştular de ki eğlenin şüphesiz gideceğiniz yer ateştir
-**(31)** inanan kullarıma söyle namazı kılsınlar ve gizli ve açık verdiğimiz rızıktan infak etsinler bir gün gelmeden önce ki onda bir alışveriş yoktur ve bir dostluk yoktur
+**(31)** inanan kullarıma söyle namazı kılsınlar ve gizli ve açık verdiğimiz rızıktan infak etsinler bir gün gelmeden önce ki onda [yaptığınız]bir alışveriş yoktur ve bir dostluk yoktur
 **(32)** 
 **(33)** 
 **(34)** 
