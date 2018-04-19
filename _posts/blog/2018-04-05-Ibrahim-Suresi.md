@@ -5,7 +5,7 @@ description: Milletlerin Babası, Cumhurun Babası
 excerpt: "14'ncü Sûre"
 modified: 2018-04-05T17:50:00.564948 17:00
 tag: 
- - İbrâhîm
+ - Ibrâhîm
 ---
 
 ## 14. İbrâhîm Sûresi
