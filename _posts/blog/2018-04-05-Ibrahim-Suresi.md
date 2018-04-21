@@ -46,7 +46,7 @@ tag:
 **(34)** ve kendisinden istediğiniz ne varsa herşeyden size verdi ve eğer Allah’ın ni’metini saymak isteseniz sayamazsınız doğrusu insan çok haksızlık edendir çok nankördür
 **(35)** bir zaman İbrahim şöyle demişti Rabbim bu şehri güvenli kıl putlara tapmaktan beni ve oğullarımı uzak tut
 **(36)** Rabbim şüphesiz onlar insanlardan birçoğunu şaşırttılar artık kim bana uyarsa şüphesiz o bendendir ve kim bana karşı gelirse şüphesiz sen bağışlayansın esirgeyensin
-**(37)** Rabbimiz ben senin mukaddes evinin yanında ekin sahibi olmayan bir vadiye çocuklarımdan (bazısını) yerleştirdim Rabbimiz namazı kılsınlar diye birtakım insanların gönüllerini artık yap kıl onlara meylettir ve (çeşitli) meyvalarla onları rızıklandır umulur ki şükrederler
+**(37)** Rabbimiz ben senin mukaddes evinin yanında ekin sahibi olmayan bir vadiye çocuklarımdan (bazısını) yerleştirdim Rabbimiz namazı kılsınlar diye birtakım insanların gönüllerini artık [yap] kıl onlara meylettir ve (çeşitli) meyvalarla onları rızıklandır umulur ki şükrederler
 **(38)** Rabbimiz şüphesiz sen bizim gizlediğimiz şeyi ve açığa vurduğumuz şeyi bilirsin ve yerde ve ne de gökte hiçbir şey Allah’a gizli kalmaz
 **(39)** 
 **(40)** 
