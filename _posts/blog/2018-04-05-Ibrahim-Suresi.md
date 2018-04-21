@@ -42,9 +42,9 @@ tag:
 **(30)** ve O’nun yolundan saptırmak için Allah’a eşler koştular de ki eğlenin şüphesiz gideceğiniz yer ateştir
 **(31)** inanan kullarıma söyle namazı kılsınlar ve gizli ve açık verdiğimiz rızıktan infak etsinler bir gün gelmeden önce ki onda [yaptığınız]bir alışveriş yoktur ve bir dostluk yoktur
 **(32)** Allah O’dur ki gökleri ve yeri yarattı ve gökten su indirdi ve onunla (çeşitli) meyvalar size rızık olarak çıkardı ve buyruğuyla denizde akıp gitmesi için gemileri sizin emrinize verdi ve ırmakları sizin emrinize verdi
-**(33)** 
-**(34)** 
-**(35)** 
+**(33)** ve düzenli seyreden güneşi ve ay’ı sizin emrinize verdi ve geceyi ve gündüzü sizin emrinize verdi
+**(34)** ve kendisinden istediğiniz ne varsa herşeyden size verdi ve eğer Allah’ın ni’metini saymak isteseniz sayamazsınız doğrusu insan çok haksızlık edendir çok nankördür
+**(35)** bir zaman İbrahim şöyle demişti Rabbim bu şehri güvenli kıl putlara tapmaktan beni ve oğullarımı uzak tut
 **(36)** 
 **(37)** 
 **(38)** 
