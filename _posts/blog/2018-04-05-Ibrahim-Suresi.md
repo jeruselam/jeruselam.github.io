@@ -51,7 +51,7 @@ tag:
 **(39)** İsma’il’i ve İshak’ı ihtiyarlık çağımda bana lutfeden Allah’a hamdolsun şüphesiz Rabbim du’ayı işitendir
 **(40)** Rabbim beni ve zürriyetimi namazı kılanlardan kıl Rabbimiz du’amı kabul buyur
 **(41)** Rabbimiz hesabın görüleceği gün beni anamı-babamı ve mü’minleri bağışla
-**(42)** 
+**(42)** zalimlerin yaptığı şeylerden Allah’ı gafil sanma gözlerin onda (dehşetten) donup kalacağı bir güne muhakkak O ertelemektedir
 **(43)** 
 **(44)** 
 **(45)** 
