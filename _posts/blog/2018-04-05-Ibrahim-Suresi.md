@@ -49,8 +49,8 @@ tag:
 **(37)** Rabbimiz ben senin mukaddes evinin yanında ekin sahibi olmayan bir vadiye çocuklarımdan (bazısını) yerleştirdim Rabbimiz namazı kılsınlar diye birtakım insanların gönüllerini artık [yap] kıl onlara meylettir ve (çeşitli) meyvalarla onları rızıklandır umulur ki şükrederler
 **(38)** Rabbimiz şüphesiz sen bizim gizlediğimiz şeyi ve açığa vurduğumuz şeyi bilirsin ve yerde ve ne de gökte hiçbir şey Allah’a gizli kalmaz
 **(39)** İsma’il’i ve İshak’ı ihtiyarlık çağımda bana lutfeden Allah’a hamdolsun şüphesiz Rabbim du’ayı işitendir
-**(40)** 
-**(41)** 
+**(40)** Rabbim beni ve zürriyetimi namazı kılanlardan kıl Rabbimiz du’amı kabul buyur
+**(41)** Rabbimiz hesabın görüleceği gün beni anamı-babamı ve mü’minleri bağışla
 **(42)** 
 **(43)** 
 **(44)** 
