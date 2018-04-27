@@ -52,8 +52,8 @@ tag:
 **(40)** Rabbim beni ve zürriyetimi namazı kılanlardan kıl Rabbimiz du’amı kabul buyur
 **(41)** Rabbimiz hesabın görüleceği gün beni anamı-babamı ve mü’minleri bağışla
 **(42)** zalimlerin yaptığı şeylerden Allah’ı gafil sanma gözlerin onda (dehşetten) donup kalacağı bir güne muhakkak O ertelemektedir
-**(43)** 
-**(44)** 
+**(43)** başlarını dikerek koşarlar bakışları kendilerine dönmez ve yüreklerinin içi de bomboştur
+**(44)** ve Rabbimiz yakın bir süreye kadar bizi ertele senin çağrına gelelim ve elçilere uyalım zalimlerin diyecekleri ve azabın kendilerine geleceği güne (karşı) insanları uyar sizin için hiçbir zeval olmadığına önceden yemininizi etmemiş miydiniz?
 **(45)** 
 **(46)** 
 **(47)** 
