@@ -56,10 +56,10 @@ tag:
 **(44)** ve azabın kendilerine geleceği güne (karşı) insanları uyar ve zalimlerin diyecekleri, Rabbimiz yakın bir süreye kadar bizi ertele senin çağrına gelelim ve elçilere uyalım, sizin için hiçbir zeval olmadığına önceden yemininizi etmemiş miydiniz?
 **(45)** ve kendilerine zulmeden(lerin) kimselerin yerlerinde oturmuştunuz ve onlara nasıl yaptığımız size belli olmuştu ve misallerle size anlatmıştık
 **(46)** ve tuzaklarını kuşkusuz onlar kurdular onların tuzakları oysa Allah’ın yanındadır dağları yerinden kaldıracak tuzakları eğer olsa bile
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
+**(47)** Allah’ı elçilerine verdiği sözden cayar sanma sakın çünkü Allah daima üstündür intikam sahibidir
+**(48)** yer başka yere ve gökler de o gün değiştirilir ve kahredici (olan) tek (olan) Allah’ın huzuruna gelirler
+**(49)** ve zincirler içinde birbirine yaklaştırılmış suçluları o gün görürsün
+**(50)** gömlekleri katrandandır ve ateş yüzlerini kaplamaktadır
 **(51)** 
 **(52)** 
 
