@@ -53,9 +53,9 @@ tag:
 **(41)** Rabbimiz hesabın görüleceği gün beni anamı-babamı ve mü’minleri bağışla
 **(42)** zalimlerin yaptığı şeylerden Allah’ı gafil sanma gözlerin onda (dehşetten) donup kalacağı bir güne muhakkak O ertelemektedir
 **(43)** başlarını dikerek koşarlar bakışları kendilerine dönmez ve yüreklerinin içi de bomboştur
-**(44)** ve Rabbimiz yakın bir süreye kadar bizi ertele senin çağrına gelelim ve elçilere uyalım zalimlerin diyecekleri ve azabın kendilerine geleceği güne (karşı) insanları uyar sizin için hiçbir zeval olmadığına önceden yemininizi etmemiş miydiniz?
-**(45)** 
-**(46)** 
+**(44)** ve azabın kendilerine geleceği güne (karşı) insanları uyar ve zalimlerin diyecekleri, Rabbimiz yakın bir süreye kadar bizi ertele senin çağrına gelelim ve elçilere uyalım, sizin için hiçbir zeval olmadığına önceden yemininizi etmemiş miydiniz?
+**(45)** ve kendilerine zulmeden(lerin) kimselerin yerlerinde oturmuştunuz ve onlara nasıl yaptığımız size belli olmuştu ve misallerle size anlatmıştık
+**(46)** ve tuzaklarını kuşkusuz onlar kurdular onların tuzakları oysa Allah’ın yanındadır dağları yerinden kaldıracak tuzakları eğer olsa bile
 **(47)** 
 **(48)** 
 **(49)** 
