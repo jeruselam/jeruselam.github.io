@@ -11,11 +11,7 @@ sudo eopkg it -c sytem.devel & git & ruby & ruby-devel
 
 sudo eopkg it nodejs
 
-It contains the commands to be executed for jekyll installation.
-
 sudo gem install jekyll
-
-Includes commands to execute while in the project directory: demir@demir ~/jeruselam.github.io $ 
 
 sudo gem update jekyll
 sudo gem install bundler
