@@ -16,8 +16,7 @@ sudo gem install jekyll
 sudo gem update jekyll
 sudo gem install bundler
 bundle update
-bundle install
-bundle exec jekyll build
+bun
 
 git add -A
 git commit -m "1091"
