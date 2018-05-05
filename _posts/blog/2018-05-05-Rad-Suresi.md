@@ -13,7 +13,7 @@ tag:
 **(1)** Elif Lam Mim Ra şunlar Rabbinden sana indirilen Kitabın ayetleridir haktır ve fakat insanların çoğu inanmazlar
 **(2)** Allah odur ki görebileceğiniz bir direk olmadan gökleri yükseltti sonra Arş üzerine istiva etti ve güneşi ve ay’ı boyun eğdirdi belirli bir süre için her biri akıp gitmektedir işi(ni) düzenliyor ayerleri açıklıyor böylece Rabbinizle karşılaşacağınıza kesin olarak inanırsınız
 **(3)** ve O’dur ki arzı uzattı ve orada sabit dağlar ve ırmaklar var etti ve her meyvadan orada iki çift (erkek-dişi)*[yumurtalık ve polen]* yarattı gündüz(ün üzerine) geceyi örter şüphesiz düşünen bir toplum için bunda ayetler vardır
-**(4)** 
+**(4)** ve arzda birbirine komşu kıt’alar (vardır) ve çatalı olmadan ve çatallı hurmalıklar ve ekinler ve üzüm bağlar(ı vardır) bir su ile (bunların hepsi) sulanır ama ürünlerinde diğerinin üzerine birbirini üstün yaparız aklını kullanan bir toplum için şüphesiz bunda ayetler vardır
 **(5)** 
 **(6)** 
 **(7)** 
