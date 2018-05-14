@@ -33,7 +33,7 @@ tag:
 **(21)** onların kimini kimi üzerine bak nasıl üstün yaptık elbette ahiret dereceler bakımından daha büyüktür ve üstünlük bakımından daha büyüktür
 **(22)** başka bir [ilah]tanrı Allah ile beraber asla edinme [ayıplanmış]kınanmış olarak ve yalnız başına bırakılmış[yüzsüz] olarak sonra oturup kalırsın
 **(23)** ve kendisinden başkasına tapmamanızı ve anaya babaya iyilik etmenizi Rabbin emretti ikisinden birisi yahut her ikisi ihtiyarlık çağına senin yanında ulaşırsa onlara Öf! deme sakın ve onları azarlama güzel bir söz söyle onlara
-**(24)** ve [merhametten]acımadan dolayı [himaye ederek]küçülme[yumuşak] kanadını onlara indir ve deki Rabbim küçükken beni nasıl yetiştirdilerse sen de bunlara [merhamet et]acı 
+**(24)** ve acımadan*[merhametten]* dolayı *[himaye ederek]*küçülme*[yumuşaklık]* kanadını onlara indir ve deki Rabbim küçükken beni nasıl yetiştirdilerse sen de bunlara acı*[merhamet et]* 
 **(25)** içlerinizdeki şeyleri Rabbiniz daha iyi bilir eğer iyi kişiler siz olursanız şüphesiz O tevbe[rücu] edenleri bağışlayandır
 **(26)** ve hakkını akrabaya ve yoksula ve yolcuya ver (fakat) savurarak saçıp savurma
 **(27)** çünkü savurganlar şeytanların kardeşleri olmuşlardır ve şeytan ise Rabbine karşı çok nankördür
