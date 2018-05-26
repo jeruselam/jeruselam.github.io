@@ -20,7 +20,7 @@ tag:
 **(8)** Allah her dişinin neyi yüklendiğini ve rahimlerin neyi eksilttiğini ve neyi artırdığını bilir ve her şey onun yanında bir ölçü iledir
 **(9)** gizliyi ve aşikareyi (O) bilendir büyüktür yücedir
 **(10)** aranızdan sözü gizleyen kimse ve onu açık (söyleyen) kimse birdir ve o kimse geceleyin gizlenendir ve gündüzün görünendir
-**(11)** 
+**(11)** O(insa)nı önünden ve arkasından izleyenler vardır Allah’ın emrinden [hâdisatından] onu korurlar, şüphesiz bir milet kendi (durumlarını) değiştirmediği sürece Allah (durumlarını) değiştirmez Allah bir kavme kötülük istediği zaman onu geri çevirecek artık yoktur onların O’ndan başka koruyucuları zaten yoktur
 **(12)** 
 **(13)** 
 **(14)** 
