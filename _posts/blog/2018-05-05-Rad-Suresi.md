@@ -23,7 +23,7 @@ tag:
 **(11)** O(insa)nı önünden ve arkasından izleyenler vardır Allah’ın emrinden [hâdisatından] onu korurlar, şüphesiz bir milet kendi (durumlarını) değiştirmediği sürece Allah (durumlarını) değiştirmez Allah bir kavme kötülük istediği zaman onu geri çevirecek artık yoktur onların O’ndan başka koruyucuları zaten yoktur
 **(12)** ağır (yüklü) bulutları yapan ve korku ve umud içinde şimşeği size gösteren O’dur ve yıldırımlar gönderir, dilediği kimseyi onlarla çarpar ve Allah hakkında onlar tartışmaktadırlar ve O’nun tuzağı (cezası) pek çetindir
 **(13)** ve onun övgüsüyle gök gürültüsü ve korkusundan*[rızasını kaybetmekten çekinerek]* melekler tesbih ederler ve yıldırımlar gönderir, dilediği kimseyi onlarla çarpar ve Allah hakkında onlar tartışmaktadırlar ve O’nun tuzağı (cezası) pek çetindir
-**(14)** 
+**(14)** gerçek du’a ancak O’nadır O’ndan başka du’a ettikleri kimseler ise kendilerinin hiçbir isteklerini karşılayamazlar ancak ağzına gelsin diye suya avuçlarını uzatan kimse gibidir oysa o on(un ağzın)a gelmez ve (işte) kafirlerin du’ası ancak boşa gider
 **(15)** 
 **(16)** 
 **(17)** 
