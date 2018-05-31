@@ -26,10 +26,10 @@ tag:
 **(14)** gerçek du’a ancak O’nadır O’ndan başka du’a ettikleri kimseler ise kendilerinin hiçbir isteklerini karşılayamazlar ancak ağzına gelsin diye suya avuçlarını uzatan kimse gibidir oysa o on(un ağzın)a gelmez ve (işte) kafirlerin du’ası ancak boşa gider
 **(15)** ve gönüllü (veya) zoraki göklerde ve yerde olanların hepsi ve akşam sabah gölgeleri de Allah’a secde ederler
 **(16)** de ki göklerin ve yerin Rabbi kimdir? de ki Allah! O halde, de kendilerine bir fayda ve bir zarar veremeyen O’ndan başka gücü olmayan veliler mi edindiniz? de ki kör ve gören bir olur mu? yahut karanlıklar ve aydınlık bir olur mu? yoksa O’nun yarattığı gibi yaratan, Allah’a ortaklar buldular da onlara bu yaratma benzer (mi) göründü de ki her şeyin yaratıcısı Allah’tır ve O tektir kahredendir
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
+**(17)** gökten bir su indirdi, kendi ölçüsünce dereler çağlayıp aktı ve üste çıkan köpüğü sel taşıdı ve bunun gibi bir köpük süs yahut eşya yapmak için onların ateşte yak(ıp erit)tikleri madenlerden de vardır Allah hakkı ve batılı böyle benzetme ile anlatır ne zaman ki köpük yok olup gider ve yararlı olan şey ise insanlara kalır
+**(18)** en güzel (karşılık) Rablerinin buyruğuna uyanlar için vardır ve ona uymayan(lar) kimseler ise şayet yeryüzünde bulunaların hepsi kendilerinin olsa ve yanında bir misli daha onu fidye verirlerdi işte onların hesabı çok kötüdür ve varacakları yer cehennemdir ve ne kötü bir yataktır
+**(19)** Rabbinden sana indirilenin hak olduğunu bilen o (kendisi) kör (olan) kimse gibi olur mu? ancak sağduyu sahipleri öğüt alır
+**(20)** onlar ki Allah’ın ahdini yerine getirirler ve andlaşmayı bozmazlar
 **(21)** 
 **(22)** 
 **(23)** 
