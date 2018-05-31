@@ -30,7 +30,7 @@ tag:
 **(18)** en güzel (karşılık) Rablerinin buyruğuna uyanlar için vardır ve ona uymayan(lar) kimseler ise şayet yeryüzünde bulunaların hepsi kendilerinin olsa ve yanında bir misli daha onu fidye verirlerdi işte onların hesabı çok kötüdür ve varacakları yer cehennemdir ve ne kötü bir yataktır
 **(19)** Rabbinden sana indirilenin hak olduğunu bilen o (kendisi) kör (olan) kimse gibi olur mu? ancak sağduyu sahipleri öğüt alır
 **(20)** onlar ki Allah’ın ahdini yerine getirirler ve andlaşmayı bozmazlar
-**(21)** 
+**(21)** ve Allah’ın kendisiyle bitiştirilmesini istediği şeyi onlar bitiştirirler ve Rablerine karşı saygılı olur ve en kötü hesaptan korkarlar
 **(22)** 
 **(23)** 
 **(24)** 
