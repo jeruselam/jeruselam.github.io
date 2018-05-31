@@ -24,8 +24,8 @@ tag:
 **(12)** ağır (yüklü) bulutları yapan ve korku ve umud içinde şimşeği size gösteren O’dur ve yıldırımlar gönderir, dilediği kimseyi onlarla çarpar ve Allah hakkında onlar tartışmaktadırlar ve O’nun tuzağı (cezası) pek çetindir
 **(13)** ve onun övgüsüyle gök gürültüsü ve korkusundan*[rızasını kaybetmekten çekinerek]* melekler tesbih ederler ve yıldırımlar gönderir, dilediği kimseyi onlarla çarpar ve Allah hakkında onlar tartışmaktadırlar ve O’nun tuzağı (cezası) pek çetindir
 **(14)** gerçek du’a ancak O’nadır O’ndan başka du’a ettikleri kimseler ise kendilerinin hiçbir isteklerini karşılayamazlar ancak ağzına gelsin diye suya avuçlarını uzatan kimse gibidir oysa o on(un ağzın)a gelmez ve (işte) kafirlerin du’ası ancak boşa gider
-**(15)** 
-**(16)** 
+**(15)** ve gönüllü (veya) zoraki göklerde ve yerde olanların hepsi ve akşam sabah gölgeleri de Allah’a secde ederler
+**(16)** de ki göklerin ve yerin Rabbi kimdir? de ki Allah! O halde, de kendilerine bir fayda ve bir zarar veremeyen O’ndan başka gücü olmayan veliler mi edindiniz? de ki kör ve gören bir olur mu? yahut karanlıklar ve aydınlık bir olur mu? yoksa O’nun yarattığı gibi yaratan, Allah’a ortaklar buldular da onlara bu yaratma benzer (mi) göründü de ki her şeyin yaratıcısı Allah’tır ve O tektir kahredendir
 **(17)** 
 **(18)** 
 **(19)** 
