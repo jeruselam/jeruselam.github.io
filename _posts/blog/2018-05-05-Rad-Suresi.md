@@ -34,7 +34,7 @@ tag:
 **(22)** ve onlar Rablerinin yüzünü (rızasını) arzu ederek sabrederler ve namazı kılarlar ve gizlice ve alenen rızıklandırdığımız şeyden harcarlar ve kötülüğü iyilikle savarlar işte şu yurdun sonu onlarındır
 **(23)** Adn cennetlerine girerler ve çocuklarından ve eşlerinden ve babalarından iyi olan kimseler ve her kapıdan yanlarına melekler de girerler
 **(24)** sabretmenize karşılık selam size yurdun sonu ne güzel
-**(25)** 
+**(25)** iyice pekiştirdikten sonra Allah’a verdikleri sözü bozan(lar) kimseler ve onunla bitiştirilmesini Allah’ın istediği şeyi kesenler ve yeryüzünde bozgunculuk yapanlar la’net işte onlaradır ve yurdun kötü (sonucu) onlaradır
 **(26)** 
 **(27)** 
 **(28)** 
