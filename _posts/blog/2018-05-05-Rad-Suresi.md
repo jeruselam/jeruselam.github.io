@@ -31,9 +31,9 @@ tag:
 **(19)** Rabbinden sana indirilenin hak olduğunu bilen o (kendisi) kör (olan) kimse gibi olur mu? ancak sağduyu sahipleri öğüt alır
 **(20)** onlar ki Allah’ın ahdini yerine getirirler ve andlaşmayı bozmazlar
 **(21)** ve Allah’ın kendisiyle bitiştirilmesini istediği şeyi onlar bitiştirirler ve Rablerine karşı saygılı olur ve en kötü hesaptan korkarlar
-**(22)** 
-**(23)** 
-**(24)** 
+**(22)** ve onlar Rablerinin yüzünü (rızasını) arzu ederek sabrederler ve namazı kılarlar ve gizlice ve alenen rızıklandırdığımız şeyden harcarlar ve kötülüğü iyilikle savarlar işte şu yurdun sonu onlarındır
+**(23)** Adn cennetlerine girerler ve çocuklarından ve eşlerinden ve babalarından iyi olan kimseler ve her kapıdan yanlarına melekler de girerler
+**(24)** sabretmenize karşılık selam size yurdun sonu ne güzel
 **(25)** 
 **(26)** 
 **(27)** 
