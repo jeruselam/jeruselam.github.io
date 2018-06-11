@@ -35,7 +35,7 @@ tag:
 **(23)** Adn cennetlerine girerler ve çocuklarından ve eşlerinden ve babalarından iyi olan kimseler ve her kapıdan yanlarına melekler de girerler
 **(24)** sabretmenize karşılık selam size yurdun sonu ne güzel
 **(25)** iyice pekiştirdikten sonra Allah’a verdikleri sözü bozan(lar) kimseler ve onunla bitiştirilmesini Allah’ın istediği şeyi kesenler ve yeryüzünde bozgunculuk yapanlar la’net işte onlaradır ve yurdun kötü (sonucu) onlaradır
-**(26)** 
+**(26)** Allah dilediği kimse için rızkı [genişletip]bollaştırır ve [daraltıp]kısar ve dünya hayatıyle [iftihar ederek]sevindiler oysa dünya hayatı ahiretin yanında ancak [faydalı]bir geçimdir
 **(27)** 
 **(28)** 
 **(29)** 
