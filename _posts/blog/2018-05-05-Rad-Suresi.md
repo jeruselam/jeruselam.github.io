@@ -40,7 +40,7 @@ tag:
 **(28)** onlar inananlardır ve Allah’ı anmakla gönülleri tatmin olanlardır iyi bilin ki ancak Allah’ı anmakla gönüller huzur bulur
 **(29)** inanan(lar) kimseler ve güzel işler yapanlar, mutluluk ve güzel gelecek onlar içindir
 **(30)** bir millet içine böylece seni [Resûl]gönderdik elbette kendilerinden önce geçmiş bulunan (nice) milletler[içine], sana vahyettiğimiz şeyleri onlara okuyasın diye oysa onlar Rahman’a nankörlük ederler, de ki O benim Rabbimdir O’ndan başka tanrı[ilah] yoktur O’na dayandım ve tevbem/dönüşüm yalnız O’nadır
-**(31)** 
+**(31)** dağların kendisiyle yürütüldüğü bir Kur’an eğer olsaydı yahut arzın kendisiyle parçalandığı yahut ölülerin kendisiyle konuşturulduğu, hayır bütün işler Allah’a aittir inanan(lar) kimseler hala anlamadılar mı? şayet Allah dileseydi bütün insanlara hidayet verirdi ve inkar eden(lere) kimselere yaptıkları işler yüzünden bir bela isabet etmesi geri durmaz yahut Allah’ın va’di gelinceye kadar yurtlarının yakınına konar şüphesiz Allah sözünden caymaz
 **(32)** 
 **(33)** 
 **(34)** 
