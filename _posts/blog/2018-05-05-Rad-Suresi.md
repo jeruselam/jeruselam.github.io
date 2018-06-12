@@ -36,10 +36,10 @@ tag:
 **(24)** sabretmenize karşılık selam size yurdun sonu ne güzel
 **(25)** iyice pekiştirdikten sonra Allah’a verdikleri sözü bozan(lar) kimseler ve onunla bitiştirilmesini Allah’ın istediği şeyi kesenler ve yeryüzünde bozgunculuk yapanlar la’net işte onlaradır ve yurdun kötü (sonucu) onlaradır
 **(26)** Allah dilediği kimse için rızkı [genişletip]bollaştırır ve [daraltıp]kısar ve dünya hayatıyle [iftihar ederek]sevindiler oysa dünya hayatı ahiretin yanında ancak [faydalı]bir geçimdir
-**(27)** 
-**(28)** 
-**(29)** 
-**(30)** 
+**(27)** ve inkar eden(ler) kimseler, Rabbinden bir ayet ona indirilmeli değil miydi? diyorlar de ki şüphesiz Allah dilediği kimseyi saptırır ve yönelen kimseyi kendisine iletir
+**(28)** onlar inananlardır ve Allah’ı anmakla gönülleri tatmin olanlardır iyi bilin ki ancak Allah’ı anmakla gönüller huzur bulur
+**(29)** inanan(lar) kimseler ve güzel işler yapanlar, mutluluk ve güzel gelecek onlar içindir
+**(30)** bir millet içine böylece seni [Resûl]gönderdik elbette kendilerinden önce geçmiş bulunan (nice) milletler[içine], sana vahyettiğimiz şeyleri onlara okuyasın diye oysa onlar Rahman’a nankörlük ederler, de ki O benim Rabbimdir O’ndan başka tanrı[ilah] yoktur O’na dayandım ve tevbem/dönüşüm yalnız O’nadır
 **(31)** 
 **(32)** 
 **(33)** 
