@@ -42,7 +42,7 @@ tag:
 **(30)** bir millet içine böylece seni [Resûl]gönderdik elbette kendilerinden önce geçmiş bulunan (nice) milletler[içine], sana vahyettiğimiz şeyleri onlara okuyasın diye oysa onlar Rahman’a nankörlük ederler, de ki O benim Rabbimdir O’ndan başka tanrı[ilah] yoktur O’na dayandım ve tevbem/dönüşüm yalnız O’nadır
 **(31)** dağların kendisiyle yürütüldüğü bir Kur’an eğer olsaydı yahut arzın kendisiyle parçalandığı yahut ölülerin kendisiyle konuşturulduğu, hayır bütün işler Allah’a aittir inanan(lar) kimseler hala anlamadılar mı? şayet Allah dileseydi bütün insanlara hidayet verirdi ve inkar eden(lere) kimselere yaptıkları işler yüzünden bir bela isabet etmesi geri durmaz yahut Allah’ın va’di gelinceye kadar yurtlarının yakınına konar şüphesiz Allah sözünden caymaz
 **(32)** ve senden önceki peygamberlerle andolsun alay edildi fakat inkar eden(lere) kimselere bir süre verdim sonra onları yakaladım cezam nasıl imiş 
-**(33)** her nefsin yaptığı işin üzerinde duran o kimse gibi midir? onlar Allah’a ortaklar koştular de ki onları isimlendirin yeryüzünde (Allah’ın) bilmediği bir şeyi yoksa siz haber mi veriyorsunuz? yoksa boş söz mü (söylüyorsunuz)? hayır tuzakları inkar eden(lere) kimselere süslü gösterildi ve yoldan çıkarıldılar ve kimi şaşırtırsa Allah ona artık olmaz! hiçbir yol gösteren
+**(33)** her nefsin yaptığı işin üzerinde duran, o kimse gibi midir? onlar Allah’a ortaklar koştular de ki onları isimlendirin yoksa yeryüzünde (Allah’ın) bilmediği bir şeyi siz haber mi veriyorsunuz? yoksa boş söz mü (söylüyorsunuz)? hayır inkar eden(lere) tuzakları kimselere süslü gösterildi ve yoldan çıkarıldılar ve kimi şaşırtırsa Allah hiçbir yol gösteren ona artık olmaz!
 **(34)** 
 **(35)** 
 **(36)** 
