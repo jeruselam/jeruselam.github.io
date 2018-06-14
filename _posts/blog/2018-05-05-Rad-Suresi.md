@@ -42,16 +42,16 @@ tag:
 **(30)** bir millet içine böylece seni [Resûl]gönderdik elbette kendilerinden önce geçmiş bulunan (nice) milletler[içine], sana vahyettiğimiz şeyleri onlara okuyasın diye oysa onlar Rahman’a nankörlük ederler, de ki O benim Rabbimdir O’ndan başka tanrı[ilah] yoktur O’na dayandım ve tevbem/dönüşüm yalnız O’nadır
 **(31)** dağların kendisiyle yürütüldüğü bir Kur’an eğer olsaydı yahut arzın kendisiyle parçalandığı yahut ölülerin kendisiyle konuşturulduğu, hayır bütün işler Allah’a aittir inanan(lar) kimseler hala anlamadılar mı? şayet Allah dileseydi bütün insanlara hidayet verirdi ve inkar eden(lere) kimselere yaptıkları işler yüzünden bir bela isabet etmesi geri durmaz yahut Allah’ın va’di gelinceye kadar yurtlarının yakınına konar şüphesiz Allah sözünden caymaz
 **(32)** ve senden önceki peygamberlerle andolsun alay edildi fakat inkar eden(lere) kimselere bir süre verdim sonra onları yakaladım cezam nasıl imiş 
-**(33)** her nefsin yaptığı işin üzerinde duran, o kimse gibi midir? onlar Allah’a ortaklar koştular de ki onları isimlendirin yoksa yeryüzünde (Allah’ın) bilmediği bir şeyi siz haber mi veriyorsunuz? yoksa boş söz mü (söylüyorsunuz)? hayır inkar eden(lere) tuzakları kimselere süslü gösterildi ve yoldan çıkarıldılar ve kimi şaşırtırsa Allah hiçbir yol gösteren ona artık olmaz!
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)** 
-**(41)** 
-**(42)** 
-**(43)** 
+**(33)** her nefsin yaptığı işin üzerinde duran o kimse gibi midir? onlar Allah’a ortaklar koştular de ki onları isimlendirin yoksa yeryüzünde (Allah’ın) bilmediği bir şeyi siz haber mi veriyorsunuz? yoksa boş söz mü (söylüyorsunuz)? hayır inkar eden(lere) kimselere tuzakları süslü gösterildi ve yoldan çıkarıldılar ve kimi şaşırtırsa Allah hiçbir yol gösteren ona artık olmaz!
+**(34)** dünya hayatında azab onlar için vardır ve ahiret azabı ise daha zordur ve Allah dan onlar için hiçbir koruyacak (kimse) yoktur 
+**(35)** korunanlara va’dedilen cennetin durumu şöyledir ırmaklar altından akar meyvesi ve gölgesi de süreklidir korunan(ların) kimselerin sonu işte budur ve inkar edenlerin sonu ise ateştir
+**(36)** ve Kitap verdiğimiz kimseler sana indirilene sevinirler fakat kabilelerden onun bir kısmını inkar eden(ler) kimseler (vardır) de ki Allah’a kulluk etmem ve O’na ortak koşmamam yalnız bana emredildi O’na da’vet ederim ve dönüşüm O’nadır
+**(37)** ve arapça bir hüküm olarak işte biz onu indirdik ve ilim sana gelenden sonra onların keyiflerine eğer uyarsan Allah’tan hiçbir dost ne de bir koruyucu senin için artık yoktur
+**(38)** ve biz senden önce andolsun elçiler gönderdik ve onlara eşler ve çocuklar verdik hiçbir elçinin Allah’ın izni olmadan bir ayet getirmesi mümkün değildir her sürenin bir yazısı (vardır)
+**(39)** dilediğini Allah siler ve (dilediğini) bırakır Kitap ana O’nun yanındadır
+**(40)** onları uyardığımızın bir kısmını ya sana gösteririz ya da senin canını alırız şüphesiz sana düşen sadece duyurmaktır ve hesap görmek bize düşer
+**(41)** bizim yeryüzüne geldiğimizi uçlarından onu eksilttiğimizi görmediler mi? hüküm veren Allah’tır O’nun hükmünü iptal edecek yoktur ve O’nun hesabı çabuktur
+**(42)** ve onlardan önceki(ler) kimseler kuşkusuz tuzak kurmuştu fakat bütün tuzaklar Allah’ındır her nefsin ne kazandığını bilir ve bu yurdun sonunun kimin olacağını kafirler bileceklerdir 
+**(43)** ve inkar eden(ler) kimseler diyorlar ki sen gönderilmiş bir elçi değilsin de ki benimle sizin aranızda Allah’ın ve yanında Kitap bilgisi bulunanların şahid olması yeter 
 
 ![13Ra'd-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")
