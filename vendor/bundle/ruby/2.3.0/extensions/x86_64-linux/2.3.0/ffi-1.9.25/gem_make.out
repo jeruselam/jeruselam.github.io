@@ -1,0 +1,145 @@
+current directory: /run/media/zeki/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
+/usr/bin/ruby -r ./siteconf20180615-29247-rhvdwk.rb extconf.rb
+checking for ffi_call() in -lffi... yes
+checking for ffi_closure_alloc()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+checking for shlwapi.h... no
+checking for ruby/thread.h... yes
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... yes
+creating extconf.h
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /run/media/zeki/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.3.0/extensions/x86_64-linux/2.3.0/ffi-1.9.25/mkmf.log
+
+current directory: /run/media/zeki/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /run/media/zeki/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
+make "DESTDIR="
+compiling AbstractMemory.c
+AbstractMemory.c:481:1: UYARI: 'memory_read_array_of_string' defined but not used [-Wunused-function]
+ memory_read_array_of_string(int argc, VALUE* argv, VALUE self)
+ ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c:176:1: UYARI: 'memory_read_array_of_bool' defined but not used [-Wunused-function]
+ memory_read_array_of_##name(VALUE self, VALUE length) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:152:1: UYARI: 'memory_write_array_of_bool' defined but not used [-Wunused-function]
+ memory_write_array_of_##name(VALUE self, VALUE ary) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:126:1: UYARI: 'memory_read_bool' defined but not used [-Wunused-function]
+ memory_read_##name(VALUE self) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:118:1: UYARI: 'memory_get_bool' defined but not used [-Wunused-function]
+ memory_get_##name(VALUE self, VALUE offset) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:99:1: UYARI: 'memory_write_bool' defined but not used [-Wunused-function]
+ memory_write_##name(VALUE self, VALUE value) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:90:1: UYARI: 'memory_put_bool' defined but not used [-Wunused-function]
+ memory_put_##name(VALUE self, VALUE offset, VALUE value) \
+ ^
+AbstractMemory.c:299:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:176:1: UYARI: 'memory_read_array_of_longdouble' defined but not used [-Wunused-function]
+ memory_read_array_of_##name(VALUE self, VALUE length) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:152:1: UYARI: 'memory_write_array_of_longdouble' defined but not used [-Wunused-function]
+ memory_write_array_of_##name(VALUE self, VALUE ary) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:126:1: UYARI: 'memory_read_longdouble' defined but not used [-Wunused-function]
+ memory_read_##name(VALUE self) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:118:1: UYARI: 'memory_get_longdouble' defined but not used [-Wunused-function]
+ memory_get_##name(VALUE self, VALUE offset) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:99:1: UYARI: 'memory_write_longdouble' defined but not used [-Wunused-function]
+ memory_write_##name(VALUE self, VALUE value) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+AbstractMemory.c:90:1: UYARI: 'memory_put_longdouble' defined but not used [-Wunused-function]
+ memory_put_##name(VALUE self, VALUE offset, VALUE value) \
+ ^
+AbstractMemory.c:263:1: bilgi: in expansion of macro 'NUM_OP'
+ NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+ ^~~~~~
+compiling ArrayType.c
+compiling Buffer.c
+compiling Call.c
+compiling ClosurePool.c
+compiling DataConverter.c
+compiling DynamicLibrary.c
+compiling Function.c
+Function.c: 'callback_invoke' işlevinde:
+Function.c:486:14: UYARI: variable 'empty' set but not used [-Wunused-but-set-variable]
+         bool empty = false;
+              ^~~~~
+compiling FunctionInfo.c
+FunctionInfo.c: 'fntype_initialize' işlevinde:
+FunctionInfo.c:121:27: UYARI: variable 'rbConvention' set but not used [-Wunused-but-set-variable]
+     VALUE rbEnums = Qnil, rbConvention = Qnil, rbBlocking = Qnil;
+                           ^~~~~~~~~~~~
+compiling LastError.c
+compiling LongDouble.c
+compiling MappedType.c
+compiling MemoryPointer.c
+compiling MethodHandle.c
+compiling Platform.c
+compiling Pointer.c
+compiling Struct.c
+compiling StructByReference.c
+compiling StructByValue.c
+compiling StructLayout.c
+StructLayout.c: 'struct_field_initialize' işlevinde:
+StructLayout.c:102:9: UYARI: variable 'nargs' set but not used [-Wunused-but-set-variable]
+     int nargs;
+         ^~~~~
+compiling Thread.c
+compiling Type.c
+compiling Types.c
+compiling Variadic.c
+Variadic.c: 'variadic_initialize' işlevinde:
+Variadic.c:106:11: UYARI: variable 'convention' set but not used [-Wunused-but-set-variable]
+     VALUE convention = Qnil;
+           ^~~~~~~~~~
+compiling ffi.c
+linking shared-object ffi_c.so
+
+current directory: /run/media/zeki/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20180615-29247-bvnt1f

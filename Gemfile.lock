@@ -33,7 +33,7 @@ GEM
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
     fastimage (2.1.3)
-    ffi (1.9.23)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)
@@ -79,7 +79,7 @@ GEM
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     json (2.1.0)
-    kramdown (1.16.2)
+    kramdown (1.17.0)
     liquid (4.0.0)
     liquid-tag-parser (1.9.0)
       extras (~> 0.3)
@@ -119,7 +119,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.10)
+    uglifier (4.1.11)
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
