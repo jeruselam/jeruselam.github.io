@@ -14,10 +14,10 @@ tag:
 **(2)** elbette biz anlayasınız diye arapça bir Kur’an olarak onu indirdik
 **(3)** bu Kur’an’ı sana vahyetmekle kıssaların en güzelini biz sana anlatıyoruz ve sen oysa ondan önce bilmeyen kimselerden idin
 **(4)** hani Yusuf babasına demişti babacığım ben (rü’yada) (on) bir yıldız ve güneşi ve ayı gördüm, gördüm ki onlar bana secde ediyorlardı
-**(5)** 
-**(6)** 
-**(7)** 
-**(8)** 
+**(5)** kardeşlerine rü’yanı anlatma yavrum dedi sonra sana bir tuzak kurarlar şüphesiz şeytan insan için apaçık bir düşmandır
+**(6)** ve böyece Rabbin seni seçecek ve düşlerin yorumunu sana öğretecektir ve sana ve daha önce İbrahim ve İshak ataları üzerine tamamladığı gibi Ya’kub soyu üzerine ni’metini tamamlayacaktır şüphesiz Rabbin bilendir hüküm ve hikmet sahibidir
+**(7)** Yusuf ve kardeşlerinde soranlar için andolsun ibretler vardır
+**(8)** hani demişlerdi ki Yusuf ve kardeşi bizden babamıza daha sevgilidir oysa biz bir cemaatiz şüphesiz babamız açık bir yanlışlık içindedir
 **(9)** 
 **(10)** 
 **(11)** 
