@@ -24,7 +24,7 @@ tag:
 **(12)** yarın bizimle beraber onu gönder gezsin ve oynasın ve biz elbette onu koruruz
 **(13)** dedi ki onu götürmeniz şüphesiz beni üzer ve sizin ondan haberiniz yokken bir kurt onu yer diye korkarım
 **(14)** dediler ki biz bir topluluk (olduğumuz halde) kurt andolsun onu yerse elbette biz o zaman tamamen kaybedenlerdeniz
-**(15)** 
+**(15)** nihayet onu götürdüler ve kuyunun dibine atmaya karar verdiler ve O’na biz vahyettik onların bu işlerini ve onlar hiç farkında değillerken andolsun haber vereceksin
 **(16)** 
 **(17)** 
 **(18)** 
