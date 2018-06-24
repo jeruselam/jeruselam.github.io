@@ -29,8 +29,8 @@ tag:
 **(17)** babamız dediler biz gittik yarışıyorduk ve Yusuf’u yiyeceğimizin yanında bırakmıştık kurt onu yemiş fakat sen bize inanacak değilsin şayet dosdoğru (söylesek de)
 **(18)** ve yalandan üzeri kanlı gömleğinin getirdiler dedi ki nefisleriniz sizi bir işe herhalde aldattıp sürüklemiş artık (tek çarem) güzelce sabretmektir dediğinize kaşı ancak Allan’tan yardım istenir
 **(19)** ve bir kervan geldi sucularını gönderdiler kovasını sarkıttı dedi ki müjde! bu bir oğlan! ve ticaret için onu sakladılar onların yaptıkları şeyleri halbuki Allah biliyordu
-**(20)** 
-**(21)** 
+**(20)** ve birkaç paraya düşük bir pahaya onu sattılar ve ona karşı isteksiz idiler
+**(21)** ve Mısır’lı karısına onu satın alan kimse dedi ki ona kıymet ver iyi bak belki bize yararı dokunur ya da onu evlad ediniriz ve o yerde Yusuf’a böylece bir imkan verdik ve düşlerin yorumunu ona öğrettik ve işinde Allah galip olandır ama insanların çoğu bilmezler
 **(22)** 
 **(23)** 
 **(24)** 
