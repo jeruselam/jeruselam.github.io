@@ -26,9 +26,9 @@ tag:
 **(14)** dediler ki biz bir topluluk (olduğumuz halde) kurt andolsun onu yerse elbette biz o zaman tamamen kaybedenlerdeniz
 **(15)** nihayet onu götürdüler ve kuyunun dibine atmaya karar verdiler ve O’na biz vahyettik onların bu işlerini ve onlar hiç farkında değillerken andolsun haber vereceksin
 **(16)** ve babalarına akşamleyin ağlayarak geldiler
-**(17)** 
-**(18)** 
-**(19)** 
+**(17)** babamız dediler biz gittik yarışıyorduk ve Yusuf’u yiyeceğimizin yanında bırakmıştık kurt onu yemiş fakat sen bize inanacak değilsin şayet dosdoğru (söylesek de)
+**(18)** ve yalandan üzeri kanlı gömleğinin getirdiler dedi ki nefisleriniz sizi bir işe herhalde aldattıp sürüklemiş artık (tek çarem) güzelce sabretmektir dediğinize kaşı ancak Allan’tan yardım istenir
+**(19)** ve bir kervan geldi sucularını gönderdiler kovasını sarkıttı dedi ki müjde! bu bir oğlan! ve ticaret için onu sakladılar onların yaptıkları şeyleri halbuki Allah biliyordu
 **(20)** 
 **(21)** 
 **(22)** 
