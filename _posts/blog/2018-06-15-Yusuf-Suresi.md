@@ -122,4 +122,4 @@ tag:
 **(110)** 
 **(111)** 
 
-![12Yûsuf-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür"){: style="float:right;margin:5px"}
+![12Yûsuf-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür"){: style="float:right;margin:3px"}
