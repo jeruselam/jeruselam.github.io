@@ -143,10 +143,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  yandex-verification: 9f8cc816e6c6d216
 
 #verifications
 
+yandex_site_verification: "9f8cc816e6c6d216"
 webmaster_verifications:
   google: t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s
 
