@@ -25,6 +25,7 @@ search_omit: true
 {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></li>
 {% endfor %}
 </ul>
+{% include rotate.html %}
 <p>
       <a target="_blank" href="https://validator.w3.org/check?uri=referer" rel="nofollow"><img
           src="https://www.w3.org/Icons/valid-xhtml10"
@@ -38,5 +39,4 @@ search_omit: true
 <!-- /Flag Counter -->
 <a href="https://www.worldflagcounter.com/details/es3"><img src="https://www.worldflagcounter.com/es3/" alt=""></a>
 </p>
-{% include rotate.html %}
 
