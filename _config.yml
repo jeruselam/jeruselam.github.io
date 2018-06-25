@@ -138,11 +138,11 @@ owner:
   weibo: 
   google:
     plus: 
-    analytics: "t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s"
-    verify: "t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s"
+    analytics: 
+    verify: "zFuwF6tlf7YemTRN-ZOvl5lG1rjuI9qEomPbr_5vAu8"
     ad-client:
     ad-slot:
-  bing-verify:
+  bing-verify: "D462E9F8C0920AC921D93C3895430C0D"
   yandex-verify: "9f8cc816e6c6d216"
 
 # Site Info
