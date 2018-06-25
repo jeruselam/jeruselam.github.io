@@ -30,29 +30,29 @@ tag:
 **(18)** hayır batılın üstüne hakkı biz atarız derhal onun beynini parçalar o yok olur yakıştırdıklarınızdan ötürü size yazıklar olsun 
 **(19)** göklerde ve yerde olan kimseler ve O’nun yanındaki kimseler O’na kulluk etmekten büyüklenmez ve yorulmazlar
 **(20)** gece ve gündüz tesbih ederler hiç ara vermezler
-**(21)** yerden onları diriltecek yoksa tanrılar edindiler mi?
-**(22)** eğer ikisinde Allah’tan başka tanrılar olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
+**(21)** yerden onları diriltecek yoksa tanrılar[ilâhlar] edindiler mi?
+**(22)** eğer ikisinde Allah’tan başka tanrılar[ilâhlar] olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
 **(23)** yaptığı şeylerden O sorulmaz ama onlar sorulurlar
-**(24)** yoksa O’ndan başka tanrılar mı edindiler? de ki delilinizi getirin, benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (Hakk'tan) yüz çevirirler
-**(25)** ve ona şüphesiz benden başka tanrı yoktur bana kulluk edin diye vahyetmediğimiz senden önce hiçbir peygamber göndermedik
-**(26)** ve Rahman çocuk edindi dediler O münezzehtir hayır değerli  bilakis[kullar]
+**(24)** yoksa O’ndan başka tanrılar[ilâhlar] mı edindiler? de ki delilinizi getirin, benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (Hakk'tan) yüz çevirirler
+**(25)** ve ona şüphesiz benden başka tanrı[ilâh] yoktur bana kulluk edin diye vahyetmediğimiz senden önce hiçbir peygamber göndermedik
+**(26)** ve Rahman çocuk edindi dediler O münezzehtir hayır bilakis değerli [kullardır]
 **(27)** O’ndan önce söylemezler bir söz ve onlar O’nun buyruğunu yaparlar
 **(28)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı bilir ve razı olduklarından başkasına şefa’at edemezler ve onlar O’nun [sevgisinin azalması]korkusundan[ [şefkatle sevene layık surette]titrerler
-**(29)** ve O’ndan[Allah] başka onlardan her kim ben bir tanrıyım[ilâh] derse böylece cehennemle onu cezalandırırız böyle zalimleri biz cezalandırırız
+**(29)** ve O’ndan[Allah'tan] başka onlardan her kim ben bir tanrıyım[ilâhım] derse böylece cehennemle onu cezalandırırız böyle zalimleri biz cezalandırırız
 **(30)** inkar eden(ler) kimseler görmediler mi? şüphesiz gökler ve yer bitişik idi biz onları ayırdık ve canlı her şeyi sudan yarattık hala inanmıyorlar mı?
 **(31)** ve onları sarsar diye yerde yüksek dağlar yarattık ve orada geniş yollar açtık umulur ki yollarını bulurlar
 **(32)** ve göğü korunmuş bir tavan yaptık onlar hala ayetlerinden yüz çevirmektedirler
 **(33)** geceyi ve gündüzü ve güneşi ve ayı yaratan O’dur her biri bir yörüngede yüzmektedir
 **(34)** ve senden önce hiçbir insana ebedi yaşam vermedik şimdi eğer sen ölürsen onlar ebedi (mi kalacaklar?)
 **(35)** her nefis ölümü tadacaktır ve sınamak için şer ile ve hayır ile sizi imtihan ederiz ve (sonunda) bize döndürüleceksiniz
-**(36)** inkar eden kimseler seni gördükleri zaman sizin tanrılarınızı diline dolayan kişi bu mudur? (diye) alay konusu etmek dışında seni edinmezler[kabullenmezler] oysa kendileri Rahman’ın Zikri(uyarısı)nı onlar inkar ediyorlar
+**(36)** inkar eden kimseler seni gördükleri zaman sizin tanrılarınızı[ilâhlarınızı] diline dolayan kişi bu mudur? (diye) alay konusu etmek dışında seni edinmezler[kabullenmezler] oysa kendileri Rahman’ın Zikri(uyarısı)nı onlar inkar ediyorlar
 **(37)** insan aceleden[çabuk isteyen olarak] yaratılmıştır ayetlerimi size göstereceğim benden acele istemeyin
 **(38)** ve eğer doğru söyleyenler iseniz bu tehdid(ettiğiniz azab) ne zaman? diyorlar 
 **(39)** inkar eden(ler) kimseler yüzlerinden ne de sırtlarından ateşi savamayacakları ve onlara yardım da olunmayacakları zamanı eğer bir bilselerdi 
 **(40)** doğrusu ansızın o onlara gelecek onları şaşırtacak onu reddetmeye güçleri yetmeyecek ve ne de kendilerine süre verilecek
 **(41)** ve andolsun senden önceki peygamberlerle alay edildi onların onunla alay ettikleri şey[ler] onlarla alay eden(leri) kimseleri ama kuşatıverdi
 **(42)** de ki Rahman'dan gece ve gündüz kim sizi koruyacak? hayır onlar Rablerinin Zikr'inden yüz çeviriyorlar
-**(43)** yoksa bize karşı onları koruyacak tanrıları mı var? kendilerine yardım etmeye onların gücü yetmez ne de onlara bizim tarafımızdan sahip çıkılır
+**(43)** yoksa bize karşı onları koruyacak tanrıları[ilâhları] mı var? kendilerine yardım etmeye onların gücü yetmez ne de onlara bizim tarafımızdan sahip çıkılır
 **(44)** bilakis onları ve atalarını biz yaşattık nihayet ömür kendilerine uzun geldi bizim gelip yerlerini (topraklarını) uçlarından eksilttiğimizi görmüyorlar mı? üstün gelen onlar mı?
 **(45)** de ki ben ancak vahiyle sizi uyarıyorum ama uyarıldıkları zaman sağır(lar) çağrıyı işitmez(ler)
 **(46)** ve eğer Rabbinin azabından bir esinti onlara dokunsa eyvah bize derler biz gerçekten zalimler olmuşuz
@@ -68,16 +68,16 @@ tag:
 **(56)** hayır dedi Rabbiniz göklerin ve yerin Rabbidir o ki onları yaratmıştır ve ben de bunun üzerine şahidlik edenlerdenim
 **(57)** Allah’a and olsun ki arkanızı dönüp siz gittikten sonra putlarınıza bir tuzak kuracağım
 **(58)** nihayet onları etti parça parça yalnız hariç onların büyüğü belki ona müracaat ederler (diye)
-**(59)** bunu tanrılarımıza kim? yaptı dediler muhakkak o zalimlerden biridir
+**(59)** bunu tanrılarımıza[ilâhlarımıza] kim? yaptı dediler muhakkak o zalimlerden biridir
 **(60)** onları diline dolayan bir genç işittik dediler kendisine İbrahim deniliyormuş
 **(61)** insanların gözü önüne onu getirin dediler böylece onlar tanık olsunlar
-**(62)** İbrahim tanrılarımıza bunu sen mi? yaptın dediler ki
+**(62)** İbrahim tanrılarımıza[ilâhlarımıza] bunu sen mi? yaptın dediler ki
 **(63)** hayır dedi işte şu büyükleri yapmış onlara sorun eğer onlar konuşurlarsa
 **(64)** kendi vicdanlarına döndüler ve hakikaten siz sizler haksızsınız dediler
 **(65)** sonra yine eski kafaları üzerine döndürüldüler muhakkak bilirsin ki bunlar konuşmazlar
 **(66)** dedi ki Allah’ı bırakıp da asla size fayda vermeyen ve hiçbir zarar vermeyen şeylere tapıyor musunuz?
 **(67)** Allah’tan dışında taptıklarınıza ve size yuh olsun aklınızı kullanmıyor musunuz siz?
-**(68)** dediler ki onu (İbrahim’i) yakın ve tanrılarınıza yardım edin eğer siz (bir iş) yapacaksanız
+**(68)** dediler ki onu (İbrahim’i) yakın ve tanrılarınıza[ilâhlarınıza] yardım edin eğer siz (bir iş) yapacaksanız
 **(69)** biz de dedik ki ateş İbrahim’e serin ve esenlik ol
 **(70)** ve ona bir tuzak kurmak istediler biz de kendilerini uğrattık hüsrana
 **(71)** ve alemlere bereketli kıldığımız bir yere (getirerek) Lut’u ve onu kurtardık
@@ -96,7 +96,7 @@ tag:
 **(84)** onu(n du’asını) biz de kabul ettik ve onun ne varsa derdi kaldırdık ve ailesini ve ibadet edenler için tarafımızdan bir rahmet ve bir öğüt olarak onlarla beraber bir katını daha ona verdik
 **(85)** ve İsma’il’i, İdris’i ve Zu’l-Kifl’i hepsi de sabredenlerdendi
 **(86)** ve onları soktuk rahmetimize çünkü onlar Salihlerdendi
-**(87)** ve Zünnun’u kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti karanlıklar içinde nihayet yalvardı senden başka tanrı yoktur diye senin şanın yücedir muhakkak ben zalimlerden oldum
+**(87)** ve Zünnun’u kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti karanlıklar içinde nihayet yalvardı senden başka tanrı[ilâh] yoktur diye senin şanın yücedir muhakkak ben zalimlerden oldum
 **(88)** onu(n du’asını) biz de kabul ettik ve tasadan onu kurtardık işte böyle inananları biz kurtarırız
 **(89)** ve Zekeriyya’yı da hani Rabbine du’a etmişti Rabbim tek başıma beni bırakma ve sen varislerin en iyisisin
 **(90)** onu(n du’asını) kabul buyurduk ve Yahya’yı ona armağan ettik ve eşini kendisi için ıslah ettik gerçekten onlar hayır (işlere) koşuyor(lar) idiler ve [ihlasla]umarak ve [çekinip]korkarak bize du’a ederlerdi ve bize[şefkatle sevene layık surette] derin bir saygı içinde idiler
@@ -108,7 +108,7 @@ tag:
 **(96)** nihayet Ye’cuc’un ve Me’cuc’un önü açıldığı ve onlar her tepeden akın etmeye başladıkları zaman
 **(97)** ve birden o gerçek va’d yaklaşır inkar eden(lerin) kimselerin gözleri donup kalır vah bize gaflet içinde gerçekten biz idik
 **(98)** şüphesiz siz ve Allah’tan başka taptıklarınız cehennemin odunusunuz siz oraya gireceksiniz
-**(99)** eğer onlar tanrılar olsalardı oraya girmezlerdi oysa hepsi orada sürekli kalacaklardır
+**(99)** eğer onlar tanrılar[ilâhlar] olsalardı oraya girmezlerdi oysa hepsi orada sürekli kalacaklardır
 **(100)** orada bir inleme[ateş gürültüsü] onlar için vardır ve onlar orada hiçbir şey işitmezler
 **(101)** kuşkusuz kendilerine bizden güzellik geçmiş olan(lar) kimseler işte onlar ondan (cehennemden) uzaklaştırılmışlardır
 **(102)** onun uğultusunu duymazlar ve onlar canlarının çektiği (ni’metler) içinde ebedi kalırlar
@@ -117,7 +117,7 @@ tag:
 **(105)** ve andolsun Zikir’den (Tevrat’tan) sonra Zebur’da yazmıştık iyi kullarım mutlaka arza varis olacak
 **(106)** şüphesiz kulluk eden kavimler için bunda elbette bir öğüt vardır
 **(107)** ve alemler için rahmetten başka sebeple biz seni göndermedik
-**(108)** de ki şüphesiz bana vahyolunur ancak Tanrınız[ilāh] bir tek Tanrıdır siz O’na teslim[erkek müslümanlar] olacak mısınız?
+**(108)** de ki şüphesiz bana vahyolunur ancak Tanrınız[ilāhınız] bir tek Tanrıdır[ilâhtır] siz O’na teslim[erkek müslümanlar] olacak mısınız?
 **(109)** eğer yüz çevirirlerse de ki eşit biçimde ben size açıkladım tehdid edildiğiniz şeyin uzak (mı olduğunu) yoksa yakın mı (olduğunu) artık bilmem
 **(110)** şüphesiz O sözün açığını bilir ve ne gizliyorsanız bilir
 **(111)** ve bilmem belki de o sizi denemek içindir ve bir süreye kadar yaşatmak içindir

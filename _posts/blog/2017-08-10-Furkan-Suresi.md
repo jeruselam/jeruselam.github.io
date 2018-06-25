@@ -52,7 +52,7 @@ tag:
 **(40)** ve andolsun yağmura tutulan kente vardılar bela yağmuruna onu görmüyorlar mıydı? hayır onlar tekrar dirilip kalkmayı ummuyorlardı 
 **(41)** ve seni gördükleri zaman seni yapmıyorlar eğlence konusundan başka bir şey Allah bunu mu? elçi göndermiş 
 **(42)** nerdeyse bizi saptıracaktı (diyorlar) tanrılarımızdan onda biz kararlılık eğer etmeseydik ve yakında bileceklerdir azabı gördükleri zaman kimin yolunun sapık olduğunu
-**(43)** arzusunu tanrı[ilahe] edinen kimseyi gördün mü? onun üstüne sen mi? bekçi[vekil,işini gören] olacaksın 
+**(43)** arzusunu tanrı[ilâhe] edinen kimseyi gördün mü? onun üstüne sen mi? bekçi[vekil,işini gören] olacaksın 
 **(44)** yoksa sanıyor musun ki? onların çoğu gerçekten işitiyorlar veya düşünüyorlar, değildir onlar ancak hayvanlar gibidir hatta onlar yolca daha sapıktır 
 **(45)** görmedin mi? Rabbini nasıl? uzattı gölgeyi ve şayet dileseydi onu durgun yapardı sonra güneşi ona bir delil[kılavuz] kıldık 
 **(46)** sonra çekip aldık kendimize yavaş yavaş kolayca
@@ -77,7 +77,7 @@ tag:
 **(65)** ve Rabbimiz derler uzaklaştır bizden cehennemin azabını doğrusu onun azabı sargındır[şiddetli arzulu]
 **(66)** orası ne kötü bir karargahtır[durulan yer] ve bir makamdır[ikamet yeri]
 **(67)** ve infak ettikleri zaman israf etmezler ve cimrilik etmezler ve bu (ikisinin) arasında dengeli olur 
-**(68)** ve onlar Allah ile beraber başka tanrıya[ilah] yalvarmazlar ve öldürmezler canı öyle ki hak(lı sebep) dışında Allah’ın haram ettiği ve zina etmezler ve kim yaparsa bunları bulur cezasını
+**(68)** ve onlar Allah ile beraber başka tanrıya[ilâha] yalvarmazlar ve öldürmezler canı öyle ki hak(lı sebep) dışında Allah’ın haram ettiği ve zina etmezler ve kim yaparsa bunları bulur cezasını
 **(69)** kıyamet günü onun için azab kat kat yapılır ve hor ve hakir olarak onun içinde kalır 
 **(70)** tevbe eden kimse(ler) dışında ve iman eden ve faydalı bir iş yapanlar işte değiştirecektir Allah onların kötülüklerini iyiliklere ve Allah çok bağışlayandır çok esirgeyendir
 **(71)** ve kim tevbe eder ve yaparsa faydalı iş şüphesiz döner Allah’a tevbesi kabul edilmiş olarak

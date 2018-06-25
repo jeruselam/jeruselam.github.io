@@ -97,6 +97,6 @@ tag:
 **(85)** şüphesiz ki Kur’an’ı sana gerekli kılan, elbette varılacak yere seni döndürecektir de ki Rabbim bilir, kim hidayet getirmiştir ve kim O apaçık bir sapıklık içindedir
 **(86)** ve Kitabın sana vahyolunacağını sen umuyor değildin ancak Rabbinden bir rahmet olarak o halde kafirlere[iyilik bilmeyen] arka olma
 **(87)** ve sana indirildikten sonra sakın Allah’ın ayetlerinden seni alıkoymasınlar ve Rabbine da’vet et ve ortak koşanlardan olma 
-**(88)** ve Allah ile beraber başka bir tanrıya yalvarma O’ndan başka tanrı yoktur O’nun yüzü(zatı)ndan başka her şey helak olacaktır Hüküm O’nundur ve O’na döndürüleceksiniz
+**(88)** ve Allah ile beraber başka bir tanrıya[ilâha] yalvarma O’ndan başka tanrı[ilâh] yoktur O’nun yüzü(zatı)ndan başka her şey helak olacaktır Hüküm O’nundur ve O’na döndürüleceksiniz
 
 ![28k-Mekki]({{site.url}}/images/ayrac-muhur.png)
