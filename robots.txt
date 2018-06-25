@@ -1,5 +1,8 @@
-Sitemap: https://jeruselam.github.io/sitemap.xml
+---
+layout: null
+sitemap: false
+---
 
-
-# robotstxt.org/
 User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
+

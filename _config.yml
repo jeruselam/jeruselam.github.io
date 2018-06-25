@@ -138,17 +138,12 @@ owner:
   weibo: 
   google:
     plus: 
-    analytics:
-    verify:
+    analytics: "t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s"
+    verify: "t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s"
     ad-client:
     ad-slot:
   bing-verify:
-
-#verifications
-
-yandex_site_verification: "9f8cc816e6c6d216"
-webmaster_verifications:
-  google: t_7kaT-5XWSyzsoUNzXfL3kvx0mmBCEyq-RnnrDbg_s
+  yandex-verify: "9f8cc816e6c6d216"
 
 # Site Info
 licence:
