@@ -31,9 +31,9 @@ tag:
 **(19)** ve bir kervan geldi sucularını gönderdiler kovasını sarkıttı dedi ki müjde! bu bir oğlan! ve ticaret için onu sakladılar onların yaptıkları şeyleri halbuki Allah biliyordu
 **(20)** ve birkaç paraya düşük bir pahaya onu sattılar ve ona karşı isteksiz idiler
 **(21)** ve Mısır’lı karısına onu satın alan kimse dedi ki ona kıymet ver iyi bak belki bize yararı dokunur ya da onu evlad ediniriz ve o yerde Yusuf’a böylece bir imkan verdik ve düşlerin yorumunu ona öğrettik ve işinde Allah galip olandır ama insanların çoğu bilmezler
-**(22)** 
-**(23)** 
-**(24)** 
+**(22)** ne zaman ki kuvvetli çağına erişince ona hüküm ve ilim verdik güzel hareket edenleri işte böyle mükafatlandırırız
+**(23)** ve o (Yusuf) onun evinde iken onun nefsinden kadın murad almak istedi ve kapıları kilitledi ve haydi gelsene sen dedi Allah’a sığınırım dedi şüphesiz efendim[Rabbim] en güzel şekilde bana baktı zalimler şüphesiz iflah olmaz
+**(24)** andolsun onu[Yûsuf'u] kadın arzu etmişti eğer Rabbinin doğruyu gösteren delilini görmeseydi onu[Kadını] o da arzu etmişti böylece kötülüğü ve fuhşu ondan çevirmek istedik çünkü o ihlasa erdirilmiş kullarımızdandır
 **(25)** 
 **(26)** 
 **(27)** 
