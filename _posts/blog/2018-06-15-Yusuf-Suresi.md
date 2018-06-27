@@ -34,10 +34,10 @@ tag:
 **(22)** ne zaman ki kuvvetli çağına erişince ona hüküm ve ilim verdik güzel hareket edenleri işte böyle mükafatlandırırız
 **(23)** ve o (Yusuf) onun evinde iken onun nefsinden kadın murad almak istedi ve kapıları kilitledi ve haydi gelsene sen dedi Allah’a sığınırım dedi şüphesiz efendim[Rabbim] en güzel şekilde bana baktı zalimler şüphesiz iflah olmaz
 **(24)** andolsun onu[Yûsuf'u] kadın arzu etmişti eğer Rabbinin doğruyu gösteren delilini görmeseydi onu[Kadını] o da arzu etmişti böylece kötülüğü ve fuhşu ondan çevirmek istedik çünkü o ihlasa erdirilmiş kullarımızdandır
-**(25)** 
-**(26)** 
-**(27)** 
-**(28)** 
+**(25)** ve kapıya doğru koşuştular ve arkasından gömleğini kadın yırttı ve kapının yanında kadının kocasına rastladılar (kadın) dedi ki hapsolunmaktan veya bir azaptan başka senin ailene kötülük isteyen kimsenin cezası nedir?
+**(26)** (Yusuf) dedi ki benden O murad almak istedi ve kadının ailesinden bir şahid şahidlik etti eğer gömleği önden yırtılmış ise kadın doğrudur o ise yalancılardandır
+**(27)** ve şayet onun gömleği arkadan yırtılmış ise kadın yalancıdır o ise doğrulardandır
+**(28)** gömleğinin arkadan yırtıldığını ne zaman ki gördüler (kadına) dedi ki şüphesiz bu sizin hilenizdir gerçekten sizin hileniz büyüktür
 **(29)** 
 **(30)** 
 **(31)** 
