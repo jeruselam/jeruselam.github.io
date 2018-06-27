@@ -38,9 +38,9 @@ tag:
 **(26)** (Yusuf) dedi ki benden O murad almak istedi ve kadının ailesinden bir şahid şahidlik etti eğer gömleği önden yırtılmış ise kadın doğrudur o ise yalancılardandır
 **(27)** ve şayet onun gömleği arkadan yırtılmış ise kadın yalancıdır o ise doğrulardandır
 **(28)** gömleğinin arkadan yırtıldığını ne zaman ki gördüler (kadına) dedi ki şüphesiz bu sizin hilenizdir gerçekten sizin hileniz büyüktür
-**(29)** 
-**(30)** 
-**(31)** 
+**(29)** Yusuf sen vazgeç bundan (kadın) günahının sen de bağışlanmasını dile çünkü sen günahkarlardan oldun
+**(30)** ve şehirde birtakım kadınlar dediler ki Vezir’in karısı uşağının nefsinden murad almak istemiş muhakak sevda onun bağrını yakmış elbette biz onu açık bir sapıklık içinde görüyoruz
+**(31)** onların hilelerini ne zaman ki (kadın) işitti onlara (haber) gönderdi ve onlar için dayanacak yastıklar hazırladı ve onlardan her birine birer bıçak verdi ve karşılarına çık! dedi ne zaman ki O’nu görünce onu (gözlerinde) büyüttüler ve ellerini kestiler ve haşa dediler Allah için bu insan değildir bu ancak güzel bir melektir
 **(32)** 
 **(33)** 
 **(34)** 
