@@ -42,10 +42,10 @@ tag:
 **(30)** ve şehirde birtakım kadınlar dediler ki Vezir’in karısı uşağının nefsinden murad almak istemiş muhakak sevda onun bağrını yakmış elbette biz onu açık bir sapıklık içinde görüyoruz
 **(31)** onların hilelerini ne zaman ki (kadın) işitti onlara (haber) gönderdi ve onlar için dayanacak yastıklar hazırladı ve onlardan her birine birer bıçak verdi ve karşılarına çık! dedi ne zaman ki O’nu görünce onu (gözlerinde) büyüttüler ve ellerini kestiler ve haşa dediler Allah için bu insan değildir bu ancak güzel bir melektir
 **(32)** dedi ki işte siz ki bunun için beni kınamıştınız andolsun kendisinden ben murad almak istedim o reddetti ama emrettiğim şeyi yapmazsa elbette zindana atılacaktır ve alçalanlardan olacaktır
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
+**(33)** (Yusuf) dedi ki Rabbim bunların beni çağırdığı şeyden bana göre zindan daha iyidir ve onların hilelerini benden savmazsan eğer onlara kayarım ve cahillerden olurum
+**(34)** Rabbi onun du’asını kabul etti onların hilelerini ondan savdı şüphesiz O [Semîul Alîm]işitendir bilendir
+**(35)** sonra bir süreye kadar onu zindana atmaları delilleri gördükten sonra (bile) onlara uygun geldi
+**(36)** ve iki genç daha zindana onunla beraber girdi onlardan biri dedi ki şüphesiz ben şarap sıktığımı (düşümde) görüyorum ve öteki de dedi ben de görüyorum ki başımın üstünde ekmek taşıyorum ondan kuşlar yiyor bunun yorumunu bize haber ver zira biz seni güzel davrananlardan görüyoruz
 **(37)** 
 **(38)** 
 **(39)** 
