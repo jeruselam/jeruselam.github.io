@@ -41,7 +41,7 @@ tag:
 **(29)** Yusuf sen vazgeç bundan (kadın) günahının sen de bağışlanmasını dile çünkü sen günahkarlardan oldun
 **(30)** ve şehirde birtakım kadınlar dediler ki Vezir’in karısı uşağının nefsinden murad almak istemiş muhakak sevda onun bağrını yakmış elbette biz onu açık bir sapıklık içinde görüyoruz
 **(31)** onların hilelerini ne zaman ki (kadın) işitti onlara (haber) gönderdi ve onlar için dayanacak yastıklar hazırladı ve onlardan her birine birer bıçak verdi ve karşılarına çık! dedi ne zaman ki O’nu görünce onu (gözlerinde) büyüttüler ve ellerini kestiler ve haşa dediler Allah için bu insan değildir bu ancak güzel bir melektir
-**(32)** 
+**(32)** dedi ki işte siz ki bunun için beni kınamıştınız andolsun kendisinden ben murad almak istedim o reddetti ama emrettiğim şeyi yapmazsa elbette zindana atılacaktır ve alçalanlardan olacaktır
 **(33)** 
 **(34)** 
 **(35)** 
