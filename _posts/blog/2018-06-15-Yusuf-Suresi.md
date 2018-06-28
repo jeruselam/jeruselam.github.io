@@ -46,7 +46,7 @@ tag:
 **(34)** Rabbi onun du’asını kabul etti onların hilelerini ondan savdı şüphesiz O [Semîul Alîm]işitendir bilendir
 **(35)** sonra bir süreye kadar onu zindana atmaları delilleri gördükten sonra (bile) onlara uygun geldi
 **(36)** ve iki genç daha zindana onunla beraber girdi onlardan biri dedi ki şüphesiz ben şarap sıktığımı (düşümde) görüyorum ve öteki de dedi ben de görüyorum ki başımın üstünde ekmek taşıyorum ondan kuşlar yiyor bunun yorumunu bize haber ver zira biz seni güzel davrananlardan görüyoruz
-**(37)** 
+**(37)** (Yusuf) şöyle dedi rızık olarak verilen bir yemek size gelmez, size gelmeden önceden bunun yorumunu mutlaka size haber vermiş olurum bu bana Rabbimin öğrettiği şeylerdendir 
 **(38)** 
 **(39)** 
 **(40)** 
