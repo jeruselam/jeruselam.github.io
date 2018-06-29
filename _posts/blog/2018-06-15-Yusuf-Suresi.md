@@ -61,8 +61,8 @@ tag:
 **(49)** sonra bunun ardından bir yıl gelir o (yılda) insanlara bol yağmur verilir ve o (yıl) (insanlar meyve) sıkarlar
 **(50)** [Melik]Kral dedi ki onu bana getirin ne zaman ki elçi gelince (Yusuf’a) efendine dön dedi ve ona sor ellerini kesen kadınların maksadı neydi? şüphesiz Rabbim onların tuzaklarını biliyor
 **(51)** Yusuf’un nefsinden murad almak istediğiniz zaman durumunuz neydi? dedi dediler ki haşa Allah için onun hiçbir kötülüğünü biz bilmiyoruz Aziz’in karısı da dedi işte şimdi hak yerini buldu onun nefsinden ben murad almak istemiştim şüphesiz o doğrulardandır
-**(52)** 
-**(53)** 
+**(52)** bu (sözlerim) arkadan benim kendisine hainlik etmediğimi ve muhakkak Allah’ın hainlerin tuzağını başarıya ulaştırmayacağını bilmesi içindir
+**(53)** [kötülüğe meyleden]nefsimi ben temize çıkarmam çünkü nefis Rabbimin esirgediği hariç kötülüğü daima emredicidir şüphesiz Rabbim [Gafûrun Rahîm]bağışlayandır esirgeyendir
 **(54)** 
 **(55)** 
 **(56)** 
