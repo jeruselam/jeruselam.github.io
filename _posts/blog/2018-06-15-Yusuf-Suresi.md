@@ -49,7 +49,7 @@ tag:
 **(37)** (Yusuf) şöyle dedi rızık olarak verilen bir yemek size gelmez mutlaka size gelmeden önceden bunun yorumunu size haber vermiş olurum bu bana Rabbimin öğrettiği şeylerdendir bir kavmin dinini şüphesiz ben terk ettim Allah’a inanmıyorlar ve onlar ahireti onlar inkar ediyorlar
 **(38)** ve atalarım İbrahim’in ve İshak’ın ve Ya’kub’un dinine uydum herhangi bir şeyi Allah’a ortak koşmağa bizim (hakkımız) yoktur Allah’ın üzerimize ve insanların üzerine bu bir lutfudur ama insanların çoğu şükretmezler
 **(39)** benim zindan arkadaşlarım çeşitli tanrılar mı? daha hayırlıdır yoksa [Vâhıdul Kahhâr]tek kahhar olan Allah (mı?)
-**(40)** 
+**(40)** sizin ve atalarınızın isimlendirdiği (boş) isimlerden başkasına o’nu bırakıp siz tapmıyorsunuz Allah onlar hakkında hiçbir delil indirmemiştir Allah’ın dışında (hiçbir[Hâkim]) Hüküm yoktur kendisinden başkasına tapmamanızı O emretmiştir doğru din işte budur ama insanların çoğu bilmezler
 **(41)** 
 **(42)** 
 **(43)** 
