@@ -58,9 +58,9 @@ tag:
 **(46)** çok doğru söyleyen ey Yusuf hakkında bize bilgi ver yedi zayıf (inek) yedi semiz ineği yiyorlar ve yedi yeşil başak diğeri de kuru umarım ki insanlara dönerim onlar da bilirler
 **(47)** (Yusuf) dedi ki âdetiniz üzere yedi yıl siz (ürünü) ekin ne ki biçtiniz yiyeceğiniz az bir mikdar hariç başağında bırakın onu 
 **(48)** sonra onun ardından yedi zorlu (yıl) gelir onlardan sakladığınız az miktar dışında önceden (biriktirdiklerinizi) yeyip bitirir
-**(49)** 
-**(50)** 
-**(51)** 
+**(49)** sonra bunun ardından bir yıl gelir o (yılda) insanlara bol yağmur verilir ve o (yıl) (insanlar meyve) sıkarlar
+**(50)** [Melik]Kral dedi ki onu bana getirin ne zaman ki elçi gelince (Yusuf’a) efendine dön dedi ve ona sor ellerini kesen kadınların maksadı neydi? şüphesiz Rabbim onların tuzaklarını biliyor
+**(51)** Yusuf’un nefsinden murad almak istediğiniz zaman durumunuz neydi? dedi dediler ki haşa Allah için onun hiçbir kötülüğünü biz bilmiyoruz Aziz’in karısı da dedi işte şimdi hak yerini buldu onun nefsinden ben murad almak istemiştim şüphesiz o doğrulardandır
 **(52)** 
 **(53)** 
 **(54)** 
