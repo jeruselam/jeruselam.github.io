@@ -48,7 +48,7 @@ tag:
 **(36)** ve iki genç daha zindana onunla beraber girdi onlardan biri dedi ki şüphesiz ben şarap sıktığımı (düşümde) görüyorum ve öteki de dedi ben de görüyorum ki başımın üstünde ekmek taşıyorum ondan kuşlar yiyor bunun yorumunu bize haber ver zira biz seni güzel davrananlardan görüyoruz
 **(37)** (Yusuf) şöyle dedi rızık olarak verilen bir yemek size gelmez mutlaka size gelmeden önceden bunun yorumunu size haber vermiş olurum bu bana Rabbimin öğrettiği şeylerdendir bir kavmin dinini şüphesiz ben terk ettim Allah’a inanmıyorlar ve onlar ahireti onlar inkar ediyorlar
 **(38)** ve atalarım İbrahim’in ve İshak’ın ve Ya’kub’un dinine uydum herhangi bir şeyi Allah’a ortak koşmağa bizim (hakkımız) yoktur Allah’ın üzerimize ve insanların üzerine bu bir lutfudur ama insanların çoğu şükretmezler
-**(39)** 
+**(39)** benim zindan arkadaşlarım çeşitli tanrılar mı? daha hayırlıdır yoksa [Vâhıdul Kahhâr]tek kahhar olan Allah (mı?)
 **(40)** 
 **(41)** 
 **(42)** 
