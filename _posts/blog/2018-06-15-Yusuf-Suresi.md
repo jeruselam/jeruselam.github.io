@@ -63,7 +63,7 @@ tag:
 **(51)** Yusuf’un nefsinden murad almak istediğiniz zaman durumunuz neydi? dedi dediler ki haşa Allah için onun hiçbir kötülüğünü biz bilmiyoruz Aziz’in karısı da dedi işte şimdi hak yerini buldu onun nefsinden ben murad almak istemiştim şüphesiz o doğrulardandır
 **(52)** bu (sözlerim) arkadan benim kendisine hainlik etmediğimi ve muhakkak Allah’ın hainlerin tuzağını başarıya ulaştırmayacağını bilmesi içindir
 **(53)** [kötülüğe meyleden]nefsimi ben temize çıkarmam çünkü nefis Rabbimin esirgediği hariç kötülüğü daima emredicidir şüphesiz Rabbim [Gafûrun Rahîm]bağışlayandır esirgeyendir
-**(54)** 
+**(54)** Kral onu bana getirin dedi kendime onu özel (dost) yapayım ne zaman ki onunla konuşunca dedi ki şüphesiz sen bugün yanımızda mevki sahibisin güvenilir(bir kimse)sin
 **(55)** 
 **(56)** 
 **(57)** 
