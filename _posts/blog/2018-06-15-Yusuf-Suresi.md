@@ -57,7 +57,7 @@ tag:
 **(45)** iki kişiden kurtulanı dedi ki uzun bir süre sonra hatırladı onun yorumunu ben size haber veririm hemen beni gönderin
 **(46)** çok doğru söyleyen ey Yusuf hakkında bize bilgi ver yedi zayıf (inek) yedi semiz ineği yiyorlar ve yedi yeşil başak diğeri de kuru umarım ki insanlara dönerim onlar da bilirler
 **(47)** (Yusuf) dedi ki âdetiniz üzere yedi yıl siz (ürünü) ekin ne ki biçtiniz yiyeceğiniz az bir mikdar hariç başağında bırakın onu 
-**(48)** 
+**(48)** sonra onun ardından yedi zorlu (yıl) gelir onlardan sakladığınız az miktar dışında önceden (biriktirdiklerinizi) yeyip bitirir
 **(49)** 
 **(50)** 
 **(51)** 
