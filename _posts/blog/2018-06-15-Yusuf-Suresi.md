@@ -52,11 +52,11 @@ tag:
 **(40)** sizin ve atalarınızın isimlendirdiği (boş) isimlerden başkasına o’nu bırakıp siz tapmıyorsunuz Allah onlar hakkında hiçbir delil indirmemiştir Allah’ın dışında (hiçbir[Hâkim]) Hüküm yoktur kendisinden başkasına tapmamanızı O emretmiştir doğru din işte budur ama insanların çoğu bilmezler
 **(41)** zindan arkadaşlarım ikinizden biriniz efendisine şarap yine sunacak diğeri ise asılacak onun başından kuşlar yiyecek sorduğunuz hakkında iş kesinleşmiştir
 **(42)** ve o iki kişiden onun kurtulacağını sandığı kişiye dedi ki efendin(kralın)ın yanında beni an fakat efendisine söylemeyi şeytan ona unutturdu birkaç yıl zindanda (böylece) kaldı
-**(43)** 
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
+**(43)** ve Kral dedi ki şüphesiz ben (düşümde) semiz yedi inek görüyorum yedi zayıf inek bunları yiyor ve yedi yeşil başak ve diğerleri de kuru Ey efendiler eğer siz rü’ya ta’bir ediyorsanız bu rü’yamı bana anlatın
+**(44)** dediler ki karmakarışık düşler düşlerin yorumunu biz bilen(kişi)ler değiliz
+**(45)** iki kişiden kurtulanı dedi ki uzun bir süre sonra hatırladı onun yorumunu ben size haber veririm hemen beni gönderin
+**(46)** çok doğru söyleyen ey Yusuf hakkında bize bilgi ver yedi zayıf (inek) yedi semiz ineği yiyorlar ve yedi yeşil başak diğeri de kuru umarım ki insanlara dönerim onlar da bilirler
+**(47)** (Yusuf) dedi ki âdetiniz üzere yedi yıl siz (ürünü) ekin ne ki biçtiniz yiyeceğiniz az bir mikdar hariç başağında bırakın onu 
 **(48)** 
 **(49)** 
 **(50)** 
