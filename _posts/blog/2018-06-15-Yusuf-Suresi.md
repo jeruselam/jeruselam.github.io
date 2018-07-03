@@ -64,10 +64,10 @@ tag:
 **(52)** bu (sözlerim) arkadan benim kendisine hainlik etmediğimi ve muhakkak Allah’ın hainlerin tuzağını başarıya ulaştırmayacağını bilmesi içindir
 **(53)** [kötülüğe meyleden]nefsimi ben temize çıkarmam çünkü nefis Rabbimin esirgediği hariç kötülüğü daima emredicidir şüphesiz Rabbim [Gafûrun Rahîm]bağışlayandır esirgeyendir
 **(54)** Kral onu bana getirin dedi kendime onu özel (dost) yapayım ne zaman ki onunla konuşunca dedi ki şüphesiz sen bugün yanımızda mevki sahibisin güvenilir(bir kimse)sin
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
+**(55)** ülkenin hazineleri üstüne beni tayin et dedi çünkü ben iyi korur iyi bilirim
+**(56)** böylece o ülke’de Yusuf’a biz iktidar verdik orada dilediği yerde konaklardı dilediğimiz kimseye biz rahmetimizi ulaştırırız güzel davrananların ecrini zayi etmeyiz
+**(57)** elbette ahiret ödülü inanan(lar) kimseler için ve korunanlar (için) daha hayırlıdır 
+**(58)** ve Yusuf’un kardeşleri geldiler onun yanına girdiler o onları tanıdı fakat onlar onu tanımıyorlardı
 **(59)** 
 **(60)** 
 **(61)** 
