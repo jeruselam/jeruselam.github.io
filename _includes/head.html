@@ -16,15 +16,7 @@
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/scroll.css"> 
-<style>
-p.serif {
-    font-family: "Times New Roman", Times, serif;
-}
 
-p.sansserif {
-    font-family: Arial, Helvetica, sans-serif;
-}
-</style>
 <title>{% if page.title %}{{ page.title }} {% endif %}{{ site.title }}</title>
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
