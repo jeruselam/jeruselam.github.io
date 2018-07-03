@@ -12,11 +12,11 @@ tag:
 
 **(1)** Elif Lam Mim Ra şunlar Rabbinden sana indirilen Kitabın ayetleridir haktır ve fakat insanların çoğu inanmazlar
 **(2)** Allah odur ki görebileceğiniz bir direk olmadan gökleri yükseltti sonra Arş üzerine istiva etti ve güneşi ve ay’ı boyun eğdirdi belirli bir süre için her biri akıp gitmektedir işi(ni) düzenliyor ayerleri açıklıyor böylece Rabbinizle karşılaşacağınıza kesin olarak inanırsınız
-**(3)** ve O’dur ki arzı uzattı ve orada sabit dağlar ve ırmaklar var etti ve her meyvadan orada iki çift (erkek-dişi)*[yumurtalık ve polen]* yarattı gündüz(ün üzerine) geceyi örter şüphesiz düşünen bir toplum için bunda ayetler vardır
+**(3)** ve O’dur ki arzı uzattı ve orada sabit dağlar ve ırmaklar var etti ve her meyvadan orada iki çift (erkek-dişi)[yumurtalık ve polen] yarattı gündüz(ün üzerine) geceyi örter şüphesiz düşünen bir toplum için bunda ayetler vardır
 **(4)** ve arzda birbirine komşu kıt’alar (vardır) ve çatalı olmadan ve çatallı hurmalıklar ve ekinler ve üzüm bağlar(ı vardır) bir su ile (bunların hepsi) sulanır ama ürünlerinde diğerinin üzerine birbirini üstün yaparız aklını kullanan bir toplum için şüphesiz bunda ayetler vardır
 **(5)** eğer şaşacaksan onların şu sözlerine şaşmak lazım biz toprak olduğumuz  zaman mı? yeniden bir yaratılış içinde gerçekten biz mi? (olacağız) işte onlar Rablerini inkar eden kimselerdir ve onlar boyunlarında halkalar (bulunanlardır) ve onlar ateş halkıdır onlar orada sürekli kalacaklardır
-**(6)** ve iyilikten önce kötülüğü senden acele istiyorlar ve oysa benzerleri onlardan önce gelip geçti ve şüphesiz Rabbin *[Allah]* zulümlerine karşı insanlar için mağfiret sahibidir ve şüphesiz Rabbinin azabı pek çetindir
-**(7)** ve diyorlar ki inkar eden(ler) kimseler	Rabbinden bir ayet ona indirmeli değil miydi? şüphesiz sen bir uyarıcısın ve toplumun bir yol göstericisi hepsi için vardır
+**(6)** ve iyilikten önce kötülüğü senden acele istiyorlar ve oysa benzerleri onlardan önce gelip geçti ve şüphesiz Rabbin [Allah] zulümlerine karşı insanlar için mağfiret sahibidir ve şüphesiz Rabbinin azabı pek çetindir
+**(7)** ve inkar eden(ler) kimseler diyorlar ki	Rabbinden bir ayet ona indirmeli değil miydi? şüphesiz sen bir uyarıcısın ve hepsi için toplumun bir yol göstericisi vardır
 **(8)** Allah her dişinin neyi yüklendiğini ve rahimlerin neyi eksilttiğini ve neyi artırdığını bilir ve her şey onun yanında bir ölçü iledir
 **(9)** gizliyi ve aşikareyi (O) bilendir büyüktür yücedir
 **(10)** aranızdan sözü gizleyen kimse ve onu açık (söyleyen) kimse birdir ve o kimse geceleyin gizlenendir ve gündüzün görünendir
