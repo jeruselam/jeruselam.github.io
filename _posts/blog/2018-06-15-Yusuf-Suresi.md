@@ -68,13 +68,13 @@ tag:
 **(56)** böylece o ülke’de Yusuf’a biz iktidar verdik orada dilediği yerde konaklardı dilediğimiz kimseye biz rahmetimizi ulaştırırız güzel davrananların ecrini zayi etmeyiz
 **(57)** elbette ahiret ödülü inanan(lar) kimseler için ve korunanlar (için) daha hayırlıdır 
 **(58)** ve Yusuf’un kardeşleri geldiler onun yanına girdiler o onları tanıdı fakat onlar onu tanımıyorlardı
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
+**(59)** ve ne zaman ki onların yüklerini yükletti dedi ki sizin babanızdan (olan) kardeşinizi bana getirin görmüyor musunuz? ben ölçüyü tam yapıyorum ve ben konukseverlerin en iyisiyim
+**(60)** eğer onu bana getirmezseniz benim yanımda size ölçecek bir şey artık yoktur (bir daha) bana yaklaşmayın
+**(61)** dediler ki babasından onu istemeğe çalışacağız ve biz muhakkak mutlaka yapacağız
+**(62)** ve uşaklarına dedi ki yüklerinin içine onların sermayelerini koyun! belki onlar ailelerine döndükleri zaman bunun farkına varırlar belki de geri dönerler
+**(63)** babalarına döndükleri zaman dediler ki babamız ölçü bizden men’edildi (oyüzden) kardeşimizi bizimle beraber gönder ölç(üp al)alım şüphesiz biz onu mutlaka koruruz
+**(64)** dedi ki ancak daha önce kardeşi (için) size güvendiğim gibi onun hakkında size güveneyim mi? en iyi koruyan Allah’tır ve O merhametlilerin en merhametlisidir
+**(65)** ne zaman ki (zahire) yüklerini açtılar kendilerine geri verilmiş sermayelerini buldular dediler ki babamız daha ne? istiyoruz işte sermayemiz bize geri verilmiş ailemize yine yiyecek getiririz ve kardeşimizi koruruz ve bir deve yükü fazla alırız bu az bir ölçüdür
 **(66)** 
 **(67)** 
 **(68)** 
