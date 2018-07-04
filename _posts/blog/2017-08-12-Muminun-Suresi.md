@@ -129,4 +129,4 @@ tag:
 **(117)** ve onun hakkında hiçbir delil bulunmayan başka bir tanrıya Allah ile beraber kim taparsa şüphesiz onun hesabı Rabbinin yanındadır çünkü (o) kafirler asla iflah olmazlar
 **(118)** ve de ki Rabbim bağışla ve acı ve sen acıyanların en hayırlısısın
 
-![23M-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)
+![23M-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

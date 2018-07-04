@@ -49,5 +49,5 @@ zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
 **(36)** hamd göklerin Rabbi ve yerin Rabbi, bütün alemlerin Rabbi Allah’a mahsustur
 **(37)** göklerde ve yerde ululuk yalnız O’na aittir ve O azizdir, hakimdir
 
-![Câsiye]({{ site.url }}/assets/images/ayrac-muhur.png)
+![Câsiye]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
 

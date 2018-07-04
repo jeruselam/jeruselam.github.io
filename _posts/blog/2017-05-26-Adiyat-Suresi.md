@@ -22,3 +22,5 @@ tag:
 **(9)** Bilmez mi? Kabirlerde olanlar dışarı atıldığı zaman 
 **(10)** ve göğüslerde bulunanlar devşirildiği (zaman),
 **(11)** Rabbleri şüphesiz o gün onları mutlaka haber almıştır.
+
+![100]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

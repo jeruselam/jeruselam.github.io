@@ -123,4 +123,4 @@ tag:
 **(111)** ve bilmem belki de o sizi denemek içindir ve bir süreye kadar yaşatmak içindir
 **(112)** dedi ki Rabbim hak ile hükmet ve Rabbimiz çok merhamet edendir sizin nitelendirdiğiniz şeye karşı O’nun yardımına sığınılır[istenir] 
 
-![21Enbiyâ-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)
+![21Enbiyâ-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

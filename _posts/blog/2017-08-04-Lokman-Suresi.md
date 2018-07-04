@@ -45,4 +45,4 @@ tag:
 **(33)** ey insanlar Rabbinizden korkun ve günden çekinin (ki) baba çocuğunun ödeyemez, çocuk da o babası için bir şey ödeyecek değildir şüphesiz Allah’ın va’di gerçektir, dünya hayatı asla sizi aldatmasın ve Allah hakkında aldatıcı (şeytan) sizi asla aldatmasın
 **(34)** şüphesiz Allah, sa’atin bilgisi O’nun yanındadır ve O yağmuru yağdırır ve rahimlerde olanı bilir ve hiç kimse yarın ne kazanacağını bilmez ve hiç kimse hangi yerde öleceğini bilmez şüphesiz yalnız Allah bilendir haberi olandır
 
-![31l-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)
+![31l-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -46,4 +46,4 @@ tag:
 **(34)** ve inkar eden(ler) kimseler ateşe karşı sunulacakları bugün  gerçek değil miymiş? Rabbimiz hakkı için evet derler, öyleyse inkar ediyor(lar) olmanızdan dolayı azabı tadın der
 **(35)** o halde azim (ve irade) sahibi elçilerin sabrettikleri gibi sabret ve asla onlar için acele etme, onlar tehdit edildikleri şeyi (azabı) gördükleri gün (sanki) gündüzden bir sa’at dışında yaşamamışlar gibi olurlar, (bu) bir duyurudur, yoldan çıkmış topluluktan başkası mı helak edilecektir?
 
-![Ahkâf]({{ site.url }}/assets/images/ayrac-muhur.png)
+![Ahkâf]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -53,3 +53,5 @@ tag:
 **(40)** Ve o gün üzeri tozlanmış yüzler (vardır),
 **(41)** onları, karanlık bürümüş, 
 **(42)** işte onlar kafirlerdir, Hak’tan sapanlardır.
+
+![80]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

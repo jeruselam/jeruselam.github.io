@@ -32,3 +32,5 @@ tag:
 **(20)** Şüphesiz, Allah’a ve Elçisine düşman olan(lar) kimseler, en alçaklar onlar arasındadırlar.
 **(21)** Allah, ben ve elçilerim elbette galib geleceğiz yazmıştır, şüphesiz Allah güçlüdür, galiptir.
 **(22)**  Allah’a ve ahiret gününe inanan bir milletin, Allah’a ve Elçisine düşman olanlarla şayet babaları yahut oğulları yahut kardeşleri yahut akrabaları olsa bile dostluk eder bulamazsın, işte onların kalblerine iman yazmıştır ve onları kendinden bir ruh ile desteklemiştir ve onları altlarından ırmaklar akan cennetlere sokacaktır, orada ebedi kalacaklardır, Allah onlardan razı olmuştur onlar da O’ndan razı olmuşlardır işte onlar Allah’ın hizbidir, dikkat edin muhakkak ki Allah’ın hizbidir onlar başarıya ulaşacak olanlardır.
+
+![58]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

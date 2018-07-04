@@ -17,3 +17,5 @@ tag:
 **(4)** ve ben sizin taptıklarınıza ibadet eden değil(im),
 **(5)** ve siz de benim ibadet ettiğime ibadet eden değilsiniz,
 **(6)** sizin dininiz sizindir ve benim dinim benimdir.
+
+![109]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

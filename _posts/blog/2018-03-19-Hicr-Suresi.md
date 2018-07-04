@@ -110,4 +110,4 @@ tag:
 **(98)** (o halde) tesbih et hamd ile Rabbini ve secde edenlerden ol
 **(99)** ve yakîn[şüphesiz sağlam bilgi] sana gelinceye kadar Rabbine kulluk et
 
-![15Hicr-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png "mühür")
+![15Hicr-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")

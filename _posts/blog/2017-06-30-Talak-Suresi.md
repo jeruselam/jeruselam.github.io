@@ -23,3 +23,5 @@ tag:
 **(10)** Allah onlara şiddetli bir azab hazırlamıştır, o halde inanmış olan sağduyu	sahipleri Allah’tan korkun, andolsun, Allah size bir uyarı indirdi.
 **(11)** Allah’ın ayetlerini size açık açık okuyan bir elçi (gönderdi), inanan(ları) kimseleri ve yararlı işler  yapanları karanlıklardan aydınlığa çıkarsın diye ve kim Allah’a inanır ve yararlı iş yaparsa onu içinde ebedi kalacakları altlarından ırmaklar akan cennetlere sokar, Allah ona rızık olarak gerçekten en güzeli vermiştir.
 **(12)** Allah O’dur ki, yedi göğü ve yerden onların benzerini yarattı, bunlar arasında buyruğu iner, şüphesiz Allah’ın her şey üzerine kadir olduğunu ve şüphesiz Allah’ın her şeyi bilgice muhakkak kuşatmış bulunduğunu bilesiniz diye.
+
+![65]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -39,3 +39,5 @@ tag:
 **(26)** Gaybı bilendir, gizli bilgisini kimseye göstermez
 **(27)** ancak elçiden razı olduğu kimseye (gösterir), çünkü O, önüne önüne ve arkasına gözetleyiciler sevk eder
 **(28)** elbette Rablerinin risaletini, duyurduklarını bilsin diye ve onlarda bulunan herşeyi kuşatmıştır ve her şeyi bir bir saymıştır
+
+![72]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

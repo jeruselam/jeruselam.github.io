@@ -63,4 +63,4 @@ tag:
 **(51)** kazandığı ne varsa her nefsin Allah karşılığını verecektir şüphesiz Allah hesabı çabuk görendir
 **(52)** bununla uyarılsınlar diye insanlara bu bir tebliğdir ve bilsinler diye yalnızca O birtek *ilah*tanrıdır ve öğüt alsınlar diye sağduyu sahipleri
 
-![14Ibrahim-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png "mühür")
+![14Ibrahim-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")

@@ -19,3 +19,5 @@ tag:
 **(6)** mutlaka cehennemi görürdünüz.	
 **(7)** Sonra onu, kesin olarak, gözle göreceksiniz. 
 **(8)** Sonra o gün, ni’metlerden sorulacaksınız.
+
+![102]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

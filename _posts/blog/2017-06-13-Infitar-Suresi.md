@@ -30,3 +30,5 @@ tag:
 **(17)** Ve ceza gününün ne olduğunu sana bildiren nedir?
 **(18)** Sonra yine, ceza gününün ne olduğunu sana bildiren nedir?
 **(19)** Kimsenin kimseye, bir şeye (yardıma) malik olmadığı bir gündür ve  o gün buyruk yalnız Allah’ındır.
+
+![82]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

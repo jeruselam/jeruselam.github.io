@@ -48,3 +48,5 @@ tag:
 **(35)** divanlar üzerinde (oturup) bakarlar
 **(36)** yapıyor(lar) oldukları şeylerle kafirler cezalandılar mı?
 
+![83]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+

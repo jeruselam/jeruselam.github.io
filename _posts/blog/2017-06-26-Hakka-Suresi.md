@@ -63,3 +63,5 @@ tag:
 **(50)** doğrusu o, kafirler için elbette hasrettir,
 **(51)** ve şüphesiz O, muhakkak kesin gerçektir,
 **(52)** öyleyse ulu Rabb'inin adını tesbih et. 
+
+![69]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

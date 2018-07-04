@@ -70,3 +70,5 @@ tag:
 **(58)** şüphesiz O, rızık veren sağlam kuvvet sahibi Allah’tır
 **(59)** muhakkak zulmedenlerin bir (azab) payı gibi arkadaşlarının payı vardır, o halde acele etmesinler
 **(60)** ve uyarıldıkları günlerinden dolayı kafirlerin vay haline
+
+![51]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -18,3 +18,5 @@ tag:
 **(6)** yalnız inanan(lar) kimseler ve iyi işler yapanlar hariç onlar için kesintisi olmayan bir mükafat vardır
 **(7)** bundan sonra dini sana yalanlatan nedir?
 **(8)** Allah hüküm verenlerin en iyi hüküm vereni değil midir?
+
+![95]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

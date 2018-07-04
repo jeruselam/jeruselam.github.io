@@ -40,3 +40,4 @@ tag:
 **(28)** ey inanan(lar) kimseler, Allah’tan korkun ve O’nun Elçisine inanın, size rahmetinden iki pay versin ve sizin için onda yürüyeceğiniz bir nur yaratsın ve sizi bağışlasın ve Allah çok bağışlayandır, çok esirgeyendir
 **(29)** Allah’ın lutfundan hiçbir şeye malik olmadıklarını ve şüphesiz lutfun Allah’ın elinde olduğunu onu kimseye, dilediğine vereceğini Kitap ehli bilsinler diye ve Allah büyük lutuf sahibidir	
 
+![57]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

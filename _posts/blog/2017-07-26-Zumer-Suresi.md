@@ -86,4 +86,4 @@ tag:
 **(74)** ve Allah’a hamdolsun derler o ki; bize verdiği sözünü yerine getirdi ve dilediğimiz yerinde oturacağımız cennetten yurda bizi varis kıldı çalışanların ücreti ne güzeldir
 **(75)** ve meleklerin Arşın çevresinde dönerek Rablerini hamd ile tesbih ettiklerini görürsün ve aralarında hak ile hükmedilir ve Hamd alemlerin Rabbi Allah’a’dır denilir 
 
-![39b]({{ site.url }}/assets/images/ayrac-muhur.png)
+![39b]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

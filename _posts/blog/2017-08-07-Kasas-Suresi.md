@@ -99,4 +99,4 @@ tag:
 **(87)** ve sana indirildikten sonra sakın Allah’ın ayetlerinden seni alıkoymasınlar ve Rabbine da’vet et ve ortak koşanlardan olma 
 **(88)** ve Allah ile beraber başka bir tanrıya[ilâha] yalvarma O’ndan başka tanrı[ilâh] yoktur O’nun yüzü(zatı)ndan başka her şey helak olacaktır Hüküm O’nundur ve O’na döndürüleceksiniz
 
-![28k-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)
+![28k-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

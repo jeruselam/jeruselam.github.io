@@ -32,3 +32,5 @@ tag:
 **(19)** Doğrusu inkar eden(ler) kimseler bir yalanlama içindedirler,
 **(20)** fakat Allah onları arkalarından kuşatmıştır.
 **(21)** Hayır o, şerefli bir Kur’an’dır, korunan bir levhadadır.
+
+![85]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

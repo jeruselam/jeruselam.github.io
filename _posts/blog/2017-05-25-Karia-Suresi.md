@@ -22,3 +22,5 @@ tag:
 **(9)** onun anası haviye(uçurum)dur.
 **(10)** Onun ne olduğunu sana bildiren nedir? 
 **(11)** Kızgın bir ateştir.
+
+![101]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

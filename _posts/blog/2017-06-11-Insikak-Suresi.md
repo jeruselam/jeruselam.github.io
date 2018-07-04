@@ -36,3 +36,5 @@ tag:
 **(23)** ve Allah içlerinde gizledikleri şeyi biliyor
 **(24)** onlara acıklı bir azabı müjdele
 **(25)** ancak inanan(lar) kimseler ve yararlı işler yapanlar, onlar için kesintisi olmayan bir mükafat vardır
+
+![84]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

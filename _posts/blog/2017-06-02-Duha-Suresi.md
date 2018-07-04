@@ -21,3 +21,5 @@ tag:
 **(9)** öyleyse öksüzü sakın ezme
 **(10)** ve sakın dilenciyi azarlama
 **(11)** ve Rabb'inin ni’metini anlat
+
+![93]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

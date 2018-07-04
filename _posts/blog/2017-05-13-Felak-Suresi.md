@@ -17,3 +17,5 @@ tag:
 **(4)** ve düğümlere üfleyenlerin şerrinden,
 **(5)** ve hased ettiği zaman hasedcinin şerrinden,
 **(6)** de ki, insanların Rabbine sığınırım ben.
+
+![113]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

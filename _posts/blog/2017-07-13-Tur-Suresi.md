@@ -59,3 +59,5 @@ tag:
 **(47)** ve şüphesiz, zulmedenlere bundan başka bir azab vardır fakat çokları bilmezler
 **(48)** o halde Rabbinin hükmüne sabret, çünkü sen gözlerimizin önündesin ve kalktığın zaman Rabbini övgü ile tesbih et
 **(49)** gecenin bir kısmında ve yıldızların ardından O’nu tesbih et
+
+![52]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

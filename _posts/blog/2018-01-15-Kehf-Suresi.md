@@ -121,4 +121,4 @@ tag:
 **(109)** de ki Rabbimin sözleri(ni yazmak) için deniz mürekkep olsa şayet ve yardım için bir o kadarını daha şayet getirsek bile Rabbimin sözleri tükenmeden önce deniz tükenir
 **(110)** de ki şüphesiz ben de sizin gibi bir insanım bana vahyolunuyor şüphesiz Tanrınız[İlahınız] bir tek Tanrıdır[İlahtır] Rabbine kavuşmayı o halde kim arzu eder ise iyi iş(ler) yapsın ve (hiç) kimseyi Rabbine (yaptığı) ibadete asla ortak etmesin
 
-![18Kehf-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)
+![18Kehf-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

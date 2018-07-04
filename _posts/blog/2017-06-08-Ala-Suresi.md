@@ -29,3 +29,5 @@ tag:
 **(17)** oysa ahiret daha iyidir ve daha kalıcıdır
 **(18)** şüphesiz elbette bu ilk sahifelerde de vardı
 **(19)** İbrahim’in ve Musa’nın sayfalarında
+
+![87]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

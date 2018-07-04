@@ -30,3 +30,5 @@ tag:
 **(18)** işte onlar sağın adamlarıdır,
 **(19)** ve ayetlerimizi inkar eden(ler) kimseler, onlar solun adamlarıdır,
 **(20)** onlara üzerlerine kilitlenmiş bir ateş vardır. 
+
+![90]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

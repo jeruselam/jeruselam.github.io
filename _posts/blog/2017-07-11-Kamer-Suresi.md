@@ -65,3 +65,5 @@ tag:
 **(53)** ve hepsi küçük ve büyük satır satır yazılmıştır,
 **(54)** şüphesiz muttakiler cennetlerdedir ve ırmaklar(ın kenarın)dadırlar,	
 **(55)** güçlü padişahın huzurunda doğruluk koltuklarındadırlar.
+
+![54]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

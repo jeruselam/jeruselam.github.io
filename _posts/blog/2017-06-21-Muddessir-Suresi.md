@@ -67,3 +67,5 @@ tag:
 **(54)** Hayır, muhakkak o bir ikazdır.
 **(55)** Dileyen kimse onu düşünür, öğüt alır,
 **(56)** ve onlar, Allah dilemesi dışında öğüt almazlar, O’dur, ehli takva ve ehli mağfiret.
+
+![74]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -16,3 +16,5 @@ tag:
 **(3)** Alevli bir ateşe girecektir.
 **(4)** Ve karısı odun hamalı,
 **(5)** boynunda hurma lifinden bir ip.
+
+![111]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

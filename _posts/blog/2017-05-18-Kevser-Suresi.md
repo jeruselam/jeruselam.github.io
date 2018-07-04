@@ -14,3 +14,5 @@ tag:
 **(1)** Elbette biz Kevser’i sana verdik.
 **(2)** Öyleyse Rabbin için namaz kıl ve kurban kes.
 **(3)** Şüphesiz sana buğzeden, o sonu kesik olandır.
+
+![108]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

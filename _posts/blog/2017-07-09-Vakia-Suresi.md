@@ -106,3 +106,5 @@ tag:
 **(94)** ve cehenneme atılma (vardır),
 **(95)** elbette budur, işte elbette o kesin gerçek
 **(96)** öyleyse büyük Rabbinin adını tesbih et.
+
+![56]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -55,3 +55,5 @@ tag:
 **(42)** Kendilerine va’dedilen günlerine kavuşuncaya kadar onları bırak  dalsınlar ve oynasınlar. 
 **(43)** O gün kabirlerden hızlı hızlı çıkarlar, Onlar, dikilenlere (putlara) koşuyorlar, gibidirler.
 **(44)** Onları, korkulu gözleri, alçaklık bürümüş, işte onlara va’dedilmiş olan gün budur.
+
+![70]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

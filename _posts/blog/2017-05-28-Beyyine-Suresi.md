@@ -19,3 +19,5 @@ tag:
 **(6)** şüphesiz, Kitap ehlinden inkarcı(lar) kimseler ve ortak koşanlar sürekli olarak cehennem ateşi içindedirler, işte orada onlar yaratılmışların en şerlisidir
 **(7)** şüphesiz, inanan(lar) kimseler ve iyi işler yapanlar, işte onlar yaratılmışların en hayırlısıdır
 **(8)** onların mükafatı Rabbleri katında içinde sürekli kalacakları altlarından ırmaklar akan Adn cennetleridir, Allah onlardan ebedi razı olmuştur onlarda O'ndan razı olmuştur, bu Rabbine saygı gösterene mahsustur
+
+![98]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

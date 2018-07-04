@@ -57,3 +57,5 @@ tag:
 **(44)** onun bilgisi Rabbine aittir,
 **(45)** sen ancak ondan korkacak olanları uyarıcısın,
 **(46)** onu gördükleri gün, onlar, bir akşamdan veya onun kuşluk vaktinden başka sanki (dünyada) kalmamışlar gibidir.
+
+![79]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

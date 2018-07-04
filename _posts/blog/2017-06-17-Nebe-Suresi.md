@@ -51,3 +51,5 @@ tag:
 **(38)** o gün Ruh ve melekler sıra sıra dururlar, O’nun, Rahman’ın izin verdiği kimseler dışındakiler konuşamaz ve o da doğruyu söyler, 
 **(39)** işte bu hak günüdür, artık dileyen kimse Rabbine varan bir yol tutar,
 **(40)** elbette biz, sizi yakın bir azab ile uyardık, o gün kişi, ellerinin öne sürdüğü işlere bakar ve kafir, keşke ben toprak olsaydım der.
+
+![78]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

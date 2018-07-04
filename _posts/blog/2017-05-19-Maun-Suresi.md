@@ -18,3 +18,5 @@ tag:
 **(5)** ki onlar namazlarından gaflet ederler.
 **(6)** Ki onlar gösteriş yaparlar.
 **(7)** Ve en ufak bir yardımı esirgerler.
+
+![107]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

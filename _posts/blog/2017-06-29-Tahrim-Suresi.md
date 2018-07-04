@@ -23,3 +23,5 @@ tag:
 **(10)** Allah inkar eden(ler) kimseler için, misal ile anlattı, Nuh’un karısını ve Lut’un karısını bu ikisi salih kullarımızdan iki kulun (nikahı) altında idiler fakat ihanet ettiler, (kocaları) Allahtan(hiçbir) şeyi onlardan savamadı ve haydi girenlerle beraber ateşe girin denildi. 
 **(11)** Ve Allah inananlar hakkında misal ile Fir’avn’ın karısını anlattı, Rabbim bana katında cennetin içinde bir ev yap demişti hani ve  Fir’avndan ve onun (kötü) işinden beni kurtar ve zalimler topluluğundan beni kurtar.
 **(12)** Ve İmran’ın kızı Meryem’i, O ırzını korumuştu, biz de ona ruhumuzdan üflemiştik ve Rabbinin kelimelerini ve Kitaplarını doğrulamıştı ve gönülden ita’at edenlerden olmuştu. 
+
+![66]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

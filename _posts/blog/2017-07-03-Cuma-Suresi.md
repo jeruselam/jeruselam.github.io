@@ -22,3 +22,5 @@ tag:
 **(9)** Ey inanan(lar) kimseler, Cuma günü namaz için çağrıldığı(nız) zaman hemen Allah’ı anmağa koşun ve alışverişi bırakın, eğer bilirseniz bu sizin için daha hayırlıdır 
 **(10)** Namazı kıldığınız zaman yeryüzüne dağılın ve Allah’ın lutfundan arayın ve Allah’ı çokça anın, umulur ki başarıya erersiniz
 **(11)** Bir ticaret veya eğlence gördükleri zaman dağılıp ona giderler ve seni ayakta bırakırlar, de ki, Allah’ın yanında bulunan, eğlenceden ve ticaretten hayırlıdır ve Allah rızık verenlerin en hayırlısıdır
+
+![62]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

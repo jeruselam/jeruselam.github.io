@@ -110,4 +110,4 @@ tag:
 **(97)** şüphesiz biz onunla muttakileri (sakınanları) müjdelemen için ve inatçı bir kavmi onunla uyarman için senin diline O’nu kolaylaştırdık 
 **(98)** ve onlardan önce nesillerden nicesini helak ettik onlardan hiç birini hissediyor musun? yahut onların cılız bir sesini işitiyor (musun?)
 
-![19Meryem-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)
+![19Meryem-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

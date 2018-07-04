@@ -43,3 +43,5 @@ tag:
 **(29)** Şüphesiz bu bir öğüttür, dileyen kimse Rabbine varan yolu tutar, 
 **(30)** ve Allah’ın dilemesi dışında siz dileyemezsiniz, şüphesiz Allah bilendir, hüküm ve hikmet sahibidir, 
 **(31)** dilediği kimseyi rahmetine sokar ve zalimler, onlar için acıklı bir azab hazırlamıştır
+
+![76]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

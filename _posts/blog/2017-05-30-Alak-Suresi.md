@@ -30,4 +30,4 @@ tag:
 **(18)** biz de zebanileri çağıracağız
 **(19)** hayır ona boyun eğme secde et ve yaklaş
 
-![96a]({{site.url}}/images/ayrac-muhur.png)
+![96]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

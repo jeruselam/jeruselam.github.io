@@ -146,4 +146,4 @@ tag:
 **(134)** de ki herkes gözetlemektedir gözetleyin düzgün yolun sahipleri kimdir ve doğru yolda olan kimdir bileceksiniz 
 **(135)** insanların hesapları yaklaştı fakat onlar gaflet içinde yüz çevirmektedirler
 
-![20Tâhâ-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)
+![20Tâhâ-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

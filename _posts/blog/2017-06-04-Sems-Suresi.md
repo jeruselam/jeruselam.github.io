@@ -25,3 +25,5 @@ tag:
 **(13)** Allah’ın devesine ve onun su içmesini, Allah’ın elçisi onlara demişti.
 **(14)** Onu yalanladılar ve onu kestiler, günahları yüzünden Rabb'leri onların başlarına geçirdi ve orayı dümdüz etti.
 **(15)** Ve (Rab) bu işin sonundan korkmaz.
+
+![91]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

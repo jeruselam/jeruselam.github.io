@@ -29,3 +29,5 @@ tag:
 **(16)** Öyle ise Allah’tan gücünüz yettiği kadar korkun ve dinleyin ve ita’at edin ve kendiniz için en hayırlı olanı infak edin ve kim nefsinin cimriliğinden korunursa, işte onlar başarıya erenlerdir.
 **(17)** Eğer Allah’a güzel bir borçla borç verirseniz, sizin için onu kat kat yapar ve sizi bağışlar, Allah karşılık verendir, halimdir,
 **(18)** görünmeyeni ve görüneni bilendir, azizdir, hakimdir.
+
+![64]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

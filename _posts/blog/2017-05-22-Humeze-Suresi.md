@@ -19,4 +19,6 @@ tag:
 **(6)** Allah’ın tutuşturulmuş ateşidir
 **(7)** ki gönüllere işler
 **(8)** şüphesiz o onların üzerine kapatılıp kilitlenecektir
-**(9)** uzatılmış direkler arasında 
+**(9)** uzatılmış direkler arasında
+
+![104]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

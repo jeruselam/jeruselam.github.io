@@ -89,3 +89,5 @@ tag:
 **(76)** yeşil yastıklar üzerine yaslanırlar,
 **(77)** şimdi Rabbinizin hangi? ni’metlerini yalanlıyorsunuz,
 **(78)** büyüklük ve ikram sahibi Rabbinin adı ne yücedir.
+
+![55]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

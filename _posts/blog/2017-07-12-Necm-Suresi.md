@@ -72,3 +72,5 @@ tag:
 **(60)** ve gülüyorsunuz ve ağlamıyorsunuz,
 **(61)** ve siz baş kaldırıyorsunuz,
 **(62)** haydi Allah’a secde edin ve kulluk edin.
+
+![53]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

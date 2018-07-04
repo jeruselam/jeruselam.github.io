@@ -28,3 +28,5 @@ tag:
 **(15)** Elbette onlar bir tuzak kuruyorlar,
 **(16)** ben de bir tuzak kuruyorum, 
 **(17)** o halde kafirlere mühlet ver, birazcık kendi hallerine bırak. 
+
+![86]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -61,3 +61,5 @@ tag:
 **(48)** ve onlara rüku’ edin dendiği zaman rüku’ etmezler,
 **(49)** o gün yalanlayanların vay haline,
 **(50)** bundan sonra hangi? söze inanacaklar.
+
+![77]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

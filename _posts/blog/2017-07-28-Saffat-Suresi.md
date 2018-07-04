@@ -193,4 +193,4 @@ tag:
 **(181)** ve gönderilen elçiler üzerine selam olsun 
 **(182)** ve alemlerin Rabbi Allah’a hamd olsun 
 
-![37s]({{ site.url }}/assets/images/ayrac-muhur.png)
+![37s]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

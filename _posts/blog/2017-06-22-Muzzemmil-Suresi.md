@@ -31,3 +31,5 @@ tag:
 **(18)** gök onun sebebiyle yarılır O’nun va’di olmuştur mutlaka yapılmıştır
 **(19)** şüphesiz bu bir öğüttür dileyen kimse Rabbine varan bir yol tutar
 **(20)** şüphesiz  gecenin üçte ikisinden daha azında ve yarısında senin ve onun üçte birinde seninle beraber bulunanlardan bir topluluğun da kalktığını Rabb'in biliyor ve Allah geceyi ve gündüzü takdir eder asla sizin onu sayamayacağınızı bildi bu yüzden sizi affetti artık Kur’andan kolayınıza gelen şeyi okuyun içinizden hastalar ve yeryüzünde gezip Allah’ın lutfundan arayan başka kimseler ve Allah yolunda savaşan başka insanlar bulunacağını bilmiştir onun için O’ndan kolayınıza gelen şeyi okuyun ve namazı kılın ve zekatı verin ve güzel bir borçla Allah’a borç verin ve kendiniz için hayırdan verdiklerinizi Allah katında bulacaksınız o daha hayırlıdır ve mükafatça daha büyüktür ve Allah’tan mağfiret dileyin şüphesiz Allah çok bağışlayandır çok esirgeyendir
+
+![73]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

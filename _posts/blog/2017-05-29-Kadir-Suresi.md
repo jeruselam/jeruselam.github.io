@@ -16,3 +16,5 @@ tag:
 **(3)** kadir gecesi bin aydan hayırlıdır
 **(4)** her iş için Rabb'lerinin izniyle onda melekler ve Ruh iner de iner
 **(5)** tanyeri ağarıncaya kadar o esenliktir
+
+![97]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

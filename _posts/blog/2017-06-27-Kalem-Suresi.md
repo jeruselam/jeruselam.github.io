@@ -63,3 +63,5 @@ tag:
 **(50)** Rabbi onun du’asını kabul etti ve onu salihlerden yaptı.
 **(51)** Ve inkar eden(ler) kimseler Zikr(Kur’an)’ı işittikleri zaman neredeyse seni gözleriyle devireceklerdi ve şüphesiz O mecnundur diyorlardı,
 **(52)** halbuki o alemler için uyarıdan başka bir şey değildir.
+
+![68]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

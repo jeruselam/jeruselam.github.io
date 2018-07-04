@@ -41,3 +41,5 @@ tag:
 **(28)** de ki, baksanıza eğer Allah beni ve benimle beraber olanları öldürse yahut bize acısa da, acıklı azabdan kafirleri kim? kurtarabilir,
 **(29)** de ki, O çok merhametlidir, O’na inanmışşızdır ve O’na dayanmışızdır, O apaçık bir sapıklık içinde olan kimdir yakında bileceksiniz,
 **(30)** de ki baksanıza eğer suyunuz çekilmiş olsa kim size akar bir su  getirebilir?
+
+![67]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

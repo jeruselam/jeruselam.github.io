@@ -88,4 +88,4 @@ tag:
 **(76)** orada ebedi kalacaklardır ne güzel karargahtır ve makamdır
 **(77)** de ki ne diye? değer versin size Rabbim du’anız (ibadetiniz) olmadıktan sonra andolsun yalanladınız bu yüzden (azab) kaçınılmaz olacaktır
 
-![25F-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)
+![25F-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

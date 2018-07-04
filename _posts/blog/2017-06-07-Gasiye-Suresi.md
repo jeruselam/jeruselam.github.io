@@ -36,3 +36,5 @@ tag:
 **(24)** Allah ona en büyük azabla azab eder, 
 **(25)** şüphesiz dönüşleri bizedir.
 **(26)** Sonra şüphesiz onların hesabı bize düşer.
+
+![88]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -39,3 +39,5 @@ tag:
 **(26)** ve Nuh dedi ki Rabbim yeryüzünde kafirlerden tek kişi bırakma,
 **(27)** çünkü eğer sen onları bırakırsan, kullarını şaşırtırlar ve  inkarcı ahlaksız (olandan) başkasını doğurmazlar,
 **(28)** Rabbim bağışla beni ve babamı-anamı ve inanarak evime giren kimseyi ve inanan erkekleri ve inanan kadınları ve zalimlerin helaki dışında bir şeyi artırma.
+
+![71]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -34,3 +34,5 @@ tag:
 **(22)** O Allah’tır ki, O’ndan başka tanrı yoktur, görülmeyeni ve görüleni bilir, O Rahmân’dır (çok esirgeyen), Rahîm’dir (çok acıyan).
 **(23)** O Allah’tır ki, O’ndan başka tanrı yoktur, Kuddûs’tür (mukaddes), Melik’tir (padişahtır),Selâm’dır (esenlik veren), Mü’min’dir (güvenlik veren), Müheymin’dir (kollayıp koruyan), Azîz’dir (üstün galib), Cebbâr’dır (istediğini zorla yaptıran), Mütekebbir’dir (çok uluğ), Allah ortak koşmalarından yücedir
 **(24)** O Allah Hâlik’dir (yaratan), Bâri’dir (var eden), Musavvir’dir (biçim veren), en güzel isimler O’nundur, göklerde ve yerde bulunanlar O’nu tesbih ederler ve O Azîz’dir (mutlak galip), Hakîm’dir (hükümdar herşeyi hikmetle yapan)
+
+![59]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

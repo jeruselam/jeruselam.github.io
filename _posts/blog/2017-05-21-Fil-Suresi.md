@@ -16,3 +16,5 @@ tag:
 **(3)** Ve üzerlerine sürü sürü kuşlar gönderdi.
 **(4)** Onlara çamurdan sertleşmiş taşlar atıyorlardı.
 **(5)** Nihayet onları yenmiş ekin yaprağı gibi yaptı.
+
+![105]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

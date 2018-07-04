@@ -19,3 +19,5 @@ tag:
 **(6)** Her güçlükle beraber bir kolaylık elbette (vardır).
 **(7)** Boşaldığın (işin bitince) zaman (tekrar) başla
 **(8)** ve Rabb’ine niyaz et yalvar.
+
+![94]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

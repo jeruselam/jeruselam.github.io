@@ -32,3 +32,5 @@ tag:
 **(20)** yalnız yüce Rabbinin rızasına ulaşmak için.
 **(21)** Yakında razı olacaktır.
 
+![92]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+

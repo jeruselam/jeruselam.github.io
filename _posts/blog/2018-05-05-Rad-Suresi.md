@@ -54,4 +54,4 @@ tag:
 **(42)** ve onlardan önceki(ler) kimseler kuşkusuz tuzak kurmuştu fakat bütün tuzaklar Allah’ındır her nefsin ne kazandığını bilir ve bu yurdun sonunun kimin olacağını kafirler bileceklerdir 
 **(43)** ve inkar eden(ler) kimseler diyorlar ki sen gönderilmiş bir elçi değilsin de ki benimle sizin aranızda Allah’ın ve yanında Kitap bilgisi bulunanların şahid olması yeter 
 
-![13Ra'd-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png "mühür")
+![13Ra'd-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")

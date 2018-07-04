@@ -24,3 +24,5 @@ tag:
 **(12)** sizin günahlarınızı bağışlasın ve sizi altlarından ırmaklar akan cennetlere ve güzel bahçeler içinde durulmağa değer konutlara koysun işte büyük başarı budur
 **(13)** seveceğiniz bir şey, Allahtan bir zafer ve yakın bir fetih daha var ve mü’minleri müjdele
 **(14)** ey inanan(lar) kimseler, Allah’ın yardımcıları olun, nitekim Meryem oğlu Îsa havarilere Allah (yolunda) benim yardımcılarım kimdir? demişti havariler, Allah(yolun)un yardımcıların biziz dediler, İsrail oğullarından bir zümre inandı ve bir zümre inkar etti, biz de düşmanlarına karşı inanan(ları) kimseleri destekledik, onlar düşmanlarına üstün gelenlerden oldular
+
+![61]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

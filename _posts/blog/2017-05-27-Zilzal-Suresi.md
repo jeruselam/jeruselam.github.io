@@ -19,3 +19,5 @@ tag:
 **(6)** O gün ayrı ayrı gruplar halinde insanlar çıkarlar, yaptıkları işler gösterilsin diye
 **(7)** artık kim zerre ağırlığınca yapmışsa hayır, onu görür
 **(8)** ve kim zerre ağırlığınca yapmışsa şer, onu görür.
+
+![99]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

@@ -40,3 +40,5 @@ tag:
 **(28)** razı olarak, rızasını kazanarak Rabbine dön,
 **(29)** ve kullarım arasına gir,
 **(30)** ve cennetime gir.
+
+![89]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

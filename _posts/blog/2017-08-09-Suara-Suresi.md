@@ -238,4 +238,4 @@ tag:
 **(226)** ve yapmayacakları şeyleri onlar söylerler 
 **(227)** ancak inanan(lar) kimseler ve iyi işler yapanlar ve çokça Allah’ı ananlar ve kendilerine zulmedildikten sonra [yarışarak]üstün gelmeğe çalışanlar hariç ve zulmeden(ler) kimseler nasıl bir devrimle devrileceklerini yakında bileceklerdir
 
-![26S-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)
+![26S-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
