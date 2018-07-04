@@ -18,3 +18,5 @@ tag:
 **(5)** ancak sana kulluk ederiz ancak senden yardım isteriz
 **(6)** doğru yola bizi ilet
 **(7)** onlar ki yoluna ni'met verdin kendilerine gazabedilmiş olan(ların) kimselerin değil ve sapmışların değil
+
+![1]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
