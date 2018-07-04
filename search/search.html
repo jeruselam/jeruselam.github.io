@@ -6,7 +6,7 @@ permalink: /search/
 search_omit: true
 sitemap: false
 ---
-<form action="{{ site.baseurl }}/search/" method="get">
+<form action="{{ site.url }}/search/" method="get">
 	<input type="search" name="q" {% if include.add_id %}id="search-input"{% endif %} placeholder="Ne bilmek istiyorsun?" data-search-input id="goog-wm-qt" autofocus><input type="submit" value="Ara" id="goog-wm-sb" />
 </form>
 
@@ -38,5 +38,5 @@ sitemap: false
 		{% endfor %}
 	};
 </script>
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="{{ site.url }}/assets/js/js/lunr.min.js"></script>
+<script src="{{ site.url }}/assets/js/js/search.js"></script>
