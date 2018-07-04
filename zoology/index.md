@@ -10,14 +10,14 @@ search_omit: true
 <div style="text-align: center;"><h3>Hayvanlara Ait Fosil Örnekleri (At Nalı Yengeci)</h3></div>
 
 ------------------------------------------------
-![at nalı yengeci fosili]({{site.url}}/images/YA2_142_143_at_nali_yengeci.jpg)
+![at nalı yengeci fosili]({{ site.baseurl }}/assets/images/YA2_142_143_at_nali_yengeci.jpg)
 
 - Dönem: Mezozoik zaman, Jura dönemi
 - Yaş: 150 milyon yıl
 - Bölge: Solnhofen Oluşumu, Almanya
 
 -----------------------------------------------
-![at nalı yengeci fosili]({{site.url}}/images/YA2_100_101_at_nali_yengeci.jpg)
+![at nalı yengeci fosili]({{ site.baseurl }}/assets/images/YA2_100_101_at_nali_yengeci.jpg)
 
 - Dönem: Mezozoik zaman, Jura dönemi
 - Yaş: 150 milyon yıl
