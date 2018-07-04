@@ -80,4 +80,4 @@ tag:
 **(68)** ve Allah’ın üzerine yalanı iftira atan kimseden veya kendisine gelen gerçeği yalanlayandan daha zalim kimdir? cehennemde kafirler için bir yer yok mudur? 
 **(69)** biz(im uğrumuz)da cihad eden(leri) kimseleri yollarımıza biz elbette iletiriz ve muhakkak ki Allah iyilik edenlerle beraberdir
 
-![29a-Mekki]({{site.url}}/images/ayrac-muhur.png)
+![29a-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)

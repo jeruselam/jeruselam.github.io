@@ -122,4 +122,4 @@ tag:
 **(110)** de ki Allah diye dua edin (çağırın) veya Rahman diye dua edin (çağırın) hangisiyle çağırsanız en güzel isimler O’nundur namazında pek bağırma pek de gizleme onu (sesini) bunun arasında bir yol tut
 **(111)** ve de ki çocuk edinmeyen ve mülkte onun ortağı olmayan ve acze düşüp de yardımcıya onun (ihtiyacı) olmayan Allah’a hamdolsun ve tam bir yüceltme ile O’nu yücelt
 
-![17İsrâ-Mekkî]({{site.url}}/images/ayrac-muhur.png)
+![17İsrâ-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png)

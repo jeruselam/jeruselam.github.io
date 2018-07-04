@@ -41,4 +41,4 @@ tag:
 **(29)** de ki inkar eden(lere) kimselere fetih günü inanmaları fayda vermez ve onlar mühlet verilenler(den) değildir 
 **(30)** sen onlardan yüz çevir ve bekle zaten onlar da beklemektedirler
 
-![32s-Mekki]({{site.url}}/images/ayrac-muhur.png)
+![32s-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)

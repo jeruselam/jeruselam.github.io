@@ -94,4 +94,4 @@ tag:
 **(82)** şüphesiz O’nun işi bir şeyi istediği zaman ona sadece ol! demesidir hemen oluverir
 **(83)** O ki yücedir her şeyin hükümranlığı O’nun elindedir ve O’na döndürüleceksiniz
 
-![36y]({{site.url}}/images/ayrac-muhur.png)
+![36y]({{ site.url }}/assets/images/ayrac-muhur.png)

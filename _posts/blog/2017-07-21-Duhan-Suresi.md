@@ -70,4 +70,4 @@ tag:
 **(58)** biz o’nu kesinlikle senin diline kolaylaştırdık umulur ki düşünüp öğüt alırlar
 **(59)** biraz bekle onlar da beklemektedirler
 
-![Duhân]({{site.url}}/images/altkenar.png)
+![Duhân]({{ site.url }}/assets/images/ayrac-muhur.png)

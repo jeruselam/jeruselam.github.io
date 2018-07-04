@@ -96,4 +96,4 @@ tag:
 **(84)** ne zaman ki hışmımızı gördüler tek Allah’a inandık ve O’na ortak koştuğumuz şeyleri inkar ettik dediler
 **(85)** fakat hışmımızı gördükleri zaman inanmaları kendilerine bir fayda sağlamadı elbette Allah’ın kulları hakkında gelip geçen yasası budur
 
-![40b]({{site.url}}/images/ayrac-muhur.png)
+![40b]({{ site.url }}/assets/images/ayrac-muhur.png)

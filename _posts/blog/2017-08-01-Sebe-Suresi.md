@@ -65,4 +65,4 @@ tag:
 **(53)** oysa andolsun onu daha önce inkar etmişlerdi ve uzak yerden görülmeyene atıyorlardı 
 **(54)** onların arasına ve bundan önce benzerlerine yapıldığı gibi arzu ettikleri şeyler arasına perde çekildi doğrusu onlar katmerli bir kuşku içindedirler 
 
-![34s]({{site.url}}/images/ayrac-muhur.png)
+![34s]({{ site.url }}/assets/images/ayrac-muhur.png)

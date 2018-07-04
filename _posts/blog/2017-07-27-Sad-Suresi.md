@@ -99,4 +99,4 @@ tag:
 **(87)** O (Kur’an) bütün alemlere öğüt(ten) başkası değildir
 **(88)** bir süre sonra onun haberini gayet iyi bileceksiniz
 
-![38s]({{site.url}}/images/ayrac-muhur.png)
+![38s]({{ site.url }}/assets/images/ayrac-muhur.png)

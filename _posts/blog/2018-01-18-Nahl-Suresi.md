@@ -139,4 +139,4 @@ tag:
 **(127)** ve sabret senin sabrın Allah(ın yardımından) başka değildir ve onlara üzülme ve kurdukları tuzaklardan sıkıntıya düşme
 **(128)** çünkü Allah korunan(larla) kimselerle beraberdir ve onlar iyilik eden(lerle) kimselerle
 
-![16Nahl-Mekkî]({{site.url}}/images/ayrac-muhur.png "mühür")
+![16Nahl-Mekkî]({{ site.url }}/assets/images/ayrac-muhur.png "mühür")

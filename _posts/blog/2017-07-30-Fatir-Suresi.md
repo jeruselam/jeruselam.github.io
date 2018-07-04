@@ -57,4 +57,4 @@ tag:
 **(44)** yeryüzünde hiç gez(ip dolaş)madılar mı? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler onlar kuvvet bakımından bunlardan daha güçlü idiler ve Allah’ı göklerde engelleyecek hiçbir şey yoktur ve yerde yoktur şüphesiz O bilendir güçlüdür
 **(45)** ve eğer Allah insanları yaptıkları işler yüzünden cezalandıracak olsaydı süreleri geldiği zaman onun sırtı üzerinde (yeryüzünde) hiçbir canlı bırakmazdı fakat onları belirtilmiş bir süreye kadar erteliyor kuşkusuz Allah kullarını görmektedir
 
-![35f]({{site.url}}/images/ayrac-muhur.png)
+![35f]({{ site.url }}/assets/images/ayrac-muhur.png)

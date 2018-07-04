@@ -84,4 +84,4 @@ tag:
 **(72)** şüphesiz biz emaneti göklere ve yere ve dağlara sunduk fakat onu yüklenmekten kaçındılar ve ondan korktular ve onu insan yüklendi doğrusu o çok zalimdir çok cahildir
 **(73)** Allah iki yüzlü erkeklere ve iki yüzlü kadınlara ve ortak koşan erkeklere ve ortak koşan kadınlara azab etsin diye ve Allah inanan erkekleri ve inanan kadınları bağışlasın diye ve Allah çok bağışlayandır çok esirgeyendir
 
-![33a-Medeni]({{site.url}}/images/ayrac-muhur.png)
+![33a-Medeni]({{ site.url }}/assets/images/ayrac-muhur.png)

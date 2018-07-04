@@ -75,4 +75,4 @@ tag:
 **(63)** herhangi birinizin diğerini daveti gibi Rasulün davetini aranızda bir tutmayın andolsun birbirinin arkasına gizlenerek içinizden sıvışıp gidenleri Allah bilir onun emrine aykırı davranan(lar) kimseler bir belanın kendilerine uğramasından yahut acıklı bir azabın onlara çarpmasından o halde sakınsınlar 
 **(64)** iyi bilin ki şüphesiz göklerde ve yerde olanlar Allah’ındır andolsun sizin ne iş üzerinde olduğunuzu bilir ve O’na döndürül(üp götürül)dükleri gün ne yaptıklarını onlara haber verir Allah her şeyi bilendir
 
-![24N-Medenî]({{site.url}}/images/ayrac-muhur.png)
+![24N-Medenî]({{ site.url }}/assets/images/ayrac-muhur.png)

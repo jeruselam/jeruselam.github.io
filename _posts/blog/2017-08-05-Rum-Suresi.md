@@ -71,4 +71,4 @@ tag:
 **(59)** Allah bilmeyen(lerin) kimselerin kalbleri üzerini işte böyle mühürler
 **(60)** sabret şüphe yok ki Allah’ın va’di haktır ve inanmayan(lar) kimseler seni telaşa düşürmesin
 
-![30r-Mekki]({{site.url}}/images/ayrac-muhur.png)
+![30r-Mekki]({{ site.url }}/assets/images/ayrac-muhur.png)
