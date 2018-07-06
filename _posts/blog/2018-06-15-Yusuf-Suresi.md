@@ -76,8 +76,8 @@ tag:
 **(64)** dedi ki ancak daha önce kardeşi (için) size güvendiğim gibi onun hakkında size güveneyim mi? en iyi koruyan Allah’tır ve O merhametlilerin en merhametlisidir
 **(65)** ne zaman ki (zahire) yüklerini açtılar kendilerine geri verilmiş sermayelerini buldular dediler ki babamız daha ne? istiyoruz işte sermayemiz bize geri verilmiş ailemize yine yiyecek getiririz ve kardeşimizi koruruz ve bir deve yükü fazla alırız bu az bir ölçüdür
 **(66)** dedi ki sizin kuşatılıp engellenmeniz dışında onu bana getireceğinize Allah adına sağlam bir söz siz bana verinceye kadar sizinle onu asla göndermem
-**(67)** ne zaman ki babalarının emrettiği yerden girdiler Allah'tan (gelecek) hiçbir şeyi onlardan savamaz idi ama sadece Ya’kub’un nefsi içindeki bir dileği açığa çıkardı şüphesiz O ona öğrettiğimizden ötürü bilgi sahibi idi fakat insanların çoğu bilmezler
-**(68)** 
+**(67)** ve dedi ki oğullarım bir kapıdan girmeyin (fakat) ayrı ayrı kapılardan girin ve Allah’tan gelecek hiçbir şeyi sizden savamam Allah’ın dışında (hiçbir)[Hâkim] Hüküm yoktur O’na tevekkül ettim ve O’na tevekkül edenler tevekkül etsinler
+**(68)** ne zaman ki babalarının emrettiği yerden girdiler Allah'tan (gelecek) hiçbir şeyi onlardan savamaz idi ama sadece Ya’kub’un nefsi içindeki bir dileği açığa çıkardı şüphesiz O ona öğrettiğimizden ötürü bilgi sahibi idi fakat insanların çoğu bilmezler 
 **(69)** 
 **(70)** 
 **(71)** 
