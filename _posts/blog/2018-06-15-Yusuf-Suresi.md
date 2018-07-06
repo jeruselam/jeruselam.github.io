@@ -86,9 +86,9 @@ tag:
 **(74)** eğer yalancı iseniz cezası nedir? dediler
 **(75)** cezası dediler kimin yükünde bulunursa işte o onun karşılığıdır böylece biz haksızları cezalandırırız
 **(76)** kardeşinin yükünden önce onların yüklerini (aramağa) başladı sonra kardeşinin yükünden (tası) çıkardı işte böyle bir çare öğrettik Yusuf’a eğer Allah’ın dilemesi dışında kralın dini(kanunu)na göre kardeşini yoksa alamaz idi dilediğimiz kimseyi derecelerle biz yükseltiriz ve her bilgi sahibinin üstünde daha bir bilen (vardır)
-**(77)** 
-**(78)** 
-**(79)** 
+**(77)** dediler ki eğer çaldıysa elbette bundan önce onun kardeşi de çalmıştı Yusuf içinde bunu sakladı onlara açmadı siz dedi fena durumdasınız ve anlattığınızın (içyüzünü) Allah çok iyi biliyor
+**(78)** dediler ki ey vezir şüphesiz onun büyük bir ihtiyar babası vardır o yüzden onun yerine (bizden) birimizi al doğrusu biz seni iyilik edenlerden görüyoruz
+**(79)** yanında eşyamızı bulduğumuz kimseden başkasını almaktan Allah’a sığınırız yoksa biz o zaman zulmedenler (oluruz)
 **(80)** 
 **(81)** 
 **(82)** 
