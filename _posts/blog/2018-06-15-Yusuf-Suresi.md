@@ -78,8 +78,8 @@ tag:
 **(66)** dedi ki sizin kuşatılıp engellenmeniz dışında onu bana getireceğinize Allah adına sağlam bir söz siz bana verinceye kadar sizinle onu asla göndermem
 **(67)** ve dedi ki oğullarım bir kapıdan girmeyin (fakat) ayrı ayrı kapılardan girin ve Allah’tan gelecek hiçbir şeyi sizden savamam Allah’ın dışında (hiçbir)[Hâkim] Hüküm yoktur O’na tevekkül ettim ve O’na tevekkül edenler tevekkül etsinler
 **(68)** ne zaman ki babalarının emrettiği yerden girdiler Allah'tan (gelecek) hiçbir şeyi onlardan savamaz idi ama sadece Ya’kub’un nefsi içindeki bir dileği açığa çıkardı şüphesiz O ona öğrettiğimizden ötürü bilgi sahibi idi fakat insanların çoğu bilmezler 
-**(69)** 
-**(70)** 
+**(69)** ne zaman ki Yusuf’un huzuruna girince kardeşini yanına aldı gerçekten ben dedi ben senin kardeşinim onların yaptıkları sebebiyle üzülme
+**(70)** ne zaman ki onların yüklerini hazırlatırken kardeşinin yükünün içine su tasını koydu sonra bir tellal seslendi Ey kervan şüphesiz siz hırsızsınız
 **(71)** 
 **(72)** 
 **(73)** 
