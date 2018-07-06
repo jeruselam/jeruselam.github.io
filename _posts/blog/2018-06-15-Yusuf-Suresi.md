@@ -82,10 +82,10 @@ tag:
 **(70)** ne zaman ki onların yüklerini hazırlatırken kardeşinin yükünün içine su tasını koydu sonra bir tellal seslendi Ey kervan şüphesiz siz hırsızsınız
 **(71)** bunlara dönerek dediler ki ne? kaybettiniz
 **(72)** dediler ki Kralın su tasını kaybettik ve onu getiren kimseye bir deve yükü (mükafat) var ve ben buna kefilim
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
+**(73)** Allah’a and olsun dediler elbette siz de bilmişsinizdir ki bu yere bozgunculuk yapmak için biz gelmedik ve hırsız değiliz
+**(74)** eğer yalancı iseniz cezası nedir? dediler
+**(75)** cezası dediler kimin yükünde bulunursa işte o onun karşılığıdır böylece biz haksızları cezalandırırız
+**(76)** kardeşinin yükünden önce onların yüklerini (aramağa) başladı sonra kardeşinin yükünden (tası) çıkardı işte böyle bir çare öğrettik Yusuf’a eğer Allah’ın dilemesi dışında kralın dini(kanunu)na göre kardeşini yoksa alamaz idi dilediğimiz kimseyi derecelerle biz yükseltiriz ve her bilgi sahibinin üstünde daha bir bilen (vardır)
 **(77)** 
 **(78)** 
 **(79)** 
