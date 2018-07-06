@@ -80,8 +80,8 @@ tag:
 **(68)** ne zaman ki babalarının emrettiği yerden girdiler Allah'tan (gelecek) hiçbir şeyi onlardan savamaz idi ama sadece Ya’kub’un nefsi içindeki bir dileği açığa çıkardı şüphesiz O ona öğrettiğimizden ötürü bilgi sahibi idi fakat insanların çoğu bilmezler 
 **(69)** ne zaman ki Yusuf’un huzuruna girince kardeşini yanına aldı gerçekten ben dedi ben senin kardeşinim onların yaptıkları sebebiyle üzülme
 **(70)** ne zaman ki onların yüklerini hazırlatırken kardeşinin yükünün içine su tasını koydu sonra bir tellal seslendi Ey kervan şüphesiz siz hırsızsınız
-**(71)** 
-**(72)** 
+**(71)** bunlara dönerek dediler ki ne? kaybettiniz
+**(72)** dediler ki Kralın su tasını kaybettik ve onu getiren kimseye bir deve yükü (mükafat) var ve ben buna kefilim
 **(73)** 
 **(74)** 
 **(75)** 
