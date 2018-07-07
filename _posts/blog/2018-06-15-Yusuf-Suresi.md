@@ -90,10 +90,10 @@ tag:
 **(78)** dediler ki ey vezir şüphesiz onun büyük bir ihtiyar babası vardır o yüzden onun yerine (bizden) birimizi al doğrusu biz seni iyilik edenlerden görüyoruz
 **(79)** yanında eşyamızı bulduğumuz kimseden başkasını almaktan Allah’a sığınırız yoksa biz o zaman zulmedenler (oluruz)
 **(80)** ne zaman ki ondan umudu kesince fısıldaşarak (bir kenara) çekildiler büyükleri dedi ki bilmiyor musunuz? ki babanız muhakkak Allah (adına) sizden kesin söz aldı ve daha önce işlediğiniz kusurunuz Yusuf hakkında [sizden kesin söz aldı ]babam bana izin verinceye kadar bu yerden asla ayrılmayacağım yahut benim için Allah hükmedinceye ve O hükmedenlerin en iyisidir
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
+**(81)** babanıza dönün deyin ki babamız şüphesiz oğlun hırsızlık etti bildiğimiz şeyin dışındakine biz şahid değiliz ve biz gaybın muhafızları değiliz
+**(82)** (istersen) İçinde bulunduğumuz kente ve İçinde geldiğimiz kervana sor ve biz doğru söylüyoruz
+**(83)** herhalde dedi bir işi nefisleriniz size süsledi artık sabretmek gerek güzelce belki de Allah bana getirir onların hepsini çünkü o [Alîmul Hakîm]bilendir herşeyi hikmetle yapandır
+**(84)** ve onlardan yüzünü çevirdi ve Yusuf üzerindeki kederim dedi ve O kederden  gözleri ağardı yutkunuyordu
 **(85)** 
 **(86)** 
 **(87)**
