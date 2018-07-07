@@ -95,7 +95,7 @@ tag:
 **(83)** herhalde dedi bir işi nefisleriniz size süsledi artık sabretmek gerek güzelce belki de Allah bana getirir onların hepsini çünkü o [Alîmul Hakîm]bilendir herşeyi hikmetle yapandır
 **(84)** ve onlardan yüzünü çevirdi ve Yusuf üzerindeki kederim dedi ve O kederden  gözleri ağardı yutkunuyordu
 **(85)** dediler ki Vallahi sen hâlâ Yusuf’u anıyorsun sonunda hasta olacaksın yahut helak olanlardan olacaksın
-**(86)** 
+**(86)** şüphesiz ben Allah’a yalnız üzüntümü ve tasamı arz ederim dedi ve sizin bilmediğiniz şeyleri Allah tarafından bilirim
 **(87)**
 **(88)** 
 **(89)** 
