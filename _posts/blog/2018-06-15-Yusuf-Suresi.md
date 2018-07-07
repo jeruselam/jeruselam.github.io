@@ -89,7 +89,7 @@ tag:
 **(77)** dediler ki eğer çaldıysa elbette bundan önce onun kardeşi de çalmıştı Yusuf içinde bunu sakladı onlara açmadı siz dedi fena durumdasınız ve anlattığınızın (içyüzünü) Allah çok iyi biliyor
 **(78)** dediler ki ey vezir şüphesiz onun büyük bir ihtiyar babası vardır o yüzden onun yerine (bizden) birimizi al doğrusu biz seni iyilik edenlerden görüyoruz
 **(79)** yanında eşyamızı bulduğumuz kimseden başkasını almaktan Allah’a sığınırız yoksa biz o zaman zulmedenler (oluruz)
-**(80)** ne zaman ki ondan umudu kesince fısıldaşarak (bir kenara) çekildiler büyükleri dedi ki bilmiyor musunuz? ki babanız muhakkak Allah (adına) sizden kesin söz aldı ve Yusuf hakkında daha önce işlediğiniz kusurunuz babam bana izin verinceye kadar bu yerden asla ayrılmayacağım yahut benim için Allah hükmedinceye ve O hükmedenlerin en iyisidir
+**(80)** ne zaman ki ondan umudu kesince fısıldaşarak (bir kenara) çekildiler büyükleri dedi ki bilmiyor musunuz? ki babanız muhakkak Allah (adına) sizden kesin söz aldı ve daha önce işlediğiniz kusurunuz Yusuf hakkında [sizden kesin söz aldı ]babam bana izin verinceye kadar bu yerden asla ayrılmayacağım yahut benim için Allah hükmedinceye ve O hükmedenlerin en iyisidir
 **(81)** 
 **(82)** 
 **(83)** 
