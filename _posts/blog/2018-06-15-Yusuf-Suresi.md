@@ -96,7 +96,7 @@ tag:
 **(84)** ve onlardan yüzünü çevirdi ve Yusuf üzerindeki kederim dedi ve O kederden  gözleri ağardı yutkunuyordu
 **(85)** dediler ki Vallahi sen hâlâ Yusuf’u anıyorsun sonunda hasta olacaksın yahut helak olanlardan olacaksın
 **(86)** şüphesiz ben Allah’a yalnız üzüntümü ve tasamı arz ederim dedi ve sizin bilmediğiniz şeyleri Allah tarafından bilirim
-**(87)**
+**(87)** oğullarım gidin Yusuf’u ve kardeşini araştırın Allah’ın rahmetinden umut kesmeyin zira kafir kavimden başkası Allah’ın rahmetinden umut kesmez
 **(88)** 
 **(89)** 
 **(90)** 
