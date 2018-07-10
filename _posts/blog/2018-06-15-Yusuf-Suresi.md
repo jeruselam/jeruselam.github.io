@@ -98,10 +98,10 @@ tag:
 **(86)** şüphesiz ben Allah’a yalnız üzüntümü ve tasamı arz ederim dedi ve sizin bilmediğiniz şeyleri Allah tarafından bilirim
 **(87)** oğullarım gidin Yusuf’u ve kardeşini araştırın Allah’ın rahmetinden umut kesmeyin zira kafir kavimden başkası Allah’ın rahmetinden umut kesmez
 **(88)** böylece onun huzuruna girdiklerinde dediler ki ey ǎzīz vezir bize ve çocuklarımıza darlık dokundu ve değersiz bir sermaye ile geldik ölçyü bize ölçyü tam ver ve bize tasadduk eyle çünkü Allah ihtiyaca göre tasadduk edenleri mükafatlandırır 
-**(89)** 
-**(90)** 
-**(91)**
-**(92)** 
+**(89)** dedi ki sizler cahiller iken Yusuf’a ve kardeşine neler yaptığınızı bildiniz mi?
+**(90)** Yusuf sen yoksa sen misin? dediler ben Yusuf’um dedi ve bu da kardeşimdir Allah bize muhakkak lutfetti doğrusu o kim korkarsa ve sabrederse iyilik edenlerin ecrini şüphesiz Allah zayi etmez
+**(91)** vallahi dediler Allah bize doğrusu seni üstün kıldı ve doğrusu biz suç işlemiştik
+**(92)** bugün size kınama yoktur dedi sizi Allah bağışlar ve O merhametlilerin en merhametlisidir
 **(93)** 
 **(94)** 
 **(95)** 
