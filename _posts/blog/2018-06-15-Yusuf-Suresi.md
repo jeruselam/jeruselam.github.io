@@ -102,7 +102,7 @@ tag:
 **(90)** Yusuf sen yoksa sen misin? dediler ben Yusuf’um dedi ve bu da kardeşimdir Allah bize muhakkak lutfetti doğrusu o kim korkarsa ve sabrederse iyilik edenlerin ecrini şüphesiz Allah zayi etmez
 **(91)** vallahi dediler Allah bize doğrusu seni üstün kıldı ve doğrusu biz suç işlemiştik
 **(92)** bugün size kınama yoktur dedi sizi Allah bağışlar ve O merhametlilerin en merhametlisidir
-**(93)** 
+**(93)** şu benim gömleğimi götürün babamın yüzü üzerine koyun görmeye başlasın ve bütün ailenizle birlikte bana gelin
 **(94)** 
 **(95)** 
 **(96)** 
