@@ -12,7 +12,7 @@ author:
   url             : https://jeruselam.github.io
   email           : jeruselam@yandex.com
   bio             : "Just another tattooed, time traveling designer."
-  picture         : "/images/apple-icon-120x120.png"
+  picture         : "/assets/images/apple-icon-120x120.png"
 
 # Location
 
@@ -73,15 +73,17 @@ assets:
   assets:
     - "*.png"
     - "*.jpg"
+    - "*.js"
+    - "*.css"
     - "bundle.css"
     - "*.scss"
   sources:
     - assets/css
-    - images
+    - assets/images
     - _sass
     - assets/fonts
     - assets/js
-    - js
+
   features:
     liquid: false
     integrity: false
@@ -103,7 +105,7 @@ mathjax           : true
 
 include           : [".htaccess"]
 exclude           : ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-keep_files        : ["/images", "favicon.png", ".git"]
+keep_files        : ["/assets/images", "/assets/images/favicon.png", ".git"]
 
 # Conversion
 incremental       : bool
