@@ -8,13 +8,12 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %} target="_blank" {% endif %}>{{ link.title }}</a></li>
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %} target="_blank" {% endif %} > {{ link.title }}</a></li>
 		  {% endfor %}
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
 </div>
-{% include browser-upgrade.html %}
 
 <div class="teaser clearfix">
 {% if page.image.feature %}
@@ -40,4 +39,3 @@
 	</div>
 </header><!-- /.masthead -->{% endif %}
 </div>
-<div class="js-menu-screen menu-screen"></div>
