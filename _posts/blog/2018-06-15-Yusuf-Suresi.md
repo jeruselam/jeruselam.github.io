@@ -106,9 +106,9 @@ tag:
 **(94)** ne zaman ki kervan ayrılınca babaları dedi ki eğer bana bunak demezseniz Yusuf’un kokusunu ben alıyorum
 **(95)** vallahi dediler elbette sen eski şaşkınlığının içindesin
 **(96)** müjdeci geldiği zaman yüzü üzerine koyunca derhal görür oldu dedi ki size demedim mi? sizin bilmediğiniz şeyleri Allah'tan elbette ben bilirim
-**(97)** 
-**(98)** 
-**(99)** 
+**(97)** babamız dediler bizim günahlarımızın bağışlanmasını dile gerçekten biz günah işledik
+**(98)** (şimdi) dedi Rabbimden sizin için mağfiret dileyeceğim şüphesiz O [Gafûrur Rahîm], O bağışlayandır esirgeyendir
+**(99)** Yusuf’un yanına nihayet vardıklarında ana-babasını kendine çekip kucakladı ve güven içinde Allah’ın dileğiyle Mısır’a girin dedi
 **(100)** 
 **(101)** 
 **(102)** 
