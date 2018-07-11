@@ -109,7 +109,8 @@ tag:
 **(97)** babamız dediler bizim günahlarımızın bağışlanmasını dile gerçekten biz günah işledik
 **(98)** (şimdi) dedi Rabbimden sizin için mağfiret dileyeceğim şüphesiz O [Gafûrur Rahîm], O bağışlayandır esirgeyendir
 **(99)** Yusuf’un yanına nihayet vardıklarında ana-babasını kendine çekip kucakladı ve güven içinde Allah’ın dileğiyle Mısır’a girin dedi
-**(100)** 
+**(100)** ve tahtın üstüne ana-babasını çıkardı ve secdeye onun için hepsi kapandılar ve babacığım dedi işte bu önceki rü’yanın yorumudur muhakkak onu Rabbim gerçek yaptı ve gerçekten bana iyilik etti zindandan zira beni çıkardı kardeşlerim arasına ve aramıza şeytan fitne soktuktan sonra çölden
+sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz O[Alîmul Hakîm], O bilendir her şeyi yerli yerince yapandır
 **(101)** 
 **(102)** 
 **(103)** 
