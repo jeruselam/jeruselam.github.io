@@ -27,9 +27,9 @@ sitemap: false
 <body>
 	Bir sûreye yönlendiriliyorsunuz ...
 	<script>
-		document.write("<a href="\");
+		document.write("<a href="{{ site.baseurl }}");
 		document.write(posts[Math.floor(Math.random() * posts.length)]);
-		document.write("\">yönlendiriliyorsunuz</a>...");
+		document.write("\>yönlendiriliyorsunuz</a>...");
 	</script>
 </body>
 </html>
