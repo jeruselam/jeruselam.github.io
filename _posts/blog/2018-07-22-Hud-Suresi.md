@@ -8,10 +8,10 @@ tag:
  - Hûd
 ---
 
-## 12. Yûsuf Sûresi
+## 11. Hûd Sûresi
 
 
-**(1)** 
+**(1)** Elif Lâm Râ ayetleri sağlamlaştırılmış sonra her şeyden haberdar ve hikmet sahibi[Hakîmin Habîr] tarafından etraflıca açıklanmış bir Kitap’tır
 **(2)** 
 **(3)** 
 **(4)** 
