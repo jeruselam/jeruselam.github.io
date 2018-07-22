@@ -112,9 +112,9 @@ tag:
 **(100)** ve tahtın üstüne ana-babasını çıkardı ve secdeye onun için hepsi kapandılar ve babacığım dedi işte bu önceki rü’yanın yorumudur muhakkak onu Rabbim gerçek yaptı ve gerçekten bana iyilik etti zindandan zira beni çıkardı kardeşlerim arasına ve aramıza şeytan fitne soktuktan sonra çölden
 sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz O[Alîmul Hakîm], O bilendir her şeyi yerli yerince yapandır
 **(101)** Rabbim gerçekten bana mülk verdin ve düşlerin yorumunu bana öğrettin göklerin ve yerin yaratıcısı, dünyada ve ahirette benim velim sensin müslüman olarak beni öldür ve beni iyilere kat
-**(102)** 
-**(103)** 
-**(104)** 
+**(102)** bu sana vahyettiğimiz gayb haberlerindendir yapacakları işleri için toplandıkları zaman ve onlar tuzak kurarlarken sen onların yanında değildin
+**(103)** ve ne kadar istesen de ama insanların çoğu inanacak değildir
+**(104)** buna karşılık sen bir ücret istemiyorsun O sadece bütün alemler için bir öğüttür
 **(105)** 
 **(106)** 
 **(107)** 
