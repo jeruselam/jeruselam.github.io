@@ -119,7 +119,7 @@ sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz
 **(106)** ve onlar ortak koşmaları dışında onların çoğu Allah’a inanmazlar
 **(107)** Alah’ın azabından sargın bir belanın kendilerine gelmeyeceğinden veya ansızın O sa’atin kendilerine gelmeyeceğinden ve onlar hiç farkında değillerken onlar emin midirler? 
 **(108)** de ki benim yolum işte budur bana uyan(lar) kimseler ve ben basiretle Allah’a da’vet ederim ve Allah’ın şanı yücedir ve ben ortak koşanlardan değilim
-**(109)** kentler halkından kendilerine vahyettiğimiz başka erkeklerden senden önce göndermedik
+**(109)** kentler halkından kendilerine vahyettiğimiz başka erkeklerden senden önce göndermedik yeryüzünde hiç gezmediler mi? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler ve ahiret yurdu korunanlar için daha iyidir aklınızı kullanmıyor musunuz?
 **(110)** 
 **(111)** 
 
