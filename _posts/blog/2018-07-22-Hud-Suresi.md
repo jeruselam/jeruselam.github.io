@@ -16,8 +16,8 @@ tag:
 **(3)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin belirli bir süreye kadar güzel nimetlerden sizi yararlandırsın ve kendi ihsanını her ihsan sahibine versin ve eğer yüz çevirirseniz gerçekten ben sizin hakkınızda büyük bir günün azabından korkarım
 **(4)** Allah’adır dönüşünüz ve O her şey üzerine güç yetirendir
 **(5)** iyi bilin ki onlar ondan gizlenmek için göğüslerini [öteye döndürür]bükerler yine iyi bilin ki ne zaman elbiselerine bürünseler gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O gönüllerde olanı bilendir
-**(6)** ve rızkı Allah’a ait olmayan yeryüzünde hiçbir canlı yoktur ve onun [yerleşip]karar kıldığı yeri ve [rızıklandırmak için]emanet bırakıldığı yeri O bilir (bunların) hepsi apaçık bir Kitap’tadır
-**(7)** 
+**(6)** ve rızkı Allah’a ait olmayan yeryüzünde hiçbir canlı yoktur ve onun [yerleşip]karar kıldığı yeri ve [rızıklandırılarak]emanet bırakıldığı yeri O bilir (bunların) hepsi apaçık bir Kitap’tadır
+**(7)** ve hanginizin amelinin daha güzel (olduğunu) sizi denemek için O’nun Arş’ı su üzerinde iken altı gün içinde gökleri ve yeri yaratan O’dur ve şayet onlara dersen şüphesiz siz ölümden sonra diriltileceksiniz inkar eden(ler) kimseler hemen derler bu apaçık bir sihirden başka[sı] değildir
 **(8)** 
 **(9)** 
 **(10)** 
