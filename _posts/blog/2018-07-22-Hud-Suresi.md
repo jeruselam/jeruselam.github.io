@@ -12,8 +12,8 @@ tag:
 
 
 **(1)** Elif Lâm Râ ayetleri sağlamlaştırılmış sonra her şeyden haberdar ve hikmet sahibi[Hakîmin Habîr] tarafından etraflıca açıklanmış bir Kitap’tır
-**(2)** 
-**(3)** 
+**(2)** öyle ki Allah’tan başkasına kulluk etmeyin şüphesiz ben size O’nun tarafından bir uyarıcıyım ve müjdeleyiciyim
+**(3)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin belirli bir süreye kadar güzel nimetlerden sizi yararlandırsın ve kendi ihsanını her ihsan sahibine versin ve eğer yüz çevirirseniz gerçekten ben sizin hakkınızda büyük bir günün azabından korkarım
 **(4)** 
 **(5)** 
 **(6)** 
