@@ -120,7 +120,7 @@ sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz
 **(107)** Alah’ın azabından sargın bir belanın kendilerine gelmeyeceğinden veya ansızın O sa’atin kendilerine gelmeyeceğinden ve onlar hiç farkında değillerken onlar emin midirler? 
 **(108)** de ki benim yolum işte budur bana uyan(lar) kimseler ve ben basiretle Allah’a da’vet ederim ve Allah’ın şanı yücedir ve ben ortak koşanlardan değilim
 **(109)** kentler halkından kendilerine vahyettiğimiz başka erkeklerden senden önce göndermedik yeryüzünde hiç gezmediler mi? kendilerinden önceki kimselerin sonunun nasıl olduğunu görsünler ve ahiret yurdu korunanlar için daha iyidir aklınızı kullanmıyor musunuz?
-**(110)** 
-**(111)** 
+**(110)** hatta ne zaman ki elçiler umutlarını kestiler ve kendilerinin gerçekten yalanlandıklarını sandılar yardımımız onlara geldi ve dilediğimiz kimseler kurtarıldı suçlular topluluğundan azabımız asla geri çevrilmez
+**(111)** akıl sahipleri için onların hikayelerinde elbette ibret vardır (bu) uydurulacak bir söz değildir ancak kendinden öncekinin kimsenin doğrulanmasıdır ve her şeyin açıklamasıdır ve bir hidayettir ve inanan toplumlar için rahmettir 
 
 ![12Yûsuf-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
