@@ -115,10 +115,10 @@ sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz
 **(102)** bu sana vahyettiğimiz gayb haberlerindendir yapacakları işleri için toplandıkları zaman ve onlar tuzak kurarlarken sen onların yanında değildin
 **(103)** ve ne kadar istesen de ama insanların çoğu inanacak değildir
 **(104)** buna karşılık sen bir ücret istemiyorsunbütün alemler için O sadece  bir öğüttür
-**(105)** 
-**(106)** 
-**(107)** 
-**(108)** 
+**(105)** göklerde ve yerde nice ayet(ler) var ki yanlarına uğrarlar da ve onlar ondan yüzlerini çevirirler
+**(106)** ve onlar ortak koşmaları dışında onların çoğu Allah’a inanmazlar
+**(107)** Alah’ın azabından sargın bir belanın kendilerine gelmeyeceğinden veya ansızın O sa’atin kendilerine gelmeyeceğinden ve onlar hiç farkında değillerken onlar emin midirler? 
+**(108)** de ki benim yolum işte budur bana uyan(lar) kimseler ve ben basiretle Allah’a da’vet ederim ve Allah’ın şanı yücedir ve ben ortak koşanlardan değilim
 **(109)** 
 **(110)** 
 **(111)** 
