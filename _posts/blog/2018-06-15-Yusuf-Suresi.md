@@ -114,7 +114,7 @@ sizi de getirdi gerçekten Rabbim dilediği şeyi çok ince düzenler şüphesiz
 **(101)** Rabbim gerçekten bana mülk verdin ve düşlerin yorumunu bana öğrettin göklerin ve yerin yaratıcısı, dünyada ve ahirette benim velim sensin müslüman olarak beni öldür ve beni iyilere kat
 **(102)** bu sana vahyettiğimiz gayb haberlerindendir yapacakları işleri için toplandıkları zaman ve onlar tuzak kurarlarken sen onların yanında değildin
 **(103)** ve ne kadar istesen de ama insanların çoğu inanacak değildir
-**(104)** buna karşılık sen bir ücret istemiyorsun O sadece bütün alemler için bir öğüttür
+**(104)** buna karşılık sen bir ücret istemiyorsunbütün alemler için O sadece  bir öğüttür
 **(105)** 
 **(106)** 
 **(107)** 
