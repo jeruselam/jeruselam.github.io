@@ -18,11 +18,11 @@ tag:
 **(5)** iyi bilin ki onlar ondan gizlenmek için göğüslerini [öteye döndürür]bükerler yine iyi bilin ki ne zaman elbiselerine bürünseler gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O gönüllerde olanı bilendir
 **(6)** ve rızkı Allah’a ait olmayan yeryüzünde hiçbir canlı yoktur ve onun [yerleşip]karar kıldığı yeri ve [rızıklandırılarak]emanet bırakıldığı yeri O bilir (bunların) hepsi apaçık bir Kitap’tadır
 **(7)** ve hanginizin amelinin daha güzel (olduğunu) sizi denemek için O’nun Arş’ı su üzerinde iken altı gün içinde gökleri ve yeri yaratan O’dur ve şayet onlara dersen şüphesiz siz ölümden sonra diriltileceksiniz inkar eden(ler) kimseler hemen derler bu apaçık bir sihirden başka[sı] değildir
-**(8)** 
-**(9)** 
-**(10)** 
-**(11)** 
-**(12)** 
+**(8)** ve şayet sayılı bir süre için azabı onlardan geciktirsek mutlaka derler onu alıkoyan nedir? haberiniz olsun ki o geldiği gün kendilerinden geri çevrilecek değildir ve onu alaya alıyor(lar) oldukları şey onları kuşatır
+**(9)** insana katımızdan bir rahmet tattırsak şayet sonra ondan onu geri alsak o hemen ümitsiz bir nankör olur
+**(10)** ve kendisine dokunan bir darlıktan sonra ona bir nimet tattırırsak şayet mutlaka benden kötülükler gitti der şüphesiz o şımarık ve böbürlenendir
+**(11)** sabreden(ler) ve salih ameller işleyenler kimseler ancak hariçtir işte onlara bağışlanma ve büyük ecir vardır
+**(12)** beraberinde bir melek gelmeli veya ona bir hazine indirilmeli değil miydi? demelerinden dolayı onunla göğsün daralacak ve sana vahyedilenin bir kısmını belki de bırakacaksın ancak sen bir uyarıcısın Allah ise her şey üzerine vekildir 
 **(13)** 
 **(14)** 
 **(15)** 
