@@ -16,7 +16,7 @@ tag:
 **(3)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin belirli bir süreye kadar güzel nimetlerden sizi yararlandırsın ve kendi ihsanını her ihsan sahibine versin ve eğer yüz çevirirseniz gerçekten ben sizin hakkınızda büyük bir günün azabından korkarım
 **(4)** Allah’adır dönüşünüz ve O her şey üzerine güç yetirendir
 **(5)** iyi bilin ki onlar ondan gizlenmek için göğüslerini [öteye döndürür]bükerler yine iyi bilin ki ne zaman elbiselerine bürünseler gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O gönüllerde olanı bilendir
-**(6)** 
+**(6)** ve rızkı Allah’a ait olmayan yeryüzünde hiçbir canlı yoktur ve onun [yerleşip]karar kıldığı yeri ve [rızıklandırmak için]emanet bırakıldığı yeri O bilir (bunların) hepsi apaçık bir Kitap’tadır
 **(7)** 
 **(8)** 
 **(9)** 
