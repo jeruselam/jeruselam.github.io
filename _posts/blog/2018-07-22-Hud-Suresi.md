@@ -14,8 +14,8 @@ tag:
 **(1)** Elif Lâm Râ ayetleri sağlamlaştırılmış sonra her şeyden haberdar ve hikmet sahibi[Hakîmin Habîr] tarafından etraflıca açıklanmış bir Kitap’tır
 **(2)** öyle ki Allah’tan başkasına kulluk etmeyin şüphesiz ben size O’nun tarafından bir uyarıcıyım ve müjdeleyiciyim
 **(3)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin belirli bir süreye kadar güzel nimetlerden sizi yararlandırsın ve kendi ihsanını her ihsan sahibine versin ve eğer yüz çevirirseniz gerçekten ben sizin hakkınızda büyük bir günün azabından korkarım
-**(4)** 
-**(5)** 
+**(4)** Allah’adır dönüşünüz ve O her şey üzerine güç yetirendir
+**(5)** iyi bilin ki onlar ondan gizlenmek için göğüslerini [öteye döndürür]bükerler yine iyi bilin ki ne zaman elbiselerine bürünseler gizledikleri şeyleri ve açığa vurdukları şeyleri bilir şüphesiz O gönüllerde olanı bilendir
 **(6)** 
 **(7)** 
 **(8)** 
