@@ -23,9 +23,9 @@ tag:
 **(10)** ve kendisine dokunan bir darlıktan sonra ona bir nimet tattırırsak şayet mutlaka benden kötülükler gitti der şüphesiz o şımarık ve böbürlenendir
 **(11)** sabreden(ler) ve salih ameller işleyenler kimseler ancak hariçtir işte onlara bağışlanma ve büyük ecir vardır
 **(12)** beraberinde bir melek gelmeli veya ona bir hazine indirilmeli değil miydi? demelerinden dolayı onunla göğsün daralacak ve sana vahyedilenin bir kısmını belki de bırakacaksın ancak sen bir uyarıcısın Allah ise her şey üzerine vekildir 
-**(13)** 
-**(14)** 
-**(15)** 
+**(13)** yoksa onu kendisi uydurdu mu? diyorlar de ki onun benzeri uydurulmuş on (tane) sure getirin ve eğer doğru sözlü iseniz Allah’tan başka gücünüzyeteni çağırın
+**(14)** eğer size cevap veremezlerse bilin ki doğrusu o Allah’ın ilmiyle indirilmiştir ve şüphesiz O’ndan başka ilah yoktur siz artık Müslüman olur musunuz?
+**(15)** dünya hayatını ve süsünü kimler isterse onlara orada yaptıklarının karşılıklarını tam veririz ve onlara orada bir noksanlık yapılmaz
 **(16)** 
 **(17)** 
 **(18)** 
