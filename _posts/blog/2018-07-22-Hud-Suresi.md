@@ -26,8 +26,8 @@ tag:
 **(13)** yoksa onu kendisi uydurdu mu? diyorlar de ki onun benzeri uydurulmuş on (tane) sure getirin ve eğer doğru sözlü iseniz Allah’tan başka gücünüzyeteni çağırın
 **(14)** eğer size cevap veremezlerse bilin ki doğrusu o Allah’ın ilmiyle indirilmiştir ve şüphesiz O’ndan başka ilah yoktur siz artık Müslüman olur musunuz?
 **(15)** dünya hayatını ve süsünü kimler isterse onlara orada yaptıklarının karşılıklarını tam veririz ve onlara orada bir noksanlık yapılmaz
-**(16)** 
-**(17)** 
+**(16)** bunlar ahirette kendileri için ateşten başka bir şey olmayan kimselerdir ve orada işledikleri boşa gitmiştir ve yapmakta oldukları geçersizdir
+**(17)** ondan önce Musa’nın bir rehber ve rahmet olan kitabı (elinde bulunan) ve O’nun tarafından onu izleyen bir şahit ve Rabbinden açık bir delil üzere olan kimse gibi midir? işte bunlar iman ona ederler ve topluluklardan onu kim inkar ederse kendisine vaadedilen ateştir bundan şüphe içinde hiç olma şüphesiz bu Rabbinden bir gerçektir ancak insanların çoğu iman etmezler
 **(18)** 
 **(19)** 
 **(20)** 

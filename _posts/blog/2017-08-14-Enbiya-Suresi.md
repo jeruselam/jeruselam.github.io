@@ -59,8 +59,8 @@ tag:
 **(47)** kıyamet günü için adalet terazileri kurarız hiçbir kimseye asla haksızlık edilmez ve bir hardal danesi ağırlığınca eğer olsa onu getiririz ve hesabı gören olarak biz yeteriz
 **(48)** ve andolsun Musa’ya ve Harun’a Furkan’ı biz verdik ve muttakiler[günahtan çekinenler] için [parlak]bir ışık ve bir öğüt [örnek verdik]
 **(49)** onlar görmeden Rablerinden [saygıyla]korkarlar ve onlar (Duruşma) [Kıyamet]saatinden [şefkatle sevene layık surette]titrerler
-**(50)** ona indirdiğimiz bu (Kur’an) mübarek bir öğüttür onu şimdi siz ediyor musunuz? inkar
-**(51)** ve andolsun daha önceden İbrahim’e doğru yolu bulma yeteneğini biz vermiştik ve onu biz idik biliyor
+**(50)** ona indirdiğimiz bu (Kur’an) mübarek bir öğüttür onu şimdi siz  inkar[mı] ediyor musunuz?
+**(51)** ve andolsun daha önceden İbrahim’e doğru yolu bulma yeteneğini biz vermiştik ve onu biz biliyor idik
 **(52)** hani babasına ve kavmine demişti ki sizin kendisine taptığınız şu heykeller nedir?
 **(53)** dediler ki babalarımızı onlara tapıyorlar bulduk
 **(54)** doğrusu dedi siz ve babalarınız açık bir sapıklık içindesiniz
