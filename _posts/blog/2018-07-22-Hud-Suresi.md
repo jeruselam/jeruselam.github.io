@@ -37,8 +37,8 @@ tag:
 **(24)** iki topluluğun durumu körün ve sağırın durumu gibidir ve görenin ve işitenin durumları ikisi eşit midir? İbret almıyor musunuz?
 **(25)** ve andolsun Nuh’u kendi kavmine göndermiştik şüphesiz ben sizin için apaçık bir uyarıcıyım
 **(26)** Allah’tan başkasına kulluk etmeyin diye şüphesiz ben sizin hakkınızda acıklı bir günün azabından korkuyorum
-**(27)** 
-**(28)** 
+**(27)** kavminden inkar eden ileri gelenleri dediler ki biz seni bizim gibi bir insandan başka görmüyoruz ve kendisi sığ (görüşlü) en aşağılıklarımız olandan başkasının sana uyduğunu görmüyoruz ve sizin bize karşı hiç üstünlüğünüzü görmüyoruz aksine zannediyoruz ki siz yalancılarsınız
+**(28)** bunun karşılığında kavmim sizden bir mal istemiyorum benim ecrim yalnızca Allah’a aittir ve ben iman eden(leri) kimseleri kovacak değilim şüphesiz onlar Rabblerine kavuşacaklardır ancak ben sizi cahillik eden bir topluluk olarak görüyorum
 **(29)** 
 **(30)** 
 **(31)** 
