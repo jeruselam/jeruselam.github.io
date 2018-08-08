@@ -28,10 +28,10 @@ tag:
 **(15)** dünya hayatını ve süsünü kimler isterse onlara orada yaptıklarının karşılıklarını tam veririz ve onlara orada bir noksanlık yapılmaz
 **(16)** bunlar ahirette kendileri için ateşten başka bir şey olmayan kimselerdir ve orada işledikleri boşa gitmiştir ve yapmakta oldukları geçersizdir
 **(17)** ondan önce Musa’nın bir rehber ve rahmet olan kitabı (elinde bulunan) ve O’nun tarafından onu izleyen bir şahit ve Rabbinden açık bir delil üzere olan kimse gibi midir? işte bunlar iman ona ederler ve topluluklardan onu kim inkar ederse kendisine vaadedilen ateştir bundan şüphe içinde hiç olma şüphesiz bu Rabbinden bir gerçektir ancak insanların çoğu iman etmezler
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
+**(18)** Allah’a karşı yalan uyduran kimseden daha zalim kim olabilir? Rabblerine karşı bunlar sunulurlar ve şahitler derler Rabblerine karşı yalan söyleyen(ler) kimseler işte bunlardır haberiniz olsun Allah’ın laneti zalimlerin üzerinedir
+**(19)** onlar Allah’ın yolundan alıkoyar ve onda çarpıklık ararlar ve onlar ahireti (ararlar) onlar inkar edenlerdir
+**(20)** onlar yeryüzünde aciz bırakacak değillerdir onların Allah’tan başka dostları yoktur azab onlar için kat kat artırılır onlar işitmeye güç yetiremezlerdi ve onlar göremezlerdi
+**(21)** işte onlar kendilerini zarara sokan kimselerdir ve uydurdukları şeyler yanlarından kaybolmuştur
 **(22)** 
 **(23)** 
 **(24)** 
