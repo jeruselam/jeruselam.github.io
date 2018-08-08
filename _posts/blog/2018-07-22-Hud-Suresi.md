@@ -32,11 +32,11 @@ tag:
 **(19)** onlar Allah’ın yolundan alıkoyar ve onda çarpıklık ararlar ve onlar ahireti (ararlar) onlar inkar edenlerdir
 **(20)** onlar yeryüzünde aciz bırakacak değillerdir onların Allah’tan başka dostları yoktur azab onlar için kat kat artırılır onlar işitmeye güç yetiremezlerdi ve onlar göremezlerdi
 **(21)** işte onlar kendilerini zarara sokan kimselerdir ve uydurdukları şeyler yanlarından kaybolmuştur
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
+**(22)** şüphe yok onlar ahirette onlar en fazla zararlı çıkanlardır
+**(23)** şüphesiz ki iman eden(ler) kimseler ve iyi işler işleyenler ve Rabblerine gönülden boyun eğenler işte onlar cennet ehlidirler onlar orada kalıcıdırlar
+**(24)** iki topluluğun durumu körün ve sağırın durumu gibidir ve görenin ve işitenin durumları ikisi eşit midir? İbret almıyor musunuz?
+**(25)** ve andolsun Nuh’u kendi kavmine göndermiştik şüphesiz ben sizin için apaçık bir uyarıcıyım
+**(26)** Allah’tan başkasına kulluk etmeyin diye şüphesiz ben sizin hakkınızda acıklı bir günün azabından korkuyorum
 **(27)** 
 **(28)** 
 **(29)** 
