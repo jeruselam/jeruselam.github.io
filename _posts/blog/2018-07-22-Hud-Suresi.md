@@ -42,10 +42,10 @@ tag:
 **(29)** bunun karşılığında kavmim sizden bir mal istemiyorum benim ecrim yalnızca Allah’a aittir ve ben iman eden(leri) kimseleri kovacak değilim şüphesiz onlar Rabblerine kavuşacaklardır ancak ben sizi cahillik eden bir topluluk olarak görüyorum
 **(30)** kavmim eğer onları kovsam Allah’a karşı bana kim yardımcı olabilir düşünmüyor musunuz?
 **(31)** ben demiyorum size Allah’ın hazineleri benim yanımdadır ve gaybı bilmiyorum ve şüphesiz ben meleğim demiyorum ve gözlerinizin küçük gördükleri kimseler için Allah onlara bir hayır vermeyecektir diyemem Allah onların kendi içlerinde olanı daha iyi bilir ben gerçekten o zaman zulmeden kimselerden olurum
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
+**(32)** dediler ki Nuh muhakkak bizimle tartıştın bizimle tartışmanda çok ileri gittin eğer doğru sözlülerden isen bize vaadettiğin şeyi getir bakalım
+**(33)** (Nuh) dedi ancak Allah eğer dilerse onu size getirir ve siz O’nu aciz bırakacak değilsiniz
+**(34)** ve sizi azgınlığa düşürmeyi eğer Allah dilerse size öğüt vermek eğer istesem de öğüdüm size yarar vermez O sizin Rabbinizdir ve O’na döndürüleceksiniz
+**(35)** yoksa onu uydurdu (mu?) diyorlar de ki eğer onu ben uydurduysam suçum benim üzerimedir ancak ben sizin suçlarınızdan uzağım
 **(36)** 
 **(37)** 
 **(38)** 
