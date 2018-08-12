@@ -40,8 +40,8 @@ tag:
 **(27)** kavminden inkar eden ileri gelenleri dediler ki biz seni bizim gibi bir insandan başka görmüyoruz ve kendisi sığ (görüşlü) en aşağılıklarımız olandan başkasının sana uyduğunu görmüyoruz ve sizin bize karşı hiç üstünlüğünüzü görmüyoruz aksine zannediyoruz ki siz yalancılarsınız
 **(28)** dedi ki kavmim Ne dersiniz? eğer ben Rabbimden bir delil üzere isem ve katından bir rahmet bana vermişse size bu gizli bırakılmış ise siz onu istemediğiniz halde biz sizi zorlayacak mıyız? 
 **(29)** bunun karşılığında kavmim sizden bir mal istemiyorum benim ecrim yalnızca Allah’a aittir ve ben iman eden(leri) kimseleri kovacak değilim şüphesiz onlar Rabblerine kavuşacaklardır ancak ben sizi cahillik eden bir topluluk olarak görüyorum
-**(30)**
-**(31)** 
+**(30)** kavmim eğer onları kovsam Allah’a karşı bana kim yardımcı olabilir düşünmüyor musunuz?
+**(31)** ben demiyorum size Allah’ın hazineleri benim yanımdadır ve gaybı bilmiyorum ve şüphesiz ben meleğim demiyorum ve gözlerinizin küçük gördükleri kimseler için Allah onlara bir hayır vermeyecektir diyemem Allah onların kendi içlerinde olanı daha iyi bilir ben gerçekten o zaman zulmeden kimselerden olurum
 **(32)** 
 **(33)** 
 **(34)** 
