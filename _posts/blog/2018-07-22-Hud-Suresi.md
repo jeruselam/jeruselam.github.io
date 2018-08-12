@@ -46,7 +46,7 @@ tag:
 **(33)** (Nuh) dedi ancak Allah eğer dilerse onu size getirir ve siz O’nu aciz bırakacak değilsiniz
 **(34)** ve sizi azgınlığa düşürmeyi eğer Allah dilerse size öğüt vermek eğer istesem de öğüdüm size yarar vermez O sizin Rabbinizdir ve O’na döndürüleceksiniz
 **(35)** yoksa onu uydurdu (mu?) diyorlar de ki eğer onu ben uydurduysam suçum benim üzerimedir ancak ben sizin suçlarınızdan uzağım
-**(36)** 
+**(36)** Nuh’a vahyolundu onların yaptıklarından dolayı üzülme (şimdiye kadar) iman eden kimselerin dışında gerçekten kavminden kimse iman etmeyecek
 **(37)** 
 **(38)** 
 **(39)** 
