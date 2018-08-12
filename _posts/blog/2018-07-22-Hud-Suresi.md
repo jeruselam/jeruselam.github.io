@@ -56,8 +56,8 @@ tag:
 **(43)** (O) dedi ki bir dağa sığınacağım o beni korur sudan dedi ki merhamet ettiği kimselerin dışında Allah’ın emrinden bugün kurtulacak yoktur bu sırada aralarına bir dalga girdi ve o da boğulanlardan oldu
 **(44)** ve yer çek suyunu gök sen de tut denildi ve su çekildi ve iş bitirildi ve Cudi’nin üzerine oturdu ve zalimler topluluğu yok olsun denildi 
 **(45)** ve Nuh Rabbine seslendi ve dedi ki Rabbim şüphesiz oğlum benim ailemdendir ve şüphesiz senin vaadin haktır ve sen [Hâkim]hükmedenlerin en iyi hükmedenisin
-**(46)** (Allah) dedi ki Nuh şüphesiz o senin ailenden değildir elbette o iyi olmayan bir iş yapmıştı senin hakkında bilgin olmayan bir şeyi benden isteme şüphesiz ben seni sakındırıyorum bilgisizlerden olmanı
-**(47)** 
+**(46)** (Allah) dedi ki Nuh şüphesiz o senin ailenden değildir elbette o iyi olmayan bir iş yapmıştı hakkında senin bilgin olmayan bir şeyi benden isteme şüphesiz ben bilgisizlerden olmanı seni sakındırıyorum
+**(47)** Rabbim dedi hakkında benim bilgim olmayan bir şeyi senden istemekten  muhakkak ben sana sığınırım 
 **(48)** 
 **(49)** 
 **(50)** 
