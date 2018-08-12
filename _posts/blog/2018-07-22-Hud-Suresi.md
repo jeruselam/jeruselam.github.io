@@ -52,7 +52,7 @@ tag:
 **(39)** rezil edici azabın kime geleceğini ve kalıcı azabın başına ineceğini yakında bileceksiniz
 **(40)** sonunda, emrimiz geldiği zaman ve tandır kaynadığında dedik ki her şeyden ikişer çifti ve önceden aleyhlerine hüküm verilmiş olanlar dışındaki aileni ve iman edenleri ona bindir onunla beraber çok az kimse dışında zaten iman etmemişti
 **(41)** ve dedi ki ona haydi binin yüzmesi de ve durması da Allah’ın adıyladır şüphesiz Rabbim[Allah] [Gafûr]bağışlayıcıdır [Rahîm]rahmet edicidir
-**(42)** 
+**(42)** (Gemi) dağlar gibi dalgaların içinden onları geçirirken ve Nuh oğluna seslendi ve o bir kenarda (idi) oğulcağızım bizimle birlikte gel bin ve kâfirlerle beraber olma
 **(43)** 
 **(44)** 
 **(45)** 
