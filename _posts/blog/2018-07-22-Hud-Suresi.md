@@ -44,13 +44,13 @@ tag:
 **(31)** ben demiyorum size Allah’ın hazineleri benim yanımdadır ve gaybı bilmiyorum ve şüphesiz ben meleğim demiyorum ve gözlerinizin küçük gördükleri kimseler için Allah onlara bir hayır vermeyecektir diyemem Allah onların kendi içlerinde olanı daha iyi bilir ben gerçekten o zaman zulmeden kimselerden olurum
 **(32)** dediler ki Nuh muhakkak bizimle tartıştın bizimle tartışmanda çok ileri gittin eğer doğru sözlülerden isen bize vaadettiğin şeyi getir bakalım
 **(33)** (Nuh) dedi ancak Allah eğer dilerse onu size getirir ve siz O’nu aciz bırakacak değilsiniz
-**(34)** ve sizi azgınlığa düşürmeyi eğer Allah dilerse size öğüt vermek eğer istesem de öğüdüm size yarar vermez O sizin Rabbinizdir ve O’na döndürüleceksiniz
+**(34)** ve eğer Allah sizi azgınlığa düşürmeyi dilerse size öğüt vermek eğer istesem de öğüdüm size yarar vermez O sizin Rabbinizdir ve O’na döndürüleceksiniz
 **(35)** yoksa onu uydurdu (mu?) diyorlar de ki eğer onu ben uydurduysam suçum benim üzerimedir ancak ben sizin suçlarınızdan uzağım
 **(36)** Nuh’a vahyolundu onların yaptıklarından dolayı üzülme (şimdiye kadar) iman eden kimselerin dışında gerçekten kavminden kimse iman etmeyecek
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)** 
+**(37)** ve bizim gözetimimiz altında ve vahyimizle gemiyi yap zulmeden(ler) kimseler hakkında bana hitap (dua) etme onlar suda boğulacaklardır
+**(38)** ve gemiyi yapıyordu ve ne zaman kavminden ileri gelenler onun yanından geçse onunla alay ediyorlardı dedi ki eğer bizimle alay ederseniz muhakkak biz de sizin alay ettiğiniz gibi sizinle alay edeceğiz
+**(39)** rezil edici azabın kime geleceğini ve kalıcı azabın başına ineceğini yakında bileceksiniz
+**(40)** sonunda, emrimiz geldiği zaman ve tandır kaynadığında dedik ki her şeyden ikişer çifti ve önceden aleyhlerine hüküm verilmiş olanlar dışındaki aileni ve iman edenleri ona bindir onunla beraber çok az kimse dışında zaten iman etmemişti
 **(41)** 
 **(42)** 
 **(43)** 
