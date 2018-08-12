@@ -52,10 +52,10 @@ tag:
 **(39)** rezil edici azabın kime geleceğini ve kalıcı azabın başına ineceğini yakında bileceksiniz
 **(40)** sonunda, emrimiz geldiği zaman ve tandır kaynadığında dedik ki her şeyden ikişer çifti ve önceden aleyhlerine hüküm verilmiş olanlar dışındaki aileni ve iman edenleri ona bindir onunla beraber çok az kimse dışında zaten iman etmemişti
 **(41)** ve dedi ki ona haydi binin yüzmesi de ve durması da Allah’ın adıyladır şüphesiz Rabbim[Allah] [Gafûr]bağışlayıcıdır [Rahîm]rahmet edicidir
-**(42)** (Gemi) dağlar gibi dalgaların içinden onları geçirirken ve Nuh oğluna seslendi ve o bir kenarda (idi) oğulcağızım bizimle birlikte gel bin ve kâfirlerle beraber olma
-**(43)** 
-**(44)** 
-**(45)** 
+**(42)** Nuh oğluna seslendi ve o bir kenarda (idi) oğulcağızım bizimle birlikte gel bin ve kâfirlerle beraber olma ve (Gemi) dağlar gibi dalgaların içinden onları geçirirken
+**(43)** (O) dedi ki bir dağa sığınacağım o beni korur sudan dedi ki merhamet ettiği kimselerin dışında Allah’ın emrinden bugün kurtulacak yoktur bu sırada aralarına bir dalga girdi ve o da boğulanlardan oldu
+**(44)** ve yer çek suyunu gök sen de tut denildi ve su çekildi ve iş bitirildi ve Cudi’nin üzerine oturdu ve zalimler topluluğu yok olsun denildi 
+**(45)** ve Nuh Rabbine seslendi ve dedi ki Rabbim şüphesiz oğlum benim ailemdendir ve şüphesiz senin vaadin haktır ve sen [Hâkim]hükmedenlerin en iyi hükmedenisin
 **(46)** 
 **(47)** 
 **(48)** 
