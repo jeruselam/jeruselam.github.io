@@ -51,7 +51,7 @@ tag:
 **(38)** ve gemiyi yapıyordu ve ne zaman kavminden ileri gelenler onun yanından geçse onunla alay ediyorlardı dedi ki eğer bizimle alay ederseniz muhakkak biz de sizin alay ettiğiniz gibi sizinle alay edeceğiz
 **(39)** rezil edici azabın kime geleceğini ve kalıcı azabın başına ineceğini yakında bileceksiniz
 **(40)** sonunda, emrimiz geldiği zaman ve tandır kaynadığında dedik ki her şeyden ikişer çifti ve önceden aleyhlerine hüküm verilmiş olanlar dışındaki aileni ve iman edenleri ona bindir onunla beraber çok az kimse dışında zaten iman etmemişti
-**(41)** 
+**(41)** ve dedi ki ona haydi binin yüzmesi de ve durması da Allah’ın adıyladır şüphesiz Rabbim[Allah] [Gafûr]bağışlayıcıdır [Rahîm]rahmet edicidir
 **(42)** 
 **(43)** 
 **(44)** 
