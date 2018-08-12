@@ -61,8 +61,8 @@ tag:
 **(48)** denildi ki Nuh bizden selam ile ve sana ve seninle birlikte olanlardan ümmetler üzerine bereketlerle in ve (bazı) ümmetlere geçimlik vereceğiz sonra bizden acıklı bir azap onlara dokunacaktır
 **(49)** bunlar sana vahyettiğimiz gayb haberlerindendir bundan önce (ne) sen ve ne de senin kavmin onu biliyor değildin[iz] sabret şüphesiz sonuç takva sahiplerinindir
 **(50)** ve Ad (kavmin)e kardeşleri Hud’u (gönderdik) dedi ki kavmim Allah’a kulluk edin sizin için O’ndan başka hiç bir ilah yoktur siz ancak yalan uyduranlarsınız
-**(51)** 
-**(52)** 
+**(51)** kavmim sizden bunun için bir ücret istemiyorum benim ücretim yalnızca beni yaratana aittir akıl etmiyor musunuz?
+**(52)** kavmim Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gökten üzerinize bolca yağmur göndersin ve gücünüze güç katsın suçlular olarak yüz çevirmeyin
 **(53)** 
 **(54)** 
 **(55)** 
