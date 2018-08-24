@@ -62,13 +62,13 @@ tag:
 **(49)** bunlar sana vahyettiğimiz gayb haberlerindendir bundan önce (ne) sen ve ne de senin kavmin onu biliyor değildin[iz] sabret şüphesiz sonuç takva sahiplerinindir
 **(50)** ve Ad (kavmin)e kardeşleri Hud’u (gönderdik) dedi ki kavmim Allah’a kulluk edin sizin için O’ndan başka hiç bir ilah yoktur siz ancak yalan uyduranlarsınız
 **(51)** kavmim sizden bunun için bir ücret istemiyorum benim ücretim yalnızca beni yaratana aittir akıl etmiyor musunuz?
-**(52)** kavmim Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gökten üzerinize bolca yağmur göndersin ve gücünüze güç katsın suçlular olarak yüz çevirmeyin
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
+**(52)** [Ey]kavmim Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gökten üzerinize bolca yağmur göndersin ve gücünüze güç katsın suçlular olarak yüz çevirmeyin
+**(53)** dediler ki Hud sen bize bir belge getirmedin ve biz senin sözünle ilahlarımızı bırakacak değiliz ve biz sana inanacak  değiliz
+**(54)** sadece diyoruz ki fena ilahlarımızdan bazıları seni çarpmış, dedi ki şüphesiz ben Allah’ı şahit tutuyorum ve şahid olun elbette ben ortak koştuklarınızdan uzağım
+**(55)** O’ndan başka hep birlikte haydi bana tuzak kurun sonra bana hiç göz açtırmayın
+**(56)** benim Rabbim ve sizin Rabbiniz olan Allah’a şüphesiz ben güvendim O’nun (Allah)[ın] onun[alnından] perçeminden tutmadığı hiçbir canlı ki yoktur şüphesiz Rabbim[Allah] doğru yol üzeredir
+**(57)** eğer yüz çevirirseniz artık size benimle gönderilen şeyi size tebliğ ettim ve Rabbim yerinize sizden başka bir topluluk yerleştirir ve O’na hiçbir zarar da veremezsiniz şüphesiz Rabbim her şeyi koruyandır
+**(58)** ve ne zaman ki emrimiz gelince bizden bir rahmetle beraberindeki iman eden(leri) kimseleri ve Hud’u kurtardık ve kaskatı bir azaptan onları koruduk
 **(59)** 
 **(60)** 
 **(61)** 
