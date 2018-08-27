@@ -69,7 +69,7 @@ tag:
 **(56)** benim Rabbim ve sizin Rabbiniz olan Allah’a şüphesiz ben güvendim O’nun (Allah)[ın] onun[alnından] perçeminden tutmadığı hiçbir canlı ki yoktur şüphesiz Rabbim[Allah] doğru yol üzeredir
 **(57)** eğer yüz çevirirseniz artık size benimle gönderilen şeyi size tebliğ ettim ve Rabbim yerinize sizden başka bir topluluk yerleştirir ve O’na hiçbir zarar da veremezsiniz şüphesiz Rabbim her şeyi koruyandır
 **(58)** ve ne zaman ki emrimiz gelince bizden bir rahmetle beraberindeki iman eden(leri) kimseleri ve Hud’u kurtardık ve kaskatı bir azaptan onları koruduk
-**(59)** 
+**(59)** ve işte bu Ad (halkı) Rabblerinin ayetlerini inkar etti ve peygamberlerine karşı geldiler ve her inatçı zorbanın emrine uydular
 **(60)** 
 **(61)** 
 **(62)** 
