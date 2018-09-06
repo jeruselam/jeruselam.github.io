@@ -1,5 +1,7 @@
 # Site wide configuration
 
+description       : Türkçe Tercümesi
+title             : Kur'an-ı Kerim
 logo              : muhur2.png
 search            : false
 baseurl           : ""
