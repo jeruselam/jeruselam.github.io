@@ -1,25 +1,60 @@
 <!DOCTYPE html>
 <html lang="tr" xml:lang="tr">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta charset="utf-8">
 <meta name="abstract" content="Bu site halen yapım aşamasındadır. Çok sayıda hata ie karşılaşabilirsiniz. Bulduğunuz hataları jeruselam github sitesi üzerinden bildirebilirsiniz." >
-<meta name="keywords" content="Kur'an Kerim,Çeviri,Tercümesi,Ayet,ebced" > 
 <meta name="Distribution" content="global" >
 <meta name="robots" content="all, index, follow, archive" >
 <meta name="revisit-after" content="1">
 <meta property="article:author" content="Vedat Demir">
 <meta property="article:tag" content="Kur'an Kerim,Çeviri,Ayet,Sûre, ebced">
 <link href="{{ site.url }}/sitemap.xml" rel="alternate" title="Kur'an" type="application/atom+xml" >
-<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }} {% endif %}{{ site.title }}</title>
+
+<meta property="og:url" content="{{ site.url }}{{ page.url | remove_first:'index.html' }}">
+<meta property="og:site_name" content="blog.your-domain.com">
+
+    {% if page.title %}
+<meta property="og:title" content="{{ page.title }}">
+    {% endif %}
+
+    {% if page.description %}
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="og:description" content="{{ page.description }}">
+    {% else if page.excerpt %}
+<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
+<meta name="og:description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
+    {% endif %}
+
+    {% if page.og_image_url %}
+<meta property="og:image" content="{{ page.og_image_url }}">
+    {% else if page.photo_url %}
+<meta property="og:image" content="{{ page.photo_url }}">
+    {% endif %}
+
+    {% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ', ' }}" />
+    {% endif %}
+
+    {% if page.date %}
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
+    {% endif %}
+<meta name="robots" content="index,follow">
+ 
+
+    {% if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+    {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+   {% endif %}
+
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/v4-shims.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 
-
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/scroll.css"> 
-
-
-<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/scroll.css">
 
 <style>
   * {
@@ -27,12 +62,10 @@
   }
 </style>
 
-<title>{% if page.title %}{{ page.title }} {% endif %}{{ site.title }}</title>
-{% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
-{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-{% endif %}
+<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script>
+
+<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
+
 
 {% include open-graph.html %}
 
