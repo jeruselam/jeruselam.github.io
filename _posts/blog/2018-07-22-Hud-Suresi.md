@@ -80,8 +80,8 @@ tag:
 **(67)** ve zulmeden(leri) kimseleri korkunç bir çığlık aldı ve yurtlarında dizüstü çöküp kaldılar
 **(68)** sanki hiç yaşamamışlardı orada iyi bilin ki şüphesiz Semud (halkı) Rabblerini inkar ettiler dikkat edin Semud halkı uzak olsun
 **(69)** ve müjdeyle İbrahim’e elçilerimiz andolsun geldiler Selam dediler Selam dedi (O da) ve hemen kızartılmış bir buzağı getirdi
-**(70)** 
-**(71)** 
+**(70)** ne zaman ki görünce ellerinin uzanmadığını ona onlardan hoşlanmadı ve onlardan dolayı bir korku içine düştü dediler ki korkma Lut kavmine gönderildik biz
+**(71)** ve karısı da ayaktaydı ve bunun üzerine güldü, İshak’ı ve İshak’ın ardından Ya’kub’u biz de ona müjdeledik
 **(72)** 
 **(73)** 
 **(74)** 
