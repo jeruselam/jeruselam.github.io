@@ -77,9 +77,9 @@ tag:
 **(64)** kavmim Allah’ın şu dişi devesi sizin için bir mucizedir onu bırakın Allah’ın toprağında otlasın bir kötülük dokundurmayın ona yakın bir azap sizi yakalar yoksa
 **(65)** yine de onu kestiler (bunun üzerine) dedi ki üç gün yurdunuzda yaşayın işte bu yalanlanmayacak bir vaaddir
 **(66)** emrimiz nihayet gelince bizden bir rahmetle ve o günün aşağılığından Salih’i ve beraberindeki iman eden(leri) kimseleri kurtardık muhakkak ki O senin Rabbin [Kaviyy]güçlüdür [Azîz]mutlak üstündür
-**(67)** 
-**(68)** 
-**(69)** 
+**(67)** ve zulmeden(leri) kimseleri korkunç bir çığlık aldı ve yurtlarında dizüstü çöküp kaldılar
+**(68)** sanki hiç yaşamamışlardı orada iyi bilin ki şüphesiz Semud (halkı) Rabblerini inkar ettiler dikkat edin Semud halkı uzak olsun
+**(69)** ve müjdeyle İbrahim’e elçilerimiz andolsun geldiler Selam dediler Selam dedi (O da) ve hemen kızartılmış bir buzağı getirdi
 **(70)** 
 **(71)** 
 **(72)** 
