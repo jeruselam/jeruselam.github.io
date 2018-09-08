@@ -106,7 +106,7 @@ tag:
 **(93)** kavmim imkanınızın elverdiğini yapın ben de yapıyorum aşağılatıcı azabın kime geleceğini ve o  kimin yalancı olduğunu yakında bileceksiniz gözetleyin ben de sizinle birlikte gözetliyorum
 **(94)** ne zaman ki emrimiz gelince Şuayb’ı ve tarafımızdan bir rahmetle onunla birlikte iman eden(leri) kimseleri kurtardık ve zulmeden(leri) kimseleri bir çığlık aldı ve yurtlarında diz çökmüç olarak kaldılar
 **(95)** orada sanki hiç yaşamamışlardı iyi bilin ki Semud (halkı) uzaklaştırıldığı gibi Medyen (halkı) uzaklaştırıldı
-**(96)** 
+**(96)** ve ayetlerimizle ve apaçık bir belgeyle Musa’yı andolsun gönderdik
 **(97)** 
 **(98)** 
 **(99)** 
