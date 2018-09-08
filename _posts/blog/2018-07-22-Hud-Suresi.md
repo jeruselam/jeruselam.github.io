@@ -89,11 +89,11 @@ tag:
 **(76)** bundan vazgeç İbrahim doğrusu o Rabbinin emri elbette gelmiştir ve geri çevrilmeyecek bir azap onlara gelmektedir
 **(77)** ve ne zaman ki Lut’a Elçilerimiz gelince onlardan kaygılandı ve onlardan bir sıkıntı göğsüne bastı ve dedi ki bu çetin bir gündür
 **(78)** ve ona koşarak kavmi geldi ve daha önce kötü işler işliyorlardı kavmim şunlar kızlarımdır sizin için onlar daha temizdir Allah’tan korkun ve konuklarım arasında beni rezil etmeyin içinizde aklı başında bir adam yok mudur?
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
+**(79)** keşke dedi sizi (savacak) bir gücüm olsaydı benim yahut sağlam bir yere sığınabilseydim
+**(80)** dediler ki Lut şüphesiz biz Rabbinin elçileriyiz sana ilişemeyecekler gecenin bir vaktinde ailenle birlikte yürü ve sizden hiç kimse geriye dönüp bakmasın  hanımın hariç ancak onların başına gelen şeyler şüphesiz onun başına gelecektir şüphesiz onlara vaadedilen vakit sabahtır sabah yakın değil mi?
+**(81)** ne zaman ki emrimiz gelince üstünü altına çevirdik ve üzerine taşlar yağdırdık
+**(82)** Rabbin katından işaretlenmiş (taşlar) ve bunlar zalimlerden uzak değildir
+**(83)** ve Şuayb’ı kardeşleri Medyen’e (gönderdik) dedi ki kavmim Allah’a kulluk edin O’ndan başka size hiç bir ilah yoktur ve ölçüyü ve tartıyı eksik tutmayın şüphesiz ben bolluk içinde görüyorum sizi ve ben sizin hakkınızda çepeçevre kuşatıcı bir günün azabından korkuyorum
 **(84)** 
 **(85)** 
 **(86)** 
