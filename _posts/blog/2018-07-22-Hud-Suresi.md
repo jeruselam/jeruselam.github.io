@@ -73,10 +73,10 @@ tag:
 **(60)** ve bu dünyada ve kıyamet gününde lanete uğradılar, iyi bilin ki şüphesiz Ad (halkı) Rabblerini inkar ettiler, dikkat edin Hud’un Ad kavmi uzak olsun
 **(61)** ve Semud halkına kardeşleri Salih’i (gönderdik), şöyle dedi Allah’a kulluk edin kavmim, O’ndan başka sizin ilahınız yoktur, yerden O sizi yarattı, ve orada size ömür sürdürdü, O’ndan bağışlanma dileyin sonra O’na tevbe edin, muhakkak ki Rabbim yakındır kabul edendir
 **(62)** dediler ki doğrusu Salih bundan önce aramızda sen ümit beslenen biri idin, babalarımızın taptıklarına tapmaktan bizi men mi ediyorsun? doğrusu biz kendisine bizi çağırdığın şeyden tereddütlü şüphe içindeyiz
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
+**(63)** dedi ki kavmim Rabbimden apaçık bir belge üzere isem ben ve kendinden bir rahmet vermişse O bana Ne dersiniz? O’na isyan edersem eğer Allah’a karşı kim bana yardım edebilir? kaybımı artırmaktan başka bana bir katkınız olmaz
+**(64)** kavmim Allah’ın şu dişi devesi sizin için bir mucizedir onu bırakın Allah’ın toprağında otlasın bir kötülük dokundurmayın ona yakın bir azap sizi yakalar yoksa
+**(65)** yine de onu kestiler (bunun üzerine) dedi ki üç gün yurdunuzda yaşayın işte bu yalanlanmayacak bir vaaddir
+**(66)** emrimiz nihayet gelince bizden bir rahmetle ve o günün aşağılığından Salih’i ve beraberindeki iman eden(leri) kimseleri kurtardık muhakkak ki O senin Rabbin [Kaviyy]güçlüdür [Azîz]mutlak üstündür
 **(67)** 
 **(68)** 
 **(69)** 
