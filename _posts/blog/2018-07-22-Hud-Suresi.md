@@ -98,9 +98,9 @@ tag:
 **(85)** Allah’ın bıraktıkları sizin için daha hayırlıdır eğer mü’minler iseniz ve sizin üzerinize bir koruyucu değilim ben
 **(86)** onlar (şöyle) dediler Şuayb babalarımızın taptıkları şeyleri bırakmamızı yahut mallarımızda istediğimiz şeyi yapmaktan vazgeçmemizi namazın mı? sana emrediyor doğrusu sen akıllı yufka yürekli birisin
 **(87)** dedi ki kavmim söyleyin bakalım Rabbimden açık bir belge üzere isem ben eğer ve güzel bir rızıkla kendi katından beni rızıklandırmışsa ve ondan sizi menettiğim şeylerde size aykırı hareket etmek istemiyorum gücümün yettiğince ancak ıslah etmek istiyorum ve Allah’ın (verdiğinden) başka bir başarım yoktur O’na güvendim ve O’na gönülden yönelirim
-**(88)** 
-**(89)** 
-**(90)** 
+**(88)** kavmim bana karşı gelmeniz Salih kavminin veya Hud kavminin yahut Nuh kavminin başlarına gelen şeylerin benzerinin isabet etmesi sizi musibete uğratmasın 
+**(89)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gerçekten benim Rabbim [Rahîm]çok rahmet edendir [Vedûd]çok sevendir
+**(90)** dediler ki Şuayb senin söylediğin şeylerin çoğunu anlamıyoruz biz ve biz içimizde güçsüz görüyoruz seni şayet yakın çevren olmasaydı seni taşlardık ve senin bize karşı bir üstünlüğün yoktur
 **(91)**
 **(92)** 
 **(93)** 
