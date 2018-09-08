@@ -119,12 +119,12 @@ tag:
 **(106)** bedbaht olan(lar) kimseler ateş içindedirler orada korkunç çığlıkları ve inlemeleri vardır onların
 **(107)** Rabbinin diledikleri kimseler dışında gökler ve yer durdukça orada sürekli kalıcıdırlar onlar şüphesiz Rabbin dilediğini yapandır
 **(108)** ve mutlu olan(lar) kimseler cennet içindedirler Rabbinin diledikleri dışında gökler ve yer durdukça orada sürekli kalıcıdırlar onlar kesinti olmaksızın bir lütuftur
-**(109)** 
-**(110)** 
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
+**(109)** onların taptıkları hakkında hiçbir tereddüd olmasın o halde daha önce babalarının taptıkları gibi olandan başkasına onlar tapmazlar eksik olmadan onların paylarını şüphesiz biz vereceğiz
+**(110)** ve Kitab’ı Musa’ya andolsun verdik onda ayrılığa düşüldü Rabbin tarafından önceden geçmiş bir söz eğer olmasaydı aralarında hüküm verilirdi şüphesiz onlar bunun hakkında gocundurucu bir tereddüt içindedirler
+**(111)** ve Rabbin onların tümünün yaptıklarını şüphesiz tastamam verecektir şüphesiz O yaptıkları şeylerden haberdardır
+**(112)** seninle birlikte tevbe eden kimseler ve [sen]emrolunduğun gibi dosdoğru olun ve aşırı gitmeyin şüphesiz O yaptıklarınız şeyleri görmektedir
+**(113)** ve zulmeden(lere) kimselere meyletmeyin ateş size dokunur yoksa ve sizin için Allah’tan başka hiçbir dost(lar) yoktur sonra asla yardım göremezsiniz
+**(114)** ve gündüzün iki tarafında ve gecenin yakın vakitlerinde namaz kıl şüphesiz iyilikler giderir kötülükleri bu ibret alanlara bir öğüttür
 **(115)** 
 **(116)** 
 **(117)** 
