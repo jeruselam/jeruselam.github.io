@@ -94,10 +94,10 @@ tag:
 **(81)** ne zaman ki emrimiz gelince üstünü altına çevirdik ve üzerine taşlar yağdırdık
 **(82)** Rabbin katından işaretlenmiş (taşlar) ve bunlar zalimlerden uzak değildir
 **(83)** ve Şuayb’ı kardeşleri Medyen’e (gönderdik) dedi ki kavmim Allah’a kulluk edin O’ndan başka size hiç bir ilah yoktur ve ölçüyü ve tartıyı eksik tutmayın şüphesiz ben bolluk içinde görüyorum sizi ve ben sizin hakkınızda çepeçevre kuşatıcı bir günün azabından korkuyorum
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)**
+**(84)** kavmim adaletle ölçüyü ve tartıyı tam yapın ve insanların eşyalarını eksik vermeyin ve bozguncular olarak yeryüzünde karışıklık çıkarmayın 
+**(85)** Allah’ın bıraktıkları sizin için daha hayırlıdır eğer mü’minler iseniz ve sizin üzerinize bir koruyucu değilim ben
+**(86)** onlar (şöyle) dediler Şuayb babalarımızın taptıkları şeyleri bırakmamızı yahut mallarımızda istediğimiz şeyi yapmaktan vazgeçmemizi namazın mı? sana emrediyor doğrusu sen akıllı yufka yürekli birisin
+**(87)** dedi ki kavmim söyleyin bakalım Rabbimden açık bir belge üzere isem ben eğer ve güzel bir rızıkla kendi katından beni rızıklandırmışsa ve ondan sizi menettiğim şeylerde size aykırı hareket etmek istemiyorum gücümün yettiğince ancak ıslah etmek istiyorum ve Allah’ın (verdiğinden) başka bir başarım yoktur O’na güvendim ve O’na gönülden yönelirim
 **(88)** 
 **(89)** 
 **(90)** 
