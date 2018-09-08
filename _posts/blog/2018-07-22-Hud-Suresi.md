@@ -130,9 +130,9 @@ tag:
 **(117)** ve ahalisi ıslah edici (iken) zulümle o beldeleri Rabbin helak edecek değildi
 **(118)** ve eğer dileseydi Rabbin insanları bir tek ümmet yapardı ama hala ihtilaf etmekten durmazlar 
 **(119)** Rabbinin rahmet ettiği kimseler hariç zaten bunun için onları yarattı ve Rabbinin sözü yerine gelmiştir tamamen cinlerden ve insanlar(dan) cehennemi andolsun dolduracağım
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
+**(120)** kalbini onunla sağlamlaştıracak olan Peygamberlerin haberlerinden sana her şeyi anlatıyoruz ve bir hak ve bir öğüt ve mü’minler için bir uyarı bunda sana gelmiştir
+**(121)** ve iman etmeyen(lere) kimselere de ki imkanınızın elverdiğini yapın biz de yapmaktayız
+**(122)** ve bekleyin biz de beklemekteyiz
+**(123)** ve göklerin ve yerin gaybı Allah’a aittir ve bütün işler O’na döndürülür (öyleyse) O’na kulluk et ve O’na dayan ve Rabbin yaptıklarınızdan habersiz değildir
 
 ![11Hûd-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
