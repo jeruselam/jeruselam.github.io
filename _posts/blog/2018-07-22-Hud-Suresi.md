@@ -72,7 +72,7 @@ tag:
 **(59)** ve işte bu Ad (halkı) Rabblerinin ayetlerini inkar etti ve peygamberlerine karşı geldiler ve her inatçı zorbanın emrine uydular
 **(60)** ve bu dünyada ve kıyamet gününde lanete uğradılar, iyi bilin ki şüphesiz Ad (halkı) Rabblerini inkar ettiler, dikkat edin Hud’un Ad kavmi uzak olsun
 **(61)** ve Semud halkına kardeşleri Salih’i (gönderdik), şöyle dedi Allah’a kulluk edin kavmim, O’ndan başka sizin ilahınız yoktur, yerden O sizi yarattı, ve orada size ömür sürdürdü, O’ndan bağışlanma dileyin sonra O’na tevbe edin, muhakkak ki Rabbim yakındır kabul edendir
-**(62)** 
+**(62)** dediler ki doğrusu Salih bundan önce aramızda sen ümit beslenen biri idin, babalarımızın taptıklarına tapmaktan bizi men mi ediyorsun? doğrusu biz kendisine bizi çağırdığın şeyden tereddütlü şüphe içindeyiz
 **(63)** 
 **(64)** 
 **(65)** 
