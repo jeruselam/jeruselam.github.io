@@ -118,7 +118,7 @@ tag:
 **(105)** O gün gelince O’nun izni dışında hiç kimse konuşamaz onlardan kimi bedbahtttır (kimi de) mutludur
 **(106)** bedbaht olan(lar) kimseler ateş içindedirler orada korkunç çığlıkları ve inlemeleri vardır onların
 **(107)** Rabbinin diledikleri kimseler dışında gökler ve yer durdukça orada sürekli kalıcıdırlar onlar şüphesiz Rabbin dilediğini yapandır
-**(108)** 
+**(108)** ve mutlu olan(lar) kimseler cennet içindedirler Rabbinin diledikleri dışında gökler ve yer durdukça orada sürekli kalıcıdırlar onlar kesinti olmaksızın bir lütuftur
 **(109)** 
 **(110)** 
 **(111)** 
