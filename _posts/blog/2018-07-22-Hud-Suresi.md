@@ -84,11 +84,11 @@ tag:
 **(71)** ve karısı da ayaktaydı ve bunun üzerine güldü, İshak’ı ve İshak’ın ardından Ya’kub’u biz de ona müjdeledik
 **(72)** dedi ki vay halime ben doğuracak mıyım? ben böyle kocamış bir kadın iken ve şu kocam da bir ihtiyar iken gerçekten bu şaşırtıcı bir şeydir
 **(73)** Allah’ın işine şaşıyor musun? dediler Allah’ın rahmeti ve bereketleri sizin üzerinizedir (ey) ev halkı şüphesiz O [Hamîd]övgüye layıktır [Mecîd]lütfu bol olandır
-**(74)** 
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
+**(74)** ne zaman ki korku İbrahim'den gidince ve müjde kendisine gelince Lut kavmi hakkında bizimle tartışmaya girişti
+**(75)** doğrusu İbrahim çok yumuşak huylu idi çok içli idi gönülden (Allaha) yönelen biriydi
+**(76)** bundan vazgeç İbrahim doğrusu o Rabbinin emri elbette gelmiştir ve geri çevrilmeyecek bir azap onlara gelmektedir
+**(77)** ve ne zaman ki Lut’a Elçilerimiz gelince onlardan kaygılandı ve onlardan bir sıkıntı göğsüne bastı ve dedi ki bu çetin bir gündür
+**(78)** ve ona koşarak kavmi geldi ve daha önce kötü işler işliyorlardı kavmim şunlar kızlarımdır sizin için onlar daha temizdir Allah’tan korkun ve konuklarım arasında beni rezil etmeyin içinizde aklı başında bir adam yok mudur?
 **(79)** 
 **(80)** 
 **(81)** 
