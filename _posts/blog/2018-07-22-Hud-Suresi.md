@@ -89,23 +89,23 @@ tag:
 **(76)** bundan vazgeç İbrahim doğrusu o Rabbinin emri elbette gelmiştir ve geri çevrilmeyecek bir azap onlara gelmektedir
 **(77)** ve ne zaman ki Lut’a Elçilerimiz gelince onlardan kaygılandı ve onlardan bir sıkıntı göğsüne bastı ve dedi ki bu çetin bir gündür
 **(78)** ve ona koşarak kavmi geldi ve daha önce kötü işler işliyorlardı kavmim şunlar kızlarımdır sizin için onlar daha temizdir Allah’tan korkun ve konuklarım arasında beni rezil etmeyin içinizde aklı başında bir adam yok mudur?
-**(79)** keşke dedi sizi (savacak) bir gücüm olsaydı benim yahut sağlam bir yere sığınabilseydim
-**(80)** dediler ki Lut şüphesiz biz Rabbinin elçileriyiz sana ilişemeyecekler gecenin bir vaktinde ailenle birlikte yürü ve sizden hiç kimse geriye dönüp bakmasın  hanımın hariç ancak onların başına gelen şeyler şüphesiz onun başına gelecektir şüphesiz onlara vaadedilen vakit sabahtır sabah yakın değil mi?
-**(81)** ne zaman ki emrimiz gelince üstünü altına çevirdik ve üzerine taşlar yağdırdık
-**(82)** Rabbin katından işaretlenmiş (taşlar) ve bunlar zalimlerden uzak değildir
-**(83)** ve Şuayb’ı kardeşleri Medyen’e (gönderdik) dedi ki kavmim Allah’a kulluk edin O’ndan başka size hiç bir ilah yoktur ve ölçüyü ve tartıyı eksik tutmayın şüphesiz ben bolluk içinde görüyorum sizi ve ben sizin hakkınızda çepeçevre kuşatıcı bir günün azabından korkuyorum
-**(84)** kavmim adaletle ölçüyü ve tartıyı tam yapın ve insanların eşyalarını eksik vermeyin ve bozguncular olarak yeryüzünde karışıklık çıkarmayın 
-**(85)** Allah’ın bıraktıkları sizin için daha hayırlıdır eğer mü’minler iseniz ve sizin üzerinize bir koruyucu değilim ben
-**(86)** onlar (şöyle) dediler Şuayb babalarımızın taptıkları şeyleri bırakmamızı yahut mallarımızda istediğimiz şeyi yapmaktan vazgeçmemizi namazın mı? sana emrediyor doğrusu sen akıllı yufka yürekli birisin
-**(87)** dedi ki kavmim söyleyin bakalım Rabbimden açık bir belge üzere isem ben eğer ve güzel bir rızıkla kendi katından beni rızıklandırmışsa ve ondan sizi menettiğim şeylerde size aykırı hareket etmek istemiyorum gücümün yettiğince ancak ıslah etmek istiyorum ve Allah’ın (verdiğinden) başka bir başarım yoktur O’na güvendim ve O’na gönülden yönelirim
-**(88)** kavmim bana karşı gelmeniz Salih kavminin veya Hud kavminin yahut Nuh kavminin başlarına gelen şeylerin benzerinin isabet etmesi sizi musibete uğratmasın 
-**(89)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gerçekten benim Rabbim [Rahîm]çok rahmet edendir [Vedûd]çok sevendir
-**(90)** dediler ki Şuayb senin söylediğin şeylerin çoğunu anlamıyoruz biz ve biz içimizde güçsüz görüyoruz seni şayet yakın çevren olmasaydı seni taşlardık ve senin bize karşı bir üstünlüğün yoktur
-**(91)** dedi ki kavmim Allah'tan sizce yakın çevrem daha mı üstündür sırt dönerek arkanızda bıraktınız onu şüphesiz Rabbim yaptıklarınız şeyleri kuşatmıştır
-**(92)** kavmim imkanınızın elverdiğini yapın ben de yapıyorum aşağılatıcı azabın kime geleceğini ve o kimin yalancı olduğunu yakında bileceksiniz gözetleyin ben de sizinle birlikte gözetliyorum
-**(93)** 
-**(94)** 
-**(95)** 
+**(79)** dediler ki muhakkak sen bilirsin ki senin kızlarında bizim hiç bir hakkımız yoktur ve bizim istediğimiz şeyi sen iyi bilirsin
+**(80)** keşke dedi sizi (savacak) bir gücüm olsaydı benim yahut sağlam bir yere sığınabilseydim
+**(81)** dediler ki Lut şüphesiz biz Rabbinin elçileriyiz sana ilişemeyecekler gecenin bir vaktinde ailenle birlikte yürü ve sizden hiç kimse geriye dönüp bakmasın  hanımın hariç ancak onların başına gelen şeyler şüphesiz onun başına gelecektir şüphesiz onlara vaadedilen vakit sabahtır sabah yakın değil mi?
+**(82)** ne zaman ki emrimiz gelince üstünü altına çevirdik ve üzerine birbirini izleyen balçıktan pişirilmiş taşlar yağdırdık
+**(83)** Rabbin katından işaretlenmiş (taşlar) ve bunlar zalimlerden uzak değildir
+**(84)** ve Şuayb’ı kardeşleri Medyen’e (gönderdik) dedi ki kavmim Allah’a kulluk edin O’ndan başka size hiç bir ilah yoktur ve ölçüyü ve tartıyı eksik tutmayın şüphesiz ben bolluk içinde görüyorum sizi ve ben sizin hakkınızda çepeçevre kuşatıcı bir günün azabından korkuyorum
+**(85)** kavmim adaletle ölçüyü ve tartıyı tam yapın ve insanların eşyalarını eksik vermeyin ve bozguncular olarak yeryüzünde karışıklık çıkarmayın 
+**(86)** Allah’ın bıraktıkları sizin için daha hayırlıdır eğer mü’minler iseniz ve sizin üzerinize bir koruyucu değilim ben
+**(87)** onlar (şöyle) dediler Şuayb babalarımızın taptıkları şeyleri bırakmamızı yahut mallarımızda istediğimiz şeyi yapmaktan vazgeçmemizi namazın mı? sana emrediyor doğrusu sen akıllı yufka yürekli birisin
+**(88)** dedi ki kavmim söyleyin bakalım Rabbimden açık bir belge üzere isem ben eğer ve güzel bir rızıkla kendi katından beni rızıklandırmışsa ve ondan sizi menettiğim şeylerde size aykırı hareket etmek istemiyorum gücümün yettiğince ancak ıslah etmek istiyorum ve Allah’ın (verdiğinden) başka bir başarım yoktur O’na güvendim ve O’na gönülden yönelirim
+**(89)** kavmim bana karşı gelmeniz Salih kavminin veya Hud kavminin yahut Nuh kavminin başlarına gelen şeylerin benzerinin isabet etmesi sizi musibete uğratmasın 
+**(90)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gerçekten benim Rabbim [Rahîm]çok rahmet edendir [Vedûd]çok sevendir
+**(91)** dediler ki Şuayb senin söylediğin şeylerin çoğunu anlamıyoruz biz ve biz içimizde güçsüz görüyoruz seni şayet yakın çevren olmasaydı seni taşlardık ve senin bize karşı bir üstünlüğün yoktur
+**(92)** dedi ki kavmim Allah'tan sizce yakın çevrem daha mı üstündür sırt dönerek arkanızda bıraktınız onu şüphesiz Rabbim yaptıklarınız şeyleri kuşatmıştır
+**(93)** kavmim imkanınızın elverdiğini yapın ben de yapıyorum aşağılatıcı azabın kime geleceğini ve o  kimin yalancı olduğunu yakında bileceksiniz gözetleyin ben de sizinle birlikte gözetliyorum
+**(94)** ne zaman ki emrimiz gelince Şuayb’ı ve tarafımızdan bir rahmetle onunla birlikte iman eden(leri) kimseleri kurtardık ve zulmeden(leri) kimseleri bir çığlık aldı ve yurtlarında diz çökmüç olarak kaldılar
+**(95)** orada sanki hiç yaşamamışlardı iyi bilin ki Semud (halkı) uzaklaştırıldığı gibi Medyen (halkı) uzaklaştırıldı
 **(96)** 
 **(97)** 
 **(98)** 
