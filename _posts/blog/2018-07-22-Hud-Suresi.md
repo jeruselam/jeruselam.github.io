@@ -107,11 +107,11 @@ tag:
 **(94)** ne zaman ki emrimiz gelince Şuayb’ı ve tarafımızdan bir rahmetle onunla birlikte iman eden(leri) kimseleri kurtardık ve zulmeden(leri) kimseleri bir çığlık aldı ve yurtlarında diz çökmüç olarak kaldılar
 **(95)** orada sanki hiç yaşamamışlardı iyi bilin ki Semud (halkı) uzaklaştırıldığı gibi Medyen (halkı) uzaklaştırıldı
 **(96)** ve ayetlerimizle ve apaçık bir belgeyle Musa’yı andolsun gönderdik
-**(97)** 
-**(98)** 
-**(99)** 
-**(100)** 
-**(101)** 
+**(97)** Firavun’a ve adamlarına, Firavun’un buyruğuna onlar uydular ve Firavun’un buyruğu doğruya yöneltici değildi
+**(98)** kıyamet günü kavmine öncülük ederek ateşe sürükler vardıkları yer ne fena bir yerdir
+**(99)** burada ve kıyamet gününde lanete uğratıldılar onlar, verilen bu bağış ne kötü bir bağıştır 
+**(100)** işte bu sana anlattıklarımız o şehirlerin haberlerindendir onlardan bazıları ayaktadırlar (bazıları ise) tamamen silinmiştir
+**(101)** biz onlara zulmetmedik ama kendilerine zulmettiler onlar Allah’tan başka taptıkları onların ilahları kendilerine hiç bir şey sağlayamadı ne zaman ki Rabbinin emri gelince kayıplarını artırmaktan başka bir işe yaramadı
 **(102)** 
 **(103)** 
 **(104)** 
