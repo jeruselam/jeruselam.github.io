@@ -101,8 +101,8 @@ tag:
 **(88)** kavmim bana karşı gelmeniz Salih kavminin veya Hud kavminin yahut Nuh kavminin başlarına gelen şeylerin benzerinin isabet etmesi sizi musibete uğratmasın 
 **(89)** ve Rabbinizden bağışlanma dileyin sonra O’na tevbe edin gerçekten benim Rabbim [Rahîm]çok rahmet edendir [Vedûd]çok sevendir
 **(90)** dediler ki Şuayb senin söylediğin şeylerin çoğunu anlamıyoruz biz ve biz içimizde güçsüz görüyoruz seni şayet yakın çevren olmasaydı seni taşlardık ve senin bize karşı bir üstünlüğün yoktur
-**(91)**
-**(92)** 
+**(91)** dedi ki kavmim Allah'tan sizce yakın çevrem daha mı üstündür sırt dönerek arkanızda bıraktınız onu şüphesiz Rabbim yaptıklarınız şeyleri kuşatmıştır
+**(92)** kavmim imkanınızın elverdiğini yapın ben de yapıyorum aşağılatıcı azabın kime geleceğini ve o kimin yalancı olduğunu yakında bileceksiniz gözetleyin ben de sizinle birlikte gözetliyorum
 **(93)** 
 **(94)** 
 **(95)** 
