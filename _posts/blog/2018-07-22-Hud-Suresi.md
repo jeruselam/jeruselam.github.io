@@ -111,13 +111,13 @@ tag:
 **(98)** kıyamet günü kavmine öncülük ederek ateşe sürükler vardıkları yer ne fena bir yerdir
 **(99)** burada ve kıyamet gününde lanete uğratıldılar onlar, verilen bu bağış ne kötü bir bağıştır 
 **(100)** işte bu sana anlattıklarımız o şehirlerin haberlerindendir onlardan bazıları ayaktadırlar (bazıları ise) tamamen silinmiştir
-**(101)** biz onlara zulmetmedik ama kendilerine zulmettiler onlar Allah’tan başka taptıkları onların ilahları kendilerine hiç bir şey sağlayamadı ne zaman ki Rabbinin emri gelince kayıplarını artırmaktan başka bir işe yaramadı
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
-**(106)** 
-**(107)** 
+**(101)** biz onlara zulmetmedik ama kendilerine zulmettiler onlar, Allah’tan başka taptıkları, onların ilahları, kendilerine hiç bir şey sağlayamadı ne zaman ki Rabbinin emri gelince kayıplarını artırmaktan başka bir işe yaramadı
+**(102)** ve o zulmeden şehirleri yakaladığı zaman Rabbinin yakalaması işte böyledir şüphesiz O’nun yakalaması pek acı pek şiddetlidir
+**(103)** ahiret azabından korkan kimse için şüphesiz bunda ibret vardır işte O insanların onda toplanacağı bir gündür ve O herkesin tanık olacağı bir gündür
+**(104)** ve biz onu geciktirmeyiz ancak belirli süreye kadar
+**(105)** O gün gelince O’nun izni dışında hiç kimse konuşamaz onlardan kimi bedbahtttır (kimi de) mutludur
+**(106)** bedbaht olan(lar) kimseler ateş içindedirler orada korkunç çığlıkları ve inlemeleri vardır onların
+**(107)** Rabbinin diledikleri kimseler dışında gökler ve yer durdukça orada sürekli kalıcıdırlar onlar şüphesiz Rabbin dilediğini yapandır
 **(108)** 
 **(109)** 
 **(110)** 
