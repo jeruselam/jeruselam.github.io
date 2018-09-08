@@ -70,7 +70,7 @@ tag:
 **(57)** eğer yüz çevirirseniz artık size benimle gönderilen şeyi size tebliğ ettim ve Rabbim yerinize sizden başka bir topluluk yerleştirir ve O’na hiçbir zarar da veremezsiniz şüphesiz Rabbim her şeyi koruyandır
 **(58)** ve ne zaman ki emrimiz gelince bizden bir rahmetle beraberindeki iman eden(leri) kimseleri ve Hud’u kurtardık ve kaskatı bir azaptan onları koruduk
 **(59)** ve işte bu Ad (halkı) Rabblerinin ayetlerini inkar etti ve peygamberlerine karşı geldiler ve her inatçı zorbanın emrine uydular
-**(60)** 
+**(60)** ve bu dünyada ve kıyamet gününde lanete uğradılar, iyi bilin ki şüphesiz Ad (halkı) Rabblerini inkar ettiler, dikkat edin Hud’un Ad kavmi uzak olsun
 **(61)** 
 **(62)** 
 **(63)** 
