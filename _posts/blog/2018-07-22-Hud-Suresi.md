@@ -83,7 +83,7 @@ tag:
 **(70)** ne zaman ki görünce ellerinin uzanmadığını ona onlardan hoşlanmadı ve onlardan dolayı bir korku içine düştü dediler ki korkma Lut kavmine gönderildik biz
 **(71)** ve karısı da ayaktaydı ve bunun üzerine güldü, İshak’ı ve İshak’ın ardından Ya’kub’u biz de ona müjdeledik
 **(72)** dedi ki vay halime ben doğuracak mıyım? ben böyle kocamış bir kadın iken ve şu kocam da bir ihtiyar iken gerçekten bu şaşırtıcı bir şeydir
-**(73)** 
+**(73)** Allah’ın işine şaşıyor musun? dediler Allah’ın rahmeti ve bereketleri sizin üzerinizedir (ey) ev halkı şüphesiz O [Hamîd]övgüye layıktır [Mecîd]lütfu bol olandır
 **(74)** 
 **(75)** 
 **(76)** 
