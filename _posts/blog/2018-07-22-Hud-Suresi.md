@@ -125,11 +125,11 @@ tag:
 **(112)** seninle birlikte tevbe eden kimseler ve [sen]emrolunduğun gibi dosdoğru olun ve aşırı gitmeyin şüphesiz O yaptıklarınız şeyleri görmektedir
 **(113)** ve zulmeden(lere) kimselere meyletmeyin ateş size dokunur yoksa ve sizin için Allah’tan başka hiçbir dost(lar) yoktur sonra asla yardım göremezsiniz
 **(114)** ve gündüzün iki tarafında ve gecenin yakın vakitlerinde namaz kıl şüphesiz iyilikler giderir kötülükleri bu ibret alanlara bir öğüttür
-**(115)** 
-**(116)** 
-**(117)** 
-**(118)** 
-**(119)** 
+**(115)** ve sabret şüphesiz Allah iyilik yapanların ecirlerini zayi etmez
+**(116)** onlardan kendilerini kurtardığımız çok azı dışında, yeryüzünde fesattan alıkoyan sizden önceki nesillerden fazilet sahipleri bulunmalı değil miydi? zulmedenler kimseler içinde bulundukları refahın peşine takıldılar ve suçlu kimseler oldular
+**(117)** ve ahalisi ıslah edici (iken) zulümle o beldeleri Rabbin helak edecek değildi
+**(118)** ve eğer dileseydi Rabbin insanları bir tek ümmet yapardı ama hala ihtilaf etmekten durmazlar 
+**(119)** Rabbinin rahmet ettiği kimseler hariç zaten bunun için onları yarattı ve Rabbinin sözü yerine gelmiştir tamamen cinlerden ve insanlar(dan) cehennemi andolsun dolduracağım
 **(120)** 
 **(121)** 
 **(122)** 
