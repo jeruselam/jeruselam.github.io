@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Yunus
-description:  İsrail Kavminden Ninova şehrine gönderilen peygamber.
-excerpt: "11'nci Sûre"
+description: İsrail Kavminden Ninova şehrine gönderilen peygamber.
+excerpt: "10'nci Sûre"
 modified: 2018-09-15T17:50:00.564948 17:00
 tag: 
  - Yunus
