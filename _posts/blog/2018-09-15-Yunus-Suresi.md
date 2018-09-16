@@ -8,9 +8,9 @@ tag:
  - Yunus
 ---
 
-## 10. Yunus Sûresi
+## 10. Yunus Sûresi 
 
-**(1)** 
+**(1)** Elif Lâm Râ bunlar hikmetli Kitab'ın ayetleridir
 **(2)** 
 **(3)** 
 **(4)** 
