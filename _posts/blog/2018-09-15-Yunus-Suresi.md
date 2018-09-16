@@ -17,8 +17,8 @@ tag:
 **(5)** yılların sayısını ve hesabını bilmeniz için belli menzillere göre düzenleyen ve ayı bir nur ve güneşi bir ışık yapan O'dur Allah bütün bunları hak olmak dışında yaratmamıştır bilen bir topluluk için ayetlerini etraflıca açıklıyor
 **(6)** şüphesiz gece ve gündüzün ardarda gelmesinde Allah'ın yarattıklarında göklerde ve yerde sakınan bir topluluk için ayetler vardır
 **(7)** şüphesiz bize kavuşmayı ummayan(lar) kimseler ve dünya hayatına razı olan(lar) ve ona gönüllerini kaptıran(lar) ve onlar bizim ayetlerimizden gafil(ler) olanlar
-**(8)** 
-**(9)** 
+**(8)** kazanıyor(lar) olduklarına karşılık işte bunların varacakları yer cehennemdir
+**(9)** salih ameller işleyen(leri) ve 	iman eden(leri) kimseleri şüphesiz imanları dolayısıyla Rableri doğru yola iletir naim cennetlerinde ırmaklar onların altlarından akar
 **(10)** 
 **(11)** 
 **(12)** 
