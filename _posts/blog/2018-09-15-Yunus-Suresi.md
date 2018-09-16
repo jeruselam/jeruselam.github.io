@@ -19,8 +19,8 @@ tag:
 **(7)** şüphesiz bize kavuşmayı ummayan(lar) kimseler ve dünya hayatına razı olan(lar) ve ona gönüllerini kaptıran(lar) ve onlar bizim ayetlerimizden gafil(ler) olanlar
 **(8)** kazanıyor(lar) olduklarına karşılık işte bunların varacakları yer cehennemdir
 **(9)** salih ameller işleyen(leri) ve 	iman eden(leri) kimseleri şüphesiz imanları dolayısıyla Rableri doğru yola iletir naim cennetlerinde ırmaklar onların altlarından akar
-**(10)** 
-**(11)** 
+**(10)** orada onların duaları Ey Allah'ım senin şanın pek yücedir ve aralarındaki dilekleri (de) Selâm'dır ve dualarının sonu (ise) alemlerin Rabbi Allah'a hamdolsun'dur
+**(11)** ve Allah iyiliği acele istemeleri gibi kötülüğü insanlara eğer acele verseydi onların süreleri hemen bitmiş olurdu bocalar bir halde taşkınlıkları içinde bize kavuşmayı ummayanları kimseleri böyle bırakırız
 **(12)** 
 **(13)** 
 **(14)** 
