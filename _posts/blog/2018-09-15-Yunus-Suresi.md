@@ -14,9 +14,9 @@ tag:
 **(2)** iman edenlere kimselere müjdelesin ve insanları uyarsın diye içlerinden bir adama vahyetmemiz insanlara tuhaf mı geldi? Rableri katında doğruluk makamı şüphesiz (ki) onlar için vardır kâfirler dediler ki şüphesiz bu apaçık bir büyücüdür
 **(3)** şüphesiz sizin Rabbiniz Allah'tır ki gökleri ve yeri altı günde yarattı sonra Arş'ı kuşattı işleri düzene koydu O'nun izni dışında şefaat edecek kimse yoktur Rabbiniz olan Allah işte budur O'na kulluk edin Düşünüp öğüt almaz mısınız?
 **(4)** hepinizin dönüşü O'nadır Allah'ın vaadi gerçektir adaletli bir şekilde salih  ameller işleyen(lere) ve iman eden(lere) kimselere karşılıklarını vermek üzere yaratmayı ilk kez başlatan sonra onu tekrarlayan O'dur ve inkâr eden(lere) kimselere inkâr ediyor(lar) olmalarından dolayı acıklı bir azap ve kaynar sudan bir içecek vardır
-**(5)** 
-**(6)** 
-**(7)** 
+**(5)** yılların sayısını ve hesabını bilmeniz için belli menzillere göre düzenleyen ve ayı bir nur ve güneşi bir ışık yapan O'dur Allah bütün bunları hak olmak dışında yaratmamıştır bilen bir topluluk için ayetlerini etraflıca açıklıyor
+**(6)** şüphesiz gece ve gündüzün ardarda gelmesinde Allah'ın yarattıklarında göklerde ve yerde sakınan bir topluluk için ayetler vardır
+**(7)** şüphesiz bize kavuşmayı ummayan(lar) kimseler ve dünya hayatına razı olan(lar) ve ona gönüllerini kaptıran(lar) ve onlar bizim ayetlerimizden gafil(ler) olanlar
 **(8)** 
 **(9)** 
 **(10)** 
