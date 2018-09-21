@@ -30,7 +30,7 @@ tag:
 **(18)** ve hiç bir zararı olmayan ve yararı olmayan şeylere Allah'ı bırakıp ibadet ediyorlar ve diyorlar ki Allah katında bunlar bizim şefaatçilerimizdir de ki göklerde ve yerde bilmediği bir şeyi Allah'a bildiriyor musunuz? O münezzehtir ve ortak koştuklarından yücedir
 **(19)** ve insanlar değildir ancak tek bir ümmettir sonradan ayrılığa düştüler önceden belirlenmiş bir takdir eğer olmasaydı onda ayrılığa düştükleri şeylerde aralarında Rabbin tarafından kesin hüküm verilirdi
 **(20)** ve keşke ona Rabbinden bir mucize indirilse diyorlar de ki ancak gayb Allah'ındır bekleyin elbette ben de sizinle birlikte bekleyenlerdenim
-**(21)** 
+**(21)** ve kendilerine dokunan bir darlıktan sonra insanlara genişlik tattırdığımız zaman onların hemen ayetlerimiz hakkında hileleri vardır de ki düzen kurmada Allah daha hızlıdır sizin hilelerinizi şüphesiz elçilerimiz yazmaktadırlar
 **(22)** 
 **(23)** 
 **(24)** 
