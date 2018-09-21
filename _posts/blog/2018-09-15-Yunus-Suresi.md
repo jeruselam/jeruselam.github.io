@@ -29,7 +29,7 @@ tag:
 **(17)** Allah'a karşı yalan uyduran kimseden yahut O'nun ayetlerini yalanlayandan daha zalim kim olabilir? şüphesiz suçlular kurtuluşa eremezler 
 **(18)** ve hiç bir zararı olmayan ve yararı olmayan şeylere Allah'ı bırakıp ibadet ediyorlar ve diyorlar ki Allah katında bunlar bizim şefaatçilerimizdir de ki göklerde ve yerde bilmediği bir şeyi Allah'a bildiriyor musunuz? O münezzehtir ve ortak koştuklarından yücedir
 **(19)** ve insanlar değildir ancak tek bir ümmettir sonradan ayrılığa düştüler önceden belirlenmiş bir takdir eğer olmasaydı onda ayrılığa düştükleri şeylerde aralarında Rabbin tarafından kesin hüküm verilirdi
-**(20)** 
+**(20)** ve keşke ona Rabbinden bir mucize indirilse diyorlar de ki ancak gayb Allah'ındır bekleyin elbette ben de sizinle birlikte bekleyenlerdenim
 **(21)** 
 **(22)** 
 **(23)** 
