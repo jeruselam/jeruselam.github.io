@@ -21,8 +21,8 @@ tag:
 **(9)** salih ameller işleyen(leri) ve 	iman eden(leri) kimseleri şüphesiz imanları dolayısıyla Rableri doğru yola iletir naim cennetlerinde ırmaklar onların altlarından akar
 **(10)** orada onların duaları Ey Allah'ım senin şanın pek yücedir ve aralarındaki dilekleri (de) Selâm'dır ve dualarının sonu (ise) alemlerin Rabbi Allah'a hamdolsun'dur
 **(11)** ve Allah iyiliği acele istemeleri gibi kötülüğü insanlara eğer acele verseydi onların süreleri hemen bitmiş olurdu bocalar bir halde taşkınlıkları içinde bize kavuşmayı ummayanları kimseleri böyle bırakırız
-**(12)** 
-**(13)** 
+**(12)** ve ne zaman ki insana bir darlık dokunduğunda yan yatarken veya otururken yahut ayakta bize dua eder ancak ondan darlığını giderdiğimizde kendisine dokunmuş olan darlıktan dolayı bize dua etmemiş gibi hareket eder yapıyor(lar) oldukları şeyler aşırıya gidenlere işte böyle süslü gösterilmiştir
+**(13)** ve apaçık delillerle peygamberleri kendilerine geldiği halde haksızlık ettiklerinden sizden önce nice nesilleri andolsun helak ettik
 **(14)** 
 **(15)** 
 **(16)** 
