@@ -26,7 +26,7 @@ tag:
 **(14)** sonra neler yapacağınızı görmek için onların ardından yeryüzüne sizi halifeler kıldık
 **(15)** ne zaman ki apaçık bir şekilde ayetlerimiz onlara okunduğunda bize kavuşmayı ummayanlar kimseler bundan başka bir Kur'an getir veya bunu değiştir derler de ki kendi tarafımdan benim onu değiştirmem (sözkonusu) olamaz ben ancak bana vahyedilene uyuyorum Rabbime karşı gelirsem büyük bir günün azabından şüphesiz ben korkarım
 **(16)** şayet Allah dileseydi bunu size okumazdım ve bunu size hiç bildirmezdi elbette daha önce sizin aranızda belli bir ömür geçirdim hiç düşünmüyor musunuz?
-**(17)** 
+**(17)** Allah'a karşı yalan uyduran kimseden yahut O'nun ayetlerini yalanlayandan daha zalim kim olabilir? şüphesiz suçlular kurtuluşa eremezler
 **(18)** 
 **(19)** 
 **(20)** 
