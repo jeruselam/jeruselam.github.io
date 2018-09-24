@@ -31,7 +31,7 @@ tag:
 **(19)** ve insanlar değildir ancak tek bir ümmettir sonradan ayrılığa düştüler önceden belirlenmiş bir takdir eğer olmasaydı onda ayrılığa düştükleri şeylerde aralarında Rabbin tarafından kesin hüküm verilirdi
 **(20)** ve keşke ona Rabbinden bir mucize indirilse diyorlar de ki ancak gayb Allah'ındır bekleyin elbette ben de sizinle birlikte bekleyenlerdenim
 **(21)** ve kendilerine dokunan bir darlıktan sonra insanlara genişlik tattırdığımız zaman onların hemen ayetlerimiz hakkında hileleri vardır de ki düzen kurmada Allah daha hızlıdır sizin hilelerinizi şüphesiz elçilerimiz yazmaktadırlar
-**(22)** 
+**(22)** karada ve sizi gezdiren O'dur hatta denizde gemide olduğunuz zamanve tatlı bir rüzgârın bununla yürüttüğü (zaman) ve onların bununla neşelendikleri sırada sert bir fırtına birden çıkıp ve her yönden dalgalar geldiğinde ve muhakkak onlar kendilerinin kuşatıldıklarına kanaat getirdiklerinde dini O'na has kılarak Allah'a dua etmeye başlarlar eğer bizi bundan kurtarırsan elbette şükredenlerden olacağız
 **(23)** 
 **(24)** 
 **(25)** 
