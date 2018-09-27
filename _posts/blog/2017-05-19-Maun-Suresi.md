@@ -14,8 +14,8 @@ tag:
 **(1)** Dini yalanlayan kimseyi gördün mü? , 
 **(2)** işte o [anasız veya babasız, tek ve benzersiz]öksüzü[yetimi] iter kakar.
 **(3)** Ve yoksulu doyurmaya teşvik etmez.
-**(4)** Vay haline o namaz kılanların,
-**(5)** ki onlar namazlarından gaflet ederler.
+**(4)** Vay haline o [secde ederek]namaz kılanların,
+**(5)** ki onlar namazlarından [Allah emri ile aymaz]gaflet ederler.
 **(6)** Ki onlar gösteriş yaparlar.
 **(7)** Ve en ufak bir yardımı esirgerler.
 
