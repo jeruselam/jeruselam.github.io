@@ -17,6 +17,6 @@ tag:
 **(4)** Vay haline o [secde ederek]namaz kılanların,
 **(5)** ki onlar namazlarından [Allah emri ile aymaz]gaflet ederler.
 **(6)** Ki onlar gösteriş yaparlar.
-**(7)** Ve en ufak bir yardımı esirgerler.
+**(7)** Ve en ufak bir yardımı [durdurup]esirgerler.
 
 ![107]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
