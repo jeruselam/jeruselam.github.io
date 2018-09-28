@@ -39,7 +39,7 @@ tag:
 **(27)** Allah bize lutfetti ve bizi hücrelere işleyen azabdan korudu
 **(28)** elbette biz bundan önce yalnız O’na yalvarır idik, çünkü esirgeyen O, iyilik eden O’dur
 **(29)** sen hatırlat, sen Rabbinin ni’meti sayesinde kahin değilsin ve mecnun değilsin
-**(30)** yoksa bir şa’irdir diyorlar (mı?) Onun zamanın felaketlerine çarpılmasını gözetliyoruz
+**(30)** bir şa’irdir, Onun zamanın felaketlerine çarpılmasını gözetliyoruz (mu?) diyorlar yoksa
 **(31)** de ki gözetleyin elbette ben de sizinle beraber gözetleyenlerdenim
 **(32)** yoksa bunu akılları (mı?) emrediyor, yoksa onlar azgın bir topluluk (mudur?)
 **(33)** Yoksa onu uydurdu (mu?) diyorlar, hayır, onlar inanmıyorlar
