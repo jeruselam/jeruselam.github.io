@@ -38,7 +38,7 @@ tag:
 **(26)** daha iyisi ve fazlası iyilik eden(lere) kimselere vardır onların yüzlerini karalık ve aşağılık[hakirlik] bürümez işte bunlar cennet ehlidirler onlar orada sürekli kalıcıdırlar
 **(27)** kötülükler kazanan(lara) kimselere gelince bir kötülüğe aynıyla ceza verilir ve bir aşağılık[hakirlik] bürür onlar için Allah'tan kurtaracak yoktur kapkaranlık bir gecenin parçalarıyla yüzleri kaplanmış gibidir bunlar cehennem ehlidirler onlar orada sürekli kalıcıdırlar
 **(28)** ve o gün tümünü onları biraraya toplarız sonra ortak koşan(lara) kimselere deriz siz ve ortak koştuklarınız (haydi) yerlerinize! böylece onları birbirlerinden ayırırız ve koştukları ortaklar (şöyle) derler siz bize ibadet ediyor değildiniz
-**(29)** 
+**(29)** şimdi aramızda ve sizin aranızda şahit olarak Allah yeter sizin tapınmanızdan şüphesiz biz habersiz idik 
 **(30)** 
 **(31)** 
 **(32)** 
