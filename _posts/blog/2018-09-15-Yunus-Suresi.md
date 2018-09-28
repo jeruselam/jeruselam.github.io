@@ -46,8 +46,8 @@ tag:
 **(34)** de ki yaratma işini ilk kez gerçekleştirip sonra yeniden diriltecek sizin ortak koştuklarınızdan bir kimse var mıdır? de ki Allah yaratma işini ilk kez gerçekleştirip sonra yeniden diriltir artık nasıl? çevriliyorsunuz
 **(35)** de ki sizin ortak koştuklarınızdan hakka iletecek bir kimse var mıdır? de ki Allah hakka iletir hakka ileten kimse mi? uyulmaya daha lâyıktır yoksa kendisi yöneltilmesi dışında doğru yolu bulamayan kimse mi? size ne oluyor nasıl hüküm veriyorsunuz
 **(36)** ve onların çoğu zandan başkasına uymamaktadır şüphesiz zan ise gerçek açısından bir şey kazandırmaz onların yaptıkları şeyleri şüphesiz Allah bilmektedir
-**(37)** 
-**(38)** 
+**(37)** ve bu Kur'an başkası tarafından uydurulmuş değildir Allah'tandır ve ancak iki eli arasındakini[öncekini] doğrulayıcıdır ve Kitab'ı açıklayıcıdır onda şüphe yoktur alemlerin Rabbi'ndendir
+**(38)** yoksa O'nu kendisi uydurdu[mu] diyorlar de ki onun benzeri bir sure getirin ve eğer doğru sözlü iseniz Allah'tan başka gücünüz yeteni çağırın
 **(39)** 
 **(40)** 
 **(41)** 
