@@ -49,7 +49,7 @@ tag:
 **(37)** ve bu Kur'an başkası tarafından uydurulmuş değildir Allah'tandır ve ancak iki eli arasındakini[öncekini] doğrulayıcıdır ve Kitab'ı açıklayıcıdır onda şüphe yoktur alemlerin Rabbi'ndendir
 **(38)** yoksa O'nu kendisi uydurdu[mu] diyorlar de ki onun benzeri bir sure getirin ve eğer doğru sözlü iseniz Allah'tan başka gücünüz yeteni çağırın
 **(39)** hayır ilmini kavrayamadıkları ve yorumu kendilerine gelmeyen şeyi yalanladılar onlardan önceki(ler) kimseler de yalanlamışlardı zalimlerin sonlarının nasıl olduğuna bir bak
-**(40)** 
+**(40)** ve ona iman eden kimse içlerinde vardır ve ona iman etmeyen kimse de içlerinde vardır ve Rabbin bozguncuları daha iyi bilir
 **(41)** 
 **(42)** 
 **(43)** 
