@@ -40,7 +40,7 @@ tag:
 **(28)** ve o gün tümünü onları biraraya toplarız sonra ortak koşan(lara) kimselere deriz siz ve ortak koştuklarınız (haydi) yerlerinize! böylece onları birbirlerinden ayırırız ve koştukları ortaklar (şöyle) derler siz bize ibadet ediyor değildiniz
 **(29)** şimdi aramızda ve sizin aranızda şahit olarak Allah yeter sizin tapınmanızdan şüphesiz biz habersiz idik 
 **(30)** işte orada her can önceden işlemiş olduğunun hesabını verir ve gerçek mevlaları olan Allah'a döndürülmüşlerdir ve uyduruyor(lar) oldukları şeyler ise kendilerinden kaybolmuştur
-**(31)** 
+**(31)** de ki gökten ve yerden sizi rızıklandıran kimdir? yahut kimdir? kulaklara ve gözlere sahip olan diriyi ölüden çıkaran ve ölüyü diriden çıkaran kimdir? ve işleri düzene koyan kimdir? Allah diyecekler de ki öyleyse sakınmıyor musunuz?
 **(32)** 
 **(33)** 
 **(34)** 
