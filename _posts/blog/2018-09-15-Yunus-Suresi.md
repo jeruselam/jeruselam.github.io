@@ -42,9 +42,9 @@ tag:
 **(30)** işte orada her can önceden işlemiş olduğunun hesabını verir ve gerçek mevlaları olan Allah'a döndürülmüşlerdir ve uyduruyor(lar) oldukları şeyler ise kendilerinden kaybolmuştur
 **(31)** de ki gökten ve yerden sizi rızıklandıran kimdir? yahut kulaklara ve gözlere [malik]sahip olan kimdir? ve diriyi ölüden çıkaran ve ölüyü diriden çıkaran kimdir? ve işleri düzene koyan kimdir? Allah diyecekler de ki öyleyse sakınmıyor musunuz?
 **(32)** sizin [vâcip ve lazım olan]gerçek Rabbiniz olan Allah işte budur sapıklıktan başka gerçeğin dışında ne vardır? öyleyse nasıl? döndürülüyorsunuz
-**(33)** 
-**(34)** 
-**(35)** 
+**(33)** yoldan çıkmış(lar) kimseler hakkındaki Rabbinin sözü böylece gerçekleşmiş oldu onlar iman etmezler
+**(34)** de ki yaratma işini ilk kez gerçekleştirip sonra yeniden diriltecek sizin ortak koştuklarınızdan bir kimse var mıdır? de ki Allah yaratma işini ilk kez gerçekleştirip sonra yeniden diriltir artık nasıl? çevriliyorsunuz
+**(35)** de ki sizin ortak koştuklarınızdan hakka iletecek bir kimse var mıdır? de ki Allah hakka iletir hakka ileten kimse mi? uyulmaya daha lâyıktır yoksa kendisi yöneltilmesi dışında doğru yolu bulamayan kimse mi? size ne oluyor nasıl hüküm veriyorsunuz
 **(36)** 
 **(37)** 
 **(38)** 
