@@ -35,7 +35,7 @@ tag:
 **(23)** ne zaman ki kurtarır onları hemen onlar haksız yere yeryüzünde taşkınlık[talep] etmeye başlarlar ey insanlar gerçekte kendinizin aleyhinize olan taşkınlığınız[isteğiniz] dünya hayatının geçici [menfaatleri]zevkleridir sonra dönüşünüz bizedir ve yapıyor olduğunuz şeyi size bildiririz
 **(24)** ancak dünya hayatının örneği yeryüzü bitkilerinin onunla öyle ki insanlar ve hayvanlar yer,  birbirine karıştığı gökten indirdiğimiz suya benzer sonuçta yeryüzü güzelliğini alıp ve süslendiği ve sahiplerinin[mensuplarının] gerçekten kadir[güçlü] olduklarını sandıkları sırada bunlara gece veya gündüz emrimiz gelir bir gün önce hiç yokmuş gibi böylece onları biçilmiş[ekin gibi bir] hale çeviririz düşünen topluluk için ayetlerimizi işte böyle ayrıntılı olarak açıklıyoruz
 **(25)** Allah esenlik yurduna çağırır ve doğru yola dilediği kimseyi iletir
-**(26)** 
+**(26)** daha iyisi ve fazlası iyilik eden(lere) kimselere vardır onların yüzlerini karalık ve aşağılık[hakirlik] bürümez işte bunlar cennet ehlidirler onlar orada sürekli kalıcıdırlar
 **(27)** 
 **(28)** 
 **(29)** 

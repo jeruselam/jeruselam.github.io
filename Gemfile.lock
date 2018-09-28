@@ -30,14 +30,14 @@ GEM
     execjs (2.7.0)
     extras (0.3.0)
       forwardable-extended (~> 2.5)
-    faraday (0.15.2)
+    faraday (0.15.3)
       multipart-post (>= 1.2, < 3)
     fastimage (2.1.4)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     i18n (1.1.0)
       concurrent-ruby (~> 1.0)
-    jekyll (3.6.2)
+    jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -142,4 +142,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.16.4
+   1.16.5
