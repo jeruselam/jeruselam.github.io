@@ -59,7 +59,7 @@ tag:
 **(47)** ve ümmetin bir peygamberi hepsi için vardır ne zaman ki geldiğinde Peygamberleri adaletle aralarında hükmedilir ve onlar haksızlığa uğratılmazlar
 **(48)** ve diyorlar ki eğer doğru sözlü iseniz bu vaad edilen ne zamandır?
 **(49)** de ki Allah[Teala]'ın dilediğinden başka kendime ben bir zarar veya yarar dokunduramam ecelleri geldiği zaman hepsi için ümmetin bir eceli vardır bir saat ne öne alınırlar ne de geriye bırakılırlar
-**(50)** 
+**(50)** de ki söyleyin bakalım gündüz veya gece vakti O'nun azabı eğer size gelirse suçlular bunda ne diye acele ediyorlar
 **(51)** 
 **(52)** 
 **(53)** 
