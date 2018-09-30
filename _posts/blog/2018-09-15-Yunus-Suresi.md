@@ -50,11 +50,11 @@ tag:
 **(38)** yoksa O'nu kendisi uydurdu[mu] diyorlar de ki onun benzeri bir sure getirin ve eğer doğru sözlü iseniz Allah'tan başka gücünüz yeteni çağırın
 **(39)** hayır ilmini kavrayamadıkları ve yorumu kendilerine gelmeyen şeyi yalanladılar onlardan önceki(ler) kimseler de yalanlamışlardı zalimlerin sonlarının nasıl olduğuna bir bak
 **(40)** ve ona iman eden kimse içlerinde vardır ve ona iman etmeyen kimse de içlerinde vardır ve Rabbin bozguncuları daha iyi bilir
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
-**(45)** 
+**(41)** ve eğer seni yalanlarlarsa de ki benim yaptığım banadır ve sizin yaptığınız sizedir benim yaptığımdan uzaksınız ve ben de sizin yaptıklarınız uzağım
+**(42)** içlerinde seni dinleyenler kimseler vardır sağırlara sen duyurabilecek misin? üstelik akıl etmiyorlarsa
+**(43)** ve onlardan sana bakan(lar) kimseler vardır ve eğer görmüyorlarsa körleri sen doğru yola iletebilecek misin?
+**(44)** şüphesiz Allah insanlara hiçbir haksızlık etmez ancak insanlar kendi kendilerine haksızlık ederler
+**(45)** ve onları toplayacağımız gün sanki gündüzden bir [saat]anı kadar bile kalmamışlar gibi kendi aralarında tanışırlar Allah'a kavuşmayı yalanlayan(lar) kimseler ve doğru yola girmeyenler muhakkak zarara uğramışlardır
 **(46)** 
 **(47)** 
 **(48)** 
