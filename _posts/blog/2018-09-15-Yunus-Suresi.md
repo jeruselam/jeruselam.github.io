@@ -62,7 +62,7 @@ tag:
 **(50)** de ki söyleyin bakalım gündüz veya gece vakti O'nun azabı eğer size gelirse bunda suçlular ne diye acele ediyorlar
 **(51)** ona şimdi mi? inanacaksınız ne zaman ki gerçekleşti (ondan) sonra mı? elbette siz onu acele istiyordunuz
 **(52)** sonra zulmeden(lere) kimselere denilir sonsuz azabı tadın kazanıyor(lar) olduklarınızdan başkasıyla cezalandırılıyor musunuz?
-**(53)** 
+**(53)** senden soruyorlar O gerçek mi? de ki evet Rabbime yemin ederim ki şüphesiz o gerçektir ve siz aciz bırakacak değil(siniz)
 **(54)** 
 **(55)** 
 **(56)** 
