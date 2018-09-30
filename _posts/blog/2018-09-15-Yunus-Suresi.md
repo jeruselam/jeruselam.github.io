@@ -55,7 +55,7 @@ tag:
 **(43)** ve onlardan sana bakan(lar) kimseler vardır ve eğer görmüyorlarsa körleri sen doğru yola iletebilecek misin?
 **(44)** şüphesiz Allah insanlara hiçbir haksızlık etmez ancak insanlar kendi kendilerine haksızlık ederler
 **(45)** ve onları toplayacağımız gün sanki gündüzden bir [saat]anı kadar bile kalmamışlar gibi kendi aralarında tanışırlar Allah'a kavuşmayı yalanlayan(lar) kimseler ve doğru yola girmeyenler muhakkak zarara uğramışlardır
-**(46)** 
+**(46)** veya onlara vaadettiklerimizin bir kısmını sana göstersek ya da seni vefat ettirsek onların dönüşü sonuçta bizedir sonra onların yaptıkları şey üzerine Allah şahittir
 **(47)** 
 **(48)** 
 **(49)** 
