@@ -63,7 +63,7 @@ tag:
 **(51)** ona şimdi mi? inanacaksınız ne zaman ki gerçekleşti (ondan) sonra mı? elbette siz onu acele istiyordunuz
 **(52)** sonra zulmeden(lere) kimselere denilir sonsuz azabı tadın kazanıyor(lar) olduklarınızdan başkasıyla cezalandırılıyor musunuz?
 **(53)** senden soruyorlar O gerçek mi? de ki evet Rabbime yemin ederim ki şüphesiz o gerçektir ve siz aciz bırakacak değil(siniz)
-**(54)** 
+**(54)** ve şayet şüphesiz zulmeden her nefis yeryüzünde ne varsa onu fidye olarak verirdi ve azabı gördükleri zaman pişmanlıklarını açığa vururlar ve adaletle aralarında hüküm verilir ve onlar haksızlığa uğratılmazlar
 **(55)** 
 **(56)** 
 **(57)** 
