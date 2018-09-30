@@ -57,8 +57,8 @@ tag:
 **(45)** ve onları toplayacağımız gün sanki gündüzden bir [saat]anı kadar bile kalmamışlar gibi kendi aralarında tanışırlar Allah'a kavuşmayı yalanlayan(lar) kimseler ve doğru yola girmeyenler muhakkak zarara uğramışlardır
 **(46)** veya onlara vaadettiklerimizin bir kısmını sana göstersek ya da seni vefat ettirsek onların dönüşü sonuçta bizedir sonra onların yaptıkları şey üzerine Allah şahittir
 **(47)** ve ümmetin bir peygamberi hepsi için vardır ne zaman ki geldiğinde Peygamberleri adaletle aralarında hükmedilir ve onlar haksızlığa uğratılmazlar
-**(48)** 
-**(49)** 
+**(48)** ve diyorlar ki eğer doğru sözlü iseniz bu vaad edilen ne zamandır?
+**(49)** de ki Allah[Teala]'ın dilediğinden başka kendime ben bir zarar veya yarar dokunduramam ecelleri geldiği zaman hepsi için ümmetin bir eceli vardır bir saat ne öne alınırlar ne de geriye bırakılırlar
 **(50)** 
 **(51)** 
 **(52)** 
