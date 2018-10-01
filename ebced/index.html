@@ -1,34 +1,23 @@
----
-layout: compress
-title: "Ebced"
-date: 
-modified:
-excerpt:
-image:
-  feature:
-search_omit: true
-sitemap: false
----
-
 <!DOCTYPE html>
 <html>
 <head>
-{% include head.html %}
-<title>Ebced Değeri Hesaplama Aracı</title>
-<meta name="viewport" content="width=device-width" />
-<meta content='{{site.url}}/ebced/' property='og:url' />
-<meta content='Ebced Değeri Hesaplayıcı' property='og:title' />
-<meta content='Eş zamanlı Ebced/Sayı Değeri Hesaplayıcısı' property='og:description' />
-<link href='pic/favicon.ico' rel='icon' type='image/x-icon' />
+<title>19 Mucizesi'ni Kontrol Aracı:</title>
+<meta name="description" content="ebced değeri hesaplama bulma makinesi türkçe">
+<meta name="keywords" content="ebced,değeri,hesaplama,bulma,makinesi,türkçe">
+<meta name="viewport" content="width=device-width"/>
+<meta content='http://ebced.kuran114.org/' property='og:url'/>
+<meta content='Ebced Değeri Hesaplayıcı' property='og:title'/>
+<meta content='Eş zamanlı Ebced/Sayı Değeri Hesaplayıcısı' property='og:description'/>
+<link href='pic/favicon.ico' rel='icon' type='image/x-icon'/>
+<link rel="manifest" href="/manifest.json">
 <link rel="stylesheet" type="text/css" href="css/ebced.css">
 <link rel="stylesheet" type="text/css" href="css/sweetalert.min.css">
 </head>
 <body>
-{% include navigation.html %}
 <div id="text">
-<p id="baslik">Ebced Değeri Hesaplama Aracı:</p>
+<p id="baslik"><a href="http://bit.ly/gorulenmucize">19 Mucizesi</a>'ni Kontrol Aracı:</p>
 <div id="sv">
-	
+<div id="sv1">	
 <input class="ayetbox inputs" id="sure" list="sureler" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Sure" size="3" title="Sure No"> :
 
 <input class="ayetbox inputs" id="ayet" maxlength="3" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Ayet" size="3" title="Ayet No" type="number">
@@ -38,17 +27,16 @@ sitemap: false
 <input class="ayetbox inputs" id="ayet2" maxlength="3" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder="Ayet" size="3" title="Ayet No" type="number">
 <p id="açıklama"></p>
 <div id='sonradan'>
-	<input class="ayetbox inputs2" id="sırano1" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".inci" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayetten, 
-	<input class="ayetbox inputs2" id="sırano2" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".uncu" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayete kadar
+	<input class="ayetbox inputs2" id="sırano1" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".inci" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayetten - 
+	<input class="ayetbox inputs2" id="sırano2" onblur="bckgrndclrchanger(this.id)" onfocus="bckgrndclrchangr(this.id)" placeholder=".uncu" size="4" title="Kuran'ın .ıncı Ayeti" type="number">. ayete
 	<br><br>
 </div>
-<div id='sadeceno'><input type="checkbox" class="checky" id="sadece_şifreli">
-	<br><input type="checkbox" class="checky" id="sn">Sadece numaralı ayetler</div>
+</div>
 
   <datalist id="sureler">
-    <option value="1" label="Fatiha - Bir Şeyin Başlangıcı, Başlamak, Açılış">
-    <option value="2" label="الم * Bakara - İnek, Dişi Sığır * ELM">
-    <option value="3" label="الم * Al-i İmran - İmran Ailesi, İmran Soyundan Gelenler * ELM">
+    <option value="1" label="Fatiha - Açılış">
+    <option value="2" label="الم * Bakara - İnek * ELM">
+    <option value="3" label="الم * Al-i İmran - İmran Ailesi * ELM">
     <option value="4" label="Nisa - Kadın">
     <option value="5" label="Maide - Ziyafet">
     <option value="6" label="Enam - Çiftlik Hayvanları">
@@ -146,22 +134,24 @@ sitemap: false
 	<option value="98" label="Beyyine - Kanıt">
 	<option value="99" label="Zilzal - Deprem">
 	<option value="100" label="Adiyat - Aşanlar">
-	<option value="101" label="Karia - Şok, Ansızın Gelen Bela">
-	<option value="102" label="Tekasür - Çoğalma, Çoğaltma Yarışı">
+	<option value="101" label="Karia - Şok">
+	<option value="102" label="Tekasür - Çoğaltma Yarışı">
 	<option value="103" label="Asr - Zaman">
-	<option value="104" label="Humeze - Dedikoducu, Gammaz">
+	<option value="104" label="Humeze - Dedikoducu">
 	<option value="105" label="Fil - Fil">
-	<option value="106" label="Kureyş - Hz. İbrahim'e Dayanan Kabile">
+	<option value="106" label="Kureyş - Kureyş">
 	<option value="107" label="Maun - Yardımlaşma">
-	<option value="108" label="Kevser - Bolluk, Bereket">
+	<option value="108" label="Kevser - Bolluk">
 	<option value="109" label="Kafirun - Gerçeği Gizleyenler">
 	<option value="110" label="Nasr - Yardım">
-	<option value="111" label="Mesed - Diken, Arslanlı, Urgan">
-	<option value="112" label="İhlas - Samimi, Riyasız Sevgi">
-	<option value="113" label="Felak - Şafak, Tan Zamanı">
+	<option value="111" label="Mesed - Diken">
+	<option value="112" label="İhlas - Özgüleme">
+	<option value="113" label="Felak - Şafak">
 	<option value="114" label="Nas - İnsanlar">
   </datalist>
 </div>
+<div id='sadeceno'><input type="checkbox" class="checky" id="sadece_şifreli">
+	<br><input type="checkbox" class="checky" id="sn">Sadece numaralı ayetler</div>
 <textarea id="ifade" rows="6" cols="66" placeholder="...Yazmaya başlayın"></textarea>
 <br>
 <div id="back"><img id="book" src="pic/book arabic.png"></img></div>
@@ -235,11 +225,9 @@ sitemap: false
 	</div>
 </div>
 </div>
-
 </body>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src='{{site.baseurl}}/ebced/js/sweetalert.min.js'></script>
-<script src="{{site.baseurl}}/ebced/js/sonraki.js"></script>
-<script src='{{site.baseurl}}/ebced/js/ebced.js'></script>
-
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src='js/sweetalert.min.js'></script>
+<script type="text/javascript" src="js/sonraki.js"></script>
+<script type="text/javascript" src='js/ebced.js'></script>
 </html>
