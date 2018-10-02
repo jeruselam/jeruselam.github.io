@@ -15,7 +15,7 @@ tag:
 **(3)** ve doğurana (andolsun) ve doğurduğuna
 **(4)** elbette zorluk arasında insanı biz yarattık
 **(5)** hiç kimsenin kendisine güç yetiremeyecek mi sanıyor?
-**(6)** Ben birçok mal ettim telef diyor.
+**(6)** Ben birçok mal telef ettim diyor.
 **(7)** Kimsenin kendisini görmediğini mi sanıyor?
 **(8)** Biz vermedik mi? Ona iki göz,
 **(9)** ve iki dudak ve bir dil,
