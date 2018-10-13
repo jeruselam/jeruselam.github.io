@@ -68,7 +68,7 @@ tag:
 **(56)** O diriltir ve öldürür ve O'na döndürülürsünüz
 **(57)** ey insanlar Rabbinizden bir öğüt ve gönüllerde olanlar için bir şifa ve bir hidayet ve mü'minler için rahmet muhakkak size gelmiştir
 **(58)** de ki Allah'ın lütfuyla ve rahmetiyle işte bununla sevinsinler bu biriktirdikleri şeylerden hayırlıdır
-**(59)** 
+**(59)** de ki Allah'ın size rızıktan indirdiğini ve ondan sizin (bir kısmını) haram (bir kısmını) helal kıldığınızı görmüyor musunuz? de ki Allah mı? size izin verdi yoksa Allah'a karşı iftira (mı) ediyorsunuz
 **(60)** 
 **(61)** 
 **(62)** 
