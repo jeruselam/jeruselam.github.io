@@ -67,7 +67,7 @@ tag:
 **(55)** iyi bilin ki göklerde ve yerde olanların tümü şüphesiz Allah'ındır İyi bilin ki Allah'ın vaadettiği şüphesiz gerçektir ancak onların çoğu bilmiyorlar
 **(56)** O diriltir ve öldürür ve O'na döndürülürsünüz
 **(57)** ey insanlar Rabbinizden bir öğüt ve gönüllerde olanlar için bir şifa ve bir hidayet ve mü'minler için rahmet muhakkak size gelmiştir
-**(58)** 
+**(58)** de ki Allah'ın lütfuyla ve rahmetiyle işte bununla sevinsinler bu biriktirdikleri şeylerden hayırlıdır
 **(59)** 
 **(60)** 
 **(61)** 
