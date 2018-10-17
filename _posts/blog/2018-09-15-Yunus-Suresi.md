@@ -70,7 +70,7 @@ tag:
 **(58)** de ki Allah'ın lütfuyla ve rahmetiyle işte bununla sevinsinler bu biriktirdikleri şeylerden hayırlıdır
 **(59)** de ki Allah'ın size rızıktan indirdiğini ve ondan sizin (bir kısmını) haram (bir kısmını) helal kıldığınızı görmüyor musunuz? de ki Allah mı? size izin verdi yoksa Allah'a karşı iftira (mı) ediyorsunuz
 **(60)** ve kıyamet günü (hakkında) Allah'a karşı yalan uyduranların, [o]kimselerin zanları nedir? insanlara karşı şüphesiz Allah lütuf sahibidir ve ancak onların çoğu şükretmezler
-**(61)** 
+**(61)** ve [yeni bir işte]ne durumda olsanız ve Kur'andan onun hakkında ne okusanız, yapılacaklardan ne ne yapsanız, siz ona daldığınız zaman biz ancak sizin üzerinize şahidiz, bundan daha küçüğü ve ne de daha büyüğü ne de yerde ne de gökte zerre ağırlığınca (bir şey) Rabbinden gizli değildir ancak apaçık kitaptadır
 **(62)** 
 **(63)** 
 **(64)** 
