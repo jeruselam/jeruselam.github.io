@@ -69,7 +69,7 @@ tag:
 **(57)** ey insanlar Rabbinizden bir öğüt ve gönüllerde olanlar için bir şifa ve bir hidayet ve mü'minler için rahmet muhakkak size gelmiştir
 **(58)** de ki Allah'ın lütfuyla ve rahmetiyle işte bununla sevinsinler bu biriktirdikleri şeylerden hayırlıdır
 **(59)** de ki Allah'ın size rızıktan indirdiğini ve ondan sizin (bir kısmını) haram (bir kısmını) helal kıldığınızı görmüyor musunuz? de ki Allah mı? size izin verdi yoksa Allah'a karşı iftira (mı) ediyorsunuz
-**(60)** 
+**(60)** ve kıyamet günü (hakkında) Allah'a karşı yalan uyduranların, [o]kimselerin zanları nedir? insanlara karşı şüphesiz Allah lütuf sahibidir ve ancak onların çoğu şükretmezler
 **(61)** 
 **(62)** 
 **(63)** 
