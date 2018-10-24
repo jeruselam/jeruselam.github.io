@@ -61,6 +61,6 @@ tag:
 **(49)** ve zincirler içinde birbirine yaklaştırılmış suçluları o gün görürsün
 **(50)** gömlekleri katrandandır ve ateş yüzlerini kaplamaktadır
 **(51)** kazandığı ne varsa her nefsin Allah karşılığını verecektir şüphesiz Allah hesabı çabuk görendir
-**(52)** bununla uyarılsınlar diye insanlara bu bir tebliğdir ve bilsinler diye yalnızca O birtek *ilah*tanrıdır ve öğüt alsınlar diye sağduyu sahipleri
+**(52)** bununla uyarılsınlar diye insanlara bu bir tebliğdir ve bilsinler diye yalnızca O birtek [ilah]tanrıdır ve öğüt alsınlar diye sağduyu sahipleri
 
 ![14Ibrahim-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
