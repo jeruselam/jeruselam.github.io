@@ -79,8 +79,8 @@ tag:
 **(67)** o ki onda dinlenmeniz için geceyi ve aydınlatıcı olarak gündüzü sizin için yaratan O'dur duyan bir topluluk için şüphesiz bunda ayetler vardır
 **(68)** Allah çocuk edindi dediler O bundan münezzehtir O hiç bir şeye ihtiyacı olmayandır göklerde ne varsa ve yerde ne varsa O'nundur bu konuda sizin hiçbir deliliniz yoktur Allah hakkında bilmediğiniz şeyi [mi]söylüyor musunuz?
 **(69)** de ki Allah hakkında yalan uyduran(lar) kimseler şüphesiz kurtuluşa eremezler
-**(70)** 
-**(71)** 
+**(70)** dünyada bir geçim sürerler sonra dönüşleri bizedir sonra inkâr ediyor(lar) olmalarından dolayı şiddetli azabı tattırırız
+**(71)** Nuh'un kıssasını onlara oku hani kavmine şöyle söylemişti kavmim eğer aranızda durmam ve Allah'ın ayetlerini size hatırlatmam size ağır ise bilin ki Allah'a güvendim siz de işiniz hakkında ortaklarınızla toplanın sonra işiniz kendi aranızda bir dert olmasın sonra bana karşı uygulayın ve bana mühlet vermeyin
 **(72)** 
 **(73)** 
 **(74)** 
