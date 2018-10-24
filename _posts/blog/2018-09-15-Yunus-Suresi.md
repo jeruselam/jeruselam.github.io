@@ -81,11 +81,11 @@ tag:
 **(69)** de ki Allah hakkında yalan uyduran(lar) kimseler şüphesiz kurtuluşa eremezler
 **(70)** dünyada bir geçim sürerler sonra dönüşleri bizedir sonra inkâr ediyor(lar) olmalarından dolayı şiddetli azabı tattırırız
 **(71)** Nuh'un kıssasını onlara oku hani kavmine şöyle söylemişti kavmim eğer aranızda durmam ve Allah'ın ayetlerini size hatırlatmam size ağır ise bilin ki Allah'a güvendim siz de işiniz hakkında ortaklarınızla toplanın sonra işiniz kendi aranızda bir dert olmasın sonra bana karşı uygulayın ve bana mühlet vermeyin
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
+**(72)** eğer yüz çevirirseniz sizden hiç bir ücret istemiş değilim benim ecrim ancak Allah'a aittir ve ben Müslümanlardan olmakla emrolundum
+**(73)** yine de onu yalanladılar ancak biz onu ve gemide onunla beraber olanları kurtardık ve onları halifeler yaptık ve ayetlerimizi yalanlayan(ları) kimseleri suda boğduk uyarılanların sonlarının nasıl olduğuna bir bak
+**(74)** sonra onun ardından kavimlerine peygamberleri gönderdik açık belgeler getirdiler ancak onlar daha önce onu yalanladıkları şeylere inanmadılar işte böyle aşırı gidenlerin kalpleri üzerini mühürleriz
+**(75)** sonra onların ardından Musa'yı ve Harun'u Firavuna ve onun ileri gelenlerine ayetlerimizle gönderdik ve suçlu bir topluluk oldular
+**(76)** ne zaman ki katımızdan gerçek onlara gelince şüphesiz bu apaçık bir sihirdir dediler
 **(77)** 
 **(78)** 
 **(79)** 
