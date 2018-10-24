@@ -74,9 +74,9 @@ tag:
 **(62)** iyi bilin ki şüphesiz Allah'ın dostları için onlara korku yoktur ve onlar üzülmeyeceklerdir
 **(63)** onlar iman eden kimseler ve sakınanlar
 **(64)** dünya hayatında ve ahirette onlar için müjdeler vardır Allah'ın sözlerinde değişme olmaz işte bu büyük kurtuluştur
-**(65)** onların sözleri seni üzmesin yücelik tamamen Allah'ındır O [semiu]duyandır [alimu]bilendir
-**(66)** 
-**(67)** 
+**(65)** onların sözleri seni üzmesin yücelik tamamen Allah'ındır O [Semiu]duyandır [Alim]bilendir
+**(66)** iyi bilin ki göklerde kim varsa ve yerde kim varsa şüphesiz Allah'ındır ve Allah'tan başkalarına tapınan(lar) kimseler ortak koştuklarına uymuyorlar ancak onlar sadece zanna uyuyorlar ve onlar sadece saçmalıyorlar
+**(67)** o ki onda dinlenmeniz için geceyi ve aydınlatıcı olarak gündüzü sizin için yaratan O'dur duyan bir topluluk için şüphesiz bunda ayetler vardır
 **(68)** 
 **(69)** 
 **(70)** 
