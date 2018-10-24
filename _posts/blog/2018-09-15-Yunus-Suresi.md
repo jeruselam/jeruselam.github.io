@@ -77,7 +77,7 @@ tag:
 **(65)** onların sözleri seni üzmesin yücelik tamamen Allah'ındır O [Semiu]duyandır [Alim]bilendir
 **(66)** iyi bilin ki göklerde kim varsa ve yerde kim varsa şüphesiz Allah'ındır ve Allah'tan başkalarına tapınan(lar) kimseler ortak koştuklarına uymuyorlar ancak onlar sadece zanna uyuyorlar ve onlar sadece saçmalıyorlar
 **(67)** o ki onda dinlenmeniz için geceyi ve aydınlatıcı olarak gündüzü sizin için yaratan O'dur duyan bir topluluk için şüphesiz bunda ayetler vardır
-**(68)** 
+**(68)** Allah çocuk edindi dediler O bundan münezzehtir O hiç bir şeye ihtiyacı olmayandır göklerde ne varsa ve yerde ne varsa O'nundur bu konuda sizin hiçbir deliliniz yoktur Allah hakkında bilmediğiniz şeyi [mi]söylüyor musunuz?
 **(69)** 
 **(70)** 
 **(71)** 
