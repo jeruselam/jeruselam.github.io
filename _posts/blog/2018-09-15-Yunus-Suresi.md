@@ -86,8 +86,8 @@ tag:
 **(74)** sonra onun ardından kavimlerine peygamberleri gönderdik açık belgeler getirdiler ancak onlar daha önce onu yalanladıkları şeylere inanmadılar işte böyle aşırı gidenlerin kalpleri üzerini mühürleriz
 **(75)** sonra onların ardından Musa'yı ve Harun'u Firavuna ve onun ileri gelenlerine ayetlerimizle gönderdik ve suçlu bir topluluk oldular
 **(76)** ne zaman ki katımızdan gerçek onlara gelince şüphesiz bu apaçık bir sihirdir dediler
-**(77)** 
-**(78)** 
+**(77)** Musa böyle mi diyorsunuz? [Hakk]gerçek size geldiği zaman bu sihir midir? dedi ve sihirbazlar kurtuluşa ermezler
+**(78)** yeryüzünde büyüklüğün ikiniz için olması ve atalarımızı üzerinde bulduğumuz (yol)dan bizi çevirmek için mi geldiniz? (fakat) biz size iman edecek değiliz dediler
 **(79)** 
 **(80)** 
 **(81)** 
