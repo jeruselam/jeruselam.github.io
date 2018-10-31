@@ -89,8 +89,8 @@ tag:
 **(77)** Musa böyle mi diyorsunuz? [Hakk]gerçek size geldiği zaman bu sihir midir? dedi ve sihirbazlar kurtuluşa ermezler
 **(78)** yeryüzünde büyüklüğün ikiniz için olması ve atalarımızı üzerinde bulduğumuz (yol)dan bizi çevirmek için mi geldiniz? (fakat) biz size iman edecek değiliz dediler
 **(79)** ve Firavun dedi ki bütün bilgin[alim] sihirbazları bana getirin
-**(80)** 
-**(81)** 
+**(80)** ne zaman ki Sihirbazlar gelince Musa onlara siz atacağınız şeyleri atın dedi
+**(81)** attıkları zaman Musa dedi ki (onunla) sizin getirdiğiniz şeyler sihirdir şüphesiz Allah onu boşa çıkaracaktır Allah bozguncuların işlerini düzeltmez
 **(82)** 
 **(83)** 
 **(84)** 
