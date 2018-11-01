@@ -91,8 +91,8 @@ tag:
 **(79)** ve Firavun dedi ki bütün bilgin[alim] sihirbazları bana getirin
 **(80)** ne zaman ki Sihirbazlar gelince Musa onlara siz atacağınız şeyleri atın dedi
 **(81)** attıkları zaman Musa dedi ki (onunla) sizin getirdiğiniz şeyler sihirdir şüphesiz Allah onu boşa çıkaracaktır Allah bozguncuların işlerini düzeltmez
-**(82)** 
-**(83)** 
+**(82)** şayet suçlular hoşlanmasalar da Allah hakkı[gerçeği] sözleriyle[kelimeleriyle] ortaya çıkarır
+**(83)** Firavundan ve adamlarının kötülük etmeleri korkusuyla kavminden bir genç takımdan başka Musa'ya iman eden olmadı ve şüphesiz Firavun yeryüzünde iyice büyüklenmişti ve şüphesiz o çok aşırı giden kimselerdendi
 **(84)** 
 **(85)** 
 **(86)** 
