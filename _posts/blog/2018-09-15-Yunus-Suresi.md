@@ -104,7 +104,7 @@ tag:
 **(92)** kendinden sonraki kimseler için bir ibret olman için senin bedenini bugün kurtaracağız gerçekte ise insanlardan çoğu ayetlerimizden habersizdirler
 **(93)** iyi bir yere İsrail oğullarını andolsun yerleştirdik ve temiz şeylerle onları rızıklandırdık ilim[bilgisi] kendilerine gelinceye kadar ayrılığa düşmediler onda ayrılığa düşüyor oldukları hususlarda kıyamet günü Rabbin[Allah] aralarında şüphesiz hükmünü verir
 **(94)** sana indirdiğimiz şeyden eğer kuşku içinde isen senden önce kitap okuyan(lara) kimselere o halde sor andolsun ki Rabbinden sana [hakk]gerçek geldi sakın şüpheye düşenlerden olma
-**(95)** 
+**(95)** ve sakın Allah'ın ayetlerini yalanlayan(lar) kimselerden olma yoksa hüsrana uğrayanlardan olursun
 **(96)** 
 **(97)** 
 **(98)** 
