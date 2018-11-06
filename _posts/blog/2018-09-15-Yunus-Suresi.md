@@ -93,11 +93,11 @@ tag:
 **(81)** attıkları zaman Musa dedi ki (onunla) sizin getirdiğiniz şeyler sihirdir şüphesiz Allah onu boşa çıkaracaktır Allah bozguncuların işlerini düzeltmez
 **(82)** şayet suçlular hoşlanmasalar da Allah hakkı[gerçeği] sözleriyle[kelimeleriyle] ortaya çıkarır
 **(83)** Firavundan ve adamlarının kötülük etmeleri korkusuyla kavminden bir genç takımdan başka Musa'ya iman eden olmadı ve şüphesiz Firavun yeryüzünde iyice büyüklenmişti ve şüphesiz o çok aşırı giden kimselerdendi
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)**
-**(88)** 
+**(84)** ve Musa dedi ki kavmim eğer siz Allah'a iman ettiyseniz eğer siz teslim olduysanız O'na güvenin
+**(85)** onlar da dediler ki Allah'a güvendik Rabbimiz zalimler topluluğu için bizi bir fitne kılma
+**(86)** ve kâfirler topluluğundan bizi rahmetinle kurtar
+**(87)** ve kavminiz için Mısır'da evler hazırlayın(diye) ve evlerinizi kıble edinin ve salatı ayakta tutun ve Mü'minleri müjdele diye Musa'ya ve kardeşine vahyettik
+**(88)** ve Musa dedi ki Rabbimiz şüphesiz sen Firavun'a ve adamlarına dünya hayatında süs(ler) ve mallar verdin Rabbimiz senin yolundan saptırmaları için mi? Rabbimiz onların mallarını yok et ve kalplerinin üzerini bağla (ki) acıklı azabı görünceye kadar iman etmesinler 
 **(89)** 
 **(90)** 
 **(91)**
