@@ -99,10 +99,10 @@ tag:
 **(87)** ve kavminiz için Mısır'da evler hazırlayın(diye) ve evlerinizi kıble edinin ve salatı ayakta tutun ve Mü'minleri müjdele diye Musa'ya ve kardeşine vahyettik
 **(88)** ve Musa dedi ki Rabbimiz şüphesiz sen Firavun'a ve adamlarına dünya hayatında süs(ler) ve mallar verdin Rabbimiz senin yolundan saptırmaları için mi? Rabbimiz onların mallarını yok et ve kalplerinin üzerini bağla (ki) acıklı azabı görünceye kadar iman etmesinler 
 **(89)** (Allah) dedi ki muhakkak duanız kabul edildi doğru yolda devam edin ve	bilmeyen(lerin) kimselerin yollarına uymayın
-**(90)** ve denizden İsrail oğullarını geçirdik taşkınlıkla ve düşmanlıkla Firavun ve askerleri de onların peşlerine düştüler sonunda boğulma onu yakaladığı zaman İsrail oğullarının kendisine iman ettiği kimseden başka ilah olmadığına elbette iman ettim dedi ve ben de Müslümanlardanım
-**(91)**
-**(92)** 
-**(93)** 
+**(90)** ve denizden İsrail oğullarını geçirdik, taşkınlıkla ve düşmanlıkla Firavun ve askerleri de onların peşlerine düştüler sonunda boğulma onu yakaladığı zaman İsrail oğullarının kendisine iman ettiği kimseden başka ilah olmadığına elbette iman ettim ve ben de Müslümanlardanım dedi
+**(91)** şimdi mi? oysa daha önce isyan etmiştin ve bozgunculardan olmuştun
+**(92)** kendinden sonraki kimseler için bir ibret olman için senin bedenini bugün kurtaracağız gerçekte ise insanlardan çoğu ayetlerimizden habersizdirler
+**(93)** iyi bir yere İsrail oğullarını andolsun yerleştirdik ve temiz şeylerle onları rızıklandırdık ilim kendilerine gelinceye kadar ayrılığa düşmediler şüphesiz onda ayrılığa düşüyor oldukları hususlarda kıyamet günü Rabbin[Allah] aralarında hükmünü verir
 **(94)** 
 **(95)** 
 **(96)** 
