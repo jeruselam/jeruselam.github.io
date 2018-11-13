@@ -106,8 +106,8 @@ tag:
 **(94)** sana indirdiğimiz şeyden eğer kuşku içinde isen senden önce kitap okuyan(lara) kimselere o halde sor andolsun ki Rabbinden sana [hakk]gerçek geldi sakın şüpheye düşenlerden olma
 **(95)** ve sakın Allah'ın ayetlerini yalanlayan(lar) kimselerden olma yoksa hüsrana uğrayanlardan olursun
 **(96)** Rabbinin sözü haklarında kesinleşmiş olan(lar) kimseler şüphesiz iman etmezler
-**(97)** 
-**(98)** 
+**(97)** acıklı azabı görünceye kadar bütün ayetler gelse bile
+**(98)** Yunus kavminin dışında imanı kendine yarar sağlayan, iman eden bir kasaba bulunsaydı ya! ne zaman ki iman ettiler dünya hayatında rezillik azabını üzerlerinden kaldırdık ve belli bir süreye kadar onları yararlandırdık
 **(99)** 
 **(100)** 
 **(101)** 
