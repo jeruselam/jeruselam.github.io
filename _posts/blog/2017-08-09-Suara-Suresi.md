@@ -16,7 +16,7 @@ tag:
 **(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış oluverir 
 **(5)** ve Rahman'dan ondan yüz çevirici olmadıkları yeni hiçbir Zikir (uyarı) onlara gelmez 
 **(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) oldukları şeyin haberleri kendilerine gelecektir
-**(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel[iyi, faydalı] çifti[çift olan şeyin teki] orada bitirmişizdir 
+**(7)** yeryüzüne bakmadılar mı? her çeşitten kaç güzel[iyi, faydalı] çifti[çift olan şeyin herbir tekini] orada bitirmişizdir 
 **(8)** şüphesiz bunda bir ibret vardır ama yine çokları inanıcı[Mümin] değillerdir
 **(9)** ve şüphesiz Rabbin işte O üstündür[Aziz] merhamet edendir[Rahim]
 **(10)** hani Rabbin Musa’ya zalim(ler) kavmine git diye seslenmişti 
