@@ -108,7 +108,7 @@ tag:
 **(96)** Rabbinin sözü haklarında kesinleşmiş olan(lar) kimseler şüphesiz iman etmezler
 **(97)** acıklı azabı görünceye kadar bütün ayetler gelse bile
 **(98)** Yunus kavminin dışında imanı kendine yarar sağlayan, iman eden bir kasaba bulunsaydı ya! ne zaman ki iman ettiler dünya hayatında rezillik azabını üzerlerinden kaldırdık ve belli bir süreye kadar onları yararlandırdık
-**(99)** 
+**(99)** ve şayet Rabbin[Allah] dileseydi yeryüzünde bulunan kimseler topluca hepsi iman ederdi mü’min oluncaya kadar insanları sen mi? zorlayacaksın
 **(100)** 
 **(101)** 
 **(102)** 
