@@ -109,7 +109,7 @@ tag:
 **(97)** acıklı azabı görünceye kadar bütün ayetler gelse bile
 **(98)** Yunus kavminin dışında imanı kendine yarar sağlayan, iman eden bir kasaba bulunsaydı ya! ne zaman ki iman ettiler dünya hayatında rezillik azabını üzerlerinden kaldırdık ve belli bir süreye kadar onları yararlandırdık
 **(99)** ve şayet Rabbin[Allah] dileseydi yeryüzünde bulunan kimseler topluca hepsi iman ederdi mü’min oluncaya kadar insanları sen mi? zorlayacaksın
-**(100)** 
+**(100)** Allah’ın izni dışında hiç kimsenin iman etmesi mümkün değildir akıl erdiremeyen(ler) kimselerin üzerlerine iğrenç azabı[günah olan pisliği ve kiri] O gönderir
 **(101)** 
 **(102)** 
 **(103)** 
