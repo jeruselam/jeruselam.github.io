@@ -110,10 +110,10 @@ tag:
 **(98)** Yunus kavminin dışında imanı kendine yarar sağlayan, iman eden bir kasaba bulunsaydı ya! ne zaman ki iman ettiler dünya hayatında rezillik azabını üzerlerinden kaldırdık ve belli bir süreye kadar onları yararlandırdık
 **(99)** ve şayet Rabbin[Allah] dileseydi yeryüzünde bulunan kimseler topluca hepsi iman ederdi mü’min oluncaya kadar insanları sen mi? zorlayacaksın
 **(100)** Allah’ın izni dışında hiç kimsenin iman etmesi mümkün değildir akıl erdiremeyen(ler) kimselerin üzerlerine iğrenç azabı[günah olan pisliği ve kiri] O gönderir
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
+**(101)** de ki göklerde ve yerde neler olduğuna bir bakın, iman etmeyen bir topluluğa ayetler ve [uyarıcıdan]uyarılar [fayda sağlayıp]bir şey kazandırmaz
+**(102)** kendilerinden önce geçmiş olanların (başlarına gelen) günlerin benzerinden başkasını mı? bekliyorlar de ki bekleyin bakalım şüphesiz ben de sizinle birlikte bekleyenlerdenim
+**(103)** Sonra peygamberlerimizi ve iman eden(leri) kimseleri kurtarırız Mü’minleri kurtarmak üzerimize işte böyle bir haktır
+**(104)** de ki ey insanlar benim dinimden bir kuşku içinde iseniz eğer (bilin ki) Allah’tan başka sizin taptıklarınız şeylere ben tapmıyorum ancak sizin canınızı alacak olan Allah’a kulluk ederim ve ben mü’minlerden olmakla emrolundum
 **(105)** 
 **(106)** 
 **(107)** 
