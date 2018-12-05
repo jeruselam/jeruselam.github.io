@@ -114,9 +114,9 @@ tag:
 **(102)** kendilerinden önce geçmiş olanların (başlarına gelen) günlerin benzerinden başkasını mı? bekliyorlar de ki bekleyin bakalım şüphesiz ben de sizinle birlikte bekleyenlerdenim
 **(103)** Sonra peygamberlerimizi ve iman eden(leri) kimseleri kurtarırız Mü’minleri kurtarmak üzerimize işte böyle bir haktır
 **(104)** de ki ey insanlar benim dinimden bir kuşku içinde iseniz eğer (bilin ki) Allah’tan başka sizin taptıklarınız şeylere ben tapmıyorum ancak sizin canınızı alacak olan Allah’a kulluk ederim ve ben mü’minlerden olmakla emrolundum
-**(105)** 
-**(106)** 
-**(107)** 
+**(105)** ve hanif olan[hakka ve doğruluğa yönelten] dine yüzünü çevir ve ortak koşanlardan olma
+**(106)** ve sana yararı dokunmayan ne de sana zararı dokunmayan şeylere Allah’ı bırakıp tapma eğer böyle yaparsan şüphesiz sen o zaman zalimlerden olursun
+**(107)** Allah bir sıkıntı eğer sana verirse O’ndan başka onu giderecek yoktur ve eğer senin için bir iyilik dilerse O’nun lütfunu geri çevirecek yoktur, kullarından dilediği kimseye bunu verir ve O [Ğafūr]bağışlayıcıdır [RaHīm]merhamet edicidir
 **(108)** 
 **(109)** 
 
