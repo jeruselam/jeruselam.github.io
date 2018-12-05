@@ -117,7 +117,7 @@ tag:
 **(105)** ve hanif olan[hakka ve doğruluğa yönelten] dine yüzünü çevir ve ortak koşanlardan olma
 **(106)** ve sana yararı dokunmayan ne de sana zararı dokunmayan şeylere Allah’ı bırakıp tapma eğer böyle yaparsan şüphesiz sen o zaman zalimlerden olursun
 **(107)** Allah bir sıkıntı eğer sana verirse O’ndan başka onu giderecek yoktur ve eğer senin için bir iyilik dilerse O’nun lütfunu geri çevirecek yoktur, kullarından dilediği kimseye bunu verir ve O [Ğafūr]bağışlayıcıdır [RaHīm]merhamet edicidir
-**(108)** 
-**(109)** 
+**(108)** de ki ey insanlar Rabbinizden hakk[hakikat] muhakkak size gelmiştir kim hidayet bulursa şüphesiz kendi yararına hidayet bulmuştur ve kim de sapıtırsa şüphesiz kendi aleyhine sapıtmıştır ben sizin üzerinize bir [koruyucu]vekil değilim 
+**(109)** sana vahyedilen şeye uy ve Allah hükmünü verinceye kadar sabret ve O hüküm verenlerin en hayırlısıdır
 
 ![10Yunus-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
