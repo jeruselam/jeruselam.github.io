@@ -57,7 +57,7 @@ tag:
 **(44)** ve yer çek suyunu gök sen de tut denildi ve su çekildi ve iş bitirildi ve Cudi’nin üzerine oturdu ve zalimler topluluğu yok olsun denildi 
 **(45)** ve Nuh Rabbine seslendi ve dedi ki Rabbim şüphesiz oğlum benim ailemdendir ve şüphesiz senin vaadin haktır ve sen [Hâkim]hükmedenlerin en iyi hükmedenisin
 **(46)** (Allah) dedi ki Nuh şüphesiz o senin ailenden değildir elbette o iyi olmayan bir iş yapmıştı hakkında senin bilgin olmayan bir şeyi benden isteme şüphesiz ben bilgisizlerden olmanı seni sakındırıyorum
-**(47)** Rabbim dedi hakkında benim bilgim olmayan bir şeyi senden istemekten  muhakkak ben sana sığınırım eğer beni bağışlamazsan ve bana rahmet etmezsen hüsrana uğrayanlardan olurum
+**(47)** Rabbim hakkında benim bilgim olmayan bir şeyi senden istemekten  muhakkak ben sana sığınırım eğer beni bağışlamazsan ve bana rahmet etmezsen hüsrana uğrayanlardan olurum dedi
 **(48)** denildi ki Nuh bizden selam ile ve sana ve seninle birlikte olanlardan ümmetler üzerine bereketlerle in ve (bazı) ümmetlere geçimlik vereceğiz sonra bizden acıklı bir azap onlara dokunacaktır
 **(49)** bunlar sana vahyettiğimiz gayb haberlerindendir bundan önce (ne) sen ve ne de senin kavmin onu biliyor değildin[iz] sabret şüphesiz sonuç takva sahiplerinindir
 **(50)** ve Ad (kavmin)e kardeşleri Hud’u (gönderdik) dedi ki kavmim Allah’a kulluk edin sizin için O’ndan başka hiç bir ilah yoktur siz ancak yalan uyduranlarsınız
