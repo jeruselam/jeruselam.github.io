@@ -13,7 +13,7 @@ tag:
 **(1)** müşriklerden andlaşma yaptığınız kimselere Allah’tan ve Elçisinden ihtardır
 **(2)** dört ay yeryüzünde dolaşın ve bilin ki Allah’ı siz aciz bırakacak değilsiniz ve Allah şüphesiz kafirleri [hüzün vererek]rezil, perişan edecektir
 **(3)** ve en büyük Hac günü insanlara Allah’tan ve Elçisinden duyurudur Allah ve Elçisi puta tapanlardan şüphesiz uzaktır eğer tevbe ederseniz sizin için bu daha iyidir ve eğer dönerseniz bilin ki Allah’ı siz aciz bırakacak değilsiniz ve [elīm]acı bir azabı inkar eden(lere) kimselere müjdele
-**(4)** sonra hiçbir şeyi size eksik bırakmayan ve size karşı hiç kimseye arka çıkmayanlar, müşriklerden andlaşma yaptığınız kimseler ancak hariç, tanıdığınız süreye kadar onların andlaşmalarını tamamlayın şüphesiz Allah korunanları sever
+**(4)** sonra hiçbir şeyi size eksik bırakmayan ve size karşı hiç kimseye arka çıkmayanlar, müşriklerden andlaşma yaptığınız kimseler ancak hariç, tanıdığınız süreye kadar onların andlaşmalarını tamamlayın şüphesiz Allah [günahtan çekinenleri]korunanları sever
 **(5)** 
 **(6)** 
 **(7)** 
