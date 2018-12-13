@@ -10,9 +10,9 @@ tag:
 
 ## 09. Tevbe Sûresi 
 
-**(1)** 
-**(2)** 
-**(3)** 
+**(1)** müşriklerden andlaşma yaptığınız kimselere Allah’tan ve Elçisinden ihtardır
+**(2)** dört ay yeryüzünde dolaşın ve bilin ki Allah’ı siz aciz bırakacak değilsiniz ve Allah şüphesiz kafirleri [hüzün vererek]rezil, perişan edecektir
+**(3)** ve en büyük Hac günü insanlara Allah’tan ve Elçisinden duyurudur şüphesiz Allah ve Elçisi puta tapanlardan uzaktır
 **(4)** 
 **(5)** 
 **(6)** 
