@@ -177,7 +177,7 @@ tag:
 **(165)** alemlerin içinde erkeklere mi gidiyorsunuz?
 **(166)** ve Rabbinizin sizin için yarattığı şeyleri bırakıyor  (musunuz?) eşlerinizi bilakis siz sınırı aşan bir kavimsiniz
 **(167)** Lut andolsun eğer vazgeçmezsen dediler mutlaka sürülenlerden olacaksın
-**(168)** (Lut) dedi ki şüphesiz ben sizin bu işinize kızanlardanım
+**(168)** (Lut) dedi ki şüphesiz ben sizin bu işinize [kalben sevmeyerek]kızanlardanım
 **(169)** Rabbim yaptıkları şeylerden beni ve ailemi kurtar 
 **(170)** biz de onu ve ailesini tamamen kurtardık 
 **(171)** geride kalanlar arasında yalnız bir koca karı hariç 
