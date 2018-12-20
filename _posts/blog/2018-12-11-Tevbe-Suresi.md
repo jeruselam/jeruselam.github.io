@@ -13,10 +13,10 @@ tag:
 **(1)** müşriklerden andlaşma yaptığınız kimselere Allah’tan ve Elçisinden ihtardır
 **(2)** dört ay yeryüzünde dolaşın ve bilin ki Allah’ı siz aciz bırakacak değilsiniz ve Allah şüphesiz kafirleri [hüzün vererek]rezil, perişan edecektir
 **(3)** ve en büyük Hac günü insanlara Allah’tan ve Elçisinden duyurudur Allah ve Elçisi puta tapanlardan şüphesiz uzaktır eğer tevbe ederseniz sizin için bu daha iyidir ve eğer dönerseniz bilin ki Allah’ı siz aciz bırakacak değilsiniz ve [elīm]acı bir azabı inkar eden(lere) kimselere müjdele
-**(4)** sonra hiçbir şeyi size eksik bırakmayan ve size karşı hiç kimseye arka çıkmayanlar, müşriklerden andlaşma yaptığınız kimseler ancak hariç, tanıdığınız süreye kadar onların andlaşmalarını tamamlayın şüphesiz Allah [günahtan çekinenleri]korunanları sever
+**(4)** sonra hiçbir şeyi size eksik bırakmayan ve size karşı hiç kimseye arka çıkmayanlar, müşriklerden andlaşma yaptığınız kimseler ancak hariç, tanıdığınız süreye kadar onların andlaşmalarını tamamlayın şüphesiz Allah [günahtan çekinenip]korunanları sever
 **(5)** haram aylar geçtiği zaman ortak[şirk] koşanları nerede bulursanız onları öldürün ve her gözetleme yerinde onları otur(up) bekleyin ve onları yakalayın ve hapsedin eğer tevbe ederlerse ve namazı kılarlarsa ve zekatı verirlerse yollarını serbest bırakın çünkü Allah [Ğafūrun RaHīm]bağışlayandır esirgeyendir
 **(6)** ve eğer ortak[şirk] koşanlardan birisi aman dilerse onu yanına al ta ki Allah’ın sözünü işitsin sonra güvenli bir yere onu ulaştır böyle (yap) çünkü onlar bilmez bir topluluktur
-**(7)** 
+**(7)** Allah’ın yanında ve Elçisinin yanında ortak[şirk] koşanların [sözleşip]andlaşması nasıl olabilir Mescid-i Haram yanında yanında andlaştıklarınız kimseler ancak hariçtir size onlar dürüst davrandıkça onlara siz de dürüst davranın çünkü Allah [günahtan çekinenip]korunanları sever
 **(8)** 
 **(9)** 
 **(10)** 
