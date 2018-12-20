@@ -17,7 +17,7 @@ tag:
 **(5)** haram aylar geçtiği zaman ortak[şirk] koşanları nerede bulursanız onları öldürün ve her gözetleme yerinde onları otur(up) bekleyin ve onları yakalayın ve hapsedin eğer tevbe ederlerse ve namazı kılarlarsa ve zekatı verirlerse yollarını serbest bırakın çünkü Allah [Ğafūrun RaHīm]bağışlayandır esirgeyendir
 **(6)** ve eğer ortak[şirk] koşanlardan birisi aman dilerse onu yanına al ta ki Allah’ın sözünü işitsin sonra güvenli bir yere onu ulaştır böyle (yap) çünkü onlar bilmez bir topluluktur
 **(7)** Allah’ın yanında ve Elçisinin yanında ortak[şirk] koşanların [sözleşip]andlaşması nasıl olabilir Mescid-i Haram yanında andlaştıklarınız kimseler ancak hariçtir size onlar dürüst davrandıkça onlara siz de dürüst davranın çünkü Allah [günahtan çekinenip]korunanları sever
-**(8)** eğer onlar size galib gelselerdi sizin hakkınızda ne bir yakınlık ne de [himayeyi temin eden]bir andlaşma gözetirlerdi nasıl? ağızlarıyla sizi razı ederler fakat kalbleri (sizi) istemez ve çokları da yoldan çıkmışlardır
+**(8)** eğer onlar [ellerine geçirip]size galib gelselerdi sizin hakkınızda ne [soyca]bir yakınlık ne de [himayeyi temin eden]bir andlaşma gözetirlerdi nasıl? ağızlarıyla sizi razı ederler fakat kalbleri (sizi) istemez ve çokları da yoldan çıkmışlardır
 **(9)** 
 **(10)** 
 **(11)** 
