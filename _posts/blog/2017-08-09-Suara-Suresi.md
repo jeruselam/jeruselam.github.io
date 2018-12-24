@@ -88,12 +88,12 @@ tag:
 **(76)** siz ve [geçmiş]eski atalarınız 
 **(77)** onlar benim düşmanımdır yalnız alemlerin Rabbi hariç 
 **(78)** beni yaratan, bana yol gösteren O’dur
-**(79)** ve O’dur bana yediren ve içiren
-**(80)** ve hastalandığım zaman O’dur bana şifa veren
-**(81)** O’dur beni öldürecek olan sonra diriltecek olan
-**(82)** ve din (ceza) günü hatamı beni affetmesini umduğum O’dur 
+**(79)** ve bana yediren ve içiren O’dur
+**(80)** ve hastalandığım zaman bana şifa veren O’dur
+**(81)** beni öldürecek olan sonra diriltecek olan O’dur
+**(82)** ve din (ceza) günü benim hatamı affetmesini umduğum O’dur 
 **(83)** Rabbim bana hüküm ver ve Salihler arasına beni kat 
-**(84)** ve nasib eyle bana sonra gelenler içinde doğruluk dili 
+**(84)** ve sonra gelenler içinde bana doğruluk dili nasib eyle 
 **(85)** ve beni kıl ni’met(i bol olan) cennetinin varislerinden 
 **(86)** ve bağışla babamı çünkü o sapıklardandır
 **(87)** diriltilecekleri gün beni utandırma[acı veren keder]
