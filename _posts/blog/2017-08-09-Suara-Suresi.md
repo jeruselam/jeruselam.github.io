@@ -119,15 +119,15 @@ tag:
 **(107)** muhakkak ben sizin için güvenilir bir elçiyim
 **(108)** Allah’tan korkun ve bana ita’at edin
 **(109)** ve ben sizden buna karşı hiç bir ücret istemiyorum alemlerin Rabbine ait olandan başka bana bir ücret yoktur
-**(110)** öyle ise korkun Allah’tan ve bana ita’at edin
+**(110)** öyle ise Allah’tan korkun ve bana ita’at edin
 **(111)** dediler ki sana bayağı[kötü,fena,rezil] kimseler uymuşken biz inanır mıyız?
 **(112)** ve dedi ki onların yapıyor oldukları şeyleri ben bilmem 
-**(113)** doğrusu onların hesabı ancak Rabbime aittir eğer düşünürseniz
+**(113)** eğer düşünürseniz doğrusu onların hesabı ancak Rabbime aittir
 **(114)** ve ben inananları kovacak değilim 
-**(115)** ben apaçık bir uyarıcı(dan) başka değilim
-**(116)** Nuh dediler eğer vazgeçmezsen mutlaka taşlananlardan olacaksın 
-**(117)** (Nuh) Rabbim dedi şüphesiz kavmim beni yalanladı
-**(118)** o halde aç benimle onların arasını (kesin hükümle) açarak ve beni kurtar ve mü’minlerden benimle beraber bulunanları 
+**(115)** ben apaçık bir uyarıcı(dan) başka[sı] değilim
+**(116)** Nuh eğer vazgeçmezsen mutlaka taşlananlardan olacaksın dediler 
+**(117)** (Nuh) Rabbim şüphesiz kavmim beni yalanladı dedi
+**(118)** o halde aç benimle onların arasını (kesin hükümle) açarak ve beni ve mü’minlerden benimle beraber bulunanları kurtar 
 **(119)** biz de onu kurtardık ve dolu gemi içinde onunla beraber bulunanları 
 **(120)** sonra bunun ardından geride kalanları boğduk
 **(121)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
