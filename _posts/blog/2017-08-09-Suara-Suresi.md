@@ -132,13 +132,13 @@ tag:
 **(120)** sonra bunun ardından geride kalanları boğduk
 **(121)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
 **(122)** ve şüphesiz üstün olan merhamet eden Rabbin işte O’dur
-**(123)** Ad (kavmi) de gönderilen elçileri yalanladı 
-**(124)** hani kardeşleri Hud onlara demişti korunmaz mısınız?
+**(123)** gönderilen elçileri Ad (kavmi) de yalanladı 
+**(124)** onlara kardeşleri Hud hani demişti [günahtan çekinerek]korunmaz mısınız?
 **(125)** şüphesiz ben sizin için güvenilir bir elçiyim 
 **(126)** Allah’tan korkun ve bana ita’at edin
-**(127)** buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim[Ahirete ait mükafat] ancak alemlerin Rabbine aittir
+**(127)** ben sizden buna karşı hiç bir ücret istemiyorum benim ücretim[Ahirete ait mükafatım] ancak alemlerin Rabbine aittir
 **(128)** siz her tepeye (yol üzerine) bir işaret (saraylar) yapıyor musunuz? eğleniyor (musunuz?)
-**(129)** ve köşkler (ve müstahkem kaleler) ediniyorsunuz belki ebedi yaşarsınız diye
+**(129)** ve belki ebedi yaşarsınız diye köşkler (ve müstahkem kaleler) ediniyorsunuz
 **(130)** ve yakaladığınız zaman zorbalar gibi yakalıyorsunuz 
 **(131)** o halde Allah’tan korkun ve bana ita’at edin
 **(132)** ve bildiğiniz şeyleri (ni’metleri) size bol bol veren kimseden korkun 
