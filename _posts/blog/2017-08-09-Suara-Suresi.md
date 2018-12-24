@@ -95,26 +95,26 @@ tag:
 **(83)** Rabbim bana hüküm ver ve Salihler arasına kat beni
 **(84)** ve sonra gelenler içinde bana doğruluk dili nasib eyle 
 **(85)** ve ni’met(i bol olan) cennetinin varislerinden kıl beni 
-**(86)** ve bağışla babamı çünkü o [şaşkın]sapıklardandır
+**(86)** ve babamı bağışla çünkü o [şaşkın]sapıklardandır
 **(87)** diriltilecekleri gün [acı veren kederle]utandırma beni
 **(88)** (ne) mal ne de oğullar o gün fayda vermez
 **(89)** Allah’a sağlam ve temiz kalb getiren kimse dışındakine
 **(90)** ve muttakiler[günahtan çekinen] için cennet yaklaştırılır 
 **(91)** ve cehennem azgınların karşısına çıkarılır 
-**(92)** ve onlara denilir taptıklarınız şeyler hani nerede? 
-**(93)** Allah’tan başkası size yardım ediyorlar mı? yahut kendilerine yardımları dokunuyor (mu?)
+**(92)** ve onlara taptıklarınız şeyler hani nerede? denilir 
+**(93)** Allah’tan başkası mı? size yardım ediyor yahut kendilerine yardımları dokunuyor (mu?)
 **(94)** onlar ve azgınlar oraya tepe taklak atılırlar
 **(95)** ve İblis’in bütün askerleri 
 **(96)** onlar orada çekişerek derler ki 
-**(97)** vallahi gerçekten biz apaçık bir sapıklık içinde imişiz
+**(97)** vallahi biz gerçekten apaçık bir sapıklık içinde imişiz
 **(98)** çünkü alemlerin Rabbine sizi eşit tutuyorduk 
 **(99)** suçlulardan başkası bizi saptıramazlar
 **(100)** bizim şefa’atçilerimiz[bir suçun bağışlanması için vasıtalık eden] artık yoktur 
 **(101)** ve sıcak[samimi] bir dostumuz yoktur 
 **(102)** ah keşke bizim için bir (dönüş) daha olsa ve inananlardan olsak 
 **(103)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan olmazlar
-**(104)** şüphesiz Rabbin O’dur üstün olan merhamet eden
-**(105)** Nuh kavmi gönderilen elçileri yalanladı	
+**(104)** şüphesiz üstün olan merhamet eden Rabbin O’dur
+**(105)** gönderilen elçileri Nuh kavmi yalanladı	
 **(106)** kardeşleri Nuh hani onlara demişti korunmaz mısınız?
 **(107)** muhakkak ben sizin için güvenilir bir elçiyim
 **(108)** Allah’tan korkun ve bana ita’at edin
