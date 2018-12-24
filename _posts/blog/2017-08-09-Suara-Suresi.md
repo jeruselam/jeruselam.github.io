@@ -77,17 +77,17 @@ tag:
 **(65)** ve Musa’yı kurtardık ve beraberinde olanları hepsini
 **(66)** sonra boğduk ötekilerini
 **(67)** muhakkak ki bunda bir ibret vardır ama çokları inanmazlar
-**(68)** ve şüphesiz Rabbin O’dur üstün olan merhamet eden
-**(69)** oku onlara İbrahim’in haberini
+**(68)** ve şüphesiz üstün olan merhamet eden Rabbin O’dur
+**(69)** İbrahim’in haberini onlara oku
 **(70)** hani babasına ve kavmine demişti neye? tapıyorsunuz
-**(71)** dediler putlara tapıyoruz onların önünde ibadete duruyoruz
+**(71)** onların önünde ibadete duruyoruz putlara tapıyoruz dediler
 **(72)** dedi ki du’a ettiğiniz zaman onlar sizi işitiyorlar mı?
 **(73)** yahut size fayda verebiliyorlar (mı?) veya zarar verebiliyorlar( mı)?
 **(74)** hayır dediler babalarımızı böyle yaparlarken bulduk
-**(75)** gördünüz mü? dedi neye tapıyorsunuz
-**(76)** siz ve eski atalarınız 
+**(75)** neye tapıyorsunuz gördünüz mü? dedi
+**(76)** siz ve [geçmiş]eski atalarınız 
 **(77)** onlar benim düşmanımdır yalnız alemlerin Rabbi hariç 
-**(78)** beni yaratan O’dur bana yol gösteren
+**(78)** beni yaratan, bana yol gösteren O’dur
 **(79)** ve O’dur bana yediren ve içiren
 **(80)** ve hastalandığım zaman O’dur bana şifa veren
 **(81)** O’dur beni öldürecek olan sonra diriltecek olan
