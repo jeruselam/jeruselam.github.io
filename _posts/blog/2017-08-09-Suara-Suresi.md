@@ -128,10 +128,10 @@ tag:
 **(116)** Nuh eğer vazgeçmezsen mutlaka taşlananlardan olacaksın dediler 
 **(117)** (Nuh) Rabbim şüphesiz kavmim beni yalanladı dedi
 **(118)** o halde aç benimle onların arasını (kesin hükümle) açarak ve beni ve mü’minlerden benimle beraber bulunanları kurtar 
-**(119)** biz de onu kurtardık ve dolu gemi içinde onunla beraber bulunanları 
+**(119)** biz de onu ve dolu gemi içinde onunla beraber bulunanları kurtardık 
 **(120)** sonra bunun ardından geride kalanları boğduk
 **(121)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
-**(122)** ve şüphesiz Rabbin işte O’dur üstün olan merhamet eden
+**(122)** ve şüphesiz üstün olan merhamet eden Rabbin işte O’dur
 **(123)** Ad (kavmi) de gönderilen elçileri yalanladı 
 **(124)** hani kardeşleri Hud onlara demişti korunmaz mısınız?
 **(125)** şüphesiz ben sizin için güvenilir bir elçiyim 
