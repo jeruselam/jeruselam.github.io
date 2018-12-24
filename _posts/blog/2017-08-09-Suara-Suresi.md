@@ -99,7 +99,7 @@ tag:
 **(87)** diriltilecekleri gün [acı veren kederle]utandırma beni
 **(88)** (ne) mal ne de oğullar o gün fayda vermez
 **(89)** Allah’a sağlam ve temiz kalb getiren kimse dışındakine
-**(90)** ve cennet muttakiler[kendini Allah(cc) sevmediği fena işlerden koruyan ve günahtan çekinen] için yaklaştırılır 
+**(90)** ve muttakiler[günahtan çekinen] için cennet yaklaştırılır 
 **(91)** ve cehennem azgınların karşısına çıkarılır 
 **(92)** ve onlara denilir taptıklarınız şeyler hani nerede? 
 **(93)** Allah’tan başkası size yardım ediyorlar mı? yahut kendilerine yardımları dokunuyor (mu?)
