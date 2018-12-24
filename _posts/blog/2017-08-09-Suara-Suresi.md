@@ -149,22 +149,22 @@ tag:
 **(137)** bu (davranışımız) evvelkilerin ahlakı(ndan) başka değildir
 **(138)** ve biz azaba uğratılacak değiliz
 **(139)** onu yalanladılar biz de onları helak ettik muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
-**(140)** şüphesiz Rabbin işte O’dur üstün olan merhamet eden
-**(141)** gönderilen elçileri[peygamber] Semud (kavmi) de yalanladı 
-**(142)** hani onlara kardeşleri Salih demişti ki korunmaz mısınız?
-**(143)** doğrusu ben sizin için güvenilir bir elçiyim[resül]
+**(140)** şüphesiz üstün olan merhamet eden Rabbin işte O’dur
+**(141)** gönderilen elçileri[resul peygamberleri] Semud (kavmi) de yalanladı 
+**(142)** onlara kardeşleri Salih hani demişti ki korunmaz mısınız?
+**(143)** doğrusu ben sizin için güvenilir bir [resül]elçiyim
 **(144)** Allah’tan korkun ve bana ita’at edin
-**(145)** buna karşı hiç bir ücret ben sizden istemiyorum benim ücretim yalnız alemlerin Rabbine aittir
+**(145)** ben sizden buna karşı hiç bir ücret istemiyorum benim ücretim yalnız alemlerin Rabbine aittir
 **(146)** burada güven içinde bırakılacağınızı mı sanıyorsunuz? 
 **(147)** bahçeler içinde ve çeşme başlarında
 **(148)** ve ekinler arasında ve yumuşak tomurcuklu hurmalıklarda 
-**(149)** ve ustalıkla dağlardan evler yontuyorsunuz 
+**(149)** ve dağlardan ustalıkla evler yontuyorsunuz 
 **(150)** Allah’tan korkun ve bana ita’at edin
-**(151)** aşırıların[Allah'ın(cc) razı olmayacağı şeylere parasını,malını ve zamanını harcayan] emrine uymayın
+**(151)** aşırıların[Allah'ın(cc) razı olmayacağı şeylere parasını,malını ve zamanını harcayanların] emrine uymayın
 **(152)** yeryüzünde bozgunculuk yapan kimselerin ve ıslah etmeyenlerin
-**(153)** doğrusu dediler sen iyice büyülenmişlerdensin 
-**(154)** sen bizim gibi bir insandan başka değilsin bize bir mu’cize getir eğer doğrulardan isen
-**(155)** dedi ki işte bu dişi devedir onun su içme hakkı vardır ve belli bir gün siz(e)in su içme hakkı vardır 
+**(153)** doğrusu sen iyice büyülenmişlerdensin dediler 
+**(154)** sen bizim gibi bir insandan başka değilsin eğer doğrulardan isen bize bir mu’cize getir
+**(155)** dedi ki işte bu dişi devedir belli bir gün onun su içme hakkı vardır ve siz(e)in su içme hakkı vardır 
 **(156)** sakın ona bir kötülük dokundurmayın sonra sizi büyük bir günün azabı yakalar 
 **(157)** nihayet onu kestiler ama pişman oldular 
 **(158)** ve onları azab yakaladı muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan değildir
