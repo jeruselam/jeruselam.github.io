@@ -92,12 +92,12 @@ tag:
 **(80)** ve hastalandığım zaman bana şifa veren O’dur
 **(81)** beni öldürecek olan sonra diriltecek olan O’dur
 **(82)** ve din (ceza) günü benim hatamı affetmesini umduğum O’dur 
-**(83)** Rabbim bana hüküm ver ve Salihler arasına beni kat 
+**(83)** Rabbim bana hüküm ver ve Salihler arasına kat beni
 **(84)** ve sonra gelenler içinde bana doğruluk dili nasib eyle 
-**(85)** ve beni kıl ni’met(i bol olan) cennetinin varislerinden 
-**(86)** ve bağışla babamı çünkü o sapıklardandır
-**(87)** diriltilecekleri gün beni utandırma[acı veren keder]
-**(88)** o gün (ne) mal ne de oğullar fayda vermez
+**(85)** ve ni’met(i bol olan) cennetinin varislerinden kıl beni 
+**(86)** ve bağışla babamı çünkü o [şaşkın]sapıklardandır
+**(87)** diriltilecekleri gün [acı veren kederle]utandırma beni
+**(88)** (ne) mal ne de oğullar o gün fayda vermez
 **(89)** Allah’a sağlam ve temiz kalb getiren kimse dışındakine
 **(90)** ve cennet muttakiler[kendini Allah(cc) sevmediği fena işlerden koruyan ve günahtan çekinen] için yaklaştırılır 
 **(91)** ve cehennem azgınların karşısına çıkarılır 
