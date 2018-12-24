@@ -20,6 +20,7 @@ gem 'uglifier'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+   gem "i18n", "~> 1.2.0" if RUBY_ENGINE == "jruby"
    gem "jekyll-feed", "~> 0.9.2"
    gem "jekyll-seo-tag"
    gem "jekyll-sitemap"
