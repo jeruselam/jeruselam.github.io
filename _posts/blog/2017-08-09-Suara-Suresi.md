@@ -115,10 +115,10 @@ tag:
 **(103)** muhakkak ki bunda bir ibret vardır ama yine çokları inananlardan olmazlar
 **(104)** şüphesiz üstün olan merhamet eden Rabbin O’dur
 **(105)** gönderilen elçileri Nuh kavmi yalanladı	
-**(106)** kardeşleri Nuh hani onlara demişti korunmaz mısınız?
+**(106)** kardeşleri Nuh onlara hani demişti korunmaz mısınız?
 **(107)** muhakkak ben sizin için güvenilir bir elçiyim
 **(108)** Allah’tan korkun ve bana ita’at edin
-**(109)** ve buna karşı hiç bir ücret ben sizden istemiyorum alemlerin Rabbine ait olandan başka bana bir ücret yoktur
+**(109)** ve ben sizden buna karşı hiç bir ücret istemiyorum alemlerin Rabbine ait olandan başka bana bir ücret yoktur
 **(110)** öyle ise korkun Allah’tan ve bana ita’at edin
 **(111)** dediler ki sana bayağı[kötü,fena,rezil] kimseler uymuşken biz inanır mıyız?
 **(112)** ve dedi ki onların yapıyor oldukları şeyleri ben bilmem 
