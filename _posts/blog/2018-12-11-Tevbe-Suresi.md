@@ -18,8 +18,8 @@ tag:
 **(6)** ve eğer ortak[şirk] koşanlardan birisi aman dilerse onu yanına al ta ki Allah’ın sözünü işitsin sonra güvenli bir yere onu ulaştır böyle (yap) çünkü onlar bilmez bir topluluktur
 **(7)** Allah’ın yanında ve Elçisinin yanında ortak[şirk] koşanların [sözleşip]andlaşması nasıl olabilir Mescid-i Haram yanında andlaştıklarınız kimseler ancak hariçtir size onlar dürüst davrandıkça onlara siz de dürüst davranın çünkü Allah [günahtan çekinenip]korunanları sever
 **(8)** eğer onlar [ellerine geçirip]size galib gelselerdi sizin hakkınızda ne [soyca]bir yakınlık ne de [himayeyi temin eden]bir andlaşma[yı] nasıl? gözetirlerdi, ağızlarıyla sizi razı ederler fakat kalbleri (sizi) istemez ve çokları da [günah işleyerek]yoldan çıkmışlardır
-**(9)** 
-**(10)** 
+**(9)** azıcık bir paraya Allah’ın ayetlerini sattılar O’nun yolundan engel oldular yapıyor(lar) oldukları şeyler gerçekten ne kötüdür
+**(10)** bir mü’mine karşı ne [soyca]bir yakınlık ne de [himayeyi temin eden]bir andlaşma gözetirler ve saldırganlar işte onlardır
 **(11)** 
 **(12)** 
 **(13)** 
