@@ -70,7 +70,7 @@ tag:
 **(58)** yahut azabı gördüğü zaman keşke gerçekten benim için bir kez daha (dönüş) olsaydı böylece güzel hareket edenlerden olsaydım demesinden
 **(59)** hayır elbette sana ayetlerim geldi fakat sen onları yalanladın ve büyüklük tasladın ve nankörlerden oldun 
 **(60)** ve kıyamet günü Allah’a karşı yalan uyduranların yüzlerini kapkara görürsün kibirlenenler için cehennemde bir yer yok mudur?
-**(61)** ve Allah kimseleri, başarılarıyla[kurtulup murada erenleri] [günahtan çekinerek]korunanları kurtarır onlara kötülük dokunmaz ve onlar üzülmezler
+**(61)** ve Allah başarılarıyla[kurtulup murada eren] kimseleri [günahtan çekinerek]korunanları kurtarır onlara kötülük dokunmaz ve onlar üzülmezler
 **(62)** Allah her şeyin yaratıcısıdır ve O her şey üzerine vekildir
 **(63)** göklerin ve yerin anahtarları O’nundur ve Allah’ın ayetlerini inkar eden(ler) kimseler işte ziyana uğrayanlar onlardır
 **(64)** de ki ey cahiller bana Allah’tan başkasına mı? kulluk etmemi emrediyorsunuz
