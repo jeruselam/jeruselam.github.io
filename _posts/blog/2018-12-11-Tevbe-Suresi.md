@@ -25,7 +25,7 @@ tag:
 **(13)** ilk kez kendileri siz(inle savaş)a başlamış olan ve [Rasūl]Elçiyi çıkarmağa yeltenen ve andlarını[yeminli sözlerini] bozan bir kavimle [can ve ırzınızı korumak için]savaşmayacak mısınız? yoksa onlardan korkuyor musunuz? eğer gerçekten [iman edip]inananlar iseniz kendisinden[sevgisini ve rızasını kaybetmekten] korkmanıza en layık olan Allah’tır 
 **(14)** onlarla [can ve ırzınızı korumak için]savaşın (ki) sizin ellerinizle Allah onlara azabetsin ve onları rezil etsin ve onlara sizi üstün getirsin ve inananlar toplumunun göğüslerine[kalplerine] şifa versin
 **(15)** ve yüreklerinin öfkesini gidersin ve Allah dilediği kişinin tevbesini kabul eder ve [Alîmun Hakîm]Allah bilendir hüküm ve hikmet sahibidir
-**(16)** 
+**(16)** Allah(’tan) ve Elçisin(den) ve mü’minler(den) başkasını sırdaş edinmeyen(leri) ve cihad eden(leri) -kimseleri Allah bilmeden yoksa siz bırakılacağınızı mı? sandınız
 **(17)** 
 **(18)** 
 **(19)** 
