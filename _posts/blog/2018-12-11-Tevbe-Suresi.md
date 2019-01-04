@@ -20,7 +20,7 @@ tag:
 **(8)** eğer onlar [ellerine geçirip]size galib gelselerdi sizin hakkınızda ne [soyca]bir yakınlık ne de [himayeyi temin eden]bir andlaşma[yı] nasıl? gözetirlerdi, ağızlarıyla sizi razı ederler fakat kalbleri (sizi) istemez ve çokları da [günah işleyerek]yoldan çıkmışlardır
 **(9)** azıcık bir paraya Allah’ın ayetlerini sattılar O’nun yolundan engel oldular yapıyor(lar) oldukları şeyler gerçekten ne kötüdür
 **(10)** bir mü’mine karşı ne [soyca]bir yakınlık ne de [himayeyi temin eden]bir andlaşma gözetirler ve saldırganlar işte onlardır
-**(11)** 
+**(11)** eğer tevbe ederlerse ve namazı kılarlarsa ve zekatı verirlerse dinde sizin kardeşlerinizdirler ve [ilim sahibi]bilen bir kavme ayetleri uzun uzun açıklıyoruz
 **(12)** 
 **(13)** 
 **(14)** 
