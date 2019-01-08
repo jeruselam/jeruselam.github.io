@@ -89,7 +89,7 @@ tag:
 **(77)** ve ayetlerimizi yalanlayan kimselerin kavminden onu koruduk çünkü onlar kötü bir kavim olmuşlardı biz de onları hepsini boğmuştuk
 **(78)** ve Davud’u ve Süleyman’ı, hani toplumun[kavmin] davarı orada yayıldığı zaman bir ekin hakkında onlar hükmediyorlardı onların hükümlerine biz de şahid idik
 **(79)** Süleyman’a onu bellettik ve hepsine hükümdarlık ve bilgi verdik 	ve tesbih eden dağları ve kuşları Davud’a onunla beraber boyun eğdirdik ve biz (bunları) yaparız
-**(80)** ve savaşın şiddetinden sizi korumak için sizin için zırh yapmayı ona öğretmiştik (o halde) siz şükredenlerden misiniz?
+**(80)** ve sizin için zırh yapmayı savaşın şiddetinden sizi korumak için  ona öğretmiştik siz (o halde) şükredenlerden misiniz?
 **(81)** ve Süleyman’a şiddetli fırtınayı, içini bereketlendirdiğimiz yere onun emriyle akıp giderdi ve biz her şeyi biliriz
 **(82)** ve kendisi için denize dalan ve bundan başka işler yapan şeytanlardan kimseleri ve onları onun emrinde biz tutuyor idik
 **(83)** ve Eyyub’u da hani Rabbine du’a etmişti bu dert bana dokundu gerçekten diye ve sen merhametlilerin en merhametlisisin
