@@ -89,16 +89,16 @@ tag:
 **(77)** ve ayetlerimizi yalanlayan kimselerin kavminden onu koruduk çünkü onlar kötü bir kavim olmuşlardı biz de onları hepsini boğmuştuk
 **(78)** ve Davud’u ve Süleyman’ı, hani toplumun[kavmin] davarı orada yayıldığı zaman bir ekin hakkında onlar hükmediyorlardı onların hükümlerine biz de şahid idik
 **(79)** Süleyman’a onu bellettik ve hepsine hükümdarlık ve bilgi verdik 	ve tesbih eden dağları ve kuşları Davud’a onunla beraber boyun eğdirdik ve biz (bunları) yaparız
-**(80)** ve sizin için zırh yapmayı savaşın şiddetinden sizi korumak için  ona öğretmiştik siz (o halde) şükredenlerden misiniz?
-**(81)** ve Süleyman’a şiddetli fırtınayı, içini bereketlendirdiğimiz yere onun emriyle akıp giderdi ve biz her şeyi biliriz
-**(82)** ve kendisi için denize dalan ve bundan başka işler yapan şeytanlardan kimseleri ve onları onun emrinde biz tutuyor idik
-**(83)** ve Eyyub’u da hani Rabbine du’a etmişti bu dert bana dokundu gerçekten diye ve sen merhametlilerin en merhametlisisin
-**(84)** onu(n du’asını) biz de kabul ettik ve onun ne varsa derdi kaldırdık ve ailesini ve ibadet edenler için tarafımızdan bir rahmet ve bir öğüt olarak onlarla beraber bir katını daha ona verdik
-**(85)** ve İsma’il’i, İdris’i ve Zu’l-Kifl’i hepsi de sabredenlerdendi
-**(86)** ve onları soktuk rahmetimize çünkü onlar Salihlerdendi
-**(87)** ve Zünnun’u kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti karanlıklar içinde nihayet yalvardı senden başka tanrı[ilâh] yoktur diye senin şanın yücedir muhakkak ben zalimlerden oldum
-**(88)** onu(n du’asını) biz de kabul ettik ve tasadan onu kurtardık işte böyle inananları biz kurtarırız
-**(89)** ve Zekeriyya’yı da hani Rabbine du’a etmişti Rabbim tek başıma beni bırakma ve sen varislerin en iyisisin
+**(80)** ve ona sizin için zırh yapmayı, savaşın şiddetinden sizi korumak için öğretmiştik siz (o halde) şükredenlerden misiniz?
+**(81)** ve Süleyman’a şiddetli fırtınayı[kontrol etmeyi öğrettik], içini bereketlendirdiğimiz yere onun emriyle akıp giderdi ve biz her şeyi biliriz
+**(82)** ve kendisi için denize dalan ve bundan başka işler yapan şeytanlardan kimseleri [var ettik]ve biz onları onun emrinde tutuyor idik
+**(83)** ve Eyyub’u da[an] bu dert bana gerçekten dokundu ve sen[erhamur râhimîn] merhametlilerin en merhametlisisin diye hani Rabbine du’a etmişti
+**(84)** biz de onu(n du’asını) kabul ettik ve onun ne derdi varsa kaldırdık ve ailesini ve ibadet edenler için tarafımızdan bir rahmet ve bir öğüt olarak onlarla beraber bir katını daha ona verdik
+**(85)** ve İsma’il’i, İdris’i ve Zu’l-Kifl’i[an] hepsi de sabredenlerdendi
+**(86)** ve onları rahmetimize [girenlerle]soktuk çünkü onlar Salihlerdendi
+**(87)** ve Zünnun’u[Nun sahibini an] kendisine asla güç yetiremeyeceğiz diye sanmıştı zira kızarak gitmişti, senin şanın yücedir muhakkak ben zalimlerden oldum senden başka tanrı[ilâh] yoktur diye karanlıklar içinde nihayet yalvardı
+**(88)** biz de onu(n du’asını) kabul ettik ve onu tasadan kurtardık, biz inananları işte böyle kurtarırız
+**(89)** ve Zekeriyya’yı da[an] hani Rabbine du’a etmişti, Rabbim beni tek başıma bırakma ve sen varislerin[miras sahiplerinin en hayırlısı] en iyisisin
 **(90)** onu(n du’asını) kabul buyurduk ve Yahya’yı ona armağan ettik ve eşini kendisi için ıslah ettik gerçekten onlar hayır (işlere) koşuyor(lar) idiler ve [ihlasla]umarak ve [çekinip]korkarak bize du’a ederlerdi ve bize[şefkatle sevene layık surette] derin bir saygı içinde idiler
 **(91)** ırzını korumuş olanı (Meryemi) ve ruhumuzdan ona üflemiştik ve oğlunu ve onu alemlere bir ibret yapmıştık
 **(92)** işte bu sizin ümmetiniz bir tek ümmettir sizin Rabbiniz şüphesiz benim yalnız bana kulluk edin
