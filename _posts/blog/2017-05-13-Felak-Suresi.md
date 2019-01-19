@@ -14,7 +14,7 @@ tag:
 **(1)** De ki, karanlığı yarıp sabahı ortaya çıkaran Rabbe sığınırım ben,
 **(2)** yarattığı şeylerin şerrinden,
 **(3)** ve karanlığı çöktüğü zaman gecenin şerrinden,
-**(4)** ve düğümlere üfleyenlerin şerrinden,
+**(4)** ve [bedene ait hissiyatları uyandıran]düğümlere üfleyenlerin şerrinden,
 **(5)** ve hased ettiği zaman hasedcinin şerrinden
 
 ![113]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
