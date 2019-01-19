@@ -15,7 +15,6 @@ tag:
 **(2)** yarattığı şeylerin şerrinden,
 **(3)** ve karanlığı çöktüğü zaman gecenin şerrinden,
 **(4)** ve düğümlere üfleyenlerin şerrinden,
-**(5)** ve hased ettiği zaman hasedcinin şerrinden,
-**(6)** de ki, insanların Rabbine sığınırım ben.
+**(5)** ve hased ettiği zaman hasedcinin şerrinden
 
 ![113]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

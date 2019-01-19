@@ -26,7 +26,7 @@ tag:
 **(14)** onlarla [can ve ırzınızı korumak için]savaşın (ki) sizin ellerinizle Allah onlara azabetsin ve onları rezil etsin ve onlara sizi üstün getirsin ve inananlar toplumunun göğüslerine[kalplerine] şifa versin
 **(15)** ve yüreklerinin öfkesini gidersin ve Allah dilediği kişinin tevbesini kabul eder ve [Alîmun Hakîm]Allah bilendir hüküm ve hikmet sahibidir
 **(16)** Allah(’tan) ve Elçisin(den) ve mü’minler(den) başkasını sırdaş edinmeyen(leri) ve cihad eden(leri) -kimseleri Allah bilmeden yoksa siz bırakılacağınızı mı? sandınız ve Allah yaptıklarınızı -şeyleri haber almaktadır
-**(17)** 
+**(17)** kendi nefislerinin küfrüne şahitler iken Allah’ın mescidlerini imar etmeleri[nin] müşrikler için [imkanı]yoktur, onların yaptıkları işler boşa çıkmıştır ve onlar ateşte sürekli kalacaklardır
 **(18)** 
 **(19)** 
 **(20)** 
