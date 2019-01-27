@@ -65,9 +65,9 @@ tag:
 **(53)** size (ulaşan) her ni’met Allah'tandır sonra bir sıkıntı size dokunduğu zaman yalnız O’na yalvarırsınız
 **(54)** sonra sizden o sıkıntıyı kaldırdığı zaman içinizden bir grup hemen Rablerine ortak koşarlar
 **(55)** kendilerine verdiğimize karşı nankörlük etmek için, öyleyse eğlenin[menfaat sağlayın] yakında bileceksiniz
-**(56)** ve verdiğimiz rızıktan bir pay[hisseyi] bilmedikleri şeylere ayırıyorlar Allah’a andolsun ki uyduruyorlar [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
-**(57)** ve şanı yüce olan Allah’a [bebek]kızları ve kendilerine de [eşit yaparak]hoşlandıklarını isnad ediyorlar[ayırıyorlar]
-**(58)** kız çocuğu onlardan birine müjdelendiği zaman [kuruntulu]kapkara yüzü [gölge]kesilir ve o içi öfkeyle dolar
+**(56)** ve verdiğimiz rızıktan bilmedikleri şeylere bir pay[hisse] ayırıyorlar, Allah’a andolsun ki uyduruyorlar, [ikinci derecede önemli saymış]olduğunuz şeylerden siz mutlaka sorulacaksınız
+**(57)** ve şanı yüce olan Allah’a [bebeklik çağındaki]kızları ve kendilerine de [eşit yapıp]hoşlandıklarını [ayırarak]isnad[edip iftira] ediyorlar.
+**(58)** onlardan birine kız çocuğu müjdelendiği zaman kapkara [kuruntulu]yüzü [gölge]kesilir ve o[nun] içi öfkeyle dolar.
 **(59)** ona verilen müjdenin kötülüğünden dolayı kavminden gizlenir hakaretle onu tutsun mu? yoksa toprağa onu gömsün mü? bak ne kötü hüküm veriyorlar
 **(60)** en kötü sıfatlar ahirete inanmayanlar içindir (oysa) en yüce sıfatlar Allah’ındır ve O azizdir [Hakīm]hikmet sahibidir
 **(61)** ve yaptıkları (her) haksızlıkla insanları Allah cezalandırsaydı eğer hiçbir [yürüyen]canlı (yeryüzü) üzerinde bırakmazdı fakat takdir edilen bir süreye kadar onları erteler [ecel]süreleri geldiği zaman asla bir sa’at (dahi) geri kalmazlar ne de ileri geçerler
