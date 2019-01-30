@@ -43,7 +43,7 @@ tag:
 **(31)** biz sizin dünya hayatında ve ahirette dostlarınızız ve orada canlarınızın çektiği her şey size vardır ve orada istediğiniz her şey size vardır 
 **(32)** çok bağışlayanın çok esirgeyenin ağırlamasıdır
 **(33)** ve Allah’a çağıran kimseden ve iyi iş yapandan ve şüphesiz ben müslümanlardanım diyenden daha güzel sözlü kim olabilir? 
-**(34)** ve iyilik ve ne de kötülük eşit değildir (onu) en güzel olanla sav bir de bakarsın ki seninle aranda (ve) onun arasında düşmanlık olan sanki sıcak bir dosttur
+**(34)** iyilik ve ne de kötülük eşit değildir ve (onu) en güzel olanla sav bir de bakarsın ki, seninle aranda (ve) onun arasında düşman olan sanki sıcak bir dosttur
 **(35)** sabreden(lerden) kimselerden başkası buna kavuşturulmaz ve  şansı büyük olandan başkası buna kavuşturulmaz
 **(36)** ve eğer şeytandan kötü bir düşünce seni dürtecek olursa hemen Allah’a sığın çünkü O, O işitendir bilendir
 **(37)** ve gece ve gündüz ve güneş ve ay O’nun ayetlerindendir güneşe ne de aya secde etmeyin fakat eğer O’na tapıyor(sanız) iseniz onları yaratan Allah’a secde edin 
