@@ -27,12 +27,12 @@ tag:
 **(15)** ve yüreklerinin öfkesini gidersin ve Allah dilediği kişinin tevbesini kabul eder ve [Alîmun Hakîm]Allah bilendir hüküm ve hikmet sahibidir
 **(16)** Allah(’tan) ve Elçisin(den) ve mü’minler(den) başkasını sırdaş edinmeyen(leri) ve cihad eden(leri) -kimseleri Allah bilmeden yoksa siz bırakılacağınızı mı? sandınız ve Allah yaptıklarınızı -şeyleri haber almaktadır
 **(17)** kendi nefislerinin küfrüne şahitler iken Allah’ın mescidlerini imar etmeleri[nin] müşrikler için [imkanı]yoktur, onların yaptıkları işler boşa çıkmıştır ve onlar ateşte sürekli kalacaklardır
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
-**(23)** 
+**(18)** ancak Allah’tan başkasından korkmayan ve zekatı veren ve namazı kılan ve ahiret gününe ve Allah’a inanan kimseler Allah’ın mescidlerini imar ederler, onların doğru yolu bulanlardan olmaları umulur
+**(19)** Allah yolunda cihadeden ve ahiret gününe ve Allah’a inanan kimse gibi Mescid-i Haram’ı imar etmeyi ve hacılara su vermeyi bir mi tuttunuz? Allah katında eşit olmaz(lar) ve Allah zalimler topluluğuna yol göstermez
+**(20)** Allah yolunda mallarıyla ve canlarıyla cihad eden(ler) ve hicret eden(ler) ve inanan(lar) kimseler işte kurtuluşa erenler onlardır ve Allah katında dereceleri daha büyüktür 
+**(21)** Rableri onları içinde tükenmeyen nimetler bulunan cennetlerle ve rızasıyla ve kendisinden bir rahmetle müjdeler
+**(22)** orada ebedi kalacaklardır şüphesiz büyük mükafat Allah katındandır
+**(23)** ey inanan(lar) kimseler, eğer imana karşı küfrü seviyorlarsa babalarınızı ve kardeşlerinizi veliler edinmeyin ve sizden kim onları veli tanırsa işte zalimler onlardır
 **(24)** 
 **(25)** 
 **(26)** 
