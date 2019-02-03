@@ -33,8 +33,8 @@ tag:
 **(21)** Rableri onları içinde tükenmeyen nimetler bulunan cennetlerle ve rızasıyla ve kendisinden bir rahmetle müjdeler
 **(22)** orada ebedi kalacaklardır şüphesiz büyük mükafat Allah katındandır
 **(23)** ey inanan(lar) kimseler, eğer imana karşı küfrü seviyorlarsa babalarınızı ve kardeşlerinizi veliler edinmeyin ve sizden kim onları veli tanırsa işte zalimler onlardır
-**(24)** 
-**(25)** 
+**(24)** de ki eğer babalarınız ve oğullarınız ve kardeşleriniz ve eşleriniz ve hısım akrabanız ve kazandığınız mallar ve düşmesinden korktuğunuz ticaret(iniz) ve hoşlandığınız konutlar size Allah'tan ve Elçisi(nden) ve O’nun yolunda cihad etmekten daha sevgili (ise) o halde Allah emrini getirinceye kadar gözetleyin ve Allah yoldan çıkmış topluluğu (doğru) yola iletmez
+**(25)** andolsun Huneyn gününde ve birçok yerlerde Allah size yardım etmişti, hani çokluğunuz sizi böbürlendirmişti fakat size hiçbir yarar sağlamamıştı ve bütün genişliğine rağmen yeryüzü başınıza dar gelmişti nihayet gerisin geri dönmüştünüz
 **(26)** 
 **(27)** 
 **(28)** 
