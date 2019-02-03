@@ -35,7 +35,7 @@ tag:
 **(23)** ey inanan(lar) kimseler, eğer imana karşı küfrü seviyorlarsa babalarınızı ve kardeşlerinizi veliler edinmeyin ve sizden kim onları veli tanırsa işte zalimler onlardır
 **(24)** de ki eğer babalarınız ve oğullarınız ve kardeşleriniz ve eşleriniz ve hısım akrabanız ve kazandığınız mallar ve düşmesinden korktuğunuz ticaret(iniz) ve hoşlandığınız konutlar size Allah'tan ve Elçisi(nden) ve O’nun yolunda cihad etmekten daha sevgili (ise) o halde Allah emrini getirinceye kadar gözetleyin ve Allah yoldan çıkmış topluluğu (doğru) yola iletmez
 **(25)** andolsun Huneyn gününde ve birçok yerlerde Allah size yardım etmişti, hani çokluğunuz sizi böbürlendirmişti fakat size hiçbir yarar sağlamamıştı ve bütün genişliğine rağmen yeryüzü başınıza dar gelmişti nihayet gerisin geri dönmüştünüz
-**(26)** 
+**(26)** sonra Allah Elçisinin üzerine ve mü’minlerin üzerine sekinetini indirdi ve sizin görmediğiniz askerler indirdi ve kafir(lere) olanlara azab etti, kafirlerin cezası işte budur
 **(27)** 
 **(28)** 
 **(29)** 
