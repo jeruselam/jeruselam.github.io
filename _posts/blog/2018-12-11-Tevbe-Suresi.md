@@ -46,7 +46,7 @@ tag:
 **(34)** ey inananlar kimseler şüphesiz hahamlardan ve rahipler(den) birçoğu haksızlıkla insanların mallarını yerler ve Allah yolundan çevirirler, altın ve gümüşü yığan ve Allah yolunda onları harcamayanlar; işte onlara acıklı bir azabı müjdele.
 **(35)** O gün cehennem ateşi içinde üzerleri kızdırılır, bunlarla onların alınları ve yanları ve sırtları dağlanır, nefisleriniz için yığdıklarınız, [yığdıkları]şeyler (işte) budur, [hazine]yığıyor(lar) [yığmış]olduğunuz şeyleri o halde tadın
 **(36)** şüphesiz Allah’ın katında ayların sayısı gökleri ve yeri yarattığı günden beri Allah’ın kitabında on (iki) aydır, bunlardan dördü haram(ay)lardır, doğru din işte budur, (o aylar) içinde kendinize zulmetmeyin ve nasıl sizinle topyekun savaşıyorlarsa ortak koşanlarla topyekun savaşın ve bilin ki şüphesiz Allah korunanlarla beraberdir
-**(37)** 
+**(37)** şüphesiz ertelemek küfürde daha ileri gitmektir, onunla inkar eden(ler), [kafir]kimseler saptırılır, Allah’ın haram kıldığını helal yapsınlar, Allah’ın haram kıldığının sayısı denk gelsin diye onu bir yıl helal sayarlar ve bir yıl haram sayarlar, yaptıkları işin kötülüğü kendilerine süslü gösterildi ve Allah kafirler toplumuna yol göstermez
 **(38)** 
 **(39)** 
 **(40)** 
