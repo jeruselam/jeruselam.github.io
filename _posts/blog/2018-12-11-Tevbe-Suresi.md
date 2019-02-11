@@ -38,7 +38,7 @@ tag:
 **(26)** sonra Allah Elçisinin üzerine ve mü’minlerin üzerine sekinetini indirdi ve sizin görmediğiniz askerler indirdi ve kafir(lere) olanlara azab etti, kafirlerin cezası işte budur
 **(27)** sonra Allah bunun ardından dilediği kimsenin tevbesini kabul eder ve Allah bağışlayandır esirgeyendir
 **(28)** ey inanan(lar) kimseler ortak koşanlar şüphesiz pisliktir, bu yıllarından sonra artık Mescid-i Haram’a yaklaşmasınlar ve eğer yoksulluğa düşmekten korkarsanız,  Allah eğer dilerse kendi lutfundan  sizi yakında zengin edecektir, şüphesiz Allah bilendir, hikmet sahibidir.
-**(29)** 
+**(29)** onlar küçülerek (boyun eğerek) elleriyle cizye verecekleri zamana kadar kendilerine Kitap verilenlerden gerçek[Haḳḳ] dini din edinmeyenlerle ve ne ki Allah ve Elçisi haram kıldı; haram saymayanlarla ve ahiret gününe ve Allah’a inanmayan kimselerle savaşın 
 **(30)** 
 **(31)** 
 **(32)** 
