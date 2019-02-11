@@ -44,7 +44,7 @@ tag:
 **(32)** Allah’ın nurunu ağızlariyle söndürmek istiyorlar şayet kafirler hoşlanmasa da Allah nurunu tamamlamaktan başkasını halbuki istemez
 **(33)** O ki şayet ortak koşanlar hoşlanmasa da bütün din(ler)in  üstüne onu çıkarsın diye hak din ile ve hidayetle Elçisini gönderdi
 **(34)** ey inananlar kimseler şüphesiz hahamlardan ve rahipler(den) birçoğu haksızlıkla insanların mallarını yerler ve Allah yolundan çevirirler, altın ve gümüşü yığan ve Allah yolunda onları harcamayanlar; işte onlara acıklı bir azabı müjdele.
-**(35)** 
+**(35)** O gün cehennem ateşi içinde üzerleri kızdırılır, bunlarla onların alınları ve yanları ve sırtları dağlanır, nefisleriniz için yığdıklarınız, [yığdıkları]şeyler (işte) budur, [hazine]yığıyor(lar) [yığmış]olduğunuz şeyleri o halde tadın
 **(36)** 
 **(37)** 
 **(38)** 
