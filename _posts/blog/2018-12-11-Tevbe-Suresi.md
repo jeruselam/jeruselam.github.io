@@ -43,7 +43,7 @@ tag:
 **(31)** hahamlarını ve rahiplerini ve Meryem oğlu Mesih’i de Allah’tan ayrı rabler edindiler, oysa tek olan bir ilaha ibadet etmeleri dışında emredilmemişti, O’ndan başka tanrı[ilāh] yoktur, ortak koştukları şeylerden O [şanı yüce]münezzehtir 
 **(32)** Allah’ın nurunu ağızlariyle söndürmek istiyorlar şayet kafirler hoşlanmasa da Allah nurunu tamamlamaktan başkasını halbuki istemez
 **(33)** O ki şayet ortak koşanlar hoşlanmasa da bütün din(ler)in  üstüne onu çıkarsın diye hak din ile ve hidayetle Elçisini gönderdi
-**(34)** 
+**(34)** ey inananlar kimseler şüphesiz hahamlardan ve rahipler(den) birçoğu haksızlıkla insanların mallarını yerler ve Allah yolundan çevirirler, altın ve gümüşü yığan ve Allah yolunda onları harcamayanlar; işte onlara acıklı bir azabı müjdele.
 **(35)** 
 **(36)** 
 **(37)** 
