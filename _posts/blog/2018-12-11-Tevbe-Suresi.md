@@ -42,7 +42,7 @@ tag:
 **(30)** ve Yahudiler dediler ki Uzeyr Allah’ın oğludur ve Hıristiyanlar Mesih Allah’ın oğludur dediler, bu onların ağızlarıyla (geveledikleri) sözleridir, önceden inkar edenlerin, [kafir]kimselerin sözlerine benzetiyorlar, Allah onları kahretsin nasıl da çevriliyorlar
 **(31)** hahamlarını ve rahiplerini ve Meryem oğlu Mesih’i de Allah’tan ayrı rabler edindiler, oysa tek olan bir ilaha ibadet etmeleri dışında emredilmemişti, O’ndan başka tanrı[ilāh] yoktur, ortak koştukları şeylerden O [şanı yüce]münezzehtir 
 **(32)** Allah’ın nurunu ağızlariyle söndürmek istiyorlar şayet kafirler hoşlanmasa da Allah nurunu tamamlamaktan başkasını halbuki istemez
-**(33)** 
+**(33)** O ki şayet ortak koşanlar hoşlanmasa da bütün din(ler)in  üstüne onu çıkarsın diye hak din ile ve hidayetle Elçisini gönderdi
 **(34)** 
 **(35)** 
 **(36)** 
