@@ -40,7 +40,7 @@ tag:
 **(28)** ey inanan(lar) kimseler ortak koşanlar şüphesiz pisliktir, bu yıllarından sonra artık Mescid-i Haram’a yaklaşmasınlar ve eğer yoksulluğa düşmekten korkarsanız,  Allah eğer dilerse kendi lutfundan  sizi yakında zengin edecektir, şüphesiz Allah bilendir, hikmet sahibidir.
 **(29)** onlar küçülerek (boyun eğerek) elleriyle cizye verecekleri zamana kadar kendilerine Kitap verilenlerden gerçek[Haḳḳ] dini din edinmeyenlerle ve ne ki Allah ve Elçisi haram kıldı; haram saymayanlarla ve ahiret gününe ve Allah’a inanmayan kimselerle savaşın 
 **(30)** ve Yahudiler dediler ki Uzeyr Allah’ın oğludur ve Hıristiyanlar Mesih Allah’ın oğludur dediler, bu onların ağızlarıyla (geveledikleri) sözleridir, önceden inkar edenlerin, [kafir]kimselerin sözlerine benzetiyorlar, Allah onları kahretsin nasıl da çevriliyorlar
-**(31)** 
+**(31)** hahamlarını ve rahiplerini ve Meryem oğlu Mesih’i de Allah’tan ayrı rabler edindiler, oysa tek olan bir ilaha ibadet etmeleri dışında emredilmemişti, O’ndan başka tanrı[ilāh] yoktur, ortak koştukları şeylerden O [şanı yüce]münezzehtir 
 **(32)** 
 **(33)** 
 **(34)** 
