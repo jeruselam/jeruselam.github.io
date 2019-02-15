@@ -60,7 +60,7 @@ tag:
 **(48)** andolsun ki önceden de fitne çıkarmak istediler ve nice işleri sana ters çevirdiler ve onlar istemedikleri halde nihayet hak geldi Allah’ın emri galebe çaldı 
 **(49)** ve içlerinden [kimi]kimseler, bana izin ver ve beni fitneye düşürme derler iyi bilinki onlar zaten fitneye düşmüşlerdir ve şüphesiz cehennem kafirleri kuşatacaktır
 **(50)** eğer sana bir iyilik ulaşsa onların hoşuna gitmez ve eğer sana bir kötülük ulaşsa muhakkak biz önceden tedbirimizi almıştık derler döner(gider)ler ve onlar sevinirler
-**(51)** 
+**(51)** de ki bizim için Allah’ın yazdığı şeyden başkası bize ulaşmaz bizim sahibimiz O’dur, inananlar Allah’a dayansınlar
 **(52)** 
 **(53)** 
 **(54)** 
