@@ -48,8 +48,8 @@ tag:
 **(36)** şüphesiz Allah’ın katında ayların sayısı gökleri ve yeri yarattığı günden beri Allah’ın kitabında on (iki) aydır, bunlardan dördü haram(ay)lardır, doğru din işte budur, (o aylar) içinde kendinize zulmetmeyin ve nasıl sizinle topyekun savaşıyorlarsa ortak koşanlarla topyekun savaşın ve bilin ki şüphesiz Allah korunanlarla beraberdir
 **(37)** şüphesiz ertelemek küfürde daha ileri gitmektir, onunla inkar eden(ler), [kafir]kimseler saptırılır, Allah’ın haram kıldığını helal yapsınlar, Allah’ın haram kıldığının sayısı denk gelsin diye onu bir yıl helal sayarlar ve bir yıl haram sayarlar, yaptıkları işin kötülüğü kendilerine süslü gösterildi ve Allah kafirler toplumuna yol göstermez
 **(38)** ey inanan(lar), [iman eden]kimseler size Allah yolunda savaşa çıkın dendiği zaman size ne oldu ki? yere çakılıp kaldınız, ahirete karşılık dünya hayatına razı mı oldunuz? ama ahirete göre dünya hayatının geçimi pek azdır
-**(39)** 
-**(40)** 
+**(39)** eğer topluca (savaşa) çıkmazsanız acıklı bir azapla size azabeder ve yerinize sizden başka bir topluluk getirir O’na hiçbir zarar veremezsiniz ve Allah her şeyi yapabilendir
+**(40)** eğer siz ona yardım etmezseniz iyi bilin ki Allah ona yardım etmişti, inkar eden(ler) kimseler hani (Mekke’den) çıkardıklarında ikisi mağarada iken iki kişiden ikincisiydi hani arkadaşına üzülme diyordu şüphesiz Allah bizimle beraberdir (İşte o zaman) Allah onun üzerine sekinesini indirdi ve sizin görmediğiniz askerlerle onu destekledi ve inanmayan(ların) kimselerin sözünü alçak kıldı ve Allah’ın sözü ise o yüce olandır ve Allah daima üstündür, hüküm ve hikmet sahibidir
 **(41)** 
 **(42)** 
 **(43)** 
