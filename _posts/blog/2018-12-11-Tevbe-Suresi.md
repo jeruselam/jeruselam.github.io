@@ -57,9 +57,9 @@ tag:
 **(45)** kalbleri kuşkuya düşen, şüpheleri içinde kendileri bocalayıp duranlar ve ahiret gününe ve Allah’a inanmayan kimseler ancak senden izin isterler
 **(46)** ve eğer çıkmak isteselerdi onun için bir hazırlık yaparladı fakat Allah davranışlarından hoşlanmadı ve onları durdurdu ve oturanlarla beraber oturun denildi
 **(47)** eğer sizin içinizde çıkmış olsalardı bozgunculuktan başka size bir katkıları olmazdı ve sizi fitneye düşürmek için aranıza hemen sokulurlardı ve içinizde de onlara kulak verenler vardı, Allah zalimleri bilir
-**(48)** 
-**(49)** 
-**(50)** 
+**(48)** andolsun ki önceden de fitne çıkarmak istediler ve nice işleri sana ters çevirdiler ve onlar istemedikleri halde nihayet hak geldi Allah’ın emri galebe çaldı 
+**(49)** ve içlerinden [kimi]kimseler, bana izin ver ve beni fitneye düşürme derler iyi bilinki onlar zaten fitneye düşmüşlerdir ve şüphesiz cehennem kafirleri kuşatacaktır
+**(50)** eğer sana bir iyilik ulaşsa onların hoşuna gitmez ve eğer sana bir kötülük ulaşsa muhakkak biz önceden tedbirimizi almıştık derler döner(gider)ler ve onlar sevinirler
 **(51)** 
 **(52)** 
 **(53)** 
