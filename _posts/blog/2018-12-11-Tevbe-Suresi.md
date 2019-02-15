@@ -49,14 +49,14 @@ tag:
 **(37)** şüphesiz ertelemek küfürde daha ileri gitmektir, onunla inkar eden(ler), [kafir]kimseler saptırılır, Allah’ın haram kıldığını helal yapsınlar, Allah’ın haram kıldığının sayısı denk gelsin diye onu bir yıl helal sayarlar ve bir yıl haram sayarlar, yaptıkları işin kötülüğü kendilerine süslü gösterildi ve Allah kafirler toplumuna yol göstermez
 **(38)** ey inanan(lar), [iman eden]kimseler size Allah yolunda savaşa çıkın dendiği zaman size ne oldu ki? yere çakılıp kaldınız, ahirete karşılık dünya hayatına razı mı oldunuz? ama ahirete göre dünya hayatının geçimi pek azdır
 **(39)** eğer topluca (savaşa) çıkmazsanız acıklı bir azapla size azabeder ve yerinize sizden başka bir topluluk getirir O’na hiçbir zarar veremezsiniz ve Allah her şeyi yapabilendir
-**(40)** eğer siz ona yardım etmezseniz iyi bilin ki Allah ona yardım etmişti, inkar eden(ler) kimseler hani (Mekke’den) çıkardıklarında ikisi mağarada iken iki kişiden ikincisiydi hani arkadaşına üzülme diyordu şüphesiz Allah bizimle beraberdir (İşte o zaman) Allah onun üzerine sekinesini indirdi ve sizin görmediğiniz askerlerle onu destekledi ve inanmayan(ların) kimselerin sözünü alçak kıldı ve Allah’ın sözü ise o yüce olandır ve Allah daima üstündür, hüküm ve hikmet sahibidir
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
+**(40)** eğer siz ona yardım etmezseniz iyi bilin ki Allah ona yardım etmişti, inkar eden(ler) kimseler hani (Mekke’den) çıkardıklarında ikisi mağarada iken iki kişiden ikincisiydi hani arkadaşına üzülme diyordu şüphesiz Allah bizimle beraberdir (İşte o zaman) Allah onun üzerine sekinesini indirdi ve sizin görmediğiniz askerlerle onu destekledi ve inanmayan(ların) kimselerin sözünü alçak kıldı ve Allah’ın sözü ise o yüce olandır ve Allah daima üstündür, hüküm ve hikmet sahibidir.
+**(41)** (gerek) hafif olarak (gerek) ağır olarak savaşa çıkın ve mallarınızla ve canlarınızla Allah yolunda cihad edin eğer biliyor iseniz bu sizin için daha hayırlıdır
+**(42)** eğer yakın bir menfaat olsaydı ve orta bir yolculuk elbette sana tabi olurlardı fakat aşılacak mesafe kendilerine uzak geldi bir de Allah’a yemin edecekler eğer gücümüz yetseydi sizinle beraber çıkardık (diye) kendilerini mahvediyorlar ve Allah onların yalancı olduklarını biliyor
+**(43)** Allah seni affetsin, doğru söyleyen(ler), [sadık]kimseler sana iyice belli olana ve yalan söyleyenler öğreninceye kadar onlara niçin izin verdin 
+**(44)** mallarıyla ve canlarıyla cihadetmek için Allah’a ve ahiret gününe inanan(lar), [iman eden]kimseler senden izin istemezler ve Allah [haram ve günahtan]korunanları bilir
+**(45)** kalbleri kuşkuya düşen, şüpheleri içinde kendileri bocalayıp duranlar ve ahiret gününe ve Allah’a inanmayan kimseler ancak senden izin isterler
+**(46)** ve eğer çıkmak isteselerdi onun için bir hazırlık yaparladı fakat Allah davranışlarından hoşlanmadı ve onları durdurdu ve oturanlarla beraber oturun denildi
+**(47)** eğer sizin içinizde çıkmış olsalardı bozgunculuktan başka size bir katkıları olmazdı ve sizi fitneye düşürmek için aranıza hemen sokulurlardı ve içinizde de onlara kulak verenler vardı, Allah zalimleri bilir
 **(48)** 
 **(49)** 
 **(50)** 
