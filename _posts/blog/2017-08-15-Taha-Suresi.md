@@ -122,7 +122,7 @@ tag:
 **(110)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı O bilir ve O’nu bilgice onlar ise kavrayamazlar
 **(111)** bütün yüzler[sebepler] o diri[Hayy] olana ve herşeye hakim[Kayyûm] olana boyun eğmiştir ve muhakkak zulüm yüklenen kimse perişan olmuştur
 **(112)** ve iyi olan işlerden kim yaparsa ve o inanırsa artık korkmaz zulümden ne de hakkının çiğnenmesinden
-**(113)** ve Arapça bir Kur’an olarak böyle sana onu indirdik ve onda tehditleri türlü biçimlere açıkladık umulur ki korunurlar yahut (Kur’an) onlara bir hatırlama yaptırır
+**(113)** ve böyle Arapça bir Kur’an olarak sana onu indirdik ve onda tehditleri türlü biçimlere açıkladık umulur ki korunurlar yahut (Kur’an) onlara bir hatırla[t]ma yaptırır
 **(114)** gerçek[Haḳḳ] hükümdar[Melik] olan Allah yücedir vahyedilmesi sana tamamlansın diye önce[hiçbir tecrübeye dayanmadan yalnız akıl ile] Kur’an’ı (okumaya) asla acele etme ve de ki Rabbim ilmimi artır bana
 **(115)** ve andolsun önceden Adem’e biz emretmiştik fakat unuttu ve onda bir azim biz bulmadık
 **(116)** ve hani meleklere demiştik Adem’e secede edin secde ettiler yalnız İblis[şeytan] diretti
