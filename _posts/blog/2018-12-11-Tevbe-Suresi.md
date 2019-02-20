@@ -64,7 +64,7 @@ tag:
 **(52)** de ki iki iyilikten yalnız birini bizim için gözetiyor[durup bekliyor] musunuz? ama biz Allah’ın kendi tarafından veya bizim ellerimizle size bir azab ulaştırmasını gözetiyoruz haydi gözetin biz de sizinle beraber gözetenleriz
 **(53)** de ki gönüllü veya gönülsüz sadaka verin sizden kabul edilmeyecektir çünkü siz yoldan çıkan bir kavim oldunuz
 **(54)** ve sadakalarının kendilerinden kabul edilmesine engel olan sadece şudur; onların Allah’ı ve elçisini inkar etmeleridir ve onlar[ın] istemeye istemeye [olması] dışında sadaka vermemeleri ve onlar[ın] üşene üşene [olması] dışında namaza gelmemeleridir.
-**(55)** 
+**(55)** onların malları ne de evladları seni imrendirmesin ve şüphesiz Allah dünya hayatında bunlarla onlara azabetmeyi ve onlar kafir olarak canlarının çıkmasını istiyor
 **(56)** 
 **(57)** 
 **(58)** 
