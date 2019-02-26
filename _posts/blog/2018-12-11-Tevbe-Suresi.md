@@ -65,8 +65,8 @@ tag:
 **(53)** de ki gönüllü veya gönülsüz sadaka verin sizden kabul edilmeyecektir çünkü siz yoldan çıkan bir kavim oldunuz
 **(54)** ve sadakalarının kendilerinden kabul edilmesine engel olan sadece şudur; onların Allah’ı ve elçisini inkar etmeleridir ve onlar[ın] istemeye istemeye [olması] dışında sadaka vermemeleri ve onlar[ın] üşene üşene [olması] dışında namaza gelmemeleridir.
 **(55)** onların malları ne de evladları seni imrendirmesin ve şüphesiz Allah dünya hayatında bunlarla onlara azabetmeyi ve onlar kafir olarak canlarının çıkmasını istiyor
-**(56)** 
-**(57)** 
+**(56)** ve muhakkak onlar Allah’a sizden olduklarına yemin ediyorlar oysa onlar sizden değiller fakat onlar korkak bir topluluktur.
+**(57)** eğer sığınacak bir yer yahut mağaralar ya da sokulacak bir delik bulsalardı ve hemen onlar oraya doğru koşarlardı
 **(58)** 
 **(59)** 
 **(60)** 
