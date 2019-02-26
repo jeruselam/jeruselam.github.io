@@ -69,7 +69,7 @@ tag:
 **(57)** eğer sığınacak bir yer yahut mağaralar ya da sokulacak bir delik bulsalardı ve hemen onlar oraya doğru koşarlardı
 **(58)** ve sadakalar hakkında onlardan kimi de sana dil uzatır eğer kendilerine pay verilse onlardan hoşlanırlar ve eğer onlardan kendilerine pay verilmezse onlar kızarlar
 **(59)** ve Allah’ın ve Elçisinin kendilerine verdiğine, [onlara verilen]şeye razı olsalardı ve Allah bol lutfundan ve Elçisi de yakında bize verecek, biz sadece Allah’a rağbet ederiz, Allah bize yeter deselerdi
-**(60)** sadakalar (zekatlar) Allah’tan bir farz olarak şüphesiz ancak fakirlere ve düşkünlere ve onlar üzerinde çalışan memurlara ve kalbleri ısındırılacak olanlara ve cariyelere[genç kadın hizmetlilere] ve borçlulara ve Allah yoluna ve yolcuya mahsustur 
+**(60)** sadakalar (zekatlar) Allah’tan bir farz olarak şüphesiz ancak fakirlere ve düşkünlere ve onlar üzerinde çalışan memurlara ve kalbleri ısındırılacak olanlara ve cariyelere[genç kadın hizmetlilere] ve borçlulara ve Allah yoluna ve yolcuya mahsustur ve [Alîmun hakîm]Allah bilendir, hüküm ve hikmet sahibidir
 **(61)** 
 **(62)** 
 **(63)** 
