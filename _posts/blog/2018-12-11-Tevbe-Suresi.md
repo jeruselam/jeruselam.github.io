@@ -67,7 +67,7 @@ tag:
 **(55)** onların malları ne de evladları seni imrendirmesin ve şüphesiz Allah dünya hayatında bunlarla onlara azabetmeyi ve onlar kafir olarak canlarının çıkmasını istiyor
 **(56)** ve muhakkak onlar Allah’a sizden olduklarına yemin ediyorlar oysa onlar sizden değiller fakat onlar korkak bir topluluktur.
 **(57)** eğer sığınacak bir yer yahut mağaralar ya da sokulacak bir delik bulsalardı ve hemen onlar oraya doğru koşarlardı
-**(58)** 
+**(58)** ve sadakalar hakkında onlardan kimi de sana dil uzatır eğer kendilerine pay verilse onlardan hoşlanırlar ve eğer onlardan kendilerine pay verilmezse onlar kızarlar
 **(59)** 
 **(60)** 
 **(61)** 
