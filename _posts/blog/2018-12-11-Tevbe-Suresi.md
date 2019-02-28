@@ -73,7 +73,7 @@ tag:
 **(61)** onlar içlerinden bazıları[dır] ki Peygamberi incitirler ve O bir kulaktır derler, de ki; sizin için hayır kulağıdır, Allah’a inanır ve mü’minlere inanır ve sizden inanan(lar), [mü’min]kimseler için bir rahmettir ve Allah’ın Elçisini incitenlere, [eziyet eden]kimselere acıklı bir azab vardır
 **(62)** ve gönlünüzü hoş etmek için size (gelip) Allah’a yemin ederler  halbuki inanmış olsalardı Allah’ı ve Resulünü hoşnud etmeleri daha uygundu
 **(63)** bilmediler mi ki muhakkak kim Allah’a ve Elçisine karşı koymağa kalkarsa gerçekten onun için içinde sürekli kalacağı cehennem ateşi vardır, büyük rezillik işte budur
-**(64)** 
+**(64)** münafıklar kalbleri içinde olanı haber verecek bir surenin kendileri hakkında indirileceğinden çekiniyorlar de ki siz alay edin çekindiğiniz şeyi şüphesiz Allah ortaya çıkaracaktır
 **(65)** 
 **(66)** 
 **(67)** 
