@@ -75,9 +75,9 @@ tag:
 **(63)** bilmediler mi ki muhakkak kim Allah’a ve Elçisine karşı koymağa kalkarsa gerçekten onun için içinde sürekli kalacağı cehennem ateşi vardır, büyük rezillik işte budur
 **(64)** münafıklar kalbleri içinde olanı haber verecek bir surenin kendileri hakkında indirileceğinden çekiniyorlar de ki siz alay edin çekindiğiniz şeyi şüphesiz Allah ortaya çıkaracaktır
 **(65)** ve eğer onlara sorsan derler ki biz sadece lafa dalmıştık ve şakalaşıyorduk de ki Allah ile mi? ve O’nun Elçisi ile ve O’nun ayetleriyle [mi?] siz alay ediyordunuz
-**(66)** 
-**(67)** 
-**(68)** 
+**(66)** hiç özür dilemeyin andolsun [īmān ederek]inandıktan sonra siz inkar ettiniz eğer sizden bir kısmını affetsek bile suç işlediklerinden dolayı bir kısmına da azab edeceğiz
+**(67)** münafık erkekler ve münafık kadınlar onların bir kısmı diğerlerindendir kötülüğü emrederler ve iyilikten menederler ve ellerini sıkı tutarlar, Allah’ı unuttular O da onları unuttu gerçekten Münafıklar, yoldan çıkanlar işte onlardır
+**(68)** Allah münafık erkeklere ve münafık kadınlara ve kafirlere içinde ebedi kalacakları cehennem ateşini va’detmiştir, O onlara yeter ve Allah onları la’netlemiştir ve onlar için sürekli bir azab vardır
 **(69)** 
 **(70)** 
 **(71)** 
