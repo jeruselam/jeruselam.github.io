@@ -74,7 +74,7 @@ tag:
 **(62)** ve gönlünüzü hoş etmek için size (gelip) Allah’a yemin ederler  halbuki inanmış olsalardı Allah’ı ve Resulünü hoşnud etmeleri daha uygundu
 **(63)** bilmediler mi ki muhakkak kim Allah’a ve Elçisine karşı koymağa kalkarsa gerçekten onun için içinde sürekli kalacağı cehennem ateşi vardır, büyük rezillik işte budur
 **(64)** münafıklar kalbleri içinde olanı haber verecek bir surenin kendileri hakkında indirileceğinden çekiniyorlar de ki siz alay edin çekindiğiniz şeyi şüphesiz Allah ortaya çıkaracaktır
-**(65)** 
+**(65)** ve eğer onlara sorsan derler ki biz sadece lafa dalmıştık ve şakalaşıyorduk de ki Allah ile mi? ve O’nun Elçisi ile ve O’nun ayetleriyle [mi?] siz alay ediyordunuz
 **(66)** 
 **(67)** 
 **(68)** 
