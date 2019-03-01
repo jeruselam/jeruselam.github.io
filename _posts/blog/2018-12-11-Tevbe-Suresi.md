@@ -78,7 +78,7 @@ tag:
 **(66)** hiç özür dilemeyin andolsun [īmān ederek]inandıktan sonra siz inkar ettiniz eğer sizden bir kısmını affetsek bile suç işlediklerinden dolayı bir kısmına da azab edeceğiz
 **(67)** münafık erkekler ve münafık kadınlar onların bir kısmı diğerlerindendir kötülüğü emrederler ve iyilikten menederler ve ellerini sıkı tutarlar, Allah’ı unuttular O da onları unuttu gerçekten Münafıklar, yoldan çıkanlar işte onlardır
 **(68)** Allah münafık erkeklere ve münafık kadınlara ve kafirlere içinde ebedi kalacakları cehennem ateşini va’detmiştir, O onlara yeter ve Allah onları la’netlemiştir ve onlar için sürekli bir azab vardır
-**(69)** mal ve evladça daha çok ve kuvvetçe sizden daha yaman idiler, onlar sizden öncekiler gibi kendi paylarına düşenle zevklerine baktılar, siz de [boş batıl alakasız uygunsuz şeylere]dalanlar gibi daldınız ve sizden öncekilerin kimselerin kendi paylarına düşenle zevklerine baktıkları gibi payınıza düşenle zevkinize baktınız, onlar dünyada ve ahirette yaptıkları boşa gidenlerdir ve ziyana uğrayanlar işte onlardır
+**(69)** sizden öncekiler [den geri kalanı]gibi mal ve evladça daha çok ve kuvvetçe sizden daha yaman idiler, onlar kendi paylarına düşenle zevklerine baktılar, siz de [boş batıl alakasız uygunsuz şeylere]dalanlar gibi daldınız ve sizden öncekilerin, [önceki]kimselerin kendi paylarına düşenle zevklerine baktıkları gibi payınıza düşenle zevkinize baktınız, onlar dünyada ve ahirette yaptıkları boşa gidenlerdir ve ziyana uğrayanlar işte onlardır
 **(70)** 
 **(71)** 
 **(72)** 
