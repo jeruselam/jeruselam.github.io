@@ -81,7 +81,7 @@ tag:
 **(69)** sizden öncekiler [den geri kalanı]gibi mal ve evladça daha çok ve kuvvetçe sizden daha yaman idiler, onlar kendi paylarına düşenle zevklerine baktılar, siz de [boş batıl alakasız uygunsuz şeylere]dalanlar gibi daldınız ve sizden öncekilerin, [önceki]kimselerin kendi paylarına düşenle zevklerine baktıkları gibi payınıza düşenle zevkinize baktınız, onlar dünyada ve ahirette yaptıkları boşa gidenlerdir ve ziyana uğrayanlar işte onlardır
 **(70)** kendilerinden öncekilerin, [önceki]kimselerin Nuh ve Ad ve Semud kavminin ve İbrahim kavminin ve Medyen halkının ve yerlebir olanların haberi onlara gelmedi mi? onlara [rusul]elçileri açık deliller getirmişti, Allah onlara zulmediyor değildi fakat onlar kendi kendilerine zulmediyorlardı
 **(71)** inanan erkekler ve inanan kadınlar kimisi kimisinin velisidirler, iyiliği emrederler ve kötülükten men’ederler ve namazı kılarlar ve zekatı verirler ve Allah’a ve Elçisine ita’at ederler, Alah işte onlara rahmet edecektir, şüphesiz Allah [azîzun hakîm]daima üstündür, hüküm ve hikmetsahibidir
-**(72)** 
+**(72)** Allah inanan erkeklere ve inanan kadınlara içinde ebedi kalacakları altlarından ırmaklar akan cennetler[içinde mekanlar] ve Adn cennetleri içinde güzel meskenler ve Allah’ın razı olması hepsinden büyüktür, işte büyük başarı budur
 **(73)** 
 **(74)** 
 **(75)** 
