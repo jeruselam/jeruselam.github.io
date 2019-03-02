@@ -41,7 +41,7 @@ tag:
 **(29)** o halde bizi anmaktan yüz çeviren ve dünya hayatından başka bir şey istemeyen kimseden yüz çevir,
 **(30)** onların bilgiden erişebilecekleri işte budur, şüphesiz Rabbin, O yolundan sapan kimseyi iyi bilir ve O yola gelen kimseyi iyi bilir,	
 **(31)** kötülük eden(leri) kimseleri yaptıklarıyle cezalandırsın diye ve  güzel davranan(ları) kimseleri güzellikle mükafatlandırsın diye	göklerde bulunan herşey ve yerde bulunan ne varsa Allah’ındır, 
-**(32)** ki onlar günahın büyüklerinden ve küçük hatalar dışında çirkin işlerden kaçınırlar, şüphesiz Rabbinin affı geniştir, topraktan sizi inşa ettiği zaman ve zaman, siz annelerinizin karınlarında cenin halinde iken, O sizi daha iyi bilir, artık kendinizi övüp yüceltmeyin, O korunan kimseyi daha iyi bilir,
+**(32)** ki onlar günahın büyüklerinden ve küçük hatalar dışında çirkin işlerden kaçınırlar, şüphesiz Rabbinin affı geniştir, topraktan sizi inşa ettiği zaman ve siz annelerinizin karınlarında cenin halinde iken[o]zaman, sizi, O daha iyi bilir, artık kendinizi övüp yüceltmeyin, korunan kimseyi, O daha iyi bilir
 **(33)** arkasını dönen kimseyi gördün mü?
 **(34)** Ve azıcık vereni ve gerisini elinde tutanı,
 **(35)** gayb’ın bilgisi kendi yanında mı? ve o (mu?) görüyor,
