@@ -84,9 +84,9 @@ tag:
 **(72)** Allah inanan erkeklere ve inanan kadınlara içinde ebedi kalacakları altlarından ırmaklar akan cennetler[içinde mekanlar] ve Adn cennetleri içinde güzel meskenler ve Allah’ın razı olması hepsinden büyüktür, işte büyük başarı budur
 **(73)**  ey [nebiy]peygamber kafirlerle ve münafıklarla cihadet ve onlara sert davran ve onların varacakları yer cehennemdir, ne kötü bir gidiş yeridir
 **(74)** söylemediklerine Allah’a yemin ediyorlar halbuki (o) küfür sözü söylediler ve İslam olduktan sonra inkar ettiler ve Allah ve Elçisi lutfiyle sırf kendilerini zengin etti diye öc almağa kalktılar ve başaramadıkları bir şeye yeltendiler eğer tevbe ederlerse kendileri için daha iyi olur yok eğer dönerlerse dünyada ve ahirette acıklı bir azapla Allah onlara azabedecektir, onların yeryüzünde hiçbir velisi ne de yardımcısı yoktur
-**(75)** 
-**(76)** 
-**(77)** 
+**(75)** ve onlardan kimileri Allah’a and[âhd] içtiler; eğer lutfundan bize verirse elbette sadaka vereceğiz ve yararlı insanlardan olacağız
+**(76)** ne zaman ki lutfundan onlara verdi,  O’na cimrilik ettiler ve onlar yüz çevirerek döndüler
+**(77)** (onlar)yalan söylüyor olduklarından dolayı ve verdikleri söz nedeniyle; Allah döndüklerinden dolayı kendisiyle karşılaşacakları güne kadar onların kalblerine [kalbleri]içine iki yüzlülük sokmuştur
 **(78)** 
 **(79)** 
 **(80)** 
