@@ -82,8 +82,8 @@ tag:
 **(70)** kendilerinden öncekilerin, [önceki]kimselerin Nuh ve Ad ve Semud kavminin ve İbrahim kavminin ve Medyen halkının ve yerlebir olanların haberi onlara gelmedi mi? onlara [rusul]elçileri açık deliller getirmişti, Allah onlara zulmediyor değildi fakat onlar kendi kendilerine zulmediyorlardı
 **(71)** inanan erkekler ve inanan kadınlar kimisi kimisinin velisidirler, iyiliği emrederler ve kötülükten men’ederler ve namazı kılarlar ve zekatı verirler ve Allah’a ve Elçisine ita’at ederler, Alah işte onlara rahmet edecektir, şüphesiz Allah [azîzun hakîm]daima üstündür, hüküm ve hikmetsahibidir
 **(72)** Allah inanan erkeklere ve inanan kadınlara içinde ebedi kalacakları altlarından ırmaklar akan cennetler[içinde mekanlar] ve Adn cennetleri içinde güzel meskenler ve Allah’ın razı olması hepsinden büyüktür, işte büyük başarı budur
-**(73)** 
-**(74)** 
+**(73)**  ey [nebiy]peygamber kafirlerle ve münafıklarla cihadet ve onlara sert davran ve onların varacakları yer cehennemdir, ne kötü bir gidiş yeridir
+**(74)** söylemediklerine Allah’a yemin ediyorlar halbuki (o) küfür sözü söylediler ve İslam olduktan sonra inkar ettiler ve Allah ve Elçisi lutfiyle sırf kendilerini zengin etti diye öc almağa kalktılar ve başaramadıkları bir şeye yeltendiler eğer tevbe ederlerse kendileri için daha iyi olur yok eğer dönerlerse dünyada ve ahirette acıklı bir azapla Allah onlara azabedecektir, onların yeryüzünde hiçbir velisi ne de yardımcısı yoktur
 **(75)** 
 **(76)** 
 **(77)** 
