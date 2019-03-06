@@ -88,7 +88,7 @@ tag:
 **(76)** ne zaman ki lutfundan onlara verdi,  O’na cimrilik ettiler ve onlar yüz çevirerek döndüler
 **(77)** (onlar)yalan söylüyor olduklarından dolayı ve verdikleri söz nedeniyle; Allah döndüklerinden dolayı kendisiyle karşılaşacakları güne kadar onların kalblerine [kalbleri]içine iki yüzlülük sokmuştur
 **(78)** bilmediler mi ki muhakkak Allah onların sırlarını ve gizli konuşmalarını bilir ve muhakkak Allah [allamul guyûb]gizlileri bilendir
-**(79)** 
+**(79)** güçlerinin yettiğinden başkasını bulamayan kimseleri ve sadakalar hususunda mü’minlerden gönülden verenleri çekiştiren kimseler; onlarla alay edenler, Allah onlarla alay etmiştir ve onlar için acıklı bir azab vardır
 **(80)** 
 **(81)** 
 **(82)** 
