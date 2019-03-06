@@ -87,7 +87,7 @@ tag:
 **(75)** ve onlardan kimileri Allah’a and[âhd] içtiler; eğer lutfundan bize verirse elbette sadaka vereceğiz ve yararlı insanlardan olacağız
 **(76)** ne zaman ki lutfundan onlara verdi,  O’na cimrilik ettiler ve onlar yüz çevirerek döndüler
 **(77)** (onlar)yalan söylüyor olduklarından dolayı ve verdikleri söz nedeniyle; Allah döndüklerinden dolayı kendisiyle karşılaşacakları güne kadar onların kalblerine [kalbleri]içine iki yüzlülük sokmuştur
-**(78)** 
+**(78)** bilmediler mi ki muhakkak Allah onların sırlarını ve gizli konuşmalarını bilir ve muhakkak Allah [allamul guyûb]gizlileri bilendir
 **(79)** 
 **(80)** 
 **(81)** 
