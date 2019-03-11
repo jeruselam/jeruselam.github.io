@@ -30,7 +30,7 @@ tag:
 **(18)** hayır batılın üstüne hakkı biz atarız derhal onun beynini parçalar o yok olur yakıştırdıklarınızdan ötürü size yazıklar olsun 
 **(19)** göklerde ve yerde olan kimseler ve O’nun yanındaki kimseler O’na kulluk etmekten büyüklenmez ve yorulmazlar
 **(20)** gece ve gündüz tesbih ederler hiç ara vermezler
-**(21)** yerden onları diriltecek yoksa tanrılar[ilâhlar] edindiler mi?
+**(21)** yoksa onları yerden diriltecek tanrılar[ilâhlar] mi? edindiler
 **(22)** eğer ikisinde Allah’tan başka tanrılar[ilâhlar] olsaydı ikisi de bozulup gitmişti arş’ın sahibi Allah nitelendirdikleri şeylerden yüce(münezzeh)dir 
 **(23)** yaptığı şeylerden O sorulmaz ama onlar sorulurlar
 **(24)** yoksa O’ndan başka tanrılar[ilâhlar] mı edindiler? de ki delilinizi getirin, benimle beraber olanların öğütü ve benden öncekilerin öğütü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (Hakk'tan) yüz çevirirler

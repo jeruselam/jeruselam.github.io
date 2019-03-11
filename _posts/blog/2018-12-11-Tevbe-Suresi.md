@@ -90,11 +90,11 @@ tag:
 **(78)** bilmediler mi ki muhakkak Allah onların sırlarını ve gizli konuşmalarını bilir ve muhakkak Allah [allamul guyûb]gizlileri bilendir
 **(79)** güçlerinin yettiğinden başkasını bulamayan kimseleri ve sadakalar hususunda mü’minlerden gönülden verenleri çekiştiren kimseler; onlarla alay edenler, Allah onlarla alay etmiştir ve onlar için acıklı bir azab vardır
 **(80)** onlar için (ister) af dile veya onlar için (ister) [af] dileme şayet onlar için yetmiş defa af dilesen Allah onları asla affetmez böyledir çünkü onlar Allah’ı ve Elçisini inkar ettiler ve Allah yoldan çıkan [fāsiḳ]kavmi [hidayete doğru]yola iletmez
-**(81)** kazanıyor oldukları şeylere karşılık çok ağlasınlar ve az artık gülsünler
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
+**(81)** geride kalanlar Allah’ın Peygamberine muhalefet ederek oturup kalmalarına sevindiler ve mallarıyle ve canlarıyle cihadetmekten hoşlanmadılar
+**(82)** kazanıyor oldukları şeylere karşılık çok ağlasınlar ve artık az gülsünler
+**(83)** eğer Allah seni onlardan bir topluluğa döndürürse, çıkmak için senden izin isterlerse de ki asla benimle çıkmayacaksınız ve asla düşmanla benimle beraber savaşmayacaksınız şüphesiz siz ilk önce oturmağa razı olmuştunuz öyle ise geri kalanlarla beraber oturun
+**(84)** ve asla onlardan ölen birinin üzerine namaz kılma ve onun kabri başında durma çünkü onlar Allah’ı ve Elçisini inkar ettiler ve onlar yoldan çıkmış [fāsiḳ]olarak öldüler
+**(85)** ve onların malları ve evladları seni imrendirmesin, bunlarla Allah dünyada onlara azabetmeyi ve canlarının onlar kafir olarak çıkmasını istiyor
 **(86)** 
 **(87)**
 **(88)** 
