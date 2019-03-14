@@ -103,7 +103,7 @@ tag:
 **(91)** Allah için ve Elçisi için öğüt verdikleri takdirde harcayacak bir şey bulamayan(lar), [imkan bulamayan]kimseler üzerine bir günah yoktur ve hastalar üzerine [bir günah]yoktur ve [güçsüz]zayıflar üzerine [bir günah]yoktur, iyilik edenlerin aleyhine hiçbir yol yoktur ve Allah[gafûrun rahîm] esirgeyendir, bağışlayandır
 **(92)** ve binek için sana geldikleri zaman sen, sizi üzerine bindirecek bir şey bulamıyorum deyince ve infak edecek bir şey bulamadıklarından [sıkıntıdan]dolayı kederli gözlerinden yaş akarak dönen kimselere (sorumluluk) yoktur 
 **(93)** onlar zengin oldukları halde senden izin isteyen kimselerin ancak (kınanmasına) yol vardır, onlar geride kalan kadınlarla beraber [kaçarak alçak] olmaya razı oldular ve Allah onların kalbleri üzerini mühürledi artık onlar bilmezler
-**(94)** 
+**(94)** onların yanına geri dönüp geldiğiniz zaman sizden özür dilerler de ki hiç özür dilemeyin asla size inanmayız muhakkak Allah sizin haberlerinizi bize bildirdi ve Allah ve Elçisi de yaptığınızı görecektir, sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, yaptıklarınız ne varsa O size haber verecek
 **(95)** 
 **(96)** 
 **(97)** 
