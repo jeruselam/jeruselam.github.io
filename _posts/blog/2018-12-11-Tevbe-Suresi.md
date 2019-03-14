@@ -100,7 +100,7 @@ tag:
 **(88)** fakat Elçi ve onunla beraber inanan(lar), [iman eden]kimseler mallarıyla ve canlarıyla cihadettiler, işte bütün hayırlar onlarındır ve işte [kurtuluşa]başarıya erenler onlardır
 **(89)** Allah onlar için içlerinde ebedi kalacakları altlarından ırmaklar akan cennetler hazırlamıştır, büyük başarı işte budur
 **(90)** ve kendilerine izin verilmesi için özür bahane eden bedevi Araplar geldiler ve Allah’a ve Elçisine yalan söyleyen(ler), [yalancı]kimseler oturdular, onlardan inkar eden(lere), [kafir]kimselere acıklı bir azab erişecektir
-**(91)**
+**(91)** Allah için ve Elçisi için öğüt verdikleri takdirde harcayacak bir şey bulamayan(lar), [imkan bulamayan]kimseler üzerine bir günah yoktur ve hastalar üzerine [bir günah]yoktur ve zayıflar üzerine [bir günah]yoktur
 **(92)** 
 **(93)** 
 **(94)** 
