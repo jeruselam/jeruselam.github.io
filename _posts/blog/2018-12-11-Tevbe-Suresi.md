@@ -99,7 +99,7 @@ tag:
 **(87)** geride kalan kadınlarla beraber [kaçarak alçak] olmaya razı oldular ve kalbleri üzeri mühürlendi artık onlar anlamazlar
 **(88)** fakat Elçi ve onunla beraber inanan(lar), [iman eden]kimseler mallarıyla ve canlarıyla cihadettiler, işte bütün hayırlar onlarındır ve işte [kurtuluşa]başarıya erenler onlardır
 **(89)** Allah onlar için içlerinde ebedi kalacakları altlarından ırmaklar akan cennetler hazırlamıştır, büyük başarı işte budur
-**(90)** 
+**(90)** ve kendilerine izin verilmesi için özür bahane eden bedevi Araplar geldiler ve Allah’a ve Elçisine yalan söyleyen(ler), [yalancı]kimseler oturdular, onlardan inkar eden(lere), [kafir]kimselere acıklı bir azab erişecektir
 **(91)**
 **(92)** 
 **(93)** 
