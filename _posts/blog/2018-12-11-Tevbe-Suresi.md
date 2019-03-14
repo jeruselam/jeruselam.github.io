@@ -97,7 +97,7 @@ tag:
 **(85)** ve onların malları ve evladları seni imrendirmesin, bunlarla Allah dünyada onlara azabetmeyi ve canlarının onlar kafir olarak çıkmasını istiyor
 **(86)** Allah’a inanın ve Elçisiyle beraber cihadedin diye bir sure indirildiği zaman servet sahibi olanlar senden izin istediler ve bizi bırak oturanlarla beraber olalım dediler
 **(87)** geride kalan kadınlarla beraber [kaçarak alçak] olmaya razı oldular ve kalbleri üzeri mühürlendi artık onlar anlamazlar
-**(88)** 
+**(88)** fakat Elçi ve onunla beraber inanan(lar), [iman eden]kimseler mallarıyla ve canlarıyla cihadettiler, işte bütün hayırlar onlarındır ve işte [kurtuluşa]başarıya erenler onlardır
 **(89)** 
 **(90)** 
 **(91)**
