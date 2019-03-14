@@ -98,7 +98,7 @@ tag:
 **(86)** Allah’a inanın ve Elçisiyle beraber cihadedin diye bir sure indirildiği zaman servet sahibi olanlar senden izin istediler ve bizi bırak oturanlarla beraber olalım dediler
 **(87)** geride kalan kadınlarla beraber [kaçarak alçak] olmaya razı oldular ve kalbleri üzeri mühürlendi artık onlar anlamazlar
 **(88)** fakat Elçi ve onunla beraber inanan(lar), [iman eden]kimseler mallarıyla ve canlarıyla cihadettiler, işte bütün hayırlar onlarındır ve işte [kurtuluşa]başarıya erenler onlardır
-**(89)** 
+**(89)** Allah onlar için içlerinde ebedi kalacakları altlarından ırmaklar akan cennetler hazırlamıştır, büyük başarı işte budur
 **(90)** 
 **(91)**
 **(92)** 
