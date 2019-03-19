@@ -110,7 +110,7 @@ tag:
 **(98)** ve bedevi Araplardan kimi var ki verdiği şeyi angarya[bir borç] sayar ve size belalar gelmesini gözetler, kötü bela onların başına gelsin, Allah[semîun alîm] işitendir, bilendir
 **(99)** bedevi Araplardan kimi de var ki Allah’a ve ahiret gününe inanır ve verdiği şeyi Allah katında yakınlaşmaya ve Elçinin du’alarını almaya vesile sayar, iyi bilin ki gerçekten o kendileri için yakınlık vesilesidir, Allah onları rahmetinin içine sokacaktır muhakkak ki Allah [gafûrun rahîm]bağışlayandır, esirgeyendir
 **(100)** Muhacirlerden ve Ensardan öne geçenlerden ilk olanlar ve güzelce ona tabi olan(lar) kimseler, Allah onlardan razı olmuştur, onlar da O’ndan razı olmuşlardır ve onlara içinde ebedi kalacakları altlarından ırmaklar akan cennetler hazırlamıştır, büyük kurtuluş işte budur
-**(101)** 
+**(101)** ve çevrenizdeki bedevi Araplardan münafıklar ve Medine halkından iki yüzlülüğe iyice alışmış[kafir kimseler] vardır
 **(102)** 
 **(103)** 
 **(104)** 
