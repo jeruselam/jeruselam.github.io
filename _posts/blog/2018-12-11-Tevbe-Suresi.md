@@ -104,10 +104,10 @@ tag:
 **(92)** ve binek için sana geldikleri zaman sen, sizi üzerine bindirecek bir şey bulamıyorum deyince ve infak edecek bir şey bulamadıklarından [sıkıntıdan]dolayı kederli gözlerinden yaş akarak dönen kimselere (sorumluluk) yoktur 
 **(93)** onlar zengin oldukları halde senden izin isteyen kimselerin ancak (kınanmasına) yol vardır, onlar geride kalan kadınlarla beraber [kaçarak alçak] olmaya razı oldular ve Allah onların kalbleri üzerini mühürledi artık onlar bilmezler
 **(94)** onların yanına geri dönüp geldiğiniz zaman sizden özür dilerler de ki hiç özür dilemeyin asla size inanmayız muhakkak Allah sizin haberlerinizi bize bildirdi ve Allah ve Elçisi de yaptığınızı görecektir, sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, yaptıklarınız ne varsa O size haber verecek
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
+**(95)** siz onların yanlarına geldiğiniz zaman kendilerinden vazgeçmeniz için Allah’a yemin edecekler, onlardan [yüz çevirip]vazgeçin çünkü onlar [iğrenç pisliktir]murdardır ve kazandıkları şeylerin cezası olarak varacakları yer cehennemdir
+**(96)** kendilerinden razı olmanız için size yemin ediyorlar eğer siz onlardan razı olsanız bile şüphesiz Allah yoldan çıkan [fāsiḳ]topluluktan razı olmaz
+**(97)** bedevi Araplar küfürde ve iki yüzlülükte daha yamandır ve Allah’ın Elçisine indirdiği şeylerin sınırlarını tanımamaya daha müsaittirler ve Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
+**(98)** ve bedevi Araplardan kimi var ki verdiği şeyi angarya[borç] sayar ve size belalar gelmesini gözetler, kötü bela onların başına gelsin, Allah[semîun alîm] işitendir, bilendir
 **(99)** 
 **(100)** 
 **(101)** 
