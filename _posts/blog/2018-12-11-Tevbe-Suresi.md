@@ -107,8 +107,8 @@ tag:
 **(95)** siz onların yanlarına geldiğiniz zaman kendilerinden vazgeçmeniz için Allah’a yemin edecekler, onlardan [yüz çevirip]vazgeçin çünkü onlar [iğrenç pisliktir]murdardır ve kazandıkları şeylerin cezası olarak varacakları yer cehennemdir
 **(96)** kendilerinden razı olmanız için size yemin ediyorlar eğer siz onlardan razı olsanız bile şüphesiz Allah yoldan çıkan [fāsiḳ]topluluktan razı olmaz
 **(97)** bedevi Araplar küfürde ve iki yüzlülükte daha yamandır ve Allah’ın Elçisine indirdiği şeylerin sınırlarını tanımamaya daha müsaittirler ve Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
-**(98)** ve bedevi Araplardan kimi var ki verdiği şeyi angarya[borç] sayar ve size belalar gelmesini gözetler, kötü bela onların başına gelsin, Allah[semîun alîm] işitendir, bilendir
-**(99)** 
+**(98)** ve bedevi Araplardan kimi var ki verdiği şeyi angarya[bir borç] sayar ve size belalar gelmesini gözetler, kötü bela onların başına gelsin, Allah[semîun alîm] işitendir, bilendir
+**(99)** bedevi Araplardan kimi de var ki Allah’a ve ahiret gününe inanır ve verdiği şeyi Allah katında yakınlaşmaya ve Elçinin du’alarını almaya vesile sayar, iyi bilin ki gerçekten o kendileri için yakınlık vesilesidir, Allah onları rahmetinin içine sokacaktır muhakkak ki Allah [gafûrun rahîm]bağışlayandır, esirgeyendir
 **(100)** 
 **(101)** 
 **(102)** 
