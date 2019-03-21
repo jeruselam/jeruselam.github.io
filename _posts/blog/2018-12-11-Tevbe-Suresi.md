@@ -119,8 +119,8 @@ tag:
 **(107)** zarar vermek (için) ve nankörlük etmek (için) ve mü’minlerin arasını [açmak]ayrılık sokmak (için) ve önceden Allah ve Elçisiyle savaşan kimseyi gözetlemek (için) bir mescid edinenler var ve biz iyilik(ten) başkasını istemedik [diye]yemin edecekler oysa Allah onların yalan söylediklerine şahidtir
 **(108)** orada asla namaza durma, ilk günden takva üzere kurulan mescid (ise) içinde (namaza) durmana elbette daha uygundur, onda temizlenmeyi seven erkekler vardır ve Allah temizlenenleri sever
 **(109)** Allah’tan korku [sevgi] ve rıza üzerine yapısını kuran kimse mi? hayırlıdır yoksa çökecek bir uçurum kenarına yapısını kuran ve cehennem ateşine onunla birlikte yuvarlanan kimse mi? ve Allah zalimler topluluğunu doğru yola iletmez
-**(110)** 
-**(111)** 
+**(110)** inşa ettikleri binaları kalbleri parçalanması dışında yüreklerinde bir kuşku olmaktan ileri gitmez, Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
+**(111)** şüphesiz Allah mü’minlerden canlarını ve mallarını cennet kendilerinin olmak üzere satın almıştır, Allah yolunda savaşırlar, öldürürler ve öldürülürler, Tevrat’ta ve İncil’de ve Kur’an’da üstlendiği gerçek bir sözdür ve kim sözünde Allah’tan daha çok durabilir o halde O’nunla yaptığınız alışverişinizden sevinin ve işte o büyük başarıdır
 **(112)** 
 **(113)** 
 **(114)** 
