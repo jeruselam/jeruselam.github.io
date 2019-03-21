@@ -113,7 +113,7 @@ tag:
 **(101)** ve çevrenizdeki bedevi Araplardan münafıklar ve Medine halkından iki yüzlülüğe iyice alışmış[kafir kimseler] vardır, sen onları bilmezsin biz onları biliriz, onlara iki kere azabedeceğiz sonra da onlar büyük azaba itileceklerdir
 **(102)** ve başka bir kısmı da günahlarını itiraf ettiler, iyi ameli diğer kötüsüyle birbirine karıştırdılar belki Allah onların tevbesini kabul eder çünkü Allah[gafûrun rahîm] bağışlayandır, esirgeyendir
 **(103)** onların mallarından kendilerini temizleyeceğin ve onunla yücelteceğin bir sadaka al ve onlara du’a et çünkü senin du’an onlara huzur verir ve Allah[semîun alîm] işitendir, bilendir
-**(104)** bilmediler mi ki şüphesiz O kullarından tevbeyi kabul eden ve sadakaları alan Allah’tır ve şüphesiz O Allah[tevvâbur rahîm] tevbeyi çok kabul edendir, çok esirgeyendir
+**(104)** bilmediler mi ki kullarından tevbeyi kabul eden ve sadakaları alan şüphesiz O Allah’tır ve şüphesiz O Allah[tevvâbur rahîm] tevbeyi çok kabul edendir, çok esirgeyendir
 **(105)** ve de ki yapın (yapacağınızı) yaptığınız işleri Allah görecek ve Elçisi de ve mü’minler de sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, [ameller]yapıyor(lar), [işliyor]olduğunuz şeyleri O size haber verecek
 **(106)** ve başkaları da var ki Allah’ın emrine bırakılmışlardır ya onlara azabeder ya da onları affeder Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
 **(107)** 
