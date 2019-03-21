@@ -111,10 +111,10 @@ tag:
 **(99)** bedevi Araplardan kimi de var ki Allah’a ve ahiret gününe inanır ve verdiği şeyi Allah katında yakınlaşmaya ve Elçinin du’alarını almaya vesile sayar, iyi bilin ki gerçekten o kendileri için yakınlık vesilesidir, Allah onları rahmetinin içine sokacaktır muhakkak ki Allah [gafûrun rahîm]bağışlayandır, esirgeyendir
 **(100)** Muhacirlerden ve Ensardan öne geçenlerden ilk olanlar ve güzelce ona tabi olan(lar) kimseler, Allah onlardan razı olmuştur, onlar da O’ndan razı olmuşlardır ve onlara içinde ebedi kalacakları altlarından ırmaklar akan cennetler hazırlamıştır, büyük kurtuluş işte budur
 **(101)** ve çevrenizdeki bedevi Araplardan münafıklar ve Medine halkından iki yüzlülüğe iyice alışmış[kafir kimseler] vardır, sen onları bilmezsin biz onları biliriz, onlara iki kere azabedeceğiz sonra da onlar büyük azaba itileceklerdir
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
+**(102)** ve başka bir kısmı da günahlarını itiraf ettiler, iyi ameli diğer kötüsüyle birbirine karıştırdılar belki Allah onların tevbesini kabul eder çünkü Allah[gafûrun rahîm] bağışlayandır, esirgeyendir
+**(103)** onların mallarından kendilerini temizleyeceğin ve onunla yücelteceğin bir sadaka al ve onlara du’a et çünkü senin du’an onlara huzur verir ve Allah[semîun alîm] işitendir, bilendir
+**(104)** bilmediler mi ki şüphesiz O kullarından tevbeyi kabul eden ve sadakaları alan Allah’tır ve şüphesiz O Allah[tevvâbur rahîm] tevbeyi çok kabul edendir, çok esirgeyendir
+**(105)** ve de ki yapın (yapacağınızı) yaptığınız işleri Allah görecek ve Elçisi de ve mü’minler de sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, [ameller]yapıyor(lar), [işliyor]olduğunuz şeyleri O size haber verecek
 **(106)** 
 **(107)** 
 **(108)** 
