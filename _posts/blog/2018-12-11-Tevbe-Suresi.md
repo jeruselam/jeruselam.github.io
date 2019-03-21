@@ -118,7 +118,7 @@ tag:
 **(106)** ve başkaları da var ki Allah’ın emrine bırakılmışlardır ya onlara azabeder ya da onları affeder Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
 **(107)** zarar vermek (için) ve nankörlük etmek (için) ve mü’minlerin arasını [açmak]ayrılık sokmak (için) ve önceden Allah ve Elçisiyle savaşan kimseyi gözetlemek (için) bir mescid edinenler var ve biz iyilik(ten) başkasını istemedik [diye]yemin edecekler oysa Allah onların yalan söylediklerine şahidtir
 **(108)** orada asla namaza durma, ilk günden takva üzere kurulan mescid (ise) içinde (namaza) durmana elbette daha uygundur, onda temizlenmeyi seven erkekler vardır ve Allah temizlenenleri sever
-**(109)** Allah’tan korku ve rıza üzerine yapısını kuran kimse mi? hayırlıdır yoksa çökecek bir uçurum kenarına yapısını kuran ve cehennem ateşine onunla birlikte yuvarlanan kimse mi? ve Allah zalimler topluluğunu doğru yola iletmez
+**(109)** Allah’tan korku [sevgi] ve rıza üzerine yapısını kuran kimse mi? hayırlıdır yoksa çökecek bir uçurum kenarına yapısını kuran ve cehennem ateşine onunla birlikte yuvarlanan kimse mi? ve Allah zalimler topluluğunu doğru yola iletmez
 **(110)** 
 **(111)** 
 **(112)** 
