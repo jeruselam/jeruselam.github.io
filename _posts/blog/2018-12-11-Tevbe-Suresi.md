@@ -115,7 +115,7 @@ tag:
 **(103)** onların mallarından kendilerini temizleyeceğin ve onunla yücelteceğin bir sadaka al ve onlara du’a et çünkü senin du’an onlara huzur verir ve Allah[semîun alîm] işitendir, bilendir
 **(104)** bilmediler mi ki şüphesiz O kullarından tevbeyi kabul eden ve sadakaları alan Allah’tır ve şüphesiz O Allah[tevvâbur rahîm] tevbeyi çok kabul edendir, çok esirgeyendir
 **(105)** ve de ki yapın (yapacağınızı) yaptığınız işleri Allah görecek ve Elçisi de ve mü’minler de sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, [ameller]yapıyor(lar), [işliyor]olduğunuz şeyleri O size haber verecek
-**(106)** 
+**(106)** ve başkaları da var ki Allah’ın emrine bırakılmışlardır ya onlara azabeder ya da onları affeder Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
 **(107)** 
 **(108)** 
 **(109)** 
