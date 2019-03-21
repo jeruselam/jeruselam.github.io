@@ -116,7 +116,7 @@ tag:
 **(104)** bilmediler mi ki kullarından tevbeyi kabul eden ve sadakaları alan şüphesiz O Allah’tır ve şüphesiz O Allah[tevvâbur rahîm] tevbeyi çok kabul edendir, çok esirgeyendir
 **(105)** ve de ki yapın (yapacağınızı) yaptığınız işleri Allah görecek ve Elçisi de ve mü’minler de sonra görülmeyeni ve görüleni bilene döndürüleceksiniz, [ameller]yapıyor(lar), [işliyor]olduğunuz şeyleri O size haber verecek
 **(106)** ve başkaları da var ki Allah’ın emrine bırakılmışlardır ya onlara azabeder ya da onları affeder Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
-**(107)** 
+**(107)** zarar vermek (için) ve nankörlük etmek (için) ve mü’minlerin arasını [açmak]ayrılık sokmak (için) ve önceden Allah ve Elçisiyle savaşan kimseyi gözetlemek (için) bir mescid edinenler var ve biz iyilik(ten) başkasını istemedik [diye]yemin edecekler oysa Allah onların yalan söylediklerine şahidtir
 **(108)** 
 **(109)** 
 **(110)** 
