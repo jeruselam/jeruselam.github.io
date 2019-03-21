@@ -121,7 +121,7 @@ tag:
 **(109)** Allah’tan korku [sevgi] ve rıza üzerine yapısını kuran kimse mi? hayırlıdır yoksa çökecek bir uçurum kenarına yapısını kuran ve cehennem ateşine onunla birlikte yuvarlanan kimse mi? ve Allah zalimler topluluğunu doğru yola iletmez
 **(110)** inşa ettikleri binaları kalbleri parçalanması dışında yüreklerinde bir kuşku olmaktan ileri gitmez, Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
 **(111)** şüphesiz Allah mü’minlerden canlarını ve mallarını cennet kendilerinin olmak üzere satın almıştır, Allah yolunda savaşırlar, öldürürler ve öldürülürler, Tevrat’ta ve İncil’de ve Kur’an’da üstlendiği gerçek bir sözdür ve kim sözünde Allah’tan daha çok durabilir o halde O’nunla yaptığınız alışverişinizden sevinin ve işte o büyük başarıdır
-**(112)** 
+**(112)** tevbe edenler, ibadet edenler, hamdedenler, seyahat edenler, rüku edenler, secde edenler, iyiliği emredip ve kötülükten men’edenler ve Allah’ın sınırlarını koruyanlar ve mü’minleri müjdele
 **(113)** 
 **(114)** 
 **(115)** 
