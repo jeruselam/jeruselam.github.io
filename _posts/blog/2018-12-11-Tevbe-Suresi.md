@@ -122,8 +122,8 @@ tag:
 **(110)** inşa ettikleri binaları kalbleri parçalanması dışında yüreklerinde bir kuşku olmaktan ileri gitmez, Allah[alîmun hakîm] bilendir, hüküm ve hikmet sahibidir
 **(111)** şüphesiz Allah mü’minlerden canlarını ve mallarını cennet kendilerinin olmak üzere satın almıştır, Allah yolunda savaşırlar, öldürürler ve öldürülürler, Tevrat’ta ve İncil’de ve Kur’an’da üstlendiği gerçek bir sözdür ve kim sözünde Allah’tan daha çok durabilir o halde O’nunla yaptığınız alışverişinizden sevinin ve işte o büyük başarıdır
 **(112)** tevbe edenler, ibadet edenler, hamdedenler, seyahat edenler, rüku edenler, secde edenler, iyiliği emredip ve kötülükten men’edenler ve Allah’ın sınırlarını koruyanlar ve mü’minleri müjdele
-**(113)** 
-**(114)** 
+**(113)** onların muhakkak cehennem halkı oldukları belli olduktan sonra ve şayet akraba bile olsalar ortak koşanlar için mağfiret dilemek inanan(lar), [iman eden] kimseler için ve peygamber için yoktur
+**(114)** ve İbrahim’in babası için mağfiret dilemesi ona verdiği bir sözden başka bir şey değildir fakat onun Allah’a düşmanı olduğu kendisine belli olunca gerçekten ondan uzak durdu, İbrahim çok içli idi, yumuşak huylu idi
 **(115)** 
 **(116)** 
 **(117)** 
