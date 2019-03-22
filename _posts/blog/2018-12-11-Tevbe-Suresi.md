@@ -124,7 +124,7 @@ tag:
 **(112)** tevbe edenler, ibadet edenler, hamdedenler, seyahat edenler, rüku edenler, secde edenler, iyiliği emredip ve kötülükten men’edenler ve Allah’ın sınırlarını koruyanlar ve mü’minleri müjdele
 **(113)** onların muhakkak cehennem halkı oldukları belli olduktan sonra ve şayet akraba bile olsalar ortak koşanlar için mağfiret dilemek inanan(lar), [iman eden] kimseler için ve peygamber için yoktur
 **(114)** ve İbrahim’in babası için mağfiret dilemesi ona verdiği bir sözden başka bir şey değildir fakat onun Allah’a düşmanı olduğu kendisine belli olunca gerçekten ondan uzak durdu, İbrahim çok içli idi, yumuşak huylu idi
-**(115)** 
+**(115)** sakınacakları şeyleri kendilerine açıklayıncaya kadar doğru yola ilettikten sonra bir kavmi; Allah onları saptıracak değildir şüphesiz Allah her şeyi bilendir
 **(116)** 
 **(117)** 
 **(118)** 
