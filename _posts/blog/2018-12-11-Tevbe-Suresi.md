@@ -125,7 +125,7 @@ tag:
 **(113)** onların muhakkak cehennem halkı oldukları belli olduktan sonra ve şayet akraba bile olsalar ortak koşanlar için mağfiret dilemek inanan(lar), [iman eden] kimseler için ve peygamber için yoktur
 **(114)** ve İbrahim’in babası için mağfiret dilemesi ona verdiği bir sözden başka bir şey değildir fakat onun Allah’a düşmanı olduğu kendisine belli olunca gerçekten ondan uzak durdu, İbrahim çok içli idi, yumuşak huylu idi
 **(115)** sakınacakları şeyleri kendilerine açıklayıncaya kadar doğru yola ilettikten sonra bir kavmi; Allah onları saptıracak değildir şüphesiz Allah her şeyi bilendir
-**(116)** 
+**(116)** şüphesiz Allah, göklerin ve yerin mülkü O’nundur, yaşatandır ve öldürendir ve sizin[için] Allah’tan başka hiçbir [veli]dost yoktur ne de yardımcınız[vardır].
 **(117)** 
 **(118)** 
 **(119)** 
