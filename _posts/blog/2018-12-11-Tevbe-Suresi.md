@@ -126,8 +126,8 @@ tag:
 **(114)** ve İbrahim’in babası için mağfiret dilemesi ona verdiği bir sözden başka bir şey değildir fakat onun Allah’a düşmanı olduğu kendisine belli olunca gerçekten ondan uzak durdu, İbrahim çok içli idi, yumuşak huylu idi
 **(115)** sakınacakları şeyleri kendilerine açıklayıncaya kadar doğru yola ilettikten sonra bir kavmi; Allah onları saptıracak değildir şüphesiz Allah her şeyi bilendir
 **(116)** şüphesiz Allah, göklerin ve yerin mülkü O’nundur, yaşatandır ve öldürendir ve sizin[için] Allah’tan başka hiçbir [veli]dost yoktur ne de yardımcınız[vardır].
-**(117)** güçlük sa’atinde ona uyan Ensarı ve Muhacirleri ve Peygamberi andolsun Allah affetti, O zaman içlerinden bir kısmının kalbleri neredeyse kaymağa yüz tutmuş iken yine de onların tevbesini kabul etti çünkü O onlara karşı [raûfun rahîm] çok şefkatli, çok merhametlidir
-**(118)** 
+**(117)** andolsun Allah güçlük sa’atinde ona uyan Ensarı ve Muhacirleri ve Peygamberi affetti, içlerinden bir kısmının kalbleri neredeyse kaymağa yüz tutmuş iken O zaman yine de onların tevbesini kabul etti çünkü O [raûfun rahîm] onlara karşı çok şefkatli, çok merhametlidir
+**(118)** ve geri bırakılan üçünün (üç kişinin) hatta ve onların canları sıkıldıkça sıkılmış ve genişliğine rağmen dünya başlarına dar gelmişti ve Allahtan yine kendisinden başka bir çare olmadığını anlamışlardı sonra onların tevbesini kabul buyurdu tevbe etsinler çünkü O Allah tevbeyi çok kabul eden çok esirgeyendir.
 **(119)** 
 **(120)** 
 **(121)** 
