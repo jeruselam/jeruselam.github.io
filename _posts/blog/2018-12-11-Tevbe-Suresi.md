@@ -127,17 +127,17 @@ tag:
 **(115)** sakınacakları şeyleri kendilerine açıklayıncaya kadar doğru yola ilettikten sonra bir kavmi; Allah onları saptıracak değildir şüphesiz Allah her şeyi bilendir
 **(116)** şüphesiz Allah, göklerin ve yerin mülkü O’nundur, yaşatandır ve öldürendir ve sizin[için] Allah’tan başka hiçbir [veli]dost yoktur ne de yardımcınız[vardır].
 **(117)** andolsun Allah güçlük sa’atinde ona uyan Ensarı ve Muhacirleri ve Peygamberi affetti, içlerinden bir kısmının kalbleri neredeyse kaymağa yüz tutmuş iken O zaman yine de onların tevbesini kabul etti çünkü O [raûfun rahîm] onlara karşı çok şefkatli, çok merhametlidir
-**(118)** ve geri bırakılan üçünün (üç kişinin) hatta ve onların canları sıkıldıkça sıkılmış ve genişliğine rağmen dünya başlarına dar gelmişti ve Allahtan yine kendisinden başka bir çare olmadığını anlamışlardı sonra onların tevbesini kabul buyurdu tevbe etsinler çünkü O Allah tevbeyi çok kabul eden çok esirgeyendir.
-**(119)** 
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
-**(124)** 
-**(125)** 
-**(126)** 
-**(127)** 
-**(128)** 
-**(129)** 
+**(118)** ve geri bırakılan üçünün (üç kişinin) hatta ve onların canları sıkıldıkça sıkılmış ve genişliğine rağmen dünya başlarına dar gelmişti ve Allahtan yine kendisinden başka bir çare olmadığını anlamışlardı sonra onların tevbesini kabul buyurdu tevbe etsinler çünkü O Allah [tevvâbur rahîm]tevbeyi çok kabul eden, çok esirgeyendir.
+**(119)** ey inanan(lar), [imanlı]kimseler, Allah’tan korkun ve [sâdık]doğrularla beraber olun
+**(120)** Medine halkının ve bedevi Araplardan onların çevresinden kimselerin Allah’ın Elçisinden geri kalmaları ve onun canından önce kendi canlarının kaygısına düşmeleri onlara yakışmaz böyledir çünkü onların bir susuzluk çekmeleri yoktur ki ve bir yorgunluk yoktur ki ve Allah yolunda bir açlık yoktur ki ve kâfirleri öfkelendirecek bir yere ayak basmaları yoktur ki ve düşman karşısında bir başarı sağlamaları yoktur ki onunla mutlaka kendileri için salih bir amel yazıl(masın) şüphesiz Allah iyilik edenlerin ecirlerini, harcamaları zayi etmez
+**(121)** ve sarfettikeri küçük ve büyük bir masraf yoktur ki ve bir vadiyi geçmeleri yoktur ki mutlaka yapıyor oldukları şeylerin en güzeliyle Allah’ın onları mükafatlandırması için onların lehine yazı(lmasın) 
+**(122)** ve inananlar[ın] hepsi toptan sefere çıkacak değillerdi, dini iyice öğrenmek için içlerinden her kabileden bir cemaatin ve onlara kavimlerine dönüp geldikleri zaman belki sakınırlar diye uyarmaları için geri kalmaları gerekmez mi? 
+**(123)** ey inanan(lar), [imanlı] kimseler kafirlerden yakınınızda bulunan kimselerle savaşın ve sizde bir katılık bulsunlar ve bilin ki şüphesiz Allah korunanlarla beraberdir 
+**(124)** ve ne zaman bir sure indirilse kimi der bu hanginizin imanını artırdı fakat [o]inanan kimselerin imanını artırır ve onlar sevinirler
+**(125)** fakat yüreklerinde hastalık olan(lara), [hastalıklı] kimselere gelince onların [günah olan] pisliklerine pislik katmıştır ve onlar kafirler olarak ölürler
+**(126)** kendilerinin her yıl bir kez veya iki kez sınandıklarını görmüyorlar mı? yine de tevbe etmiyor ve onlar öğüt almıyorlar
+**(127)** ve ne zaman ki bir sûre indirildi, kimisi diğerine[kiminize] bakarlar, birisi sizi görüyor mu? sonra sıvışırlar, anlamaz bir topluluk oldukları için Allah onların kalblerini çevirmiştir
+**(128)** andolsun size sıkıntıya uğramanız ona ağır gelen içinizden bir Elçi gelmiştir size düşkün mü’minlere şefkatli merhametlidir
+**(129)** eğer yüz çevirirlerse de ki Allah bana yeter, O’ndan başka tanrı[ilāh] yoktur, O’na dayandım [tevekkül ettim] ve O büyük Arş’ın rabbidir
 
 ![09Tevbe-Medenî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
