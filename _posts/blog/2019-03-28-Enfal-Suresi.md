@@ -5,7 +5,7 @@ description: Ganimetler, Düşmandan alınan mallar.
 excerpt: "08'nci Sûre"
 modified: 2019-03-28T17:50:00.564948 17:00
 tag: 
- - Enfâl
+ - Enfâl 
 ---
 
 ## 08. Enfâl Sûresi 
