@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Yunus
+title: Yûnus
 description: İsrail Kavminden Ninova şehrine gönderilen peygamber.
 excerpt: "10'nci Sûre"
 modified: 2018-09-15T17:50:00.564948 17:00
 tag: 
- - Yunus
+ - Yûnus
 ---
 
-## 10. Yunus Sûresi 
+## 10. Yûnus Sûresi 
 
 **(1)** Elif Lâm Râ bunlar hikmetli Kitab'ın ayetleridir
 **(2)** iman edenlere kimselere müjdelesin ve insanları uyarsın diye içlerinden bir adama vahyetmemiz insanlara tuhaf mı geldi? Rableri katında doğruluk makamı şüphesiz (ki) onlar için vardır kâfirler dediler ki şüphesiz bu apaçık bir büyücüdür
