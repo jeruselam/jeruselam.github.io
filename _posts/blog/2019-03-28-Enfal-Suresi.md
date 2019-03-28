@@ -11,7 +11,7 @@ tag:
 ## 08. Enfâl Sûresi 
 
 **(1)** ganimetlerden sana sorarlar de ki ganimetler Allah’ındır ve Elçi(si)nindir, Allah’tan korkun ve aranızdaki hali düzeltin, eğer siz (gerçekten) inananlar iseniz Allah’a ve Elçisine ita’at edin 
-**(2)** 
+**(2)** gerçekten Mü’minler o kimselerdir ki Allah anıldığı zaman ve O’nun ayetleri kendilerine okunduğu zaman yürekleri ürperir 
 **(3)** 
 **(4)** 
 **(5)** 
