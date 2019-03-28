@@ -8,7 +8,7 @@ tag:
  - Ankebût
 ---
 
-## 30. Ankebût Sûresi
+## 29. Ankebût Sûresi
 
 **(1)** Elif lam mim 
 **(2)** onlar hiç sınanmadan inandık demekle insanlar bırakılacaklarını mı sandılar?
