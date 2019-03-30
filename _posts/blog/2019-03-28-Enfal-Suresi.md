@@ -5,18 +5,18 @@ description: Ganimetler, Düşmandan alınan mallar.
 excerpt: "08'nci Sûre"
 modified: 2019-03-28T17:50:00.564948 17:00
 tag: 
- - Enfâl 
+ - Enfâl
 ---
 
 ## 08. Enfâl Sûresi 
 
 **(1)** ganimetlerden sana sorarlar de ki ganimetler Allah’ındır ve Elçi(si)nindir, Allah’tan korkun ve aranızdaki hali düzeltin, eğer siz (gerçekten) inananlar iseniz Allah’a ve Elçisine ita’at edin 
-**(2)** gerçekten Mü’minler o kimselerdir ki Allah anıldığı zaman ve O’nun ayetleri kendilerine okunduğu zaman yürekleri ürperir 
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)** 
-**(7)** 
+**(2)** gerçekten Mü’minler o kimselerdir ki Allah anıldığı zaman yürekleri ürperir ve O’nun ayetleri kendilerine okunduğu zaman imanlarını artırır ve Rablerine tevekkül ederler
+**(3)** onlar ki namazlarını kılarlar [Allahı devamlı zikrederler] ve verdiğimiz rızıktan (Allah için) harcarlar
+**(4)** gerçek mü’minler işte onlardır, Rablerinin katında onlara dereceler ve bağışlanma ve tükenmez rızık vardır
+**(5)** nitekim Rabbin seni hak uğruna evinden çıkardığı zaman gerçekten de mü’minlerden bir kısmı bundan hoşlanmıyordu
+**(6)** ortaya çıktıktan sonra onlar gözleri göre göre ve ölüme sürülüyorlarmış gibi seninle hakka dair tartışıyorlardı
+**(7)** iki topluluktan birinin muhakkak sizin olduğunu size o zaman va’dediyordu siz de gerçekten hali kuvvetsiz olanın sizin olmasını istiyordunuz oysa Allah sözleriyle hakkı gerçekleştirmek ve kafirlerin ardını kesmek istiyordu
 **(8)** 
 **(9)** 
 **(10)** 
