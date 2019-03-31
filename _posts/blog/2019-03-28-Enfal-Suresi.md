@@ -21,7 +21,7 @@ tag:
 **(9)** hani siz Rabbinizden yardım istiyordunuz size karşılık vermişti; şüphesiz ben size birbiri ardınca bin melekler ile yardım edeceğim
 **(10)** ve Allah bunu ancak müjde olsun diye ve bununla kalbiniz yatışsın diye (yaptı başkaca) yapmadı ve Allah katından başkaca yardım yoktur şüphesiz Allah [Azîzun Hakîm] daima üstün, hüküm ve hikmet sahibidir
 **(11)** O zaman O’ndan (Allah’tan) bir güven olmak üzere sizi hafif bir uyku bürüyordu ve onunla sizi temizlemek için ve şeytanın pisliğini sizden gidermek için ve kalblerinizin üzerini (birbirine) bağlamak için ve onunla ayakları(nızı) pekiştirmek için üzerinize gökten bir su indiriyordu
-**(12)** 
+**(12)** hani Rabbin meleklere vahyediyordu şüphesiz ben sizinle beraberim siz inananları [imanlı]kimseleri pekiştirin, inkar edenlerin içine, [kafir]kimselerin yüreklerine ben korku salacağım, boyunların(ın) üstüne vurun ve onların her parmağına vurun
 **(13)** 
 **(14)** 
 **(15)** 
