@@ -17,10 +17,10 @@ tag:
 **(5)** nitekim Rabbin seni hak uğruna evinden çıkardığı zaman gerçekten de mü’minlerden bir kısmı bundan hoşlanmıyordu
 **(6)** ortaya çıktıktan sonra onlar gözleri göre göre ve ölüme sürülüyorlarmış gibi seninle hakka dair tartışıyorlardı
 **(7)** iki topluluktan birinin muhakkak sizin olduğunu size o zaman va’dediyordu siz de gerçekten hali kuvvetsiz olanın sizin olmasını istiyordunuz oysa Allah sözleriyle hakkı gerçekleştirmek ve kafirlerin ardını kesmek istiyordu
-**(8)** 
-**(9)** 
-**(10)** 
-**(11)** 
+**(8)** ta ki hakkı gerçekleştirsin ve şayet suçlular istemese (bile) batılı ortadan kaldırsın
+**(9)** hani siz Rabbinizden yardım istiyordunuz size karşılık vermişti; şüphesiz ben size birbiri ardınca bin melekler ile yardım edeceğim
+**(10)** ve Allah bunu ancak müjde olsun diye ve bununla kalbiniz yatışsın diye (yaptı başkaca) yapmadı ve Allah katından başkaca yardım yoktur şüphesiz Allah [Azîzun Hakîm] daima üstün, hüküm ve hikmet sahibidir
+**(11)** O zaman O’ndan (Allah’tan) bir güven olmak üzere sizi hafif bir uyku bürüyordu ve onunla sizi temizlemek için ve şeytanın pisliğini sizden gidermek için ve kalblerinizin üzerini (birbirine) bağlamak için ve onunla ayakları(nızı) pekiştirmek için üzerinize gökten bir su indiriyordu
 **(12)** 
 **(13)** 
 **(14)** 
