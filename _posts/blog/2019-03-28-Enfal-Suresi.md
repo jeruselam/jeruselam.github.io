@@ -29,7 +29,7 @@ tag:
 **(17)** onları siz öldürmediniz fakat onları Allah öldürdü, attığın zaman sen atmadın fakat kendinden güzel bir imtihanla Mü’minleri sınamak için Allah attı doğrusu Allah [Semîun Alîm] işitendir, bilendir 
 **(18)** işte size böyle yaptı çünkü Allah kafirlerin tuzağını zayıflatır
 **(19)** eğer fetih istiyorsanız işte size fetih geldi eğer vazgeçerseniz bu sizin için iyidir ama yine [geri]dönerseniz biz de [geri]döneriz, şayet çok da olsa topluluğunuz size hiçbir şey (yarar) sağlayamaz çünkü Allah inananlarla beraberdir
-**(20)** 
+**(20)** ey inanan(lar) kimseler, Allah’a ve Elçisine ita’at edin ve ondan asla ve siz işittiğiniz halde dönmeyin
 **(21)** 
 **(22)** 
 **(23)** 
