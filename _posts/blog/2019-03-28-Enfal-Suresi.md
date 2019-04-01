@@ -25,10 +25,10 @@ tag:
 **(13)** böyle (olacak) çünkü onlar Allah’a ve Elçisine karşı geldiler kim Allah’a ve Elçisine karşı gelirse muhakkak ki Allah’ın cezası çetin olur
 **(14)** işte siz şimdi tadın onu ve şüphesiz kafirler için ateş azabı vardır
 **(15)** ey inanan(lar) kimseler ne zaman ki toplu halde inkar edenlerle, [hafif yüklü kafir]kimselerle karşılaşırsanız asla onlara arkalar(ınız)ı döndürmeyin
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
+**(16)** ve kim o gün savaşmak için bir tarafa çekilmek ya da (başka) bir birliğe katılmak dışında arkasını döner(kaçar)sa muhakkak Allahtan bir gazaba uğrar ve onun yeri cehennemdir ve o ne kötü varılacak bir yerdir
+**(17)** onları siz öldürmediniz fakat onları Allah öldürdü, attığın zaman sen atmadın fakat kendinden güzel bir imtihanla Mü’minleri sınamak için Allah attı doğrusu Allah [Semîun Alîm] işitendir, bilendir 
+**(18)** işte size böyle yaptı çünkü Allah kafirlerin tuzağını zayıflatır
+**(19)** eğer fetih istiyorsanız işte size fetih geldi eğer vazgeçerseniz bu sizin için iyidir ama yine [geri]dönerseniz biz de [geri]döneriz, şayet çok da olsa topluluğunuz size hiçbir şey (yarar) sağlayamaz çünkü Allah inananlarla beraberdir
 **(20)** 
 **(21)** 
 **(22)** 
