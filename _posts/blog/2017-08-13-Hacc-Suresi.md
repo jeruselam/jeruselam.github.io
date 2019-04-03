@@ -62,7 +62,7 @@ tag:
 **(50)** ve inananlar için ve iyi işler yapanlar için mağfiret ve bol rızık onlara vardır
 **(51)** ayetlerimizi etkisiz bırakmak için çalışanlara gelince onlar cehennem ashabıdır
 **(52)** ve temenni ettiği zaman onun temennisine şeytan (bir düşünce) atmış olmayan senden önce hiçbir resul ve ne de nebi göndermemiştik şeytanın attığı şeyi Allah fakat siler sonra Allah kendi ayetlerini sağlamlaştırır ve Allah ’alim(bilen)dir hakimdir
-**(53)** kalblerinde bir hastalık olanlara ve kalbleri katılaşanlara şeytanın attığı şeyi bir imtihan yapmak için ve şüphesiz zalimler uzak bir ayrılık içindedirler
+**(53)** kalblerinde bir hastalık olanlara ve kalbleri katılaşanlara şeytanın attığı şeyi bir imtihan yapmak için ve şüphesiz zalimler [hakikatten] uzak bir ayrılık içindedirler
 **(54)** ve Rabbinden onun (Kur’an)’ın bir hak (gerçek) olduğunu kendilerine ilim verilenler bilsinler diye ve ona inansınlar diye kalbleri ona böylece saygı duysun ve şüphesiz Allah inanan(ları) kimseleri doğru yola mutlaka iletir
 **(55)** ve ansızın o sa’at kendilerine gelinceye kadar yahut kısır (hayırsız) günün azabı kendilerine gelinceye kadar inkar edenlerin o(Kur’a)ndan kuşku içinde (olmaları) bitmez
 **(56)** mülk o gün Allah’ındır onların aralarında hükmeder inananlar kimseler ve iyi işler yapanlar ni’met cennetlerindedirler

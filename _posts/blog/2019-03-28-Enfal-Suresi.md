@@ -30,13 +30,13 @@ tag:
 **(18)** işte size böyle yaptı çünkü Allah kafirlerin tuzağını zayıflatır
 **(19)** eğer fetih istiyorsanız işte size fetih geldi eğer vazgeçerseniz bu sizin için iyidir ama yine [geri]dönerseniz biz de [geri]döneriz, şayet çok da olsa topluluğunuz size hiçbir şey (yarar) sağlayamaz çünkü Allah inananlarla beraberdir
 **(20)** ey inanan(lar) kimseler, Allah’a ve Elçisine ita’at edin ve ondan asla ve siz işittiğiniz halde [başka tarafa] dönmeyin
-**(21)** 
-**(22)** 
-**(23)** 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
+**(21)** ve asla işittik ve onlar işitmedikleri halde diyenler gibi olmayın
+**(22)** şüphesiz Allah katında canlıların en kötüsü sağırlar ve dilsizlerdir onlar ki düşünmezler
+**(23)** şayet Allah bilseydi onlarda [bir hayr], bir iyilik vardır elbette onlara işittirirdi şayet onlara işittirseydi de onlar aldırmayarak yine [başka tarafa] dönerlerdi 
+**(24)** ey [imanlı] kimseler, inanan(lar) sizi yaşatacak şeylere sizi çağırdığı zaman Allah’ın ve Elçisinin çağrısına koşun ve bilin ki muhakkak Allah [vicdanlı] kişi ile onun kalbi arasına girer ve siz O’nun huzuruna toplanacaksınız
+**(25)** fitneden sakının, [zalim] kimselere yalnızca aranızdan haksızlık edenlere erişmekle kalmaz, bilin ki muhakkak Allah’ın azabı çetindir
+**(26)** düşünün ki bir zaman siz az idiniz yeryüzünde hırpalanıyordunuz insanların sizi kapıp götürmesinden korkuyordunuz (Allah) sizi barındırdı ve yardımıyla sizi destekledi ve güzel şeylerle sizi besledi belki şükredersiniz
+**(27)** ey [imanlı] kimseler, inanan(lar) [iman] emanetlerinize hiyanet ederek ve siz bildiğiniz halde Allah’a ve Elçisine hiyanet etmeyin 
 **(28)** 
 **(29)** 
 **(30)** 
