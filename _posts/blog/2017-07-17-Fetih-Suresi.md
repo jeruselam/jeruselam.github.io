@@ -22,8 +22,8 @@ tag:
 **(10)** şüphesiz sana bi’at eden(ler), [bağlılığını tazeleyen] kimseler gerçekte Allah’a bi’at etmektedirler, Allah’ın eli onların ellerinin üzerindedir, o halde kim ahdini bozarsa şüphesiz kendi aleyhine bozmuş olur ve kim O’na verdiği sözü tutarsa Allah ona büyük bir mükafat verecektir 
 **(11)** Araplardan geri bırakılanlar sana diyecekler ki, mallarımız ve çocuklarımız bizi alıkoydu, bizim için mağfiret dile, onlar kalblerinde olmayan bir şeyi dilleriyle söylüyorlar, de ki eğer 
 size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karşı herhangi bir şeyle sizin için kim? engel olabilir, hayır, [fiilen] yapıyor(lar), [işlemiş] olduklarınızı Allah haber almaktadır
-**(12)** siz sandınız ki herhalde elçi [rasūl] ve mü’minler bir daha asla ailelerine dönmeyecekler ve bu gönüllerinizde süslendirildi ve kötü bir zan ile zanda bulundunuz ve helaki hak etmiş bir topluluk oldunuz
-**(13)** ve kim Allah’a ve Elçisine inanmazsa bilsin ki biz kafirler için alevli bir ateş hazırlamışızdır
+**(12)** siz sandınız ki herhalde [rasūl] elçi ve mü’minler bir daha asla ailelerine dönmeyecekler ve bu gönüllerinizde süslendirildi ve kötü bir zan ile zanda bulundunuz ve helaki hak etmiş bir topluluk oldunuz
+**(13)** ve kim Allah’a ve [rasūl] Elçisine inanmazsa bilsin ki biz kafirler için alevli bir ateş hazırlamışızdır
 **(14)** ve göklerin ve yerin mülkü Allah’ındır, dilediği kimseyi bağışlar ve dilediği kimseyi azab eder ve Allah bağışlayandır, esirgeyendir
 **(15)** onları almak için ganimetlere gittiğiniz zaman geri bırakılanlar bizi bırakın sizinle beraber gelelim diyecekler, onlar Allah’ın sözünü değiştirmek istiyorlar de ki, siz asla bizimle gelemezsiniz, önceden Allah böyle buyurdu, onlar hayır bizi çekemiyorsunuz diyecekler, hayır pek azı dışında onlar anlamazlar
 **(16)** Araplardan geride kalanlara de ki siz yakında çok kuvvetli güç sahibi bir kavme karşı da’vet edileceksiniz, onlarla savaşırsınız yahut (onlar) müslüman olurlar eğer ita’at ederseniz Allah size güzel bir mükafat verir ve eğer önceden döndüğünüz gibi dönerseniz size acıklı bir azapla azabeder
