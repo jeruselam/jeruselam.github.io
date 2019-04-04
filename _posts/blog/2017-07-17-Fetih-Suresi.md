@@ -11,14 +11,14 @@ tag:
 ## 48. Fetih Sûresi
 
 **(1)** elbette biz sana apaçık bir fetih açtık (fetih verdik)
-**(2)** Allah senin geçmiş günahlarından ne varsa ve gelecek (günahlarından) ne varsa ki bağışlasın (diye) ve sana olan ni’metini tamamlasın (diye) ve seni doğru bir yola iletsin (diye)
-**(3)** ve Allah sana şanlı bir yardımla (zaferle) yardım etsin (diye)
+**(2)** ki senin geçmiş günahlarından ne varsa ve gelecek (günahlarından) ne varsa Allah bağışlasın (diye) ve sana olan ni’metini tamamlasın (diye) ve seni doğru bir yola iletsin (diye)
+**(3)** ve şanlı bir yardımla (zaferle) Allah sana yardım etsin (diye)
 **(4)** O ki, imanlarıyla beraber imanlarını artırmak için mü’minlerin kalblerine huzur indirendir, göklerin ve yerin askerleri Allah’ındır ve Allah bilendir, hüküm ve hikmet sahibidir 
-**(5)** içinde ebedi kalacakları altlarından ırmaklar akan cennetlere inanan erkekleri ve inanan kadınları soksun diye ve onların kötülüklerini örtsün diye ve (gerçekten) bu Allah katında büyük bir başarıdır
-**(6)** ve Allah hakkında kötü zan ile zanda bulunan münafık erkeklere ve münafık kadınlara ve ortak koşan erkeklere ve ortak koşan kadınlara azabetsin diye kötülük çemberi (olaylar) başlarına gelsin! Allah onlara gazab etmiştir ve onları la’netlemiştir ve onlara cehennemi hazırlamıştır ve orası ne kötü varılacak bir yerdir
+**(5)** içinde ebedi kalacakları altlarından ırmaklar akan cennetlere [mu'min] inanan erkekleri ve inanan kadınları soksun diye ve onların kötülüklerini örtsün diye ve (gerçekten) bu Allah katında büyük bir başarıdır
+**(6)** ve Allah hakkında kötü zan ile zanda bulunan münafık erkeklere ve münafık kadınlara ve [muşrik] ortak koşan erkeklere ve ortak koşan kadınlara azabetsin diye kötülük çemberi (olaylar) başlarına gelsin! Allah onlara gazab etmiştir ve onları la’netlemiştir ve onlara cehennemi hazırlamıştır ve orası ne kötü bir varılacak yerdir
 **(7)** göklerin ve yerin askerleri Allah’ındır ve Allah azizdir, hakimdir
-**(8)** elbette biz seni şahid ve müjdeleyici ve uyarıcı gönderdik
-**(9)** ki Allah’a ve Resulüne inanasınız, O’nu destekleyesiniz, Ona saygı gösteresiniz ve sabah ve akşam O’nu tesbih edesiniz
+**(8)** elbette biz şahid ve müjdeleyici ve uyarıcı seni gönderdik
+**(9)** ki Allah’a ve Resulüne inanmanız, O’nu desteklemeniz, Ona saygı göstermeniz ve sabah ve akşam O’nu [överek] tesbih etmeniz için
 **(10)** şüphesiz sana bi’at eden(ler) kimseler gerçekte Allah’a bi’at etmektedirler, Allah’ın eli onların ellerinin üzerindedir, o halde kim ahdini bozarsa şüphesiz kendi aleyhine bozmuş olur ve kim O’na verdiği sözü tutarsa Allah ona büyük bir mükafat verecektir 
 **(11)** Araplardan geri bırakılanlar sana diyecekler ki, mallarımız ve çocuklarımız bizi alıkoydu, bizim için mağfiret dile, onlar kalblerinde olmayan bir şeyi dilleriyle söylüyorlar, de ki eğer herhangi bir şeyle 
 size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karşı sizin için kim? engel olabilir, hayır, Allah yapıyor(lar) olduklarınızı haber almaktadır
