@@ -20,9 +20,9 @@ tag:
 **(8)** elbette biz şahid ve müjdeleyici ve uyarıcı seni gönderdik
 **(9)** ki Allah’a ve Resulüne inanmanız, O’nu desteklemeniz, Ona saygı göstermeniz ve sabah ve akşam O’nu [överek] tesbih etmeniz için
 **(10)** şüphesiz sana bi’at eden(ler), [bağlılığını tazeleyen] kimseler gerçekte Allah’a bi’at etmektedirler, Allah’ın eli onların ellerinin üzerindedir, o halde kim ahdini bozarsa şüphesiz kendi aleyhine bozmuş olur ve kim O’na verdiği sözü tutarsa Allah ona büyük bir mükafat verecektir 
-**(11)** Araplardan geri bırakılanlar sana diyecekler ki, mallarımız ve çocuklarımız bizi alıkoydu, bizim için mağfiret dile, onlar kalblerinde olmayan bir şeyi dilleriyle söylüyorlar, de ki eğer herhangi bir şeyle 
-size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karşı sizin için kim? engel olabilir, hayır, Allah yapıyor(lar) olduklarınızı haber almaktadır
-**(12)** herhalde siz sandınız ki, elçi ve mü’minler bir daha asla ailelerine dönmeyecekler ve gönüllerinizde süslendirildi ve kötü bir zan ile zanda bulundunuz ve helaki hak etmiş bir topluluk oldunuz
+**(11)** Araplardan geri bırakılanlar sana diyecekler ki, mallarımız ve çocuklarımız bizi alıkoydu, bizim için mağfiret dile, onlar kalblerinde olmayan bir şeyi dilleriyle söylüyorlar, de ki eğer 
+size bir zarar vermek istese yahut size bir yarar vermek istese Allah’a karşı herhangi bir şeyle sizin için kim? engel olabilir, hayır, [fiilen] yapıyor(lar), [işlemiş] olduklarınızı Allah haber almaktadır
+**(12)** siz sandınız ki herhalde elçi [rasūl] ve mü’minler bir daha asla ailelerine dönmeyecekler ve bu gönüllerinizde süslendirildi ve kötü bir zan ile zanda bulundunuz ve helaki hak etmiş bir topluluk oldunuz
 **(13)** ve kim Allah’a ve Elçisine inanmazsa bilsin ki biz kafirler için alevli bir ateş hazırlamışızdır
 **(14)** ve göklerin ve yerin mülkü Allah’ındır, dilediği kimseyi bağışlar ve dilediği kimseyi azab eder ve Allah bağışlayandır, esirgeyendir
 **(15)** onları almak için ganimetlere gittiğiniz zaman geri bırakılanlar bizi bırakın sizinle beraber gelelim diyecekler, onlar Allah’ın sözünü değiştirmek istiyorlar de ki, siz asla bizimle gelemezsiniz, önceden Allah böyle buyurdu, onlar hayır bizi çekemiyorsunuz diyecekler, hayır pek azı dışında onlar anlamazlar
