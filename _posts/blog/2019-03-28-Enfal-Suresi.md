@@ -37,8 +37,8 @@ tag:
 **(25)** fitneden sakının, [zalim] kimselere yalnızca aranızdan haksızlık edenlere erişmekle kalmaz, bilin ki muhakkak Allah’ın azabı çetindir
 **(26)** düşünün ki bir zaman siz az idiniz yeryüzünde hırpalanıyordunuz insanların sizi kapıp götürmesinden korkuyordunuz (Allah) sizi barındırdı ve yardımıyla sizi destekledi ve güzel şeylerle sizi besledi belki şükredersiniz
 **(27)** ey [imanlı] kimseler, inanan(lar) [iman] emanetlerinize hiyanet ederek ve siz bildiğiniz halde Allah’a ve Elçisine hiyanet etmeyin 
-**(28)** 
-**(29)** 
+**(28)** ve bilin ki şüphesiz mallarınız ve çocuklarınız birer fitne(sınav)dır ve süphesiz Allah(’a gelince) büyük mükafat o’nun yanındadır
+**(29)** ey inanan(lar), [imanlı] kimseler eğer Allah’tan [sevgi ve rızasını kaybetmekten çekinerek] korkarsanız O size iyi ile kötüyü ayırdedici bir anlayış verir ve sizin kötülüklerinizi örter ve sizi bağışlar, Allah büyük lutuf sahibidir
 **(30)** 
 **(31)** 
 **(32)** 
