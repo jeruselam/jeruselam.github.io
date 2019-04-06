@@ -39,12 +39,12 @@ tag:
 **(27)** ey [imanlı] kimseler, inanan(lar) [iman] emanetlerinize hiyanet ederek ve siz bildiğiniz halde Allah’a ve Elçisine hiyanet etmeyin 
 **(28)** ve bilin ki şüphesiz mallarınız ve çocuklarınız birer fitne(sınav)dır ve süphesiz Allah(’a gelince) büyük mükafat o’nun yanındadır
 **(29)** ey inanan(lar), [imanlı] kimseler eğer Allah’tan [sevgi ve rızasını kaybetmekten çekinerek] korkarsanız O size iyi ile kötüyü ayırdedici bir anlayış verir ve sizin kötülüklerinizi örter ve sizi bağışlar, Allah büyük lutuf sahibidir
-**(30)** 
-**(31)** 
-**(32)** 
-**(33)** 
-**(34)** 
-**(35)** 
+**(30)** ve hani inkar edenler, [kâfir] kimseler seni [alıkoymaları] tutup bağlamaları için veya öldürmeleri için ya da [kovmaları] sürmeleri için sana [hileli düzen] tuzak kuruyorlardı onlar tuzak kurarlarken Allah da tuzak kuruyordu Allah tuzak kuranların en iyisidir
+**(31)** onlara ayetlerimiz okunduğu zaman muhakkak İşittik dediler şayet istesek bunun gibisini biz de söyleriz bu ancak evvelkilerin masallarındandır
+**(32)** ve hani demişlerdi Allah’ım eğer bu senin yanından gelmiş bir gerçek [hakikatli doğru] (kişi) ise başımıza gökten taş yağdır yahut bize acıklı bir azab getir
+**(33)** oysa Allah onlara ve sen onların içinde bulundukça azab edecek değildi ve Allah onlara ve onlar istiğfar ederlerken azab edecek değildi
+**(34)** onlar Mescid-i haramdan geri çevirdikleri ve onun velisi olmadıkları halde Allah onlara neden azabetmesin? sadece onun velileri [iyice bilip] korunanlardır fakat çokları bilmezler
+**(35)** ve onların Beyt(ullah) yanındaki namazları ıslık çalmadan ve el çırpmadan başka değildir, inkar [onlar inkâr] ediyor(lar) O halde [inkâr ediyor] olmanızdan dolayı azabı tadın
 **(36)** 
 **(37)** 
 **(38)** 
