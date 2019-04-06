@@ -44,8 +44,8 @@ tag:
 **(32)** ve hani demişlerdi Allah’ım eğer bu senin yanından gelmiş bir gerçek [hakikatli doğru] (kişi) ise başımıza gökten taş yağdır yahut bize acıklı bir azab getir
 **(33)** oysa Allah onlara ve sen onların içinde bulundukça azab edecek değildi ve Allah onlara ve onlar istiğfar ederlerken azab edecek değildi
 **(34)** onlar Mescid-i haramdan geri çevirdikleri ve onun velisi olmadıkları halde Allah onlara neden azabetmesin? sadece onun velileri [iyice bilip] korunanlardır fakat çokları bilmezler
-**(35)** ve onların Beyt(ullah) yanındaki namazları ıslık çalmadan ve el çırpmadan başka değildir, inkar [onlar inkâr] ediyor(lar) O halde [inkâr ediyor] olmanızdan dolayı azabı tadın
-**(36)** 
+**(35)** ve onların Beyt(ullah) yanındaki namazları ıslık çalmadan ve el çırpmadan başka değildir, [onlar inkar] ediyor(lar), O halde [inkâr ediyor] olmanızdan dolayı azabı tadın
+**(36)** şüphesiz inkar eden(ler), [kafir] kimseler Allah yoluna engel olmak için [para ve] mallarını harcarlar ve [onu] harcayacaklar sonra (bu) kendilerine dert olacak [kalpleri kırılacak üzülecekler]  nihayet yenilecekler [sonra da üstesinden gelecekler] ve inkar eden(ler), [kafir] kimseler cehenneme sürüleceklerdir
 **(37)** 
 **(38)** 
 **(39)** 
