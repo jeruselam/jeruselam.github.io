@@ -48,7 +48,7 @@ tag:
 **(36)** şüphesiz inkar eden(ler), [kafir] kimseler Allah yoluna engel olmak için [para ve] mallarını harcarlar ve harcayacaklar sonra (bu) kendilerine dert olacak [kalpleri kırılacak üzülecekler]  nihayet yenilecekler [sonra da üstesinden gelecekler] ve inkar eden(ler), [kafir] kimseler cehenneme sürüleceklerdir
 **(37)** Allah [fesadçı, hilekar habis] murdarı temizden [Tayyibden] ayıklasın ve bütün murdarları birini diğerinin üzerine koyup yığsın da hepsini cehenneme atsın diye, ziyana uğrayanlar işte onlardır 
 **(38)** inkar eden(lere), [kâfir] kimselere söyle eğer vazgeçerlerse geçmiştekiler, [geçmişte] olanlar kendilerine  bağışlanır yok yine dönerlerse elbette öncekilerin [sunnet] kanunu geçerlidir
-**(39)** 
+**(39)** ve fitne kalmayıncaya kadar ve din tamamen Allah’ın oluncaya (kadar) onlarla savaşın eğer son verirlerse muhakkak ki Allah ne yaptıklarını görmektedir
 **(40)** 
 **(41)** 
 **(42)** 
