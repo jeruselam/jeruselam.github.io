@@ -25,7 +25,6 @@
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% else if page.excerpt %}
 <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
-<meta name="og:description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
     {% endif %}
 
     {% if page.og_image_url %}
