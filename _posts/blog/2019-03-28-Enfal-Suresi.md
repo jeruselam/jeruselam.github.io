@@ -49,7 +49,7 @@ tag:
 **(37)** Allah [fesadçı, hilekar habis] murdarı temizden [Tayyibden] ayıklasın ve bütün murdarları birini diğerinin üzerine koyup yığsın da hepsini cehenneme atsın diye, ziyana uğrayanlar işte onlardır 
 **(38)** inkar eden(lere), [kâfir] kimselere söyle eğer vazgeçerlerse geçmiştekiler, [geçmişte] olanlar kendilerine  bağışlanır yok yine dönerlerse elbette öncekilerin [sunnet] kanunu geçerlidir
 **(39)** ve fitne kalmayıncaya kadar ve din tamamen Allah’ın oluncaya (kadar) onlarla savaşın eğer son verirlerse muhakkak ki Allah ne yaptıklarını görmektedir
-**(40)** eğer dönerlerse bilin ki muhakkak Allah sizin sahibinizdir; O, ne güzel [şerefli] sahip ve ne güzel yardımcıdır
+**(40)** eğer dönerlerse bilin ki muhakkak Allah sizin sahibinizdir; O, ne güzel [şerefli] sahip ve ne güzel [yardım eden] yardımcıdır
 **(41)** 
 **(42)** 
 **(43)** 
