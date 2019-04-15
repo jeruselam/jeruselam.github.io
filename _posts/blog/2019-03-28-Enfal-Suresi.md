@@ -50,8 +50,8 @@ tag:
 **(38)** inkar eden(lere), [kâfir] kimselere söyle eğer vazgeçerlerse geçmiştekiler, [geçmişte] olanlar kendilerine  bağışlanır yok yine dönerlerse elbette öncekilerin [sunnet] kanunu geçerlidir
 **(39)** ve fitne kalmayıncaya kadar ve din tamamen Allah’ın oluncaya (kadar) onlarla savaşın eğer son verirlerse muhakkak ki Allah ne yaptıklarını görmektedir
 **(40)** eğer dönerlerse bilin ki muhakkak Allah sizin sahibinizdir; O, ne güzel [şerefli] sahip ve ne güzel [yardım eden] yardımcıdır
-**(41)** 
-**(42)** 
+**(41)** bilin ki aldığınız ganimetlerin herbirinin muhakkak beşte biri Allah’a aittir; ve Elçisine ve akrabalara ve yetimlere ve yoksullara
+**(42)** o vakit siz vadinin yakın kenarında idiniz ve onlar da vadinin uzak kenarında idiler ve kervan da sizden daha aşağıda idi ve eğer sözleşmiş olsaydınız dahi sözleştiğiniz vakitte [arkadan gelerek] buluşamazdınız fakat bu açık delille helak olan kimse helak olsun diye ve açık delille yaşayan kimse (de) yaşasın diye, Allah’ın yapılması gereken bir işi yerine getirmesi içindir çünkü Allah [semî´un alîm] işitendir, bilendir
 **(43)** 
 **(44)** 
 **(45)** 
