@@ -52,8 +52,8 @@ tag:
 **(40)** eğer dönerlerse bilin ki muhakkak Allah sizin sahibinizdir; O, ne güzel [şerefli] sahip ve ne güzel [yardım eden] yardımcıdır
 **(41)** bilin ki aldığınız ganimetlerin herbirinin muhakkak beşte biri Allah’a aittir; ve Elçisine ve akrabalara ve yetimlere ve yoksullara
 **(42)** o vakit siz vadinin yakın kenarında idiniz ve onlar da vadinin uzak kenarında idiler ve kervan da sizden daha aşağıda idi ve eğer sözleşmiş olsaydınız dahi sözleştiğiniz vakitte [arkadan gelerek] buluşamazdınız fakat bu açık delille helak olan kimse helak olsun diye ve açık delille yaşayan kimse (de) yaşasın diye, Allah’ın yapılması gereken bir işi yerine getirmesi içindir çünkü Allah [semî´un alîm] işitendir, bilendir
-**(43)** 
-**(44)** 
+**(43)** hani Allah sana onları uykunda az gösteriyordu ve eğer sana onları çok gösterseydi çekinirdiniz ve (savaş) iş(in)de çekişirdiniz fakat Allah kurtardı doğrusu O göğüslerin özünü bilir
+**(44)** ta ki karşılaştığınız zaman sizin gözlerinize onları az gösteriyor ve yapılması gereken bir işi Allah’ın yerine getirmesi için onların gözlerinde sizi de azaltıyordu ve (bütün) işler Allah’a döndürülecektir
 **(45)** 
 **(46)** 
 **(47)** 
