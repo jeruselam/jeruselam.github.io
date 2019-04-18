@@ -61,7 +61,7 @@ tag:
 **(49)** o vakit Münafıklar ve kalblerinde hastalık bulunan kimseler dinleri bunları aldatmış oysa kim Allah’a dayanırsa şüphesiz Allah [azîzun hakîm] daima galibtir, hüküm ve hikmet sahibidir
 **(50)** ve o inkar eden(leri), [kafir] kimseleri Melekler canlarını alırken keşke görseydin, Melekler yüzlerine vuruyorlar ve onları zorluyorlar; haydi tadın yangın azabını
 **(51)** işte bu ellerinizin yapıp öne sürdüğü işler yüzündendir yoksa şüphesiz Allah kullara zulmedici değildir
-**(52)** Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı gidişi gibidir, Allah’ın ayetlerini (onlar da) inkar etmişlerdi, Allah onları günahlarıyla yakalamıştı şüphesiz Allah güçlüdür, cezası çetindir
+**(52)** Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı [düzenli seyreden] gidişi gibidir, Allah’ın ayetlerini (onlar da) inkar etmişlerdi, Allah onları günahlarıyla yakalamıştı şüphesiz Allah güçlüdür, cezası çetindir
 **(53)** 
 **(54)** 
 **(55)** 
