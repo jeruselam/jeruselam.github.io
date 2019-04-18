@@ -60,7 +60,7 @@ tag:
 **(48)** O zaman yaptıkları işi şeytan onlara süslemiş ve insanlardan bugün sizi yenecek kimse yoktur demişti ve elbette ben sizin yanınızdayım fakat ne zaman iki topluluk birbirini görünce iki ökçesi üzerine (geriye) dönüp ve dedi ki elbette ben sizden uzağım elbette ben sizin görmediğinizi, [çok] şeyleri görüyorum elbette ben Allah’tan korkarım zira Allah’ın cezası çetindir
 **(49)** o vakit Münafıklar ve kalblerinde hastalık bulunan kimseler dinleri bunları aldatmış oysa kim Allah’a dayanırsa şüphesiz Allah [azîzun hakîm] daima galibtir, hüküm ve hikmet sahibidir
 **(50)** ve o inkar eden(leri), [kafir] kimseleri Melekler canlarını alırken keşke görseydin, Melekler yüzlerine vuruyorlar ve onları zorluyorlar; haydi tadın yangın azabını
-**(51)** 
+**(51)** işte bu ellerinizin yapıp öne sürdüğü işler yüzündendir yoksa şüphesiz Allah kullara zulmedici değildir
 **(52)** 
 **(53)** 
 **(54)** 
