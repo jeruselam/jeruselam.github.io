@@ -54,9 +54,9 @@ tag:
 **(42)** o vakit siz vadinin yakın kenarında idiniz ve onlar da vadinin uzak kenarında idiler ve kervan da sizden daha aşağıda idi ve eğer sözleşmiş olsaydınız dahi sözleştiğiniz vakitte [arkadan gelerek] buluşamazdınız fakat bu açık delille helak olan kimse helak olsun diye ve açık delille yaşayan kimse (de) yaşasın diye, Allah’ın yapılması gereken bir işi yerine getirmesi içindir çünkü Allah [semî´un alîm] işitendir, bilendir
 **(43)** hani Allah sana onları uykunda az gösteriyordu ve eğer sana onları çok gösterseydi çekinirdiniz ve (savaş) iş(in)de çekişirdiniz fakat Allah kurtardı doğrusu O göğüslerin özünü bilir
 **(44)** ta ki karşılaştığınız zaman sizin gözlerinize onları az gösteriyor ve yapılması gereken bir işi Allah’ın yerine getirmesi için onların gözlerinde sizi de azaltıyordu ve (bütün) işler Allah’a döndürülecektir
-**(45)** 
-**(46)** 
-**(47)** 
+**(45)** ey inanan(lar), [imanlı] kimseler bir toplulukla karşılaştığınız zaman sebat edin ve Allah’ı çok anın belki başarıya erişirsiniz
+**(46)** ve Allah’a ve Elçisine ita’at edin birbirinizle çekişmeyin, yoksa korkuya kapılırsınız da [rahatınız] gücünüz (devletiniz) gider ve sabredin çünkü Allah sabredenlerle beraberdir
+**(47)** Allah yolundan men’edenler ve insanlara gösteriş yaparak ve çalım satarak yurtlarından çıkan [zarara uğrayanlar] gibi olmayın ve Allah onların bütün yaptıklarını [ilmi] kuşatmıştı
 **(48)** 
 **(49)** 
 **(50)** 
