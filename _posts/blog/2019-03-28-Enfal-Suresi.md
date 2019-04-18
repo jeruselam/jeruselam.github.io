@@ -57,7 +57,7 @@ tag:
 **(45)** ey inanan(lar), [imanlı] kimseler bir toplulukla karşılaştığınız zaman sebat edin ve Allah’ı çok anın belki başarıya erişirsiniz
 **(46)** ve Allah’a ve Elçisine ita’at edin birbirinizle çekişmeyin, yoksa korkuya kapılırsınız da [rahatınız] gücünüz (devletiniz) gider ve sabredin çünkü Allah sabredenlerle beraberdir
 **(47)** Allah yolundan men’edenler ve insanlara gösteriş yaparak ve çalım satarak yurtlarından çıkan [zarara uğrayanlar] gibi olmayın ve Allah onların bütün yaptıklarını [ilmi] kuşatmıştı
-**(48)** 
+**(48)** O zaman yaptıkları işi şeytan onlara süslemiş ve insanlardan bugün sizi yenecek kimse yoktur demişti ve elbette ben sizin yanınızdayım fakat ne zaman iki topluluk birbirini görünce iki ökçesi üzerine (geriye) dönüp ve dedi ki elbette ben sizden uzağım elbette ben sizin görmediğinizi, [çok] şeyleri görüyorum elbette ben Allah’tan korkarım zira Allah’ın cezası çetindir
 **(49)** 
 **(50)** 
 **(51)** 
