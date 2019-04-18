@@ -62,8 +62,8 @@ tag:
 **(50)** ve o inkar eden(leri), [kafir] kimseleri Melekler canlarını alırken keşke görseydin, Melekler yüzlerine vuruyorlar ve onları zorluyorlar; haydi tadın yangın azabını
 **(51)** işte bu ellerinizin yapıp öne sürdüğü işler yüzündendir yoksa şüphesiz Allah kullara zulmedici değildir
 **(52)** Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı [düzenli seyreden] gidişi gibidir, Allah’ın ayetlerini (onlar da) inkar etmişlerdi, Allah onları günahlarıyla yakalamıştı şüphesiz Allah güçlüdür, cezası çetindir
-**(53)** 
-**(54)** 
+**(53)** bu böyledir çünkü kendilerinde bulunanı değiştirmediği sürece bir millet onları nimetlendirdiği ni’meti Allah asla değiştirmez ve şüphesiz Allah [semîun alîm] işitendir, bilendir
+**(54)** (Evet) Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı [düzenli seyreden] gidişi gibi Rablerinin ayetlerini yalanlamışlardı, biz de onları günahlarıyle mahvetmiştik ve Fir’avn ailesini boğmuştuk ve hepsi de zulmedicilerdi
 **(55)** 
 **(56)** 
 **(57)** 
