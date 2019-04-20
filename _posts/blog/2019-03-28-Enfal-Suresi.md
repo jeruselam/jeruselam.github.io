@@ -78,8 +78,8 @@ tag:
 **(66)** Allah şimdi sizden hafifletti ve sizde zayıflık bulunduğunu bildi bundan böyle sizden sabreden yüz (kişi) olsa iki yüz(kafir)i yenerler ve eğer olsa sizden bin (kişi) Allah’ın izniyle iki bin(kafir)i yenerler Allah sabredenlerle beraberdir
 **(67)** yeryüzünde ağır basıncaya kadar esirler sahibi olmak hiçbir peygambere yakışmaz, siz geçici dünya malını istiyorsunuz, Allah ise ahireti istiyor, Allah [azîzun hakîm] daima üstün hüküm ve hikmet sahibidir
 **(68)** eğer Allahtan geçmiş bir yazı olmasaydı, [esirlerden] aldığınız fidyeden dolayı size mutlaka büyük bir azab dokunurdu 
-**(69)** 
-**(70)** 
+**(69)** aldığınız ganimetten helal (ve) temiz olarak artık yeyin ve Allah’tan korkun, şüphesiz Allah [gafûrun rahîm] bağışlayandır, esirgeyendir
+**(70)** ey peygamber esirlerden ellerinizde bulunan kimselere söyle sizin kalblerinizde bir hayır olduğunu eğer Allah bilirse sizden alınan (fidye)den daha hayırlısını size verir ve sizi bağışlar, Allah bağışlayandır, esirgeyendir
 **(71)** 
 **(72)** 
 **(73)** 
