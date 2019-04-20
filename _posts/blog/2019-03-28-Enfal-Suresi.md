@@ -64,16 +64,16 @@ tag:
 **(52)** Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı [düzenli seyreden] gidişi gibidir, Allah’ın ayetlerini (onlar da) inkar etmişlerdi, Allah onları günahlarıyla yakalamıştı şüphesiz Allah güçlüdür, cezası çetindir
 **(53)** bu böyledir çünkü kendilerinde bulunanı değiştirmediği sürece bir millet onları nimetlendirdiği ni’meti Allah asla değiştirmez ve şüphesiz Allah [semîun alîm] işitendir, bilendir
 **(54)** (Evet) Fir’avn ailesi ve onlardan öncekilerin, [o] kimselerin tıpkı [düzenli seyreden] gidişi gibi Rablerinin ayetlerini yalanlamışlardı, biz de onları günahlarıyle mahvetmiştik ve Fir’avn ailesini boğmuştuk ve hepsi de zulmedicilerdi
-**(55)** 
-**(56)** 
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
+**(55)** Allah’a göre canlıların en kötüsü şüphesiz [inkar eden] kimselerdir, kafirlerdir artık onlar [iman etmez] inanmazlar
+**(56)** sen kendileriyle andlaşma yaptığın kimseler ve onlar hiç çekinmeden her defasında sonra andlaşmalarını bozarlar 
+**(57)** bundan dolayı savaşta onları yakalarsan onları dağıt arkalarında ki kimseleri de böylece ibret alsınlar
+**(58)** ve eğer bir kavmin hiyanet etmesinden korkarsan sen de onlara aynı şekilde davran çünkü Allah hainleri sevmez
+**(59)** inkar edenler, [kafir] kimseler kaçabileceklerini sanmasınlar şüphesiz onlar (bizi) aciz bırakamazlar
+**(60)** onlara karşı gücünüz yettiği kadar kuvvet ve cihad için bağlanıp beslenen atlar hazırlayın Allah’ın düşmanını ve sizin düşmanınızı ve onların dışında Allah’ın bildiği sizin bilmediğiniz başkalarını bununla korkutursunuz ne ki Allah yolunda harcarsanız herşeyden size tam olarak ödenir ve siz hiç haksızlığa uğratılmazsınız
+**(61)** ve eğer onlar yanaşırlarsa barışa sen de yanaş ona ve Allah’a dayan çünkü O [semîun alîm] işitendir, bilendir
+**(62)** eğer sana hile yapmak isterlerse şüphesiz Allah sana yeter O ki seni ve mü’minleri yardımıyle destekledi
+**(63)** ve onların kalblerinin arasını uzlaştırdı şayet sen yeryüzünde bulunan herşeyi verseydin yine de onların kalblerinin arasını uzlaştıramazdın fakat Allah onların arasını uzlaştırdı çünkü O daima üstündür, hüküm ve hikmet sahibidir
+**(64)** ey peygamber Allah sana ve [karakterli] kimselere, mü’minlerden sana tabi olanlara yeter
 **(65)** 
 **(66)** 
 **(67)** 
