@@ -76,8 +76,8 @@ tag:
 **(64)** ey peygamber Allah sana ve [karakterli] kimselere, mü’minlerden sana tabi olanlara yeter
 **(65)** ey peygamber mü’minleri savaşa teşvik et eğer sizden sabreden yirmi (kişi) olursa iki yüz(kafir)i yenerler ve eğer sizden yüz (kişi) olursa kafir(ler) kimselerden bin (kişiyi) yenerler çünkü onlar anlamaz bir topluluktur
 **(66)** Allah şimdi sizden hafifletti ve sizde zayıflık bulunduğunu bildi bundan böyle sizden sabreden yüz (kişi) olsa iki yüz(kafir)i yenerler ve eğer olsa sizden bin (kişi) Allah’ın izniyle iki bin(kafir)i yenerler Allah sabredenlerle beraberdir
-**(67)** 
-**(68)** 
+**(67)** yeryüzünde ağır basıncaya kadar esirler sahibi olmak hiçbir peygambere yakışmaz, siz geçici dünya malını istiyorsunuz, Allah ise ahireti istiyor, Allah [azîzun hakîm] daima üstün hüküm ve hikmet sahibidir
+**(68)** eğer Allahtan geçmiş bir yazı olmasaydı, [esirlerden] aldığınız fidyeden dolayı size mutlaka büyük bir azab dokunurdu 
 **(69)** 
 **(70)** 
 **(71)** 
