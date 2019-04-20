@@ -74,8 +74,8 @@ tag:
 **(62)** eğer sana hile yapmak isterlerse şüphesiz Allah sana yeter O ki seni ve mü’minleri yardımıyle destekledi
 **(63)** ve onların kalblerinin arasını uzlaştırdı şayet sen yeryüzünde bulunan herşeyi verseydin yine de onların kalblerinin arasını uzlaştıramazdın fakat Allah onların arasını uzlaştırdı çünkü O daima üstündür, hüküm ve hikmet sahibidir
 **(64)** ey peygamber Allah sana ve [karakterli] kimselere, mü’minlerden sana tabi olanlara yeter
-**(65)** 
-**(66)** 
+**(65)** ey peygamber mü’minleri savaşa teşvik et eğer sizden sabreden yirmi (kişi) olursa iki yüz(kafir)i yenerler ve eğer sizden yüz (kişi) olursa kafir(ler) kimselerden bin (kişiyi) yenerler çünkü onlar anlamaz bir topluluktur
+**(66)** Allah şimdi sizden hafifletti ve sizde zayıflık bulunduğunu bildi bundan böyle sizden sabreden yüz (kişi) olsa iki yüz(kafir)i yenerler ve eğer olsa sizden bin (kişi) Allah’ın izniyle iki bin(kafir)i yenerler Allah sabredenlerle beraberdir
 **(67)** 
 **(68)** 
 **(69)** 
