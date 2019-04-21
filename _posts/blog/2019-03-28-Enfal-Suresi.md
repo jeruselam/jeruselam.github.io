@@ -79,7 +79,7 @@ tag:
 **(67)** yeryüzünde ağır basıncaya kadar esirler sahibi olmak hiçbir peygambere yakışmaz, siz geçici dünya malını istiyorsunuz, Allah ise ahireti istiyor, Allah [azîzun hakîm] daima üstün hüküm ve hikmet sahibidir
 **(68)** eğer Allahtan geçmiş bir yazı olmasaydı, [esirlerden] aldığınız fidyeden dolayı size mutlaka büyük bir azab dokunurdu 
 **(69)** aldığınız ganimetten helal (ve) temiz olarak artık yeyin ve Allah’tan korkun, şüphesiz Allah [gafûrun rahîm] bağışlayandır, esirgeyendir
-**(70)** ey peygamber esirlerden ellerinizde bulunan kimselere söyle sizin kalblerinizde bir hayır olduğunu eğer Allah bilirse sizden alınan (fidye)den daha hayırlısını size verir ve sizi bağışlar, Allah bağışlayandır, esirgeyendir
+**(70)** ey peygamber esirlerden ellerinizde bulunan kimselere söyle, sizin kalblerinizde bir hayır olduğunu eğer Allah bilirse sizden alınan (fidye)den daha hayırlısını size verir ve sizi bağışlar, Allah bağışlayandır, esirgeyendir
 **(71)** 
 **(72)** 
 **(73)** 
