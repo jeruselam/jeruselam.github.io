@@ -80,7 +80,7 @@ tag:
 **(68)** eğer Allahtan geçmiş bir yazı olmasaydı, [esirlerden] aldığınız fidyeden dolayı size mutlaka büyük bir azab dokunurdu 
 **(69)** aldığınız ganimetten helal (ve) temiz olarak artık yeyin ve Allah’tan korkun, şüphesiz Allah [gafûrun rahîm] bağışlayandır, esirgeyendir
 **(70)** ey peygamber esirlerden ellerinizde bulunan kimselere söyle, sizin kalblerinizde bir hayır olduğunu eğer Allah bilirse sizden alınan (fidye)den daha hayırlısını size verir ve sizi bağışlar, Allah bağışlayandır, esirgeyendir
-**(71)** 
+**(71)** eğer sana hainlik yapmak isterlerse muhakkak daha önce Allah’a da hainlik yapmışlardı, Allah onlara karşı bu yüzden imkan verdi, Allah bilendir, yerli yerince yapandır
 **(72)** 
 **(73)** 
 **(74)** 
