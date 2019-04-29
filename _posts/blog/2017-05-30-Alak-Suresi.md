@@ -11,21 +11,21 @@ tag:
 
 ## 96. Alak Sûresi
 **(1)** yaratan Rabbinin adıyla oku
-**(2)** O insanı alaktan yarattı
-**(3)** ve Rabbin en büyük kerem sahibidir oku
+**(2)** alaktan insanı O yarattı
+**(3)** oku ve Rabbin en büyük kerem sahibidir
 **(4)** O ki kalemle öğretti
 **(5)** insana bilmediği şeyi öğretti
-**(6)** hayır şüphesiz insan azar
+**(6)** hayır insan azar şüphesiz
 **(7)** kendini zengin (kendine yeterli) gördüğü için
 **(8)** şüphesiz dönüş Rabbinedir
 **(9)** şu men’edeni gördün mü?
 **(10)** namaz kıldığı zaman bir kulu?
-**(11)** ya doğru yol üzerinde olursa gördün mü?
+**(11)** gördün mü? ya doğru yol üzerinde olursa
 **(12)** yahut korunmayı emredese
-**(13)** ya yalanlarsa? ve yüz çevirirse? gördün mü? 
-**(14)** Allah'ın gördüğünü muhakkak bilmedi mi (o)? 
-**(15)** hayır eğer bundan vazgeçmezse mutlaka perçeminden yakalarız
-**(16)** yalancı günahkar perçem(den)
+**(13)** gördün mü? ya yalanlarsa? ve yüz çevirirse? 
+**(14)** bilmedi mi (o)? Allah'ın muhakkak gördüğünü
+**(15)** hayır bundan vazgeçmezse eğer perçeminde mutlakan yakalarız
+**(16)** günahkar yalancı perçem(den)
 **(17)** o zaman meclisini çağırsın
 **(18)** biz de zebanileri çağıracağız
 **(19)** hayır ona boyun eğme secde et ve yaklaş

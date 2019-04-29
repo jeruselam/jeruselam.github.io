@@ -16,7 +16,7 @@ tag:
 **(4)** ve arzda birbirine komşu kıt’alar (vardır) ve çatalı olmadan ve çatallı hurmalıklar ve ekinler ve üzüm bağlar(ı vardır) bir su ile (bunların hepsi) sulanır ama ürünlerinde diğerinin üzerine birbirini üstün yaparız aklını kullanan bir toplum için şüphesiz bunda ayetler vardır
 **(5)** eğer şaşacaksan onların şu sözlerine şaşmak lazım biz toprak olduğumuz  zaman mı? yeniden bir yaratılış içinde gerçekten biz mi? (olacağız) işte onlar Rablerini inkar eden kimselerdir ve onlar boyunlarında halkalar (bulunanlardır) ve onlar ateş halkıdır onlar orada sürekli kalacaklardır
 **(6)** ve iyilikten önce kötülüğü senden acele istiyorlar ve oysa benzerleri onlardan önce gelip geçti ve şüphesiz Rabbin [Allah] zulümlerine karşı insanlar için mağfiret sahibidir ve şüphesiz Rabbinin azabı pek çetindir
-**(7)** ve inkar eden(ler) kimseler diyorlar ki	Rabbinden bir ayet ona indirmeli değil miydi? şüphesiz sen bir uyarıcısın ve hepsi için toplumun bir yol göstericisi vardır
+**(7)** ve inkar eden(ler) kimseler diyorlar ki; Rabbinden bir ayet ona indirmeli değil miydi? şüphesiz sen bir uyarıcısın ve toplumun bir yol göstericisi hepsi için vardır
 **(8)** Allah her dişinin neyi yüklendiğini ve rahimlerin neyi eksilttiğini ve neyi artırdığını bilir ve her şey onun yanında bir ölçü iledir
 **(9)** gizliyi ve aşikareyi (O) bilendir büyüktür yücedir
 **(10)** aranızdan sözü gizleyen kimse ve onu açık (söyleyen) kimse birdir ve o kimse geceleyin gizlenendir ve gündüzün görünendir
