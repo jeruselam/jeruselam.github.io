@@ -54,7 +54,7 @@ tag:
 **(42)** derken ürünü yok edildi ve ona harcadıkları şeyler üzerine ellerini oğuşturmağa başladı ve o çardakları üzerine yıkılmıştı ve keşke ben diyordu kimseyi Rabbime ortak koşmasaydım
 **(43)** ve onun Allah’tan başka kendisine yardım eden bir topluluğu olmadı ve kendisinine yardım edilen olmadı
 **(44)** işte o durumda velilik (koruyuculuk) yalnız hak olan Allah’a mahsustur mükafatı en iyi olan O’dur ve akıbet daha hayırlıdır
-**(45)** ve dünya hayatının misalini onlara anlat gökten bir su indirdik yerin bitkisi onunla karıştı{birleşti} ve rüzgarların savurduğu çöp kırıntıları haline geliverdi ve Allah her şey üzerine kadirdir
+**(45)** ve dünya hayatının misalini onlara anlat, gökten bir su indirdik, yerin bitkisi onunla karıştı{birleşti} ve rüzgarların savurduğu çöp kırıntıları haline geldi ve Allah her şey üzerine kadirdir
 **(46)** mal ve oğullar dünya hayatının süsüdür fakat kalıcı olan güzel işler ise sevapça Rabbinin katında daha hayırlıdır ve umutça da daha hayırlıdır
 **(47)** O gün dağları yürütürüz ve çırılçıplak yeri görürsün onları toplamışız ve onlardan hiçbirini bırakmamışızdır
 **(48)** ve sıra sıra senin Rabbine hepsi sunulmuşlardır andolsun ilk defa sizi yarattığımız gibi bize geldiniz oysa size bir vade tayin etmeyeceğimizi siz sanmıştınız

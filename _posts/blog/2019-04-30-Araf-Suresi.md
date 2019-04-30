@@ -12,7 +12,7 @@ tag:
 
 **(1)** Elif Lâm Mîm Sâd
 **(2)** sana indirilen bir Kitaptır, onunla uyarman ve inananlara öğüt (vermen) hususunda göğsünde bir sıkıntı olmasın 
-**(3)** 
+**(3)** Rabbinizden size indirilen şeye uyun ve O’ndan başka velilere uymayın, ne kadar da az öğüt alıyorsunuz
 **(4)** 
 **(5)** 
 **(6)** 
