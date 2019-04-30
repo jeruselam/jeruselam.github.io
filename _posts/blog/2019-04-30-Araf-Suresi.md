@@ -10,8 +10,8 @@ tag:
 
 ## 07. A'râf Sûresi 
 
-**(1)** 
-**(2)** 
+**(1)** Elif Lâm Mîm Sâd
+**(2)** sana indirilen bir Kitaptır, onunla uyarman ve inananlara öğüt (vermen) hususunda göğsünde bir sıkıntı olmasın 
 **(3)** 
 **(4)** 
 **(5)** 
