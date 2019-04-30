@@ -81,7 +81,7 @@ tag:
 **(69)** aldığınız ganimetten helal (ve) temiz olarak artık yeyin ve Allah’tan korkun, şüphesiz Allah [gafûrun rahîm] bağışlayandır, esirgeyendir
 **(70)** ey peygamber esirlerden ellerinizde bulunan kimselere söyle, sizin kalblerinizde bir hayır olduğunu eğer Allah bilirse sizden alınan (fidye)den daha hayırlısını size verir ve sizi bağışlar, Allah bağışlayandır, esirgeyendir
 **(71)** eğer sana hainlik yapmak isterlerse muhakkak daha önce Allah’a da hainlik yapmışlardı, Allah onlara karşı bu yüzden imkan verdi, Allah [Alîmun hakîm] bilendir, yerli yerince yapandır
-**(72)** şüphesiz onlar ki inandılar ve hicret ettiler ve Allah yolunda mallarıyla ve canlarıyla savaştılar ve onlar ki barındırdılar ve yardım ettiler, işte onlar; bir kısmı bir kısmının velisidir, ve inanan(lar) kimseler ve hicret etmeyenler onlar hicret edinceye kadar size onların [yakınlığında bir fayda] velayetinden bir şey yoktur fakat
+**(72)** şüphesiz onlar ki inandılar ve hicret ettiler ve Allah yolunda mallarıyla ve canlarıyla savaştılar ve onlar ki barındırdılar ve yardım ettiler, işte onlar; bir kısmı bir kısmının velisidir, ve inanan(lar) kimseler ve hicret etmeyenler onlar hicret edinceye kadar size onların [yakınlığından bir fayda], velayetinden bir şey yoktur fakat dinde yardım isterlerse yardım etmeniz sizin üzerinize borçtur, yalnız aranızda ve aralarında andlaşma bulunan bir topluma karşı olmaz, Allah yaptıklarınızı görmektedir
 **(73)** 
 **(74)** 
 **(75)** 
