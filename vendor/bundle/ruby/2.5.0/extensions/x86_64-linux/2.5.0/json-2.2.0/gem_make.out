@@ -1,0 +1,13 @@
+current directory: /run/media/zekid/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+/usr/bin/ruby -r ./siteconf20190430-10925-1c1qajk.rb extconf.rb
+creating Makefile
+
+current directory: /run/media/zekid/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /run/media/zekid/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /run/media/zekid/7926f910-2f96-4da1-a743-7b75c9a7e591/jeruselam.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
