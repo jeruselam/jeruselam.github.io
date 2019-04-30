@@ -84,6 +84,6 @@ tag:
 **(72)** şüphesiz onlar ki inandılar ve hicret ettiler ve Allah yolunda mallarıyla ve canlarıyla savaştılar ve onlar ki barındırdılar ve yardım ettiler, işte onlar; bir kısmı bir kısmının velisidir, ve inanan(lar) kimseler ve hicret etmeyenler onlar hicret edinceye kadar size onların [yakınlığından bir fayda], velayetinden bir şey yoktur fakat dinde yardım isterlerse yardım etmeniz sizin üzerinize borçtur, yalnız aranızda ve aralarında andlaşma bulunan bir topluma karşı olmaz, Allah yaptıklarınızı görmektedir
 **(73)** inkar eden(ler), [kafir] kimseler bazıları diğerlerinin velisidirler, eğer bunu yapmazsanız yeryüzünde fitne ve büyük bir kargaşa olur
 **(74)** onlar ki inandılar ve hicret ettiler ve Allah yolunda savaştılar ve onlar ki barındırdılar ve yardım ettiler, gerçek mü’minler işte onlardır, onlar için bağışlanma ve bol rızık vardır
-**(75)** 
+**(75)** ve onlar ki sonradan inandılar ve hicret ettiler ve sizinle beraber savaştılar, işte onlar sizdendir ve Allah’ın Kitabına göre rahim sahipleri (akrabalar) birbirlerine daha yakındırlar, şüphesiz Allah her şeyi bilir
 
 ![08Enfâl-Medenî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
