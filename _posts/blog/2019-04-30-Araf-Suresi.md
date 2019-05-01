@@ -15,9 +15,9 @@ tag:
 **(3)** Rabbinizden size indirilen şeye [alamete] uyun ve O’ndan başka velilere uymayın, ne kadar da az öğüt alıyorsunuz
 **(4)** ve nice kent(ler)i helak ettik, azabımız onlara gece yatarlarken yahut onlar gündüz uyurlarken geldi
 **(5)** azabımız onlara geldiği zaman biz gerçekten zalimlermişiz demelerinden başka yalvarıları kalmadı
-**(6)** 
-**(7)** 
-**(8)** 
+**(6)** kendilerine elçi gönderilmiş olanlara soracağız ve gönderilen elçilere soracağız 
+**(7)** ve bilgi ile onlara elbette anlatacağız zira onlardan uzak değiliz biz
+**(8)** ve o gün tartı tam doğrudur, kimin tartıları ağır gelirse işte onlar kurtulanlardır
 **(9)** 
 **(10)** 
 **(11)** 
