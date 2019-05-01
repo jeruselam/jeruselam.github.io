@@ -14,7 +14,7 @@ tag:
 **(2)** sana indirilen bir Kitaptır, onunla uyarman ve inananlara öğüt (vermen) hususunda göğsünde bir sıkıntı olmasın 
 **(3)** Rabbinizden size indirilen şeye [alamete] uyun ve O’ndan başka velilere uymayın, ne kadar da az öğüt alıyorsunuz
 **(4)** ve nice kent(ler)i helak ettik, azabımız onlara gece yatarlarken yahut onlar gündüz uyurlarken geldi
-**(5)** 
+**(5)** azabımız onlara geldiği zaman biz gerçekten zalimlermişiz demelerinden başka yalvarıları kalmadı
 **(6)** 
 **(7)** 
 **(8)** 
