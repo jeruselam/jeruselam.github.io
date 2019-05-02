@@ -21,7 +21,7 @@ tag:
 **(9)** kimin tartıları hafif gelirse işte onlar da ayetlerimize [zalimane] haksızlık etmelerinden ötürü kendilerini [hasarete uğratan] kimselerdir, ziyana sokan(lardır)
 **(10)** ve doğrusu biz sizi yeryüzünde yerleştirdik ve size orada geçimlikler verdik ne kadar da az şükrediyorsunuz
 **(11)** ve andolsun sizi yarattık sonra size biçim verdik sonra da meleklere dedik Adem’e secde edin İblis hariç hepsi secde ettiler o secde edenlerden olmadı
-**(12)** 
+**(12)** sana emrettiğim zaman secde etmekten seni alıkoyan nedir? dedi ben dedi ondan hayırlıyım beni ateşten yarattın onu ise çamurdan yarattın
 **(13)** 
 **(14)** 
 **(15)** 
