@@ -19,8 +19,8 @@ tag:
 **(7)** ve [ilmi] bilgi ile onlara elbette anlatacağız zira onlardan [gâibane] uzak değiliz biz
 **(8)** ve o gün tartı tam doğrudur, kimin tartıları ağır gelirse işte onlar [felah bulanlar] kurtulanlardır
 **(9)** kimin tartıları hafif gelirse işte onlar da ayetlerimize [zalimane] haksızlık etmelerinden ötürü kendilerini [hasarete uğratan] kimselerdir, ziyana sokan(lardır)
-**(10)** 
-**(11)** 
+**(10)** ve doğrusu biz sizi yeryüzünde yerleştirdik ve size orada geçimlikler verdik ne kadar da az şükrediyorsunuz
+**(11)** ve andolsun sizi yarattık sonra size biçim verdik sonra da meleklere dedik Adem’e secde edin İblis hariç hepsi secde ettiler o secde edenlerden olmadı
 **(12)** 
 **(13)** 
 **(14)** 
