@@ -23,7 +23,7 @@ tag:
 **(11)** ve andolsun sizi yarattık sonra size biçim verdik sonra da meleklere dedik Adem’e secde edin İblis hariç hepsi secde ettiler o secde edenlerden olmadı
 **(12)** sana emrettiğim zaman secde etmekten seni alıkoyan nedir? dedi ben dedi ondan hayırlıyım beni ateşten yarattın onu ise çamurdan yarattın
 **(13)** 
-**(14)** 
+**(14)** öyle ise in oradan dedi orada büyüklük taslamak senin (haddin) değildir çık çünkü sen aşağılıklardansın
 **(15)** 
 **(16)** 
 **(17)** 
