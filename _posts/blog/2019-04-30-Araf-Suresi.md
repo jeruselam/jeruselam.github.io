@@ -16,7 +16,7 @@ tag:
 **(4)** ve nice kent(ler)i helak ettik, azabımız onlara gece yatarlarken yahut onlar gündüz uyurlarken geldi
 **(5)** azabımız onlara geldiği zaman biz gerçekten zalimlermişiz demelerinden başka yalvarıları kalmadı
 **(6)** kendilerine elçi gönderilmiş olanlara soracağız ve gönderilen elçilere soracağız 
-**(7)** ve [ilmi] bilgi ile onlara elbette anlatacağız zira onlardan [gâibîne] uzak değiliz biz
+**(7)** ve [ilmi] bilgi ile onlara elbette anlatacağız zira onlardan [gâibane] uzak değiliz biz
 **(8)** ve o gün tartı tam doğrudur, kimin tartıları ağır gelirse işte onlar [felah bulanlar] kurtulanlardır
 **(9)** kimin tartıları hafif gelirse işte onlar da ayetlerimize [zalimane] haksızlık etmelerinden ötürü kendilerini [hasarete uğratan] kimselerdir, ziyana sokan(lardır)
 **(10)** 
