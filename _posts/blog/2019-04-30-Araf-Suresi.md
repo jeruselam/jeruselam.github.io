@@ -22,10 +22,10 @@ tag:
 **(10)** ve doğrusu biz sizi yeryüzünde yerleştirdik ve size orada geçimlikler verdik ne kadar da az şükrediyorsunuz
 **(11)** ve andolsun sizi yarattık sonra size biçim verdik sonra da meleklere dedik Adem’e secde edin İblis hariç hepsi secde ettiler o secde edenlerden olmadı
 **(12)** sana emrettiğim zaman secde etmekten seni alıkoyan nedir? dedi ben dedi ondan hayırlıyım beni ateşten yarattın onu ise çamurdan yarattın
-**(13)** 
-**(14)** öyle ise in oradan dedi orada büyüklük taslamak senin (haddin) değildir çık çünkü sen aşağılıklardansın
-**(15)** 
-**(16)** 
+**(13)** öyle ise in oradan dedi orada büyüklük taslamak senin (haddin) değildir çık çünkü sen aşağılıklardansın 
+**(14)** tekrar dirilecekleri güne kadar bana süre ver dedi
+**(15)** dedi ki beni azdırmana karşılık ben de senin doğru yolunun üstüne onlar(ı saptırmak) için oturacağım 
+**(16)** sonra onlara önlerinden ve arkalarından ve sağlarından ve  sollarından sokulacağım ve çoklarını şükredenlerden bulmayacaksın
 **(17)** 
 **(18)** 
 **(19)** 
