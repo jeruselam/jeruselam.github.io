@@ -24,14 +24,14 @@ tag:
 **(12)** sana emrettiğim zaman secde etmekten seni alıkoyan nedir? dedi ben dedi ondan hayırlıyım beni ateşten yarattın onu ise çamurdan yarattın
 **(13)** öyle ise in oradan dedi orada büyüklük taslamak senin (haddin) değildir çık çünkü sen aşağılıklardansın 
 **(14)** tekrar dirilecekleri güne kadar bana süre ver dedi
-**(15)** dedi ki beni azdırmana karşılık ben de senin doğru yolunun üstüne onlar(ı saptırmak) için oturacağım 
-**(16)** sonra onlara önlerinden ve arkalarından ve sağlarından ve  sollarından sokulacağım ve çoklarını şükredenlerden bulmayacaksın
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
-**(21)** 
-**(22)** 
+**(15)** dedi ki haydi sen süre verilmişlerdensin
+**(16)** dedi ki beni azdırmana karşılık ben de senin doğru yolunun üstüne onlar(ı saptırmak) için oturacağım 
+**(17)** sonra onlara önlerinden ve arkalarından ve sağlarından ve  sollarından sokulacağım ve çoklarını şükredenlerden bulmayacaksın 
+**(18)** buyurdu yerilmiş olarak ve kovulmuş olarak haydi çık oradan andolsun onlardan sana kim uyarsa sizin hepinizle cehennemi dolduracağım
+**(19)** Adem sen ve eşin cennette durun dilediğiniz yerden yeyin fakat şu ağaca yaklaşmayın yoksa zalimlerden olursunuz
+**(20)** derken onlara şeytan fısıldadı onların olan çirkin yerlerinden kendilerine göstermek için dedi sırf ikiniz de birer melek olursunuz diye ya da ebedi kalıcılardan olursunuz (diye) Rabbiniz sizi şu ağaç(tan) men’etti 
+**(21)** ve elbette ben size öğüt verenlerdenim diye onlara yemin etti
+**(22)** onları aldatarak aşağı sarkıttı ne zaman ki ağac(ın meyvasın)ı tadınca çirkin yerleri kendilerine göründü ve cennet yapraklarından üst üste yamayıp üzerlerine örtmeğe başladılar ve Rableri onlara seslendi
 **(23)** 
 **(24)** 
 **(25)** 
