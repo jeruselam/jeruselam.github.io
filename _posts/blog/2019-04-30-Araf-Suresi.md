@@ -32,7 +32,7 @@ tag:
 **(20)** derken onlara şeytan fısıldadı onların olan çirkin yerlerinden kendilerine göstermek için dedi sırf ikiniz de birer melek olursunuz diye ya da ebedi kalıcılardan olursunuz (diye) Rabbiniz sizi şu ağaç(tan) men’etti 
 **(21)** ve elbette ben size öğüt verenlerdenim diye onlara yemin etti
 **(22)** onları aldatarak aşağı sarkıttı ne zaman ki ağac(ın meyvasın)ı tadınca çirkin yerleri kendilerine göründü ve cennet yapraklarından üst üste yamayıp üzerlerine örtmeğe başladılar ve Rableri onlara seslendi
-**(23)** 
+**(23)** Rabbimiz biz kendimize zulmettik dediler ve eğer bizi bağışlamazsan ve bize acımazsan muhakkak ziyana uğrayanlardan oluruz
 **(24)** 
 **(25)** 
 **(26)** 
