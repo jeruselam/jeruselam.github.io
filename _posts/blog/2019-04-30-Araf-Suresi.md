@@ -33,10 +33,10 @@ tag:
 **(21)** ve elbette ben size öğüt verenlerdenim diye onlara yemin etti
 **(22)** onları aldatarak aşağı sarkıttı ne zaman ki ağac(ın meyvasın)ı tadınca çirkin yerleri kendilerine göründü ve cennet yapraklarından üst üste yamayıp üzerlerine örtmeğe başladılar ve Rableri onlara seslendi
 **(23)** Rabbimiz biz kendimize zulmettik dediler ve eğer bizi bağışlamazsan ve bize acımazsan muhakkak ziyana uğrayanlardan oluruz
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
+**(24)** buyurdu; bir kısmınız diğerinize düşman olarak inin, bir süreye kadar yeryüzünde yerleşme ve geçinme sizin içindir
+**(25)** orada yaşayacaksınız ve orada öleceksiniz ve yine oradan çıkarılacaksınız dedi
+**(26)** Adem oğulları muhakkak size çirkin yerlerinizi örtecek giysi ve süslenecek elbise indirdik ve takva giysisi bu en iyisidir, işte bu(nlar) Allah'ın ayetlerindendir belki düşünüp öğüt alırlar
+**(27)** Adem oğulları çirkin yerlerini onlara göstermek için onların elbiselerini soyarak cennetten ana babanızı çıkardığı gibi şeytan sizi bir [fitneli]belaya düşürmesin muhakkak o ve kabilesi sizin onları göremeyeceğiniz yerden sizi görürler muhakkak biz şeytanları inanmayan(ların), [amansız] kimselerin dostları yaptık
 **(28)** 
 **(29)** 
 **(30)** 
