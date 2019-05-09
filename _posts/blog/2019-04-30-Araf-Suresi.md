@@ -38,8 +38,8 @@ tag:
 **(26)** Adem oğulları muhakkak size çirkin yerlerinizi örtecek giysi ve süslenecek elbise indirdik ve takva giysisi bu en iyisidir, işte bu(nlar) Allah'ın ayetlerindendir belki düşünüp öğüt alırlar
 **(27)** Adem oğulları çirkin yerlerini onlara göstermek için onların elbiselerini soyarak cennetten ana babanızı çıkardığı gibi şeytan sizi bir [fitneli]belaya düşürmesin muhakkak o ve kabilesi sizin onları göremeyeceğiniz yerden sizi görürler muhakkak biz şeytanları inanmayan(ların), [amansız] kimselerin dostları yaptık
 **(28)** ve onlar bir kötülük yaptıkları zaman Allah bunu bize emretti babalarımızı bu (yolda) bulduk dediler muhakkak de Allah kötülüğü emretmez Allah'a karşı bilmediğiniz şeyleri mi söylüyorsunuz?
-**(29)** 
-**(30)** 
+**(29)** de ki Rabbim adaleti emretti ve her mescidde yüzlerinizi O'na doğrultun ve ilkin sizi yarattığı gibi dini yalnız O'na has kılarak O'na yalvarın, O'na döneceksiniz
+**(30)** bir topluluğu doğru yola iletti ve bir topluluğa da üzerlerine sapıklık [olan delalet] hak oldu
 **(31)** 
 **(32)** 
 **(33)** 
