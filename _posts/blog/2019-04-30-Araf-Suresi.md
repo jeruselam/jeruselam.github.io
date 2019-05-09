@@ -39,7 +39,7 @@ tag:
 **(27)** Adem oğulları çirkin yerlerini onlara göstermek için onların elbiselerini soyarak cennetten ana babanızı çıkardığı gibi şeytan sizi bir [fitneli]belaya düşürmesin muhakkak o ve kabilesi sizin onları göremeyeceğiniz yerden sizi görürler muhakkak biz şeytanları inanmayan(ların), [amansız] kimselerin dostları yaptık
 **(28)** ve onlar bir kötülük yaptıkları zaman Allah bunu bize emretti babalarımızı bu (yolda) bulduk dediler muhakkak de Allah kötülüğü emretmez Allah'a karşı bilmediğiniz şeyleri mi söylüyorsunuz?
 **(29)** de ki Rabbim adaleti emretti ve her mescidde yüzlerinizi O'na doğrultun ve ilkin sizi yarattığı gibi dini yalnız O'na has kılarak O'na yalvarın, O'na döneceksiniz
-**(30)** bir topluluğu doğru yola iletti ve bir topluluğa da üzerlerine sapıklık [olan delalet] hak oldu
+**(30)** bir topluluğu doğru yola iletti ve bir topluluğa da üzerlerine sapıklık [olan delalet] hak oldu çünkü onlar şeytanları Allah'tan başka dostlar tuttular ve kendilerinin de doğru yolda [mehdiler] olduklarını sanıyorlar
 **(31)** 
 **(32)** 
 **(33)** 
