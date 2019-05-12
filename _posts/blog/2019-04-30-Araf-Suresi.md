@@ -40,8 +40,8 @@ tag:
 **(28)** ve onlar bir kötülük yaptıkları zaman Allah bunu bize emretti babalarımızı bu (yolda) bulduk dediler muhakkak de Allah kötülüğü emretmez Allah'a karşı bilmediğiniz şeyleri mi söylüyorsunuz?
 **(29)** de ki Rabbim adaleti emretti ve her mescidde yüzlerinizi O'na doğrultun ve ilkin sizi yarattığı gibi dini yalnız O'na has kılarak O'na yalvarın, O'na döneceksiniz
 **(30)** bir topluluğu doğru yola iletti ve bir topluluğa da üzerlerine sapıklık [olan delalet] hak oldu çünkü onlar şeytanları Allah'tan başka dostlar tuttular ve kendilerinin de doğru yolda [mehdiler] olduklarını sanıyorlar
-**(31)** 
-**(32)** 
+**(31)** Adem oğulları her mesci(de gidişiniz)de süs(lü, güzel giysiler)inizi alın ve yeyin ve için fakat israf etmeyin çünkü O israf edenleri sevmez
+**(32)** de ki Allah’ın kulları için çıkardığı süsü ve güzel rızıkları kim haram etti, de ki O kimselerindir, dünya hayatında inanan(larındır), kıyamet günü de yalnız onlarındır, bilen bir topluluk için biz ayetleri işte böyle açıklıyoruz
 **(33)** 
 **(34)** 
 **(35)** 
