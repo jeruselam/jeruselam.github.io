@@ -44,7 +44,7 @@ tag:
 **(32)** de ki Allah’ın kulları için çıkardığı süsü ve güzel rızıkları kim haram etti, de ki O kimselerindir, dünya hayatında inanan(larındır), kıyamet günü de yalnız onlarındır, bilen bir topluluk için biz ayetleri işte böyle açıklıyoruz
 **(33)** de ki (gerek) açığını onun (gerek) kapalısını Rabbim [aşırı çirkin]fuhuşları ve günahı ve haksız yere saldırmayı ve hakkında hiçbir delil indirmediği bir şeyi Allah’a ortak koşmayı ve Allah hakkında bilmediğiniz şeyler söylemenizi kesinlikle haram etmiştir
 **(34)** ve her ümmetin bir süresi vardır ne zaman ki süreleri gelince bir an geri kalmazlar ve ne de öne geçemezler
-**(35)** Adem oğulları eğer kendi içinizden size elçiler gelirse ayetlerimi size anlattıklarında korunan ve uslanan kimselere üzelerine korku yoktur ve onlar üzülmeyeceklerdir
+**(35)** Adem oğulları eğer kendi içinizden size elçiler gelirse ayetlerimi size anlattıklarında korunan ve uslanan kimselere [onlar] üzelerine korku yoktur ve onlar üzülmeyeceklerdir
 **(36)** 
 **(37)** 
 **(38)** 
