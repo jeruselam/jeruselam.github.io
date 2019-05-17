@@ -46,8 +46,8 @@ tag:
 **(34)** ve her ümmetin bir süresi vardır ne zaman ki süreleri gelince bir an geri kalmazlar ve ne de öne geçemezler
 **(35)** Adem oğulları eğer kendi içinizden size elçiler gelirse ayetlerimi size anlattıklarında korunan ve uslanan kimselere [onlar] üzelerine korku yoktur ve onlar üzülmeyeceklerdir
 **(36)** ayetlerimizi yalanlayan kimseler ve onlara karşı büyüklenenler işte onlar ateş halkıdır, onlar orada sürekli kalacaklardır
-**(37)** Allah’a karşı yalan uyduran ya da O’nun ayetlerini yalanlayan kimseden daha zalim kim olabilir? Kitaptan nasipleri onlara erişir nihayet elçilerimiz gelince canlarını alırken Aolduklarına kendi lah’tan başkasına yalvarmış olduklarınız hani nerede? diyecekler, bizden sapıp kayboldular dediler ve kendilerinin kafirler olduklarına kendi aleyhlerine şahidlik ettiler
-**(38)** 
+**(37)** Allah’a karşı yalan uyduran ya da O’nun ayetlerini yalanlayan kimseden daha zalim kim olabilir? Kitaptan nasipleri onlara erişir nihayet elçilerimiz gelince canlarını alırken Allah’tan başkasına yalvarmış olduklarınız hani nerede? diyecekler, bizden sapıp kayboldular dediler ve kendilerinin kafirler olduklarına kendi aleyhlerine şahidlik ettiler
+**(38)** (Allah) dedi sizden önce geçen cin ve insan toplulukları arasında ateşin içine girin, ümmet her girdiğinde yoldaşına la’net eder, nihayet orada birbiri ardından hepsi toplandığı zaman dediler ki Rabbimiz bunlar bizi saptırdılar bunlara bir kat daha ateş ten azab ver, (Allah) dedi hepsi için bir kat fazla vardır ancak siz bilmezsiniz
 **(39)** 
 **(40)** 
 **(41)** 
