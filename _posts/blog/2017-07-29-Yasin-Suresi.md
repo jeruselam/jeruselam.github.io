@@ -56,7 +56,7 @@ tag:
 **(44)** ancak bizden bir rahmet ve bir süreye kadar yaşatma (vardır) 
 **(45)** ve onlara dendiği zaman, önünüzdeki [sizden öncekilerden], önünüzdeki olanlardan ve arkanızdaki olanlardan sakının, umulur ki esirgenirsiniz
 **(46)** ondan yüz çevirmiş olmadıkları Rabblerinin ayetlerinden hiçbir ayet zaten onlara gelmez
-**(47)** ve onlara Allah’ın size verdiği rızıktan infak edin dendiği zaman nankörler inanan(lara) kimselere Allah’ın dilediği takdirde yedireceği kimseye biz mi yedirelim? derler hayır siz doğrusu apaçık bir sapıklık içindesiniz
+**(47)** ve onlara dendiği zaman, Allah’ın size verdiği rızıktan infak edin nankörler inanan(lara), [iman eden]kimselere derler, Allah’ın dilediği takdirde yedireceği kimseye biz mi yedirelim? hayır siz doğrusu apaçık bir sapıklık içindesiniz
 **(48)** ve eğer doğru söylüyor(lar) iseniz bu tehdid (ettiğiniz azab) ne zaman? diyorlar 
 **(49)** bir tek korkunç sesten başka bir şey beklemiyorlar ve onlar çekişip dururlarken ansızın onları yakalar 
 **(50)** artık bir vasiyete ne de ailelerine dönmeye güçleri yetmez
