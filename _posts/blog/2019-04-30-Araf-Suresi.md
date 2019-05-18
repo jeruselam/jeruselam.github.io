@@ -49,9 +49,9 @@ tag:
 **(37)** Allah’a karşı yalan uyduran ya da O’nun ayetlerini yalanlayan kimseden daha zalim kim olabilir? Kitaptan nasipleri onlara erişir nihayet elçilerimiz gelince canlarını alırken Allah’tan başkasına yalvarmış olduklarınız hani nerede? diyecekler, bizden sapıp kayboldular dediler ve kendilerinin kafirler olduklarına kendi aleyhlerine şahidlik ettiler
 **(38)** (Allah) dedi sizden önce geçen cin ve insan toplulukları arasında ateşin içine girin, ümmet her girdiğinde yoldaşına la’net eder, nihayet orada birbiri ardından hepsi toplandığı zaman dediler ki Rabbimiz bunlar bizi saptırdılar bunlara bir kat daha ateş ten azab ver, (Allah) dedi hepsi için bir kat fazla vardır ancak siz bilmezsiniz
 **(39)** öncekiler sonrakilere dediler ki sizin bize hiç üstünlüğünüz yoktur o halde kazanıyor olduklarınıza karşılık siz de azabı tadın
-**(40)** şüphesiz bizim ayetlerimizi yalanlayan ve onlara kibirlenenler kimseler onlara gök kapıları açılmayacak ve iğne  deliği içinden deve geçinceye kadar onlar cennete giremeyeceklerdir ve suçluları işte böyle cezalandırırız
-**(41)** 
-**(42)** 
+**(40)** şüphesiz bizim ayetlerimizi yalanlayan ve onlara kibirlenenler kimseler, onlara gök kapıları açılmayacak ve iğne  deliği içinden deve geçinceye kadar onlar cennete giremeyeceklerdir ve suçluları işte böyle cezalandırırız
+**(41)** onlar için cehennemden bir döşek ve üstlerinde de (ateşten) örtüler vardır zalimleri işte böyle cezalandırırız
+**(42)** ve inanan kimseler ve iyi işler yapanlar, hiç kimseye gücünün yettiğinden başkasını yüklemeyiz işte onlar cennet halkıdır onlar orada ebedi kalacaklardır
 **(43)** 
 **(44)** 
 **(45)** 
