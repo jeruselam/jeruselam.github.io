@@ -62,7 +62,7 @@ tag:
 **(50)** artık bir vasiyete ne de ailelerine dönmeye güçleri yetmez
 **(51)** ve sur’a üflendi işte onlar kabirlerden Rablerine koşuyorlar
 **(52)** vah bize yattığımız yerden bizi kim? kaldırdı Rahman’ın va’dettiği şey işte budur demek peygamberler doğru söylemiş dediler 
-**(53)** hayır sadece bir tek gürültü olur onların hepsi hemen huzurumuza getirilirler
+**(53)** hayır sadece bir tek gürültü olur, onların hepsi hemen huzurumuza getirilirler
 **(54)** o gün hiç kimseye hiçbir şekilde haksızlık yapılmaz ve siz yapmış olduklarınızın dışında cezalandırılmazsınız 
 **(55)** şüphesiz cennet halkı o gün bir meşguliyet içinde eğlenirler
 **(56)** gölgelerde kendileri ve eşleri koltuklar üzerine yaslanmışlardır
