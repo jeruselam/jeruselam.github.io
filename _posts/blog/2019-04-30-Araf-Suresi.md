@@ -53,10 +53,10 @@ tag:
 **(41)** onlar için cehennemden bir döşek ve üstlerinde de (ateşten) örtüler vardır zalimleri işte böyle cezalandırırız
 **(42)** ve inanan kimseler ve iyi işler yapanlar, hiç kimseye gücünün yettiğinden başkasını yüklemeyiz işte onlar cennet halkıdır onlar orada ebedi kalacaklardır
 **(43)** ve göğüsleri içinde kinden ne varsa çıkarıp atmışızdır, ırmaklar altlarından akmaktadır ve Allah’a hamdolsun dediler o ki [doğru yolu hidayeti gösterdi] lutfedip bizi buraya getirdi Allah eğer bizi [hidayete] getirmeseydi biz (doğruyu) [hidayeti] bulamazdık Rabbimizin elçileri gerçeği muhakkak getirmişler onlara seslenildi işte size cennet yaptıklarınıza karşılık o size miras verildi
-**(44)** 
+**(44)** ve cennet halkı ateş halkına seslendi ki muhakkak Rabbimizin bize va’dettiğini gerçek şeyi biz bulduk Rabbinizin size va’dettiğini gerçek şeyi siz buldunuz mu? evet dediler ve Allah’ın  la’neti zalimlerin üzerine olsun diye aralarından bir ünleyici seslendi
 **(45)** 
 **(46)**
-**(47)** 
+**(47)**
 **(48)** 
 **(49)** 
 **(50)** 
