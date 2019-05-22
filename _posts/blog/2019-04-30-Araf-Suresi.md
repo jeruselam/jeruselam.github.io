@@ -56,7 +56,7 @@ tag:
 **(44)** ve cennet halkı ateş halkına seslendi ki muhakkak Rabbimizin bize va’dettiğini gerçek şeyi biz bulduk Rabbinizin size va’dettiğini gerçek şeyi siz buldunuz mu? evet dediler ve Allah’ın la’neti zalimlerin üzerine olsun diye aralarından bir ünleyici seslendi
 **(45)** onlar ki Allah’ın yolundan menedip ve onu eğriltmek isterler ve onlar ahireti de inkar ederlerdi
 **(46)** iki taraf arasında bir perde (vardır) ve A’raf üzerinde hepsini yüzlerindeki işaretleriyle tanıyan erkekler (vardır) ve size selam olsun diye cennete girmemiş cennet halkına seslendiler fakat onlar beklemektedirler
-**(47)**
+**(47)** ateş halkı tarafına gözleri çevrildiği zaman Rabbimiz bizi zalim toplulukla beraber bulundurma dediler
 **(48)** 
 **(49)** 
 **(50)** 
