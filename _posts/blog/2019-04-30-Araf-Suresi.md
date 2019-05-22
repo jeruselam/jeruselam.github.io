@@ -55,7 +55,7 @@ tag:
 **(43)** ve göğüsleri içinde kinden ne varsa çıkarıp atmışızdır, ırmaklar altlarından akmaktadır ve Allah’a hamdolsun dediler o ki [doğru yolu hidayeti gösterdi] lutfedip bizi buraya getirdi Allah eğer bizi [hidayete] getirmeseydi biz (doğruyu) [hidayeti] bulamazdık Rabbimizin elçileri gerçeği muhakkak getirmişler onlara seslenildi işte size cennet yaptıklarınıza karşılık o size miras verildi
 **(44)** ve cennet halkı ateş halkına seslendi ki muhakkak Rabbimizin bize va’dettiğini gerçek şeyi biz bulduk Rabbinizin size va’dettiğini gerçek şeyi siz buldunuz mu? evet dediler ve Allah’ın la’neti zalimlerin üzerine olsun diye aralarından bir ünleyici seslendi
 **(45)** onlar ki Allah’ın yolundan menedip ve onu eğriltmek isterler ve onlar ahireti de inkar ederlerdi
-**(46)**
+**(46)** iki taraf arasında bir perde (vardır) ve A’raf üzerinde hepsini yüzlerindeki işaretleriyle tanıyan erkekler (vardır) ve size selam olsun diye cennete girmemiş cennet halkına seslendiler fakat onlar beklemektedirler
 **(47)**
 **(48)** 
 **(49)** 
