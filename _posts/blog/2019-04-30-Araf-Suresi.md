@@ -57,8 +57,8 @@ tag:
 **(45)** onlar ki Allah’ın yolundan menedip ve onu eğriltmek isterler ve onlar ahireti de inkar ederlerdi
 **(46)** iki taraf arasında bir perde (vardır) ve A’raf üzerinde hepsini yüzlerindeki işaretleriyle tanıyan erkekler (vardır) ve size selam olsun diye cennete girmemiş cennet halkına seslendiler fakat onlar beklemektedirler
 **(47)** ateş halkı tarafına gözleri çevrildiği zaman Rabbimiz bizi zalim toplulukla beraber bulundurma dediler
-**(48)** 
-**(49)** 
+**(48)** ve A’raf halkı yüzlerinden tanıdıkları birtakım adamlara seslendiler dediler ki topluluğunuzun size ne de büyüklük taslamanız size hiçbir yarar sağlamadı
+**(49)** hiçbir rahmete Allah onları erdirmeyecek diye yemin ettiğiniz kimseler bunlar mıydı? cennete girin artık size korku yoktur ve siz üzülecek de değilsiniz
 **(50)** 
 **(51)** 
 **(52)** 
