@@ -61,7 +61,7 @@ tag:
 **(49)** hiçbir rahmete Allah onları erdirmeyecek diye yemin ettiğiniz kimseler bunlar mıydı? cennete girin artık size korku yoktur ve siz üzülecek de değilsiniz
 **(50)** ve Allah’ın size verdiği rızıktan veya su(yunuz)dan biraz da bizim üzerimize akıtın diye ateş halkı cennet halkına seslendiler, dediler ki şüphesiz Allah kafirler üzerine bu ikisini haram etmiştir
 **(51)** onlar ki dinlerini bir eğlence ve oyun yerine koydular ve dünya hayatı kendilerini aldattı, bu günleriyle karşılaşacaklarını unuttukları ve ayetlerimizi bile bile inkar ettikleri gibi bugün biz de onları unuturuz 
-**(52)** 
+**(52)** gerçekten onlara [ilmi] bilgiye göre açıkladığımız inanan bir toplum için yol gösterici ve rahmet olan bir Kitap getirdik
 **(53)** 
 **(54)** 
 **(55)** 
