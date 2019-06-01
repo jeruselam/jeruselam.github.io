@@ -60,7 +60,7 @@ tag:
 **(48)** ve A’raf halkı yüzlerinden tanıdıkları birtakım adamlara seslendiler dediler ki topluluğunuzun size ne de büyüklük taslamanız size hiçbir yarar sağlamadı
 **(49)** hiçbir rahmete Allah onları erdirmeyecek diye yemin ettiğiniz kimseler bunlar mıydı? cennete girin artık size korku yoktur ve siz üzülecek de değilsiniz
 **(50)** ve Allah’ın size verdiği rızıktan veya su(yunuz)dan biraz da bizim üzerimize akıtın diye ateş halkı cennet halkına seslendiler, dediler ki şüphesiz Allah kafirler üzerine bu ikisini haram etmiştir
-**(51)** onlar ki dinlerini bir eğlence ve oyun yerine koydular 
+**(51)** onlar ki dinlerini bir eğlence ve oyun yerine koydular ve dünya hayatı kendilerini aldattı, bu günleriyle karşılaşacaklarını unuttukları ve ayetlerimizi bile bile inkar ettikleri gibi bugün biz de onları unuturuz 
 **(52)** 
 **(53)** 
 **(54)** 
