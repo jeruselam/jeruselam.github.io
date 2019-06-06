@@ -62,7 +62,7 @@ tag:
 **(50)** ve Allah’ın size verdiği rızıktan veya su(yunuz)dan biraz da bizim üzerimize akıtın diye ateş halkı cennet halkına seslendiler, dediler ki şüphesiz Allah kafirler üzerine bu ikisini haram etmiştir
 **(51)** onlar ki dinlerini bir eğlence ve oyun yerine koydular ve dünya hayatı kendilerini aldattı, bu günleriyle karşılaşacaklarını unuttukları ve ayetlerimizi bile bile inkar ettikleri gibi bugün biz de onları unuturuz 
 **(52)** gerçekten onlara [ilmi] bilgiye göre açıkladığımız [imanlı] inanan bir toplum için yol gösterici ve rahmet olan bir Kitap getirdik
-**(53)** onun te’vili[yorumu] geldiği gün onun te’vilini mi? gözetiyorlar derler ki
+**(53)** onun te’vili[yorumu] geldiği gün onun [yorumunu]te’vilini mi? gözetiyorlar derler ki
 **(54)** 
 **(55)** 
 **(56)** 
