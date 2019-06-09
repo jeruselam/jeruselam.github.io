@@ -64,7 +64,7 @@ tag:
 **(52)** gerçekten onlara [ilmi] bilgiye göre açıkladığımız [imanlı] inanan bir toplum için yol gösterici ve rahmet olan bir Kitap getirdik
 **(53)** onun te’vili[yorumu] geldiği gün illā onun [yorumunu]te’vilini mi? gözetiyorlar, onu önceden unutmuş olanlar derler ki doğrusu Rabbimizin [resul]elçileri gerçeği getirmiş, bizim şefa’atçilerimiz var mı ki? bize şefa’at etsinler yahut tekrar geri döndürülür müyüz ki [yaptığımız]şeylerden, yaptıklarımızdan başkasını yapalım, muhakkak onlar kendilerini ziyana soktular ve uyduruyor oldukları şeyler kendilerinden saptı
 **(54)** şüphesiz Rabbiniz o Allah’tır ki altı gün içinde gökleri ve yeri yarattı sonra [göğü yükseltti], Arş üzerine istiva etti, durmadan onu kovalayan gündüz(ün üzerin)e geceyi bürüyüp örter ve güneşi ve ayı ve yıldızları buyruğuna boyun eğmiş vaziyette İyi bilin ki yaratma ve emir O’nundur Âlemlerin Rabbi Allah ne uludur
-**(55)** 
+**(55)** Rabbinize yalvararak ve gizlice du’a edin çünkü O haddi aşanları sevmez
 **(56)**
 **(57)** 
 **(58)** 
