@@ -66,19 +66,19 @@ tag:
 **(54)** şüphesiz Rabbiniz o Allah’tır ki altı gün içinde gökleri ve yeri yarattı sonra [göğü yükseltti], Arş üzerine istiva etti, durmadan onu kovalayan gündüz(ün üzerin)e geceyi bürüyüp örter ve güneşi ve ayı ve yıldızları buyruğuna boyun eğmiş vaziyette İyi bilin ki yaratma ve emir O’nundur Âlemlerin Rabbi Allah ne uludur
 **(55)** Rabbinize yalvararak ve gizlice du’a edin çünkü O haddi aşanları sevmez
 **(56)** düzeltildikten sonra yeryüzünde bozgunculuk yapmayın korkarak ve umarak O'na du'a edin muhakkak ki Allah'ın rahmeti iyilik edenlere yakındır
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
+**(57)** O ki rahmetinin önünde müjdeci rüzgarları gönderir nihayet [o]zaman onlar ağır ağır bulutları yüklenince ölü bir ülkeye onu yollarız onunla su indiririz ve onunla türlü türlü meyvalar çıkarırız ölüleri de işte böyle çıkaracağız herhalde ibret alırsınız
+**(58)** ve güzel olan ülkenin bitkisi Rabbinin izniyle çıkar kötü olandan ise yararsız bitkiden başka bir şey çıkmaz şükreden bir toplum için ayetleri işte biz böyle döndürüp açıklarız
+**(59)** andolsun Nuh'u kavmine gönderdik dedi ki kavmim Allah'a kulluk edin O'ndan başka sizin hiçbir tanrınız yoktur doğrusu ben size büyük bir günün azabın(ın inmesin)den korkuyorum
+**(60)** kavminden ileri gelenler dedi(ler) ki elbette biz açık bir sapıklık içinde seni görüyoruz
+**(61)** dedi ki kavmim bende bir sapıklık yoktur fakat ben alemlerin Rabbi tarafından bir elçiyim
+**(62)** Rabbimin mesajlarını size duyuruyorum ve size öğüt veriyorum ve sizin bilmediğiniz şeyleri Allah tarafından biliyorum
+**(63)** sizi uyarmak için ve korunmanız için ve belki merhamete uğrarsınız diye içinizden bir adam aracılığı ile Rabbinizden bir Zikir gelmesine şaştınız mı?
+**(64)** O'nu yalanladılar biz de gemide bulunanları O'nunla berebar o kimseleri kurtardık ve ayetlerimizi yalanlayanları [o]kimseleri boğduk çünkü onlar kör bir kavim idiler
+**(65)** ve Ad(kavmin)e de kardeşleri Hud'u (gönderdik) dedi ki kavmim Allah'a kulluk edin O'dan başka sizin hiçbir [ilah]tanrınız yoktur, sakınmaz mısınız?
+**(66)** kavminden ileri gelen kimseler, inkarcılar dedi(ler) ki elbette biz seni bir beyinsizlik içinde görüyoruz ve elbette biz zannediyoruz ki sen yalancılardansın
+**(67)** kavmim dedi bende beyinsizlik[akılsızlık] yoktur fakat ben alemlerin Rabbi tarafından bir [rasul]elçiyim
+**(68)** Rabbimin mesajlarını size duyuruyorum ve ben sizin için güvenilir bir öğütçüyüm
+**(69)** sizi uyarması için içinizden bir adam aracılığı ile Rabbiniz tarafından size bir Zikir gelmesine şaştınız mı? düşünün ki ne zaman ki sizi Nuh kavminden sonra hakimler yaptı ve size yaratılışta üstünlük, güç verdi ki Allah'ın ni'metlerini hatırlayın umulur ki başarıya erersiniz
 **(70)** 
 **(71)** 
 **(72)** 

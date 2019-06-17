@@ -50,8 +50,8 @@ tag:
 **(38)** ve Ad’ı[Hud(as)] ve Semud’u[Sâlih(as)] ve Ress[kuyu] halkını ve bunun arasında nesilleri daha birçoğunu
 **(39)** onlara hepsine misaller getirdik ve hepsini helakla[yıkışla] helak[ziyan] ettik
 **(40)** ve andolsun yağmura tutulan kente vardılar bela yağmuruna onu görmüyorlar mıydı? hayır onlar tekrar dirilip kalkmayı ummuyorlardı 
-**(41)** ve seni gördükleri zaman eğlence konusundan başka bir şey yapmıyorlar seni, Allah elçi bunu mu? göndermiş 
-**(42)** nerdeyse bizi saptıracaktı (diyorlar) tanrılarımızdan onda biz kararlılık eğer etmeseydik ve yakında bileceklerdir azabı gördükleri zaman kimin yolunun sapık olduğunu
+**(41)** ve seni gördükleri zaman seni eğlence konusundan başka bir şey yapmıyorlar, Allah elçi bunu mu? göndermiş 
+**(42)** eğer biz onda kararlılık etmeseydik nerdeyse bizi tanrılarımızdan saptıracaktı (diyorlar) ve yakında kimin yolunun sapık olduğunu azabı gördükleri zaman bileceklerdir
 **(43)** arzusunu tanrı[ilâhe] edinen kimseyi gördün mü? onun üstüne sen mi? bekçi[işini gören, vekil] olacaksın 
 **(44)** yoksa sanıyor musun ki? onların çoğu gerçekten işitiyorlar veya düşünüyorlar, değildir onlar ancak hayvanlar gibidir hatta onlar yolca daha sapıktır 
 **(45)** görmedin mi? Rabbini nasıl? uzattı gölgeyi ve şayet dileseydi onu durgun yapardı sonra güneşi ona bir delil[kılavuz] kıldık 
