@@ -81,7 +81,7 @@ tag:
 **(69)** sizi uyarması için içinizden bir adam aracılığı ile Rabbiniz tarafından size bir Zikir gelmesine şaştınız mı? düşünün ki ne zaman ki sizi Nuh kavminden sonra hakimler yaptı ve size yaratılışta üstünlük, güç verdi ki Allah'ın ni'metlerini hatırlayın umulur ki başarıya erersiniz
 **(70)** dediler kitek olan Allah'a kulluk etmemiz için ve atalarımızın tapıyor oldukları şeyleri bırakalım diye sen bize mi geldin? eğer doğrulardan isen bizi tehdidettiğin şeyi (haydi) bize getir
 **(71)** dedi ki artık Rabbinizden size bir pislik ve gazab inmiştir, Allah'ın onlar için hiçbir delil indirmediği sadece sizin ve atalarınızın adlandırdığınız isimler hakkında benimle mi tartışıyorsunuz? bekleyin öyle ise ben de sizinle beraber bekleyenlerdenim
-**(72)** 
+**(72)** bizden bir rahmetle O'nunla beraber olanları ve O'nu kurtardık ve inanmayacak olanların ve ayetlerimizi yalanlayan(ların) [yalan söyleyen]kimselerin kökünü kestik
 **(73)** 
 **(74)** 
 **(75)** 
