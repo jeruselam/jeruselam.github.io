@@ -82,8 +82,8 @@ tag:
 **(70)** dediler kitek olan Allah'a kulluk etmemiz için ve atalarımızın tapıyor oldukları şeyleri bırakalım diye sen bize mi geldin? eğer doğrulardan isen bizi tehdidettiğin şeyi (haydi) bize getir
 **(71)** dedi ki artık Rabbinizden size bir pislik ve gazab inmiştir, Allah'ın onlar için hiçbir delil indirmediği sadece sizin ve atalarınızın adlandırdığınız isimler hakkında benimle mi tartışıyorsunuz? bekleyin öyle ise ben de sizinle beraber bekleyenlerdenim
 **(72)** bizden bir rahmetle O'nunla beraber olanları ve O'nu kurtardık ve inanmayacak olanların ve ayetlerimizi yalanlayan(ların) [yalan söyleyen]kimselerin kökünü kestik
-**(73)** 
-**(74)** 
+**(73)** ve Semud(kavmin)e de kardeşleri Salih'i (gönderdik) dedi ki kavmim Allah'a kulluk edin, sizin O'ndan başka hiçbir tanrınız[ilahınız] yoktur elbette size Rabbiniz tarafından açık delil geldi, işte şu Allah'ın devesi size bir mu'cizedir bırakın onu Allah'ın arzından yesin (içsin) sakın ona bir kötülük dokundurmayın yoksa sizi acıklı bir azab yakalar
+**(74)** düşünün ki hani Ad'dan sonra sizi hükümdarlar yaptı ve sizi yeryüzünde yerleştirdi, O'nun düzlüklerinde saraylar ediniyorsunuz ve dağlarını yontup evler yapıyorsunuz, Allah'ın ni'metlerini artık hatırlayın bozgunculuk yapıp yeryüzünde karışıklık çıkarmayın
 **(75)** 
 **(76)** 
 **(77)** 
