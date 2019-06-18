@@ -79,8 +79,8 @@ tag:
 **(67)** kavmim dedi bende beyinsizlik[akılsızlık] yoktur fakat ben alemlerin Rabbi tarafından bir [rasul]elçiyim
 **(68)** Rabbimin mesajlarını size duyuruyorum ve ben sizin için güvenilir bir öğütçüyüm
 **(69)** sizi uyarması için içinizden bir adam aracılığı ile Rabbiniz tarafından size bir Zikir gelmesine şaştınız mı? düşünün ki ne zaman ki sizi Nuh kavminden sonra hakimler yaptı ve size yaratılışta üstünlük, güç verdi ki Allah'ın ni'metlerini hatırlayın umulur ki başarıya erersiniz
-**(70)** 
-**(71)** 
+**(70)** dediler kitek olan Allah'a kulluk etmemiz için ve atalarımızın tapıyor oldukları şeyleri bırakalım diye sen bize mi geldin? eğer doğrulardan isen bizi tehdidettiğin şeyi (haydi) bize getir
+**(71)** dedi ki artık Rabbinizden size bir pislik ve gazab inmiştir, Allah'ın onlar için hiçbir delil indirmediği sadece sizin ve atalarınızın adlandırdığınız isimler hakkında benimle mi tartışıyorsunuz? bekleyin öyle ise ben de sizinle beraber bekleyenlerdenim
 **(72)** 
 **(73)** 
 **(74)** 
