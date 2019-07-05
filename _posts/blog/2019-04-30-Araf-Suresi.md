@@ -84,35 +84,35 @@ tag:
 **(72)** bizden bir rahmetle O'nunla beraber olanları ve O'nu kurtardık ve inanmayacak olanların ve ayetlerimizi yalanlayan(ların) [yalan söyleyen]kimselerin kökünü kestik
 **(73)** ve Semud(kavmin)e de kardeşleri Salih'i (gönderdik) dedi ki kavmim Allah'a kulluk edin, sizin O'ndan başka hiçbir tanrınız[ilahınız] yoktur elbette size Rabbiniz tarafından açık delil geldi, işte şu Allah'ın devesi size bir mu'cizedir bırakın onu Allah'ın arzından yesin (içsin) sakın ona bir kötülük dokundurmayın yoksa sizi acıklı bir azab yakalar
 **(74)** düşünün ki hani Ad'dan sonra sizi hükümdarlar yaptı ve sizi yeryüzünde yerleştirdi, O'nun düzlüklerinde saraylar ediniyorsunuz ve dağlarını yontup evler yapıyorsunuz, Allah'ın ni'metlerini artık hatırlayın bozgunculuk yapıp yeryüzünde karışıklık çıkarmayın
-**(75)** 
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
-**(82)** 
-**(83)** 
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)** 
-**(88)** 
-**(89)** 
-**(90)** 
-**(91)**
-**(92)** 
-**(93)** 
-**(94)**  
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
-**(99)** 
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
+**(75)** ileri gelenler onlar ki büyüklük taslıyorlar, kavminden zayıf görülen kimseler içlerinden inanan kimselere (karşı) gerçekten siz Salih'in Rabbi tarafından gönderildiğini biliyor musunuz? dediler doğrusu biz onunla gönderilene inananlarız dediler
+**(76)** büyüklük taslayan(lar) [müstekbir] kimseler şüphesiz biz sizin kendisine inandığınızı inkar edenleriz dediler
+**(77)** derken dişi deveyi boğazladılar ve Rablerinin buyruğundan dışına çıktılar ve Salih eğer elçilerden isen bizi tehdidettiğin şeyi bize getir dediler
+**(78)** o sarsıntı hemen onları yakaladı yurtlarında diz üstü çökekaldılar
+**(79)** onlardan öteye döndü ve kavmim dedi Rabbimin mesajlarını muhakkak ben size duyurdum ve size öğüt verdim fakat siz öğüt verenleri sevmiyorsunuz
+**(80)** ve Lut'u da (gönderdik) kavmine dedi sizden önce dünyalarda onu hiç kimsenin yapmadığı fuhşu siz mi yapıyorsunuz?
+**(81)** muhakkak siz kadınları bırakıp şehvetle erkeklere yaklaşıyorsunuz doğrusu siz haddi aşan bir kavimsiniz
+**(82)** kentinizden onları çıkarın çünkü onlar fazla temizlenen insanlarmış demelerinden başka kavminin cevabı olmadı
+**(83)** biz de onu ve ailesini kurtardık yalnız karısı geride kalanlardan oldu
+**(84)** ve üzerlerine bir yağmur yağdırdık, suçluların sonu bak nasıl oldu
+**(85)** ve Medyen'e kardeşleri Şuayb'i (gönderdik) kavmim Allah'a kulluk edin dedi sizin O'ndan başka hiç tanrınız[ilahınız] yoktur Rabbinizden size açık bir delil geldi, ölçüyü ve tartıyı tam yapın ve insanların eşyalarını eksiltmeyin, düzeltildikten sonra yeryüzünde bozgunculuk yapmayın eğer inananlar iseniz sizin için böylesi daha iyidir
+**(86)** ve onun eğriliğini arayarak ve onunla inanan kimseleri Allah yolundan engelleyerek ve tehdit ederek her yola oturmayın ve düşünün ne zaman ki siz az idiniz O sizi çoğalttı ve bozguncuların sonu bakın nasıl oldu
+**(87)** ve eğer ona benimle gönderilen kişiye içinizden bir kısmı inanmış ise ve bir kısmı da inanmamış ise Allah aramızda hükmedinceye kadar sabredin ve O hükmedenlerin en iyisidir
+**(88)** ileri gelenler, kavminden büyüklük taslayan kimseler dediler ki Şu'ayb mutlaka seni ve seninle beraber inanan(ları) kimseleri kentimizden çıkarırız ya da dinimize dönersiniz dedi ki biz istemezsek bile mi?
+**(89)** eğer tekrar ona sizin dininize dönersek muhakkak Allah'ın üzerine yalan atmış oluruz sonra Allah ondan bizi kurtardı Rabbimiz Allah dilemesi dışında ona dönmemiz bizim için mümkün değildir Rabbimiz her şeyi bilgice kuşatmıştır, Allah'a dayanmışız, Rabbimiz aramızı ve kavmimizin arasını gerçekle aç(ığa çıkar) muhakkak ki sen aç(ığa çıkar)anların en iyisisin
+**(90)** ve kavminden inkar eden kimseler dediler ki eğer Şu'ayb'e uyarsanız muhakkak siz ziyana uğrarsınız
+**(91)** derken onları o müthiş sarsıntı yakalayıverdi, yurtlarında diz üstü çökekaldılar
+**(92)** Şu'ayb'i yalanlayan kimseler orada sanki hiç oturmamış gibi oldular, Şu'ayb'i yalanlayan kimseler onlar ziyana uğrayanlar oldular
+**(93)** onlardan öteye döndü ve kavmim dedi andolsun Rabbimin mesajlarını ben size duyurdum ve size öğüt verdim, artık kafir bir kavme nasıl acırım
+**(94)** ve yalvarıp yakarsınlar diye halkını yoksulluk ve darlıkla sık(ma)dığımız bir ülkeye hiçbir nebi göndermedik
+**(95)** sonra iyilik yerine kötülüğü değiştirip getirdik ta ki çoğaldılar ve muhakkak atalarımıza darlık ve sevinç dokunmuştu dediler biz de onları ansızın yakaladık ve onlar farkında değillerdi
+**(96)** ve şayet elbette (O) ülkelerin halkı inansalardı ve korunsalardı gökten ve yer(den) üzerlerine bolluklar açardık fakat yalanladılar biz de onları kazanıyor oldukları şeylerle yakaladık
+**(97)** (o) ülkelerin halkı azabımızın geceleyin ve onlar uyurlarken kendilerine gelmeyeceğinden emin midirler?
+**(98)** Ya da (o) ülkelerin halkı azabımızın kuşluk vakti ve onlar eğlenirlerken onlara gelmeyeceğinden emin midirler?
+**(99)** Allah'ın tuzağından emin mi oldular? ziyana uğrayan topluluktan başkası Allah'ın tuzağından emin olamaz
+**(100)** sahiplerinden sonra şu toprağa varis olanları [mirasçı]kimseleri yola getirmedi mi? eğer biz dilesek günahlarıyla kendilerini de cezalandırırız ve kalblerinin üzerini mühürleriz artık onlar hiç işitmezler
+**(101)** işte o ülkeler sana onların haberlerinden anlatıyoruz ve andolsun elçileri onlara açık deliller getirmişlerdi fakat hayır onlar önceden yalanladıklarından ötürü inanmadılar Allah kafirlerin kalbleri üzerini işte böyle mühürler
+**(102)** ve onların çoklarında hiç sözünde durma bulmadık ve fakat onların çoklarını yoldan çıkmış bulduk
+**(103)** sonra ardlarından Musa'yı ayetlerimizle Fir'avn'a ve onun ileri gelenlerine gönderdik (ayetlerimize) haksızlık ettiler fakat bak bozguncuların sonu nasıl oldu
 **(104)** 
 **(105)** 
 **(106)** 
