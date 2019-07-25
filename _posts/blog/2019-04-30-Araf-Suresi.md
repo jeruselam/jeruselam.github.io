@@ -113,51 +113,55 @@ tag:
 **(101)** işte o ülkeler sana onların haberlerinden anlatıyoruz ve andolsun elçileri onlara açık deliller getirmişlerdi fakat hayır onlar önceden yalanladıklarından ötürü inanmadılar Allah kafirlerin kalbleri üzerini işte böyle mühürler
 **(102)** ve onların çoklarında hiç sözünde durma bulmadık ve fakat onların çoklarını yoldan çıkmış bulduk
 **(103)** sonra ardlarından Musa'yı ayetlerimizle Fir'avn'a ve onun ileri gelenlerine gönderdik (ayetlerimize) haksızlık ettiler fakat bak bozguncuların sonu nasıl oldu
-**(104)** 
-**(105)** 
-**(106)** 
-**(107)** 
-**(108)** 
-**(109)** 
-**(110)** 
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
-**(115)** 
-**(116)** 
-**(117)** 
-**(118)** 
-**(119)** 
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
-**(124)** 
-**(125)** 
-**(126)** 
-**(127)** 
-**(128)** 
-**(129)** 
-**(130)** 
-**(131)** 
-**(132)** 
-**(133)** 
-**(134)** 
-**(135)** 
-**(140)** 
-**(141)** 
-**(142)** 
-**(143)** 
-**(144)** 
-**(145)** 
-**(146)** 
-**(147)** 
-**(148)** 
-**(149)** 
-**(150)** 
+**(104)** Musa dedi ki Fir'avn muhakkak ben alemlerin Rabbi tarafından [rasül]bir elçiyim 
+**(105)** ki benim üzerime borçtur, Allah'a karşı asla [hakk]gerçekten başkasını söylemem andolsun Rabbinizden size açık bir delil getirdim İsrail oğullarını artık benimle gönder
+**(106)** (Fir'avn) dedi eğer bir ayet getirmiş isen şayet doğru söyleyenlerden isen onu getir bakalım
+**(107)** bunun üzerine birden asasını attı o açıkça bir ejderha (oluverdi)
+**(108)** ve birden elini (böğründen) çıkardı o bakanlar için bembeyaz parlıyordu
+**(109)** kavminden ileri gelenler dedi(ler) ki Fir'avn muhakkak bu çok bilgili bir büyücüdür
+**(110)** sizi yurdunuzdan çıkarmak istiyor ne? buyurursunuz
+**(111)** onu beklet ve kardeşini de ve şehirlere toplayıcılar gönder dediler
+**(112)** bilgili bütün büyücüleri sana getirsinler
+**(113)** ve büyücüler Fir'avn'a geldi, eğer biz üstün gelen olursak elbette bize bir mükafat var (değil mi?) dediler 
+**(114)** evet dedi hem de siz yakınlar(ım) olanlardansınız
+**(115)** dediler ki Musa sen önce mi? atacaksın yoksa biz (mi) (önce) atanlar olalım
+**(116)** siz atın dedi ne zaman ki atınca insanların gözlerini büyülediler ve onları ürküttüler ve büyük  bir büyü getirdiler
+**(117)** ve Asanı at diye biz de Musa'ya vahyettik (bir de baktılar ki) onların uydurdukları şeyleri o yakalayıp yutuyor
+**(118)** [hakk]gerçek ortaya çıktı ve yapıyor(lar) oldukları şeyler batıl oldu
+**(119)** orada yenildiler ve küçük düştüler
+**(120)** ve büyücüler secdeye kapandılar
+**(121)** alemlerin Rabbine inandık dediler
+**(122)** Musa'nın ve Harun'un Rabbine
+**(123)** Fir'avn dedi size ben izin vermeden önce ona inandınız mı? muhakkak ki bu halkını oradan çıkarmak için şehirde kurduğunuz bir tuzaktır ama yakında bileceksiniz
+**(124)** ellerinizi ve ayaklarınızı elbette çaprazlama keseceğim sonra hepinizi asacağım
+**(125)** dediler ki biz zaten Rabbimize döneceğiz
+**(126)** ve bize geldiği zaman Rabbimizin ayetlerine inanmamız dışında bizden öc almıyorsun, Rabbimiz üzerimize sabır boşalt ve müslümanlar olarak bizi öldür 
+**(127)** Fir'avn kavminden ileri gelen bir topluluk dedi ki seni ve tanrılarını terk edip yeryüzünde bozgunculuk yapsınlar diye Musa'yı ve kavmini bırakacak mısın? ve biz onların oğullarını öldüreceğiz ve kadınlarını sağ bırakacağız ve biz daima onların üstünde eziciler olacağız
+**(128)** Musa kavmine Allah'tan yardım isteyin ve sabredin dedi şüphesiz yeryüzü Allah'ındır onu kullarından dilediği kimseye verir ve sonuç [Allah'ın sevmediği fena şeylerden] korunanlarındır
+**(129)** sen bize gelmezden önceden ve sen bize geldikten sonradan bize işkence edildi dediler, umulur ki Rabbiniz düşmanınızı yok eder ve sizi yeryüzüne hakim kılar dedi böylece nasıl hareket edeceğinize bakar
+**(130)** ve andolsun Fir'avn ailesini biz yıllarca ve ürünlerin darlığıyla tuttuk belki öğüt alırlar (diye)
+**(131)** onlara bir iyilik geldiği zaman bu bizimdir derler eğer bir kötülük kendilerine ulaşırsa Musa ve beraberindeki kimseleri uğursuz sayarlardı iyi bilinki ancak onların uğursuzluğu Allah katındadır fakat çokları bilmezler
+**(132)** ve dediler ki bizi büyülemek için ne kadar getirsen de bize bir mu'cize onunla biz sana inanacak değiliz
+**(133)** biz de onların üzerine ayrı ayrı mu'cizeler olarak tufan ve çekirge ve kımıl (haşerat) ve kurbağalar ve Kan gönderdik ama yine büyüklük tasladılar ve suçlu bir topluluk oldular
+**(134)** ne zaman ki azab üzerlerine çökünce Musa dediler sana verdiği söz üzerine Rabbine bizim için du'a et eğer bizden azabı kaldırırsan sana muhakkak inanacağız ve İsrail oğullarını seninle beraber mutlaka göndereceğiz
+**(135)** onlar geçirecekleri bir süreye kadar ne zaman biz onlardan azabı kaldırsak hemen onlar yeminlerini bozarlar
+**(136)** biz de onlardan öc aldık onları yemm(su)da boğduk çünkü onlar ayetlerimizi yalanlamışlardı ve onları umursamaz olmuşlardı
+**(137)** ve hor görülüp ezilmekte olan milleti yerin doğularına ve batılarına mirasçı kıldık öyle ki içini bereketlendirdik ve sabretmeleri yüzünden İsrail oğulları üzerine Rabbinin (verdiği) güzel	sözü tam yerine geldi ve Fir’avn’ın ve kavminin yapageldiği şeyleri ve yükseltiyor oldukları (sarayları) yıktık
+**(138)** ve İsrail oğullarını denizden geçirdik kendilerine [ait] putlara tapan bir kavim üzerine rastladılar, bunların tanrıları gibi bize de bir tanrı yap Musa dediler, siz gerçekten cahil bir toplumsunuz dedi
+**(139)** şunların şüphesiz onların içinde bulundukları (din) yıkılmıştır ve [batıl şeyler] yapıyor(lar), [işlemiş] oldukları şeyler boşa çıkmıştır
+**(140)** ve O sizi alemler üzerine üstün yapmış iken Allah’tan başka size bir tanrı mı? arayayım dedi
+**(141)** ve hani biz sizi Fir’avn ailesinden kurtarmıştık onlar size azabın en kötüsünü yapıyorlardı oğullarınızı öldürüyorlardı ve kadınlarınızı sağ bırakıyorlardı ve Rabbiniz tarafından bunda size büyük bir imtihan vardı 
+**(142)** ve Musa ile otuz gece sözleştik ve buna on (gece daha) kattık Rabbinin tayin ettiği vakit böylece kırk geceye tamamlandı Musa kardeşi Harun’a dedi ki kavmim içinde benim yerime geç ve ıslah et ve [fitne salanların sözüne] bozguncuların yoluna uyma
+**(143)** ne zaman ki tayin ettiğimiz vakitte Musa gelip de ve Rabbi ona konuşunca Rabbim bana görün sana bakayım dedi dedi ki sen beni göremezsin fakat dağa bak eğer yerinde durursa o zaman sen de beni göreceksin ne zaman ki Rabbi dağa görününce onu darmadağın etti ve Musa bayılarak düştü ne zaman ki ayılınca Sen yücesin dedi sana tevbe ettim ve ben inananların ilkiyim
+**(144)** dedi ki Musa şüphesiz ben [risalet] mesajlarımla ve konuşmamla seni insanlar üzerine seçtim, sana verdiğim şeyi al ve şükredenlerden ol
+**(145)** ve öğüte dair ve her şeyin açıklamasına dair ne varsa her şeyi levhalara O’nun (Musa) için yazdık, bunları kuvvetle tut ve kavmine emret bunların en güzelini tutsunlar yoldan çıkmışların yurdunu size göstereceğim
+**(146)** hak olmaksızın yeryüzünde büyüklenenleri [kibirlenen] kimseleri ayetlerimden uzaklaştıracağım ve eğer onlar her ayeti görseler ona yine inanmazlar ve eğer doğru yolu görseler onu yol edinmezler ama eğer azgınlık yolunu görseler onu yol edinirler öyle çünkü onlar ayetlerimizi yalanladılar ve onları umursamaz oldular
+**(147)** ve ayetlerimizi ve ahirete kavuşmayı yalanlayanların, [çok yalan söyleyen] kimselerin eylemleri boşa çıkmıştır, onlar yapıyor oldukları şeyler ile dışında ceza mı görüyorlar?
+**(148)** ve Musa’nın kavmi kendisinden sonra zinetlerinden yapılmış bir buzağı heykelini benimsediler böğürmesi vardı onun görmediler mi ki o ne kendilerine söz söylüyor ne de onlara bir yol gösteriyor onu benimsediler ve zalimler(den) oldular
+**(149)** ne zaman ki (başları) ellerinin arasına düşürüldü ve kendilerinin gerçekten sapmış olduklarını gör(üp anla)dılar dediler ki Rabbimiz eğer bize acımazsa ve bizi bağışlamazsa elbette ziyana uğrayanlardan oluruz
+**(150)** Musa kavmine kızgın ve daralmış bir halde döndü(ğü) zaman benden sonra arkamdan ne kötü işler yaptınız? dedi Rabbinizin emrini (beklemeyip) acele mi ettiniz? ve levhaları yere attı ve kardeşinin başını tuttu kendine doğru çekmeye başladı (Kardeşi) anamın oğlu bu insanlar gerçekten beni hırpaladılar ve az daha beni öldürüyorlardı düşmanları üstüme güldürme asla beni zalim bu kavimle beraber tutma dedi
 **(151)** 
-**(152)** 
+**(152)** 	
 **(153)** 
 **(154)** 
 **(155)** 

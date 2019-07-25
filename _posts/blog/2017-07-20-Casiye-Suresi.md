@@ -21,9 +21,9 @@ tag:
 **(9)** bizim ayetlerimizden bir şey öğrendiği zaman onu alay konusu edinir işte öyleleri için alçaltıcı bir azab vardır
 **(10)** ötelerinden de cehennem ve kazandıkları şeyler kendilerine bir yarar sağlamaz ve Allah’tan edindikleri başka şeyler (yarar sağlamaz) ve onlar için büyük bir azab vardır
 **(11)** yol gösterici işte budur ve Rablerinin ayetlerini inkar eden(ler) kimseler, onlar için bir azab vardır
-**(12)** O ki Allah’tır, onun içinde gemiler buyruğuyla akıp gitsin diye denizi size boyun eğdirdi ve O’nun lutfundan payınızı arayasınız diye ve umulur ki şükredersiniz
-**(13)** ve göklerde bulunan şeyleri ve yerde bulunan şeyleri hepsini kendisinden size boyun eğdirdi elbette bunda düşünen bir toplum için ibretler 
-**(14)** inanan(lara) kimselere söyle, yapıyorlar oldukları sebebiyle bir toplumu cezalandırması için Allah’ın günlerini ummayan(ları) kimseleri affetsinler
+**(12)** O ki Allah’tır, onun içinde gemiler buyruğuyla akıp gitsin diye ve O’nun lutfundan payınızı arayasınız diye denizi size boyun eğdirdi ve umulur ki şükredersiniz
+**(13)** ve kendisinden göklerde bulunan şeyleri ve yerde bulunan şeyleri hepsini size boyun eğdirdi düşünen bir toplum için elbette bunda ibretler vardır
+**(14)** [işler]yapıyorlar, [kazanmış]oldukları sebebiyle bir toplumu cezalandırması için inanan(lara), [iman eden]kimselere söyle, Allah’ın günlerini ummayan(ları), [ümit kesen]kimseleri affetsinler, 
 **(15)** kim iyi bir iş yaparsa yararı kendisinedir ve kim kötülük yaparsa	
 zararı kendisinedir sonunda Rabbinize döndürüleceksiniz
 **(16)** ve andolsun biz İsrail oğullarına Kitap ve hüküm ve peygamberlik verdik ve onları güzel rızıklarla besledik ve onları alemler üzerine üstün kıldık
