@@ -159,7 +159,7 @@ tag:
 **(147)** ve ayetlerimizi ve ahirete kavuşmayı yalanlayanların, [çok yalan söyleyen] kimselerin eylemleri boşa çıkmıştır, onlar yapıyor oldukları şeyler ile dışında ceza mı görüyorlar?
 **(148)** ve Musa’nın kavmi kendisinden sonra zinetlerinden yapılmış bir buzağı heykelini benimsediler böğürmesi vardı onun görmediler mi ki o ne kendilerine söz söylüyor ne de onlara bir yol gösteriyor onu benimsediler ve zalimler(den) oldular
 **(149)** ne zaman ki (başları) ellerinin arasına düşürüldü ve kendilerinin gerçekten sapmış olduklarını gör(üp anla)dılar dediler ki Rabbimiz eğer bize acımazsa ve bizi bağışlamazsa elbette ziyana uğrayanlardan oluruz
-**(150)** Musa kavmine kızgın ve daralmış bir halde döndü(ğü) zaman benden sonra arkamdan ne kötü işler yaptınız? Rabbinizin emrini (beklemeyip) acele mi ettiniz? dedi ve levhaları yere attı ve kardeşinin başını tuttu kendine doğru çekmeye başladı (Kardeşi) anamın oğlu bu insanlar gerçekten beni hırpaladılar ve az daha beni öldürüyorlardı, düşmanları üstüme güldürme, bu zalim kavimle beni asla beraber tutma dedi
+**(150)** Musa kavmine kızgın ve daralmış bir halde döndü(ğü) zaman benden sonra arkamdan ne kötü işler yaptınız? Rabbinizin emrini (beklemeyip) acele mi ettiniz? dedi ve levhaları yere attı ve kardeşinin başını tuttu kendine doğru çekmeye başladı (Kardeşi) anamın oğlu bu insanlar gerçekten beni hırpaladılar ve az daha beni öldürüyorlardı düşmanları üstüme güldürme asla beni zalim bu kavimle beraber tutma dedi
 **(151)** 
 **(152)** 	
 **(153)** 
