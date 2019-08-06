@@ -28,7 +28,7 @@ tag:
 **(16)** o ki yalanlandı ve sırtını döndü.
 **(17)** Ve en muttaki olan ondan uzak tutulur,
 **(18)** o ki malını (hayra) vererek arınır yücelir,
-**(19)** ve onun yanında hiç kimsenin hiçbir ni’meti yoktur, karşılık verilecek,
+**(19)** ve Onun[Rabbin] yanında hiç kimsenin hiçbir ni’meti yoktur, karşılık verilecek
 **(20)** yalnız yüce Rabbinin rızasına ulaşmak için.
 **(21)** Yakında razı olacaktır.
 

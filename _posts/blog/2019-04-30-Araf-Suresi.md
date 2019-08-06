@@ -160,11 +160,11 @@ tag:
 **(148)** ve Musa’nın kavmi kendisinden sonra zinetlerinden yapılmış bir buzağı heykelini benimsediler böğürmesi vardı onun görmediler mi ki o ne kendilerine söz söylüyor ne de onlara bir yol gösteriyor onu benimsediler ve zalimler(den) oldular
 **(149)** ne zaman ki (başları) ellerinin arasına düşürüldü ve kendilerinin gerçekten sapmış olduklarını gör(üp anla)dılar dediler ki Rabbimiz eğer bize acımazsa ve bizi bağışlamazsa elbette ziyana uğrayanlardan oluruz
 **(150)** Musa kavmine kızgın ve daralmış bir halde döndü(ğü) zaman benden sonra arkamdan ne kötü işler yaptınız? Rabbinizin emrini (beklemeyip) acele mi ettiniz? dedi ve levhaları yere attı ve kardeşinin başını tuttu kendine doğru çekmeye başladı (Kardeşi) anamın oğlu bu insanlar gerçekten beni hırpaladılar ve az daha beni öldürüyorlardı düşmanları üstüme güldürme asla beni zalim bu kavimle beraber tutma dedi
-**(151)** 
-**(152)** 	
-**(153)** 
-**(154)** 
-**(155)** 
+**(151)** (Musa) Rabbim beni ve kardeşimi bağışla ve bizi rahmetinin içine sok ve merhametlilerin en merhametlisi sensin dedi
+**(152)** buzağıyı [edinen] kimselere, (tanrı diye) benimseyenlere muhakkak Rablerinden bir öfke ve dünya hayatında bir alçaklık erişecektir, işte biz iftiracıları, [suç isnat edenleri] böyle cezalandırırız
+**(153)** onlar ki kötülükler yaptıktan sonra ardından tevbe ettiler ve iman ettiler, muhakkak ki Rabbin ondan sonra elbette bağışlayandır, esirgeyendir
+**(154)** ve Musa’nın öfkesi ne zaman ki dinince levhaları aldı ve onlardaki yazıda [hidayete] yol gösterme ve Rablerinden korkanlar, onlar için rahmet vardı
+**(155)** ve Musa bizimle buluşma vakti için kavminden yetmiş adam seçti, sarsıntı ne zaman ki onları yakalayınca (Musa) dedi ki Rabbim şayet dileseydin daha önce bunları da ve beni de helak ederdin içimizden bazı beyinsizlerin yaptıklarından ötürü bizi helak mı edeceksin? bu (iş) senin imtihanından başka bir şey değildir, onunla dilediğini şaşırtırsın ve dilediğine yol gösterirsin sen bizim velimizsin bizi bağışla ve bize acı ve sen bağışlayanların en iyisisin 
 **(156)** 
 **(157)** 
 **(158)** 
