@@ -167,7 +167,7 @@ tag:
 **(155)** ve Musa bizimle buluşma vakti için kavminden yetmiş adam seçti, sarsıntı ne zaman ki onları yakalayınca (Musa) dedi ki Rabbim şayet dileseydin daha önce bunları da ve beni de helak ederdin içimizden bazı beyinsizlerin yaptıklarından ötürü bizi helak mı edeceksin? bu (iş) senin imtihanından başka bir şey değildir, onunla dilediğini şaşırtırsın ve dilediğine yol gösterirsin sen bizim velimizsin bizi bağışla ve bize acı ve sen bağışlayanların en [hayırlısı] iyisisin 
 **(156)** ve bize bu dünyada iyilik yaz ve ahirette biz sana yöneldik, (Alah) buyurdu ki dilediğim kimseyi onu azabıma uğratırım ve rahmetim ise her şeyi kaplamıştır, korunanlara, [takvalı] kimselere ve zekatı verenlere ve [imanlı] kimselere, onlar ayetlerimize inanıyorlar, onu yazacağım 
 **(157)** onlar ki yanlarında yazılı buldukları Tevrat ve İncil’de kendilerine iyiliği emreden ve kendilerini kötülükten meneden ve onlara güzel şeyleri helal kılan ve onlara çirkin şeyleri haram kılan ve onlardan ağırlıkları ve prangaları, öyle ki onların üzerinde idiler, kaldırıp atan o [rasūle] Elçi’ye o ümmi [nebiye] Peygamber’e uyarlar, artık onlar O’na inananlar ve O’na saygı gösterenler ve O’na yardım edenler ve O’nunla beraber indirilen nura uyanlar işte onlar felaha erenlerdir
-**(158)** 
+**(158)** de ki ey insanlar muhakkak ben sizin hepinize Allah’ın [rasūlu] Elçisiyim, göklerin ve yerin mülkü onundur kendisinden başka [ilāh] tanrı yoktur, yaşatır ve öldürür gelin Allah’a inanın ve O’nun ümmi [nebiy] peygamberi, [rasūl] Elçisine ki o Allah’a ve O’nun sözlerine inanmaktadır, O’na uyun ki belki [hidayet] doğru yolu bulursunuz
 **(159)** 
 **(160)** 
 **(161)** 
