@@ -15,10 +15,10 @@ tag:
 **(3)** hani gizli bir seslenişle Rabbine yalvarmıştı
 **(4)** Rabbim şüphesiz ben dedi benim kemik(lerim) gevşedi ve ihtiyarlık aleviyle {saç beyazlığıyla}başım tutuştu ve sana du’a ile Rabbim {şikayet eden}bahtsız olmadım
 **(5)** doğrusu ben arkamdan{torundan} yerime geçecek yakınlarımdan korktum ve karım da kısırdır (Ne olur) bana katından bir veli(aht) lutfet
-**(6)** bana mirasçı olsun ve Ya’kub oğullarına mirasçı olsun ve Rabbim razı olduklarından onu yap
-**(7)** Zekeriyya şüphesiz biz sana müjdeleriz bir oğul onun adı Yahya’dır ona daha önce adaş yapmadık
-**(8)** dedi ki Rabbim benim oğlum nasıl olur? ve karım da kısırdır ve gerçekten ihtiyarlığın son sınırına ben ulaştım
-**(9)** dedi ki öyledir senin Rabbin O bana kolaydır ve gerçekten daha önce ve sen hiçbir şey değilken seni de yaratmıştım dedi 
+**(6)** bana mirasçı olsun ve Ya’kub oğullarına mirasçı olsun ve Rabbim onu razı olduklarından yap
+**(7)** Zekeriyya şüphesiz biz sana bir oğul müjdeleriz onun adı Yahya’dır ona daha önce adaş yapmadık
+**(8)** dedi ki Rabbim oğlum nasıl olur? benim ve karım da kısırdır ve gerçekten ben ihtiyarlığın son sınırına ulaştım
+**(9)** dedi ki öyledir, senin Rabbin dedi O bana kolaydır ve gerçekten daha önce ve sen hiçbir şey değilken seni de yaratmıştım
 **(10)** Rabbim dedi (öyle ise) bana bir işaret ver senin işaretin dedi sapasağlam olduğun halde üç gece insanlarla konuşamamandır
 **(11)** ma’bedden kavminin karşısına çıkıp onlara sabah ve akşam tesbih edin diye işaret etti
 **(12)** kuvvetle Kitabı tut Yahya ve çocuk iken ona hikmet verdik
