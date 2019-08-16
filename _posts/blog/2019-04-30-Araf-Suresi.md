@@ -168,17 +168,17 @@ tag:
 **(156)** ve bize bu dünyada iyilik yaz ve ahirette biz sana yöneldik, (Alah) buyurdu ki dilediğim kimseyi onu azabıma uğratırım ve rahmetim ise her şeyi kaplamıştır, korunanlara, [takvalı] kimselere ve zekatı verenlere ve [imanlı] kimselere, onlar ayetlerimize inanıyorlar, onu yazacağım 
 **(157)** onlar ki yanlarında yazılı buldukları Tevrat ve İncil’de kendilerine iyiliği emreden ve kendilerini kötülükten meneden ve onlara güzel şeyleri helal kılan ve onlara çirkin şeyleri haram kılan ve onlardan ağırlıkları ve prangaları, öyle ki onların üzerinde idiler, kaldırıp atan o [rasūle] Elçi’ye o ümmi [nebiye] Peygamber’e uyarlar, artık onlar O’na inananlar ve O’na saygı gösterenler ve O’na yardım edenler ve O’nunla beraber indirilen nura uyanlar işte onlar felaha erenlerdir
 **(158)** de ki ey insanlar muhakkak ben sizin hepinize Allah’ın [rasūlu] Elçisiyim, göklerin ve yerin mülkü onundur kendisinden başka [ilāh] tanrı yoktur, yaşatır ve öldürür gelin Allah’a inanın ve O’nun ümmi [nebiy] peygamberi, [rasūl] Elçisine ki o Allah’a ve O’nun sözlerine inanmaktadır, O’na uyun ki belki [hidayet] doğru yolu bulursunuz
-**(159)** 
-**(160)** 
-**(161)** 
-**(162)** 
-**(163)** 
-**(164)** 
-**(165)** 
-**(166)** 
-**(167)** 
-**(168)** 
-**(169)** 
+**(159)** ve Musa’nın kavminden doğrulukla hakka [hidayete] götüren ve onunla adalet yapan bir topluluk vardır 
+**(160)** ve biz onları ümmetler halinde oniki kabileye ayırdık, kavmin su istediği zaman asanla taşa vur diye Musa’ya vahyettik ve ondan (taştan) oniki göze fışkırdı şüphesiz her kabile içeceği yeri bildi ve bulutla üzerlerine gölge yaptık ve onlara kudret helvası ve bıldırcın eti indirdik, sizi rızıklandırdığımız şeylerden güzel olanlardan yeyin ama onlar bize zulmetmediler fakat onlar kendi kendilerine zulmediyorlardı
+**(161)** onlara şu kentte oturun ve orada dilediğiniz yerden yeyin denildiği zaman ve [suçluluğu kaldır] "affet" deyin ve secde ederek kapıdan girin sizin hatalarınızı bağışlayalım iyilik edenlere biz daha fazlasını da vereceğiz
+**(162)** içlerinden zulmeden(ler), [zalim] kimseler kendilerine söylenenden başkasıyla sözü değiştirdiler, haksızlık ettiklerinden dolayı biz de üzerlerine gökten bir azab gönderdik
+**(163)** öyle ki deniz kıyısında bulunan  kent(halkın)ın durumundan onlara sor hani onlar Cumartesine haddi aşıyorlardı, cumartesi günü onlara balıkları akın akın gelirdi cumartesi dışındaki gün ise gelmezlerdi böylece yoldan çıkmalarından ötürü biz onları sınıyorduk
+**(164)** içlerinden bir topluluk, Allah’ın helak edeceği yahut şiddetli bir azapla azabedeceği bir kavme artık niçin? öğüt veriyorsunuz dedi, dediler ki Rabbinize ma’zeret için ve belki korunurlar (diye)
+**(165)** ne zaman ki onlar kendilerine hatırlatılan şeyi unuttular biz de kötülükten meneden(leri), [nehyeden] kimseleri kurtardık ve yoldan çıkmaları yüzünden çetin bir azab ile zulmeden(leri), [zalim] kimseleri yakaladık
+**(166)** ne zaman ki kendilerine yasak kılınan şeylerden vazgeçmediler onlara aşağılık maymunlar olun dedik
+**(167)** kıyamet gününe kadar onlara elbette azabın en kötüsünü yapacak kimseler göndereceğini o vakit Rabbin ilan etmişti, doğrusu Rabbin çabuk ceza verendir ve O [Gafûrun Rahîm] çok bağışlayan çok esirgeyendir
+**(168)** ve onları yeryüzünde topluluklara ayırdık, onlardan kimi iyi kişilerdir ve kimi de bundan [başka] alçaktır ve belki 	dönerler (diye) onları iyiliklerle ve kötülüklerle sınadık
+**(169)** sonra onların ardından yerlerine geçip Kitaba varis olanlar şu alçak(dünyan)ın menfaatini alıyorlar ve diyorlar ki biz (nasıl olsa) bağışlanacağız ve eğer kendilerine ona benzer bir menfaat daha gelse onu da alırlar, peki Allah hakkında gerçekten başkasını söylemeyecekler diye kendilerinden Kitap’ta misak (söz) alınmamış mıydı? ve onun içindekini öğrenmediler mi? ve Âhiret yurdu korunanlar için daha hayırlıdır düşünmüyor musunuz?
 **(170)** 
 **(171)** 
 **(172)** 
