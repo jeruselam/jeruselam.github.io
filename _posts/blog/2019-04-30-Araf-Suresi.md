@@ -178,9 +178,9 @@ tag:
 **(166)** ne zaman ki kendilerine yasak kılınan şeylerden vazgeçmediler onlara aşağılık maymunlar olun dedik
 **(167)** kıyamet gününe kadar onlara elbette azabın en kötüsünü yapacak kimseler göndereceğini o vakit Rabbin ilan etmişti, doğrusu Rabbin çabuk ceza verendir ve O [Gafûrun Rahîm] çok bağışlayan çok esirgeyendir
 **(168)** ve onları yeryüzünde topluluklara ayırdık, onlardan kimi iyi kişilerdir ve kimi de bundan [başka] alçaktır ve belki 	dönerler (diye) onları iyiliklerle ve kötülüklerle sınadık
-**(169)** sonra onların ardından yerlerine geçip Kitaba varis olanlar şu alçak(dünyan)ın menfaatini alıyorlar ve diyorlar ki biz (nasıl olsa) bağışlanacağız ve eğer kendilerine ona benzer bir menfaat daha gelse onu da alırlar, peki Allah hakkında gerçekten başkasını söylemeyecekler diye kendilerinden Kitap’ta misak (söz) alınmamış mıydı? ve onun içindekini öğrenmediler mi? ve Âhiret yurdu korunanlar için daha hayırlıdır düşünmüyor musunuz?
-**(170)** 
-**(171)** 
+**(169)** sonra onların ardından yerlerine geçip Kitaba varis olanlar şu alçak(dünyan)ın [en alçak] menfaatini alıyorlar ve diyorlar ki biz (nasıl olsa) bağışlanacağız ve eğer kendilerine ona benzer bir menfaat daha gelse onu da alırlar, peki Allah hakkında gerçekten başkasını söylemeyecekler diye kendilerinden Kitap’ta misak (söz) alınmamış mıydı? ve onun içindekini öğrenmediler mi? ve Âhiret yurdu korunanlar için daha hayırlıdır düşünmüyor musunuz?
+**(170)** onlar ki Kitaba sımsıkı sarılırlar ve namazı kılarlar elbette biz iyiliğe [ıslaha] çalışanların ecrini zayi etmeyiz
+**(171)** sanki bir gölge gibi hani üzerlerine dağı kaldırmıştık ve onlar şüphesiz onların üstlerine düşecek sanmışlardı, size verdiğim şeyi (Kitabı) kuvvetle tutun ve içinde olanı hatırlayın belki korunursunuz
 **(172)** 
 **(173)** 
 **(174)** 
