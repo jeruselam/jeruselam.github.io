@@ -181,8 +181,8 @@ tag:
 **(169)** sonra onların ardından yerlerine geçip Kitaba varis olanlar şu alçak(dünyan)ın [en alçak] menfaatini alıyorlar ve diyorlar ki biz (nasıl olsa) bağışlanacağız ve eğer kendilerine ona benzer bir menfaat daha gelse onu da alırlar, peki Allah hakkında gerçekten başkasını söylemeyecekler diye kendilerinden Kitap’ta misak (söz) alınmamış mıydı? ve onun içindekini öğrenmediler mi? ve Âhiret yurdu korunanlar için daha hayırlıdır düşünmüyor musunuz?
 **(170)** onlar ki Kitaba sımsıkı sarılırlar ve namazı kılarlar elbette biz iyiliğe [ıslaha] çalışanların ecrini zayi etmeyiz
 **(171)** sanki bir gölge gibi hani üzerlerine dağı kaldırmıştık ve onlar şüphesiz onların üstlerine düşecek sanmışlardı, size verdiğim şeyi (Kitabı) kuvvetle tutun ve içinde olanı hatırlayın belki korunursunuz
-**(172)** 
-**(173)** 
+**(172)** ve Rabbin hani Adem oğullarından zürriyetlerini bellerinden almıştı ve kendilerine onları şahid tutmuştu, sizin Rabbiniz ben değil miyim? evet şahidiz dediler, kıyamet günü biz elbette bundan habersiz idik demeyesiniz
+**(173)** yahut demeyesiniz şüphesiz daha önce babalarımız ortak koştu, biz de onlardan sonra gelen bir nesil olduk, iptal edenlerin yaptıkları yüzünden bizi helak mı ediyorsun?
 **(174)** 
 **(175)** 
 **(176)** 
