@@ -183,9 +183,9 @@ tag:
 **(171)** sanki bir gölge gibi hani üzerlerine dağı kaldırmıştık ve onlar şüphesiz onların üstlerine düşecek sanmışlardı, size verdiğim şeyi (Kitabı) kuvvetle tutun ve içinde olanı hatırlayın belki korunursunuz
 **(172)** ve Rabbin hani Adem oğullarından zürriyetlerini bellerinden almıştı ve kendilerine onları şahid tutmuştu, sizin Rabbiniz ben değil miyim? evet şahidiz dediler, kıyamet günü biz elbette bundan habersiz idik demeyesiniz
 **(173)** yahut demeyesiniz şüphesiz daha önce babalarımız ortak koştu, biz de onlardan sonra gelen bir nesil olduk, iptal edenlerin yaptıkları yüzünden bizi helak mı ediyorsun?
-**(174)** 
-**(175)** 
-**(176)** 
+**(174)** biz ayetleri işte böyle açıklıyoruz artık herhalde [geri] döner(yola gelir)ler
+**(175)** ve haberini onlara oku ki kendisine ayetlerimizi verdik onlardan sıyrıldı, çıktı şeytan onu peşine taktı böylece azgınlardan oldu
+**(176)** ve şayet dileseydik elbette onlarla (ayetlerle) onu yükseltirdik fakat o yere saplandı ve hevesinin peşine düştü, onun durumu şu köpeğin durumuna benzer eğer üstüne varsan dilini sarkıtıp solur veyahut onu bıraksan dilini sarkıtıp solur, ayetlerimizi yalanlayan toplumların durumu işte budur, bu kıssayı anlat belki düşünürler
 **(177)** 
 **(178)** 
 **(179)** 
