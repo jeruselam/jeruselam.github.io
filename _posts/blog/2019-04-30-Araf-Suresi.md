@@ -186,7 +186,7 @@ tag:
 **(174)** biz ayetleri işte böyle açıklıyoruz artık herhalde [geri] döner(yola gelir)ler
 **(175)** ve haberini onlara oku ki kendisine ayetlerimizi verdik onlardan sıyrıldı, çıktı şeytan onu peşine taktı böylece azgınlardan oldu
 **(176)** ve şayet dileseydik elbette onlarla (ayetlerle) onu yükseltirdik fakat o yere saplandı ve hevesinin peşine düştü, onun durumu şu köpeğin durumuna benzer eğer üstüne varsan dilini sarkıtıp solur veyahut onu bıraksan dilini sarkıtıp solur, ayetlerimizi yalanlayan toplumların durumu işte budur, bu kıssayı anlat belki düşünürler
-**(177)** 
+**(177)** ayetlerimizi yalanlayan ve kendilerine zulmediyor olan topluluğun durumu ne kötüdür
 **(178)** 
 **(179)** 
 **(180)** 
