@@ -187,8 +187,8 @@ tag:
 **(175)** ve haberini onlara oku ki kendisine ayetlerimizi verdik onlardan sıyrıldı, çıktı şeytan onu peşine taktı böylece azgınlardan oldu
 **(176)** ve şayet dileseydik elbette onlarla (ayetlerle) onu yükseltirdik fakat o yere saplandı ve hevesinin peşine düştü, onun durumu şu köpeğin durumuna benzer eğer üstüne varsan dilini sarkıtıp solur veyahut onu bıraksan dilini sarkıtıp solur, ayetlerimizi yalanlayan toplumların durumu işte budur, bu kıssayı anlat belki düşünürler
 **(177)** ayetlerimizi yalanlayan ve kendilerine zulmediyor olan topluluğun durumu ne kötüdür
-**(178)** 
-**(179)** 
+**(178)** Allah kime yol gösterirse yolu bulan işte odur ve kimi de saptırırsa ziyana uğrayanlar işte onlardır 
+**(179)** ve cehennem için andolsun birçok cin ve insan yarattık, kalbleri vardır fakat onlarla anlamazlar, gözleri vardır fakat onlarla görmezler ve kulakları vardır fakat onlarla işitmezler, işte onlar hayvanlar gibidir hatta onlar daha da sapıktır, işte gafiller onlardır
 **(180)** 
 **(181)** 
 **(182)** 
