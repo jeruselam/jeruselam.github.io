@@ -190,9 +190,9 @@ tag:
 **(178)** Allah kime yol gösterirse yolu bulan işte odur ve kimi de saptırırsa ziyana uğrayanlar işte onlardır 
 **(179)** ve cehennem için andolsun birçok cin ve insan yarattık, kalbleri vardır fakat onlarla anlamazlar, gözleri vardır fakat onlarla görmezler ve kulakları vardır fakat onlarla işitmezler, işte onlar hayvanlar gibidir hatta onlar daha da sapıktır, işte gafiller onlardır
 **(180)** ve en güzel isimler Allah’ındır, o halde onlarla O’na du’a edin ve O’nun isimleri hakkında eğriliğe sapan(ları), [doğruluktan sapan] kimseleri bırakın, onlar [ameller] yapıyor(lar), [yapıyor] oldukları şeylerin cezasını çekeceklerdir
-**(181)**
-**(182)** 
-**(183)** 
+**(181)** yarattıklarımız içinde hak ile kimseleri [hidayete] doğruya götüren ve onunla adalet yapan bir ümmet vardır
+**(182)** hiç bilmeyecekleri yerden ayetlerimizi yalanlayanları, [yalan söyleyen] kimseleri yavaş yavaş helake yaklaştıracağız 
+**(183)** ve onlara mühlet veriyorum şüphesiz benim tuzağım sağlamdır
 **(184)** 
 **(185)** 
 **(186)** 
