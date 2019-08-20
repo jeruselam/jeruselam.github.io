@@ -193,8 +193,8 @@ tag:
 **(181)** yarattıklarımız içinde hak ile kimseleri [hidayete] doğruya götüren ve onunla adalet yapan bir ümmet vardır
 **(182)** hiç bilmeyecekleri yerden ayetlerimizi yalanlayanları, [yalan söyleyen] kimseleri yavaş yavaş helake yaklaştıracağız 
 **(183)** ve onlara mühlet veriyorum şüphesiz benim tuzağım sağlamdır
-**(184)** 
-**(185)** 
+**(184)** düşünmediler mi ki arkadaşlarında hiçbir delilik yoktur o ancak apaçık bir uyarıcıdır
+**(185)** göklerin ve yerin melekutuna ve Allah’ın yarattığı şeylere ve belkide ecellerinin muhakkak yaklaşmış olabileceğine bakmadılar mı? peki bundan sonra hangi söze inanacaklar
 **(186)** 
 **(187)** 
 **(188)** 
