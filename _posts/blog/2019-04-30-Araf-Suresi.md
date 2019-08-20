@@ -196,7 +196,7 @@ tag:
 **(184)** düşünmediler mi ki arkadaşlarında hiçbir delilik yoktur o ancak apaçık bir uyarıcıdır
 **(185)** göklerin ve yerin melekutuna ve Allah’ın yarattığı şeylere ve belkide ecellerinin muhakkak yaklaşmış olabileceğine bakmadılar mı? peki bundan sonra hangi söze inanacaklar
 **(186)** Allah kimi saptırırsa onun için artık [hidayete] yol gösteren olmaz ve azgınlıkları içinde bırakır onları bocalayıp dururlar
-**(187)** 
+**(187)** sa’at(in)den gelip çatması ne zaman (diye) sana soruyorlar de ki ancak onun bilgisi Rabbimin yanındadır O’ndan başkası Onu tam zamanında açığa çıkaramaz O göklere de yere de ağır gelmiştir O size ancak ansızın [gelmesi dışında] gelmez sanki sen onu biliyormuşsun sana soruyorlar de ki muhakkak onun bilgisi Allah’ın yanındadır fakat insanların çoğu bilmezler
 **(188)** 
 **(189)** 
 **(190)** 
