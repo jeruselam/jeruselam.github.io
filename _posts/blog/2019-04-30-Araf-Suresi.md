@@ -197,9 +197,9 @@ tag:
 **(185)** göklerin ve yerin melekutuna ve Allah’ın yarattığı şeylere ve belkide ecellerinin muhakkak yaklaşmış olabileceğine bakmadılar mı? peki bundan sonra hangi söze inanacaklar
 **(186)** Allah kimi saptırırsa onun için artık [hidayete] yol gösteren olmaz ve azgınlıkları içinde bırakır onları bocalayıp dururlar
 **(187)** sa’at(in)den gelip çatması ne zaman (diye) sana soruyorlar de ki ancak onun bilgisi Rabbimin yanındadır O’ndan başkası Onu tam zamanında açığa çıkaramaz O göklere de yere de ağır gelmiştir O size ancak ansızın [gelmesi dışında] gelmez sanki sen onu biliyormuşsun sana soruyorlar de ki muhakkak onun bilgisi Allah’ın yanındadır fakat insanların çoğu bilmezler
-**(188)** de ki ben Allah’ın dilediğinden başka kendime bir faydaya ne de bir zarara sahip değilim eğer gaybı bilseydim elbete çok hayır (mal ve mülk) elde ederdim bana kötülük dokunmamıştır inanan bir kavim için ben sadece bir uyarıcı ve müjdeleyiciyim 
-**(189)** 
-**(190)** 
+**(188)** de ki Allah’ın dilediğinden başka ben kendime bir faydaya ne de bir zarara sahip değilim eğer gaybı bilseydim elbete çok hayır (mal ve mülk) elde ederdim bana kötülük dokunmamıştır inanan bir kavim için ben sadece bir uyarıcı ve müjdeleyiciyim 
+**(189)** O’dur ki sizi bir tek nefisten yarattı ve onunla (gönlü) sukün bulsun diye ondan eşini var eti ne zaman ki eşini sarıp örtünce hafif bir yük (eşi) yüklendi onu gezdirdi ne zaman ki (yükü) ağırlaşınca Rableri Allah’a ikisi beraber du’a ettiler eğer bize iyi güzel (bir çocuk) verirsen elbette şükredenlerden oluruz
+**(190)** fakat ne zaman (Allah) onlara iyi, güzel (bir çocuk) verdi kendilerine verdiği şeyde O’na ortaklar [şerik] koşmağa başladılar oysa Allah onların ortak koştukları şeylerden yücedir
 **(191)** 
 **(192)** 
 **(193)** 
