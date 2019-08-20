@@ -195,7 +195,7 @@ tag:
 **(183)** ve onlara mühlet veriyorum şüphesiz benim tuzağım sağlamdır
 **(184)** düşünmediler mi ki arkadaşlarında hiçbir delilik yoktur o ancak apaçık bir uyarıcıdır
 **(185)** göklerin ve yerin melekutuna ve Allah’ın yarattığı şeylere ve belkide ecellerinin muhakkak yaklaşmış olabileceğine bakmadılar mı? peki bundan sonra hangi söze inanacaklar
-**(186)** 
+**(186)** Allah kimi saptırırsa onun için artık [hidayete] yol gösteren olmaz ve azgınlıkları içinde bırakır onları bocalayıp dururlar
 **(187)** 
 **(188)** 
 **(189)** 
