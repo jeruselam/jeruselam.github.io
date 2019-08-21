@@ -203,7 +203,7 @@ tag:
 **(191)** hiçbir şey yaratmayan ve kendileri yaratılan şeyleri [şirk] ortak mı koşuyorlar?
 **(192)** onlara yardım etmeye güçleri yetmez ne de kendilerine yardım edebilirler
 **(193)** şayet onları doğru yola çağırsanız size uymazlar, onları çağırmanız ya da sizin susmanız sizin için birdir 
-**(194)** Allah’tan başka yalvardıklarınız [hatırladığınız] kimseler şüphesiz sizler gibi kullardır eğer doğru [sadık] iseniz çağırın onları da size cevap versinler
+**(194)** Allah’tan başka yalvardıklarınız [hatıra getirdiğiniz] kimseler şüphesiz sizler gibi kullardır eğer doğru [sadık] iseniz çağırın onları da size cevap versinler
 **(195)** 
 **(196)** 
 **(197)** 
