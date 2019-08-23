@@ -204,17 +204,17 @@ tag:
 **(192)** onlara yardım etmeye güçleri yetmez ne de kendilerine yardım edebilirler
 **(193)** şayet onları doğru yola çağırsanız size uymazlar, onları çağırmanız ya da sizin susmanız sizin için birdir 
 **(194)** Allah’tan başka yalvardıklarınız [hatıra getirdiğiniz] kimseler şüphesiz sizler gibi kullardır eğer doğru [sadık] iseniz çağırın onları da size cevap versinler
-**(195)** 
-**(196)** 
-**(197)** 
-**(198)** 
-**(199)** 
-**(200)** 
-**(201)** 
-**(202)** 
-**(203)** 
-**(204)** 
-**(205)** 
-**(206)** 
+**(195)** onunla yürüyecekleri ayakları var mı? onların yada onunla tutacakları elleri var mı? yoksa onunla görecekleri gözleri var mı? yahut onunla işitecekleri kulakları mı var? de ki ortak(koştuk)larınızı çağırın sonra bana tuzak kurun hiç göz açtırmayın bana
+**(196)** muhakkak benim velim Allah’tır o ki Kitabı indirdi ve O [doğru olan] iyileri [devralıyor] yönetir
+**(197)** O’ndan başka yalvardıklarınız kimseler ise size yardım etmeye güçleri yetmez ne de kendilerine yardım edebilirler
+**(198)** eğer onları hidayete çağırsanız işitmezler ve sana baktıklarını görürsün oysa onlar görmezler
+**(199)** [güzel örfü] iyiliği emret affı al cahillerden yüz çevir
+**(200)** ne zaman şeytandan bir kötü düşünce seni dürtüklerse hemen Allah’a sığın çünkü O [Semîun Alîm] işitendir bilendir
+**(201)** şüphesiz (Allah’tan) korkanlar, [takvalı] kimseler şeytandan [ve tarikatından unutkanlık ile] kendilerine bir vesvese dokunduğu zaman düşünürler ve o zaman onlar (gerçeği) görürler
+**(202)** kardeşleri ise onları azgınlığın içine çekerler sonra hiç yakalarını bırakmazlar
+**(203)** onlara bir ayet getirmediğin zaman keşke bunu da [vehbi olmayan yolla] derleseydin ya derler de ki ben ancak Rabbimden bana vahyolunana [vahyedilen] şeye uyuyorum bu (Kur’an) Rabbinizden [hidayet sebebleri] basiretlerdir ve yol göstericidir ve inanan bir toplum için rahmettir 
+**(204)** Kur’an okunduğu zaman onu dinleyin ve susun, umulur ki size merhamet olunur
+**(205)** ve içinden yalvararak ve [çekinerek], korkarak ve sabah ve akşam yüksek olmayan bir sesle Rabbini hatırla gafillerden olma
+**(206)** şüphesiz Rabbinin yanında olanlar O’na kulluktan büyüklenmezler ve O’nu tesbih ederler, secde ederler
 
 ![07A'râf-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
