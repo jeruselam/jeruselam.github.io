@@ -214,7 +214,7 @@ tag:
 **(202)** kardeşleri ise onları azgınlığın içine çekerler sonra hiç yakalarını bırakmazlar
 **(203)** onlara bir ayet getirmediğin zaman keşke bunu da [vehbi olmayan yolla] derleseydin ya derler de ki ben ancak Rabbimden bana vahyolunana [vahyedilen] şeye uyuyorum bu (Kur’an) Rabbinizden [hidayet sebebleri] basiretlerdir ve yol göstericidir ve inanan bir toplum için rahmettir 
 **(204)** Kur’an okunduğu zaman onu dinleyin ve susun, umulur ki size merhamet olunur
-**(205)** ve içinden yalvararak ve [çekinerek], korkarak ve sabah ve akşam yüksek olmayan bir sesle Rabbini hatırla gafillerden olma
+**(205)** sabah ve akşam yüksek olmayan bir sesle ve içinden yalvararak ve korkarak, [çekinerek] ve Rabbini hatırla [zikret] gafillerden olma
 **(206)** şüphesiz Rabbinin yanında olanlar O’na kulluktan büyüklenmezler ve O’nu tesbih ederler, secde ederler
 
 ![07A'râf-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
