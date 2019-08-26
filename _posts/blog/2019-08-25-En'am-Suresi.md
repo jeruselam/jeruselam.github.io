@@ -19,7 +19,7 @@ tag:
 **(7)** ve eğer sana kağıt üzerine yazılı bir Kitap indirmiş olsaydık, onu elleriyle tutsalardı, inkar eden(ler), [kafir] kimseler yine bu ancak apaçık bir büyüdür derlerdi
 **(8)** ve O’na bir melek indirilmeli değil miydi? dediler ve eğer bir melek indirseydik, iş bitirilmiş olurdu artık hiç göz açtırılmazdı
 **(9)** ve eğer onu melek yapsaydık yine bir adam (şeklinde) yapardık ve yine onları düştükleri kuşkuya düşürürdük
-**(10)** 
+**(10)** ve muhakkak senden önce de peygamberlerle alay edilmişti fakat onunla alay ettikleri şey onlarla alay edenleri [alaycı] kimseleri kuşatıverdi
 **(11)** 
 **(12)** 
 **(13)** 
