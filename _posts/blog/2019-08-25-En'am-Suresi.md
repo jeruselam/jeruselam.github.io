@@ -15,7 +15,7 @@ tag:
 **(3)** ve O göklerde de ve yerde (tek) Allah’tır sizin gizlinizi ve açığınızı bilir ve ne kazandığınızı bilir
 **(4)** Rablerinin ayetlerinden onlara asla hiçbir ayet gelmez [ki onlar] ondan yüz çeviriyor olmasınlar
 **(5)** işte elbette ne zaman ki kendilerine geldi  hakkı yalanladılar fakat yakında onunla alay ettikleri şeyin haberleri kendilerine gelecektir 
-**(6)** görmediler mi onlardan önce nesillerden nicesini yok ettik onlara yeryüzünde imkanlar vermiştik size vermediğimiz imkanları ve göğü de üzerlerine bol bol boşaltmıştık ve (ayaklarının) altından akar ırmakları kılmıştık fakat günahlarından ötürü onları helak ettik ve yarattık
+**(6)** görmediler mi onlardan önce nesillerden nicesini yok ettik, onlara yeryüzünde imkanlar vermiştik size vermediğimiz imkanları ve göğü de üzerlerine bol bol boşaltmıştık ve (ayaklarının) altından akar ırmakları kılmıştık fakat günahlarından ötürü onları helak ettik ve onların ardından başka bir nesil yarattık
 **(7)** 
 **(8)** 
 **(9)** 
