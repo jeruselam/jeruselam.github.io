@@ -20,8 +20,8 @@ tag:
 **(8)** ve O’na bir melek indirilmeli değil miydi? dediler ve eğer bir melek indirseydik, iş bitirilmiş olurdu artık hiç göz açtırılmazdı
 **(9)** ve eğer onu melek yapsaydık yine bir adam (şeklinde) yapardık ve yine onları düştükleri kuşkuya düşürürdük
 **(10)** ve muhakkak senden önce de peygamberlerle alay edilmişti fakat onunla alay ettikleri şey onlarla alay edenleri [alaycı] kimseleri kuşatıverdi
-**(11)** 
-**(12)** 
+**(11)** de ki yeryüzünde dolaşın sonra yalanlayanların sonu nasıl olmuş görün
+**(12)** de ki göklerde ve yerde olanlar kimindir? de ki Allah’ındır O rahmet etmeyi kendi üstüne yazmıştır sizi varlığında şüphe olmayan kıyamet gününde elbette toplayacaktır ama kendilerini ziyana sokan(lar), [hüsrana uğrayan] kimseler onlar inanmazlar
 **(13)** 
 **(14)** 
 **(15)** 
