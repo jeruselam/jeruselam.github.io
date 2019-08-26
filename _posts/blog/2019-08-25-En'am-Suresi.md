@@ -16,8 +16,8 @@ tag:
 **(4)** Rablerinin ayetlerinden onlara asla hiçbir ayet gelmez [ki onlar] ondan yüz çeviriyor olmasınlar
 **(5)** işte elbette ne zaman ki kendilerine geldi  hakkı yalanladılar fakat yakında onunla alay ettikleri şeyin haberleri kendilerine gelecektir 
 **(6)** görmediler mi onlardan önce nesillerden nicesini yok ettik, onlara yeryüzünde imkanlar vermiştik size vermediğimiz imkanları ve göğü de üzerlerine bol bol boşaltmıştık ve (ayaklarının) altından akar ırmakları kılmıştık fakat günahlarından ötürü onları helak ettik ve onların ardından başka bir nesil yarattık
-**(7)** 
-**(8)** 
+**(7)** ve eğer sana kağıt üzerine yazılı bir Kitap indirmiş olsaydık, onu elleriyle tutsalardı, inkar eden(ler), [kafir] kimseler yine bu ancak apaçık bir büyüdür derlerdi
+**(8)** ve O’na bir melek indirilmeli değil miydi? dediler ve eğer bir melek indirseydik, iş bitirilmiş olurdu artık hiç göz açtırılmazdı
 **(9)** 
 **(10)** 
 **(11)** 
