@@ -22,7 +22,7 @@ tag:
 **(10)** ve muhakkak senden önce de peygamberlerle alay edilmişti fakat onunla alay ettikleri şey onlarla alay edenleri [alaycı] kimseleri kuşatıverdi
 **(11)** de ki yeryüzünde dolaşın sonra yalanlayanların sonu nasıl olmuş görün
 **(12)** de ki göklerde ve yerde olanlar kimindir? de ki Allah’ındır O rahmet etmeyi kendi üstüne yazmıştır sizi varlığında şüphe olmayan kıyamet gününde elbette toplayacaktır ama kendilerini ziyana sokan(lar), [hüsrana uğrayan] kimseler onlar inanmazlar
-**(13)** 
+**(13)** gecede ve gündüzde barınan her şey ve O işitendir, bilendir
 **(14)** 
 **(15)** 
 **(16)** 
