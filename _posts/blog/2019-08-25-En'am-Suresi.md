@@ -26,7 +26,7 @@ tag:
 **(14)** de ki gökleri ve yeri yoktan var eden ve kendisi besleyen fakat beslenmeyen Allah’tan başkasını mı? dost [veli] edineyim, de ki bana İslam olanların ilki olmam emredildi ve sakın ortak koşanlardan [muşriklerden] olma
 **(15)** de ki şüphesiz ben eğer Rabbime isyan edersem büyük bir günün azabından korkarım
 **(16)** o gün ondan (azabdan) kim çevrilip savılırsa gerçekten [RaHim] (Allah) ona acımıştır apaçık başarı [selamet] işte budur
-**(17)** 
+**(17)** ve eğer Allah sana bir zarar dokundursa kendisinden başka onu açacak yoktur ve eğer sana bir hayır dokundursa kuşkusuz O her şeyi yapabilendir
 **(18)** 
 **(19)** 
 **(20)** 
