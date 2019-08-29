@@ -27,9 +27,9 @@ tag:
 **(15)** de ki şüphesiz ben eğer Rabbime isyan edersem büyük bir günün azabından korkarım
 **(16)** o gün ondan (azabdan) kim çevrilip savılırsa gerçekten [RaHim] (Allah) ona acımıştır apaçık başarı [selamet] işte budur
 **(17)** ve eğer Allah sana bir zarar dokundursa kendisinden başka onu açacak yoktur ve eğer sana bir hayır dokundursa kuşkusuz O her şeyi yapabilendir
-**(18)** 
-**(19)** 
-**(20)** 
+**(18)** ve O kullarının üstünde tam hakimdir ve O [Hakîmul Habîr] herşeyi yerli yerince yapan haber alandır
+**(19)** de ki şahidlik bakımından hangi şey daha büyüktür, de ki benimle sizin aranızda Allah şahiddir ve bu Kur’an bana vahyolundu onunla sizi ve ulaştığı herkesi uyarayım, Allah ile beraber başka [ilāhlar] tanrılar olduğuna gerçekten siz şahidlik ediyor musunuz? de ki ben şahidlik etmem, de ki ancak O tek bir [ilāh] Tanrıdır, şüphesiz ben sizin ortak koştuğunuz şeylerden uzağım
+**(20)** kendilerine Kitap verdiklerimiz oğullarını tanıdıkları gibi onu tanırlar kendilerini ziyana sokan(lar) kimseler onlar inanmazlar
 **(21)** 
 **(22)** 
 **(23)** 
