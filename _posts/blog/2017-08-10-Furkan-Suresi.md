@@ -16,10 +16,10 @@ tag:
 **(4)** ve inkar eden(ler) kimseler dedi ki bu yalandan başka bir şey değildir onu uydurdu ve kendisine başka bir topluluk yardım etti böylece kesin bir haksızlığa ve iftiraya vardılar[derecesine ulaştılar]
 **(5)** ve evvelkilerin masalları dediler onları yazmış, onlar sabah ve akşam kendisine yazdırılıyor
 **(6)** de ki göklerdeki ve yerdeki gizleri bilen onu indirdi şüphesiz o çok bağışlayandır[Ğafūr] çok esirgeyendir[RaHīm]
-**(7)** ve dediler ki bu elçiye[rasūl] ne oluyor ki? yemek yiyor ve çarşılarda geziyor ona bir melek indirilmeli değil mi? kendisiyle beraber uyarıcı olsun
-**(8)** üstüne bir hazine atılmalı yahut değil mi? yahut kendisinin ondan (ürününden) yiyeceği bir bahçesi olmalı değil mi? ve zalimler dediler ki büyülenmiş bir adam(dan) başkasına siz uymuyorsunuz
-**(9)** benzetmelerle bak nasıl misal verdiler senin için saptılar artık yolu bulamazlar
-**(10)** O ki yücedir eğer dilerse sana bundan daha hayırlısını verir altlarından ırmaklar akan bahçeler ve senin için saraylar yapar 
+**(7)** ve dediler ki bu elçiye [rasūle] ne oluyor ki? yemek yiyor ve çarşılarda geziyor ona bir melek indirilmeli değil mi? kendisiyle beraber uyarıcı olsun
+**(8)** yahut üstüne bir hazine atılmalı değil mi? yahut  ondan (ürününden) yiyeceği kendisinin bir bahçesi olmalı değil mi? ve zalimler dediler ki siz büyülenmiş bir adam(dan) başkasına uymuyorsunuz
+**(9)** senin için benzetmelerle bak nasıl misal verdiler, [dalalete] saptılar artık yolu bulamazlar
+**(10)** O ki yücedir eğer dilerse sana bundan daha hayırlısını verir; altlarından ırmaklar akan bahçeler ve senin için saraylar yapar 
 **(11)** bilakis (duruşma) sa’atini onlar yalanladılar ve sa’ati yalanlayan kimselere biz alevli bir ateş hazırlamışızdır 
 **(12)** ne zaman ki uzak bir yerden onları görünce bunun öfkesini ve homurtusunu onlar işitirler 
 **(13)** ve bağlı olarak onun dar bir yerine atıldıkları zaman orada helâki[kovulup sürülmek, ortadan kaybolmak] çağırırlar
