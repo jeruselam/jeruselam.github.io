@@ -31,8 +31,8 @@ tag:
 **(19)** de ki şahidlik bakımından hangi şey daha büyüktür, de ki benimle sizin aranızda Allah şahiddir ve bu Kur’an bana vahyolundu onunla sizi ve ulaştığı herkesi uyarayım, Allah ile beraber başka [ilāhlar] tanrılar olduğuna gerçekten siz şahidlik ediyor musunuz? de ki ben şahidlik etmem, de ki ancak O tek bir [ilāh] Tanrıdır, şüphesiz ben sizin ortak koştuğunuz şeylerden uzağım
 **(20)** kendilerine Kitap verdiklerimiz oğullarını tanıdıkları gibi onu tanırlar, kendilerini ziyana sokan(lar) kimseler onlar inanmazlar
 **(21)** ve yalanı Allah’a karşı iftira edenlerden ya da O’nun ayetlerini yalanlayandan daha zalim kim olabilir? zalimler şüphesiz kurtuluş yüzü görmezler 
-**(22)** 
-**(23)** 
+**(22)** ve hepsini topladığımız gün sonra ortak koşan(lara) kimselere ortaklarınız zannetmekte olduğunuz kimseler hani nerede? dediğimiz 
+**(23)** sonra Rabbimiz Allah’a andolsun ki ortak koşanlar biz değildik demelerinden başka onların çareleri kalmadığı
 **(24)** 
 **(25)** 
 **(26)** 
