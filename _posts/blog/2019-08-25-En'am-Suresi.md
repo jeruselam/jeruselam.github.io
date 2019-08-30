@@ -29,8 +29,8 @@ tag:
 **(17)** ve eğer Allah sana bir zarar dokundursa kendisinden başka onu açacak yoktur ve eğer sana bir hayır dokundursa kuşkusuz O her şeyi yapabilendir
 **(18)** ve O kullarının üstünde tam hakimdir ve O [Hakîmul Habîr] herşeyi yerli yerince yapan haber alandır
 **(19)** de ki şahidlik bakımından hangi şey daha büyüktür, de ki benimle sizin aranızda Allah şahiddir ve bu Kur’an bana vahyolundu onunla sizi ve ulaştığı herkesi uyarayım, Allah ile beraber başka [ilāhlar] tanrılar olduğuna gerçekten siz şahidlik ediyor musunuz? de ki ben şahidlik etmem, de ki ancak O tek bir [ilāh] Tanrıdır, şüphesiz ben sizin ortak koştuğunuz şeylerden uzağım
-**(20)** kendilerine Kitap verdiklerimiz oğullarını tanıdıkları gibi onu tanırlar kendilerini ziyana sokan(lar) kimseler onlar inanmazlar
-**(21)** 
+**(20)** kendilerine Kitap verdiklerimiz oğullarını tanıdıkları gibi onu tanırlar, kendilerini ziyana sokan(lar) kimseler onlar inanmazlar
+**(21)** ve yalanı Allah’a karşı iftira edenlerden ya da O’nun ayetlerini yalanlayandan daha zalim kim olabilir? zalimler şüphesiz kurtuluş yüzü görmezler 
 **(22)** 
 **(23)** 
 **(24)** 
