@@ -37,7 +37,7 @@ tag:
 **(25)** içlerinden seni dinleyen kimseler vardır fakat biz kalblerinin üstüne onu anlamalarına engel perdeler ve kulaklarının içine ağırlık koyduk ve eğer her mu’cizeyi görseler de ona asla inanmazlar hatta sana geldikleri zaman seninle tartışırlar, inkar eden(ler), [kafir] kimseler bu eskilerin masallarından başka değildir derler
 **(26)** ve onlar hem ondan menederler hem de ondan uzak dururlar ve böylece yalnız kendilerini mahvediyorlar farkında değiller
 **(27)** ve ateşin başında durdurulmuş iken keşke biz geri döndürülseydik ve Rabbimizin ayetlerini yalanlamasaydık ve inananlardan olsaydık dediklerini eğer bir görsen 
-**(28)** 
+**(28)** hayır daha önce gizlemekte oldukları onlara göründü eğer geri gönderilselerdi kendinden men’olundukları şeye yine dönerlerdi çünkü onlar yalancılardır
 **(29)** 
 **(30)** 
 **(31)** 
