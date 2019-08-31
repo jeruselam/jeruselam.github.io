@@ -40,7 +40,7 @@ tag:
 **(28)** hayır daha önce gizlemekte oldukları onlara göründü eğer geri gönderilselerdi kendinden men’olundukları şeye yine dönerlerdi çünkü onlar yalancılardır
 **(29)** onlar dediler ki dünya hayatımızdan başka yoktur ve biz diriltilecek değiliz
 **(30)** ve Rablerinin huzurunda durdurulmuş iken eğer (onları) bir görsen, bu gerçek değil miymiş? dedi, dediler ki Rabbimiz hakkı için evet gerçektir, öyle ise inkar ettiğinizden dolayı azabı tadın dedi
-**(31)** 
+**(31)** Allah’ın huzuruna çıkmayı yalanlayan(lar) kimseler gerçekten ziyana uğradı(lar), nihayet o sa’at ansızın kendilerine geldiği zaman orada kusurlarımızdan dolayı vah bize dediler ve onlar günahlarını sırtlarına yüklenecekler, bakın ne kötü şeyler yüklenip taşıyorlar
 **(32)** 
 **(33)** 
 **(34)** 
