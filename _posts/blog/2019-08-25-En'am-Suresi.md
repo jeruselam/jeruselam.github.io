@@ -34,7 +34,7 @@ tag:
 **(22)** ve hepsini topladığımız gün sonra ortak koşan(lara), [müşrik] kimselere ortaklarınız zannetmekte olduğunuz kimseler hani nerede? dediğimiz 
 **(23)** sonra Rabbimiz Allah’a andolsun ki biz [müşrikler], ortak koşanlar değildik demelerinden başka onların çareleri kalmadığı
 **(24)** kendilerine karşı bak nasıl yalan söylediler ve [tuhaf, korkunç yalanlar] uydurduruyor(lar), [iftira etmiş] oldukları şeyler [kayboldu], kendilerinden sapıp gitti 
-**(25)** 
+**(25)** içlerinden seni dinleyen kimseler vardır fakat biz kalblerinin üstüne onu anlamalarına engel perdeler ve kulaklarının içine ağırlık koyduk ve eğer her mu’cizeyi görseler de ona asla inanmazlar hatta sana geldikleri zaman seninle tartışırlar, inkar eden(ler), [kafir] kimseler bu eskilerin masallarından başka değildir derler
 **(26)** 
 **(27)** 
 **(28)** 
