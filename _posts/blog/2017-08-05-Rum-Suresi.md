@@ -17,7 +17,7 @@ tag:
 **(5)** Allah’ın yardımıyle dilediği kimseye yardım eder ve O galiptir esirgeyendir 
 **(6)** Allah’ın va’didir Allah va’dinden caymaz fakat insanların çoğu bilmezler 
 **(7)** onlar dünya hayatının dış yüzünü bilirler ve onlar ahiretten gafildirler
-**(8)** kendi içlerinde hiç düşünmediler mi? Allah göklerde ve yerde ve bu ikisi arasında bulunanları hak olması dışında yaratmamıştır ve bir süre belirtilmiştir ve şüphesiz insanlardan çoğu Rabblerine kavuşmayı inkar etmektedirler
+**(8)** kendi içlerinde [nefislerini] hiç düşünmediler mi? Allah göklerde ve yerde ve bu ikisi arasında bulunanları hak olması dışında yaratmamıştır ve bir süre belirtilmiştir ve şüphesiz insanlardan çoğu Rabblerine kavuşmayı inkar etmektedirler
 **(9)** yeryüzünde gezmediler mi? kendilerinden önceki kimselerin sonunun nasıl olduğuna baksınlar kuvvet bakımından kendilerinden daha güçlü idiler toprağı alt-üst etmişlerdi ve bunların imar ettiklerinden daha çok onu imar etmişlerdi onlara elçiler delillerle gelmişti fakat Allah onlara zulmedecek değildi fakat onlar kendi kendilerine zulmediyorlardı
 **(10)** sonra kötülük eden(lerin) kimselerin sonu çok kötü oldu çünkü Allah’ın ayetlerini yalanladılar ve onlarla alay ediyor idiler
 **(11)** Allah yaratmağa başlar sonra onu devam ettirir sonra O’na döndürülürsünüz
