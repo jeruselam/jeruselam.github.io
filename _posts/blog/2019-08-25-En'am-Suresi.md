@@ -33,7 +33,7 @@ tag:
 **(21)** ve yalanı Allah’a karşı iftira edenlerden ya da O’nun ayetlerini yalanlayandan daha zalim kim olabilir? zalimler şüphesiz kurtuluş yüzü görmezler 
 **(22)** ve hepsini topladığımız gün sonra ortak koşan(lara), [müşrik] kimselere ortaklarınız zannetmekte olduğunuz kimseler hani nerede? dediğimiz 
 **(23)** sonra Rabbimiz Allah’a andolsun ki biz [müşrikler], ortak koşanlar değildik demelerinden başka onların çareleri kalmadığı
-**(24)** 
+**(24)** kendilerine karşı bak nasıl yalan söylediler ve [tuhaf, korkunç yalan] uydurduruyor(lar) [iftira etmiş] oldukları şeyler sapıp gitti 
 **(25)** 
 **(26)** 
 **(27)** 
