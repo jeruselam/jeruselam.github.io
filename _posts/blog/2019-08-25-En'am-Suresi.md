@@ -38,8 +38,8 @@ tag:
 **(26)** ve onlar hem ondan menederler hem de ondan uzak dururlar ve böylece yalnız kendilerini mahvediyorlar farkında değiller
 **(27)** ve ateşin başında durdurulmuş iken keşke biz geri döndürülseydik ve Rabbimizin ayetlerini yalanlamasaydık ve inananlardan olsaydık dediklerini eğer bir görsen 
 **(28)** hayır daha önce gizlemekte oldukları onlara göründü eğer geri gönderilselerdi kendinden men’olundukları şeye yine dönerlerdi çünkü onlar yalancılardır
-**(29)** 
-**(30)** 
+**(29)** onlar dediler ki dünya hayatımızdan başka yoktur ve biz diriltilecek değiliz
+**(30)** ve Rablerinin huzurunda durdurulmuş iken eğer (onları) bir görsen, bu gerçek değil miymiş? dedi, dediler ki Rabbimiz hakkı için evet gerçektir, öyle ise inkar ettiğinizden dolayı azabı tadın dedi
 **(31)** 
 **(32)** 
 **(33)** 
