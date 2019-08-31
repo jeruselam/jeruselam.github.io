@@ -17,7 +17,7 @@ tag:
 **(4)** ve Kitap verilmiş olanlar ayrılığa düşmediler ne ki açık kanıt kendilerine geldi ancak (ondan) sonra (düştüler)
 **(5)** oysa dini birleyerek kendilerine halis [katıksız, saf] kılarak Allah'a kulluk etmeleri ve zekatı vermeleri ve namazı kılmaları dışında (bir şey) emredilmedi, doğru din işte budur
 **(6)** şüphesiz Kitap ehlinden inkarcı(lar) ; [kafir] kimseler ve ortak koşanlar sürekli olarak orada cehennem ateşi içindedirler, işte onlar yaratılmışların en şerlisidir
-**(7)** şüphesiz, inanan(lar) kimseler ve iyi işler yapanlar, işte onlar yaratılmışların en hayırlısıdır
-**(8)** onların mükafatı Rabbleri katında içinde sürekli kalacakları altlarından ırmaklar akan Adn cennetleridir, Allah onlardan ebedi razı olmuştur onlarda O'ndan razı olmuştur, bu Rabbine saygı gösterene mahsustur
+**(7)** şüphesiz inanan(lar); [imanlı] kimseler ve iyi işler yapanlar, işte onlar yaratılmışların en hayırlısıdır
+**(8)** onların Rabbleri katında mükafatı içinde sürekli kalacakları altlarından ırmaklar akan Adn cennetleridir, Allah onlardan ebedi razı olmuştur onlarda O'ndan razı olmuştur, Rabbine saygı gösterene bu mahsustur
 
 ![98]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
