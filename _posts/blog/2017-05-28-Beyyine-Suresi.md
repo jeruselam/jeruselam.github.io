@@ -20,4 +20,4 @@ tag:
 **(7)** şüphesiz inanan(lar); [imanlı] kimseler ve iyi işler yapanlar, işte onlar yaratılmışların en hayırlısıdır
 **(8)** onların Rabbleri katında mükafatı içinde sürekli kalacakları altlarından ırmaklar akan Adn cennetleridir, Allah onlardan ebedi razı olmuştur onlarda O'ndan razı olmuştur, Rabbine saygı gösterene bu mahsustur
 
-![98]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![98Beyyine-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
