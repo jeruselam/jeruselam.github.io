@@ -42,7 +42,7 @@ tag:
 **(30)** ve Rablerinin huzurunda durdurulmuş iken eğer (onları) bir görsen, bu gerçek değil miymiş? dedi, dediler ki Rabbimiz hakkı için evet gerçektir, öyle ise inkar ettiğinizden dolayı azabı tadın dedi
 **(31)** Allah’ın huzuruna çıkmayı yalanlayan(lar) kimseler gerçekten ziyana uğradı(lar), nihayet o sa’at ansızın kendilerine geldiği zaman orada kusurlarımızdan dolayı vah bize dediler ve onlar günahlarını sırtlarına yüklenecekler, bakın ne kötü şeyler yüklenip taşıyorlar
 **(32)** ve dünya hayatı [anlamsız ve amaçsız boş spor ve] bir oyundan ve [önemsiz bir şeyle] eğlenceden başka bir şey değildir ve korunan(lar), [sakınan] kimseler için ahiret yurdu daha iyidir, düşünmüyor musunuz?
-**(33)** 
+**(33)** muhakkak biliyoruz şüphesiz onların dedikleri şeyler seni [hüzün] üzüyor gerçekte onlar seni yalanlamıyorlar fakat o zalimler Allah’ın ayetlerini yalanlıyorlar
 **(34)** 
 **(35)** 
 **(36)** 
