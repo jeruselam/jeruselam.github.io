@@ -46,7 +46,7 @@ tag:
 **(34)** ve senden önce de elçiler andolsun yalanlanmıştı, yalanlanmalarına ve eziyet edilmelerine karşı sabrettiler nihayet onlara yardımımız yetişti, Allah’ın kelimelerini değiştirebilecek yoktur, elçilerin haberinden andolsun sana da gelmiştir
 **(35)** ve onların yüz çevirmesi eğer sana ağır geldiyse haydi yapabilirsen yerin içine bir delik ya da göğe bir merdiven ara ki onlara bir mu’cize getiresin şayet Allah dileseydi elbette onları hidayet üzerinde toplardı o halde cahillerden olma 
 **(36)** ancak işiten(ler), [dinleyen] kimseler icabet eder ölülere gelince Allah onları diriltir sonra O’na döndürülürler
-**(37)** 
+**(37)** dediler ki Rabbinden ona bir mu’cize indirilmeli değil miydi? de ki şüphesiz Allah bir mu’cize üzerine indirmeğe kadirdir fakat çokları bilmezler
 **(38)** 
 **(39)** 
 **(40)** 
