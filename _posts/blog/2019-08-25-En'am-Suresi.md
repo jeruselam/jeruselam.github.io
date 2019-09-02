@@ -51,7 +51,7 @@ tag:
 **(39)** bizim ayetlerimizi yalanlayan(lar), [yalancı] kimseler sağırdırlar ve dilsizdirler, Allah dilediği kimseyi karanlıklar [dinsizlik ve zulüm devri] içinde şaşırtır ve dilediği kimseyi de doğru yol üzerine koyar
 **(40)** de ki gördünüz mü? Allah’ın azabı eğer size gelse ya da o sa’at gelse Allah’tan başkasına mı yalvarırsınız şayet doğru (sözlü) iseniz (söyleyin)
 **(41)** hayır yalnız O’na yalvarırsınız ondan istediğiniz şeyi O da şayet dilerse kaldırır ve ortak koştuğunuz şeyleri unutursunuz
-**(42)** 
+**(42)** senden önce de ümmetlere muhakkak (elçiler) gönderdik belki onlar yalvarırlar diye onları yakalayıp darlık [yoksulluk ve çetin bir savaş] ile ve sıkıntı [veren bir zarar] ile cezalandırmıştık
 **(43)** 
 **(44)** 
 **(45)** 
