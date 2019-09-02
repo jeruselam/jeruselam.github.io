@@ -47,7 +47,7 @@ tag:
 **(35)** ve onların yüz çevirmesi eğer sana ağır geldiyse haydi yapabilirsen yerin içine bir delik ya da göğe bir merdiven ara ki onlara bir mu’cize getiresin şayet Allah dileseydi elbette onları hidayet üzerinde toplardı o halde cahillerden olma 
 **(36)** ancak işiten(ler), [dinleyen] kimseler icabet eder ölülere gelince Allah onları diriltir sonra O’na döndürülürler
 **(37)** dediler ki Rabbinden ona bir mu’cize indirilmeli değil miydi? de ki şüphesiz Allah bir mu’cize üzerine indirmeğe kadirdir fakat çokları bilmezler
-**(38)** 
+**(38)** yeryüzünde yürüyen hiçbir hayvan ve iki kanadiyle uçan hiçbir kuş yoktur ki sizin gibi birer ümmet olmasınlar biz Kitapta hiçbir şeyi eksik bırakmamışızdır sonra Rableri(nin huzuru)na toplanacaklardır
 **(39)** 
 **(40)** 
 **(41)** 
