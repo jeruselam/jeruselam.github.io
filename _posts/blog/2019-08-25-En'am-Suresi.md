@@ -44,7 +44,7 @@ tag:
 **(32)** ve dünya hayatı [anlamsız ve amaçsız boş spor ve] bir oyundan ve [önemsiz bir şeyle] eğlenceden başka bir şey değildir ve korunan(lar), [sakınan] kimseler için ahiret yurdu daha iyidir, düşünmüyor musunuz?
 **(33)** muhakkak biliyoruz şüphesiz onların dedikleri şeyler seni [hüzün] üzüyor gerçekte onlar seni yalanlamıyorlar fakat o zalimler Allah’ın ayetlerini yalanlıyorlar
 **(34)** ve senden önce de elçiler andolsun yalanlanmıştı, yalanlanmalarına ve eziyet edilmelerine karşı sabrettiler nihayet onlara yardımımız yetişti, Allah’ın kelimelerini değiştirebilecek yoktur, elçilerin haberinden andolsun sana da gelmiştir
-**(35)** ve onların yüz çevirmesi eğer sana ağır geldiyse haydi yapabilirsen ara ki yerin içine bir delik ya da göğe bir merdiven onlara bir mu’cize getiresin şayet Allah dileseydi elbette onları hidayet üzerinde toplardı o halde cahillerden olma 
+**(35)** ve onların yüz çevirmesi eğer sana ağır geldiyse haydi yapabilirsen yerin içine bir delik ya da göğe bir merdiven ara ki onlara bir mu’cize getiresin şayet Allah dileseydi elbette onları hidayet üzerinde toplardı o halde cahillerden olma 
 **(36)** 
 **(37)** 
 **(38)** 
