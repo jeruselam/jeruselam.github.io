@@ -43,7 +43,7 @@ tag:
 **(31)** Allah’ın huzuruna çıkmayı yalanlayan(lar) kimseler gerçekten ziyana uğradı(lar), nihayet o sa’at ansızın kendilerine geldiği zaman orada kusurlarımızdan dolayı vah bize dediler ve onlar günahlarını sırtlarına yüklenecekler, bakın ne kötü şeyler yüklenip taşıyorlar
 **(32)** ve dünya hayatı [anlamsız ve amaçsız boş spor ve] bir oyundan ve [önemsiz bir şeyle] eğlenceden başka bir şey değildir ve korunan(lar), [sakınan] kimseler için ahiret yurdu daha iyidir, düşünmüyor musunuz?
 **(33)** muhakkak biliyoruz şüphesiz onların dedikleri şeyler seni [hüzün] üzüyor gerçekte onlar seni yalanlamıyorlar fakat o zalimler Allah’ın ayetlerini yalanlıyorlar
-**(34)** 
+**(34)** ve senden önce de elçiler andolsun yalanlanmıştı, yalanlanmalarına ve eziyet edilmelerine karşı sabrettiler nihayet onlara yardımımız yetişti, Allah’ın kelimelerini değiştirebilecek yoktur, elçilerin haberinden andolsun sana da gelmiştir
 **(35)** 
 **(36)** 
 **(37)** 
