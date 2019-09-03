@@ -54,7 +54,7 @@ tag:
 **(42)** senden önce de ümmetlere muhakkak (elçiler) gönderdik belki onlar yalvarırlar diye onları yakalayıp darlık [yoksulluk ve çetin bir savaş] ile ve sıkıntı [veren bir zarar] ile cezalandırmıştık
 **(43)** hiç olmazsa baskınımız kendilerine geldiği zaman yalvarsalardı fakat kalbleri katılaştı ve şeytan onlara yapmış oldukları şeyleri süslü gösterdi
 **(44)** ne zaman ki kendileri yapılan uyarıları unutunca her şeyin kapılarını üzerlerine açtık kendilerine verilen şey ile nihayet sevince daldıkları sırada onları ansızın yakaladık böylece onlar bütün umutlarnı yitirdiler
-**(45)** böylece milletin ardı kesildi onlar ki haksızlık ediyordu, alemlerin Rabbi Allah’a hamdolsun
+**(45)** böylece milletin ardı kesildi [parçalanıp ayrıldılar] onlar ki [zalimane] haksızlık ediyordu, alemlerin Rabbi Allah’a hamdolsun
 **(46)** 
 **(47)** 
 **(48)** 
