@@ -55,7 +55,7 @@ tag:
 **(43)** hiç olmazsa baskınımız kendilerine geldiği zaman yalvarsalardı fakat kalbleri katılaştı ve şeytan onlara yapmış oldukları şeyleri süslü gösterdi
 **(44)** ne zaman ki kendileri yapılan uyarıları unutunca her şeyin kapılarını üzerlerine açtık kendilerine verilen şey ile nihayet sevince daldıkları sırada onları ansızın yakaladık böylece onlar bütün umutlarnı yitirdiler
 **(45)** böylece milletin ardı kesildi [parçalanıp ayrıldılar] onlar ki [zalimane] haksızlık ediyordu, alemlerin Rabbi Allah’a hamdolsun
-**(46)** de ki söyleyin bana eğer Allah işitme(duyu)nuzu ve gözlerinizi alsa ve kalblerinizin üstüne mühür vursa bun(lar)ı size getirecek Allah’tan başka [herşeyden çok sevilen ilah] tanrı kimdir?
+**(46)** de ki söyleyin bana eğer Allah işitme(duyu)nuzu ve gözlerinizi alsa ve kalblerinizin üstüne mühür vursa bun(lar)ı size getirecek Allah’tan başka [herşeyden çok sevilen, tazim ve tesbih edilen ilah] tanrı kimdir?
 **(47)** 
 **(48)** 
 **(49)** 
