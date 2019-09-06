@@ -58,8 +58,8 @@ tag:
 **(46)** de ki söyleyin bana eğer Allah işitme(duyu)nuzu ve gözlerinizi alsa ve kalblerinizin üstüne mühür vursa bun(lar)ı size getirecek Allah’tan başka [herşeyden çok sevilen, tazim ve tesbih edilen ilah] tanrı kimdir? bak ayetleri nasıl türlü türlü açıklıyoruz sonra yine yüz çeviriyorlar
 **(47)** de ki söyleyin bana Allah’ın azabı eğer size ansızın [gafil iken habersiz] ya da açıkça [aleni bir şekilde] gelse zalim toplumdan başkası mi? helak edilir
 **(48)** biz elçileri müjdeciler olmak ve uyarıcılar olmak dışında göndermeyiz o halde kim inanır ve [ıslah olur] uslanırsa onlara korku yoktur ve onlar üzülecek de değildir
-**(49)** 
-**(50)** 
+**(49)** ayetlerimizi yalanlayan(lara), [yalancı] kimselere yaptıkları [günah olan] fenalık yüzünden azab dokunacaktır
+**(50)** de ki ben size Allah’ın hazineleri yanımdadır demiyorum ve gaybı bilmem ve ben size meleğim demiyorum ben sadece bana vahyolunan şeye uyuyorum de ki kör ve gören eşit midir? düşünmüyor musunuz?
 **(51)** 
 **(52)** 
 **(53)** 
