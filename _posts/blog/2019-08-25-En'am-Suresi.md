@@ -60,8 +60,8 @@ tag:
 **(48)** biz elçileri müjdeciler olmak ve uyarıcılar olmak dışında göndermeyiz o halde kim inanır ve [ıslah olur] uslanırsa onlara korku yoktur ve onlar üzülecek de değildir
 **(49)** ayetlerimizi yalanlayan(lara), [yalancı] kimselere yaptıkları [günah olan] fenalık yüzünden azab dokunacaktır
 **(50)** de ki ben size Allah’ın hazineleri yanımdadır demiyorum ve gaybı bilmem ve ben size meleğim demiyorum ben sadece bana vahyolunan şeye uyuyorum de ki kör ve gören eşit midir? düşünmüyor musunuz?
-**(51)** ve onunla korkan(ları), [çekinen] kimseleri uyar[ ki Rablerine (huzuru)na toplanacaklardır, kendilerinin O’ndan başka ne [veli] dostları ne de [suçunun bağışlanması için vasıtalık eden] destekçileri [oysa] yoktur belki [Allah’a karşı saygıyla] korunurlar
-**(52)** 
+**(51)** ve onunla korkan(ları), [çekinen] kimseleri uyar ki Rablerine (huzuru)na toplanacaklardır, kendilerinin O’ndan başka ne [veli] dostları ne de [suçunun bağışlanması için vasıtalık eden] destekçileri [oysa] yoktur belki [Allah’a karşı saygıyla] korunurlar
+**(52)** sabah ve akşam O’nun rızasını isteyerek Rablerine yalvaranları, [du’a eden] kimseleri kovma, onların hesabından sana hiçbir şey (sorumluluk) yoktur ve senin hesabından onlara hiçbir şey (sorumluk) yoktur [ki] onları kovup da zalimlerden olasın
 **(53)** 
 **(54)** 
 **(55)** 
