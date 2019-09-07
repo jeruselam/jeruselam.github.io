@@ -14,20 +14,20 @@ tag:
 **(2)** alaktan insanı O yarattı
 **(3)** oku ve Rabbin en büyük kerem sahibidir
 **(4)** O ki kalemle öğretti
-**(5)** insana bilmediği şeyi öğretti
-**(6)** hayır insan azar şüphesiz
+**(5)** bilmediği şeyi insana öğretti
+**(6)** hayır şüphesiz insan azar
 **(7)** kendini zengin (kendine yeterli) gördüğü için
 **(8)** şüphesiz dönüş Rabbinedir
-**(9)** şu men’edeni gördün mü?
+**(9)** gördün mü? şu men’edeni
 **(10)** namaz kıldığı zaman bir kulu?
-**(11)** gördün mü? ya doğru yol üzerinde olursa
-**(12)** yahut korunmayı emredese
+**(11)** gördün mü? ya doğru yol [hidayet] üzerinde olursa
+**(12)** yahut [kötülükten] korunmayı emredese
 **(13)** gördün mü? ya yalanlarsa? ve yüz çevirirse? 
-**(14)** bilmedi mi (o)? Allah'ın muhakkak gördüğünü
-**(15)** hayır bundan vazgeçmezse eğer perçeminde mutlakan yakalarız
+**(14)** muhakkak Allah'ın gördüğünü bilmedi mi (o)?
+**(15)** hayır eğer bundan vazgeçmezse perçeminde mutlakan yakalarız
 **(16)** günahkar yalancı perçem(den)
 **(17)** o zaman meclisini çağırsın
 **(18)** biz de zebanileri çağıracağız
-**(19)** hayır ona boyun eğme secde et ve yaklaş
+**(19)** hayır ona [gönülden itaat etme] boyun eğme, secde et ve yaklaş
 
 ![96]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
