@@ -62,7 +62,7 @@ tag:
 **(50)** de ki ben size Allah’ın hazineleri yanımdadır demiyorum ve gaybı bilmem ve ben size meleğim demiyorum ben sadece bana vahyolunan şeye uyuyorum de ki kör ve gören eşit midir? düşünmüyor musunuz?
 **(51)** ve onunla korkan(ları), [çekinen] kimseleri uyar ki Rablerine (huzuru)na toplanacaklardır, kendilerinin O’ndan başka ne [veli] dostları ne de [suçunun bağışlanması için vasıtalık eden] destekçileri [oysa] yoktur belki [Allah’a karşı saygıyla] korunurlar
 **(52)** sabah ve akşam O’nun rızasını isteyerek Rablerine yalvaranları, [du’a eden] kimseleri kovma, onların hesabından sana hiçbir şey (sorumluluk) yoktur ve senin hesabından onlara hiçbir şey (sorumluk) yoktur [ki] onları kovup da zalimlerden olasın
-**(53)** 
+**(53)** böylece Allah aramızdan kendilerine lutfu şunlara mı? layık gördü demeleri için biz onların kimini kimi ile denedik, Allah şükredenleri daha iyi bilen değil midir?
 **(54)** 
 **(55)** 
 **(56)** 
