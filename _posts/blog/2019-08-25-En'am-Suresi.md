@@ -66,10 +66,10 @@ tag:
 **(54)** ve inanan(lar), [iman eden] kimseler sana geldikleri zaman de ki size selam olsun Rabbiniz rahmeti kendi üzerine yazmıştır kuşkusuz sizden kim bilmeyerek bir kötülük yaparsa sonra ardından tevbe eder ve uslanırsa muhakkak ki O bağışlayandır, esirgeyendir
 **(55)** ve suçluların yolu belli olsun diye ayetleri böylece açıklıyoruz
 **(56)** de ki elbette ben Allah’tan başka yalvardıklarınıza tapmaktan men’olundum de ki ben sizin keyiflerinize uymam çünkü o takdirde sapıtmış olurum ve ben [hidayetle] yola gelenlerden olmam
-**(57)** de ki elbette ben Rabbimden açık bir delil üzerindeyim siz ise onu yalanladınız onu acele istediğiniz şey (azab) benim yanımda değildir hüküm vermek yalnızca Allah’a aittir (O) [Hakkı] gerçeği anlatır ve O [Hakkı açıklanmış olarak ] ayırdedenlerin en iyisidir
+**(57)** de ki elbette ben Rabbimden açık bir delil üzerindeyim siz ise onu yalanladınız onu acele istediğiniz şey (azab) benim yanımda değildir hüküm vermek yalnızca Allah’a aittir (O) [Hakkı] gerçeği anlatır ve O [Hakkı açıklanmış olarak] ayırdedenlerin en iyisidir
 **(58)** de ki eğer onu acele istediğiniz şey elbette benim yanımda olsaydı aramızda ve sizin aranızda iş bitirilmişti, Allah zalimleri daha iyi bilir
-**(59)** 
-**(60)** 
+**(59)** ve gayb’ın anahtarları O’nun yanındadır, O’ndan başkası onları bilmez ve karada olan ve denizde olan ne varsa (O) bilir, (O)nun bilgisi dışında hiçbir yaprak düşmez ve yerin karanlıkları içinde bir dane (yoktur) ve yaş ve kuru (yoktur) ancak apaçık bir Kitapta vardır
+**(60)** ve sizi geceleyin öldüren [sizin canınızı alacak olan] O’dur ve gündüzün işlediğiniz şeyi bilir sonra belirlenmiş süre tamamlanıncaya kadar sizi onda diriltir sonra dönüşünüz O’nadır sonra yapmış olduğunuz şeyleri size haber verecektir
 **(61)** 
 **(62)** 
 **(63)** 
