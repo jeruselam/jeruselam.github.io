@@ -64,9 +64,9 @@ tag:
 **(52)** sabah ve akşam O’nun rızasını isteyerek Rablerine yalvaranları, [du’a eden] kimseleri kovma, onların hesabından sana hiçbir şey (sorumluluk) yoktur ve senin hesabından onlara hiçbir şey (sorumluk) yoktur [ki] onları kovup da zalimlerden olasın
 **(53)** böylece Allah aramızdan kendilerine lutfu şunlara mı? layık gördü demeleri için biz onların kimini kimi ile denedik, Allah şükredenleri daha iyi bilen değil midir?
 **(54)** ve inanan(lar), [iman eden] kimseler sana geldikleri zaman de ki size selam olsun Rabbiniz rahmeti kendi üzerine yazmıştır kuşkusuz sizden kim bilmeyerek bir kötülük yaparsa sonra ardından tevbe eder ve uslanırsa muhakkak ki O bağışlayandır, esirgeyendir
-**(55)** ve suçluların yolu belli olsun diye böylece ayetleri açıklıyoruz
-**(56)** 
-**(57)** 
+**(55)** ve suçluların yolu belli olsun diye ayetleri böylece açıklıyoruz
+**(56)** de ki elbette ben Allah’tan başka yalvardıklarınıza tapmaktan men’olundum de ki ben sizin keyiflerinize uymam çünkü o takdirde sapıtmış olurum ve ben [hidayetle] yola gelenlerden olmam
+**(57)** de ki elbette ben Rabbimden açık bir delil üzerindeyim siz ise onu yalanladınız onu acele istediğiniz şey (azab) benim yanımda değildir hüküm vermek yalnızca Allah’a aittir (O) [Hakkı] gerçeği anlatır ve O [Hakkı] ayırdedenlerin en iyisidir
 **(58)** 
 **(59)** 
 **(60)** 
