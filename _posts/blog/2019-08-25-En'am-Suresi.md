@@ -69,10 +69,10 @@ tag:
 **(57)** de ki elbette ben Rabbimden açık bir delil üzerindeyim siz ise onu yalanladınız onu acele istediğiniz şey (azab) benim yanımda değildir hüküm vermek yalnızca Allah’a aittir (O) [Hakkı] gerçeği anlatır ve O [Hakkı açıklanmış olarak] ayırdedenlerin en iyisidir
 **(58)** de ki eğer onu acele istediğiniz şey elbette benim yanımda olsaydı aramızda ve sizin aranızda iş bitirilmişti, Allah zalimleri daha iyi bilir
 **(59)** ve gayb’ın anahtarları O’nun yanındadır, O’ndan başkası onları bilmez ve karada olan ve denizde olan ne varsa (O) bilir, (O)nun bilgisi dışında hiçbir yaprak düşmez ve yerin karanlıkları içinde bir dane (yoktur) ve yaş ve kuru (yoktur) ancak apaçık bir Kitapta vardır
-**(60)** ve sizi geceleyin öldüren [sizin canınızı alacak olan] O’dur ve gündüzün işlediğiniz şeyi bilir sonra belirlenmiş süre tamamlanıncaya kadar sizi onda diriltir sonra dönüşünüz O’nadır sonra yapmış olduğunuz şeyleri size haber verecektir
+**(60)** ve sizi geceleyin öldüren [sizin canınızı alacak olan] O’dur ve gündüzün işlediğiniz şeyi bilir sonra belirlenmiş süre tamamlanıncaya kadar sizi onda diriltir sonra dönüşünüz O’nadır sonra yapmış olduğunuz şeyleri size ğhaber verecektir
 **(61)** ve O kulların üstünde tek [Kāhir] hakimdir ve nihayet size [Hafız] koruyucu(melek)ler gönderir, ölüm birinize geldiği zaman [Resül] elçilerimiz onun canını alırlar, onlar hiç geri kalmazlar
 **(62)** sonra gerçek [Hakk] olan [şanlı şerefli] Tanrıları Allah’a döndürülürler, doğrusu hüküm yalnız O’nundur ve O hesap görenlerin [en serisi], en çabuğudur
-**(63)** 
+**(63)** de ki gizli olarak ve açık olarak O’na yakardığınızda karanın ve denizin karanlıklarından sizi kim kurtarıyor eğer bizi bundan kurtarırsa elbette şükredenlerden olacağız
 **(64)** 
 **(65)** 
 **(66)** 
