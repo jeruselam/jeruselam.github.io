@@ -73,9 +73,9 @@ tag:
 **(61)** ve O kulların üstünde tek [Kāhir] hakimdir ve nihayet size [Hafız] koruyucu(melek)ler gönderir, ölüm birinize geldiği zaman [Resül] elçilerimiz onun canını alırlar, onlar hiç geri kalmazlar
 **(62)** sonra gerçek [Hakk] olan [şanlı şerefli] Tanrıları Allah’a döndürülürler, doğrusu hüküm yalnız O’nundur ve O hesap görenlerin [en serisi], en çabuğudur
 **(63)** de ki gizli olarak ve açık olarak O’na yakardığınızda karanın ve denizin karanlıklarından sizi kim kurtarıyor eğer bizi bundan kurtarırsa elbette şükredenlerden olacağız
-**(64)** 
-**(65)** 
-**(66)** 
+**(64)** de ki Allah sizi ondan ve bütün sıkıntılardan kurtarıyor sonra siz yine O’na ortak koşuyorsunuz
+**(65)** de ki üstünüzden yahut ayaklarınızın altından sizin üzerinize bir azab göndermeğe ya da parti parti sizi birbirinize düşürüp ve kiminizin hıncını kiminize taddırmağa O [yüce olan] kadirdir, ayetleri anlasınlar diye bak nasıl açıklıyoruz
+**(66)** ve O gerçek iken kavmin onu yalanladı ve de ki ben size [yardım eden] vekil değilim
 **(67)** 
 **(68)** 
 **(69)** 
