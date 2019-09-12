@@ -75,8 +75,8 @@ tag:
 **(63)** de ki gizli olarak ve açık olarak O’na yakardığınızda karanın ve denizin karanlıklarından sizi kim kurtarıyor eğer bizi bundan kurtarırsa elbette şükredenlerden olacağız
 **(64)** de ki Allah sizi ondan ve bütün sıkıntılardan kurtarıyor sonra siz yine O’na ortak koşuyorsunuz
 **(65)** de ki üstünüzden yahut ayaklarınızın altından sizin üzerinize bir azab göndermeğe ya da parti parti sizi birbirinize düşürüp ve kiminizin hıncını kiminize taddırmağa O [yüce olan] kadirdir, ayetleri anlasınlar diye bak nasıl açıklıyoruz
-**(66)** ve O gerçek iken kavmin onu yalanladı ve de ki ben size [yardım eden] vekil değilim
-**(67)** 
+**(66)** ve O gerçek [Hakk] iken kavmin onu yalanladı ve de ki ben size [yardım eden] vekil değilim
+**(67)** her [musibetin] haberin gerçekleşeceği bir zaman vardır yakında bilirsiniz
 **(68)** 
 **(69)** 
 **(70)** 
