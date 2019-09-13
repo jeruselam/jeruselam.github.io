@@ -77,8 +77,8 @@ tag:
 **(65)** de ki üstünüzden yahut ayaklarınızın altından sizin üzerinize bir azab göndermeğe ya da parti parti sizi birbirinize düşürüp ve kiminizin hıncını kiminize taddırmağa O [yüce olan] kadirdir, ayetleri anlasınlar diye bak nasıl açıklıyoruz
 **(66)** ve O gerçek [Hakk] iken kavmin onu yalanladı ve de ki ben size [yardım eden] vekil değilim
 **(67)** her [musibetin] haberin gerçekleşeceği bir zaman vardır yakında bilirsiniz
-**(68)** 
-**(69)** 
+**(68)** ve ayetlerimiz hakkında (münasebetsizliğe) [bâtıl şeylere] dalanları gördüğün zaman onlar başka bir söze geçinceye kadar onlardan yüz çevir eğer şeytan sana (bunu) unutturursa hatırladıktan sonra zalimler topluluğuyla beraber oturma
+**(69)** ve onların hesabından korunanlar, [Allah’ın sevgisini ve rızasını kaybetmekten korkan] kimseler üzerine bir şey (sorumluluk) yoktur ama belki [Allah’ın sevgisini ve rızasını kaybetme korkusu ile] korunurlar diye bir [öğütle] hatırlatmak lazımdır
 **(70)** 
 **(71)** 
 **(72)** 
