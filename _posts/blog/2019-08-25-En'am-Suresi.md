@@ -79,7 +79,7 @@ tag:
 **(67)** her [musibetin] haberin gerçekleşeceği bir zaman vardır yakında bilirsiniz
 **(68)** ve ayetlerimiz hakkında (münasebetsizliğe) [bâtıl şeylere] dalanları gördüğün zaman onlar başka bir söze geçinceye kadar onlardan yüz çevir eğer şeytan sana (bunu) unutturursa hatırladıktan sonra zalimler topluluğuyla beraber oturma
 **(69)** ve onların hesabından korunanlar, [Allah’ın sevgisini ve rızasını kaybetmekten korkan] kimseler üzerine bir şey (sorumluluk) yoktur ama belki [Allah’ın sevgisini ve rızasını kaybetme korkusu ile] korunurlar diye bir [öğütle] hatırlatmak lazımdır
-**(70)** ve dinlerini oyun ve eğlence yerine koyan(ları) kimseleri ve dünya hayatının aldattığı kimseleri bırak ve kazandığından dolayı bir kişi helake gider diye o (Kur’an) ile öğüt ver, onun Allah’tan başka ne bir dostu ne de bir yardımcısı olmaz ve her türlü fidyeyi eğer verse ondan kabul edilmez işte onlar kazandıklarından dolayı helake uğrayan(lardır) kimselerdir, onlar için kaynar sudan  bir içki vardır ve inkar ediyor olduklarından dolayı acıklı bir azab
+**(70)** ve dinlerini oyun ve eğlence yerine koyan(ları) kimseleri ve dünya hayatının aldattığı kimseleri bırak ve kazandığından dolayı bir kişi helake gider diye o (Kur’an) ile öğüt ver, onun Allah’tan başka ne bir dostu ne de bir yardımcısı olmaz ve her türlü fidyeyi eğer verse ondan kabul edilmez işte onlar kazandıklarından dolayı helake uğrayan(lardır) kimselerdir, onlar için kaynar sudan  bir içki ve inkar ediyor olduklarından dolayı acıklı bir azab vardır
 **(71)** 
 **(72)** 
 **(73)** 
