@@ -80,11 +80,11 @@ tag:
 **(68)** ve ayetlerimiz hakkında (münasebetsizliğe) [bâtıl şeylere] dalanları gördüğün zaman onlar başka bir söze geçinceye kadar onlardan yüz çevir eğer şeytan sana (bunu) unutturursa hatırladıktan sonra zalimler topluluğuyla beraber oturma
 **(69)** ve onların hesabından korunanlar, [Allah’ın sevgisini ve rızasını kaybetmekten korkan] kimseler üzerine bir şey (sorumluluk) yoktur ama belki [Allah’ın sevgisini ve rızasını kaybetme korkusu ile] korunurlar diye bir [öğütle] hatırlatmak lazımdır
 **(70)** ve dinlerini oyun ve eğlence yerine koyan(ları) kimseleri ve dünya hayatının aldattığı kimseleri bırak ve kazandığından dolayı bir kişi helake gider diye o (Kur’an) ile öğüt ver, onun Allah’tan başka ne bir dostu ne de bir yardımcısı olmaz ve her türlü fidyeyi eğer verse ondan kabul edilmez işte onlar kazandıklarından dolayı helake uğrayan(lardır) kimselerdir, onlar için kaynar sudan  bir içki ve inkar ediyor olduklarından dolayı acıklı bir azab vardır
-**(71)** de ki bize yarar vermeyen ve zarar vermeyen ve Allah bizi doğru yola ilettikten sonra ökçelerimiz üzerinde döndürülüp Allah’tan başka şeylere mi yalvaralım? şeytanların ayartarak şaşkın bir halde çölde bıraktıkları arkadaşlarının ise doğru yola Bize gel! diye çağırdıkları kimse gibi mi? de ki muhakkak yol gösterme ancak Allah’ın yol göstermesidir ve bize alemlerin Rabbine teslim olmamız emredilmiştir
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
+**(71)** de ki şeytanların ayartarak şaşkın bir halde çölde bıraktıkları arkadaşlarının ise doğru yola Bize gel! diye çağırdıkları kimse gibi mi? ve Allah bizi doğru yola ilettikten sonra ökçelerimiz üzerinde döndürülüp bize yarar vermeyen ve zarar vermeyen Allah’tan başka şeylere mi yalvaralım? de ki muhakkak yol gösterme ancak Allah’ın yol göstermesidir ve bize alemlerin Rabbine teslim olmamız emredilmiştir
+**(72)** ve ayrıca namazı kılın ve O’ndan korkun huzuruna varıp toplanacağınız o kimse ki O’dur
+**(73)** O O’dur ki hak (ve hikmet) ile gökleri ve yeri yarattı ve Ol! dediği gün oluverir sözü haktır, Sur’a üfleneceği gün mülk O’nundur, gizliyi ve açığı bilendir, O hükümdardır herşeyi haber alan [Hakîmul Habîr]dır
+**(74)** İbrahim babası Azer’e hani demişti ki putları [îlahi] tanrılar mi ediniyorsun? doğrusu ben seni ve kavmini açık bir sapıklık içinde görüyorum
+**(75)** ne zaman ki gece [karanlığı] üzerine basınca (İbrahim) bir yıldız gördü, Rabbim budur dedi, ne zaman ki (yıldız) batınca [kaybolup] batanları sevmem dedi 
 **(76)** 
 **(77)** 
 **(78)** 
@@ -172,4 +172,4 @@ tag:
 **(164)** 
 **(165)** 
 
-![06En'am-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
+![06En'am-Mekkî](https://kuranvebilim.github.io/assets/images/ayrac-muhur.png "mühür")
