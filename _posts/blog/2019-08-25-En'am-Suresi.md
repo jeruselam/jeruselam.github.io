@@ -87,8 +87,8 @@ tag:
 **(75)** ve böylece biz [itaat eden] inananlardan olsun diye göklerin ve yerin melekutunu İbrahim’e gösteriyorduk
 **(76)** ne zaman ki gece [karanlığı] üzerine basınca (İbrahim) bir yıldız gördü, Rabbim budur dedi, ne zaman ki (yıldız) batınca [kaybolup] batanları sevmem dedi
 **(77)** Ay’ı ne zaman ki doğarken gördüğünde Rabbim budur dedi (o da) ne zaman ki [kaybolup] batınca eğer Rabbim bana [hidayeti] doğru yolu göstermeseydi elbette [dalaletle azan] sapıtan topluluktan olurdum dedi
-**(78)** 
-**(79)** 
+**(78)** ne zaman ki güneşi doğarken görünce Rabbim budur bu daha büyük dedi ne zaman ki (O da) [kaybolup] batınca dedi ki kavmim elbette ben sizin ortak [şirk] koştuğunuz şeylerden uzağım
+**(79)** şüphesiz ben yüzümü gökleri ve yeri tamamen yoktan var edene çevirdim ve ben artık ortak [şirk] koşanlardan değilim
 **(80)** 
 **(81)** 
 **(82)** 
