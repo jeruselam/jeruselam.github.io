@@ -84,9 +84,9 @@ tag:
 **(72)** ve ayrıca namazı kılın ve O’ndan korkun huzuruna varıp toplanacağınız o kimse ki O’dur
 **(73)** O O’dur ki hak (ve hikmet) ile gökleri ve yeri yarattı ve Ol! dediği gün oluverir sözü haktır, Sur’a üfleneceği gün mülk O’nundur, gizliyi ve açığı bilendir, O hükümdardır herşeyi haber alan [Hakîmul Habîr]dır
 **(74)** İbrahim babası Azer’e hani demişti ki putları [îlahi] tanrılar mi ediniyorsun? doğrusu ben seni ve kavmini açık bir sapıklık içinde görüyorum
-**(75)** ne zaman ki gece [karanlığı] üzerine basınca (İbrahim) bir yıldız gördü, Rabbim budur dedi, ne zaman ki (yıldız) batınca [kaybolup] batanları sevmem dedi 
-**(76)** 
-**(77)** 
+**(75)** ve böylece biz [itaat eden] inananlardan olsun diye göklerin ve yerin melekutunu İbrahim’e gösteriyorduk
+**(76)** ne zaman ki gece [karanlığı] üzerine basınca (İbrahim) bir yıldız gördü, Rabbim budur dedi, ne zaman ki (yıldız) batınca [kaybolup] batanları sevmem dedi
+**(77)** Ay’ı ne zaman ki doğarken gördüğünde Rabbim budur dedi (o da) ne zaman ki [kaybolup] batınca eğer Rabbim bana [hidayeti] doğru yolu göstermeseydi elbette [dalaletle azan] sapıtan topluluktan olurdum dedi
 **(78)** 
 **(79)** 
 **(80)** 
