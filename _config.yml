@@ -2,7 +2,7 @@
 
 description       : Türkçe Tercümesi
 title             : Kur'an-ı Kerim
-logo              : "/assets/images/muhur2.png"
+logo              : muhur2.png
 search            : false
 baseurl           : ""
 url               : https://jeruselam.github.io
@@ -123,7 +123,7 @@ sitemap:
 # Site owner
 owner:
   name           : Jeruselam
-  avatar         : "/assets/images/site-logo.png"
+  avatar         : mudur.png
   email          : jeruselam@yandex.com
   disqus-shortname: 
   twitter: 
@@ -148,7 +148,7 @@ owner:
 
 # Site Info
 licence:
-   logo     : ""
+   logo     : 
    name     : Alıntı-GayriTicari-Türetilemez 4.0 Uluslararası Lisans (CC BY-NC-ND 4.0)
    url      : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
 flag: moon
