@@ -5,7 +5,6 @@ layout: compress
 
 <head>
 {% include head.html %}
-<meta name="yandex-verification" content="9f8cc816e6c6d216" >
 </head>
 <!-- /#renk -->
 <body style="background-color:#F1F8E9;" id="page">
@@ -14,7 +13,7 @@ layout: compress
 
 <div id="main" role="main">
   <article class="entry">
-    {% if page.image.feature %}<img src="{{ site.baseurl }}/assets/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+    {% if page.image.feature %}<img src="{{ site.baseurl }}/assets/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %} style="margin-top:0;" {% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
         {% if page.headline %}<h2 class="entry-title">{{ page.headline }}</h2>{% else %}<h2 class="entry-title">{{ page.title }}</h2>{% endif %}
