@@ -172,4 +172,5 @@ tag:
 **(164)** 
 **(165)** 
 
-![06En'am-Mekkî](https://kuranvebilim.github.io/assets/images/ayrac-muhur.png "mühür")
+![06En'am-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
+
