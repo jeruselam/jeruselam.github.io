@@ -89,7 +89,7 @@ tag:
 **(77)** Ay’ı ne zaman ki doğarken gördüğünde Rabbim budur dedi (o da) ne zaman ki [kaybolup] batınca eğer Rabbim bana [hidayeti] doğru yolu göstermeseydi elbette [dalaletle azan] sapıtan topluluktan olurdum dedi
 **(78)** ne zaman ki güneşi doğarken görünce Rabbim budur bu daha büyük dedi ne zaman ki (O da) [kaybolup] batınca dedi ki kavmim elbette ben sizin ortak [şirk] koştuğunuz şeylerden uzağım
 **(79)** şüphesiz ben yüzümü gökleri ve yeri tamamen yoktan var edene çevirdim ve ben artık ortak [şirk] koşanlardan değilim
-**(80)** 
+**(80)** ve kavmi onunla tartışmaya girişti dedi ki Allah hakkında benimle tartışıyor  musunuz? muhakkak beni doğru yola iletmiş iken O’na sizin ortak koştuğunuz şeylerden ben korkmam ancak Rabbimin dilediği şeyler olur Rabbim bilgice her şeyi kuşatmıştır, hala öğüt almıyor musunuz?
 **(81)** 
 **(82)** 
 **(83)** 
