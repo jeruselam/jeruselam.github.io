@@ -96,7 +96,7 @@ tag:
 **(84)** ve biz ona İshak’ı ve Ya’kub’u da hediye ettik hepsine de doğru yolu gösterdik Nuh’a ve onun soyundan Davud’a ve Süleyman’a ve Eyyub’a ve Yusuf’a ve Musa’ya ve Harun’a daha önce [hidayetle] yol göstermiştik ve böylece biz güzel davrananları ödüllendiririz
 **(85)** ve Zekeriyya’ya ve Yahya’ya ve Îsa ve İlyas’a hepsi salihlerden (idi)
 **(86)** ve İsma’il’e ve el-Yesa’a ve Yunus’a ve Lut’a da hepsini alemler üzerine üstün kıldık
-**(87)** 
+**(87)** ve babalarından ve çocuklarından ve kardeşlerinden [dualarıyla] onları seçtik ve onları doğru yola [hidayete] ilettik
 **(88)** 
 **(89)** 
 **(90)** 
