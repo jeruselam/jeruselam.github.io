@@ -94,7 +94,7 @@ tag:
 **(82)** inanan(lar) [imanlı] kimseler ve bir haksızlıkla [zulümle] imanlarını bulamayanlar [kuşkuya düşenler] işte güven onlarındır ve doğru yolu [hidayeti] bulanlar da onlardır
 **(83)** işte bunlar kavmine karşı İbrahim’e verdiğimiz [tartışılan ded,lil olan] hüccetlerimizdir dilediğimiz kimseyi derecelerle yükseltiriz şüphesiz Rabbin [Hakīm] hüküm ve hikmet sahibidir, [Alîm] bilendir
 **(84)** ve biz ona İshak’ı ve Ya’kub’u da hediye ettik hepsine de doğru yolu gösterdik Nuh’a ve onun soyundan Davud’a ve Süleyman’a ve Eyyub’a ve Yusuf’a ve Musa’ya ve Harun’a daha önce [hidayetle] yol göstermiştik ve böylece biz güzel davrananları ödüllendiririz
-**(85)** 
+**(85)** ve Zekeriyya’ya ve Yahya’ya ve Îsa ve İlyas’a hepsi salihlerden (idi)
 **(86)** 
 **(87)** 
 **(88)** 
