@@ -90,8 +90,8 @@ tag:
 **(78)** ne zaman ki güneşi doğarken görünce Rabbim budur bu daha büyük dedi ne zaman ki (O da) [kaybolup] batınca dedi ki kavmim elbette ben sizin ortak [şirk] koştuğunuz şeylerden uzağım
 **(79)** şüphesiz ben yüzümü gökleri ve yeri tamamen yoktan var edene çevirdim ve ben artık ortak [şirk] koşanlardan değilim
 **(80)** ve kavmi onunla tartışmaya girişti dedi ki Allah hakkında benimle tartışıyor  musunuz? muhakkak beni doğru yola iletmiş iken O’na sizin ortak koştuğunuz şeylerden ben korkmam ancak Rabbimin dilediği şeyler olur Rabbim bilgice her şeyi kuşatmıştır, hala öğüt almıyor musunuz?
-**(81)** Allah’ın size hakkında hiçbir delil indirmediği şeyleri ortak koşmaktan siz korkmuyorsunuz da sizin ortak koştuğunuz şeylerden ben nasıl korkarım eğer biliyor iseniz iki topluluktan şimdi hangisi güvende olmağa daha layıktır
-**(82)** 
+**(81)** Allah’ın size hakkında hiçbir delil indirmediği şeyleri ortak [şirk] koşmaktan siz korkmuyorsunuz da sizin ortak [şirk] koştuğunuz şeylerden ben nasıl korkarım eğer biliyor iseniz iki topluluktan şimdi hangisi güvende olmağa daha layıktır
+**(82)** inanan(lar) [imanlı] kimseler ve bir haksızlıkla [zulümle] imanlarını bulamayanlar [kuşkuya düşenler] işte güven onlarındır ve doğru yolu [hidayeti] bulanlar da onlardır
 **(83)** 
 **(84)** 
 **(85)** 
