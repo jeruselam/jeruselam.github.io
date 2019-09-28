@@ -97,7 +97,7 @@ tag:
 **(85)** ve Zekeriyya’ya ve Yahya’ya ve Îsa ve İlyas’a hepsi salihlerden (idi)
 **(86)** ve İsma’il’e ve el-Yesa’a ve Yunus’a ve Lut’a da hepsini alemler üzerine üstün kıldık
 **(87)** ve babalarından ve çocuklarından ve kardeşlerinden [dualarıyla] onları seçtik ve onları doğru yola [hidayete] ilettik
-**(88)** İşte bu Allah’ın hidayetidir kullarından dilediğini bununla doğru yola [hidayete] iletir eğer ortak koşsalardı yaptıkları oldukları şeyler onlar boşa giderdi
+**(88)** İşte bu Allah’ın hidayetidir kullarından dilediğini bununla doğru yola [hidayete] iletir eğer ortak koşsalardı yaptıkları [ameller] oldukları şeyler onlar boşa giderdi
 **(89)** 
 **(90)** 
 **(91)**
