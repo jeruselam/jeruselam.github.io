@@ -100,7 +100,7 @@ tag:
 **(88)** İşte bu Allah’ın hidayetidir kullarından dilediğini bununla doğru yola [hidayete] iletir eğer ortak koşsalardı yaptıkları [ameller] oldukları şeyler onlar boşa giderdi
 **(89)** İşte onlar Kitap ve [akılcı] hüküm ve [hidayete ileten nübüvvet ile] peygamberlik verdiğimiz kimselerdir şimdi şunlar bunları inkar ederse eğer mukakkak bunları inkar etmeyecek bir [kavmi] toplumu bunlara biz vekil bırakmışızdır
 **(90)** İşte onlar [hidayet olunan] kimselerdir Allah’ın hidayet ettikleridir kimselerdir onların yoluna uy de ki sizden ona karşılık bir ücret istemiyorum O [başka] değildir ancak alemlere bir öğüttür
-**(91)**
+**(91)** zira Allah’ı O’nun kadrini hakkıyla tanıyamadılar, Allah insan üzerine bir şey indirmedi dediler, de ki Kitabı kim indirdi, o ki nur olarak ve insanlara yol gösterici olarak onu Musa getirdi siz onu parça parça kağıtlar haline getirip gösteriyorsunuz ve çoğunu da gizliyorsunuz ve ne sizin ne de babalarınızın bilmediği şeylerin size öğretildiği. Alah de ki sonra bırak onları daldıkları bataklıkta [boş şeylerle] oynasınlar
 **(92)** 
 **(93)** 
 **(94)** 
