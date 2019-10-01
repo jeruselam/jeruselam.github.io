@@ -99,11 +99,11 @@ tag:
 **(87)** ve babalarından ve çocuklarından ve kardeşlerinden [dualarıyla] onları seçtik ve onları doğru yola [hidayete] ilettik
 **(88)** İşte bu Allah’ın hidayetidir kullarından dilediğini bununla doğru yola [hidayete] iletir eğer ortak koşsalardı yaptıkları [ameller] oldukları şeyler onlar boşa giderdi
 **(89)** İşte onlar Kitap ve [akılcı] hüküm ve [hidayete ileten nübüvvet ile] peygamberlik verdiğimiz kimselerdir şimdi şunlar bunları inkar ederse eğer mukakkak bunları inkar etmeyecek bir [kavmi] toplumu bunlara biz vekil bırakmışızdır
-**(90)** 
+**(90)** İşte onlar [hidayet olunan] kimselerdir Allah’ın hidayet ettikleridir kimselerdir onların yoluna uy de ki sizden ona karşılık bir ücret istemiyorum O [başka] değildir ancak alemlere bir öğüttür
 **(91)**
 **(92)** 
 **(93)** 
-**(94)**  
+**(94)** 
 **(95)** 
 **(96)** 
 **(97)** 
