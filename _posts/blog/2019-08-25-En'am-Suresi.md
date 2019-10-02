@@ -101,7 +101,7 @@ tag:
 **(89)** İşte onlar Kitap ve [akılcı] hüküm ve [hidayete ileten nübüvvet ile] peygamberlik verdiğimiz kimselerdir şimdi şunlar bunları inkar ederse eğer mukakkak bunları inkar etmeyecek bir [kavmi] toplumu bunlara biz vekil bırakmışızdır
 **(90)** İşte onlar [hidayet olunan] kimselerdir Allah’ın hidayet ettikleridir kimselerdir onların yoluna uy de ki sizden ona karşılık bir ücret istemiyorum O [başka] değildir ancak alemlere bir öğüttür
 **(91)** zira O’nun kadrini [takdirle] hakkıyla Allah’ı tanıyamadılar, insan üzerine Allah bir şey indirmedi dediler, de ki Kitabı kim indirdi, o ki nur olarak ve insanlara [hidayet] yol gösterici olarak onu Musa getirdi siz onu parça parça kağıtlar haline getirip gösteriyorsunuz ve çoğunu da gizliyorsunuz ve ne sizin ne de babalarınızın bilmediği şeylerin size öğretildiği [Kitabı]. Alah de ki sonra bırak onları daldıkları bataklıkta [boş şeylerle] oynasınlar
-**(92)** 
+**(92)** bu da elleri arasındakini doğrulayıcı ve şehirlerin anası çevresindeki kimseleri uyarman için indirdiğimiz mubarek bir Kitaptır ve ahirete inanan(lar) [imanlı] kimseler buna inanırlar ve onlar namazlarına devam ederler
 **(93)** 
 **(94)** 
 **(95)** 
