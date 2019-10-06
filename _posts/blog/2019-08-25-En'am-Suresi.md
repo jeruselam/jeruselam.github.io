@@ -106,7 +106,7 @@ tag:
 **(94)** ve ilk kez sizi yarattığımız gibi tek olarak andolsun yine bize geldiniz ve sizi hayaline daldırdığımız şeyleri sırtlarınız arkasında bıraktınız ve onların içinizden ortak olduklarını sandığınız kimseleri şefaatçilerinizi yanınızda görmüyoruz andolsun aranızdaki (bağlar) kesilmiş ve sandığınız şeyler sizden kaybolup gitmiştir
 **(95)** daneyi [tohumu çatlatan] ve [nüveyi] çekirdeği yaran [büyüten] şüphesiz Allah’tır ölüden diriyi çıkarır ve diriden ölüyü çıkarır, Allah işte budur, o halde nasıl [başarısız oluyor] çevriliyorsunuz
 **(96)** karanlığı yarıp sabahı ortaya çıkarmış ve geceyi dinlenme zamanı kılmıştır ve güneşi ve ayı hesap (ölçüsü) yapmıştır o [Azîz Alîm] üstün bilen(Allah)ın takdiridir bu
-**(97)** ve karanın ve denizin karanlıklarında onlarla yol bulasınız diye sizin için yıldızları yaratan kimse O’dur gerçekten biz bilen [alîm bir kavim] bir toplum için ayetleri genişçe [kısım kısım] açıkladık
+**(97)** ve karanın ve denizin [sıkıntılı] karanlıklarında onlarla yol bulasınız diye sizin için yıldızları [kısım kısım] yaratan kimse O’dur gerçekten biz bilen [alîm bir kavim], bir toplum için ayetleri genişçe [kısım kısım] açıkladık
 **(98)** 
 **(99)** 
 **(100)** 
