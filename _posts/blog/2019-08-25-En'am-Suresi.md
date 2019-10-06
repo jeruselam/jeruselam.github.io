@@ -104,8 +104,8 @@ tag:
 **(92)** elleri arasındakini doğrulayıcı ve şehirlerin anası [ülke halkını ve] çevresindeki kimseleri uyarman için indirdiğimiz bu da mubarek bir Kitaptır ve ahirete inanan(lar) [imanlı] kimseler buna inanırlar ve onlar namazlarına devam ederler
 **(93)** Allah’a karşı yalan uyduran kimseden ya da kendisine bir şey vahyedilmemiş iken bana vahyolundu diyenden ve Allah’ın indirdiği şey gibi ben de indireceğim diyen kimseden daha zalim kim olabilir? ölüm dalgaları içinde zalimleri eğer bir görsen ve melekler ellerini uzatmış haydi bugün canlarınızı çıkarın, Allah’a karşı gerçek olmayanı söylüyor olmanızdan ve O’nun ayetlerine karşı büyüklük taslamanızdan dolayı alçaklık azabıyla cezalandırılacaksınız
 **(94)** ve ilk kez sizi yarattığımız gibi tek olarak andolsun yine bize geldiniz ve sizi hayaline daldırdığımız şeyleri sırtlarınız arkasında bıraktınız ve onların içinizden ortak olduklarını sandığınız kimseleri şefaatçilerinizi yanınızda görmüyoruz andolsun aranızdaki (bağlar) kesilmiş ve sandığınız şeyler sizden kaybolup gitmiştir
-**(95)** daneyi [tohumu çatlatan] ve çekirdeği yaran [büyüten] şüphesiz Allah’tır ölüden diriyi çıkarır ve diriden ölüyü çıkarır, Allah işte budur, o halde nasıl [başarısız oluyor] çevriliyorsunuz
-**(96)** 
+**(95)** daneyi [tohumu çatlatan] ve [nüveyi] çekirdeği yaran [büyüten] şüphesiz Allah’tır ölüden diriyi çıkarır ve diriden ölüyü çıkarır, Allah işte budur, o halde nasıl [başarısız oluyor] çevriliyorsunuz
+**(96)** karanlığı yarıp sabahı ortaya çıkarmış ve geceyi dinlenme zamanı kılmıştır ve güneşi ve ayı hesap (ölçüsü) yapmıştır o [Azîz Alîm] üstün bilen(Allah)ın takdiridir bu
 **(97)** 
 **(98)** 
 **(99)** 
