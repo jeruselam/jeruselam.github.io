@@ -60,7 +60,7 @@ tag:
 **(48)** benzetmelerle sana bak nasıl misaller verdiler [doğrudan]şaştılar artık bir daha yolu bulamazlar
 **(49)** ve dediler ki kemikler ve ufalanmış toprak iken biz mi? yeni bir yaratılışla diriltilecek biz miyiz?
 **(50)** de ki (ister) taş veya demir olun
-**(51)** veya gönlünüzde[meydana gelen] büyüyen herhangi bir yaratık[yaratılış] diyecekler ki kim bizi tekrar döndürebilir de ki ilk defa sizi yaratan başlarını sana alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler de ki belki de pek yakın olabilir
+**(51)** veya gönlünüzde [meydana gelen] büyüyen herhangi bir yaratık [yaratılış], diyecekler ki bizi tekrar kim döndürebilir, de ki ilk defa sizi yaratan, sana başlarını alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler, de ki belki de pek yakın olabilir
 **(52)** sizi çağıracağı gün O’na hamdederek çağrısına uyarsınız ve pek az (bir süre) dışında (dünyada) kalmadınız sanırsınız
 **(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan aralarına[ikisinin arasına] girer doğrusu şeytan insanın apaçık düşmanıdır
 **(54)** Rabbiniz[Allah] sizi daha iyi bilir eğer dilerse size acır veya eğer dilerse size azabeder biz seni onların üzerine [vazifeli]bir vekil göndermedik
