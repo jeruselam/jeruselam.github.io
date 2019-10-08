@@ -109,7 +109,7 @@ tag:
 **(97)** ve karanın ve denizin [sıkıntılı] karanlıklarında onlarla yol bulasınız diye sizin için yıldızları [kısım kısım] yaratan kimse O’dur gerçekten biz bilen [alîm bir kavim], bir toplum için ayetleri [kısım kısım] genişçe açıkladık
 **(98)** ve bir tek [öz] nefisten sizi inşa eden kimse O’dur, (sizin için) [anlaşılan ve sabit son] bir karar ve emanet yeri[nden ayrılış] vardır, gerçekten biz [zeki] anlayan bir toplum için ayetleri [kısım kısım] genişçe açıkladık
 **(99)** ve suyu gökten indiren kimse O’dur, her çeşit bitkiyi onunla çıkardık ve o (bitki)den bir filiz çıkardık, ondan da birbiri üzerine binmiş daneler çıkarıyoruz, hurmanın tomurcuğundan sarkan salkımlar ve üzüm ve zeytin ve nar bahçeleri, (kimi) birbirine benzer (kimi) benzemez, meyve verirken ve olgunlaştığı zaman meyvesine bakın şüphesiz bunda inananlar toplumu için çok ibret vardır
-**(100)** 
+**(100)** ve cinleri Allah’a ortak yaptılar halbuki onları O yaratmıştır ve O’na bilmeden oğullar ve kızlar [kurban etmeyi] icadettiler, O münezzehtir ve onların nitelemelerinden yücedir
 **(101)** 
 **(102)** 
 **(103)** 
