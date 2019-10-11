@@ -28,7 +28,7 @@ tag:
 **(16)** o gün ondan (azabdan) kim çevrilip savılırsa gerçekten [RaHim] (Allah) ona acımıştır apaçık başarı [selamet] işte budur
 **(17)** ve eğer Allah sana bir zarar dokundursa kendisinden başka onu açacak yoktur ve eğer sana bir hayır dokundursa kuşkusuz O her şeyi yapabilendir
 **(18)** ve O kullarının üstünde tam hakimdir ve O [Hakîmul Habîr] herşeyi yerli yerince yapan haber alandır
-**(19)** de ki şahidlik bakımından hangi şey daha büyüktür, de ki benimle sizin aranızda Allah şahiddir ve bu Kur’an bana vahyolundu onunla sizi ve ulaştığı herkesi uyarayım, Allah ile beraber başka [ilāhlar] tanrılar olduğuna gerçekten siz şahidlik ediyor musunuz? de ki ben şahidlik etmem, de ki ancak O tek bir [ilāh] Tanrıdır, şüphesiz ben sizin ortak koştuğunuz şeylerden uzağım
+**(19)** de ki şahidlik bakımından hangi şey daha büyüktür, de ki benimle sizin aranızda Allah şahiddir ve bu Kur’an bana vahyolundu onunla sizi ve ulaştığı herkesi uyarayım, Allah ile beraber başka [îlâhi] tanrılar olduğuna gerçekten siz şahidlik ediyor musunuz? de ki ben şahidlik etmem, de ki ancak O tek bir [îlâhi] Tanrıdır, şüphesiz ben sizin ortak koştuğunuz şeylerden uzağım
 **(20)** kendilerine Kitap verdiklerimiz oğullarını tanıdıkları gibi onu tanırlar, kendilerini ziyana sokan(lar), [hüsranda olan] kimseler onlar inanmazlar
 **(21)** ve yalanı Allah’a karşı iftira edenlerden ya da O’nun ayetlerini yalanlayandan daha zalim kim olabilir? zalimler şüphesiz kurtuluş yüzü görmezler 
 **(22)** ve hepsini topladığımız gün sonra ortak koşan(lara), [müşrik] kimselere ortaklarınız zannetmekte olduğunuz kimseler hani nerede? dediğimiz 
@@ -55,7 +55,7 @@ tag:
 **(43)** hiç olmazsa baskınımız kendilerine geldiği zaman yalvarsalardı fakat kalbleri katılaştı ve şeytan onlara yapmış oldukları şeyleri süslü gösterdi
 **(44)** ne zaman ki kendileri yapılan uyarıları unutunca her şeyin kapılarını üzerlerine açtık kendilerine verilen şey ile nihayet sevince daldıkları sırada onları ansızın yakaladık böylece onlar bütün umutlarnı yitirdiler
 **(45)** böylece milletin ardı kesildi [parçalanıp ayrıldılar] onlar ki [zalimane] haksızlık ediyordu, alemlerin Rabbi Allah’a hamdolsun
-**(46)** de ki söyleyin bana eğer Allah işitme(duyu)nuzu ve gözlerinizi alsa ve kalblerinizin üstüne mühür vursa bun(lar)ı size getirecek Allah’tan başka [herşeyden çok sevilen, tazim ve tesbih edilen ilah] tanrı kimdir? bak ayetleri nasıl türlü türlü açıklıyoruz sonra yine yüz çeviriyorlar
+**(46)** de ki söyleyin bana eğer Allah işitme(duyu)nuzu ve gözlerinizi alsa ve kalblerinizin üstüne mühür vursa bun(lar)ı size getirecek Allah’tan başka [herşeyden çok sevilen, tazim ve tesbih edilen îlâhi] tanrı kimdir? bak ayetleri nasıl türlü türlü açıklıyoruz sonra yine yüz çeviriyorlar
 **(47)** de ki söyleyin bana Allah’ın azabı eğer size ansızın [gafil iken habersiz] ya da açıkça [aleni bir şekilde] gelse zalim toplumdan başkası mi? helak edilir
 **(48)** biz elçileri müjdeciler olmak ve uyarıcılar olmak dışında göndermeyiz o halde kim inanır ve [ıslah olur] uslanırsa onlara korku yoktur ve onlar üzülecek de değildir
 **(49)** ayetlerimizi yalanlayan(lara), [yalancı] kimselere yaptıkları [günah olan] fenalık yüzünden azab dokunacaktır
@@ -71,7 +71,7 @@ tag:
 **(59)** ve gayb’ın anahtarları O’nun yanındadır, O’ndan başkası onları bilmez ve karada olan ve denizde olan ne varsa (O) bilir, (O)nun bilgisi dışında hiçbir yaprak düşmez ve yerin karanlıkları içinde bir dane (yoktur) ve yaş ve kuru (yoktur) ancak apaçık bir Kitapta vardır
 **(60)** ve sizi geceleyin öldüren [sizin canınızı alacak olan] O’dur ve gündüzün işlediğiniz şeyi bilir sonra belirlenmiş süre tamamlanıncaya kadar sizi onda diriltir sonra dönüşünüz O’nadır sonra yapmış olduğunuz şeyleri size ğhaber verecektir
 **(61)** ve O kulların üstünde tek [Kāhir] hakimdir ve nihayet size [Hafız] koruyucu(melek)ler gönderir, ölüm birinize geldiği zaman [Resül] elçilerimiz onun canını alırlar, onlar hiç geri kalmazlar
-**(62)** sonra gerçek [Hakk] olan [şanlı şerefli] Tanrıları Allah’a döndürülürler, doğrusu hüküm yalnız O’nundur ve O hesap görenlerin [en serisi], en çabuğudur
+**(62)** sonra gerçek [Hakk] olan [şanlı şerefli îlâhi] Tanrıları Allah’a döndürülürler, doğrusu hüküm yalnız O’nundur ve O hesap görenlerin [en serisi], en çabuğudur
 **(63)** de ki gizli olarak ve açık olarak O’na yakardığınızda karanın ve denizin karanlıklarından sizi kim kurtarıyor eğer bizi bundan kurtarırsa elbette şükredenlerden olacağız
 **(64)** de ki Allah sizi ondan ve bütün sıkıntılardan kurtarıyor sonra siz yine O’na ortak koşuyorsunuz
 **(65)** de ki üstünüzden yahut ayaklarınızın altından sizin üzerinize bir azab göndermeğe ya da parti parti sizi birbirinize düşürüp ve kiminizin hıncını kiminize taddırmağa O [yüce olan] kadirdir, ayetleri anlasınlar diye bak nasıl açıklıyoruz
@@ -83,7 +83,7 @@ tag:
 **(71)** de ki şeytanların ayartarak şaşkın bir halde çölde bıraktıkları arkadaşlarının ise doğru yola Bize gel! diye çağırdıkları kimse gibi mi? ve Allah bizi doğru yola ilettikten sonra ökçelerimiz üzerinde döndürülüp bize yarar vermeyen ve zarar vermeyen Allah’tan başka şeylere mi yalvaralım? de ki muhakkak yol gösterme ancak Allah’ın yol göstermesidir ve bize alemlerin Rabbine teslim olmamız emredilmiştir
 **(72)** ve ayrıca namazı kılın ve O’ndan korkun huzuruna varıp toplanacağınız o kimse ki O’dur
 **(73)** O O’dur ki hak (ve hikmet) ile gökleri ve yeri yarattı ve Ol! dediği gün oluverir sözü haktır, Sur’a üfleneceği gün mülk O’nundur, gizliyi ve açığı bilendir, O hükümdardır herşeyi haber alan [Hakîmul Habîr]dır
-**(74)** İbrahim babası Azer’e hani demişti ki putları [îlahi] tanrılar mi ediniyorsun? doğrusu ben seni ve kavmini açık bir sapıklık içinde görüyorum
+**(74)** İbrahim babası Azer’e hani demişti ki putları [îlâhi] tanrılar mi ediniyorsun? doğrusu ben seni ve kavmini açık bir sapıklık içinde görüyorum
 **(75)** ve böylece biz [itaat eden] inananlardan olsun diye göklerin ve yerin melekutunu İbrahim’e gösteriyorduk
 **(76)** ne zaman ki gece [karanlığı] üzerine basınca (İbrahim) bir yıldız gördü, Rabbim budur dedi, ne zaman ki (yıldız) batınca [kaybolup] batanları sevmem dedi
 **(77)** Ay’ı ne zaman ki doğarken gördüğünde Rabbim budur dedi (o da) ne zaman ki [kaybolup] batınca eğer Rabbim bana [hidayeti] doğru yolu göstermeseydi elbette [dalaletle azan] sapıtan topluluktan olurdum dedi
@@ -111,8 +111,8 @@ tag:
 **(99)** ve suyu gökten indiren kimse O’dur, her çeşit bitkiyi onunla çıkardık ve o (bitki)den bir filiz çıkardık, ondan da birbiri üzerine binmiş daneler çıkarıyoruz, hurmanın tomurcuğundan sarkan salkımlar ve üzüm ve zeytin ve nar bahçeleri, (kimi) birbirine benzer (kimi) benzemez, meyve verirken ve olgunlaştığı zaman meyvesine bakın şüphesiz bunda inananlar toplumu için çok ibret vardır
 **(100)** ve cinleri Allah’a ortak yaptılar halbuki onları O yaratmıştır ve O’na bilmeden oğullar ve kızlar [kurban etmeyi] icadettiler, O münezzehtir ve onların nitelemelerinden yücedir
 **(101)** gökleri ve yeri yoktan var edendir, O’nun çocuğu nasıl? olabilir kendisinin bir eşi yoktur ve her şeyi O yaratmıştır ve O [Alîm] her şeyi bilendir
-**(102)** Rabbiniz Allah işte budur, O’ndan başka [ilāhi] tanrı yoktur, (O) her şeyin yaratıcısıdır, O’na kulluk edin ve O her şey üzerine [nazar eden işlerini üzerine alan] vekildir
-**(103)** 
+**(102)** Rabbiniz Allah işte budur, O’ndan başka [îlâhi] tanrı yoktur, (O) her şeyin yaratıcısıdır, O’na kulluk edin ve O her şey üzerine [nazar eden işlerini üzerine alan] vekildir
+**(103)** gözler O’nu görmez ve O gözleri görür ve O latiftir [Habîrdir] herşeyi haber alandır
 **(104)** 
 **(105)** 
 **(106)** 
