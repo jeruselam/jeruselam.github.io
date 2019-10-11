@@ -111,7 +111,7 @@ tag:
 **(99)** ve suyu gökten indiren kimse O’dur, her çeşit bitkiyi onunla çıkardık ve o (bitki)den bir filiz çıkardık, ondan da birbiri üzerine binmiş daneler çıkarıyoruz, hurmanın tomurcuğundan sarkan salkımlar ve üzüm ve zeytin ve nar bahçeleri, (kimi) birbirine benzer (kimi) benzemez, meyve verirken ve olgunlaştığı zaman meyvesine bakın şüphesiz bunda inananlar toplumu için çok ibret vardır
 **(100)** ve cinleri Allah’a ortak yaptılar halbuki onları O yaratmıştır ve O’na bilmeden oğullar ve kızlar [kurban etmeyi] icadettiler, O münezzehtir ve onların nitelemelerinden yücedir
 **(101)** gökleri ve yeri yoktan var edendir, O’nun çocuğu nasıl? olabilir kendisinin bir eşi yoktur ve her şeyi O yaratmıştır ve O [Alîm] her şeyi bilendir
-**(102)** 
+**(102)** Rabbiniz Allah işte budur, O’ndan başka [ilāhi] tanrı yoktur, (O) her şeyin yaratıcısıdır, O’na kulluk edin ve O her şey üzerine [nazar eden işlerini üzerine alan] vekildir
 **(103)** 
 **(104)** 
 **(105)** 
