@@ -115,8 +115,8 @@ tag:
 **(103)** gözler O’nu görmez ve O gözleri görür ve O latiftir [Habîrdir] herşeyi haber alandır
 **(104)** doğrusu size Rabbinizden basiretler geldi artık kim görürse (yararı) kendisinedir ve kim de kör olursa (zararı) kendisinedir ve ben sizin üzerinize [bir muhafız] bekçi değilim
 **(105)** bilen [alim] bir toplum için onu iyice açıklayalım diye ve sen ders almışsın desinler diye ayetleri işte böylece döne döne [değişik kelimelerle] açıklıyoruz
-**(106)** Rabbinden sana vahyolunan şeye tabi ol, O’ndan başka [îlâhi] tanrı yoktur ve [müşrik] ortak koşanlardan yüz çevir 
-**(107)** 
+**(106)** Rabbinden sana vahyolunan şeye tabi ol, O’ndan başka [îlâhi] tanrı yoktur ve [müşriklerden] ortak koşanlardan yüz çevir 
+**(107)** ve eğer Allah isteseydi ortak koşmazlardı, biz seni onların üzerine [muhafız bir] bekçi yapmadık ve sen onlara [nazar eden işlerini üzerine alan] vekil değilsin
 **(108)** 
 **(109)** 
 **(110)** 
