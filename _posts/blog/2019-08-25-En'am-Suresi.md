@@ -113,8 +113,8 @@ tag:
 **(101)** gökleri ve yeri yoktan var edendir, O’nun çocuğu nasıl? olabilir kendisinin bir eşi yoktur ve her şeyi O yaratmıştır ve O [Alîm] her şeyi bilendir
 **(102)** Rabbiniz Allah işte budur, O’ndan başka [îlâhi] tanrı yoktur, (O) her şeyin yaratıcısıdır, O’na kulluk edin ve O her şey üzerine [nazar eden işlerini üzerine alan] vekildir
 **(103)** gözler O’nu görmez ve O gözleri görür ve O latiftir [Habîrdir] herşeyi haber alandır
-**(104)** doğrusu size Rabbinizden basiretler geldi artık kim görürse (yararı) kendisinedir ve kim de kör olursa (zararı) kendisinedir ve ben sizin üzerinize [muhafız] bekçi değilim
-**(105)** 
+**(104)** doğrusu size Rabbinizden basiretler geldi artık kim görürse (yararı) kendisinedir ve kim de kör olursa (zararı) kendisinedir ve ben sizin üzerinize [bir muhafız] bekçi değilim
+**(105)** bilen [alim] bir toplum için onu iyice açıklayalım diye ve sen ders almışsın desinler diye ayetleri işte böylece döne döne [değişik kelimelerle] açıklıyoruz
 **(106)** 
 **(107)** 
 **(108)** 
