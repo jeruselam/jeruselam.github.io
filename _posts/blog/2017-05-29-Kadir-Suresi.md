@@ -11,10 +11,11 @@ tag:
 
 ## 97. Kadir Sûresi
 
-**(1)** elbette biz onu kadir gecesinde  indirdik
-**(2)** kadir gecesi(nin) ne olduğunu sana bildiren nedir
+**(1)** elbette biz onu kadir gecesinde [en karanlık gecede] indirdik
+**(2)** kadir gecesi(nin) ne olduğunu sana [ansızın] bildiren nedir
 **(3)** kadir gecesi bin aydan hayırlıdır
-**(4)** her iş için Rabb'lerinin izniyle onda melekler ve Ruh iner de iner
-**(5)** tanyeri ağarıncaya kadar o esenliktir
+**(4)** her iş [emri] için Rabb'lerinin izniyle onda melekler ve Ruh  [birbiri ardınca] iner de iner
+**(5)** tanyeri ağarıncaya kadar o [selam] esenliktir
 
 ![97]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+ 
