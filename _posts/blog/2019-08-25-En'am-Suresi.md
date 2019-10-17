@@ -117,8 +117,8 @@ tag:
 **(105)** bilen [alim] bir toplum için onu iyice açıklayalım diye ve sen ders almışsın desinler diye ayetleri işte böylece döne döne [değişik kelimelerle] açıklıyoruz
 **(106)** Rabbinden sana vahyolunan şeye tabi ol, O’ndan başka [îlâhi] tanrı yoktur ve [müşriklerden] ortak koşanlardan yüz çevir 
 **(107)** ve eğer Allah isteseydi [şirk] ortak koşmazlardı, biz seni onların üzerine [muhafız bir] bekçi yapmadık ve sen onlara [nazar eden işlerini üzerine alan] vekil değilsin
-**(108)** 
-**(109)** 
+**(108)** Allah’tan başka yalvardıkları kimselere sövmeyin ki taşkınlıkla bilmeyerek onlar da Allah’a sövmesinler her ümmete yaptıkları işi biz böyle süslü gösterdik sonunda dönüşleri Rablerinedir yapmış oldukları şeyleri O haber verecektir
+**(109)** ve eğer kendilerine bir mu’cize gelirse ona mutlaka inanacaklarına güçlü yeminleriyle Allah’a [söz ile] yemin ettiler de ki [inkar edilemeyen açık deliler, ayetler] Mu’cizeler ancak Allah katındadır şuurunda değil misiniz? o (mu’cize) ne zaman gelmiş olsa onlar [iman etmez] inanmazlar
 **(110)** 
 **(111)** 
 **(112)** 
