@@ -119,7 +119,7 @@ tag:
 **(107)** ve eğer Allah isteseydi [şirk] ortak koşmazlardı, biz seni onların üzerine [muhafız bir] bekçi yapmadık ve sen onlara [nazar eden işlerini üzerine alan] vekil değilsin
 **(108)** Allah’tan başka yalvardıkları kimselere sövmeyin ki taşkınlıkla bilmeyerek onlar da Allah’a sövmesinler her ümmete yaptıkları işi biz böyle süslü gösterdik sonunda dönüşleri Rablerinedir yapmış oldukları şeyleri O haber verecektir
 **(109)** ve eğer kendilerine bir mu’cize gelirse ona mutlaka inanacaklarına güçlü yeminleriyle Allah’a [söz ile] yemin ettiler de ki [inkar edilemeyen açık deliler, ayetler] Mu’cizeler ancak Allah katındadır şuurunda değil misiniz? o (mu’cize) ne zaman gelmiş olsa onlar [iman etmez] inanmazlar
-**(110)** 
+**(110)** ve ilk defasında ona [iman etmedikleri] inanmadıkları gibi [kalben] gönüllerini ve gözlerini ters çeviririz ve [haddini aşan] azgınlıkları içinde bırakırız onları, [şaşkın] bocalayıp dururlar
 **(111)** 
 **(112)** 
 **(113)** 
