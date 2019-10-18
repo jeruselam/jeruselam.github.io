@@ -120,8 +120,8 @@ tag:
 **(108)** Allah’tan başka yalvardıkları kimselere sövmeyin ki taşkınlıkla bilmeyerek onlar da Allah’a sövmesinler her ümmete yaptıkları işi biz böyle süslü gösterdik sonunda dönüşleri Rablerinedir yapmış oldukları şeyleri O haber verecektir
 **(109)** ve eğer kendilerine bir mu’cize gelirse ona mutlaka inanacaklarına güçlü yeminleriyle Allah’a [söz ile] yemin ettiler de ki [inkar edilemeyen açık deliler, ayetler] Mu’cizeler ancak Allah katındadır şuurunda değil misiniz? o (mu’cize) ne zaman gelmiş olsa onlar [iman etmez] inanmazlar
 **(110)** ve ilk defasında ona [iman etmedikleri] inanmadıkları gibi [kalben] gönüllerini ve gözlerini ters çeviririz ve [haddini aşan] azgınlıkları içinde bırakırız onları, [şaşkın] bocalayıp dururlar
-**(111)** 
-**(112)** 
+**(111)** ve eğer biz melekleri onlara indirseydik ve ölüler kendilerine konuşsaydı ve her şeyi karşılarına toplayıp onlara getirseydik Allah’ın dilemesi dışında onlar yine de [iman etmez] inanmazlardı ve fakat çokları cahillik ederler
+**(112)** ve ahirete inanmayan(ların), [iman etmeyen] kimselerin kalbleri ona meyletsin ve ondan hoşlansınlar ve onların işledikleri suçları işlemeğe devam etsinler
 **(113)** 
 **(114)** 
 **(115)** 
