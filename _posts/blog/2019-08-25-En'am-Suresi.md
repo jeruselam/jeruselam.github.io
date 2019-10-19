@@ -124,7 +124,7 @@ tag:
 **(112)** ve böylece biz insan ve cin şeytanlarını her [evvelki kitabı ve şeriatı devam ettiren nebi] peygambere düşman yaptık, aldatmak için bir kısmı diğerlerine yaldızlı sözler fısıldarlar ve eğer Rabbin dileseydi onu yapamazlardı, uydurdukları şeylerle artık onları baş başa bırak
 **(113)** ve ahirete inanmayan(ların), [iman etmeyen] kimselerin kalbleri ona meyletsin ve ondan hoşlansınlar ve onların işledikleri suçları işlemeğe devam etsinler
 **(114)** ve O size açıklanmış olarak Kitabı indirmiş iken Allah’tan başka bir hakem mı? arayayım ve kendilerine Kitap verdiğimiz kimseler bilirler ki O gerçekten Rabbin tarafından [geleceği şüphesiz olan] hak olarak indirilmiştir, [şüpheyle] kuşkulananlardan hiç olma 
-**(115)** 
+**(115)** ve doğruluk ve adalet bakımından Rabbinin sözü tamamlanmıştır, O’nun sözlerini değiştirebilecek yoktur, O [Semîul Alîm] işitendir bilendir
 **(116)** 
 **(117)** 
 **(118)** 
