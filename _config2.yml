@@ -4,26 +4,26 @@ description       : Türkçe Tercümesi
 title             : Kur'an-ı Kerim
 logo              : muhur2.png
 search            : false
-baseurl           : 
+baseurl           : ""
 url               : https://jeruselam.github.io
 author:
-  name            : Kur'an-ı Kerim - Türkçe Tercümesi
+  name            : "Kur'an-ı Kerim - Türkçe Tercümesi"
   url             : https://jeruselam.github.io
   email           : jeruselam@yandex.com
-  bio             : Just another tattooed, time traveling designer.
-  picture         : /assets/images/apple-icon-120x120.png
+  bio             : "Just another tattooed, time traveling designer."
+  picture         : "/assets/images/apple-icon-120x120.png"
 
 # Location
 
 address           : Türkiye
 locale            : tr_TR
-languages         : [en, tr]
-language_default  : tr
+languages         : ['en', 'tr']
+language_default  : 'tr'
 
 # html minify
 compress_html:
   clippings: all
-  comments: [<!-- ,  -->]
+  comments: ["<!-- ", " -->"]
   endings: all
   ignore:
     envs: [local]
@@ -67,15 +67,15 @@ assets:
   cdn: https://cdn.example.com
   skip_baseurl_with_cdn: false
   skip_prefix_with_cdn: false
-  prefix: /assets
+  prefix: "/assets"
   digest: true
   assets:
-    - *.png
-    - *.jpg
-    - *.js
-    - *.css
-    - bundle.css
-    - *.scss
+    - "*.png"
+    - "*.jpg"
+    - "*.js"
+    - "*.css"
+    - "bundle.css"
+    - "*.scss"
   sources:
     - assets/css
     - assets/images
@@ -102,9 +102,9 @@ kramdown:
 
 mathjax           : true
 
-include           : [.htaccess]
-exclude           : [lib, config.rb, Capfile, config, log, Rakefile, Rakefile.rb, tmp, .less, *.sublime-project, *.sublime-workspace, test, spec, Gruntfile.js, package.json, node_modules, Gemfile, Gemfile.lock, LICENSE, README.md, vendor]
-keep_files        : [/assets/images, /assets/images/favicon.png, .git]
+include           : [".htaccess"]
+exclude           : ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+keep_files        : ["/assets/images", "/assets/images/favicon.png", ".git"]
 
 # Conversion
 incremental       : bool
@@ -140,11 +140,11 @@ owner:
   google:
     plus: 
     analytics: 
-    verify: zFuwF6tlf7YemTRN-ZOvl5lG1rjuI9qEomPbr_5vAu8
+    verify: "zFuwF6tlf7YemTRN-ZOvl5lG1rjuI9qEomPbr_5vAu8"
     ad-client:
     ad-slot:
-  bing-verify: D462E9F8C0920AC921D93C3895430C0D
-  yandex-verify: 9f8cc816e6c6d216
+  bing-verify: "D462E9F8C0920AC921D93C3895430C0D"
+  yandex-verify: "9f8cc816e6c6d216"
 
 # Site Info
 licence:
