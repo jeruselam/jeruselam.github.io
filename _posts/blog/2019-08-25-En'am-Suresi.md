@@ -125,7 +125,7 @@ tag:
 **(113)** ve ahirete inanmayan(ların), [iman etmeyen] kimselerin kalbleri ona meyletsin ve ondan hoşlansınlar ve onların işledikleri suçları işlemeğe devam etsinler
 **(114)** ve O size açıklanmış olarak Kitabı indirmiş iken Allah’tan başka bir hakem mı? arayayım ve kendilerine Kitap verdiğimiz kimseler bilirler ki O gerçekten Rabbin tarafından [geleceği şüphesiz olan] hak olarak indirilmiştir, [şüpheyle] kuşkulananlardan hiç olma 
 **(115)** ve doğruluk ve adalet bakımından Rabbinin sözü tamamlanmıştır, O’nun sözlerini değiştirebilecek yoktur, O [Semîul Alîm] işitendir bilendir
-**(116)** 
+**(116)** eğer kimselerin çoğuna uysan Allah’ın yolundan yeryüzünde seni [dalalete] saptırırlar onlar sadece zanna uyuyorlar ve onlar sadece [yalan söyleyerek] saçmalıyorlar
 **(117)** 
 **(118)** 
 **(119)** 
