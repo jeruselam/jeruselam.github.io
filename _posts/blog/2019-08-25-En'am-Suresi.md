@@ -126,8 +126,8 @@ tag:
 **(114)** ve O size açıklanmış olarak Kitabı indirmiş iken Allah’tan başka bir hakem mı? arayayım ve kendilerine Kitap verdiğimiz kimseler bilirler ki O gerçekten Rabbin tarafından [geleceği şüphesiz olan] hak olarak indirilmiştir, [şüpheyle] kuşkulananlardan hiç olma 
 **(115)** ve doğruluk ve adalet bakımından Rabbinin sözü tamamlanmıştır, O’nun sözlerini değiştirebilecek yoktur, O [Semîul Alîm] işitendir bilendir
 **(116)** eğer kimselerin çoğuna uysan Allah’ın yolundan yeryüzünde seni [dalalete] saptırırlar onlar sadece zanna uyuyorlar ve onlar sadece [yalan söyleyerek] saçmalıyorlar
-**(117)** 
-**(118)** 
+**(117)** elbette Rabbin yolundan [dalalete] sapan(lar)ı kimseleri O çok iyi bilir ve O hidayete erenleri çok iyi bilir 
+**(118)** o halde siz O’nun ayetlerine [iman ederek] inanıyorsanız eğer üzerine Allah’ın adı anılan [şeylerden, kesilen] (hayvan)lardan yeyiniz
 **(119)** 
 **(120)** 
 **(121)** 
