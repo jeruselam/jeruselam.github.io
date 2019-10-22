@@ -128,7 +128,7 @@ tag:
 **(116)** eğer kimselerin çoğuna uysan Allah’ın yolundan yeryüzünde seni [dalalete] saptırırlar onlar sadece zanna uyuyorlar ve onlar sadece [yalan söyleyerek] saçmalıyorlar
 **(117)** elbette Rabbin yolundan [dalalete] sapan(lar)ı kimseleri O çok iyi bilir ve O hidayete erenleri çok iyi bilir 
 **(118)** o halde siz O’nun ayetlerine [iman ederek] inanıyorsanız eğer üzerine Allah’ın adı anılan [şeylerden, kesilen] (hayvan)lardan yeyiniz
-**(119)** 
+**(119)** size ne oluyor ki? üzerine Allah’ın adı anılmış olanlardan yemiyorsunuz ve onlara mecbur kaldıklarınız şeyler dışında size haram kıldığı şeyleri muhakkak açıklamıştır ve doğrusu birçokları bir bilgileri olmaksızın keyiflerine uyarak şaşırtıyorlar muhakkak ki Rabbin O sınırı aşanları çok iyi bilir
 **(120)** 
 **(121)** 
 **(122)** 
