@@ -132,7 +132,7 @@ tag:
 **(120)** ve [suç olan] günahın açığını ve gizlisini bırakın şüphesiz günah kazananlar, [suç işleyen] kimseler yapmış olduklarının cezasını çekeceklerdir 
 **(121)** üzerine Allah’ın adı anılmayanlardan [yenen] şeylerden yemeyiniz çünkü o yoldan çıkmadır ve şüphesiz şeytanlar dostlarına sizinle mücadele etmelerini fısıldarlar ve eğer onlara uyarsanız şüphesiz siz de müşriklerden (olursunuz)
 **(122)** ölü iken kendisini dirilttiğimiz ve kendisine ondan çıkışı olmayan karanlıklar içindeki kimsenin benzeri insanlar arasında onunla yürüyebileceği bir ışık verdiğimiz kimse gibi midir? yapıyor oldukları (işler) kafirlere işte öyle süslü gösterilmiştir
-**(123)** ve böylece orada tuzak kursunlar diye her kentin büyüklerini (oranın) [kanun hilafına hareket eden]suçluları yaptık (oysa) onlar kendilerinden başkasına tuzak kurmazlar ama farkında değillerdir
+**(123)** ve böylece orada [kötülüğe sevketmek için] tuzak kursunlar diye her kentin büyüklerini (oranın) [kanun hilafına hareket eden] suçluları yaptık (oysa) onlar kendilerinden başkasına tuzak kurmazlar ama farkında değillerdir
 **(124)** 
 **(125)** 
 **(126)** 
