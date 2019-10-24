@@ -129,10 +129,10 @@ tag:
 **(117)** elbette Rabbin yolundan [dalalete] sapan(lar)ı kimseleri O çok iyi bilir ve O hidayete erenleri çok iyi bilir 
 **(118)** o halde siz O’nun ayetlerine [iman ederek] inanıyorsanız eğer üzerine Allah’ın adı anılan [şeylerden, kesilen] (hayvan)lardan yeyiniz
 **(119)** size ne oluyor ki? üzerine Allah’ın adı anılmış olanlardan yemiyorsunuz ve onlara mecbur kaldıklarınız şeyler dışında size haram kıldığı şeyleri muhakkak açıklamıştır ve doğrusu birçokları bir bilgileri olmaksızın keyiflerine uyarak şaşırtıyorlar muhakkak ki Rabbin O sınırı aşanları çok iyi bilir
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
+**(120)** ve [suç olan] günahın açığını ve gizlisini bırakın şüphesiz günah kazananlar, [suç işleyen] kimseler yapmış olduklarının cezasını çekeceklerdir 
+**(121)** üzerine Allah’ın adı anılmayanlardan [yenen] şeylerden yemeyiniz çünkü o yoldan çıkmadır ve şüphesiz şeytanlar dostlarına sizinle mücadele etmelerini fısıldarlar ve eğer onlara uyarsanız şüphesiz siz de müşriklerden (olursunuz)
+**(122)** ölü iken kendisini dirilttiğimiz ve kendisine ondan çıkışı olmayan karanlıklar içindeki kimsenin benzeri insanlar arasında onunla yürüyebileceği bir ışık verdiğimiz kimse gibi midir? yapıyor oldukları (işler) kafirlere işte öyle süslü gösterilmiştir
+**(123)** ve böylece orada tuzak kursunlar diye her kentin büyüklerini (oranın) [kanun hilafına hareket eden]suçluları yaptık (oysa) onlar kendilerinden başkasına tuzak kurmazlar ama farkında değillerdir
 **(124)** 
 **(125)** 
 **(126)** 
