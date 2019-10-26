@@ -133,8 +133,8 @@ tag:
 **(121)** üzerine Allah’ın adı anılmayanlardan [yenen] şeylerden yemeyiniz çünkü o yoldan çıkmadır ve şüphesiz şeytanlar dostlarına sizinle mücadele etmelerini fısıldarlar ve eğer onlara uyarsanız şüphesiz siz de müşriklerden (olursunuz)
 **(122)** ölü iken kendisini dirilttiğimiz ve kendisine ondan çıkışı olmayan karanlıklar içindeki kimsenin benzeri insanlar arasında onunla yürüyebileceği bir ışık verdiğimiz kimse gibi midir? yapıyor oldukları (işler) kafirlere işte öyle süslü gösterilmiştir
 **(123)** ve böylece orada [kötülüğe sevketmek için] tuzak kursunlar diye her kentin büyüklerini (oranın) [kanun hilafına hareket eden] suçluları yaptık (oysa) onlar kendilerinden başkasına tuzak kurmazlar ama farkında değillerdir
-**(124)** 
-**(125)** 
+**(124)** ve onlara bir ayet geldiği zaman Allah’ın elçilerine verilenin aynısı bize verilinceye kadar kat’iyyen inanmayız dediler, Allah mesajını koyacağı yeri daha iyi bilir, (yaptıkları) hilelerine karşı çetin bir azab ve Allah katında bir aşağılık, suç işleyen(lere), [kanun hilafına hareket eden] kimselere erişecektir
+**(125)** Allah kimi doğru yola iletmek isterse onun göğsünü İslam’a açar kimi de saptırmak isterse onun göğsünü göğe yükseliyor gibi tıkanık daralmış yapar inanmayan(ların), [iman etmeyen] kimselerin üstüne Allah işte böyle [dinin haram kıldığı günah olan] pislik (sıkıntı) çökertir
 **(126)** 
 **(127)** 
 **(128)** 
