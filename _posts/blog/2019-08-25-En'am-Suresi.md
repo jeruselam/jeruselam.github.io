@@ -135,7 +135,7 @@ tag:
 **(123)** ve böylece orada [kötülüğe sevketmek için] tuzak kursunlar diye her kentin büyüklerini (oranın) [kanun hilafına hareket eden] suçluları yaptık (oysa) onlar kendilerinden başkasına tuzak kurmazlar ama farkında değillerdir
 **(124)** ve onlara bir ayet geldiği zaman Allah’ın elçilerine verilenin aynısı bize verilinceye kadar kat’iyyen inanmayız dediler, Allah mesajını koyacağı yeri daha iyi bilir, (yaptıkları) hilelerine karşı çetin bir azab ve Allah katında bir aşağılık, suç işleyen(lere), [kanun hilafına hareket eden] kimselere erişecektir
 **(125)** Allah kimi doğru yola iletmek isterse onun göğsünü İslam’a açar kimi de saptırmak isterse onun göğsünü göğe yükseliyor gibi tıkanık daralmış yapar inanmayan(ların), [iman etmeyen] kimselerin üstüne Allah işte böyle [dinin haram kıldığı günah olan] pislik (sıkıntı) çökertir
-**(126)** 
+**(126)** Rabbinin doğru yolu işte budur muhakkak öğüt alan kavimler için biz ayetleri geniş geniş açıkladık.
 **(127)** 
 **(128)** 
 **(129)** 
