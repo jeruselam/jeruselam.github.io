@@ -139,7 +139,7 @@ tag:
 **(127)** Rableri katında esenlik [Selam] yurdu onlarındır ve [emredilen ibadeti] yapıyor(lar), [itaatli] olduklarından dolayı O onların [velisi] dostudur
 **(128)** ve hepsini bir araya toplayacağı gün cinler topluluğu muhakkak siz insanlarla çok uğraştınız insanlardan onların dostları derler ki Rabbimiz kimimiz kimimizden yararlandık ve bize verdiğin sürenin ki sonuna ulaştık, (Allah da) buyurur ki durağınız ateştir Allah’ın dilemesi hariç orada ebedi kalacaksınız şüphesiz Rabbin [Hakîmun Alîm] hüküm ve hikmet sahibidir, bilendir
 **(129)** [ihtisas sahibi olmak için bir hususta çalışarak] kazanıyor(lar) [birbirlerine yakın] olduklarından ötürü işte böyle zalimlerin bir kısmını diğerlerinin peşine takarız 
-**(130)** 
+**(130)** cin ve insan topluluğu size ayetlerimi anlatan ve bu gününüzle karşılaşacağınıza dair sizi uyaran içinizden elçiler gelmedi mi? nefsimiz aleyhine şahidiz dediler, dünya hayatı onları aldattı ve şüphesiz kafir olduklarına nefislerine karşı şahidlik ettiler
 **(131)** 
 **(132)** 
 **(133)** 
