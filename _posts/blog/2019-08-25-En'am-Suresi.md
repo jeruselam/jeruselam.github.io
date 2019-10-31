@@ -136,9 +136,9 @@ tag:
 **(124)** ve onlara bir ayet geldiği zaman Allah’ın elçilerine verilenin aynısı bize verilinceye kadar kat’iyyen inanmayız dediler, Allah mesajını koyacağı yeri daha iyi bilir, (yaptıkları) hilelerine karşı çetin bir azab ve Allah katında bir aşağılık, suç işleyen(lere), [kanun hilafına hareket eden] kimselere erişecektir
 **(125)** Allah kimi doğru yola iletmek isterse onun göğsünü İslam’a açar kimi de saptırmak isterse onun göğsünü göğe yükseliyor gibi tıkanık daralmış yapar inanmayan(ların), [iman etmeyen] kimselerin üstüne Allah işte böyle [dinin haram kıldığı günah olan] pislik (sıkıntı) çökertir
 **(126)** Rabbinin doğru yolu işte budur muhakkak öğüt alan kavimler için ayetleri biz geniş geniş açıkladık.
-**(127)** Rableri katında esenlik [Selam] yurdu onlarındır ve [ibadet] yapıyor(lar), [itaatli] olduklarından dolayı O onların [velisi] dostudur
-**(128)** 
-**(129)** 
+**(127)** Rableri katında esenlik [Selam] yurdu onlarındır ve [emredilen ibadeti] yapıyor(lar), [itaatli] olduklarından dolayı O onların [velisi] dostudur
+**(128)** ve hepsini bir araya toplayacağı gün cinler topluluğu muhakkak siz insanlarla çok uğraştınız insanlardan onların dostları derler ki Rabbimiz kimimiz kimimizden yararlandık ve bize verdiğin sürenin ki sonuna ulaştık, (Allah da) buyurur ki durağınız ateştir Allah’ın dilemesi hariç orada ebedi kalacaksınız şüphesiz Rabbin [Hakîmun Alîm] hüküm ve hikmet sahibidir, bilendir
+**(129)** [ihtisas sahibi olmak için bir hususta çalışarak] kazanıyor(lar) [birbirlerine yakın] olduklarından ötürü işte böyle zalimlerin bir kısmını diğerlerinin peşine takarız 
 **(130)** 
 **(131)** 
 **(132)** 
