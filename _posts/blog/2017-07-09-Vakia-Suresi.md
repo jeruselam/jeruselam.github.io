@@ -101,10 +101,10 @@ tag:
 **(89)** (O’na) rahatlık (vardır) ve güzel rızık (vardır) ve ni’met cenneti (vardır)
 **(90)** ama eğer sağ ashabından ise
 **(91)** sağ ashabından selam sana
-**(92)** ama eğer sapık yalanlayıcılardan ise ,
-**(93)** kaynar sudan bir ziyafet,
-**(94)** ve cehenneme atılma (vardır),
-**(95)** elbette budur, işte elbette o kesin gerçek
-**(96)** öyleyse büyük Rabbinin adını tesbih et.
+**(92)** ama eğer sapık yalanlayıcılardan ise
+**(93)** kaynar sudan bir ziyafet
+**(94)** ve cehenneme atılma (vardır)
+**(95)** elbette budur işte elbette o kesin gerçek
+**(96)** büyük Rabbinin adını öyleyse tesbih et
 
 ![56]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
