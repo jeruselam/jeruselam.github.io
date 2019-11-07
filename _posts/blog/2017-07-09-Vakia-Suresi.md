@@ -60,47 +60,47 @@ tag:
 **(48)** önceki atalarımız da mı?
 **(49)** de ki şüphesiz öncekiler de ve sonrakiler de
 **(50)** belli bir günün buluşma vakti için mutlaka toplanacaklardır
-**(51)** sonra şüphesiz siz de ey sapıklar yalanlayıcılar,
-**(52)** mutlaka (bir) Zakkum ağacından yiyecekler,
-**(53)** onunla karınları(nı) dolduracaklar,
-**(54)** sonra  üzerine kaynar sudan içecekler ,
-**(55)** ve susuz develerin içişi gibi içecekler,
-**(56)** işte ceza gününde onların ağırlanışı böyledir,
+**(51)** sonra şüphesiz siz de ey [iman etmeyen dalalette olan azan, azdıran] sapıklar yalanlayıcılar
+**(52)** (bir) Zakkum ağacından mutlaka yiyecekler
+**(53)** onunla karınları(nı) dolduracaklar
+**(54)** sonra üzerine kaynar sudan içecekler
+**(55)** ve susuz develerin içişi gibi içecekler
+**(56)** ceza gününde onların ağırlanışı işte böyledir
 **(57)** sizi biz yarattık doğrulamanız gerekmez mi?
-**(58)** Akıttığınız meniyi gördünüz mü?
-**(59)** Siz mi? onu yaratıyorsunuz yoksa yaratıcılar biz (miyiz?),
-**(60)** Aranızda ölümü takdir eden biziz ve bizim önümüze geçilmiş değildir,
-**(61)** benzerlerinizi sizin yerinize getirelim ve bilmediğiniz bir biçimde sizi yeniden inşa’ edelim diye,
-**(62)** ve andolsun ilk yaratmayı bildiniz, düşünüp ibret almaz mısınız?
-**(63)** Ektiğinizi gördünüz mü?
-**(64)** Onu siz mi? bitiyorsunuz yoksa bitirenler biz (miyiz?)
-**(65)** Şayet dileseydik, onu kuru bir çöp yapardık, sızlanıp dururdunuz,
-**(66)** elbette biz borçlandık,
-**(67)** doğrusu biz yoksun bırakıldık,
+**(58)** akıttığınız meniyi gördünüz mü?
+**(59)** siz mi? onu yaratıyorsunuz yoksa yaratıcılar biz (miyiz?)
+**(60)** ölümü aranızda takdir eden biziz ve bizim önümüze geçilmiş değildir
+**(61)** benzerlerinizi sizin yerinize getirelim ve bilmediğiniz bir biçimde sizi yeniden inşa’ edelim diye
+**(62)** ve ilk yaratmayı andolsun bildiniz, düşünüp ibret almaz mısınız?
+**(63)** ektiğinizi gördünüz mü?
+**(64)** onu siz mi? bitiyorsunuz yoksa bitirenler biz (miyiz?)
+**(65)** şayet dileseydik, onu kuru bir çöp yapardık, sızlanıp dururdunuz;
+**(66)** elbette biz borçlandık
+**(67)** doğrusu biz yoksun bırakıldık
 **(68)** içtiğiniz suya baktınız mı?
-**(69)** Onu buluttan siz mi? indirdiniz yoksa indirenler biz (miyiz?)	
-**(70)** Şayet dileseydik, onu tuzlu yapardık, şüketmez misiniz?
-**(71)** Çıkardığınız ateşi gördünüz mü?
-**(72)** Onun ağacını siz mi? yarattınız yoksa yaratanlar biz (miyiz?)
-**(73)** Biz onu bir ibret yaptık ve çölden gelip geçenlere bir fayda,
-**(74)** öyleyse büyük Rabbinin adını yücelt, 
-**(75)** hayır, yıldızların yerlerine yemin ederim, 
-**(76)** muhakkak o büyük bir yemindir, eğer bilirseniz, 
-**(77)** elbette O, kesinlikle değerli bir Kur’an’dır,
-**(78)** saklı bir Kitaptadır,
-**(79)** ona temizlerden başkası dokunmaz,
-**(80)** alemlerin Rabbinden indirilmiştir,
-**(81)** şimdi bunu mu? siz sözü küçümsüyorsunuz,
-**(82)** Ve rızkınızı, sizin yalanlamanızdan (ibaret) kılıyorsunuz?
-**(83)** Ya? (can) boğaza dayandığı zaman,
-**(84)** ve siz de o zaman bakıp durursunuz,
-**(85)** ve biz ona sizden daha yakınız, fakat siz görmezsiniz,
-**(86)** eğer cezalandırılmayacak iseniz,
-**(87)** eğer doğrulardan iseniz, onu geri döndürsenize,
-**(88)** ama eğer yaklaştırılanlardan
-**(89)** (O’na) rahatlık (vardır) ve güzel rızık (vardır) ve cenneti ni’met (vardır),
-**(90)** ama eğer sağ ashabından ise,
-**(91)** sağ ashabından selam sana ,
+**(69)** buluttan onu siz mi? indirdiniz yoksa indirenler biz (miyiz?)	
+**(70)** şayet dileseydik, onu tuzlu yapardık, şüketmez misiniz?
+**(71)** çıkardığınız ateşi gördünüz mü?
+**(72)** onun ağacını siz mi? yarattınız yoksa yaratanlar biz (miyiz?)
+**(73)** biz onu bir ibret ve çölden gelip geçenlere bir fayda yaptık
+**(74)** öyleyse büyük Rabbinin adını yücelt
+**(75)** hayır, yıldızların yerlerine yemin ederim 
+**(76)** eğer bilirseniz muhakkak o büyük bir yemindir
+**(77)** elbette O, kesinlikle değerli bir Kur’an’dır
+**(78)** saklı bir Kitaptadır
+**(79)** temizlerden başkası ona dokunmaz
+**(80)** alemlerin Rabbinden indirilmiştir
+**(81)** şimdi siz bunu [hadisi] sözü mü?  küçümsüyorsunuz
+**(82)** ve rızkınızı sizin yalanlamanızdan (ibaret) kılıyorsunuz?
+**(83)** ya? (can) boğaza dayandığı zaman
+**(84)** ve siz de o zaman bakıp durursunuz
+**(85)** ve biz ona sizden daha yakınız fakat siz görmezsiniz
+**(86)** eğer cezalandırılmayacak iseniz
+**(87)** eğer doğrulardan iseniz, onu geri döndürsenize
+**(88)** ama eğer yaklaştırılanlardan ise
+**(89)** (O’na) rahatlık (vardır) ve güzel rızık (vardır) ve ni’met cenneti (vardır)
+**(90)** ama eğer sağ ashabından ise
+**(91)** sağ ashabından selam sana
 **(92)** ama eğer sapık yalanlayıcılardan ise ,
 **(93)** kaynar sudan bir ziyafet,
 **(94)** ve cehenneme atılma (vardır),
