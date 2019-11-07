@@ -143,7 +143,7 @@ tag:
 **(131)** çünkü bu böyledir Rabbin halkı habersiz iken ülkeleri zulüm ile helak edici değildir
 **(132)** yaptıkları işlere göre her birinin dereceleri vardır, Rabbin onların yaptıklarından habersiz değildir
 **(133)** ve Rabbin zengindir rahmet sahibidir eğer dilerse sizi uzaklaştırır ve başka bir topluluğun soyundan sizi yarattığı gibi dilediğini sizden sonra yerinize getirir
-**(134)** 
+**(134)** size söylenen uyarı muhakkak gelecektir ve siz onu [aczle] engelleyecek değil(siniz)
 **(135)** 
 **(140)** 
 **(141)** 
