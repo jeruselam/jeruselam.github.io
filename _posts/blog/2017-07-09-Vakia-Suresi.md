@@ -52,14 +52,14 @@ tag:
 **(40)** bir bölümü de sonrakilerdendir
 **(41)** ve solun adamları, nedir solun adamları
 **(42)** iliklere işleyen bir ateş ve kaynar su içindedirler
-**(43)** ve kara dumandan gölgededirler,
-**(44)** serin olmayan ve faydası olmayan,
-**(45)** çünkü onlar bundan önce varlık içinde şımartılmış idiler,
-**(46)** ve büyük günah (işlemek) üzere ısrar ediyorlardı,
-**(47)** ve diyorlardı ki biz öldükten ve kemik yığını ve toprak olduğumuz zaman mı? Biz mi? bir daha diriltileceğiz,
+**(43)** ve kara dumandan gölgededirler
+**(44)** serin olmayan ve faydası olmayan
+**(45)** çünkü onlar bundan önce varlık içinde şımartılmış idiler
+**(46)** ve büyük günah (işlemek) üzere ısrar ediyorlardı
+**(47)** ve diyorlardı ki biz öldükten ve kemik yığını ve toprak olduğumuz zaman mı? biz mi? bir daha diriltileceğiz
 **(48)** önceki atalarımız da mı?
-**(49)** De ki, şüphesiz öncekiler de ve sonrakiler de,
-**(50)** belli bir günün buluşma vakti için mutlaka toplanacaklardır,
+**(49)** de ki şüphesiz öncekiler de ve sonrakiler de
+**(50)** belli bir günün buluşma vakti için mutlaka toplanacaklardır
 **(51)** sonra şüphesiz siz de ey sapıklar yalanlayıcılar,
 **(52)** mutlaka (bir) Zakkum ağacından yiyecekler,
 **(53)** onunla karınları(nı) dolduracaklar,
