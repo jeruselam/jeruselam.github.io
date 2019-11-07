@@ -34,14 +34,14 @@ tag:
 **(22)** ve iri gözlü huriler
 **(23)** saklı inciler gibi
 **(24)**  [emredilen ibadeti] yapıyor(lar), [itaatli] olmaları nedeniyle karşılık olarak
-**(25)** orada boş bir söz işitmezler ve ne de günaha sokan bir laf,
-**(26)** yalnızca selam selam denilir,
-**(27)** Ve sağın adamları nedir sağın adamları,
-**(28)** dikensiz sedir ağaçları içindedirler,
-**(29)** ve meyvaları dizili muz ağaçları,
-**(30)** ve uzamış gölge(ler),
-**(31)** ve fışkıran sular,
-**(32)** ve pek çok meyvalar,
+**(25)** orada boş bir söz ve ne de günaha sokan bir laf işitmezler
+**(26)** yalnızca selam selam denilir
+**(27)** Ve sağın adamları nedir sağın adamları
+**(28)** dikensiz sedir ağaçları içindedirler
+**(29)** ve meyvaları dizili muz ağaçları
+**(30)** ve uzamış gölge(ler)
+**(31)** ve fışkıran sular
+**(32)** ve pek çok meyvalar
 **(33)** tükenmeyen ve ne de yasaklanmayan,
 **(34)** ve yükseltilmiş döşekler (üstündedirler),
 **(35)** elbette biz kadınları (yeni bir) inşa’ ile inşa’ etmişizdir,
