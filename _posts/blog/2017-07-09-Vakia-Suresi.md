@@ -42,16 +42,16 @@ tag:
 **(30)** ve uzamış gölge(ler)
 **(31)** ve fışkıran sular
 **(32)** ve pek çok meyvalar
-**(33)** tükenmeyen ve ne de yasaklanmayan,
-**(34)** ve yükseltilmiş döşekler (üstündedirler),
-**(35)** elbette biz kadınları (yeni bir) inşa’ ile inşa’ etmişizdir,
-**(36)** onları bakireler yapmışızdır,
-**(37)** hep yaşıt sevgililer,
-**(38)** sağın adamları için,
-**(39)** bir bölümü öncekilerdendir,
-**(40)** bir bölümü de sonrakilerdendir,
-**(41)** ve solun adamları nedir, adamları solun
-**(42)** iliklere işleyen bir ateş ve kaynar su içindedirler,
+**(33)** tükenmeyen ve ne de yasaklanmayan
+**(34)** ve yükseltilmiş döşekler (üstündedirler)
+**(35)** elbette biz (yeni bir) inşa’ ile kadınları inşa’ etmişizdir
+**(36)** onları bakireler yapmışızdır
+**(37)** hep yaşıt sevgililer
+**(38)** sağın adamları için
+**(39)** bir bölümü öncekilerdendir
+**(40)** bir bölümü de sonrakilerdendir
+**(41)** ve solun adamları, nedir solun adamları
+**(42)** iliklere işleyen bir ateş ve kaynar su içindedirler
 **(43)** ve kara dumandan gölgededirler,
 **(44)** serin olmayan ve faydası olmayan,
 **(45)** çünkü onlar bundan önce varlık içinde şımartılmış idiler,
