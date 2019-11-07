@@ -144,8 +144,8 @@ tag:
 **(132)** yaptıkları işlere göre her birinin dereceleri vardır, Rabbin onların yaptıklarından habersiz değildir
 **(133)** ve Rabbin zengindir rahmet sahibidir eğer dilerse sizi uzaklaştırır ve başka bir topluluğun soyundan sizi yarattığı gibi dilediğini sizden sonra yerinize getirir
 **(134)** size söylenen uyarı muhakkak gelecektir ve siz onu [aczle] engelleyecek değil(siniz)
-**(135)** 
-**(140)** 
+**(135)** de ki kavmim imkanınıza göre yapacağınızı yapın şüphesiz ben de yapıyorum, bu [diyarın akibetini] yurdun sonunun kimin olacağını yakında bileceksiniz şüphesiz Zalimler iflah olmazlar
+**(140)** ve Allah’ın yarattığı şeylerden ekin(ler)den ve hayvanlar(dan) bir pay kıldılar, dediler ki zanlarınca bu Allah’ındır bu da [şeriklerimiz] ortaklarımızındır (halbuki) ortaklarına ait olan Allah’a ulaşmaz Allah’a ait olan (ise) ortaklarına [şeriklerine] o ulaşır, ne kötü hüküm veriyorlar
 **(141)** 
 **(142)** 
 **(143)** 
