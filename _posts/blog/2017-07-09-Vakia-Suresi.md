@@ -10,30 +10,30 @@ tag:
 
 ## 56. Vâkıa Sûresi
 
-**(1)** Olacak vak’a olduğu zaman,
-**(2)** onun oluşunu yalanlayacak yoktur,
-**(3)** o alçaltıcıdır, yükselticidir,
-**(4)** yer şiddetle sarsılarak sarsıldığı zaman,
-**(5)** ve dağlar serpildikçe serpildiği (zaman),
-**(6)** dağılan toz duman haline geldiği (zaman),
-**(7)** ve sizler üç sınıf (gurup) olduğunuz (zaman).
-**(8)** Sağın adamları ne (kutludurlar) sağın adamları,
-**(9)** solun adamları ne (uğursuzlardır) solun adamları,
-**(10)** ve öne geçenler ise öne geçenler,
-**(11)** işte onlardır yaklaştırılanlar,
-**(12)** Ni’met cennetlerinde,
-**(13)** çoğu öncekilerden bir ümmettir, 
-**(14)** ve birazı da sonrakilerden,
-**(15)** altın ve cevahirle işlenmiş tahtlar üzerindedirler,
-**(16)** onların üzerinde karşılıklı, 
-**(17)** çevrelerinde ebedi yaşamağa erdirilmiş gençler dolaşır,
-**(18)** kaynağından doldurulmuş testilerle ve ibrikler ve kadehlerle,
-**(19)** ondan başları ağrıtmayan ve akılları gidermeyen,
-**(20)** ve beğendikleri şeylerden meyva(lar),
-**(21)** ve canlarının çektiği kuş eti,
-**(22)** ve iri gözlü huriler,
-**(23)** saklı inciler gibi,
-**(24)** yapıyor(lar) olmaları nedeniyle karşılık olarak,
+**(1)** olacak vak’a olduğu zaman
+**(2)** onun oluşunu yalanlayacak yoktur
+**(3)** o alçaltıcıdır, yükselticidir
+**(4)** yer şiddetle sarsılarak sarsıldığı zaman
+**(5)** ve dağlar serpildikçe serpildiği (zaman)
+**(6)** dağılan toz duman haline geldiği (zaman)
+**(7)** ve sizler üç sınıf (gurup) olduğunuz (zaman)
+**(8)** sağın adamları ne (kutludurlar) sağın adamları
+**(9)** solun adamları ne (uğursuzlardır) solun adamları
+**(10)** öne geçenler ve öne geçenler ise
+**(11)** işte yaklaştırılanlar onlardır
+**(12)** Ni’met cennetlerinde
+**(13)** çoğu bir ümmettir, öncekilerden
+**(14)** ve birazı da sonrakilerden
+**(15)** altın ve cevahirle işlenmiş tahtlar üzerindedirler
+**(16)** onların üzerinde karşılıklı yaslanırlar
+**(17)** çevrelerinde ebedi yaşamağa erdirilmiş gençler dolaşır
+**(18)** kaynağından doldurulmuş testilerle ve ibrikler ve kadehlerle
+**(19)** başları ağrıtmayan ondan ve akılları gidermeyen
+**(20)** ve beğendikleri şeylerden meyva(lar)
+**(21)** ve canlarının çektiği kuş eti
+**(22)** ve iri gözlü huriler
+**(23)** saklı inciler gibi
+**(24)**  [emredilen ibadeti] yapıyor(lar), [itaatli] olmaları nedeniyle karşılık olarak
 **(25)** orada boş bir söz işitmezler ve ne de günaha sokan bir laf,
 **(26)** yalnızca selam selam denilir,
 **(27)** Ve sağın adamları nedir sağın adamları,
