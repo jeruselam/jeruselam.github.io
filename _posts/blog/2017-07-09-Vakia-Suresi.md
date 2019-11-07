@@ -107,4 +107,4 @@ tag:
 **(95)** elbette budur işte elbette o kesin gerçek
 **(96)** büyük Rabbinin adını öyleyse tesbih et
 
-![56]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![56Vakıa-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
