@@ -146,7 +146,7 @@ tag:
 **(134)** size söylenen uyarı muhakkak gelecektir ve siz onu [aczle] engelleyecek değil(siniz)
 **(135)** de ki kavmim imkanınıza göre yapacağınızı yapın şüphesiz ben de yapıyorum, bu [diyarın akibetini] yurdun sonunun kimin olacağını yakında bileceksiniz şüphesiz Zalimler iflah olmazlar
 **(140)** ve Allah’ın yarattığı şeylerden ekin(ler)den ve hayvanlar(dan) bir pay kıldılar, dediler ki zanlarınca bu Allah’ındır bu da [şeriklerimiz] ortaklarımızındır (halbuki) ortaklarına ait olan Allah’a ulaşmaz Allah’a ait olan (ise) ortaklarına [şeriklerine] o ulaşır, ne kötü hüküm veriyorlar
-**(141)** 
+**(141)** ve ki birbirine benzer ve benzemez çeşit çeşit ürünleri ve zeytinleri ve narları ve hurma(ları) ve ekin(ler)i çardaklı ve çardaksız bahçeleri yaratan O’dur, meyva verdiği zaman meyvasından yeyin ve hasat günü hakkını (sadakasını) verin ve asla israf etmeyin çünkü O israf edenleri sevmez
 **(142)** 
 **(143)** 
 **(144)** 
