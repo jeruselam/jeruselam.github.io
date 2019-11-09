@@ -149,7 +149,7 @@ tag:
 **(141)** ve ki birbirine benzer ve benzemez çeşit çeşit ürünleri ve zeytinleri ve narları ve hurma(ları) ve ekin(ler)i çardaklı ve çardaksız bahçeleri yaratan O’dur, meyva verdiği zaman meyvasından yeyin ve hasat günü hakkını (sadakasını) verin ve asla israf etmeyin çünkü O israf edenleri sevmez
 **(142)** hayvanlardan (kimi) yük taşır (kiminin) tüyünden [yaygı] sergi yapılır, Allah’ın size verdiği rızıktan yeyin, şeytanın [aldatıcı eserlerini ve] adımlarını izlemeyin zira o sizin için apaçık bir düşmandır
 **(143)** iki keçiden ve iki koyundan çift[ler], sekiz [tane], de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin rahimlerinde bulunan (yavru)ları mı eğer doğru iseniz bilgi ile bana haber verin
-**(144)** ve iki deveden ve iki sığırdan, de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin Rahimlerinde bulunan(yavru)ları mı yoksa Allah’ın böyle[sini] size vasiyyet ettiği zaman şahidler (mi?) oldunuz, bilgisi olmaksızın insanları saptırmak için Allah’a karşı bir yalan uydurandan daha zalim kim olabilir?
+**(144)** ve iki deveden ve iki sığırdan, de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin Rahimlerinde bulunan (yavru)ları mı yoksa Allah’ın böyle[sine] size vasiyyet ettiği zaman şahidler (mi?) oldunuz, bilgisi olmaksızın insanları saptırmak için Allah’a karşı bir yalan uydurandan daha zalim kim olabilir? şüphesiz Allah zalim topluluğu doğru yola iletmez
 **(145)** 
 **(146)** 
 **(147)** 
