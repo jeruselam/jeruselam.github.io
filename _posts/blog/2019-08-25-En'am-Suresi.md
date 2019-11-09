@@ -147,7 +147,7 @@ tag:
 **(135)** de ki kavmim imkanınıza göre yapacağınızı yapın şüphesiz ben de yapıyorum, bu [diyarın akibetini] yurdun sonunun kimin olacağını yakında bileceksiniz şüphesiz Zalimler iflah olmazlar
 **(140)** ve Allah’ın yarattığı şeylerden ekin(ler)den ve hayvanlar(dan) bir pay kıldılar, dediler ki zanlarınca bu Allah’ındır bu da [şeriklerimiz] ortaklarımızındır (halbuki) ortaklarına ait olan Allah’a ulaşmaz Allah’a ait olan (ise) ortaklarına [şeriklerine] o ulaşır, ne kötü hüküm veriyorlar
 **(141)** ve ki birbirine benzer ve benzemez çeşit çeşit ürünleri ve zeytinleri ve narları ve hurma(ları) ve ekin(ler)i çardaklı ve çardaksız bahçeleri yaratan O’dur, meyva verdiği zaman meyvasından yeyin ve hasat günü hakkını (sadakasını) verin ve asla israf etmeyin çünkü O israf edenleri sevmez
-**(142)** 
+**(142)** hayvanlardan (kimi) yük taşır (kiminin) tüyünden [yaygı] sergi yapılır, Allah’ın size verdiği rızıktan yeyin, şeytanın [aldatıcı eserlerini ve] adımlarını izlemeyin zira o sizin için apaçık bir düşmandır
 **(143)** 
 **(144)** 
 **(145)** 
