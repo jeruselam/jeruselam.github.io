@@ -150,7 +150,7 @@ tag:
 **(142)** hayvanlardan (kimi) yük taşır (kiminin) tüyünden [yaygı] sergi yapılır, Allah’ın size verdiği rızıktan yeyin, şeytanın [aldatıcı eserlerini ve] adımlarını izlemeyin zira o sizin için apaçık bir düşmandır
 **(143)** iki keçiden ve iki koyundan çift[ler], sekiz [tane], de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin rahimlerinde bulunan (yavru)ları mı eğer doğru iseniz bilgi ile bana haber verin
 **(144)** ve iki deveden ve iki sığırdan, de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin Rahimlerinde bulunan (yavru)ları mı yoksa Allah’ın böyle[sine] size vasiyyet ettiği zaman şahidler (mi?) oldunuz, bilgisi olmaksızın insanları saptırmak için Allah’a karşı bir yalan uydurandan daha zalim kim olabilir? şüphesiz Allah zalim topluluğu doğru yola iletmez
-**(145)** 
+**(145)** de ki bana vahyolunan şeyde yemek yiyen kimse üzerine bir haramlık bulamıyorum ancak leş yahut akıtılmış kan yahut domuz eti ki şüphesiz pistir ya da onun Allah’tan başkası adına boğazlanmış bir fısk olması hariçtir ama kim çaresiz kalırsa saldırmaksızın ve sınırı aşmaksızın (yiyebilir) çünkü Rabbin [Ğafūr RaHīm] bağışlayandır esirgeyendir
 **(146)** 
 **(147)** 
 **(148)** 
