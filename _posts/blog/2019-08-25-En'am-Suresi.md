@@ -153,7 +153,7 @@ tag:
 **(145)** de ki bana vahyolunan şeyde yemek yiyen kimse üzerine bir haramlık bulamıyorum ancak leş yahut akıtılmış kan yahut domuz eti ki şüphesiz pistir ya da onun Allah’tan başkası adına boğazlanmış bir fısk olması hariçtir ama kim çaresiz kalırsa saldırmaksızın ve sınırı aşmaksızın (yiyebilir) çünkü Rabbin [Ğafūr RaHīm] bağışlayandır esirgeyendir
 **(146)** ve şunlara ki yahudilere bütün tırnaklı(ları) olanları haram ettik sırtlarının yahut bağırsaklarının taşıdıkları ya da kemiğe karışanlar hariç sığırın ve koyunun yağlarını onlara haram kıldık böylece  aşırılıkları yüzünden onları cezalandırdık biz elbette doğru söyleyenleriz
 **(147)** eğer seni yalanladılarsa de ki Rabbiniz bol rahmet sahibidir (fakat) [kanun hilafına isyan eden] suçlu toplumdan O’nun azabı geri çevrilmez
-**(148)** 
+**(148)** ortak koşan(lar) kimseler diyecekler ki şayet Allah isteseydi babalarımız da biz ortak koşmazdık hiçbir haram şeyi yapmazdık öyle (demişlerdi) onlardan önce yalanlayanlar öyle (demişlerdi) nihayet azabımızı tadmışlardı de ki bize çıka(rıp gösterece)ğiniz yanınızda hiç bir bilgi var mı? siz sadece zanna uyuyorsunuz ve eğer siz sadece saçmalıyorsunuz
 **(149)** 
 **(150)** 
 **(151)** 
