@@ -152,7 +152,7 @@ tag:
 **(144)** ve iki deveden ve iki sığırdan, de ki iki erkeği mi? haram etti yoksa iki dişiyi (mi?) yoksa iki dişinin Rahimlerinde bulunan (yavru)ları mı yoksa Allah’ın böyle[sine] size vasiyyet ettiği zaman şahidler (mi?) oldunuz, bilgisi olmaksızın insanları saptırmak için Allah’a karşı bir yalan uydurandan daha zalim kim olabilir? şüphesiz Allah zalim topluluğu doğru yola iletmez
 **(145)** de ki bana vahyolunan şeyde yemek yiyen kimse üzerine bir haramlık bulamıyorum ancak leş yahut akıtılmış kan yahut domuz eti ki şüphesiz pistir ya da onun Allah’tan başkası adına boğazlanmış bir fısk olması hariçtir ama kim çaresiz kalırsa saldırmaksızın ve sınırı aşmaksızın (yiyebilir) çünkü Rabbin [Ğafūr RaHīm] bağışlayandır esirgeyendir
 **(146)** ve şunlara ki yahudilere bütün tırnaklı(ları) olanları haram ettik sırtlarının yahut bağırsaklarının taşıdıkları ya da kemiğe karışanlar hariç sığırın ve koyunun yağlarını onlara haram kıldık böylece  aşırılıkları yüzünden onları cezalandırdık biz elbette doğru söyleyenleriz
-**(147)** 
+**(147)** eğer seni yalanladılarsa de ki Rabbiniz bol rahmet sahibidir (fakat) [kanun hilafına isyan eden] suçlu toplumdan O’nun azabı geri çevrilmez
 **(148)** 
 **(149)** 
 **(150)** 
