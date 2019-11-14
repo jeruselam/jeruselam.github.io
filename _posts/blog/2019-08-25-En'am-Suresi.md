@@ -156,7 +156,7 @@ tag:
 **(148)** ortak koşan(lar), [şirk koşan] kimseler diyecekler ki şayet Allah isteseydi babalarımız da biz ortak [şirk] koşmazdık hiçbir haram şeyi yapmazdık onlardan önce yalanlayanlar öyle (demişlerdi) nihayet azabımızı tadmışlardı de ki bize çıka(rıp gösterece)ğiniz yanınızda hiç bir bilgi var mı? siz sadece zanna uyuyorsunuz ve siz sadece saçmalıyorsunuz
 **(149)** de ki [bir şeyin isbatında] üstün olan delil Allah’ındır eğer dileseydi elbette hepinizi doğru yola iletirdi
 **(150)** de ki haydi getirin tanrılarınızı [şahitlerinizi] o ki bunu Allah’ın yasakladığına şahidlik edecek eğer şahidlik ederlerse sen onlarla beraber şahidlik etme ve ayetlerimizi yalanlayan(ların), [yalancı] kimselerin ve ahirete inanmayan kimselerin keyiflerine uyma ve onlar Rablerine [haktan sapanları] eş tutmaktadırlar
-**(151)** 
+**(151)** de ki gelin size Rabbinizin haram kıldığı şeyleri okuyayım asla O’na hiçbir şeyi ortak koşmayın ve ana babaya iyilik edin ve fakirlik korkusuyla çocuklarınızı öldürmeyin, sizi [ve] onları biz besliyoruz, fuhuşlara onun ne açığına ve nede kapalısına yaklaşmayın ve hak ile olmadan Allah’ın yasakladığı cana kıymayın işte size bunları tavsiye etti umulur ki [vicdan ile akılcı] düşünürsünüz
 **(152)** 
 **(153)** 
 **(154)** 
