@@ -159,10 +159,10 @@ tag:
 **(151)** de ki gelin size Rabbinizin haram kıldığı şeyleri okuyayım asla O’na hiçbir şeyi ortak koşmayın ve ana babaya iyilik edin ve fakirlik korkusuyla çocuklarınızı öldürmeyin, sizi [ve] onları biz besliyoruz, fuhuşlara onun ne açığına ve nede kapalısına yaklaşmayın ve hak ile olmadan Allah’ın yasakladığı cana kıymayın işte size bunları tavsiye etti umulur ki [vicdan ile akılcı] düşünürsünüz
 **(152)** onun en güzel biçimde (olması) müstesna erginlik çağına erişinceye kadar yetimin malına yaklaşmayın ve ölçü ve tartıyı adaletle tam yapın, biz kişiye gücünün yettiğinden dışındakini teklif etmeyiz ve söylediğiniz zaman eğer akrabanız olsa da adalet yapın ve Allah’a verdiğiniz sözü tutun işte size bunları tavsiye etti umulur ki öğüt alırsınız
 **(153)** ve benim dosdoğru yolum işte budur ona uyun 
-**(154)** sonra rahmet olarak ve yola iletici ve her şeyi açıklamak (için) iyilik eden(lere) [güzel davranan] kimseler üzerine (ni’metimizi) tamamlamak için Kitabı Musa’ya verdik
-**(155)** 
-**(156)** 
-**(157)** 
+**(154)** sonra rahmet olarak ve yola iletici ve her şeyi açıklamak (için) iyilik eden(lere) [güzel davranan] kimseler üzerine (ni’metimizi) tamamlamak için ve her şeyi açıklamak (için) ve yola iletici ve rahmet olarak Kitabı Musa’ya verdi kumulur ki Rablerine kavuşacaklarına inanırlar
+**(155)** işte bu (Kur’an) da indirdiğimiz mübarek Kitaptır O’na uyun ve korunun umulur ki siz merhamet olunursunuz
+**(156)** yalnız bizden önceki iki topluluk üzerine Kitap indirildi biz ise onların okumasından habersiz idik demeyesiniz
+**(157)** yahut eğer Kitap bize indirilseydi şüphesiz ki daha doğru yolda biz olurduk demeyesiniz, Rabbinizden açık delil ve hidayet ve rahmet işte size de geldi onlardan Allah’ın ayetlerini yalanlayıp ve yüz çeviren kimseden daha zalim kim olabilir? yüz çevirmelerinden ötürü azabın en kötüsüyle ayetlerimizden yüz çevirenleri, [batıla yönelen] kimseleri cezalandıracağız
 **(158)** 
 **(159)** 
 **(160)** 
