@@ -164,12 +164,12 @@ tag:
 **(156)** yalnız bizden önceki iki topluluk üzerine Kitap indirildi biz ise onların okumasından habersiz idik demeyesiniz
 **(157)** yahut eğer Kitap bize indirilseydi şüphesiz ki daha doğru yolda biz olurduk demeyesiniz, Rabbinizden açık delil ve hidayet ve rahmet işte size de geldi onlardan Allah’ın ayetlerini yalanlayıp ve yüz çeviren kimseden daha zalim kim olabilir? yüz çevirmelerinden ötürü azabın en kötüsüyle ayetlerimizden yüz çevirenleri, [batıla yönelen] kimseleri cezalandıracağız
 **(158)** meleklerin ille gelmesini yahut Rabbinin gelmesini ya da Rabbinin bazı ayetlerinin gelmesini mı? bekliyorlar, Rabbinin bazı ayetleri geldiği gün daha önce iman etmemiş ya da imanında bir hayır kazanmamış olan kimseye [iman edip] inanması fayda sağlamaz de ki bekleyin biz de beklemekteyiz
-**(159)** gerçekten dinlerini parça parça eden kimseler ve grup grup olanlar (var ya) senin onlarla hiçbir (ilişkin) yoktur ancak onların işi Allah’a (kalmış)tır [kötü ve çirkin fiiller] yapıyorlar, [işliyor] oldukları şeyleri onlara haber verecektir
-**(160)** 
-**(161)** 
-**(162)** 
-**(163)** 
-**(164)** 
+**(159)** gerçekten dinlerini parça parça eden kimseler ve grup grup olanlar (var ya) senin onlarla hiçbir (ilişkin) yoktur ancak onların işi Allah’a (kalmış)tır, [kötü ve çirkin fiiller] yapıyorlar, [işliyor] oldukları şeyleri onlara haber verecektir
+**(160)** kim bir iyilikle gelirse ona o(getirdiği)nin on (katı) vardır ve kim bir kötülükle gelirse onun dengi dışında cezalandırılmaz ve onlar haksızlığa uğratılmazlar
+**(161)** de ki muhakkak beni İbrahim’in hanif dinine dosdoğru dine dosdoğru yola Rabbim beni iletti, O ortak koşanlardan değildi
+**(162)** de ki şüphesiz benim namazım ve ibadetim ve hayatım ve ölümüm alemlerin Rabbi Allah içindir
+**(163)** O’nun ortağı yoktur ve böyle 	bana emrolundu ve ben müslümanların ilkiyim
+**(164)** de ki (halbuki) O her şeyin Rabbi iken Allah’tan başka Rab mı? arayayım hiç kimse kendisine ait olandan başkasını kazanmaz ve taşıyan (hiç kimse) bir başkasının yükünü taşımaz sonra dönüşünüz Rabbinizedir, onda ayrılığa düşüyor olduğunuz şeyleri size haber verecektir
 **(165)** 
 
 ![06En'am-Mekkî]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
