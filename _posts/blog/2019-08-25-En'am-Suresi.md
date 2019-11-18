@@ -163,8 +163,8 @@ tag:
 **(155)** işte bu (Kur’an) da indirdiğimiz mübarek Kitaptır O’na uyun ve korunun umulur ki siz merhamet olunursunuz
 **(156)** yalnız bizden önceki iki topluluk üzerine Kitap indirildi biz ise onların okumasından habersiz idik demeyesiniz
 **(157)** yahut eğer Kitap bize indirilseydi şüphesiz ki daha doğru yolda biz olurduk demeyesiniz, Rabbinizden açık delil ve hidayet ve rahmet işte size de geldi onlardan Allah’ın ayetlerini yalanlayıp ve yüz çeviren kimseden daha zalim kim olabilir? yüz çevirmelerinden ötürü azabın en kötüsüyle ayetlerimizden yüz çevirenleri, [batıla yönelen] kimseleri cezalandıracağız
-**(158)** 
-**(159)** 
+**(158)** meleklerin ille gelmesini yahut Rabbinin gelmesini ya da Rabbinin bazı ayetlerinin gelmesini mı? bekliyorlar, Rabbinin bazı ayetleri geldiği gün daha önce iman etmemiş ya da imanında bir hayır kazanmamış olan kimseye [iman edip] inanması fayda sağlamaz de ki bekleyin biz de beklemekteyiz
+**(159)** gerçekten dinlerini parça parça eden kimseler ve grup grup olanlar (var ya) senin onlarla hiçbir (ilişkin) yoktur ancak onların işi Allah’a (kalmış)tır [kötü ve çirkin fiiller] yapıyorlar, [işliyor] oldukları şeyleri onlara haber verecektir
 **(160)** 
 **(161)** 
 **(162)** 
