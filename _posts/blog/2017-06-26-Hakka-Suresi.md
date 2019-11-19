@@ -11,10 +11,10 @@ tag:
 
 ## 69. Hâkka Sûresi
 
-**(1)** Gerçekleşen,
-**(2)** gerçekleşen nedir?
-**(3)** gerçekleşenin ne olduğunu nerden? bileceksin.
-**(4)** Semud ve ’Ad, başa çarpan olayı yalanladılar,
+**(1)** gerçekleşen [hakikat]
+**(2)** nedir? gerçekleşen [hakikat]
+**(3)** [hakikatte] gerçekleşenin ne olduğunu nerden? bileceksin.
+**(4)** Semudu ve ’Adun, [aniden gelen ve] başa çarpan olayı yalanladılar,
 **(5)** bu yüzden Semud, azgın bir vak’a ile helak edildiler,
 **(6)** ve Ad (kavmi ise) uğultulu azgın bir kasırga ile
 **(7)** onu onların üzerine ardı ardına yedi gece ve sekiz gün saldı, o kavmi orada serilmiş görürsün, sanki onlar içi boş hurma kütükleridir,
