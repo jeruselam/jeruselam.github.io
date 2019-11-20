@@ -57,11 +57,11 @@ tag:
 **(44)** ve bazı laflar uydurup eğer bize iftira etseydi
 **(45)** onun sağını elbette alırdık
 **(46)** sonra onun can damarını keserdik
-**(47)** ondan, sizden hiçbir kimse engel olamazdı.
-**(48)** Şüphesiz O muttakiler için bir öğüttür.
-**(49)** Ve elbette biz, içinizdeki yalanlayıcıları biliyoruz, elbette muhakkak,
-**(50)** doğrusu o, kafirler için elbette hasrettir,
-**(51)** ve şüphesiz O, muhakkak kesin gerçektir,
-**(52)** öyleyse ulu Rabb'inin adını tesbih et. 
+**(47)** sizden hiçbir kimse ondan engel olamazdı
+**(48)** muttakiler için şüphesiz O bir öğüttür
+**(49)** ve elbette biz muhakkak içinizdeki yalanlayıcıları elbette biliyoruz
+**(50)** kafirler için doğrusu o elbette hasrettir
+**(51)** ve şüphesiz O muhakkak kesin gerçektir
+**(52)** Rabb'inin ulu adını öyleyse tesbih et 
 
 ![69]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
