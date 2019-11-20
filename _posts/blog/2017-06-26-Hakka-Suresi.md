@@ -14,10 +14,10 @@ tag:
 **(1)** gerçekleşen [hakikat]
 **(2)** nedir? gerçekleşen [hakikat]
 **(3)** [hakikatte] gerçekleşenin ne olduğunu nerden? bileceksin.
-**(4)** Semudu ve ’Adun, [aniden gelen ve] başa çarpan olayı yalanladılar,
-**(5)** bu yüzden Semud, azgın bir vak’a ile helak edildiler,
-**(6)** ve Ad (kavmi ise) uğultulu azgın bir kasırga ile
-**(7)** onu onların üzerine ardı ardına yedi gece ve sekiz gün saldı, o kavmi orada serilmiş görürsün, sanki onlar içi boş hurma kütükleridir,
+**(4)** Semudu ve ’Adun, [aniden gelen ve] başa çarpan olayı yalanladılar
+**(5)** bu yüzden Semud, azgın [bir adam ve yıldırımlı] bir vak’a ile helak edildiler
+**(6)** ve Ad (kavmi ise) azgın uğultulu bir kasırga ile helak edildiler
+**(7)** ardı ardına yedi gece ve sekiz gün onu onların üzerine saldı, o kavmi orada serilmiş görürsün, sanki onlar içi boş hurma kütükleridir
 **(8)** onlardan geri kalan hiç görüyor musun?
 **(9)** Ve Fir’avn ve ondan önceki kimseler ve altüst olmuş kentler hatalı iş ile geldiler,
 **(10)** Rablerinin elçisine karşı geldiler, O da onları şiddeti gittikçe artan bir yakalayışla yakaladı.
