@@ -11,7 +11,7 @@ tag:
 
 ## 5. Mâide Sûresi
 
-**(1)** 
+**(1)** ey inanan(lar) kimseler akitleri(zi) yerine getirin siz ihramda iken avlanmayı helal saymamak şartiyle size oku(nup açıkla)nacak olanların dışındaki dört ayaklı hayvanlar sizin için helal kılındı şüphesiz Allah istediğine hükmünü verir 
 **(2)** 
 **(3)** 
 **(4)** 
