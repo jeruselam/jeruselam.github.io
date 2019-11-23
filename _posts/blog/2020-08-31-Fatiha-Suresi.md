@@ -17,6 +17,6 @@ tag:
 **(4)** Din gününün sahibidir
 **(5)** ancak sana kulluk ederiz ancak senden yardım isteriz
 **(6)** bizi doğru yola ilet
-**(7)** onlar ki yoluna ni'met verdin kendilerine gazabedilmiş olan(ların), [gazabettiğin] kimselerin değil ve sapmışların değil
+**(7)** [o] kimselerin onlar ki yoluna ni'met verdin, sapmışların değil ve kendilerine gazabedilmiş olan(ların) değil
 
 ![01Fatiha]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
