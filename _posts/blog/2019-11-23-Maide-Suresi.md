@@ -13,8 +13,8 @@ tag:
 
 **(1)** ey inanan(lar) kimseler akitleri(zi) yerine getirin siz ihramda iken avlanmayı helal saymamak şartiyle size oku(nup açıkla)nacak olanların dışındaki dört ayaklı hayvanlar sizin için helal kılındı şüphesiz Allah istediğine hükmünü verir 
 **(2)** ey inanan(lar), [imanlı] kimseler Allah’ın işaretlerine ve haram aya ve kurbana ve gerdanlık(lı kurban)lara ve Rablerinin lutfunu arzu ederek gelenlere saygısızlık etmeyin ve ihramdan çıktığınız zaman avlanabilirsiniz, Mescid-i Haram’dan sizi çevirdiklerinden dolayı bir topluma karşı beslediğiniz kin sizi suç işlemeğe itmesin ve iyilik ve takva üzerinde yardımlaşın günah ve düşmanlık üzerinde yardımlaşmayın ve Allah’tan korkun şüphesiz Allah’ın azabı [akibeti şiddetli] çetindir
-**(3)** 
-**(4)** 
+**(3)** leş ve kan ve domuz eti ve Allah’tan başkası adına boğazlanan şeyler ve boğulmuş ve vurulmuş ve yukarıdan düşmüş ve boynuzlanmış (havyanlar) ve sizin kestikleriniz hariç canavarın yediği şeyler ve dikili taşlar üzerine boğazlanan şeyler ve fal oklarıyla kısmet (şans) aramanız haram kılındı bunlar fısktır, inkar eden(ler), [kafir] kimseler bugün artık sizin dininizden umudu kesmişlerdir, onlardan korkmayın, benden korkun dininizi sizin için bugün olgunlaştırdım ve size ni’metimi tamamladım ve din olarak İslam’a sizin için razı oldum günaha istekle yönelmeden kim açlıktan daralırsa doğrusu Allah [Gafûrun Rahîm] bağışlayandır esirgeyendir
+**(4)** sana kendilerine neyin helal kılındığını soruyarlar
 **(5)** 
 **(6)** 
 **(7)** 
