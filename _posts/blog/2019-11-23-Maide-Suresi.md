@@ -18,8 +18,8 @@ tag:
 **(5)** bugün size iyi ve temiz şeyler ve kendilerine Kitap verilenlerin yemeği size helal sizin yemeğiniz de onlara helaldir ve inanan kadınlar dan namuslu kadınlar ve gizli dost tutmayan ve zinadan kaçınan iffetli kişiler olarak mehirlerini verdiğiniz zaman sizden önce kendilerine Kitap verilenlerden namuslu kadınlar helal kılındı ve kim imânı inkar ederse muhakkak onun ameli boşa çıkmıştır ve o ahirette kaybedenlerdendir
 **(6)** ey inanan, [imanlı] kimseler namaza dur(mak iste)diğiniz zaman yüzlerinizi ve dirseklere kadar ellerizi yıkayın ve başlarınızı ve topuklara kadar ayaklarınızı meshedin ve eğer cünüp iseniz tam temizlenin eğer hasta yahut seyahat üzerinde iseniz yahut sizden biriniz tuvaletten gelmişse ya da kadınlara dokunmuşsa ve su bulamamışsanız temiz toprağa teyemmüm edin ve yüzlerinize ve ondan ellerinize sürün, Allah size hiçbir güçlük çıkarmak istemiyor fakat sizi temizlemek ve size olan ni’metini tamamlamak istiyor umulur ki şükredersiniz
 **(7)** ve Allah’ın size olan ni’metini hatırlayın ve öyle ki O’na sözünü verdiniz hani işittik ve ita’at ettik demiştiniz Allah’tan korkun şüphesiz Allah göğüslerin özünü bilir
-**(8)** 
-**(9)** 
+**(8)** ey inanan(lar), [imanlı] kimseler Allah için (hakkı) ayakta tutan adaletle şahidlik edenler olun bir topluluğa karşı duyduğunuz kin sizi adaletten saptırmasın adil davranın bu takvaya daha yakındır Allah’tan korkun kuşkusuz Allah yaptıklarınız şeyleri haber almaktadır
+**(9)** Allah inanan(lara), [imanlı] kimselere ve iyi işler yapanlara va’detmiştir bağışlama ve büyük mükafat onlarındır
 **(10)** 
 **(11)** 
 **(12)** 
