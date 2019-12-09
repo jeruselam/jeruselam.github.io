@@ -20,9 +20,9 @@ tag:
 **(7)** ve Allah’ın size olan ni’metini hatırlayın ve öyle ki O’na sözünü verdiniz hani işittik ve ita’at ettik demiştiniz Allah’tan korkun şüphesiz Allah göğüslerin özünü bilir
 **(8)** ey inanan(lar), [imanlı] kimseler Allah için (hakkı) ayakta tutan adaletle şahidlik edenler olun bir topluluğa karşı duyduğunuz kin sizi adaletten saptırmasın adil davranın bu takvaya daha yakındır Allah’tan korkun kuşkusuz Allah yaptıklarınız şeyleri haber almaktadır
 **(9)** Allah inanan(lara), [imanlı] kimselere ve iyi işler yapanlara va’detmiştir bağışlama ve büyük mükafat onlarındır
-**(10)** 
-**(11)** 
-**(12)** 
+**(10)** inkar eden(ler), [kafir] kimseler ve ayetlerimizi yalanlayanlar ise onlar cehennemin halkıdır
+**(11)** ey inanan(lar), [imanlı] kimseler Allah’ın size olan ni’metini hatırlayın hani bir topluluk size ellerini uzatmağa (saldırmaya) yeltenmişti (Allah) onların ellerini sizden çekmişti Alah’tan korkun ve Mü’minler Allah’a dayansınlar
+**(12)** Allah andolsun İsrail oğullarından söz almıştı ve içlerinden on (on iki) başkan göndermiştik Allah demişti ki şüphesiz ben sizinle beraberim eğer namazı kılarsanız ve zekatı verirseniz ve elçilerime inanırsanız ve onlara yardım ederseniz ve Allah’a borç verirseniz güzel bir borç elbette sizin günahlarınızı örterim ve sizi altlarından ırmaklar akan cennetlere sokarım sizden bundan sonra kim inkar ederse muhakkak düz yoldan sapmış olur
 **(13)** 
 **(14)** 
 **(15)** 
@@ -66,7 +66,7 @@ tag:
 **(53)** 
 **(54)** 
 **(55)** 
-**(56)** 
+**(56)** güzel 
 **(57)** 
 **(58)** 
 **(59)** 
