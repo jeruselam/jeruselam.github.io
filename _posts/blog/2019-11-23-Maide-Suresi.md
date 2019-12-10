@@ -22,8 +22,8 @@ tag:
 **(9)** Allah inanan(lara), [imanlı] kimselere ve iyi işler yapanlara va’detmiştir bağışlama ve büyük mükafat onlarındır
 **(10)** inkar eden(ler), [kafir] kimseler ve ayetlerimizi yalanlayanlar ise onlar cehennemin halkıdır
 **(11)** ey inanan(lar), [imanlı] kimseler Allah’ın size olan ni’metini hatırlayın hani bir topluluk size ellerini uzatmağa (saldırmaya) yeltenmişti (Allah) onların ellerini sizden çekmişti Alah’tan korkun ve Mü’minler Allah’a dayansınlar
-**(12)** Allah andolsun İsrail oğullarından söz almıştı ve içlerinden on (on iki) başkan göndermiştik Allah demişti ki şüphesiz ben sizinle beraberim eğer namazı kılarsanız ve zekatı verirseniz ve elçilerime inanırsanız ve onlara yardım ederseniz ve Allah’a borç verirseniz güzel bir borç elbette sizin günahlarınızı örterim ve sizi altlarından ırmaklar akan cennetlere sokarım sizden bundan sonra kim inkar ederse muhakkak düz yoldan sapmış olur
-**(13)** 
+**(12)** andolsun Allah, İsrail oğullarından söz almıştı ve içlerinden on iki başkan göndermiştik Allah demişti ki şüphesiz ben sizinle beraberim eğer namazı kılarsanız ve zekatı verirseniz ve elçilerime inanırsanız ve onlara yardım ederseniz ve Allah’a borç verirseniz güzel bir borç elbette sizin günahlarınızı örterim ve sizi altlarından ırmaklar akan cennetlere sokarım sizden bundan sonra kim inkar ederse muhakkak düz yoldan sapmış olur
+**(13)** sözlerini bozmaları sebebiyle onları la’netledik ve kalblerini kaskatı yaptık, kelimeleri yerlerinden kaydırıyorlar ve kendilerine öğütlenen şeyden pay almayı unuttular, içlerinden asla pek azı  hariç onlardan daima hainlik üzerinde (olduklarına) muttali olursun onları yine de affet ve aldırma şüphesiz Allah güzel davrananları sever
 **(14)** 
 **(15)** 
 **(16)** 
