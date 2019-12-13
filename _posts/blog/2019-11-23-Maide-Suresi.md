@@ -38,7 +38,7 @@ tag:
 **(25)** Ya Rabbi dedi elbette ben kendimden ve kardeşimden başkasına malik değilim aramızı ve yoldan çıkmış toplumun arasını ayır 
 **(26)** (Allah) buyurdu ki şüphesiz orası onlara kırk yıl yasaklandı o yerde şaşkın şaşkın dolaşacaklar yoldan çıkmış toplum üzerine sen üzülme 
 **(27)** gerçek olarak iki Adem oğlunun haberini onlara oku hani birer kurban sunmuşlardı birinden kabul edilmiş ötekinden kabul edilmemişti seni öldüreceğim demişti sadece Allah korunanlardan kabul eder dedi
-**(28)** 
+**(28)** andolsun eğer sen bana elini beni öldürmek için uzatırsan ben seni öldürmek için elimi sana uzatmam çünkü ben alemlerin Rabbi Allah’tan korkarım 
 **(29)** 
 **(30)** 
 **(31)** 
