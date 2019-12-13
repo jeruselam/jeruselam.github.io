@@ -33,7 +33,7 @@ tag:
 **(20)** ve hani Musa kavmine demişti kavmim Allah’ın size olan ni’metini hatırlayın zira (O) aranızda peygamberler var etti ve sizi krallar yaptı ve dünyalarda hiç kimseye vermediği şeyleri size verdi
 **(21)** kavmim Kutsal toprağa girin ki Allah’ın size yaz(ıp nasibet)diği arkanıza dönmeyin yoksa kaybedenlere dönersiniz
 **(22)** dediler ki Musa şüphesiz orada zorba bir millet vardır ve oradan onlar çıkıncaya kadar şüphesiz biz oraya girmeyiz 
-**(23)** 
+**(23)** kendilerine Allah’ın ni’met verdiği korkanlar(dan), [o] kimselerden iki adam dedi ki onların üzerine kapıdan girin eğer girerseniz muhakkak ki siz galib gelirsiniz ve eğer inanıyor iseniz Allah’a dayanın 
 **(24)** 
 **(25)** 
 **(26)** 
