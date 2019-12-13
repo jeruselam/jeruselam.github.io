@@ -25,11 +25,11 @@ tag:
 **(12)** andolsun Allah, İsrail oğullarından söz almıştı ve içlerinden on iki başkan göndermiştik Allah demişti ki şüphesiz ben sizinle beraberim eğer namazı kılarsanız ve zekatı verirseniz ve elçilerime inanırsanız ve onlara yardım ederseniz ve Allah’a borç verirseniz güzel bir borç elbette sizin günahlarınızı örterim ve sizi altlarından ırmaklar akan cennetlere sokarım sizden bundan sonra kim inkar ederse muhakkak düz yoldan sapmış olur
 **(13)** sözlerini bozmaları sebebiyle onları la’netledik ve kalblerini kaskatı yaptık, kelimeleri yerlerinden kaydırıyorlar ve kendilerine öğütlenen şeyden pay almayı unuttular, içlerinden asla pek azı  hariç onlardan daima hainlik üzerinde (olduklarına) muttali olursun onları yine de affet ve aldırma şüphesiz Allah güzel davrananları sever
 **(14)** ve biz hıristiyanız diyen(lerin), [o] kimselerin sözünü almıştık ama kendilerine öğütlenen şeyden pay almayı unuttular bu yüzden aralarına kıyamet gününe kadar kin ve düşmanlık saldık ve yapmakta oldukları şeyleri Allah yakında onlara haber verecektir
-**(15)** 
-**(16)** 
-**(17)** 
-**(18)** 
-**(19)** 
+**(15)** Kitap ehli muhakkak [rasūl] elçimiz size geldi Kitaptan gizlemiş olduğunuz şeylerin çoğunu size açıklıyor çoğundan vaz geçiyor gerçekten size Allah'tan bir nur ve açık bir Kitap gelmiştir
+**(16)** Allah onunla rızasına uyan kimseleri esenlik yollarına iletir ve onları karanlıklardan kendi izniyle aydınlığa çıkarır ve dosdoğru bir yola iletir
+**(17)** şüphesiz o Allah Meryem oğlu Mesih’tir diyen(ler), [o] kimseler andolsun küfre gitmişlerdir de ki öyle ise kim Allah’a karşı bir şeye sahip eğer Meryem oğlu Mesih’i ve annesini ve yeryüzündeki kimseleri hepsini helak etmek isterse göklerde ve yerde ve ikisinin arasında bulunanların mülkü Allah’ındır dilediğini yaratır Allah her şeyi yapabilendir
+**(18)** ve Yahudiler ve hıristiyanlar biz Allah’ın oğullarıyız ve sevgilileriyiz dediler de ki o halde niçin günahlarınızdan ötürü size azabediyor hayır siz de O’nun yaratıklarından birer insansınız dilediği kimseyi bağışlar ve dilediği kimseye azabeder göklerin ve yerin ve ikisi arasında bulunan herşeyin mülkü Allah’ındır dönüş de O’nadır
+**(19)** Kitap ehli elçilerin arasının kesildiği sırada size gerçekleri açıklıyan Elçimiz muhakkak size geldi bir müjdeleyici ve ne de bir uyarıcı bize gelmedi demeyesiniz işte size müjdeleyici ve uyarıcı geldi Allah her şeye kadirdir
 **(20)** 
 **(21)** 
 **(22)** 
