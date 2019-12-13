@@ -30,9 +30,9 @@ tag:
 **(17)** şüphesiz o Allah Meryem oğlu Mesih’tir diyen(ler), [o] kimseler andolsun küfre gitmişlerdir de ki öyle ise kim Allah’a karşı bir şeye sahip eğer Meryem oğlu Mesih’i ve annesini ve yeryüzündeki kimseleri hepsini helak etmek isterse göklerde ve yerde ve ikisinin arasında bulunanların mülkü Allah’ındır dilediğini yaratır Allah her şeyi yapabilendir
 **(18)** ve Yahudiler ve hıristiyanlar biz Allah’ın oğullarıyız ve sevgilileriyiz dediler de ki o halde niçin günahlarınızdan ötürü size azabediyor hayır siz de O’nun yaratıklarından birer insansınız dilediği kimseyi bağışlar ve dilediği kimseye azabeder göklerin ve yerin ve ikisi arasında bulunan herşeyin mülkü Allah’ındır dönüş de O’nadır
 **(19)** Kitap ehli elçilerin arasının kesildiği sırada size gerçekleri açıklıyan Elçimiz muhakkak size geldi bir müjdeleyici ve ne de bir uyarıcı bize gelmedi demeyesiniz işte size müjdeleyici ve uyarıcı geldi Allah her şeye kadirdir
-**(20)** 
-**(21)** 
-**(22)** 
+**(20)** ve hani Musa kavmine demişti kavmim Allah’ın size olan ni’metini hatırlayın zira (O) aranızda peygamberler var etti ve sizi krallar yaptı ve dünyalarda hiç kimseye vermediği şeyleri size verdi
+**(21)** kavmim Kutsal toprağa girin ki Allah’ın size yaz(ıp nasibet)diği arkanıza dönmeyin yoksa kaybedenlere dönersiniz
+**(22)** dediler ki Musa şüphesiz orada zorba bir millet vardır ve oradan onlar çıkıncaya kadar şüphesiz biz oraya girmeyiz 
 **(23)** 
 **(24)** 
 **(25)** 
