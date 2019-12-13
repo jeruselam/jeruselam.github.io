@@ -34,10 +34,10 @@ tag:
 **(21)** kavmim Kutsal toprağa girin ki Allah’ın size yaz(ıp nasibet)diği arkanıza dönmeyin yoksa kaybedenlere dönersiniz
 **(22)** dediler ki Musa şüphesiz orada zorba bir millet vardır ve oradan onlar çıkıncaya kadar şüphesiz biz oraya girmeyiz 
 **(23)** kendilerine Allah’ın ni’met verdiği korkanlar(dan), [o] kimselerden iki adam dedi ki onların üzerine kapıdan girin eğer girerseniz muhakkak ki siz galib gelirsiniz ve eğer inanıyor iseniz Allah’a dayanın 
-**(24)** 
-**(25)** 
-**(26)** 
-**(27)** 
+**(24)** dediler ki Musa şüphesiz onlar orada olduğu sürece biz asla oraya girmeyiz sen ve Rabbin gidin savaşın şüphesiz biz burada oturuyoruz
+**(25)** Ya Rabbi dedi elbette ben kendimden ve kardeşimden başkasına malik değilim aramızı ve yoldan çıkmış toplumun arasını ayır 
+**(26)** (Allah) buyurdu ki şüphesiz orası onlara kırk yıl yasaklandı o yerde şaşkın şaşkın dolaşacaklar yoldan çıkmış toplum üzerine sen üzülme 
+**(27)** gerçek olarak iki Adem oğlunun haberini onlara oku hani birer kurban sunmuşlardı birinden kabul edilmiş ötekinden kabul edilmemişti seni öldüreceğim demişti sadece Allah korunanlardan kabul eder dedi
 **(28)** 
 **(29)** 
 **(30)** 
