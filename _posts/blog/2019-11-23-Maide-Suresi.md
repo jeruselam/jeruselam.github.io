@@ -39,10 +39,10 @@ tag:
 **(26)** (Allah) buyurdu ki şüphesiz orası onlara kırk yıl yasaklandı o yerde şaşkın şaşkın dolaşacaklar yoldan çıkmış toplum üzerine sen üzülme 
 **(27)** gerçek olarak iki Adem oğlunun haberini onlara oku hani birer kurban sunmuşlardı birinden kabul edilmiş ötekinden kabul edilmemişti seni öldüreceğim demişti sadece Allah korunanlardan kabul eder dedi
 **(28)** andolsun eğer sen bana elini beni öldürmek için uzatırsan ben seni öldürmek için elimi sana uzatmam çünkü ben alemlerin Rabbi Allah’tan korkarım 
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
+**(29)** ben isterim ki sen benim günahımı ve kendi günahını yüklenip ateş halkından olasın ve zalimlerin cezası budur 
+**(30)** onu nefsi kardeşini öldürmeye çağırdı ve onu öldürdü böylece ziyana uğrayanlardan oldu
+**(31)** derken Allah kardeşinin cesedini nasıl gömeceğini ona göstermek için yeri eşeleyen bir karga gönderdi yazık bana dedi ben kardeşimin cesedini gömmekten şu karga gibi olmaya aciz miyim ve pişman olanlardan oldu
+**(32)** işte bu sebeple İsrail oğullarına üzerine yazdık şüphesiz kim bir cana karşılık ya da yeryüzünde bozgunculuğa karşı olmaksızın bir canı öldürürse sanki bütün insanları öldürmüş gibidir ve kim de onu yaşatırsa bütün insanları yaşatmış gibi olur ve andolsun onlara elçilerimiz açık deliller getirdiler muhakkak onlardan çoğu bundan sonra da yeryüzünde israf etmektedirler
 **(33)** 
 **(34)** 
 **(35)** 
