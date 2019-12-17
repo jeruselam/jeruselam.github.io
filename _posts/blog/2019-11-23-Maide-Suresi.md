@@ -42,15 +42,15 @@ tag:
 **(29)** ben isterim ki sen benim günahımı ve kendi günahını yüklenip ateş halkından olasın ve zalimlerin cezası budur 
 **(30)** onu nefsi kardeşini öldürmeye çağırdı ve onu öldürdü böylece ziyana uğrayanlardan oldu
 **(31)** derken Allah kardeşinin cesedini nasıl gömeceğini ona göstermek için yeri eşeleyen bir karga gönderdi yazık bana dedi ben kardeşimin cesedini gömmekten şu karga gibi olmaya aciz miyim ve pişman olanlardan oldu
-**(32)** işte bu sebeple İsrail oğullarına üzerine yazdık şüphesiz kim bir cana karşılık ya da yeryüzünde bozgunculuğa karşı olmaksızın bir canı öldürürse sanki bütün insanları öldürmüş gibidir ve kim de onu yaşatırsa bütün insanları yaşatmış gibi olur ve andolsun onlara elçilerimiz açık deliller getirdiler muhakkak onlardan çoğu bundan sonra da yeryüzünde israf etmektedirler
-**(33)** 
-**(34)** 
-**(35)** 
-**(36)** 
-**(37)** 
-**(38)** 
-**(39)** 
-**(40)** 
+**(32)** işte bu sebeple İsrail oğullarına [onların] üzerine yazdık şüphesiz kim bir cana karşılık ya da yeryüzünde bozgunculuğa karşı olmaksızın bir canı öldürürse sanki bütün insanları öldürmüş gibidir ve kim de onu yaşatırsa bütün insanları yaşatmış gibi olur ve andolsun onlara elçilerimiz açık deliller getirdiler muhakkak onlardan çoğu bundan sonra da yeryüzünde israf etmektedirler
+**(33)** şüphesiz Allah ve elçisiyle savaşanların ve yeryüzünde bozgunculuk yapmağa çalışanların cezası öldürülmeleri veya asılmaları yada ellerinin ve ayaklarının çapraz kesilmesi veya bulundukları yerden sürülmeleridir bu onlar için dünyada bir rezilliktir onlara Âhirette ise büyük bir azab vardır
+**(34)** onları ele geçirmenizden önce tevbe eden(ler)  [o] kimseler hariç bilin ki muhakkak Allah bağışlayandır esirgeyendir
+**(35)** ey inanan(lar), [imanlı] kimseler Allah’tan korkun ve O’na [vesile] yol arayın ve O’nun yolunda cihadedin umulur ki kurtuluşa erersiniz
+**(36)** şüphesiz inkar eden(ler), [kafir] kimseler eğer şüphesiz yeryüzünde olanların hepsi ve onunla beraber onun bir katı daha kendilerinin olsa kıyamet gününün azabına karşılık onu fidye verseler kendilerinden kabul edilmez ve onlar için acıklı bir azab vardır
+**(37)** ateşten çıkmak isterler ve oradan onlar çıkacak değillerdir ve onlar için sürekli bir azab vardır
+**(38)** ve yaptıklarına karşılık Allah'tan ibret verici bir ceza olarak hırsızlık eden erkeğin ve hırsızlık eden kadının ellerini kesin ve Allah [Azīz],[Hakīm] daima üstündür, hüküm ve hikmet sahibidir
+**(39)** yaptığı haksızlıktan sonra kim tevbe eder ve uslanırsa şüphesiz Allah onun tevbesini kabul eder şüphesiz Allah [Ğafūr],[Rahîm] bağışlayan acıyandır
+**(40)** bilmez misin ki şüphesiz göklerin ve yerin mülkü Allah’a aittir dilediği kimseye azabeder ve dilediği kimseyi bağışlar Allah her şey üzerine kadirdir
 **(41)** 
 **(42)** 
 **(43)** 
