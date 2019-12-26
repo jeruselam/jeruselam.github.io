@@ -56,7 +56,7 @@ tag:
 **(43)** ve sonra Allah’ın hükmü içinde bulunan Tevrat yanlarında dururken nasıl seni hakem yapıyorlar sonra da ondan dönüyorlar onlar inanıyor değillerdir
 **(44)** gerçekten Tevrat’ı biz indirdik onda yol gösterme ve nur vardır peygamberler onunla hüküm verirlerdi öyle ki İslam olmuş kimselere yahudi(lere) ve Rabbanilere ve Allah’ın Kitabını korumakla görevlendirildiklerinden dolayı alimlere, onun üzerine şahitler idiler insanlardan korkmayın benden korkun ve benim ayetlerimi azıcık bir paraya satmayın ve kim Allah’ın indirdiği ile hükmetmezse işte onlar kafirlerdir
 **(45)** ve onda onlara mukakkak cana can ve göze göz ve buruna burun ve kulağa kulak ve dişe diş ve yaralara kısas  yazdık kim bunu bağışlarsa o kendisi için keffaret olur ve Allah’ın indirdiği ile kim hükmetmezse işte onlar zalimlerdir
-**(46)** 
+**(46)** ve ellerinde olan Tevrat’ı doğrulayıcı olarak Meryem oğlu Îsa’yı onların ardından üzerine gönderdik ve ona  korunanlar için öğüt ve yol gösterici ve ellerinde olan Tevrat’ı doğrulayan ve içinde nur ve yol gösterme bulunan İncil’i verdik
 **(47)** 
 **(48)** 
 **(49)** 
