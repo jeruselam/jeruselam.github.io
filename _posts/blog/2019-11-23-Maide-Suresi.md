@@ -51,11 +51,11 @@ tag:
 **(38)** ve yaptıklarına karşılık Allah'tan ibret verici bir ceza olarak hırsızlık eden erkeğin ve hırsızlık eden kadının ellerini kesin ve Allah [Azīz],[Hakīm] daima üstündür, hüküm ve hikmet sahibidir
 **(39)** yaptığı haksızlıktan sonra kim tevbe eder ve uslanırsa şüphesiz Allah onun tevbesini kabul eder şüphesiz Allah [Ğafūr],[Rahîm] bağışlayan acıyandır
 **(40)** bilmez misin ki şüphesiz göklerin ve yerin mülkü Allah’a aittir dilediği kimseye azabeder ve dilediği kimseyi bağışlar Allah her şey üzerine kadirdir
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
-**(45)** 
+**(41)** ey [Rasul] Elçi küfürde yarış eden(ler) [birbirleriyle yarışan] kimseler seni üzmesin onlar ki kalbleri inanmamış iken ağızlariyle inandık derler ve yahudi(ler) arasında olanlar yalana kulak verirler sana gelmemiş olan başka bir kavme kulak verirler onlar bazısının yerlerinden kelimeleri kaydırırlar eğer bu size verilirse alın ve eğer verilmezse sakının ve Allah birini şaşırtmak isterse Allah’a karşı sen onun için hiçbir şey yapamazsın o kimseler ki Allah kalblerini temizlemesini istememiştir onlar için dünyada rezillik vardır ve onlar için ahirette de büyük bir azab vardır
+**(42)** yalana kulak verirler haram yerler eğer sana gelirlerse aralarında hüküm ver yada onlardan yüz çevir eğer onlardan yüz çevirirsen asla sana hiçbir zarar veremezler ve eğer hüküm verirsen adaletle aralarında hüküm ver şüphesiz Allah adalet yapanları sever
+**(43)** ve sonra Allah’ın hükmü içinde bulunan Tevrat yanlarında dururken nasıl seni hakem yapıyorlar sonra da ondan dönüyorlar onlar inanıyor değillerdir
+**(44)** gerçekten Tevrat’ı biz indirdik onda yol gösterme ve nur vardır peygamberler onunla hüküm verirlerdi öyle ki İslam olmuş kimselere yahudi(lere) ve Rabbanilere ve Allah’ın Kitabını korumakla görevlendirildiklerinden dolayı alimlere, onun üzerine şahitler idiler insanlardan korkmayın benden korkun ve benim ayetlerimi azıcık bir paraya satmayın ve kim Allah’ın indirdiği ile hükmetmezse işte onlar kafirlerdir
+**(45)** ve onda onlara mukakkak cana can ve göze göz ve buruna burun ve kulağa kulak ve dişe diş ve yaralara kısas  yazdık kim bunu bağışlarsa o kendisi için keffaret olur ve Allah’ın indirdiği ile kim hükmetmezse işte onlar zalimlerdir
 **(46)** 
 **(47)** 
 **(48)** 
