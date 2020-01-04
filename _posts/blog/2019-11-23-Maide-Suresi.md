@@ -57,16 +57,16 @@ tag:
 **(44)** gerçekten Tevrat’ı biz indirdik onda yol gösterme ve nur vardır peygamberler onunla hüküm verirlerdi öyle ki İslam olmuş kimselere yahudi(lere) ve Rabbanilere ve Allah’ın Kitabını korumakla görevlendirildiklerinden dolayı alimlere, onun üzerine şahitler idiler insanlardan korkmayın benden korkun ve benim ayetlerimi azıcık bir paraya satmayın ve kim Allah’ın indirdiği ile hükmetmezse işte onlar kafirlerdir
 **(45)** ve onda onlara mukakkak cana can ve göze göz ve buruna burun ve kulağa kulak ve dişe diş ve yaralara kısas  yazdık kim bunu bağışlarsa o kendisi için keffaret olur ve Allah’ın indirdiği ile kim hükmetmezse işte onlar zalimlerdir
 **(46)** ve ellerinde olan Tevrat’ı doğrulayıcı olarak Meryem oğlu Îsa’yı onların ardından üzerine gönderdik ve ona  korunanlar için öğüt ve yol gösterici ve ellerinde olan Tevrat’ı doğrulayan ve içinde nur ve yol gösterme bulunan İncil’i verdik
-**(47)** 
-**(48)** 
-**(49)** 
-**(50)** 
+**(47)** İncgerçekleil sahipleri onda Allah’ın indirdiği ile hükmetsinler ve kim Allah’ın indirdiği ile hükmetmezse işte onlar fasıklardır
+**(48)** ve gerçekle ellerinde bulunan Kitabı doğrulayıcı ve onu kollayıp koruyucu olarak sana Kitabı indirdik, Allah’ın indirdiği ile onların aralarında artık hükmet ve 	sana gelen gerçek(ten ayrılıp) onların keyiflerin uyma, sizden her biriniz için bir şeri’at ve bir yol belirledik ve eğer Allah isteseydi hepinizi bir tek ümmet yapardı fakat size verdiği ile sizi sınamak istedi öyleyse hayır işlerine koşun hepinizin dönüşü Allah’adır onda ayrılığa düşmüş olduğunuz şeyleri O size haber verecektir
+**(49)** ve Allah’ın indirdiği ile aralarında hükmet onların keyiflerine uyma ve eğer sana dönerlerse onlardan Allah’ın indirdiği şeylerin bir kısmından seni şaşırtmalarından sakın bil ki şüphesiz Allah bazı günahları yüzünden onları felakete uğratmak istiyor ve şüphesiz insanlardan çoğu yoldan çıkmışlardır
+**(50)** cahiliyye hükmünü mü? arıyorlar iyi bilen bir toplum için Allah'tan daha güzel hüküm veren kim olabilir?
 **(51)** 
 **(52)** 
 **(53)** 
 **(54)** 
 **(55)** 
-**(56)** güzel 
+**(56)**  
 **(57)** 
 **(58)** 
 **(59)** 
