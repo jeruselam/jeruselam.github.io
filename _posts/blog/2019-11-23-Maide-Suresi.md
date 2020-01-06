@@ -61,8 +61,8 @@ tag:
 **(48)** ve gerçekle ellerinde bulunan Kitabı doğrulayıcı ve onu kollayıp koruyucu olarak sana Kitabı indirdik, Allah’ın indirdiği ile onların aralarında artık hükmet ve 	sana gelen gerçek(ten ayrılıp) onların keyiflerin uyma, sizden her biriniz için bir şeri’at ve bir yol belirledik ve eğer Allah isteseydi hepinizi bir tek ümmet yapardı fakat size verdiği ile sizi sınamak istedi öyleyse hayır işlerine koşun hepinizin dönüşü Allah’adır onda ayrılığa düşmüş olduğunuz şeyleri O size haber verecektir
 **(49)** ve Allah’ın indirdiği ile aralarında hükmet onların keyiflerine uyma ve eğer sana dönerlerse onlardan Allah’ın indirdiği şeylerin bir kısmından seni şaşırtmalarından sakın bil ki şüphesiz Allah bazı günahları yüzünden onları felakete uğratmak istiyor ve şüphesiz insanlardan çoğu yoldan çıkmışlardır
 **(50)** cahiliyye hükmünü mü? arıyorlar iyi bilen bir toplum için Allah'tan daha güzel hüküm veren kim olabilir?
-**(51)** 
-**(52)** 
+**(51)** ey inanan(lar) [imanlı] kimseler yahudileri ve hıristiyanları [emir sahibi] veliler edinmeyin onların bır kısmı bir kısmının velileridir ve sizden kim onları kendine veli yaparsa mukakkak o onlardandır şüphesiz Allah, zalim toplumu doğru yola iletmez
+**(52)** bize bir felaket gelmesinden korkuyoruz diyerek kalblerinde hastalık bulunanların onların arasına koştuklarını görürsün belki Allah fetih ya da kendi katından bir iş [emir] getirir de onlar nefisleri içinde gizledikleri şeyler üzerine pişmanlık [duyar] olurlar
 **(53)** 
 **(54)** 
 **(55)** 
