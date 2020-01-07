@@ -62,11 +62,11 @@ tag:
 **(49)** ve Allah’ın indirdiği ile aralarında hükmet onların keyiflerine uyma ve eğer sana dönerlerse onlardan Allah’ın indirdiği şeylerin bir kısmından seni şaşırtmalarından sakın bil ki şüphesiz Allah bazı günahları yüzünden onları felakete uğratmak istiyor ve şüphesiz insanlardan çoğu yoldan çıkmışlardır
 **(50)** cahiliyye hükmünü mü? arıyorlar iyi bilen bir toplum için Allah'tan daha güzel hüküm veren kim olabilir?
 **(51)** ey inanan(lar) [imanlı] kimseler yahudileri ve hıristiyanları [emir sahibi] veliler edinmeyin onların bır kısmı bir kısmının velileridir ve sizden kim onları kendine veli yaparsa mukakkak o onlardandır şüphesiz Allah, zalim toplumu doğru yola iletmez
-**(52)** bize bir felaket gelmesinden korkuyoruz diyerek kalblerinde hastalık bulunanların onların arasına koştuklarını görürsün belki Allah fetih ya da kendi katından bir iş [emir] getirir de onlar nefisleri içinde gizledikleri şeyler üzerine pişmanlık [duyar] olurlar
-**(53)** 
-**(54)** 
-**(55)** 
-**(56)**  
+**(52)** kalblerinde hastalık bulunanların bize bir felaket gelmesinden korkuyoruz diyerek onların arasına koştuklarını görürsün belki Allah fetih ya da kendi katından bir iş [emir] getirir de onlar nefisleri içinde gizledikleri şeyler üzerine pişmanlık [duyar] olurlar
+**(53)** ve inanan(lar) [imanlı] kimseler bunlar mı o kimseler derler, kesinlikle sizinle beraber olduklarına güçlü yeminleriyle Allah’a yemin edenler bütün çabaları boşa çıkmıştır kaybedenlerden olmuşlardır
+**(54)** ey inanan(lar) [imanlı] kimseler sizden kim dininden dönerse yakında Allah bir toplumu getirecektir onları sever onlar da O’nu severler Mü’minlere karşı alçak gönüllüdürler kafirlere karşı onurlu ve şiddetlidirler Allah yolunda cihad ederler hiçbir kınayıcının kınamasından korkmazlar bu Allah’ın bir lutfudur dilediği kimseye onu verir Allah’(ın) (lutfu) geniştir [Vasi], [Alim] bilendir
+**(55)** ancak sizin veliniz Allah(tır) ve Elçisi(dir) ve mü’minlerdir öyle ki namazlarını kılan ve zekatlarını veren ve onlar rüku’a varan
+**(56)** ve kim Allah’ı ve Elçisini ve yalnız mü’minleri [imanlı] kimseleri dost tutarsa Allah’ın taraftarlarıdır galib gelecek olanlar onlardır
 **(57)** 
 **(58)** 
 **(59)** 
