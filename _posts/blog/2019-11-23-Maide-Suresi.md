@@ -65,11 +65,11 @@ tag:
 **(52)** kalblerinde hastalık bulunanların bize bir felaket gelmesinden korkuyoruz diyerek onların arasına koştuklarını görürsün belki Allah fetih ya da kendi katından bir iş [emir] getirir de onlar nefisleri içinde gizledikleri şeyler üzerine pişmanlık [duyar] olurlar
 **(53)** ve inanan(lar) [imanlı] kimseler bunlar mı o kimseler derler, kesinlikle sizinle beraber olduklarına güçlü yeminleriyle Allah’a yemin edenler bütün çabaları boşa çıkmıştır kaybedenlerden olmuşlardır
 **(54)** ey inanan(lar) [imanlı] kimseler sizden kim dininden dönerse yakında Allah bir toplumu getirecektir onları sever onlar da O’nu severler Mü’minlere karşı alçak gönüllüdürler kafirlere karşı onurlu ve şiddetlidirler Allah yolunda cihad ederler hiçbir kınayıcının kınamasından korkmazlar bu Allah’ın bir lutfudur dilediği kimseye onu verir Allah’(ın) (lutfu) geniştir [Vasi], [Alim] bilendir
-**(55)** ancak sizin veliniz Allah(tır) ve Elçisi(dir) ve mü’minlerdir öyle ki namazlarını kılan ve zekatlarını veren ve onlar rüku’a varan
+**(55)** ancak sizin veliniz Allah(tır) ve Elçisi(dir) ve namazlarını kılan ve zekatlarını veren ve öyle ki onlar rüku’a varan mü’minlerdir
 **(56)** ve kim Allah’ı ve Elçisini ve yalnız mü’minleri [imanlı] kimseleri dost tutarsa Allah’ın taraftarlarıdır galib gelecek olanlar onlardır
-**(57)** 
-**(58)** 
-**(59)** 
+**(57)** ey inanan(lar) [imanlı] kimseler sizden önce Kitap verilenler(den) [kitap ehli] kimselerden dininizi eğlence ve oyun edinen(leri) [büyüleyen] kimseleri dost edinmeyin ve eğer inanıyor iseniz Allah’tan korkun
+**(58)** ve namaza çağırıldığınız zaman onu eğlence ve oyun yerine koydular işte bu düşüncesiz bir topluluk  oldukları içindir
+**(59)** de ki Kitap ehli sadece bizden önce indirilen şeye ve bize indirilene ve Allah’a iman ediyoruz diye (mi?) bizden hoşlanmıyorsunuz oysa sizin çoğunuz yoldan çıkmıştır [fasıktır]
 **(60)** 
 **(61)** 
 **(62)** 
