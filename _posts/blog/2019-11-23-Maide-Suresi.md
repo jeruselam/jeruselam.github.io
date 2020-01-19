@@ -70,16 +70,16 @@ tag:
 **(57)** ey inanan(lar) [imanlı] kimseler sizden önce Kitap verilenler(den) [kitap ehli] kimselerden dininizi eğlence ve oyun edinen(leri) [büyüleyen] kimseleri dost edinmeyin ve eğer inanıyor iseniz Allah’tan korkun
 **(58)** ve namaza çağırıldığınız zaman onu eğlence ve oyun yerine koydular işte bu düşüncesiz bir topluluk  oldukları içindir
 **(59)** de ki Kitap ehli sadece bizden önce indirilen şeye ve bize indirilene ve Allah’a iman ediyoruz diye (mi?) bizden hoşlanmıyorsunuz oysa sizin çoğunuz yoldan çıkmıştır [fasıktır]
-**(60)** 
-**(61)** 
-**(62)** 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
+**(60)** de ki Allah katında cezası bundan daha kötüsünü size söyleyeyim mi? Allah kim(ler)e la’net etmişse ve onlara gazab etmişse ve kimlerden maymunlar ve domuzlar ve Tâğût’a [batıla] tapanlar yapmışsa işte onların yeri daha kötüdür ve düz yoldan daha çok sapmışlardır
+**(61)** ve size geldikleri zaman derler ki inandık oysa muhakkak küfürle girmişlerdir yine onlar muhakkak onunla çıkmışlardır gizliyor oldukları şeyleri Allah daha iyi bilir
+**(62)** ve onlardan çoğunun günahta ve düşmanlıkta ve haram yemede (birbirleriyle) yarıştıklarını görürsün yapmakta oldukları şey ne kötüdür
+**(63)** Rabbanilerin ve hahamların onların günah sözlerini ve haram yemelerini menetmeleri gerekmez miydi?yapmakta oldukları şey ne kötüdür
+**(64)** ve yahudiler Allah’ın eli bağlıdır dediler kendi elleri bağlandı ve söylediklerinden ötürü la’netlendiler hayır O’nun iki eli de açıktır nasıl diliyorsa verir ve onların çoğunun Rabbinden sana indirilen şeye azgınlığını ve küfrünü andolsun artıracaktır kıyamet gününe kadar biz onların aralarına düşmanlık ve kin atmışızdır ne zaman savaş için bir ateş yakmışlarsa Allah onu söndürmüştür ve yeryüzünde bozgunculuğa koşarlar Allah da bozguncuları sevmez
+**(65)** eğer ehli Kitap inansalardı ve korunsalardı onların	kötülüklerini örterdik ve onları ni’meti bol cennetlere sokardık
+**(66)** ve eğer onlar Tevrat’ı ve İncil’i ve ne ki Rablerinden kendilerine indirildi gereğince uygulasalardı muhakkak ki üstlerinden ve ayaklarının altından yerlerdi içlerinde tutumlu bir ümmet vardır ama onlardan çoğu ne kötü işler yapıyorlar
+**(67)** ey Elçi Rabbinden sana indirilen şeyi duyur ve eğer bunu yapmazsan O’nun mesajını duyurmamış olursun Allah seni insanlardan korur doğrusu Allah kafirler toplumunu yola iletmez
+**(68)** de ki Kitap ehli siz Rabbi’nizden size indirilen  şeyi ve İncil’i ve Tevrat’ı uygulayıncaya kadar (esas) bir şey üzerinde değilsiniz ve Rabbinden sana indirilen şey onlardan çoğunun azgınlık ve inkarını artıracaktır sen o kafirler toplumu için üzülme
+**(69)** şüphesiz Allah’a ve ahiret gününe inanan inanan(lar), [imanlı] kimseler ve yahudiler(den) ve sabiiler(den) kimseler ve hıristiyanlar(dan) kimseler ve iyi işler yapanlara onlara korku yoktur ve onlara üzüntü yoktur
 **(70)** 
 **(71)** 
 **(72)** 
