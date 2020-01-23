@@ -79,13 +79,13 @@ tag:
 **(66)** ve eğer onlar Tevrat’ı ve İncil’i ve ne ki Rablerinden kendilerine indirildi gereğince uygulasalardı muhakkak ki üstlerinden ve ayaklarının altından yerlerdi içlerinde tutumlu bir ümmet vardır ama onlardan çoğu ne kötü işler yapıyorlar
 **(67)** ey Elçi Rabbinden sana indirilen şeyi duyur ve eğer bunu yapmazsan O’nun mesajını duyurmamış olursun Allah seni insanlardan korur doğrusu Allah kafirler toplumunu yola iletmez
 **(68)** de ki Kitap ehli siz Rabbi’nizden size indirilen  şeyi ve İncil’i ve Tevrat’ı uygulayıncaya kadar (esas) bir şey üzerinde değilsiniz ve Rabbinden sana indirilen şey onlardan çoğunun azgınlık ve inkarını artıracaktır sen o kafirler toplumu için üzülme
-**(69)** şüphesiz Allah’a ve ahiret gününe inanan inanan(lar), [imanlı] kimseler ve yahudiler(den) ve sabiiler(den) kimseler ve hıristiyanlar(dan) kimseler ve iyi işler yapanlara onlara korku yoktur ve onlara üzüntü yoktur
-**(70)** 
-**(71)** 
-**(72)** 
-**(73)** 
-**(74)** 
-**(75)** 
+**(69)** şüphesiz Allah’a ve ahiret gününe inanan [imanlı] kimseler, inanan(lar) ve yahudiler(den) ve sabiiler(den) kimseler ve hıristiyanlar(dan) kimseler ve iyi işler yapanlara onlara korku yoktur ve onlara üzüntü yoktur
+**(70)** andolsun biz İsrail oğullarından söz almıştık ve onlara elçiler göndermiştik onlara ne zaman bir elçi canlarının istemediği bir şey getirdiyse bir kısmını yalanladılar ve bir kısmını da öldürüyorlardı
+**(71)** ve bir fitne olmayacak sandılar kör oldular ve sağır kesildiler sonra Allah onların tevbesini kabul etti sonra yine onlardan çokları kör ve sağır kesildiler ne ki  yapıyorlar Allah görüyor
+**(72)** andolsun Allah o Meryem oğlu Mesih’tir ancak diyen(ler) [o] kimseler kafir olmuşlardır halbuki Mesih demişti ki İsrail oğulları benim Rabbim ve sizin Rabbiniz olan Allah’a kulluk edin zira kim Allah’a ortak koşarsa muhakkak ki Allah cenneti ona haram etmiştir ve onun varacağı yer ateştir ve zalimlerin hiç yardımcıları yoktur
+**(73)** şüphesiz Allah üçün üçüncüsüdür diyen(ler) elbette kafir olmuşlardır oysa bir olan ilahtan başka hiçbir ilah yoktur eğer dedikleri şeylerden vazgeçmezlerse elbette onlardan inkar eden(lere) [o] kimselere acıklı bir azab dokunacaktır 
+**(74)** Allah’a hala tevbe etmiyorlar mı? O’ndan af dilemiyorlar mı? Allah [ğafūrun raHīmun] bağışlayandır esirgeyendir
+**(75)** Meryem oğlu Mesih değildir ancak bir [rasūl] elçidir muhakkak ondan önce de elçiler gelip geçmiştir ve annesi de dosdoğruydu ikisi de yemek yerlerdi onlara ayetleri bak nasıl açıklıyoruz sonra bak nasıl çevriliyorlar
 **(76)** 
 **(77)** 
 **(78)** 
