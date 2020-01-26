@@ -90,10 +90,10 @@ tag:
 **(77)** de ki Kitap ehli haksız yere dininizde aşırılığa dalmayın ve önceden kesin olarak sapmış ve birçoğunu da saptırmış ve yolun doğrusundan şaşmış bir milletin keyiflerine uymayın
 **(78)** Meryem oğlu Îsa ve Davud dili ile İsrail oğullarından inkar eden kimselere la’net edilmiştir bu isyan etmeleri sebebiyledir ve saldırmaları (sebebiyledir)
 **(79)** yaptıkları kötülükten vazgeçmiyor idiler ne kötü işler yapıyor idiler
-**(80)** onlardan çoğunun inkar edenlerle [kâfir] kimselerle dostluk ettiklerini görürsün nefislerinin kendileri için (yapıp) gönderdiği ne kötüdür onlara Allah gazabetmiştir ve onlar azab içinde sürekli kalacaklardır
-**(81)** 
-**(82)** 
-**(83)** 
+**(80)** onlardan çoğunun inkar edenlerle kimselerle dostluk ettiklerini görürsün nefislerinin kendileri için (yapıp) gönderdiği ne kötüdür onlara Allah gazabetmiştir ve onlar azab içinde sürekli kalacaklardır
+**(81)** eğer Allah’a Peygambere ve ona indirilen şeye inanıyor olsalardı onları veli edinmezlerdi ama onlardan çoğu yoldan çıkmışlardır
+**(82)** elbette inanan(lara) [imanlı] kimselere yahudileri ve inkar eden(leri) [kâfir] kimseleri insanlar içerisinde en yaman düşman olarak bulursun ve inanan(lara) [imanlı] kimselere sevgice en yakınları da biz hıristiyanlarız diyenleri bulursun çünkü şüphesiz onların içlerinde keşişler ve rahipler vardır ve onlar büyüklük taslamazlar
+**(83)** ve Elçi’ye indirilen şeyi dinledikleri zaman gerçekleri tanımalarından dolayı gözlerinin yaşla dolup taştığını görürsün derler ki Rabbimiz inandık bizi şahidlerle beraber yaz
 **(84)** 
 **(85)** 
 **(86)** 
