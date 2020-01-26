@@ -86,11 +86,11 @@ tag:
 **(73)** şüphesiz Allah üçün üçüncüsüdür diyen(ler) elbette kafir olmuşlardır oysa bir olan ilahtan başka hiçbir ilah yoktur eğer dedikleri şeylerden vazgeçmezlerse elbette onlardan inkar eden(lere) [o] kimselere acıklı bir azab dokunacaktır 
 **(74)** Allah’a hala tevbe etmiyorlar mı? O’ndan af dilemiyorlar mı? Allah [ğafūrun raHīmun] bağışlayandır esirgeyendir
 **(75)** Meryem oğlu Mesih değildir ancak bir [rasūl] elçidir muhakkak ondan önce de elçiler gelip geçmiştir ve annesi de dosdoğruydu ikisi de yemek yerlerdi onlara ayetleri bak nasıl açıklıyoruz sonra bak nasıl çevriliyorlar
-**(76)** 
-**(77)** 
-**(78)** 
-**(79)** 
-**(80)** 
+**(76)** de ki Allah’ı bırakıp size zarar vermeye ve fayda vermeğe gücü yetmeyen şeylere mi tapıyorsunuz? Allah odur ki [semīǔ ǎlīm] işitendir bilendir
+**(77)** de ki Kitap ehli haksız yere dininizde aşırılığa dalmayın ve önceden kesin olarak sapmış ve birçoğunu da saptırmış ve yolun doğrusundan şaşmış bir milletin keyiflerine uymayın
+**(78)** Meryem oğlu Îsa ve Davud dili ile İsrail oğullarından inkar eden kimselere la’net edilmiştir bu isyan etmeleri sebebiyledir ve saldırmaları (sebebiyledir)
+**(79)** yaptıkları kötülükten vazgeçmiyor idiler ne kötü işler yapıyor idiler
+**(80)** onlardan çoğunun inkar edenlerle [kâfir] kimselerle dostluk ettiklerini görürsün nefislerinin kendileri için (yapıp) gönderdiği ne kötüdür onlara Allah gazabetmiştir ve onlar azab içinde sürekli kalacaklardır
 **(81)** 
 **(82)** 
 **(83)** 
