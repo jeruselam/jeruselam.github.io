@@ -94,10 +94,10 @@ tag:
 **(81)** eğer Allah’a Peygambere ve ona indirilen şeye inanıyor olsalardı onları veli edinmezlerdi ama onlardan çoğu yoldan çıkmışlardır
 **(82)** elbette inanan(lara) [imanlı] kimselere yahudileri ve inkar eden(leri) [kâfir] kimseleri insanlar içerisinde en yaman düşman olarak bulursun ve inanan(lara) [imanlı] kimselere sevgice en yakınları da biz hıristiyanlarız diyenleri bulursun çünkü şüphesiz onların içlerinde keşişler ve rahipler vardır ve onlar büyüklük taslamazlar
 **(83)** ve Elçi’ye indirilen şeyi dinledikleri zaman gerçekleri tanımalarından dolayı gözlerinin yaşla dolup taştığını görürsün derler ki Rabbimiz inandık bizi şahidlerle beraber yaz
-**(84)** 
-**(85)** 
-**(86)** 
-**(87)** 
+**(84)** ve Rabbimizin bizi iyi toplumlar arasına katmasını umarken neden? biz Allah’a ve neden? bize gelen gerçeğe inanmayalım 
+**(85)** Allah onlara sözlerinden dolayı içinde ebedi kalacakları altlarından ırmaklar akan cennetler verdi güzel davrananların mükafatı işte budur
+**(86)** ve inkar eden(ler) [kâfir] kimseler ve ayetlerimizi yalanlayanlar işte onlar cehennem halkıdır
+**(87)** ey inanan(lar) [imanlı] kimseler ne ki Allah size helal kıldı güzel ve temiz şeyleri haram etmeyin ve sınırı aşmayın şüphesiz Allah sınırı aşanları sevmez
 **(88)** 
 **(89)** 
 **(90)** 

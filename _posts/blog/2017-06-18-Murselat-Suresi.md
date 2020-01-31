@@ -22,7 +22,7 @@ tag:
 **(9)** ve gök yarıldığı zaman,
 **(10)** ve dağlar ufalanıp savrulduğu zaman, 
 **(11)** ve elçilere vakit belirlendiği zaman, 
-**(12)** hangisi için? günün ertelenmiştir,
+**(12)** günün hangisi için? ertelenmiştir,
 **(13)** hüküm günü için,
 **(14)** hüküm günü nedir, nereden? bileceksin,
 **(15)** o gün yalanlayanların vay haline.
