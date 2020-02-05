@@ -98,11 +98,11 @@ tag:
 **(85)** Allah onlara sözlerinden dolayı içinde ebedi kalacakları altlarından ırmaklar akan cennetler verdi güzel davrananların mükafatı işte budur
 **(86)** ve inkar eden(ler) [kâfir] kimseler ve ayetlerimizi yalanlayanlar işte onlar cehennem halkıdır
 **(87)** ey inanan(lar) [imanlı] kimseler ne ki Allah size helal kıldı güzel ve temiz şeyleri haram etmeyin ve sınırı aşmayın şüphesiz Allah sınırı aşanları sevmez
-**(88)** 
-**(89)** 
-**(90)** 
-**(91)**
-**(92)** 
+**(88)** ve Allah’ın size helal (ve) temiz olarak verdiği rızıklardan yeyin o Allah’tan korkun o ki siz kendisine inanıyorsunuz
+**(89)** Allah yeminlerinizdeki lağvdan ötürü sizi sorumlu tutmaz fakat bilerek yaptığınız yeminlerden ötürü sizi sorumlu tutar bunun keffareti orta derecesinden ne ki ailenize yediriyorsunuz on fakiri yedirmektir yahut onları giydirmektir ya da bir köleyi hürriyete kavuşturmaktır bulamayan kimse ise üç gün oruç tutsun (yemini) bozduğunuz zaman yeminlerinizin keffareti işte budur ve yeminlerinizi koruyun böylece Allah size ayetlerini açıklıyor umulur ki şükredersiniz
+**(90)** ey inanan(lar) [imanlı] kimseler şarap ve kumar ve dikili taşlar ve şans okları şeytan işi (birer) pisliktir bunlardan kaçının umulur ki kurtuluşa eresiniz
+**(91)** şüphesiz şeytan aranıza şarap ile ve kumar ile düşmanlık ve kin sokmak ve Allah’ı anmaktan ve namazdan sizi alıkoymak istiyor artık siz vazgeçtiniz değil mi?	
+**(92)** ve Allah’a ita’at edin ve Elçi’ye ita’at edin ve sakının eğer dönerseniz bilin ki şüphesiz elçimize düşen açıkça duyurmaktır
 **(93)** 
 **(94)** 
 **(95)** 
