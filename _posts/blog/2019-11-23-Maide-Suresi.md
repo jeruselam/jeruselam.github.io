@@ -103,8 +103,8 @@ tag:
 **(90)** ey inanan(lar) [imanlı] kimseler şarap ve kumar ve dikili taşlar ve şans okları şeytan işi (birer) pisliktir bunlardan kaçının umulur ki kurtuluşa eresiniz
 **(91)** şüphesiz şeytan aranıza şarap ile ve kumar ile düşmanlık ve kin sokmak ve Allah’ı anmaktan ve namazdan sizi alıkoymak istiyor artık siz vazgeçtiniz değil mi?	
 **(92)** ve Allah’a ita’at edin ve Elçi’ye ita’at edin ve sakının eğer dönerseniz bilin ki şüphesiz elçimize düşen açıkça duyurmaktır
-**(93)** 
-**(94)** 
+**(93)** inananlar [imanlı] kimseler üzerine ve iyi işler yapanlara korundukları ve inandıkları ve iyi işler yaptıkları sonra (yine) korundukları ve inandıkları ve yine korundukları ve iyilik ettikleri takdirde bundan böyle yediklerinden ötürü bir günah yoktur Allah güzel davrananları sever
+**(94)** ey inanan(lar) [imanlı] kimseler Allah sizi ellerinizin ve mızraklarınızın erişeceği bir kısım av’la dener Allah gizlide kendisiden kimin korktuğunu bilmek için kim ki bundan sonra saldırıda bulunursa onun için acıklı bir azab vardır
 **(95)** 
 **(96)** 
 **(97)** 
