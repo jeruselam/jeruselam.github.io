@@ -105,16 +105,16 @@ tag:
 **(92)** ve Allah’a ita’at edin ve Elçi’ye ita’at edin ve sakının eğer dönerseniz bilin ki şüphesiz elçimize düşen açıkça duyurmaktır
 **(93)** inananlar [imanlı] kimseler üzerine ve iyi işler yapanlara korundukları ve inandıkları ve iyi işler yaptıkları sonra (yine) korundukları ve inandıkları ve yine korundukları ve iyilik ettikleri takdirde bundan böyle yediklerinden ötürü bir günah yoktur Allah güzel davrananları sever
 **(94)** ey inanan(lar) [imanlı] kimseler Allah sizi ellerinizin ve mızraklarınızın erişeceği bir kısım av’la dener Allah gizlide kendisiden kimin korktuğunu bilmek için kim ki bundan sonra saldırıda bulunursa onun için acıklı bir azab vardır
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
-**(99)** 
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
+**(95)** ey [imanlı] kimseler inanan(lar) av öldürmeyin ve siz ihramlı (iken) ve sizden kasden kim onu öldürürse içinizden adil iki kişinin ona karar vereceği öldürdüğü hayvandan dengi olan cezası vardır bir kurban Ka’be’ye varacak yahut yoksullara yedirme keffareti ya da yaptığı işin vebalini tatması için buna denk oruçtur Allah geçmişte  geçmişte olanı affetmiştir ve kim düşmanlık ederse Allah ondan öc alır Allah daima galiptir intikam sahibidir
+**(96)** size ve yolculara geçimlik olarak deniz avı ve yiyeceği size helal kılındı ve ihramlı olduğunuz sürece size kara avı yasaklandı Allah’tan korkun o ki huzuruna toplanacaksınız
+**(97)** Allah Ka’be’yi Beyt-i Haram’ı insanlar için bir durak kıldı şüphesiz Allah’ın göklerde olanları ve yerde olanları bildiğini ve şüphesiz Allah’ın her şeyi bildiğini böylece anlayasınız diye ve haram ayı ve kurbanı ve tasmalı kurbanlıkları (kıldı)
+**(98)** iyi bilin ki şüphesiz Allah’ın cezası çetindir ve şüphesiz [ğafūrun raHīm] Allah bağışlayandır esirgeyendir
+**(99)** Elçi’nin üzerine düşen sadece duyurmaktır açığa vurduğunuz şeyleri ve gizlediğiniz şeyleri Allah bilir
+**(100)** de ki [pis] murdar ile temiz eşit olmaz ve şayet [pis] murdarın çokluğu hoşuna gitse de o halde korkun sağduyu sahipleri Allah’tan korkun umulur ki kurtuluşa erersiniz
+**(101)** ey inanan(lar) [imanlı] kimseler eğer size açıklandığında hoşunuza gitmeyecek şeyler hakkında sormayın ve eğer Kur’an indirildiği vakit onları sorarsanız size açıklanır Allah onları affetmiştir [ğafūrun Halīm] Allah bağışlayandır bağışlayandır
+**(102)** muhakkak sizden önce gelen bir toplum onları sormuştu sonra onları inkar edenler olmuşlardı
+**(103)** Allah ne "bahîre" ve ne "sâibe" ve ne "vasîle" ve ne "ham" yapmamıştır fakat inkar eden(ler) [kafir] kimseler Allah'a karşı yalan uyduruyorlar ve çokları da akıl erdiremiyorlar
+**(104)** ve onlara Allah'ın indirdiği şeye ve Elçi'ye gelin dendiği zaman derler ki babalarımızı üzerinde bulduğumuz şey bize yeter babaları hiçbir şey bilmeyen ve doğru yolu bulamayan olsa da mı?
+**(105)** ey inanan(lar) [imanlı] kimseler siz kendinize (bakın) siz doğru yolda olduğunuz takdirde sapan kimse size zarar vermez dönüşünüz Allah'adır hepinizin yapmış olduğunuz şeyi O size haber verecektir
 
 ![05Mâide-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")

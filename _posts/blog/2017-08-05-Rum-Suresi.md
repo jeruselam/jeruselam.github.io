@@ -34,7 +34,7 @@ tag:
 **(22)** O’nun ayetlerinden (biri de) göklerin ve yerin yaratılmasıdır ve dillerinizin ve renklerinizin değişik olmasıdır şüphesiz bunda bilenler için ibretler vardır
 **(23)** O’nun ayetlerinden (biri de) geceleyin ve gündüzün uyumanızdır ve O’nun lutfundan aramanızdır şüphesiz bunda işiten bir toplum için ibretler vardır 
 **(24)** O’nun ayetlerinden (biri de) size korku ve umut şimşeği göstermesidir ve gökten bir su indirmesidir ve ölümünden sonra onunla yeri diriltmesidir aklını kullanan bir toplum için bunda ibretler vardır 
-**(25)** O’nun ayetlerinden (biri de) göğün ve yerin O’nun buyruğuyla durmasıdır sonra sizi yerden bir tek da’vetle çağırdığı zaman bir de bakarsınız ki siz çıkıyorsunuzkimseler
+**(25)** O’nun ayetlerinden (biri de) göğün ve yerin O’nun buyruğuyla durmasıdır sonra sizi yerden bir tek da’vetle çağırdığı zaman bir de bakarsınız ki siz çıkıyorsunuz
 **(26)** göklerde ve yerde bulunan kimseler hepsi O’na ita’at etmektedirler
 **(27)** ve O ki yaratmağa başlar sonra onu tekrarlar ve bu O’na daha kolaydır ve göklerde ve yerde en yüce durum O’nundur ve O üstündür hüküm ve hikmet sahibidir
 **(28)** size kendinizden bir benzetmeyle misal verdi, birbirinizden çekindiğiniz gibi onlardan çekindiğiniz sizi rızıklandırdığımız şeylerde sizinle onda eşit olan, sizin için ortaklardan, sizin ellerin(iz)de bulunanlardan(köleler) varmı dır? işte biz böyle aklını kullanan bir toplum için ayetleri açıklıyoruz 
