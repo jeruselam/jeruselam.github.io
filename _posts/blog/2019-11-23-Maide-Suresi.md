@@ -116,5 +116,6 @@ tag:
 **(103)** Allah ne "bahîre" ve ne "sâibe" ve ne "vasîle" ve ne "ham" yapmamıştır fakat inkar eden(ler) [kafir] kimseler Allah'a karşı yalan uyduruyorlar ve çokları da akıl erdiremiyorlar
 **(104)** ve onlara Allah'ın indirdiği şeye ve Elçi'ye gelin dendiği zaman derler ki babalarımızı üzerinde bulduğumuz şey bize yeter babaları hiçbir şey bilmeyen ve doğru yolu bulamayan olsa da mı?
 **(105)** ey inanan(lar) [imanlı] kimseler siz kendinize (bakın) siz doğru yolda olduğunuz takdirde sapan kimse size zarar vermez dönüşünüz Allah'adır hepinizin yapmış olduğunuz şeyi O size haber verecektir
+**(106)** ey inananlar [imanlı] kimseler vasiyyet sırasında ölüm birinize geldiği zaman içinizden adil iki kişi ya da sizden olmayan diğer iki kişi aranızda şahidlik etsin
 
 ![05Mâide-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
