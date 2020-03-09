@@ -121,6 +121,16 @@ tag:
 **(108)** yeminlerinden sonra yeminlerin reddedilmesinden korkmalarına yahut gereği üzerine şahidliği yapmalarına en uygun olan budur Allah’tan [sevgi ve rızasını kaybetmekten] korkun ve iyi dinleyin yoldan çıkan [fasık] topluluğu Allah doğru yola iletmez
 **(109)** Allah Elçileri toplayacağı gün size ne? cevap verildi derler bizim bilgimiz yok derler gizlileri bilen [allâmul guyûb] yalnız sensin sen 
 **(110)** hani Allah demişti ki Meryem oğlu Îsa sana olan ve annene olan ni’metimi hatırla hani seni Ruhl-Kudüs ile desteklemiştim beşikte  [mehdi] iken ve  [40-60 yaşlarında] yetişkin iken insanlarla konuşuyordun sana Kitabı ve hikmeti [söz ve amelde isabeti] ve Tevrat’ı ve İncil’i öğrettim hani çamurdan kuş şeklinde bir şey benim iznimle yaratıyor içine üflüyordun benim iznimle kuş oluyordu ve anadan doğma körü ve alacalıyı benim iznimle iyileştiriyordun ve hani ölüleri benim iznimle çıkarıyordun ve hani sen onlara açık deliller getirdiğin zaman senden İsrail oğullarını savmıştım içlerinden inkar eden(ler) [kafir] kimseler demişti bu apaçık bir büyüden [sihirden] başka bir şey değil
+**(111)** ve hani Havarilere bana ve elçime inanmalarını vahyetmiştim inandık demişlerdi bizim müslümanlar olduğumuza şahid ol 
+**(112)** hani Havariler demişlerdi ki Meryem oğlu Îsa Rabbinin bize gökten bir sofra indirmeye gücü yeter mi? (Îsa) eğer inanıyor [mu'min] iseniz Allah’tan korkun dedi
+**(113)** ondan yemeyi ve kalblerimizin iyice yatışmasını ve kesinlikle bize doğru söylediğini bilmeyi ve buna bizzat şahit olmayı istiyoruz dediler 
+**(114)** Meryem oğlu Îsa dedi Allah’ım Rabbimiz bizim üzerimize gökten bir sofra indir bizim için bir bayram olsun öncemiz için ve sonramız için ve Senden bir mu’cize (olsun) bizi rızıklandır ve sen rızık verenlerin en hayırlısısın
+**(115)**
+**(116)**
+**(117)**
+**(118)**
+**(119)**
+**(120)**
 
 
 ![05Mâide-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
