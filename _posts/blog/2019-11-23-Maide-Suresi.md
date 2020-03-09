@@ -118,7 +118,7 @@ tag:
 **(105)** ey inanan(lar) [imanlı] kimseler siz kendinize (bakın) siz doğru yolda olduğunuz takdirde sapan kimse size zarar vermez dönüşünüz Allah'adır hepinizin yapmış olduğunuz şeyi O size haber verecektir
 **(106)** ey inananlar [imanlı] kimseler vasiyyet sırasında ölüm birinize geldiği zaman içinizden adil iki kişi ya da sizden olmayan diğer iki kişi aranızda şahidlik etsin eğer siz yeryüzünde yolculuk ederken ve ölüm musibeti başınıza gelmişse namazdan sonra onları tutarsınız eğer kuşkulanırsanız Allah’a yemin etsinler ve eğer akraba da olsa onu (yeminimizi) hiçbir paraya satmayacağız ve Allah’ın şahidliğini gizlemeyeceğiz yoksa biz o zaman elbette günahkar kimselerden oluruz
 **(107)** eğer onların işledikleri bir günah anlaşılırsa onların yerine başka iki kişi geçer onların üzerine kendisine haksızlık edilenlerden daha layık Allah’a yemin ederler; mutlaka bizim şahidliğimiz onların şahidliğinden daha doğrudur biz (hakka) tecavüz etmedik yoksa biz elbette o zaman zalimlerden oluruz
-**(108)** 
+**(108)** yeminlerinden sonra yeminlerin reddedilmesinden korkmalarına yahut gereği üzerine şahidliği yapmalarına en uygun olan budur Allah’tan [sevgi ve rızasını kaybetmekten] korkun ve iyi dinleyin yoldan çıkan [fasık] topluluğu Allah doğru yola iletmez
 **(109)** 
 **(110)** 
 
