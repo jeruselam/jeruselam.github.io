@@ -125,8 +125,8 @@ tag:
 **(112)** hani Havariler demişlerdi ki Meryem oğlu Îsa Rabbinin bize gökten bir sofra indirmeye gücü yeter mi? (Îsa) eğer inanıyor [mu'min] iseniz Allah’tan korkun dedi
 **(113)** ondan yemeyi ve kalblerimizin iyice yatışmasını ve kesinlikle bize doğru söylediğini bilmeyi ve buna bizzat şahit olmayı istiyoruz dediler 
 **(114)** Meryem oğlu Îsa dedi Allah’ım Rabbimiz bizim üzerimize gökten bir sofra indir bizim için bir bayram olsun öncemiz için ve sonramız için ve Senden bir mu’cize (olsun) bizi rızıklandır ve sen rızık verenlerin en hayırlısısın
-**(115)**
-**(116)**
+**(115)** Allah buyurdu ki ben onu sizin üzerinize indireceğim ama sizden ondan sonra kim inkar ederse ben ona dünyalarda hiç kimseye azab etmediğim bir azapla azab ederim 
+**(116)** ve yine Allah demişti ki Meryem oğlu Îsa insanlara sen mi? dedin beni ve annemi Allah’tan başka iki tanrı edinin dedi ki sen yücesin benim için gerçek olmayan bir şeyi söylemek (haddime) değildir eğer demiş olsaydım muhakkak sen bunu bilirdin benim nefsimde olanı sen bilirsin ve ben senin nefsinde olanı bilmem şüphesiz sen sensin gizlileri bilen
 **(117)**
 **(118)**
 **(119)**
