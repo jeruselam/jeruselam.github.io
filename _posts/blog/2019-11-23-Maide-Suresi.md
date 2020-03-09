@@ -127,7 +127,7 @@ tag:
 **(114)** Meryem oğlu Îsa dedi Allah’ım Rabbimiz bizim üzerimize gökten bir sofra indir bizim için bir bayram olsun öncemiz için ve sonramız için ve Senden bir mu’cize (olsun) bizi rızıklandır ve sen rızık verenlerin en hayırlısısın
 **(115)** Allah buyurdu ki ben onu sizin üzerinize indireceğim ama sizden ondan sonra kim inkar ederse ben ona dünyalarda hiç kimseye azab etmediğim bir azapla azab ederim 
 **(116)** ve yine Allah demişti ki Meryem oğlu Îsa insanlara sen mi? dedin beni ve annemi Allah’tan başka iki tanrı edinin dedi ki sen yücesin benim için gerçek olmayan bir şeyi söylemek (haddime) değildir eğer demiş olsaydım muhakkak sen bunu bilirdin benim nefsimde olanı sen bilirsin ve ben senin nefsinde olanı bilmem şüphesiz sen sensin gizlileri bilen
-**(117)**
+**(117)** ben onlara onu bana emrettiğin şeyden başka söylemedim benim Rabbim ve sizin Rabbiniz olan Allah’a kulluk edin onların içinde olduğum sürece onlar üzerine şahid idim fakat sen beni vefat ettirince sen oldun onları gözetleyen sen ve sen her şey üzerine şahitsin
 **(118)**
 **(119)**
 **(120)**
