@@ -119,8 +119,8 @@ tag:
 **(106)** ey inananlar [imanlı] kimseler vasiyyet sırasında ölüm birinize geldiği zaman içinizden adil iki kişi ya da sizden olmayan diğer iki kişi aranızda şahidlik etsin eğer siz yeryüzünde yolculuk ederken ve ölüm musibeti başınıza gelmişse namazdan sonra onları tutarsınız eğer kuşkulanırsanız Allah’a yemin etsinler ve eğer akraba da olsa onu (yeminimizi) hiçbir paraya satmayacağız ve Allah’ın şahidliğini gizlemeyeceğiz yoksa biz o zaman elbette günahkar kimselerden oluruz
 **(107)** eğer onların işledikleri bir günah anlaşılırsa onların yerine başka iki kişi geçer onların üzerine kendisine haksızlık edilenlerden daha layık Allah’a yemin ederler; mutlaka bizim şahidliğimiz onların şahidliğinden daha doğrudur biz (hakka) tecavüz etmedik yoksa biz elbette o zaman zalimlerden oluruz
 **(108)** yeminlerinden sonra yeminlerin reddedilmesinden korkmalarına yahut gereği üzerine şahidliği yapmalarına en uygun olan budur Allah’tan [sevgi ve rızasını kaybetmekten] korkun ve iyi dinleyin yoldan çıkan [fasık] topluluğu Allah doğru yola iletmez
-**(109)** 
-**(110)** 
+**(109)** Allah Elçileri toplayacağı gün size ne? cevap verildi derler bizim bilgimiz yok derler gizlileri bilen [allâmul guyûb] yalnız sensin sen 
+**(110)** hani Allah demişti ki Meryem oğlu Îsa sana olan ve annene olan ni’metimi hatırla hani seni Ruhl-Kudüs ile desteklemiştim beşikte  [mehdi] iken ve  [40-60 yaşlarında] yetişkin iken insanlarla konuşuyordun sana Kitabı ve hikmeti [söz ve amelde isabeti] ve Tevrat’ı ve İncil’i öğrettim hani çamurdan kuş şeklinde bir şey benim iznimle yaratıyor içine üflüyordun benim iznimle kuş oluyordu ve anadan doğma körü ve alacalıyı benim iznimle iyileştiriyordun ve hani ölüleri benim iznimle çıkarıyordun ve hani sen onlara açık deliller getirdiğin zaman senden İsrail oğullarını savmıştım içlerinden inkar eden(ler) [kafir] kimseler demişti bu apaçık bir büyüden [sihirden] başka bir şey değil
 
 
 ![05Mâide-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
