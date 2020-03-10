@@ -128,9 +128,9 @@ tag:
 **(115)** Allah buyurdu ki ben onu sizin üzerinize indireceğim ama sizden ondan sonra kim inkar ederse ben ona dünyalarda hiç kimseye azab etmediğim bir azapla azab ederim 
 **(116)** ve yine Allah demişti ki Meryem oğlu Îsa insanlara sen mi? dedin beni ve annemi Allah’tan başka iki tanrı edinin dedi ki sen yücesin benim için gerçek olmayan bir şeyi söylemek (haddime) değildir eğer demiş olsaydım muhakkak sen bunu bilirdin benim nefsimde olanı sen bilirsin ve ben senin nefsinde olanı bilmem şüphesiz sen sensin gizlileri bilen
 **(117)** ben onlara onu bana emrettiğin şeyden başka söylemedim benim Rabbim ve sizin Rabbiniz olan Allah’a kulluk edin onların içinde olduğum sürece onlar üzerine şahid idim fakat sen beni vefat ettirince sen oldun onları gözetleyen sen ve sen her şey üzerine şahitsin
-**(118)**
-**(119)**
-**(120)**
+**(118)** eğer onlara azabedersen şüphesiz onlar senin kullarındır ve eğer onları bağışlarsan şüphesiz sen yalnız sen [Azīz Hakīm] daima üstünsün hüküm ve hikmet sahibisin
+**(119)** Allah buyurdu bu doğruluklarının sadıklara fayda sağlayacağı gündür onlar için içinde ebediyyen kalacakları altlarından ırmaklar akan cennetler vardır Allah onlardan ebediyyen razı olmuştur onlar da O’ndan razı olmuşlardır büyük başarı işte budur
+**(120)** göklerin ve yerin mülkü ve bunlarda bulunan ne varsa Allah’ındır ve O her şey üzerine kadirdir
 
 
 ![05Mâide-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
