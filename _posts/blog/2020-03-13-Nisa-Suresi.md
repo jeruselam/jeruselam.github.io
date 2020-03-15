@@ -14,8 +14,8 @@ tag:
 **(1)** ey insanlar Rabbinizden korkun o ki sizi bir tek bir nefisten yarattı ve ondan eşini yarattı ve ikisinden birçok erkekler ve kadınlar üretti ve o ki adına birbirinizden dilekte bulunduğunuz Allah’tan ve akrabalık(bağlarını kırmak)tan sakının şüphesiz Allah sizin üzerinizde gözetleyicidir
 **(2)** ve öksüzlere [yetimlere] mallarını verin [habis] pis olanı temiz olanla değiştirmeyin onların mallarını sizin mallarınıza katarak yemeyin çünkü bu büyük bir günahtır
 **(3)** şayet öksüz(kızlar) hakkında adaleti sağlayamıyacağınızdan korkarsanız size helal olan kadınlardan ikişer ve üçer ve dörder alın yine adalet yapamayacağınızdan korkarsanız bir tane (alın) yahut ellerinizin sahip olduğu şeyle (yetinin) haksızlık etmemeniz için en uygun olan budur
-**(4)** 
-**(5)** 
+**(4)** ve bir hak olarak kadınlara mehirlerini verin eğer kendi istekleriyle ondan bir kısmını size bağışlarlarsa iç huzuruyla afiyetle onu yeyin
+**(5)** mallarınızı aklı ermezlere vermeyin ki Allah sizin için bir geçim kaynağı yapmıştır ve onunla onları besleyin ve giydirin ve onlara güzel söz söyleyin
 **(6)** 
 **(7)** 
 **(8)** 
