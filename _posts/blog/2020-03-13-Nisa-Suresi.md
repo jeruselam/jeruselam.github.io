@@ -16,8 +16,8 @@ tag:
 **(3)** şayet öksüz(kızlar) hakkında adaleti sağlayamıyacağınızdan korkarsanız size helal olan kadınlardan ikişer ve üçer ve dörder alın yine adalet yapamayacağınızdan korkarsanız bir tane (alın) yahut ellerinizin sahip olduğu şeyle (yetinin) haksızlık etmemeniz için en uygun olan budur
 **(4)** ve bir hak olarak kadınlara mehirlerini verin eğer kendi istekleriyle ondan bir kısmını size bağışlarlarsa iç huzuruyla afiyetle onu yeyin
 **(5)** mallarınızı aklı ermezlere vermeyin ki Allah sizin için bir geçim kaynağı yapmıştır ve onunla onları besleyin ve giydirin ve onlara güzel söz söyleyin
-**(6)** 
-**(7)** 
+**(6)** nikah (çağına) varıncaya kadar öksüzleri deneyin eğer onlarda bir olgunluk görürseniz mallarını hemen kendilerine verin ve tez elden büyüyüp (geri alacaklar) diye israf ile yemeğe kalkmayın ve zengin olan kimse çekinsin ve yoksul olan kimse de uygun şekilde yesin onlara mallarını geri verdiğiniz zaman da yanlarında şahid bulundurun hesapçı olarak Allah yeter
+**(7)** ana babanın ve akrabanın geriye bıraktıkları şeylerden bir pay erkeklere vardır ve ana babanın ve akrabanın geriye bıraktıkları şeylerden bir pay kadınlara vardır az olandan veya çoğundan ondan bir hisse ayrılmıştır
 **(8)** 
 **(9)** 
 **(10)** 
