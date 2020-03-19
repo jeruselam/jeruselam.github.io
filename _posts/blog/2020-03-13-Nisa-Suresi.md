@@ -18,9 +18,9 @@ tag:
 **(5)** mallarınızı aklı ermezlere vermeyin ki Allah sizin için bir geçim kaynağı yapmıştır ve onunla onları besleyin ve giydirin ve onlara güzel söz söyleyin
 **(6)** nikah (çağına) varıncaya kadar öksüzleri deneyin eğer onlarda bir olgunluk görürseniz mallarını hemen kendilerine verin ve tez elden büyüyüp (geri alacaklar) diye israf ile yemeğe kalkmayın ve zengin olan kimse çekinsin ve yoksul olan kimse de uygun şekilde yesin onlara mallarını geri verdiğiniz zaman da yanlarında şahid bulundurun hesapçı olarak Allah yeter
 **(7)** ana babanın ve akrabanın geriye bıraktıkları şeylerden bir pay erkeklere vardır ve ana babanın ve akrabanın geriye bıraktıkları şeylerden bir pay kadınlara vardır az olandan veya çoğundan ondan bir hisse ayrılmıştır
-**(8)** 
-**(9)** 
-**(10)** 
+**(8)** akrabalar ve öksüzler ve yoksullar (miras) taksim(in)de ne zaman hazır bulunursa ondan onları rızıklandırın ve onlara güzel söz söyleyin
+**(9)** şayet kaygı duyanlar arkalarında güçsüz çocuklar bırakırlarsa onların durumundan çekinsinler Allah’tan korksunlar ve doğru söz söylesinler
+**(10)** şüphesiz zulüm ile öksüzlerin mallarını yiyen(ler) [yiyen] kimseler doğrusu karınlarına ateş yemektedirler ve çılgın bir ateşe gireceklerdir
 **(11)** 
 **(12)** 
 **(13)** 
