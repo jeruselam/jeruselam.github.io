@@ -24,9 +24,9 @@ tag:
 **(11)** Allah size çocuklarınız(ın alacağı miras) hakkında tavsiye eder ne bıraktıysa iki kadının payı kadar erkeğe ikiden fazla kadın iseler eğer üçte ikisi onlarındır ve (çocuk) yalnız bir kadın ise eğer (mirasın) yarısı onundur eğer onun (ölenin) çocuğu varsa bıraktığı mirasta ana babasından her birinin altıda bir hissesi vardır eğer onun çocuğu yok da ve ana babası ona varis oluyorsa anasına üçte bir düşer eğer onun kardeşleri varsa anasının payı altıda birdir (bu hükümler) yapacağı vasiyyetten ya da borcundan sonradır babalarınız ve oğullarınızdan hangisinin fayda bakımından size daha yakın olduğunu bilmezsiniz bunlar Allah tarafından koyulmuş haklardır şüphesiz Allah  [Alim Hakim] bilendir hikmet sahibidir
 **(12)** eğer onların çocukları yoksa eşlerinizin bıraktıkları mirasın yarısı sizindir eğer onların çocukları varsa ondan yapacakları vasiyyetten veya borçtan sonra bıraktıklarının dörtte biri sizindir eğer sizin de çocuğunuz yoksa bıraktığınızın dörtte biri onlarındır eğer sizin çocuğunuz varsa ondan yapacağınız vasiyyet veya borçtan sonra bıraktığınızın sekizde biri onlarındır eğer erkeğin miras bırakan evladı ve ana babası olmayıp veya kadının bir erkek veya bir kızkardeşi [var] ise onlardan her birine altıda bir düşer eğer onlar bundan fazla iseler üçte bire ortaktırlar ondan yapılan vasiyyetten veya borçtan sonradır Allah'tan zarar verici olmayan vasiyyettir[Alim Halim]  Allah  bilendir halimdir
 **(13)** bunlar Allah’ın sınırlarıdır Allah’a ve Elçisine kim ita’at ederse (Allah onu) içinde sürekli kalacakları altlarından ırmaklar akan cennetlere sokar büyük başarı işte budur 
-**(14)** 
-**(15)** 
-**(16)** 
+**(14)** ve kim Allah’a ve Elçisi’ne karşı gelir ve O’nun sınırlarını aşarsa (Allah onu) alçaltıcı bir azab içinde sürekli kalacağı ateşe sokar
+**(15)** ve kadınlarınızdan fuhuş yapanlar kimseler onlara karşı içinizden dört şahid getirin eğer onlar şahidlik ederlerse ölüm o kadınları alıncaya ya da Allah onların yararına bir yol gösterinceye kadar evlerde tutun (dışarı çıkarmayın)
+**(16)** içinizden iki kişi fuhuş yaparsa onlara eziyet edin eğer tevbe eder ve uslanırlarsa artık onlardan vazgeçin çünkü Allah tevbeleri çok kabul edendir çok esirgeyendir
 **(17)** 
 **(18)** 
 **(19)** 
