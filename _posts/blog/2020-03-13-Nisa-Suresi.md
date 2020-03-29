@@ -26,9 +26,9 @@ tag:
 **(13)** bunlar Allah’ın sınırlarıdır Allah’a ve Elçisine kim ita’at ederse (Allah onu) içinde sürekli kalacakları altlarından ırmaklar akan cennetlere sokar büyük başarı işte budur 
 **(14)** ve kim Allah’a ve Elçisi’ne karşı gelir ve O’nun sınırlarını aşarsa (Allah onu) alçaltıcı bir azab içinde sürekli kalacağı ateşe sokar
 **(15)** ve kadınlarınızdan fuhuş yapanlar kimseler onlara karşı içinizden dört şahid getirin eğer onlar şahidlik ederlerse ölüm o kadınları alıncaya ya da Allah onların yararına bir yol gösterinceye kadar evlerde tutun (dışarı çıkarmayın)
-**(16)** içinizden iki kişi fuhuş yaparsa onlara eziyet edin eğer tevbe eder ve uslanırlarsa artık onlardan vazgeçin çünkü Allah tevbeleri çok kabul edendir çok esirgeyendir
-**(17)** 
-**(18)** 
+**(16)** içinizden iki kişi fuhuş yaparsa onlara eziyet edin eğer tevbe eder ve uslanırlarsa artık onlardan vazgeçin çünkü [Tevvab Rahim] Allah tevbeleri çok kabul edendir çok esirgeyendir
+**(17)** şu kimselerin Allah’a göre şüphesiz tevbesi makbuldür cahillikle bir kötülük yaparlar sonra hemen ardından dönerler (tevbe ederler)	işte Allah onların tevbesini kabul eder Allah bilendir hüküm ve hikmet sahibidir
+**(18)** kötülükler yapan(ların) kimselerin tevbesi (geçerli) değildir nihayet ölüm kendilerine gelip çattığı zaman muhakkak ben şimdi tevbe ettim der ve kafir olarak ölenlere [o] kimselerin (değildir) işte onlar için acı bir azab hazırlamışızdır
 **(19)** 
 **(20)** 
 **(21)** 
