@@ -29,9 +29,9 @@ tag:
 **(16)** içinizden iki kişi fuhuş yaparsa onlara eziyet edin eğer tevbe eder ve uslanırlarsa artık onlardan vazgeçin çünkü [Tevvab Rahim] Allah tevbeleri çok kabul edendir çok esirgeyendir
 **(17)** şu kimselerin Allah’a göre şüphesiz tevbesi makbuldür cahillikle bir kötülük yaparlar sonra hemen ardından dönerler (tevbe ederler)	işte Allah onların tevbesini kabul eder Allah bilendir hüküm ve hikmet sahibidir
 **(18)** kötülükler yapan(ların) kimselerin tevbesi (geçerli) değildir nihayet ölüm kendilerine gelip çattığı zaman muhakkak ben şimdi tevbe ettim der ve kafir olarak ölenlere [o] kimselerin (değildir) işte onlar için acı bir azab hazırlamışızdır
-**(19)** ey kimseler inanan(lar) kadınları zorla miras yoluyla almanız size helal değildir edepsizlik yapmaları dışında onlara verdiğiniz şeylerin bir kısmını alıp götürmek için onları sıkıştırmayın ve onlarla iyi geçinin eğer onlardan hoşlanmazsanız bilinki sizin hoşlanmadığınız bir şeye Allah ona çok hayır koymuş olabilir 
-**(20)** 
-**(21)** 
+**(19)** ey [imanlı] kimseler inanan(lar) kadınları zorla miras yoluyla almanız size helal değildir edepsizlik yapmaları dışında onlara verdiğiniz şeylerin bir kısmını alıp götürmek için onları sıkıştırmayın ve onlarla iyi geçinin eğer onlardan hoşlanmazsanız bilinki Allah sizin hoşlanmadığınız bir şeye ona çok hayır koymuş olabilir 
+**(20)** eğer bir eşin yerine başka bir eş almak isterseniz onlardan birine kantarlarca (mal) vermiş olsanız (dahi) ondan hiçbir şeyi (verdiğinizden) geri almayın iftira ederek ve açıkça günaha girerek verdiğinizi alacak mısınız?
+**(21)** ve andolsun bazınız bazınıza geçmiş(içli dışlı olmuş)ken nasıl onu alırsınız ve onlar sizden sağlam te’minat almışlardı
 **(22)** 
 **(23)** 
 **(24)** 
