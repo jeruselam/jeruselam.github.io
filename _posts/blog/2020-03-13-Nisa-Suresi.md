@@ -32,8 +32,8 @@ tag:
 **(19)** ey [imanlı] kimseler inanan(lar) kadınları zorla miras yoluyla almanız size helal değildir edepsizlik yapmaları dışında onlara verdiğiniz şeylerin bir kısmını alıp götürmek için onları sıkıştırmayın ve onlarla iyi geçinin eğer onlardan hoşlanmazsanız bilinki Allah sizin hoşlanmadığınız bir şeye ona çok hayır koymuş olabilir 
 **(20)** eğer bir eşin yerine başka bir eş almak isterseniz onlardan birine kantarlarca (mal) vermiş olsanız (dahi) ondan hiçbir şeyi (verdiğinizden) geri almayın iftira ederek ve açıkça günaha girerek verdiğinizi alacak mısınız?
 **(21)** ve andolsun bazınız bazınıza geçmiş(içli dışlı olmuş)ken nasıl onu alırsınız ve onlar sizden sağlam te’minat almışlardı
-**(22)** 
-**(23)** 
+**(22)** geçmişte olanlar hariç babalarınızın evlendiği kadınlarla artık evlenmeyin çünkü bu edepsizliktir ve (Allah’ın) hışm(ı)dır ve iğrenç bir yoldur
+**(23)** analarınız ve kızlarınız ve kızkardeşleriniz ve halalarınız ve teyzeleriniz ve kardeş kızları ve kızkardeş kızları ve sizi emziren analarınız ve süt bacılarınız ve akarılarınızın naları ve birleştiğiniz karılarınızdan olan evlerinizde bulunan üvey kızlarınız eğer onlarla birleşmeniz olmamışsa üzerinize bir günah yoktur ve kendi sulbünüzden oğullarınızın karıları ve iki kızkardeşi bir arada almanız size haram kılındı ancak geçmişte olanlar hariç şüphesiz [Ğafûr Rahîm] Allah çok bağışlayan çok esirgeyendir
 **(24)** 
 **(25)** 
 **(26)** 
