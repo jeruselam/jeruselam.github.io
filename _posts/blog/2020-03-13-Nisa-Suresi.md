@@ -34,7 +34,7 @@ tag:
 **(21)** ve andolsun bazınız bazınıza geçmiş(içli dışlı olmuş)ken nasıl onu alırsınız ve onlar sizden sağlam te’minat almışlardı
 **(22)** geçmişte olanlar hariç babalarınızın evlendiği kadınlarla artık evlenmeyin çünkü bu edepsizliktir ve (Allah’ın) hışm(ı)dır ve iğrenç bir yoldur
 **(23)** analarınız ve kızlarınız ve kızkardeşleriniz ve halalarınız ve teyzeleriniz ve kardeş kızları ve kızkardeş kızları ve sizi emziren analarınız ve süt bacılarınız ve akarılarınızın naları ve birleştiğiniz karılarınızdan olan evlerinizde bulunan üvey kızlarınız eğer onlarla birleşmeniz olmamışsa üzerinize bir günah yoktur ve kendi sulbünüzden oğullarınızın karıları ve iki kızkardeşi bir arada almanız size haram kılındı ancak geçmişte olanlar hariç şüphesiz [Ğafûr Rahîm] Allah çok bağışlayan çok esirgeyendir
-**(24)** 
+**(24)** ve ellerinize geçen(cariye)ler dışında kadınlardan evli olanlar (haramdır) Allah’ın size yazdığı(yasaklar)dır ve bunlardan ötesi mallarınızla iffetli yaşamak zina etmemek istemeniz size helal kılındı onlardan yararlanmanıza karşılık onlara kesilen ücretlerini bir hak olarak verin hakkın kesiminden sonra karşılıklı anlaşmanız hakkında üzerinize bir günah yoktur şüphesiz [Alîm Hakîm] Allah bilendir hüküm ve hikmet sahibidir
 **(25)** 
 **(26)** 
 **(27)** 
