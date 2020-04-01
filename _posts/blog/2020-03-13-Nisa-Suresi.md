@@ -37,8 +37,8 @@ tag:
 **(24)** ve ellerinize geçen(cariye)ler dışında kadınlardan evli olanlar (haramdır) Allah’ın size yazdığı(yasaklar)dır ve bunlardan ötesi mallarınızla iffetli yaşamak zina etmemek istemeniz size helal kılındı onlardan yararlanmanıza karşılık onlara kesilen ücretlerini bir hak olarak verin hakkın kesiminden sonra karşılıklı anlaşmanız hakkında üzerinize bir günah yoktur şüphesiz [Alîm Hakîm] Allah bilendir hüküm ve hikmet sahibidir
 **(25)** ve inanmış hür kadınlarla evlenmek için mali güce içinizden gücü yetmeyen kimse ellerinizde sahip olduğunuz inanmış genç kızlarınızdan (alsın) sizin imanınızı Allah daha iyi bilir hepiniz birbirinizdensiniz öyle ise onlarla ailelerinin izniyle evlenin ve evli iken (gizli) dost edinmemeleri ve zina etmemeleri iffetli yaşamaları [için] güzelce ücretlerini (mehirlerini) verin eğer fuhuş yaparlarsa onlara hür kadınlar üzerine yapılan işkencenin yarısı (uygulanır) bu (cariye ile evlenme) içinizden sıkıntıya düşmekten korkanlar içindir fakat sabretmeniz sizin için daha iyidir [Ğafur Rahim] Allah bağışlayandır esirgeyendir
 **(26)** Allah size açıklamak ve sizden önceki(lerin) [evvelki] kimselerin yasalarına sizi iletmek ve günahlarınızı bağışlamak istiyor Allah bilendir hüküm ve hikmet sahibidir
-**(27)** 
-**(28)** 
+**(27)** Allah sizin tevbenizi kabul etmek istiyor ve şehvetlerine uyan(lar) [o] kimseler sizin büyük bir sapıklığa düşmenizi istiyorlar
+**(28)** Allah [telaşeyi kolayca] sizden hafifletmek istiyor ve insan zayıf yaratılmıştır
 **(29)** 
 **(30)** 
 **(31)** 
