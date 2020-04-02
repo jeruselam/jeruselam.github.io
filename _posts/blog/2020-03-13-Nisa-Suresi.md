@@ -43,8 +43,8 @@ tag:
 **(30)** düşmanlık ile ve zulüm ile kim bunu yaparsa (bilsin ki) onu cehenneme sokacağız ve bu Allah’a karşı kolaydır
 **(31)** ne ki ondan size yasaklanan büyük günahlardan eğer kaçınırsanız sizin küçük günahlarınızı örteriz ve sizi güzel bir yere sokarız
 **(32)** Allah’ın bir kısmınızı onunla diğerine karşı üstün kıldığı şeylere göz dikmeyin kazandıkları şeylerden erkeklere bir pay vardır ve kazandıkları şeylerden bir pay kadınlara vardır  Allah’ın lutfundan isteyin kuşkusuz Allah her şeyi bilendir
-**(33)** 
-**(34)** 
+**(33)** ve ana babanın ve akrabanın bıraktıklarından her birine varisler kıldık ve yeminlerinizin bağladığı kimselere hisselerini verin şüphesiz Allah her şeyi üzerine şahittir
+**(34)** erkekler kadınlar üzerinde yöneticidirler zira Allah diğerinin üzerine bir kısmını üstün kılmıştır ve çünkü malları ndan infak ederler iyi kadınlar ita’atkar olup Allah’ın kendilerini korumasına karşılık gizliyi korurlar hırçınlık etmelerinden korktuğunuz kadınlara öğüt verin yataklarda onlara sokulmayın ve onları [evlerden çıkartın] eğer size ita’at ederlerse onların aleyhine başka bir yol artık aramayın çünkü Allah yücedir büyüktür
 **(35)** 
 **(36)** 
 **(37)** 
