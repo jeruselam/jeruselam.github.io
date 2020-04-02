@@ -39,10 +39,10 @@ tag:
 **(26)** Allah size açıklamak ve sizden önceki(lerin) [evvelki] kimselerin yasalarına sizi iletmek ve günahlarınızı bağışlamak istiyor Allah bilendir hüküm ve hikmet sahibidir
 **(27)** Allah sizin tevbenizi kabul etmek istiyor ve şehvetlerine uyan(lar) [o] kimseler sizin büyük bir sapıklığa düşmenizi istiyorlar
 **(28)** Allah [telaşeyi kolayca] sizden hafifletmek istiyor ve insan zayıf yaratılmıştır
-**(29)** 
-**(30)** 
-**(31)** 
-**(32)** 
+**(29)** ey inanan(lar) [imanlı] kimseler kendi rızanızla yaptığınız ticaret olan haricinde batılla (haksız yere) aranızda mallarınızı yemeyin canlarınızı öldürmeyin doğrusu [Rahîm] Allah size karşı çok merhametlidir 
+**(30)** düşmanlık ile ve zulüm ile kim bunu yaparsa (bilsin ki) onu cehenneme sokacağız ve bu Allah’a karşı kolaydır
+**(31)** ne ki ondan size yasaklanan büyük günahlardan eğer kaçınırsanız sizin küçük günahlarınızı örteriz ve sizi güzel bir yere sokarız
+**(32)** Allah’ın bir kısmınızı onunla diğerine karşı üstün kıldığı şeylere göz dikmeyin kazandıkları şeylerden erkeklere bir pay vardır ve kazandıkları şeylerden bir pay kadınlara vardır  Allah’ın lutfundan isteyin kuşkusuz Allah her şeyi bilendir
 **(33)** 
 **(34)** 
 **(35)** 
