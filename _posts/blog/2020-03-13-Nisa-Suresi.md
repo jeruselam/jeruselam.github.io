@@ -52,8 +52,8 @@ tag:
 **(39)** onlara ne olurdu sanki Allah’a ve ahiret gününe inansalardı ve Allah’ın kendilerine verdiği rızıktan  harcasalardı ve Allah onları biliyor idi
 **(40)** şüphesiz Allah zerre kadar haksızlık etmez eğer (zerre miktarı) bir iyilik olsa onu kat kat yapar ve kendi katından büyük bir mükafat verir
 **(41)** her ümmetten bir şahid getirdiğimiz zaman ve seni de bunlar üzerine şahid olarak getirdiğimizde (halleri) nice olur?
-**(42)** o gün inkar eden(ler) kimseler ve Elçi’ye karşı gelenler (mümkün olsa) yer ile bir olmayı isterler ve Allah’tan (hiçbir) söz gizleyemezler
-**(43)** 
+**(42)** o gün inkar eden(ler) [kafir] kimseler ve Elçi’ye karşı gelenler (mümkün olsa) yer ile bir olmayı isterler ve Allah’tan (hiçbir) söz gizleyemezler
+**(43)** ey inanan(lar) [imanlı] kimseler siz sarhoşken namaza yaklaşmayın ki ne dediğinizi bilesiniz ve yoldan geçici olmanız dışında cünüp iken yıkanıncaya kadar (namaza yaklaşmayın) eğer hasta yahut yolculuk üzerinde iseniz yahut sizden biriniz tuvaletten gelmişse yahut kadınlara dokunmuşsanız su bulamadığınız takdirde temiz toprağa teyemmüm edin yüzlerinize ve ellerinize sürün şüphesiz  [Afüv Ğafur] Allah çok affedendir çok bağışlayandır
 **(44)** 
 **(45)** 
 **(46)** 
