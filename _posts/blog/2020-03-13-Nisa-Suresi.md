@@ -49,10 +49,10 @@ tag:
 **(36)** ve Allah’a kulluk edin O’na hiçbir şeyi ortak koşmayın ve ana babaya ve akrabaya ve öksüzlere ve yoksullara ve yakın komşuya ve uzak komşuya ve yan(ınız)daki arkadaşa ve yolcuya ve ellerinizin altında bulunanlara iyilik edin şüphesiz Allah böbürlenen kurumlu kimselerin sevmez
 **(37)** bunlar cimrilik ederler ve cimriliği insanlara emrederler ve Allah’ın bol hazinesinden kendilerine verdiği şeyi gizlerler (biz de) [kafir] inkarcılar için alçaltıcı bir azab hazırlamışızdır
 **(38)** bunlar insanlara gösteriş için mallarını verirler Allah’a ve ahiret gününe inanmazlar kimin ise o(nun) arkadaşı şeytan ne kötü bir arkadaş(ı var)dır
-**(39)** 
-**(40)** 
-**(41)** 
-**(42)** 
+**(39)** onlara ne olurdu sanki Allah’a ve ahiret gününe inansalardı ve Allah’ın kendilerine verdiği rızıktan  harcasalardı ve Allah onları biliyor idi
+**(40)** şüphesiz Allah zerre kadar haksızlık etmez eğer (zerre miktarı) bir iyilik olsa onu kat kat yapar ve kendi katından büyük bir mükafat verir
+**(41)** her ümmetten bir şahid getirdiğimiz zaman ve seni de bunlar üzerine şahid olarak getirdiğimizde (halleri) nice olur?
+**(42)** o gün inkar eden(ler) kimseler ve Elçi’ye karşı gelenler (mümkün olsa) yer ile bir olmayı isterler ve Allah’tan (hiçbir) söz gizleyemezler
 **(43)** 
 **(44)** 
 **(45)** 
