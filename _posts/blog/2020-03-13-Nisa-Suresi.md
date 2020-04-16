@@ -53,12 +53,12 @@ tag:
 **(40)** şüphesiz Allah zerre kadar haksızlık etmez eğer (zerre miktarı) bir iyilik olsa onu kat kat yapar ve kendi katından büyük bir mükafat verir
 **(41)** her ümmetten bir şahid getirdiğimiz zaman ve seni de bunlar üzerine şahid olarak getirdiğimizde (halleri) nice olur?
 **(42)** o gün inkar eden(ler) [kafir] kimseler ve Elçi’ye karşı gelenler (mümkün olsa) yer ile bir olmayı isterler ve Allah’tan (hiçbir) söz gizleyemezler
-**(43)** ey inanan(lar) [imanlı] kimseler siz sarhoşken namaza yaklaşmayın ki ne dediğinizi bilesiniz ve yoldan geçici olmanız dışında cünüp iken yıkanıncaya kadar (namaza yaklaşmayın) eğer hasta yahut yolculuk üzerinde iseniz yahut sizden biriniz tuvaletten gelmişse yahut kadınlara dokunmuşsanız su bulamadığınız takdirde temiz toprağa teyemmüm edin yüzlerinize ve ellerinize sürün şüphesiz  [Afüv Ğafur] Allah çok affedendir çok bağışlayandır
-**(44)** 
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
+**(43)** ey inanan(lar) [imanlı] kimseler siz sarhoşken namaza yaklaşmayın ki ne dediğinizi bilesiniz ve yoldan geçici olmanız dışında cünüp iken yıkanıncaya kadar (namaza yaklaşmayın) eğer hasta yahut yolculuk üzerinde iseniz yahut sizden biriniz tuvaletten gelmişse yahut kadınlara dokunmuşsanız su bulamadığınız takdirde temiz toprağa teyemmüm edin yüzlerinize ve ellerinize sürün şüphesiz [Afüv Ğafur] Allah çok affedendir çok bağışlayandır
+**(44)** Kitaptan kendilerine bir pay verilen kimselerin [durumunu] görmedin mi? sapıklığı satın alıyorlar ve sizin yolu sapıtmanızı istiyorlar
+**(45)** Allah sizin düşmanlarınızı daha iyi bilir Allah dost olarak yeter Allah yardımcı olarak yeter
+**(46)** Yahudilerden öyleleri var ki kelimeleri yerlerinden kaydırıyorlar ve işittik ve isyan ettik ve dinlemez olası dinle ve dini taşlayarak ve dillerini eğip bükerek "ra’ina" [bizi güt] diyorlar (eğer) keşke onlar işittik ve ita’at ettik ve dinle ve bak bize [gör] deselerdi elbette kendileri için daha iyi ve daha sağlam olurdu fakat inkarlarından dolayı Allah onları la’netlemiştir pek azı hariç inanmazlar
+**(47)** ey kimseler Kitap verilen(ler) cumartesi adamlarını la’netlediğimiz gibi onları da la’netlememizden ya da bazı yüzleri biz silip arkaları üzerine döndürmemizden önce yanınızdakini doğrulayıcı olarak indirdiğimiz şeye (Kur’ana)inanın Allah’ın buyruğu yapılır
+**(48)** şüphesiz Allah kendisine ortak koşulmasını bağışlamaz ve dilediği kimseden bundan başkasını bağışlar ve Allah’a ortak koşan kimse gerçekten büyük bir günah [olan yalanı] iftira etmiştir
 **(49)** 
 **(50)** 
 **(51)** 
