@@ -36,9 +36,9 @@ tag:
 **(24)** yoksa O’ndan başka tanrılar[ilâhlar] mı edindiler? de ki delilinizi getirin, benimle beraber olanların öğüdü ve benden öncekilerin öğüdü işte budur ama çokları hakkı bilmezler bundan dolayı onlar (Hakk'tan) yüz çevirirler
 **(25)** ve ona şüphesiz benden başka tanrı[ilâh] yoktur bana kulluk edin diye vahyetmediğimiz senden önce hiçbir peygamber göndermedik
 **(26)** ve Rahman çocuk edindi dediler O münezzehtir hayır bilakis değerli [kullardır]
-**(27)** O’ndan önce söylemezler bir söz ve onlar O’nun buyruğunu yaparlar
-**(28)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı bilir ve razı olduklarından başkasına şefa’at edemezler ve onlar O’nun [sevgisinin azalması]korkusundan[ [şefkatle sevene layık surette]titrerler
-**(29)** ve O’ndan[Allah'tan] başka onlardan her kim ben bir tanrıyım[ilâhım] derse böylece cehennemle onu cezalandırırız böyle zalimleri biz cezalandırırız
+**(27)** O’ndan önce bir söz söylemezler ve onlar O’nun buyruğunu yaparlar
+**(28)** ellerinin arasında (önlerinde) olanı ve arkalarında olanı bilir ve razı olduklarından başkasına şefa’at edemezler ve onlar O’nun [sevgisinin azalması] korkusundan [şefkatle sevene layık surette] titrerler
+**(29)** ve O’ndan[Allah'tan] başka onlardan her kim ben bir tanrıyım [ilâhım] derse böylece cehennemle onu cezalandırırız böyle zalimleri biz cezalandırırız
 **(30)** inkar eden(ler) kimseler görmediler mi? şüphesiz gökler ve yer bitişik idi biz onları ayırdık ve canlı her şeyi sudan yarattık hala inanmıyorlar mı?
 **(31)** ve onları sarsar diye yerde yüksek dağlar yarattık ve orada geniş yollar açtık umulur ki yollarını bulurlar
 **(32)** ve göğü korunmuş bir tavan yaptık onlar hala ayetlerinden yüz çevirmektedirler
