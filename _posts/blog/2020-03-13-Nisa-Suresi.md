@@ -59,9 +59,9 @@ tag:
 **(46)** Yahudilerden öyleleri var ki kelimeleri yerlerinden kaydırıyorlar ve işittik ve isyan ettik ve dinlemez olası dinle ve dini taşlayarak ve dillerini eğip bükerek "ra’ina" [bizi güt] diyorlar (eğer) keşke onlar işittik ve ita’at ettik ve dinle ve bak bize [gör] deselerdi elbette kendileri için daha iyi ve daha sağlam olurdu fakat inkarlarından dolayı Allah onları la’netlemiştir pek azı hariç inanmazlar
 **(47)** ey kimseler Kitap verilen(ler) cumartesi adamlarını la’netlediğimiz gibi onları da la’netlememizden ya da bazı yüzleri biz silip arkaları üzerine döndürmemizden önce yanınızdakini doğrulayıcı olarak indirdiğimiz şeye (Kur’ana)inanın Allah’ın buyruğu yapılır
 **(48)** şüphesiz Allah kendisine ortak koşulmasını bağışlamaz ve dilediği kimseden bundan başkasını bağışlar ve Allah’a ortak koşan kimse gerçekten büyük bir günah [olan yalanı] iftira etmiştir
-**(49)** 
-**(50)** 
-**(51)** 
+**(49)** şu kendilerini övüp yüceltenleri görmedin mi? Hayır, ancak Allah dilediğini yüceltir onlara [en ufak] kıl kadar zulmedilmez
+**(50)** Allah’a karşı bak nasıl yalan uyduruyorlar ve apaçık bir günah olarak bu (onlara) yeter
+**(51)** Kitaptan kendilerine bir pay verilenleri görmedin mi? [şeytan putundan] cibt’e ve tağut’a inanıyorlar ve inkar edenler için bunlar inanan(lar)[dan imanlı] kimselerden daha doğru yolda(dırlar) diyorlar
 **(52)** 
 **(53)** 
 **(54)** 
