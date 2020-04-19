@@ -52,4 +52,4 @@ tag:
 **(39)** ve ondan iki çifti erkeği ve dişiyi var etti 
 **(40)** ölüleri diriltmeğe buna gücü yetecek değil mi?
 
-![75]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![75Kıyâme-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

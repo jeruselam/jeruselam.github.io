@@ -62,9 +62,9 @@ tag:
 **(49)** şu kendilerini övüp yüceltenleri görmedin mi? Hayır, ancak Allah dilediğini yüceltir onlara [en ufak] kıl kadar zulmedilmez
 **(50)** Allah’a karşı bak nasıl yalan uyduruyorlar ve apaçık bir günah olarak bu (onlara) yeter
 **(51)** Kitaptan kendilerine bir pay verilenleri görmedin mi? [şeytan putundan] cibt’e ve tağut’a inanıyorlar ve inkar edenler için bunlar inanan(lar)[dan imanlı] kimselerden daha doğru yolda(dırlar) diyorlar
-**(52)** 
-**(53)** 
-**(54)** 
+**(52)** işte onlar Allah’ın la’netlediği (insanlardır) Allah kimi la’netlerse onun için artık (hiçbir) yardımcı bulamazsın
+**(53)** yoksa onların mülkten bir payı var mı? öyle olsaydı insanlara bir çekirdek zerresi bile vermezlerdi
+**(54)** yoksa Allah’ın lütfundan verdiği şeyi (vahiyleri) yüzünden insanlara [verilenleri] kıskanıyorlar mı oysa İbrahim soyuna Kitabı ve hikmeti biz verdik ve onlara büyük bir mülk verdik
 **(55)** 
 **(56)** 
 **(57)** 
