@@ -65,8 +65,8 @@ tag:
 **(52)** işte onlar Allah’ın la’netlediği (insanlardır) Allah kimi la’netlerse onun için artık (hiçbir) yardımcı bulamazsın
 **(53)** yoksa onların mülkten bir payı var mı? öyle olsaydı insanlara bir çekirdek zerresi bile vermezlerdi
 **(54)** yoksa Allah’ın lütfundan verdiği şeyi (vahiyleri) yüzünden insanlara [verilenleri] kıskanıyorlar mı oysa İbrahim soyuna Kitabı ve hikmeti biz verdik ve onlara büyük bir mülk verdik
-**(55)** 
-**(56)** 
+**(55)** onlardan kimi O(Hak Kitabı)na inandı onlardan kimi de ondan yüz çevirdi öylesine de çılgın alevli cehennem yetti
+**(56)** şüphesiz ayetlerimizi inkar eden(leri) [kafir] kimseleri yakında bir ateşe sokacağız derileri her piştikçe derileri azabı tadsınlar diye başkasıyla değiştireceğiz şüphesiz [Azîz Hakîm] Allah daima üstündür hüküm ve hikmet sahibidir
 **(57)** 
 **(58)** 
 **(59)** 
