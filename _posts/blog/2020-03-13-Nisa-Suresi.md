@@ -67,8 +67,9 @@ tag:
 **(54)** yoksa Allah’ın lütfundan verdiği şeyi (vahiyleri) yüzünden insanlara [verilenleri] kıskanıyorlar mı oysa İbrahim soyuna Kitabı ve hikmeti biz verdik ve onlara büyük bir mülk verdik
 **(55)** onlardan kimi O(Hak Kitabı)na inandı onlardan kimi de ondan yüz çevirdi öylesine de çılgın alevli cehennem yetti
 **(56)** şüphesiz ayetlerimizi inkar eden(leri) [kafir] kimseleri yakında bir ateşe sokacağız derileri her piştikçe derileri azabı tadsınlar diye başkasıyla değiştireceğiz şüphesiz [Azîz Hakîm] Allah daima üstündür hüküm ve hikmet sahibidir
-**(57)** 
-**(58)** 
+**(57)** inanan kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokacağız orada sürekli kalacaklardır orada kendilerine tertemiz eşler de vardır ve onları (hiç güneş sızmayan) eşsiz bir gölgeye sokacağız
+**(58)** şüphesiz Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emreder şüphesiz Allah onunla size ne güzel öğüt veriyor doğrusu  [Semî Basîr] Allah işitendir görendir
+**(60)** 
 **(59)** 
 **(60)** 
 **(61)** 
