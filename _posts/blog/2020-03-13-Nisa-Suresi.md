@@ -69,6 +69,7 @@ tag:
 **(56)** şüphesiz ayetlerimizi inkar eden(leri) [kafir] kimseleri yakında bir ateşe sokacağız derileri her piştikçe derileri azabı tadsınlar diye başkasıyla değiştireceğiz şüphesiz [Azîz Hakîm] Allah daima üstündür hüküm ve hikmet sahibidir
 **(57)** inanan kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokacağız orada sürekli kalacaklardır orada kendilerine tertemiz eşler de vardır ve onları (hiç güneş sızmayan) eşsiz bir gölgeye sokacağız
 **(58)** şüphesiz Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emreder şüphesiz Allah onunla size ne güzel öğüt veriyor doğrusu  [Semî Basîr] Allah işitendir görendir
+**(59)** ey iman eden(ler) [imanlı] kimseler Allah’a ita’at edin ve Elçiye ve sizden olan buyruk sahibine ita’at edin herhangi bir şey hakkında eğer anlaşmazlığa düşerseniz Allah’a ve Elçiye onu götürün eğer Allah’a ve ahiret gününe inanıyor iseniz sonuç bakımından da bu daha iyidir ve daha güzeldir  
 **(60)** 
 **(59)** 
 **(60)** 
