@@ -30,7 +30,7 @@ tag:
 **(18)** dediler ki doğrusu biz sizin yüzünüzden uğursuzluğa uğradık eğer vazgeçmezseniz sizi mutlaka taşlarız ve size bizden acıklı bir azab dokunur 
 **(19)** dediler ki uğursuzluğunuz sizin kendinizdedir size öğüt verildiği için mi? hayır siz aşırı giden bir kavimsiniz
 **(20)** ve bir adam koşarak kentin en uzak yerinden geldi kavmim elçilere uyun dedi
-**(21)** sizden bir ücret istemeyen kimselere uyun ve onlar doğru yoldadırlar
+**(21)** sizden bir ücret istemeyen kimselere uyun ve onlar [Mehdiler] doğru yoldadırlar
 **(22)** ve ben niçin? beni yaratana kulluk etmeyeyim ve O’na döndürüleceksiniz
 **(23)** O’ndan başka tanrılar edinir miyim? eğer Rahman bana bir zarar vermek dilese onların şefa’ati bana hiçbir (fayda) sağlamaz ve onlar beni asla kurtaramazlar
 **(24)** şüphesiz ben o takdirde apaçık bir sapıklık içinde olurum
