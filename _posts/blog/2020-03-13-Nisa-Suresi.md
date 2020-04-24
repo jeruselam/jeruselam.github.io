@@ -81,8 +81,8 @@ tag:
 **(68)** ve onları doğru bir yola [hidayete] iletirdik
 **(69)** ve kim Allah’a ve Elçi’ye ita’at ederse işte onlar Allah’ın kendilerini ni’metlendirdiği kimselerle; [nebi] peygamberlerle ve sıddiklarla ve şehidlerle ve Salihlerle beraberdir ve onlar ne güzel arkadaştır
 **(70)** bu ni’met Allah’tandır ve [Alîm] Allah bilen olarak yeter
-**(71)** ve şüphesiz içinizden bir kısmı var ki pek ağır davranır eğer size bir felaket erişirse der ki muhakkak Allah bana lütfetti onlarla beraber hazır bulunmadım
-**(72)** 
+**(71)** ey inanan(lar) [imanlı] kimseler korunma(tedbirleri)nizi alın bölük bölük savaşa gidin ya da hep birlikte savaşa gidin
+**(72)** ve şüphesiz içinizden bir kısmı var ki pek ağır davranır eğer size bir felaket erişirse der ki muhakkak Allah bana lütfetti onlarla beraber hazır bulunmadım 
 **(73)** 
 **(74)** 
 **(75)** 
