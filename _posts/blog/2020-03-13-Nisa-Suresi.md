@@ -81,12 +81,12 @@ tag:
 **(68)** ve onları doğru bir yola [hidayete] iletirdik
 **(69)** ve kim Allah’a ve Elçi’ye ita’at ederse işte onlar Allah’ın kendilerini ni’metlendirdiği kimselerle; [nebi] peygamberlerle ve sıddiklarla ve şehidlerle ve Salihlerle beraberdir ve onlar ne güzel arkadaştır
 **(70)** bu ni’met Allah’tandır ve [Alîm] Allah bilen olarak yeter
-**(71)** ey inanan(lar) [imanlı] kimseler korunma(tedbirleri)nizi alın bölük bölük savaşa gidin ya da hep birlikte savaşa gidin
+**(71)** ey inanan(lar); [imanlı] kimseler korunma(tedbirleri)nizi alın bölük bölük savaşa gidin ya da hep birlikte savaşa gidin
 **(72)** ve şüphesiz içinizden bir kısmı var ki pek ağır davranır eğer size bir felaket erişirse der ki muhakkak Allah bana lütfetti onlarla beraber hazır bulunmadım 
-**(73)** 
-**(74)** 
-**(75)** 
-**(76)** 
+**(73)** ve eğer size Allah’tan bir ni’met erişirse sanki sizinle kendisi arasında hiç sevgi yokmuş gibi der keşke ben de onlarla beraber olsaydım büyük bir başarı kazansaydım
+**(74)** ahireti karşılığında dünya hayatını satan(lar); [o] kimseler Allah yolunda savaşsınlar ve kim savaşır da Allah yolunda öldürülür veya galib gelirse yakında biz ona büyük bir mükafat vereceğiz
+**(75)** size ne oldu? Allah yolunda ve zayıf erkekler ve kadınlar ve çocuklar (uğrunda) savaşmıyorsunuz [o] kimseler Rabbimiz halkı zalim şu kentten bizi çıkar ve bize katından bir koruyucu ver ve bize katından bir yardımcı ver diyorlar
+**(76)** inanan(lar); [imanlı] kimseler Allah yolunda savaşırlar ve inkar eden(ler); [kafir] kimseler tağut [dindar olmayan azgın ve isyankar] yolunda savaşırlar o halde şeytanın dostlarıyle savaşın şüphesiz şeytanın hilesi zayıftır
 **(77)** 
 **(78)** 
 **(79)** 
@@ -104,7 +104,7 @@ tag:
 **(91)**
 **(92)** 
 **(93)** 
-**(94)**  
+**(94)** 
 **(95)** 
 **(96)** 
 **(97)** 
