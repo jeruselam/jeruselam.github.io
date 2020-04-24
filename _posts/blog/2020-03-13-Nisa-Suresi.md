@@ -87,7 +87,7 @@ tag:
 **(74)** ahireti karşılığında dünya hayatını satan(lar); [o] kimseler Allah yolunda savaşsınlar ve kim savaşır da Allah yolunda öldürülür veya galib gelirse yakında biz ona büyük bir mükafat vereceğiz
 **(75)** size ne oldu? Allah yolunda ve zayıf erkekler ve kadınlar ve çocuklar (uğrunda) savaşmıyorsunuz [o] kimseler Rabbimiz halkı zalim şu kentten bizi çıkar ve bize katından bir koruyucu ver ve bize katından bir yardımcı ver diyorlar
 **(76)** inanan(lar); [imanlı] kimseler Allah yolunda savaşırlar ve inkar eden(ler); [kafir] kimseler tağut [dindar olmayan azgın ve isyankar] yolunda savaşırlar o halde şeytanın dostlarıyle savaşın şüphesiz şeytanın hilesi zayıftır
-**(77)** 
+**(77)** kendilerine ellerinizi (savaştan) çekin ve namazı kılın ve zekatı verin denilen(leri); [o] kimseleri görmedin mi kendilerine savaş yazılıdığı zaman içlerinden Allah’tan korkar gibi hatta daha fazla korkuyla bir grup insanlardan korkmaya başladılar ve dediler ki Rabbimiz niçin bize savaş yazdın keşke bizi yakın bir süreye kadar erteleseydin de ki dünya geçimi azdır ve korunan kimse için ahiret daha iyidir size kıl kadar haksızlık edilmez
 **(78)** 
 **(79)** 
 **(80)** 
