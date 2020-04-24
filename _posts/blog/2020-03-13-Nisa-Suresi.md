@@ -73,11 +73,11 @@ tag:
 **(60)** sana indirilene şeylere ve senden önce indirilene şeylere sadece kendilerinin inandıklarını zanneden(leri) kimseleri görmedin mi hakem olarak tağuta başvurmak istiyorlar oysa onu inkar etmeleri emredilmişti ve Şeytan da iyice sapkınlıkla onları saptırmak istiyor
 **(61)** kendilerine Allah’ın indirdiği(ne) şeye ve Elçiye gelin dendiği zaman o ikiyüzlülerin senden büsbütün uzaklaşmakla uzaklaştıklarını görürsün
 **(62)** ne zaman ki nasıl elleriyle yaptıkları (kötülükler) yüzünden başlarına bir felaket gelince sonra hemen sana gelirler biz sadece iyilik etmek ve uzlaştırmak istedik diye Allah’a yemin ederler 
-**(63)** 
-**(64)** 
-**(65)** 
-**(66)** 
-**(67)** 
+**(63)** işte onlar ki Allah onların kalblerinde olanı bilir onlara aldırma ve onlara öğüt ver ve onların içlerine işleyecek güzel bir söz söyle
+**(64)** hiçbir elçiyi biz Allah’ın izniyle ita’at edilmekten başka bir amaçla göndermedik eğer onlar kendilerine zulmettikleri zaman sana gelseler Allah’tan bağışlanma dileseler ve Elçi onların bağışlanmasını dileseydi elbette [Tevvâb Rahîm] Allah’ı merhametli affedici bulurlardı
+**(65)** Rabbin hakkı için hayır aralarında çıkan çekişmeli işlerde seni hakem yaparak sonra da senin verdiğin hükme kendilerinin içlerinde bir burukluk bulunmadan ve tam bir teslimiyetle teslim olmadıkça inanmış olmazlar 
+**(66)** ve eğer biz onlara kendinizi öldürün ya da yurtlarınızdan çıkın yazsaydık içlerinden pek azı hariç bunu yapmazlardı eğer onlar kendilerine öğütlenen şeyi yapsalardı kendileri için elbette daha iyi ve sağlamlıkta daha sağlam olurdu
+**(67)** ve o zaman kendilerine katımızdan büyük bir mükafat verirdik
 **(68)** 
 **(69)** 
 **(70)** 
