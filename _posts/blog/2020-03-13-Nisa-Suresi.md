@@ -78,10 +78,10 @@ tag:
 **(65)** Rabbin hakkı için hayır aralarında çıkan çekişmeli işlerde seni hakem yaparak sonra da senin verdiğin hükme kendilerinin içlerinde bir burukluk bulunmadan ve tam bir teslimiyetle teslim olmadıkça inanmış olmazlar 
 **(66)** ve eğer biz onlara kendinizi öldürün ya da yurtlarınızdan çıkın yazsaydık içlerinden pek azı hariç bunu yapmazlardı eğer onlar kendilerine öğütlenen şeyi yapsalardı kendileri için elbette daha iyi ve sağlamlıkta daha sağlam olurdu
 **(67)** ve o zaman kendilerine katımızdan büyük bir mükafat verirdik
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
+**(68)** ve onları doğru bir yola [hidayete] iletirdik
+**(69)** ve kim Allah’a ve Elçi’ye ita’at ederse işte onlar Allah’ın kendilerini ni’metlendirdiği kimselerle; [nebi] peygamberlerle ve sıddiklarla ve şehidlerle ve Salihlerle beraberdir ve onlar ne güzel arkadaştır
+**(70)** bu ni’met Allah’tandır ve [Alîm] Allah bilen olarak yeter
+**(71)** ve şüphesiz içinizden bir kısmı var ki pek ağır davranır eğer size bir felaket erişirse der ki muhakkak Allah bana lütfetti onlarla beraber hazır bulunmadım
 **(72)** 
 **(73)** 
 **(74)** 
