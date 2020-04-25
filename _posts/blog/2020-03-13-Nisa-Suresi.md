@@ -96,8 +96,8 @@ tag:
 **(83)** ne zaman ki onlara güvene veya korkuya(dair) bir haber gelse onu yayarlar halbuki onu Elçi’ye ve aralarındaki buyruk sahiplerine götürselerdi onun ne olduğunu işin içyüzünü araştıran(lar) [bilgi edinen] kimseler bilirlerdi size Allah’ın lütfu ve rahmeti eğer olmasaydı pek azınız hariç şeytana uyardınız
 **(84)** (o halde) Allah yolunda savaş sen kendinden başkasından sorumlu değilsin ve inananları teşvik et umulur ki Allah inkar eden(lerin); [kafir] kimselerin gücünü kırar Allah’ın baskını daha güçlüdür ve cezası daha çetindir
 **(85)** kim güzel bir destekle destek olursa o işten onun bir payı vardır ve kötü bir (işe) bir destekle kim destek olursa onun o işten bir payı olur ve Allah her şeyi gözetip karşılığını verendir
-**(86)** 
-**(87)** 
+**(86)** ve bir selam ile selamlandığınız zaman siz de ondan daha güzeliyle selam verin yahut aynen iade edin şüphesiz Allah her şeyi hesaplayandır
+**(87)** Allah (ki) O’ndan başka [ilah] tanrı yoktur kendinde şüphe olmayan kıyamet gününde sizi bir araya toplayacaktır sözlü Allah'tan daha doğru kim olabilir?
 **(88)** 
 **(89)** 
 **(90)** 
