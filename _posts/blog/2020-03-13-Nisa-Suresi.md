@@ -92,8 +92,8 @@ tag:
 **(79)** sana gelen şey her iyilik Allah’tandır ve sana gelen şey her kötülük kendi(günahın yüzü)ndendir ve seni insanlara elçi [Rasûl] gönderdik ve Allah şahid olarak yeter
 **(80)** kim Elçi’ye ita’at ederse muhakkak ki Allah’a ita’at etmiş olur kim de yüz çevirirse biz seni onların üzerine [koruyup gözeten] bekçi göndermedik
 **(81)** derler ki peki (tamam) fakat senin yanından çıkınca içlerinden birtakımı geceleyin söylemiş olduğun şeyin tersini kurarlar Allah geceleyin düşünüp kurdukların şeyleri yazmaktadır sen onlara aldırma ve Allah’a dayan ve vekil olarak Allah yeter
-**(82)** 
-**(83)** 
+**(82)** Kur’an’ı düşünmüyorlar mı? ve Allah’tan başkası tarafından eğer olsaydı onda birbirini tutmaz çok şey bulurlardı
+**(83)** ne zaman ki onlara güvene veya korkuya(dair) bir haber gelse onu yayarlar halbuki onu Elçi’ye ve aralarındaki buyruk sahiplerine götürselerdi onun ne olduğunu işin içyüzünü araştıran(lar) kimseler bilirlerdi size Allah’ın lütfu ve rahmeti eğer olmasaydı pek azınız hariç şeytana uyardınız
 **(84)** 
 **(85)** 
 **(86)** 
