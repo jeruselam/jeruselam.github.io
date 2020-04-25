@@ -95,7 +95,7 @@ tag:
 **(82)** Kur’an’ı düşünmüyorlar mı? ve Allah’tan başkası tarafından eğer olsaydı onda birbirini tutmaz çok şey bulurlardı
 **(83)** ne zaman ki onlara güvene veya korkuya(dair) bir haber gelse onu yayarlar halbuki onu Elçi’ye ve aralarındaki buyruk sahiplerine götürselerdi onun ne olduğunu işin içyüzünü araştıran(lar) [bilgi edinen] kimseler bilirlerdi size Allah’ın lütfu ve rahmeti eğer olmasaydı pek azınız hariç şeytana uyardınız
 **(84)** (o halde) Allah yolunda savaş sen kendinden başkasından sorumlu değilsin ve inananları teşvik et umulur ki Allah inkar eden(lerin); [kafir] kimselerin gücünü kırar Allah’ın baskını daha güçlüdür ve cezası daha çetindir
-**(85)** 
+**(85)** kim güzel bir destekle destek olursa o işten onun bir payı vardır ve kötü bir (işe) bir destekle kim destek olursa onun o işten bir payı olur ve Allah her şeyi gözetip karşılığını verendir
 **(86)** 
 **(87)** 
 **(88)** 
