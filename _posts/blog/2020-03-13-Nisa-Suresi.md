@@ -90,8 +90,8 @@ tag:
 **(77)** kendilerine ellerinizi (savaştan) çekin ve namazı kılın ve zekatı verin denilen(leri); [o] kimseleri görmedin mi kendilerine savaş yazılıdığı zaman içlerinden Allah’tan korkar gibi hatta daha fazla korkuyla bir grup insanlardan korkmaya başladılar ve dediler ki Rabbimiz niçin bize savaş yazdın keşke bizi yakın bir süreye kadar erteleseydin de ki dünya geçimi azdır ve korunan kimse için ahiret daha iyidir size kıl kadar haksızlık edilmez
 **(78)** nerede olsanız ve eğer sağlam kaleler içinde bulunsanız ölüm yine sizi bulur ve eğer onlara bir iyilik erişirse bu Allah tarafındandır eğer onlara bir kötülük erişirse bu senin yüzündendir derler de ki hepsi Allah tarafındandır ne oluyor ki bu topluma söz anlamaya yanaşmıyorlar
 **(79)** sana gelen şey her iyilik Allah’tandır ve sana gelen şey her kötülük kendi(günahın yüzü)ndendir ve seni insanlara elçi [Rasûl] gönderdik ve Allah şahid olarak yeter
-**(80)** 
-**(81)** 
+**(80)** kim Elçi’ye ita’at ederse muhakkak ki Allah’a ita’at etmiş olur kim de yüz çevirirse biz seni onların üzerine [koruyup gözeten] bekçi göndermedik
+**(81)** derler ki peki (tamam) fakat senin yanından çıkınca içlerinden birtakımı geceleyin söylemiş olduğun şeyin tersini kurarlar Allah geceleyin düşünüp kurdukların şeyleri yazmaktadır sen onlara aldırma ve Allah’a dayan ve vekil olarak Allah yeter
 **(82)** 
 **(83)** 
 **(84)** 
