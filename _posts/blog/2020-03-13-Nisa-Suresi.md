@@ -106,8 +106,8 @@ tag:
 **(93)** kasden bir mü’mini her kim öldürürse onun cezası içinde sürekli kalacağı cehennemdir ve Allah ona gazabetmiştir ve la’net etmiştir ve onun için büyük bir azab hazırlamıştır
 **(94)** ey inanan(lar); [imanlı] kimseler Allah yolunda savaşa çıktığınız zaman iyi anlayın, dinleyin size selam veren kimseye dünya hayatının geçici menfaatini gözeterek sen mü’min değilsin demeyin çünkü Allah’ın yanında çok ganimetler vardır önceden siz de böyle idiniz Allah size lütfetti o halde iyice anlayın çünkü Allah yaptıklarınız şeyleri haber almaktadır
 **(95)** mallariyle canlariyle Allah yolunda cihad edenler ve özür sahipleri dışında inananlardan yerlerinde oturanlar eşit olmaz Allah mallariyle canlariyle cihadedenleri derece bakımından oturanlardan üstün kılmıştır ve Allah hepsine güzellik va’detmiştir ve Allah mücahidleri çok daha büyük ecirle oturanlardan üstün kılmıştır
-**(96)** 
-**(97)** 
+**(96)** kendi katından yüksek dereceler ve bağış ve rahmet [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
+**(97)** şüphesiz melekler canlarını alırken nefislerine yazık eden kimselere ne işte idiniz dediler biz yer yüzünde aciz düşürülmüştük dediler (Melekler) dediler ki Allah’ın yeri geniş değil miydi? onda göç edeydiniz işte onların durağı cehennemdir ve ne kötü bir gidiş yeridir
 **(98)** 
 **(99)** 
 **(100)** 
