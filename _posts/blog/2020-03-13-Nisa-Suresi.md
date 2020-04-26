@@ -110,7 +110,7 @@ tag:
 **(97)** şüphesiz melekler canlarını alırken nefislerine yazık eden kimselere ne işte idiniz dediler biz yer yüzünde aciz düşürülmüştük dediler (Melekler) dediler ki Allah’ın yeri geniş değil miydi? onda göç edeydiniz işte onların durağı cehennemdir ve ne kötü bir gidiş yeridir
 **(98)** gerçekten zayıf erkekler ve kadınlar ve hiçbir çareye gücü yetmeyenler çocuklar ve (göç için) yol bulamayan yalnız hariçtir
 **(99)** Allah’ın onları affetmesi işte umulur ve [Afuv Ğafûr] Allah çok affedendir çok bağışlayandır
-**(100)** 
+**(100)** ve kim ki Allah yolunda göç eder yeryüzünde gidecek çok yer ve bolluk bulur ve kim ki Allah’a ve Elçisine göç etmek amacıyle evinden çıkar sonra kendisine ölüm yetişirse muhakkak onun mükafatı Allah’a düşer ve [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
 **(101)** 
 **(102)** 
 **(103)** 
