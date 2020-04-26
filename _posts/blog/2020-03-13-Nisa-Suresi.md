@@ -101,7 +101,7 @@ tag:
 **(88)** size ne oldu ki münafıklar hakkında iki gruba ayrıldınız oysa Allah yaptıkları işlerden dolayı onları baş aşağı etmiştir Allah’ın saptırdığı kimseyi doğru yola iletmek mi istiyorsunuz? ve Allah birini saptırırsa artık onun için bir yol bulamazsınız
 **(89)** kendilerin inkar ettiği gibi keşke siz de inkar etseniz ki onlarla eşit olsanız istediler o halde onlar Allah yolunda [hicretle] göç edinceye kadar onlardan dostlar edinmeyin eğer yüz çevirirlerse onları yakalayın ve nerede bulursanız öldürün ve onlardan (ne) bir dost ne de bir yardımcı tutmayın
 **(90)** sizinle kendileri arasında andlaşma bulunan bir topluma sığınan(lar) kimseler yahut sizinle savaşmaktan veya kendi toplumlarıyle savaşmaktan yürekleri sıkılarak size gelenler ancak hariç eğer Allah dileseydi sizin üstünüze onları salardı sizinle savaşırlardı o halde onlar sizden uzak dururlar sizinle savaşmazlar ve sizinle barış içinde yaşamak isterlerse Allah size onların aleyhine bir yol vermemiştir
-**(91)**
+**(91)** başkalarını bulacaksınız sizden emin olmak ve kendi toplumlarından emin olmak ister her ne zaman fitneye ne götürülseler (fitnenin) içine başaşağı atılırlar eğer sizden uzak durmazlarsa ve sizinle barış içinde yaşamak istemezlerse (saldırıdan) ellerini çekmezlerse onları yakalayın ve nerede bulursanız öldürün işte öylelerine karşı size açık bir yetki verdik
 **(92)** 
 **(93)** 
 **(94)** 
