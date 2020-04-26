@@ -99,7 +99,7 @@ tag:
 **(86)** ve bir selam ile selamlandığınız zaman siz de ondan daha güzeliyle selam verin yahut aynen iade edin şüphesiz Allah her şeyi hesaplayandır
 **(87)** Allah (ki) O’ndan başka [ilah] tanrı yoktur kendinde şüphe olmayan kıyamet gününde sizi bir araya toplayacaktır sözlü Allah'tan daha doğru kim olabilir?
 **(88)** size ne oldu ki münafıklar hakkında iki gruba ayrıldınız oysa Allah yaptıkları işlerden dolayı onları baş aşağı etmiştir Allah’ın saptırdığı kimseyi doğru yola iletmek mi istiyorsunuz? ve Allah birini saptırırsa artık onun için bir yol bulamazsınız
-**(89)** 
+**(89)** kendilerin inkar ettiği gibi keşke siz de inkar etseniz ki onlarla eşit olsanız istediler o halde onlar Allah yolunda [hicret] göç edinceye kadar onlardan dostlar edinmeyin
 **(90)** 
 **(91)**
 **(92)** 
