@@ -109,7 +109,7 @@ tag:
 **(96)** kendi katından yüksek dereceler ve bağış ve rahmet [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
 **(97)** şüphesiz melekler canlarını alırken nefislerine yazık eden kimselere ne işte idiniz dediler biz yer yüzünde aciz düşürülmüştük dediler (Melekler) dediler ki Allah’ın yeri geniş değil miydi? onda göç edeydiniz işte onların durağı cehennemdir ve ne kötü bir gidiş yeridir
 **(98)** gerçekten zayıf erkekler ve kadınlar ve hiçbir çareye gücü yetmeyenler çocuklar ve (göç için) yol bulamayan yalnız hariçtir
-**(99)** 
+**(99)** Allah’ın onları affetmesi işte umulur ve [Afuv Ğafûr] Allah çok affedendir çok bağışlayandır
 **(100)** 
 **(101)** 
 **(102)** 
