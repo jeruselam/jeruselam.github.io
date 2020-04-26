@@ -108,7 +108,7 @@ tag:
 **(95)** mallariyle canlariyle Allah yolunda cihad edenler ve özür sahipleri dışında inananlardan yerlerinde oturanlar eşit olmaz Allah mallariyle canlariyle cihadedenleri derece bakımından oturanlardan üstün kılmıştır ve Allah hepsine güzellik va’detmiştir ve Allah mücahidleri çok daha büyük ecirle oturanlardan üstün kılmıştır
 **(96)** kendi katından yüksek dereceler ve bağış ve rahmet [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
 **(97)** şüphesiz melekler canlarını alırken nefislerine yazık eden kimselere ne işte idiniz dediler biz yer yüzünde aciz düşürülmüştük dediler (Melekler) dediler ki Allah’ın yeri geniş değil miydi? onda göç edeydiniz işte onların durağı cehennemdir ve ne kötü bir gidiş yeridir
-**(98)** 
+**(98)** gerçekten zayıf erkekler ve kadınlar ve hiçbir çareye gücü yetmeyenler çocuklar ve (göç için) yol bulamayan yalnız hariçtir
 **(99)** 
 **(100)** 
 **(101)** 
