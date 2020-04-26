@@ -103,8 +103,8 @@ tag:
 **(90)** sizinle kendileri arasında andlaşma bulunan bir topluma sığınan(lar) kimseler yahut sizinle savaşmaktan veya kendi toplumlarıyle savaşmaktan yürekleri sıkılarak size gelenler ancak hariç eğer Allah dileseydi sizin üstünüze onları salardı sizinle savaşırlardı o halde onlar sizden uzak dururlar sizinle savaşmazlar ve sizinle barış içinde yaşamak isterlerse Allah size onların aleyhine bir yol vermemiştir
 **(91)** başkalarını bulacaksınız sizden emin olmak ve kendi toplumlarından emin olmak ister her ne zaman fitneye ne götürülseler (fitnenin) içine başaşağı atılırlar eğer sizden uzak durmazlarsa ve sizinle barış içinde yaşamak istemezlerse (saldırıdan) ellerini çekmezlerse onları yakalayın ve nerede bulursanız öldürün işte öylelerine karşı size açık bir yetki verdik
 **(92)** yanlışlık dışında bir mü’minin bir mü’mini öldürmesi yoktur ve kim ki yanlışlıkla bir mü’mini öldürdü mü’min bir köle azadetmelidir ve bağışlamaları başka ölenin ailesine bir diyet vermelidir eğer o (öldürülen) mü’min sizin düşmanınız olan bir topluluktan ise mü’min bir köle azadetmelidir ve eğer sizinle kendileri arasında andlaşma bulunan bir topluluktan ise ailesine bir diyet verilecektir ve mü’min bir köle azadetmek lazımdır bunları bulamayan Allah tarafından tevbesinin kabulü için ardı ardına iki ay oruç tutmalıdır  [Alîm Hakîm] Allah bilendir hüküm ve hikmet sahibidir
-**(93)** 
-**(94)** 
+**(93)** kasden bir mü’mini her kim öldürürse onun cezası içinde sürekli kalacağı cehennemdir ve Allah ona gazabetmiştir ve la’net etmiştir ve onun için büyük bir azab hazırlamıştır
+**(94)** ey inanan(lar); [imanlı] kimseler Allah yolunda savaşa çıktığınız zaman iyi anlayın, dinleyin size selam veren kimseye dünya hayatının geçici menfaatini gözeterek sen mü’min değilsin demeyin çünkü Allah’ın yanında çok ganimetler vardır önceden siz de böyle idiniz Allah size lütfetti o halde iyice anlayın çünkü Allah yaptıklarınız şeyleri haber almaktadır
 **(95)** 
 **(96)** 
 **(97)** 
