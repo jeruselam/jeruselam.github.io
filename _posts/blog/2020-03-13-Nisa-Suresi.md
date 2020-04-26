@@ -111,7 +111,7 @@ tag:
 **(98)** gerçekten zayıf erkekler ve kadınlar ve hiçbir çareye gücü yetmeyenler çocuklar ve (göç için) yol bulamayan yalnız hariçtir
 **(99)** Allah’ın onları affetmesi işte umulur ve [Afuv Ğafûr] Allah çok affedendir çok bağışlayandır
 **(100)** ve kim ki Allah yolunda göç eder yeryüzünde gidecek çok yer ve bolluk bulur ve kim ki Allah’a ve Elçisine göç etmek amacıyle evinden çıkar sonra kendisine ölüm yetişirse muhakkak onun mükafatı Allah’a düşer ve [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
-**(101)** 
+**(101)** ve inkar eden(lerin); [kafir] kimselerin size bir kötülük yapmalarından korkarsanız eğer yeryüzünde sefere çıktığınız zaman namazdan kısaltmanızdan ötürü size bir günah yoktur muhakkak ki kafirler sizin açık düşmanınızdır
 **(102)** 
 **(103)** 
 **(104)** 
