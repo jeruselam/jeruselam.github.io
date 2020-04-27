@@ -112,7 +112,7 @@ tag:
 **(99)** Allah’ın onları affetmesi işte umulur ve [Afuv Ğafûr] Allah çok affedendir çok bağışlayandır
 **(100)** ve kim ki Allah yolunda göç eder yeryüzünde gidecek çok yer ve bolluk bulur ve kim ki Allah’a ve Elçisine göç etmek amacıyle evinden çıkar sonra kendisine ölüm yetişirse muhakkak onun mükafatı Allah’a düşer ve [Ğafur Rahîm] Allah bağışlayandır esirgeyendir
 **(101)** ve inkar eden(lerin); [kafir] kimselerin size bir kötülük yapmalarından korkarsanız eğer yeryüzünde sefere çıktığınız zaman namazdan kısaltmanızdan ötürü size bir günah yoktur muhakkak ki kafirler sizin açık düşmanınızdır
-**(102)** 
+**(102)** ve sen içlerinde onlara salatı [emredip] ayağa kaldırdığın zaman seninle beraber onlardan bir bölük dursun ve silahlarını da (yanlarına) alsınlar secde edince arkanıza geçsinler bu kez salat etmeyen öteki bölük gelsin ve seninle beraber salat etsin ve korunma(tedbir)lerini ve silahlarını da alsınlar inkar eden(ler); [kafir] kimseler keşke siz silahlarınızdan ve eşyanızdan gaflet etseniz de üzerinize birden bir baskın yapsalar eğer siz yağmurdan zahmet çekerseniz ya da hasta olursanız size bir günah yoktur ama korunma tedbirinizi alın şüphesiz Allah kafirlere alçaltıcı bir azab hazırlamıştır
 **(103)** 
 **(104)** 
 **(105)** 
