@@ -115,7 +115,7 @@ tag:
 **(102)** ve sen içlerinde onlara salatı [emredip] ayağa kaldırdığın zaman seninle beraber onlardan bir bölük dursun ve silahlarını da (yanlarına) alsınlar secde edince arkanıza geçsinler bu kez salat etmeyen öteki bölük gelsin ve seninle beraber salat etsin ve korunma(tedbir)lerini ve silahlarını da alsınlar inkar eden(ler); [kafir] kimseler keşke siz silahlarınızdan ve eşyanızdan gaflet etseniz de üzerinize birden bir baskın yapsalar eğer siz yağmurdan zahmet çekerseniz ya da hasta olursanız size bir günah yoktur ama korunma tedbirinizi alın şüphesiz Allah kafirlere alçaltıcı bir azab hazırlamıştır
 **(103)** salatı bitirdiğiniz zaman ayakta ve oturarak ve yanlarınız üzerinde (uzanarak) Allah'ı anın güvene kavuştuğunuz zaman salatı ayağa kaldırın şüphesiz salat mü'minler üzerine vakitli olarak yazılmıştır
 **(104)** o topluluğu takibetmekte gevşeklik göstermeyin eğer siz acı çekiyorsanuz onlar da sizin acı çektiğiniz gibi acı çekmektedirler ve onların ummayacakları şeyleri siz Allah'tan ummaktasınız [Alim hâkim] Alah bilendir hüküm ve hikmet sahibidir
-**(105)** muhakkak biz Kitabı sana indirdik ki Allah'ın sana gösterdiği biçimde insanlar arasında gerçek ile hüküm veresin diye hainlerin savunucusu olma
+**(105)** muhakkak biz Kitabı sana gerçek ile indirdik ki Allah'ın sana gösterdiği biçimde insanlar arasında hüküm veresin diye hainlerin savunucusu olma
 **(106)** 
 **(107)** 
 **(108)** 
