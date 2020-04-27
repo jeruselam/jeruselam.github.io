@@ -116,9 +116,9 @@ tag:
 **(103)** salatı bitirdiğiniz zaman ayakta ve oturarak ve yanlarınız üzerinde (uzanarak) Allah'ı anın güvene kavuştuğunuz zaman salatı ayağa kaldırın şüphesiz salat mü'minler üzerine vakitli olarak yazılmıştır
 **(104)** o topluluğu takibetmekte gevşeklik göstermeyin eğer siz acı çekiyorsanuz onlar da sizin acı çektiğiniz gibi acı çekmektedirler ve onların ummayacakları şeyleri siz Allah'tan ummaktasınız [Alim hâkim] Alah bilendir hüküm ve hikmet sahibidir
 **(105)** muhakkak biz Kitabı sana gerçek ile indirdik ki Allah'ın sana gösterdiği biçimde insanlar arasında hüküm veresin diye hainlerin savunucusu olma
-**(106)** 
-**(107)** 
-**(108)** 
+**(106)** ve Allah'tan mağfiret dile kuşkusuz [Ğafûr Rahîm] Allah bağışlayandır esirgeyendir
+**(107)** kendilerine hainlik eden(leri) kimseleri savunma zira Allah günah işleyen hainlik yapan kimseyi sevmez
+**(108)** insanlardan gizleniyorlar Allah'tan gizlenmiyorlar oysa (O'nun) istemediği şeyleri sözü geceleyin söyledikleri zaman O onlarla beraberdir Allah onların yaptıkları herşeyi kuşatmıştır
 **(109)** 
 **(110)** 
 **(111)** 
