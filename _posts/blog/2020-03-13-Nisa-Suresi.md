@@ -131,9 +131,9 @@ tag:
 **(118)** Allah ona la'net etti ve (o da) senin kullarından elbette belirli bir pay alacağım dedi
 **(119)** ve onları mutlaka saptıracağım ve mutlaka onları boş kuruntulara sokacağım ve onlara emredeceğim hayvanların kulaklarını yaracaklar ve onlara emredeceğim Allah'ın yaratışını değiştirecekler ve Allah'ın yerine şeytanı dost kim tutarsa muhakkak ki açık bir ziyanla ziyana uğramıştır
 **(120)** (Şeytan) onlara söz verir ve umut verir ve şeytanın sözü aldatmadan başka bir şey değildir
-**(121)** 
-**(122)** 
-**(123)** 
+**(121)** işte onların varacağı yer cehennemdir ondan kaçmak (imkanı) asla bulamazlar
+**(122)** inanan(ları); [imanlı] kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokacağız orada ebedi kalacaklardır bu Allah'ın gerçek va'didir sözlü Allah'tan daha doğru kim olabilir?
+**(123)** sizin kuruntularınızla (İş) olmaz ve Kitap ehlinin kuruntularıyla  olmaz kötülük yapan kimse onunla cezalandırılır ve kendisine Allah'tan başka (ne) bir dost ne de bir yardımcı bulamaz
 **(124)** 
 **(125)** 
 **(126)** 
