@@ -134,9 +134,9 @@ tag:
 **(121)** işte onların varacağı yer cehennemdir ondan kaçmak (imkanı) asla bulamazlar
 **(122)** inanan(ları); [imanlı] kimseleri ve iyi işler yapanları altlarından ırmaklar akan cennetlere sokacağız orada ebedi kalacaklardır bu Allah'ın gerçek va'didir sözlü Allah'tan daha doğru kim olabilir?
 **(123)** sizin kuruntularınızla (İş) olmaz ve Kitap ehlinin kuruntularıyla  olmaz kötülük yapan kimse onunla cezalandırılır ve kendisine Allah'tan başka (ne) bir dost ne de bir yardımcı bulamaz
-**(124)** 
-**(125)** 
-**(126)** 
+**(124)** ve erkekten veya kadından ve onlar inanarak her kim güzel işler yaparsa işte öyle kimseler cennete girerler ve zerre kadar haksızlığa uğratılmazlar
+**(125)** ve dosdoğru İbrahim dinine tabi olan ve o iyilik edici olarak Allah'a yüzünü teslim eden kimseden din yönünden kim daha güzeldir? Allah İbrahim'i dost edinmişti
+**(126)** göklerde olanların hepsi ve yerde olanların hepsi Allah'ındır Allah her şeyi kuşatmıştır
 **(127)** 
 **(128)** 
 **(129)** 
