@@ -137,7 +137,7 @@ tag:
 **(124)** ve erkekten veya kadından ve onlar inanarak her kim güzel işler yaparsa işte öyle kimseler cennete girerler ve zerre kadar haksızlığa uğratılmazlar
 **(125)** ve dosdoğru İbrahim dinine tabi olan ve o iyilik edici olarak Allah'a yüzünü teslim eden kimseden din yönünden kim daha güzeldir? Allah İbrahim'i dost edinmişti
 **(126)** göklerde olanların hepsi ve yerde olanların hepsi Allah'ındır Allah her şeyi kuşatmıştır
-**(127)** 
+**(127)** kadınlar hakkında ve zavallı çocuklar hakkında ve öksüzlere karşı adaleti yerine getirmeniz hakkında senden fetva istiyorlar de ki onlar hakkında Allah size hükmünü açıklıyor öksüz kadınlar hakkında Kitapta size okunan(ayet)ler vardır onlar ki kendilerine yazılmış olanı onlara vermiyorsunuz ve kendileriyle evlenmek istiyorsunuz yapacağınız her hayrı muhakkak ki Allah onu bilir
 **(128)** 
 **(129)** 
 **(130)** 
