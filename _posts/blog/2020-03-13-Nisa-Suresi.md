@@ -130,7 +130,7 @@ tag:
 **(117)** O'nu bırakıp da yalnızca birtakım dişilere çağırıyorlar ve yalnızca asi şeytana çağırıyorlar
 **(118)** Allah ona la'net etti ve (o da) senin kullarından elbette belirli bir pay alacağım dedi
 **(119)** ve onları mutlaka saptıracağım ve mutlaka onları boş kuruntulara sokacağım ve onlara emredeceğim hayvanların kulaklarını yaracaklar ve onlara emredeceğim Allah'ın yaratışını değiştirecekler ve Allah'ın yerine şeytanı dost kim tutarsa muhakkak ki açık bir ziyanla ziyana uğramıştır
-**(120)** 
+**(120)** (Şeytan) onlara söz verir ve umut verir ve şeytanın sözü aldatmadan başka bir şey değildir
 **(121)** 
 **(122)** 
 **(123)** 
