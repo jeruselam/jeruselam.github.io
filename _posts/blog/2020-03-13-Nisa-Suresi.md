@@ -139,9 +139,9 @@ tag:
 **(126)** göklerde olanların hepsi ve yerde olanların hepsi Allah'ındır Allah her şeyi kuşatmıştır
 **(127)** kadınlar hakkında ve zavallı çocuklar hakkında ve öksüzlere karşı adaleti yerine getirmeniz hakkında senden fetva istiyorlar de ki onlar hakkında Allah size hükmünü açıklıyor öksüz kadınlar hakkında Kitapta size okunan(ayet)ler vardır onlar ki kendilerine yazılmış olanı onlara vermiyorsunuz ve kendileriyle evlenmek istiyorsunuz yapacağınız her hayrı muhakkak ki Allah onu bilir
 **(128)** 	ve eğer bir kadın kocasının huysuzluğundan yahut yüz çevirmesinden korkarsa anlaşma ile aralarını düzeltmelerinde ikisine de günah yoktur ve barış daima iyidir ve cimriliğe nefisler hazırdır eğer 	güzel geçinir ve sakınırsanız şüphesiz Allah yaptıklarınız şeyleri haber alır
-**(129)** 
-**(130)** 
-**(131)** 
+**(129)** ve ne kadar isteseniz de kadınlar arasında (tam) adalet yapamazsınız öyle ise (birine) tamamen yönelişle meylemeyin ötekini 	askıda (kocasızmış) gibi bırakmayın eğer arayı düzeltir sakınırsanız şüphesiz Allah bağışlayandır esirgeyendir
+**(130)** eğer (eşler) ayrılırlarsa Allah bol ni’metiyle onların her birini zengin eder Allah(ın) (ni’meti) geniştir [vâsi hakim] hüküm ve hikmet sahibidir
+**(131)** göklerde olanlar ve yerde olanlar Allah’ındır ettik sizden önce Kitap verilen(lere) kimselere ve size de Allah’tan korkun diye muhakkak tavsiye eğer inkar ederseniz şüphesiz göklerde olanlar ve yerde olanlar Allah’ındır Allah zengindir övgüye layıktır
 **(132)** 
 **(133)** 
 **(134)** 
