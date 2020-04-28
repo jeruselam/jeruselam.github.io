@@ -121,10 +121,10 @@ tag:
 **(108)** insanlardan gizleniyorlar Allah'tan gizlenmiyorlar oysa (O'nun) istemediği şeyleri sözü geceleyin söyledikleri zaman O onlarla beraberdir Allah onların yaptıkları herşeyi kuşatmıştır
 **(109)** haydi siz dünya hayatında onları savundunuz kıyamet günü onları Allah'a karşı ya kim savunacak ya da kim onlara vekil olacak
 **(110)** ve kim bir kötülük yaparsa yahut nefsine zulmederse sonra Allah'tan mağfiret dilerse Allah'ı bağışlayıcı ve esirgeyici bulur
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
+**(111)** ve kim bir günah işlerse muhakkak onu kendi aleyhine kazanır [Alim hâkim] Allah bilendir hüküm ve hikmet sahibidir
+**(112)** ve kim bir hata ya da günah işlerse sonra onu bir suçsuzun üstüne atarsa muhakkak ki büyük bir iftira ve açık bir günah yüklenmiş olur 
+**(113)** ve sana Allah'ın lütfu ve acıması olmasaydı onlardan bir grup seni saptırmağa yeltenmişti onlar kendilerinden başkasını saptıramazlar sana hiçbir şey[le] zarar veremezler ve Kitabı ve hikmeti sana Allah indirdi ve biliyor olmadığın şeyleri sana öğretti ve sana Allah'ın lütfu büyüktür
+**(114)** gizli konuşmalarının çoğunda hayır yoktur sadakayı yahut iyiliği ya da insanların arasını düzeltmeyi emreden kimse yalnız hariç ve Allah'ın rızasını kazanmak amacıyle bunu kim yaparsa yakında ona büyük bir mükafat vereceğiz
 **(115)** 
 **(116)** 
 **(117)** 
