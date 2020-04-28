@@ -120,7 +120,7 @@ tag:
 **(107)** kendilerine hainlik eden(leri) kimseleri savunma zira Allah günah işleyen hainlik yapan kimseyi sevmez
 **(108)** insanlardan gizleniyorlar Allah'tan gizlenmiyorlar oysa (O'nun) istemediği şeyleri sözü geceleyin söyledikleri zaman O onlarla beraberdir Allah onların yaptıkları herşeyi kuşatmıştır
 **(109)** haydi siz dünya hayatında onları savundunuz kıyamet günü onları Allah'a karşı ya kim savunacak ya da kim onlara vekil olacak
-**(110)** 
+**(110)** ve kim bir kötülük yaparsa yahut nefsine zulmederse sonra Allah'tan mağfiret dilerse Allah'ı bağışlayıcı ve esirgeyici bulur
 **(111)** 
 **(112)** 
 **(113)** 
