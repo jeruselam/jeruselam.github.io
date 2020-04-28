@@ -125,10 +125,10 @@ tag:
 **(112)** ve kim bir hata ya da günah işlerse sonra onu bir suçsuzun üstüne atarsa muhakkak ki büyük bir iftira ve açık bir günah yüklenmiş olur 
 **(113)** ve sana Allah'ın lütfu ve acıması olmasaydı onlardan bir grup seni saptırmağa yeltenmişti onlar kendilerinden başkasını saptıramazlar sana hiçbir şey[le] zarar veremezler ve Kitabı ve hikmeti sana Allah indirdi ve biliyor olmadığın şeyleri sana öğretti ve sana Allah'ın lütfu büyüktür
 **(114)** gizli konuşmalarının çoğunda hayır yoktur sadakayı yahut iyiliği ya da insanların arasını düzeltmeyi emreden kimse yalnız hariç ve Allah'ın rızasını kazanmak amacıyle bunu kim yaparsa yakında ona büyük bir mükafat vereceğiz
-**(115)** 
-**(116)** 
-**(117)** 
-**(118)** 
+**(115)** doğru yol kendisine belli olduktan sonra kim de Elçi'ye karşı gelir ve mü'minlerin yolundan başkasına uyarsa 	onu döndüğü (yola) yöneltiriz ve cehenneme sokarız ne kötü bir gidiş yeridir
+**(116)** şüpheiz Allah kendisine ortak koşulmasını bağışlamaz ve dilediği kimseye bundan başka herşeyi bağışlar ve kim Allah'a ortak koşarsa muhakkak uzak bir sapkınlıkla sapıklığa düşmüştür 
+**(117)** O'nu bırakıp da yalnızca birtakım dişilere çağırıyorlar ve yalnızca asi şeytana çağırıyorlar
+**(118)** Allah ona la'net etti ve (o da) senin kullarından elbette belirli bir pay alacağım dedi
 **(119)** 
 **(120)** 
 **(121)** 
