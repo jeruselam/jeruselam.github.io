@@ -154,8 +154,8 @@ tag:
 **(141)** onlar ki sizi gözetleyip dururlar eğer Allah’tan size bir fetih (nasib)olursa biz de sizinle beraber değil miydik? derler ve eğer kafirlerin (savaşta) bir payı olursa size biz üstünlük sağlamadık mı ve mü’minlerden sizi korumadık mı? derler artık Allah kıyamet gününde aranızda hükmedecek ve Allah kafirlere asla mü’minlere karşı bir yol vermeyecektir
 **(142)** şüphesiz iki yüzlüler Allah’ı aldatmağa çalışırlar oysa O onları aldatır namaza kalktıkları zaman üşene üşene kalkarlar insanlara gösteriş yaparlar ancak Allah’ı biraz anmazlar
 **(143)** bu arada yalpalayıp dururlar ne bunlara ne de onlara ve Allah’ın şaşırttığı kimseye ona bir (çıkar) yol bulamazsın
-**(144)** 
-**(145)** 
+**(144)** ey inanan(lar); [imanlı] kimseler mü’minleri bırakıp kafirleri dost edinmeyin Allah’a aleyhinizde olacak apaçık bir delil vermek mi istiyorsunuz?
+**(145)** doğrusu iki yüzlüler ateşin en aşağı tabakasındadırlar ve onlar için hiçbir yardımcı asla bulamazsın
 **(146)** 
 **(147)** 
 **(148)** 
