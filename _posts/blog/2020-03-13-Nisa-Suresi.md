@@ -146,10 +146,10 @@ tag:
 **(133)** eğer (Allah) dilerse ey insanlar sizi götürür ve başkalarını getirir ve Allah buna hakkıyla kadirdir
 **(134)** dünya sevabını kim isterse (bilsin ki) dünya ve ahiret sevabı Allah katındadır [Semî Basîr] Allah işitendir görendir
 **(135)** ey inanan(lar); [imanlı] kimseler kendinizin veya eğer zengin veya fakir de olsalar ana babanızın ve yakınlarınızın aleyhinde bile olsa Allah için adaleti ayakta tutarak şahidler olun çünkü Allah ikisine de daha yakındır öyle ise keyfinize uyarak adaletten sapmayın ve eğer eğip bükerseniz ya da doğruyu söylemezseniz muhakkak ki Allah yaptıklarınızdan haberdar olandır
-**(136)** 
-**(137)** 
-**(138)** 
-**(139)** 
+**(136)** ey inanan(lar); [imanlı] kimseler Allah’a ve Elçisine ve o ki Elçisine indirdi Kitaba ve o ki daha öncekilere indirdi Kitaba inanın ve Allah’ı ve meleklerini ve Kitaplarını ve elçilerini ve ahiret gününü kim inkar ederse muhakkak uzak bir sapıklıkla sapıtmıştır
+**(137)** şüphesiz o kimseler inandılar sonra inkar ettiler sonra inandılar yine inkar ettiler sonra inkarları arttı Allah onları bağışlayacak değildir (doğru) yola iletmeyecektir
+**(138)** şüphesiz acıklı bir azabın kendilerinin olacağını Münafıklara müjdele
+**(139)** onlar mü’minleri bırakıp kafirleri dost tutuyorlar onların yanında [onur ve] şeref mi arıyorlar? şüphesiz [kudret ve] şeref tamamen Allaha aittir
 **(140)** 
 **(141)** 
 **(142)** 
