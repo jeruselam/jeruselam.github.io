@@ -39,7 +39,7 @@ tag:
 **(26)** Allah size açıklamak ve sizden önceki(lerin) [evvelki] kimselerin yasalarına sizi iletmek ve günahlarınızı bağışlamak istiyor Allah bilendir hüküm ve hikmet sahibidir
 **(27)** Allah sizin tevbenizi kabul etmek istiyor ve şehvetlerine uyan(lar) [o] kimseler sizin büyük bir sapıklığa düşmenizi istiyorlar
 **(28)** Allah [telaşeyi kolayca] sizden hafifletmek istiyor ve insan zayıf yaratılmıştır
-**(29)** ey inanan(lar) [imanlı] kimseler kendi rızanızla yaptığınız ticaret olan haricinde batılla (haksız yere) aranızda mallarınızı yemeyin canlarınızı öldürmeyin doğrusu [Rahîm] Allah size karşı çok merhametlidir 
+**(29)** ey inanan(lar); [imanlı] kimseler kendi rızanızla yaptığınız ticaret olan haricinde batılla (haksız yere) aranızda mallarınızı yemeyin canlarınızı öldürmeyin doğrusu [Rahîm] Allah size karşı çok merhametlidir 
 **(30)** düşmanlık ile ve zulüm ile kim bunu yaparsa (bilsin ki) onu cehenneme sokacağız ve bu Allah’a karşı kolaydır
 **(31)** ne ki ondan size yasaklanan büyük günahlardan eğer kaçınırsanız sizin küçük günahlarınızı örteriz ve sizi güzel bir yere sokarız
 **(32)** Allah’ın bir kısmınızı onunla diğerine karşı üstün kıldığı şeylere göz dikmeyin kazandıkları şeylerden erkeklere bir pay vardır ve kazandıkları şeylerden bir pay kadınlara vardır  Allah’ın lutfundan isteyin kuşkusuz Allah her şeyi bilendir
@@ -138,14 +138,14 @@ tag:
 **(125)** ve dosdoğru İbrahim dinine tabi olan ve o iyilik edici olarak Allah'a yüzünü teslim eden kimseden din yönünden kim daha güzeldir? Allah İbrahim'i dost edinmişti
 **(126)** göklerde olanların hepsi ve yerde olanların hepsi Allah'ındır Allah her şeyi kuşatmıştır
 **(127)** kadınlar hakkında ve zavallı çocuklar hakkında ve öksüzlere karşı adaleti yerine getirmeniz hakkında senden fetva istiyorlar de ki onlar hakkında Allah size hükmünü açıklıyor öksüz kadınlar hakkında Kitapta size okunan(ayet)ler vardır onlar ki kendilerine yazılmış olanı onlara vermiyorsunuz ve kendileriyle evlenmek istiyorsunuz yapacağınız her hayrı muhakkak ki Allah onu bilir
-**(128)** 	ve eğer bir kadın kocasının huysuzluğundan yahut yüz çevirmesinden korkarsa anlaşma ile aralarını düzeltmelerinde ikisine de günah yoktur ve barış daima iyidir ve cimriliğe nefisler hazırdır eğer 	güzel geçinir ve sakınırsanız şüphesiz Allah yaptıklarınız şeyleri haber alır
+**(128)** ve eğer bir kadın kocasının huysuzluğundan yahut yüz çevirmesinden korkarsa anlaşma ile aralarını düzeltmelerinde ikisine de günah yoktur ve barış daima iyidir ve cimriliğe nefisler hazırdır eğer 	güzel geçinir ve sakınırsanız şüphesiz Allah yaptıklarınız şeyleri haber alır
 **(129)** ve ne kadar isteseniz de kadınlar arasında (tam) adalet yapamazsınız öyle ise (birine) tamamen yönelişle meylemeyin ötekini 	askıda (kocasızmış) gibi bırakmayın eğer arayı düzeltir sakınırsanız şüphesiz Allah bağışlayandır esirgeyendir
 **(130)** eğer (eşler) ayrılırlarsa Allah bol ni’metiyle onların her birini zengin eder Allah(ın) (ni’meti) geniştir [vâsi hakim] hüküm ve hikmet sahibidir
 **(131)** göklerde olanlar ve yerde olanlar Allah’ındır ettik sizden önce Kitap verilen(lere) kimselere ve size de Allah’tan korkun diye muhakkak tavsiye eğer inkar ederseniz şüphesiz göklerde olanlar ve yerde olanlar Allah’ındır Allah zengindir övgüye layıktır
-**(132)** 
-**(133)** 
-**(134)** 
-**(135)** 
+**(132)** göklerde olanlar ve yerde olanlar Allah’ındır ve vekil olarak Allah yeter
+**(133)** eğer (Allah) dilerse ey insanlar sizi götürür ve başkalarını getirir ve Allah buna hakkıyla kadirdir
+**(134)** dünya sevabını kim isterse (bilsin ki) dünya ve ahiret sevabı Allah katındadır [Semî Basîr] Allah işitendir görendir
+**(135)** ey inanan(lar); [imanlı] kimseler kendinizin veya eğer zengin veya fakir de olsalar ana babanızın ve yakınlarınızın aleyhinde bile olsa Allah için adaleti ayakta tutarak şahidler olun çünkü Allah ikisine de daha yakındır öyle ise keyfinize uyarak adaletten sapmayın ve eğer eğip bükerseniz ya da doğruyu söylemezseniz muhakkak ki Allah yaptıklarınızdan haberdar olandır
 **(140)** 
 **(141)** 
 **(142)** 
