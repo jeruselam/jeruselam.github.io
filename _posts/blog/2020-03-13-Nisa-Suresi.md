@@ -152,7 +152,7 @@ tag:
 **(139)** onlar mü’minleri bırakıp kafirleri dost tutuyorlar onların yanında [onur ve] şeref mi arıyorlar? şüphesiz [kudret ve] şeref tamamen Allaha aittir
 **(140)** Allah’ın ayetlerinin; muhakkak onların inkar edildiğini ve onlarla alay edildiğini işittiğiniz zaman diye Kitapta size indirmiştir onlar başka bir söze dalıncaya kadar onlarla beraber oturmayın siz de o zaman onlar gibi olursunuz şüphesiz Allah bütün [münafık] iki yüzlüleri ve kafirleri cehennemde toplayacaktır
 **(141)** onlar ki sizi gözetleyip dururlar eğer Allah’tan size bir fetih (nasib)olursa biz de sizinle beraber değil miydik? derler ve eğer kafirlerin (savaşta) bir payı olursa size biz üstünlük sağlamadık mı ve mü’minlerden sizi korumadık mı? derler artık Allah kıyamet gününde aranızda hükmedecek ve Allah kafirlere asla mü’minlere karşı bir yol vermeyecektir
-**(142)** 
+**(142)** şüphesiz iki yüzlüler Allah’ı aldatmağa çalışırlar oysa O onları aldatır namaza kalktıkları zaman üşene üşene kalkarlar insanlara gösteriş yaparlar ancak Allah’ı biraz anmazlar
 **(143)** 
 **(144)** 
 **(145)** 
