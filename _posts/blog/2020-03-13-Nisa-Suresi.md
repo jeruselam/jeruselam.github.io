@@ -150,7 +150,7 @@ tag:
 **(137)** şüphesiz o kimseler inandılar sonra inkar ettiler sonra inandılar yine inkar ettiler sonra inkarları arttı Allah onları bağışlayacak değildir (doğru) yola iletmeyecektir
 **(138)** şüphesiz acıklı bir azabın kendilerinin olacağını Münafıklara müjdele
 **(139)** onlar mü’minleri bırakıp kafirleri dost tutuyorlar onların yanında [onur ve] şeref mi arıyorlar? şüphesiz [kudret ve] şeref tamamen Allaha aittir
-**(140)** 
+**(140)** Allah’ın ayetlerinin; muhakkak onların inkar edildiğini ve onlarla alay edildiğini işittiğiniz zaman diye Kitapta size indirmiştir onlar başka bir söze dalıncaya kadar onlarla beraber oturmayın siz de o zaman onlar gibi olursunuz şüphesiz Allah bütün [münafık] iki yüzlüleri ve kafirleri cehennemde toplayacaktır
 **(141)** 
 **(142)** 
 **(143)** 
