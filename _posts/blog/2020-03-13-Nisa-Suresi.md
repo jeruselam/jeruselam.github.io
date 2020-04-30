@@ -158,10 +158,10 @@ tag:
 **(145)** doğrusu iki yüzlüler ateşin en aşağı tabakasındadırlar ve onlar için hiçbir yardımcı asla bulamazsın
 **(146)** tevbe edenler ve uslananlar ve Allah’a yapışanlar ve sırf Allah için dinlerini yapanlar; [o] kimseler ancak hariçtir işte onlar mü’minlerle beraberdir yakında Allah da mü’minlere büyük bir mükafat verecektir
 **(147)** Allah size azabetmeyi ne? yapacak eğer siz şükreder ve inanırsanız ve Allah şükrün karşılığını verendir (herşeyi) bilendir
-**(148)** 
-**(149)** 
-**(150)** 
-**(151)** 
+**(148)** kendisine haksızlık edilen dışında açıkça kötü söz söylenmesini Allah sevmez doğrusu Allah işitendir bilendir
+**(149)** eğer bir iyiliği açığa vurursanız veya onu gizlerseniz yahut bir kötülüğü affederseniz (bilin ki) şüphesiz [Afüv Kadîr] Allah da affedicidir güçlüdür
+**(150)** şüphesiz o kimseler ki Allah’ı ve elçilerini inkar ederler ve Allah ile elçilerinin arasını ayırmak isterler ve kimine inanırız derler ve kimini inkar ederiz ve bunun (ikisinin) arasında bir yol tutmak isterler
+**(151)** işte onlar gerçek kafirlerdir biz de kafirlere alçaltıcı bir azab hazırlamışızdır
 **(152)** 
 **(153)** 
 **(154)** 
