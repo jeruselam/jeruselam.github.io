@@ -156,8 +156,8 @@ tag:
 **(143)** bu arada yalpalayıp dururlar ne bunlara ne de onlara ve Allah’ın şaşırttığı kimseye ona bir (çıkar) yol bulamazsın
 **(144)** ey inanan(lar); [imanlı] kimseler mü’minleri bırakıp kafirleri dost edinmeyin Allah’a aleyhinizde olacak apaçık bir delil vermek mi istiyorsunuz?
 **(145)** doğrusu iki yüzlüler ateşin en aşağı tabakasındadırlar ve onlar için hiçbir yardımcı asla bulamazsın
-**(146)** 
-**(147)** 
+**(146)** tevbe edenler ve uslananlar ve Allah’a yapışanlar ve sırf Allah için dinlerini yapanlar; [o] kimseler ancak hariçtir işte onlar mü’minlerle beraberdir yakında Allah da mü’minlere büyük bir mükafat verecektir
+**(147)** Allah size azabetmeyi ne? yapacak eğer siz şükreder ve inanırsanız ve Allah şükrün karşılığını verendir (herşeyi) bilendir
 **(148)** 
 **(149)** 
 **(150)** 
