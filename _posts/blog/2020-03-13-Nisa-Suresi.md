@@ -165,11 +165,11 @@ tag:
 **(152)** ve onlar ki Allah’a ve elçilerine inandılar ve onlardan hiçbiri arasında ayırım yapmadılar işte (Allah) pek yakında onların da mükafatlarını verecektir ve Allah çok bağışlayandır çok esirgeyendir
 **(153)** ehli Kitap senden kendilerine gökten bir Kitap indirmeni istiyorlar muhakkak bundan daha büyüğünü Musa’dan istemişler Allah’ı açıkça bize göster demişlerdi haksızlıklarından dolayı yıldırım gürültüsü derhal onları yakalamıştı sonra açık deliller kendilerine geldikken sonra buzağıyı (tanrı) tutmuşlardı sonra bundan da vazgeçtik ve Musa’ya açık bir yetki verdik
 **(154)** ve söz vermeleri için Tur’u üzerlerine kaldırdık ve onlara secde ederek kapıdan girin dedik ve onlara cumartesi(yasakları)nı çiğnemeyin dedik ve onlardan sağlambir söz aldık
-**(155)** hayır, fakat kalblerimiz kılıflıdır demeleri(nden ötürü) ve peygamberleri haksız yere öldürmeleri ve Allah’ın ayetlerini inkar etmeleri ve sözlerini bozmaları sebebiyle inkarlarından ötürü üzerini Allah mühürlemiştir ancak pek az artık inanmazlar
-**(156)** 
-**(157)** 
-**(158)** 
-**(159)** 
+**(155)** hayır, fakat kalblerimiz kılıflıdır demeleri(nden ötürü) ve peygamberleri haksız yere öldürmeleri ve Allah’ın ayetlerini inkar etmeleri ve sözlerini bozmaları sebebiyle inkarlarından ötürü Allah üzerini mühürlemiştir ancak pek az artık inanmazlar
+**(156)** ve Meryem’e karşı küfürlerinden ve büyük bir iftira sözlerinden (ötürü)
+**(157)** ve Allah’ın elçisi Meryem oğlu Îsa Mesih’i elbette biz öldürdük demelerinden (ötürü) oysa asmadılar fakat kendilerine benzer gösterildi ve şüphesiz onun hakkında ayrılığa düşenler ondan yana tam bir kuşku içindedirler onların o hususta hiç bilgileri yoktur sadece zanna uyuyorlar yakinen onu öldürmediler
+**(158)** hayır Allah onu kendisine yükseltti ve [Azîz Hakîm] Allah daima üstündür hüküm ve hikmet sahibidir
+**(159)** ve andolsun Kitap ehlinin her biri kıyamet günü de ölümünden önce ona ancak mutlaka inanacaktıronların aleyhine O şahid olacaktır
 **(160)** 
 **(161)** 
 **(162)** 
