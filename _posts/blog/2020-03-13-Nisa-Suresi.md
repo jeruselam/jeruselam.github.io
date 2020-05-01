@@ -167,12 +167,12 @@ tag:
 **(154)** ve söz vermeleri için Tur’u üzerlerine kaldırdık ve onlara secde ederek kapıdan girin dedik ve onlara cumartesi(yasakları)nı çiğnemeyin dedik ve onlardan sağlambir söz aldık
 **(155)** hayır, fakat kalblerimiz kılıflıdır demeleri(nden ötürü) ve peygamberleri haksız yere öldürmeleri ve Allah’ın ayetlerini inkar etmeleri ve sözlerini bozmaları sebebiyle inkarlarından ötürü Allah üzerini mühürlemiştir ancak pek az artık inanmazlar
 **(156)** ve Meryem’e karşı küfürlerinden ve büyük bir iftira sözlerinden (ötürü)
-**(157)** ve Allah’ın elçisi Meryem oğlu Îsa Mesih’i elbette biz öldürdük demelerinden (ötürü) oysa asmadılar fakat kendilerine benzer gösterildi ve şüphesiz onun hakkında ayrılığa düşenler ondan yana tam bir kuşku içindedirler onların o hususta hiç bilgileri yoktur sadece zanna uyuyorlar yakinen onu öldürmediler
+**(157)** ve Allah’ın elçisi Meryem oğlu Îsa Mesih’i elbette biz öldürdük demelerinden (ötürü) oysa asmadılar fakat kendilerine benzer gösterildi ve şüphesiz onun hakkında ayrılığa düşenler ondan yana tam bir kuşku içindedirler onların o hususta hiç bilgileri yoktur sadece zanna uyuyorlar yakinen [hiç şüpesiz] onu öldürmediler
 **(158)** hayır Allah onu kendisine yükseltti ve [Azîz Hakîm] Allah daima üstündür hüküm ve hikmet sahibidir
 **(159)** ve andolsun Kitap ehlinin her biri kıyamet günü de ölümünden önce ona ancak mutlaka inanacaktıronların aleyhine O şahid olacaktır
-**(160)** 
-**(161)** 
-**(162)** 
+**(160)** olanların zulümlerinden dolayı ve çoklarını Allah yolundan çevirmelerinden dolayı kendilerine helal kılınmış temiz ve hoş şeyleri onlara yasakladık 
+**(161)** ve ondan menedilmelerine rağmen riba almalarından ötürü ve haksız yere insanların mallarını yemelerinden ötürü [yasakladık] ve içlerinden inkar edenlere acı bir azab hazırladık
+**(162)** fakat içlerinden ilimde derinleşmiş olanlar ve mü’minler sana indirilen şeye ve senden önce indirilen şeye inanırlar O namazı kılanlar zekatı verenler Allah’a ve ahiret gününe inananlar var ya işte onlara büyük bir mükafat vereceğiz
 **(163)** 
 **(164)** 
 **(165)** 
