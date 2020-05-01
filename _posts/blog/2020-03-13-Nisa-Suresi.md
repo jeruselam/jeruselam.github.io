@@ -175,8 +175,8 @@ tag:
 **(162)** fakat içlerinden ilimde derinleşmiş olanlar ve mü’minler sana indirilen şeye ve senden önce indirilen şeye inanırlar O namazı kılanlar zekatı verenler Allah’a ve ahiret gününe inananlar var ya işte onlara büyük bir mükafat vereceğiz
 **(163)** elbette biz Nuh’a ve ondan sonraki peygamberlere vahyettiğimiz gibi sana da vahyettik nitekim İbrahim’e ve İsma’il’e ve İshak’a ve Ya’kub’a ve [tornlarından] sıbtlara ve Îsa’ya ve Eyyub’a ve Yunus’a ve Harun’a ve Süleyman’a vahyetmiştik ve Davud’a da Zebur’u vermiştik
 **(164)** ve elbette daha önce sana anlattığımız elçilere ve sana anlatmadığımız elçilere [vahyettik] ve Allah Musa’ya sözle konuşmuştu
-**(165)** 
-**(166)** 
+**(165)** müjdeleyici ve uyarıcı elçiler (gönderdik) ki elçilerden sonra insanların Allah’a karşı bahaneleri kalmasın ve Allah üstündür hüküm ve hikmet sahibidir
+**(166)** oysa Allah şahidlik eder ne ki sana indirdi kendi bilgisiyle 	indirmiş olduğuna ve melekler de şahidlik ederler Allah’ın şahidliği kafidir
 **(167)** 
 **(168)** 
 **(169)** 
