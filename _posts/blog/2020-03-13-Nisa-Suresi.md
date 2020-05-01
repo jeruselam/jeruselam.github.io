@@ -162,10 +162,10 @@ tag:
 **(149)** eğer bir iyiliği açığa vurursanız veya onu gizlerseniz yahut bir kötülüğü affederseniz (bilin ki) şüphesiz [Afüv Kadîr] Allah da affedicidir güçlüdür
 **(150)** şüphesiz o kimseler ki Allah’ı ve elçilerini inkar ederler ve Allah ile elçilerinin arasını ayırmak isterler ve kimine inanırız derler ve kimini inkar ederiz ve bunun (ikisinin) arasında bir yol tutmak isterler
 **(151)** işte onlar gerçek kafirlerdir biz de kafirlere alçaltıcı bir azab hazırlamışızdır
-**(152)** 
-**(153)** 
-**(154)** 
-**(155)** 
+**(152)** ve onlar ki Allah’a ve elçilerine inandılar ve onlardan hiçbiri arasında ayırım yapmadılar işte (Allah) pek yakında onların da mükafatlarını verecektir ve Allah çok bağışlayandır çok esirgeyendir
+**(153)** ehli Kitap senden kendilerine gökten bir Kitap indirmeni istiyorlar muhakkak bundan daha büyüğünü Musa’dan istemişler Allah’ı açıkça bize göster demişlerdi haksızlıklarından dolayı yıldırım gürültüsü derhal onları yakalamıştı sonra açık deliller kendilerine geldikken sonra buzağıyı (tanrı) tutmuşlardı sonra bundan da vazgeçtik ve Musa’ya açık bir yetki verdik
+**(154)** ve söz vermeleri için Tur’u üzerlerine kaldırdık ve onlara secde ederek kapıdan girin dedik ve onlara cumartesi(yasakları)nı çiğnemeyin dedik ve onlardan sağlambir söz aldık
+**(155)** hayır, fakat kalblerimiz kılıflıdır demeleri(nden ötürü) ve peygamberleri haksız yere öldürmeleri ve Allah’ın ayetlerini inkar etmeleri ve sözlerini bozmaları sebebiyle inkarlarından ötürü üzerini Allah mühürlemiştir ancak pek az artık inanmazlar
 **(156)** 
 **(157)** 
 **(158)** 
