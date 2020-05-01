@@ -173,8 +173,8 @@ tag:
 **(160)** olanların zulümlerinden dolayı ve çoklarını Allah yolundan çevirmelerinden dolayı kendilerine helal kılınmış temiz ve hoş şeyleri onlara yasakladık 
 **(161)** ve ondan menedilmelerine rağmen riba almalarından ötürü ve haksız yere insanların mallarını yemelerinden ötürü [yasakladık] ve içlerinden inkar edenlere acı bir azab hazırladık
 **(162)** fakat içlerinden ilimde derinleşmiş olanlar ve mü’minler sana indirilen şeye ve senden önce indirilen şeye inanırlar O namazı kılanlar zekatı verenler Allah’a ve ahiret gününe inananlar var ya işte onlara büyük bir mükafat vereceğiz
-**(163)** 
-**(164)** 
+**(163)** elbette biz Nuh’a ve ondan sonraki peygamberlere vahyettiğimiz gibi sana da vahyettik nitekim İbrahim’e ve İsma’il’e ve İshak’a ve Ya’kub’a ve [tornlarından] sıbtlara ve Îsa’ya ve Eyyub’a ve Yunus’a ve Harun’a ve Süleyman’a vahyetmiştik ve Davud’a da Zebur’u vermiştik
+**(164)** ve elbette daha önce sana anlattığımız elçilere ve sana anlatmadığımız elçilere [vahyettik] ve Allah Musa’ya sözle konuşmuştu
 **(165)** 
 **(166)** 
 **(167)** 
