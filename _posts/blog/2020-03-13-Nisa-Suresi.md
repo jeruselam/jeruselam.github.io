@@ -177,11 +177,11 @@ tag:
 **(164)** ve elbette daha önce sana anlattığımız elçilere ve sana anlatmadığımız elçilere [vahyettik] ve Allah Musa’ya sözle konuşmuştu
 **(165)** müjdeleyici ve uyarıcı elçiler (gönderdik) ki elçilerden sonra insanların Allah’a karşı bahaneleri kalmasın ve Allah üstündür hüküm ve hikmet sahibidir
 **(166)** oysa Allah şahidlik eder ne ki sana indirdi kendi bilgisiyle 	indirmiş olduğuna ve melekler de şahidlik ederler Allah’ın şahidliği kafidir
-**(167)** 
-**(168)** 
-**(169)** 
-**(170)** 
-**(171)** 
+**(167)** şüphesiz inkar eden(ler); [kafir] kimseler ve Allah yolundan menedenler hakikaten uzak bir sapıklığa düşmüşlerdir
+**(168)** şüphesiz inkar eden(ler); [kafir] kimseler ve zulmedenler Allah onları bağışlayan olmayacak ve yola iletmeyecektir
+**(169)** sadece cehennemin yoluna (iletecektir) orada sürekli kalacaklardır ve bu da Allah’a çok kolaydır
+**(170)** ey insanlar muhakkak ki Elçi Rabbinizden gerçeği size getirdi kendi yararınıza olarak inanın eğer inkar ederseniz bilin ki göklerde ve yerde olanlar Allah’ındır ve Allah bilendir hüküm ve hikmet sahibidir
+**(171)** [ey] Kitap ehli dininizde taşkınlık etmeyin ve gerçek dışında Allah hakkında söylemeyin şüphesiz Meryem oğlu Îsa Mesih Allah’ın elçisidir ve O’nun Meryem’e attığı kelimesidir ve O’ndan bir ruhtur Allah’a ve elçilerine inanın (Allah) "Üçtür" demeyin kendi yararınıza olarak buna son verin çünkü Allah bir [ilâh] tek tanrıdır O çocuk sahibi olmaktan kendisi yücedir göklerde olanlar ve yerde olanlar O’nundur ve Allah vekil olarak yeter
 **(172)** 
 **(173)** 
 **(174)** 
