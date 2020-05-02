@@ -186,7 +186,7 @@ tag:
 **(173)** inanan(lara); [imanlı] kimselere ve iyi işler yapanlara gelince mükafatlarını eksiksiz ödeyecektir ve çekinen(lere); [kaçınan] kimselere gelince lütfundan daha fazlasını da verecektir ve büyüklük taslayanlara acıklı bir azapla azabedecektir ve onlar kendilerine Allah’tan başka bir dost bulamayacaklardır
 **(174)** ey insanlar muhakkak ki Rabbinizden size bir delil geldi ve size apaçık bir nur indirdik 
 **(175)** Alah’a inanan(lara); [imanlı] kimselere ve O’na yapışanlara gelince kendinden bir rahmetin ve lütfun içine sokacaktır ve onları kendisine varan doğru bir yola iletecektir
-**(176)** senden fetva istiyorlar de ki Allah kelale hakkında size şöyle açıklıyor eğer ölen kişinin onun çocuğu yoksa bir kızkardeşi [varsa fakat kendisi] ne ki miras bıraktı yarısı o(kızkardeşi)nindir eğer yoksa (kızkardeşinin) kendi çocuğu onun mirasını alır eğer iki kızkardeşi varsa bıraktığı mirasın üçte ikisi onlarındır ve eğer erkek ve kadın (birçok) kardeşler olursa erkeğe iki kadının payı kadar (verilir) şaşırırsınız diye Allah size açıklıyor Allah her şeyi bilir
+**(176)** senden fetva istiyorlar de ki Allah kelale hakkında size şöyle açıklıyor eğer ölen kişinin onun çocuğu yoksa bir kızkardeşi [varsa] fakat kendisi ne ki miras bıraktı yarısı o(kızkardeşi)nindir eğer yoksa (kızkardeşinin) kendi çocuğu onun [kızkardeşinin] mirasını alır eğer iki kızkardeşi varsa bıraktığı mirasın üçte ikisi onlarındır ve eğer erkek ve kadın (birçok) kardeşler olursa erkeğe iki kadının payı kadar (verilir) şaşırırsınız diye Allah size açıklıyor Allah her şeyi bilir
 
 
 ![04Nisâ-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
