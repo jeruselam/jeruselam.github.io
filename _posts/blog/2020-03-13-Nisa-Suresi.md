@@ -182,7 +182,7 @@ tag:
 **(169)** sadece cehennemin yoluna (iletecektir) orada sürekli kalacaklardır ve bu da Allah’a çok kolaydır
 **(170)** ey insanlar muhakkak ki Elçi Rabbinizden gerçeği size getirdi kendi yararınıza olarak inanın eğer inkar ederseniz bilin ki göklerde ve yerde olanlar Allah’ındır ve Allah bilendir hüküm ve hikmet sahibidir
 **(171)** [ey] Kitap ehli dininizde taşkınlık etmeyin ve gerçek dışında Allah hakkında söylemeyin şüphesiz Meryem oğlu Îsa Mesih Allah’ın elçisidir ve O’nun Meryem’e attığı kelimesidir ve O’ndan bir ruhtur Allah’a ve elçilerine inanın (Allah) "Üçtür" demeyin kendi yararınıza olarak buna son verin çünkü Allah bir [ilâh] tek tanrıdır O çocuk sahibi olmaktan kendisi yücedir göklerde olanlar ve yerde olanlar O’nundur ve Allah vekil olarak yeter
-**(172)** 
+**(172)** Allah’a kul olmaktan Mesih çekinmez ve (Allah’a) yaklaştırılmış melekler de ve kim 	O’na kulluktan çekinirse ve büyüklük taslarsa bilsin ki onların hepsini O kendi huzuruna toplayacaktır
 **(173)** 
 **(174)** 
 **(175)** 
