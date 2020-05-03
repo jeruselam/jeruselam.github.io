@@ -17,8 +17,8 @@ tag:
 **(3)** Kitabı sana hak ile doğrulayıcı olarak indirdi
 **(4)** daha önce insanlara yol gösterici olarak ve Furkan’ı da indirdi muhakkak k Allah’ın ayetlerini inkar eden kimselere onlara çetin bir azab vardır [Aziz Zünintikam] Allah daima üstündür öc alandır
 **(5)** şüphesiz Allah’a yerde ve gökte ona hiçbir şey gizli kalmaz
-**(6)** 
-**(7)** 
+**(6)** dilediği gibi rahimlerde sizi şekillendiren O’dur O’ndan başka tanrı yoktur azizdir hüküm ve hikmet sahibidir
+**(7)** O Kitabı sana indirdi Onun 	(bazı) ayetleri muhkemdir (ki) onlar Kitabın anasıdır ve diğerleri de müteşabihdir kalblerinde eğrilik olanlar fitne çıkarmak için ve onun te’vilini bulmak için müteşabih olanlarının ardına düşerler oysa onun te’vilini Allah’tan başka kimse bilmez ilimde ileri gidenler Ona inandık derler hepsi Rabbimiz katındandır [önemini anlayan] sağduyu sahiplerinden başkası düşünüp öğüt almaz
 **(8)** 
 **(9)** 
 **(10)** 
