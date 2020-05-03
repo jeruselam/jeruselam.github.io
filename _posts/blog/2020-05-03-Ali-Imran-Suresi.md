@@ -12,11 +12,11 @@ tag:
 ## 3. Âli İmrân Sûresi
 
 
-**(1)** 
-**(2)** 
-**(3)** 
-**(4)** 
-**(5)** 
+**(1)** Elif Lâm Mîm
+**(2)** Allah (ki) O’ndan başka [ilâhe] tanrı yoktur [Hay Kayyûm] daima diridir (yaratıklarını) koruyup yöneticidir
+**(3)** Kitabı sana hak ile doğrulayıcı olarak indirdi
+**(4)** daha önce insanlara yol gösterici olarak ve Furkan’ı da indirdi muhakkak k Allah’ın ayetlerini inkar eden kimselere onlara çetin bir azab vardır [Aziz Zünintikam] Allah daima üstündür öc alandır
+**(5)** şüphesiz Allah’a yerde ve gökte ona hiçbir şey gizli kalmaz
 **(6)** 
 **(7)** 
 **(8)** 
@@ -105,7 +105,7 @@ tag:
 **(91)**
 **(92)** 
 **(93)** 
-**(94)**  
+**(94)** 
 **(95)** 
 **(96)** 
 **(97)** 
