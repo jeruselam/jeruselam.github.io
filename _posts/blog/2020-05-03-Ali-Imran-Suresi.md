@@ -23,10 +23,10 @@ tag:
 **(9)** Rabbimiz sen mutlaka kendisinde asla şüphe olmayan bir günde insanları toplayacaksın şüphesiz Allah sözünden dönmez
 **(10)** şüphesiz inkar eden(ler); [kafir] kimseler onlara malları ne de çocukları Allah’a karşı hiçbir yarar sağlamaz işte onlar ateşin yakıtıdırlar
 **(11)** Fir’avn ailesinin ve onlardan önceki kimselerin durumu gibi onlar da ayetlerimizi yalanladılar Allah onları günahlarıyla yakaladı Allah’ın cezası çetindir
-**(12)** 
-**(13)** 
-**(14)** 
-**(15)** 
+**(12)** inkar edenlere; [kafir] kimselere söyle yenileceksiniz ve cehenneme sürüleceksiniz (orası) ne kötü bir döşektir
+**(13)** karşılaşan şu iki toplulukta sizin için muhakak bir ibret vardır bir topluluk yolunda çarpışıyordu öteki de nankördü onları gözlerinin görüşüyle kendilerinin iki katı görüyorlardı Allah dilediği kimseyi yardımıyle destekler elbette bunda gözleri olanlar için bir ibret vardır 
+**(14)** kadınlardan ve oğullardan ve kantarlarca yığılmış altından ve gümüşten ve atlardan ve salma atlardan ve davarlardan ve ekinlerden (gelen) zevklere aşırı düşkünlük insanlara süslü (cazip) gösterildi bunlar (sadece) dünya hayatının geçimidir varılacak güzel yer Allah’ın yanındadır
+**(15)** de ki korunanlar için bunlardan daha iyisini size söyleyeyim mi? Rableri katında içinde sürekli kalacakları altlarından ırmaklar akan cennetler ve tertemiz eşler ve rızası Allah’ın vardır Allah kullarını görür
 **(16)** 
 **(17)** 
 **(18)** 
