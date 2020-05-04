@@ -32,7 +32,7 @@ tag:
 **(18)** Allah şahiddir (ki) şüphesiz O’ndan başka [ilahe] tanrı yoktur ve melekler ve adaletle gözeten ilim sahipleri O’ndan başka [ilahe] tanrı yoktur azizdir hakimdir
 **(19)** şüphesiz Allah katında din İslamdır ilim geldikten sonra aralarındaki aşırılıkları[dan] başka (bir sebeple) Kitap verilmiş olan kimseler ayrılığa düşmediler ve Allah’ın ayetlerini kim inkar ederse (bilsin ki) şüphesiz Allah hesabı çabuk görendir
 **(20)** eğer seninle tartışmaya girişirlerse de ki bana uyan kimseler ve ben Allah’a özümü teslim ettim ve kendilerine Kitap verilenlere ve ümmilere de ki Siz de İslam (teslim) oldunuz mu? eğer İslam olurlarsa muhakkak doğru yolu bulmuşlardır yok eğer dönerlerse artık sana düşen sadece duyurmaktır kulları(nın yaptıkları)nı Allah görmektedir
-**(21)** 
+**(21)** şüphesiz Allah’ın ayetlerini inkar eden(ler); [kafir] kimseler ve hak olmaksızın peygamberleri öldürenler ve insanlar arasında adaletle emreden kimseleri öldürenler (var ya) onlara acı bir azabı müjdele
 **(22)** 
 **(23)** 
 **(24)** 
