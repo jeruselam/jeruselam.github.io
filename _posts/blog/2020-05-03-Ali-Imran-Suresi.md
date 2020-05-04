@@ -27,11 +27,11 @@ tag:
 **(13)** karşılaşan şu iki toplulukta sizin için muhakak bir ibret vardır bir topluluk yolunda çarpışıyordu öteki de nankördü onları gözlerinin görüşüyle kendilerinin iki katı görüyorlardı Allah dilediği kimseyi yardımıyle destekler elbette bunda gözleri olanlar için bir ibret vardır 
 **(14)** kadınlardan ve oğullardan ve kantarlarca yığılmış altından ve gümüşten ve atlardan ve salma atlardan ve davarlardan ve ekinlerden (gelen) zevklere aşırı düşkünlük insanlara süslü (cazip) gösterildi bunlar (sadece) dünya hayatının geçimidir varılacak güzel yer Allah’ın yanındadır
 **(15)** de ki korunanlar için bunlardan daha iyisini size söyleyeyim mi? Rableri katında içinde sürekli kalacakları altlarından ırmaklar akan cennetler ve tertemiz eşler ve rızası Allah’ın vardır Allah kullarını görür
-**(16)** (onlar ki) Rabbimiz gerçekten biz inandık günahlarımızı bizden bağışla ve ateş azabından bizi koru
-**(17)** 
-**(18)** 
-**(19)** 
-**(20)** 
+**(16)** (onlar ki) Rabbimiz derler gerçekten biz inandık günahlarımızı bizden bağışla ve ateş azabından bizi koru
+**(17)** sabredenler ve sadık olanlar ve gönülden itaat edenler ve infak edenler ve seherlerde istiğfar edenler
+**(18)** Allah şahiddir (ki) şüphesiz O’ndan başka [ilahe] tanrı yoktur ve melekler ve adaletle gözeten ilim sahipleri O’ndan başka [ilahe] tanrı yoktur azizdir hakimdir
+**(19)** şüphesiz Allah katında din İslamdır ilim geldikten sonra aralarındaki aşırılıkları[dan] başka (bir sebeple) Kitap verilmiş olan kimseler ayrılığa düşmediler ve Allah’ın ayetlerini kim inkar ederse (bilsin ki) şüphesiz Allah hesabı çabuk görendir
+**(20)** eğer seninle tartışmaya girişirlerse de ki bana uyan kimseler ve ben Allah’a özümü teslim ettim ve kendilerine Kitap verilenlere ve ümmilere de ki Siz de İslam (teslim) oldunuz mu? eğer İslam olurlarsa muhakkak doğru yolu bulmuşlardır yok eğer dönerlerse artık sana düşen sadece duyurmaktır kulları(nın yaptıkları)nı Allah görmektedir
 **(21)** 
 **(22)** 
 **(23)** 
