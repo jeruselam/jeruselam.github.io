@@ -35,9 +35,8 @@ tag:
 **(21)** şüphesiz Allah’ın ayetlerini inkar eden(ler); [kafir] kimseler ve hak olmaksızın peygamberleri öldürenler ve insanlar arasında adaletle emreden kimseleri öldürenler (var ya) onlara acı bir azabı müjdele
 **(22)** böylece dünyada ve ahirette onların yaptıkları boşa çıkmıştır ve onların hiçbir yardımcıları yoktur
 **(23)** Kitaptan bir (nasip) pay verilmiş olan kimseleri görmedin mi? aralarında hüküm versin diye	Allah’ın Kitabına çağırılıyorlar da sonra onlardan bir topluluk dönüyorlar ve onlar yüz çeviriyorlar
- 
-**(24)** 
-**(25)** 
+**(24)** onların bu (hareketleri) sayılı birkaç günden başka ateş bize dokunmayacak demelerindendir ve uyduruyor oldukları şeyler dinlerinde onları yanıltmıştır
+**(25)** onların asla zulme uğratılmadığı ve her insanın kazandığı tastamam verilip ve kendisinde hiç şüphe olmayan bir gün için topladığımız zaman peki nasıl (olacak)? 
 **(26)** 
 **(27)** 
 **(28)** 
