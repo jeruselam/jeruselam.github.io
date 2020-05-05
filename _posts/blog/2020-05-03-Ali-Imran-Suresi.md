@@ -33,8 +33,9 @@ tag:
 **(19)** şüphesiz Allah katında din İslamdır ilim geldikten sonra aralarındaki aşırılıkları[dan] başka (bir sebeple) Kitap verilmiş olan kimseler ayrılığa düşmediler ve Allah’ın ayetlerini kim inkar ederse (bilsin ki) şüphesiz Allah hesabı çabuk görendir
 **(20)** eğer seninle tartışmaya girişirlerse de ki bana uyan kimseler ve ben Allah’a özümü teslim ettim ve kendilerine Kitap verilenlere ve ümmilere de ki Siz de İslam (teslim) oldunuz mu? eğer İslam olurlarsa muhakkak doğru yolu bulmuşlardır yok eğer dönerlerse artık sana düşen sadece duyurmaktır kulları(nın yaptıkları)nı Allah görmektedir
 **(21)** şüphesiz Allah’ın ayetlerini inkar eden(ler); [kafir] kimseler ve hak olmaksızın peygamberleri öldürenler ve insanlar arasında adaletle emreden kimseleri öldürenler (var ya) onlara acı bir azabı müjdele
-**(22)** 
-**(23)** 
+**(22)** böylece dünyada ve ahirette onların yaptıkları boşa çıkmıştır ve onların hiçbir yardımcıları yoktur
+**(23)** Kitaptan bir (nasip) pay verilmiş olan kimseleri görmedin mi? aralarında hüküm versin diye	Allah’ın Kitabına çağırılıyorlar da sonra onlardan bir topluluk dönüyorlar ve onlar yüz çeviriyorlar
+ 
 **(24)** 
 **(25)** 
 **(26)** 
