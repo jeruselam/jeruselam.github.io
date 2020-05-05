@@ -39,9 +39,9 @@ tag:
 **(25)** onların asla zulme uğratılmadığı ve her insanın kazandığı tastamam verilip ve kendisinde hiç şüphe olmayan bir gün için topladığımız zaman peki nasıl (olacak)? 
 **(26)** de ki Allah’ım mülkün sahibisin dilediğin kimseye mülkü sen verirsin ve dilediğin kimseden mülkü alırsın ve dilediğin kimseyi yükseltirsin ve dilediğini kimseyi alçaltırsın hayır (mal, iyilik) senin elindedir şüphesiz sen her şeye kadirsin
 **(27)** geceyi gündüze sokarsın ve gündüzü geceye sokarsın ve ölüden diriyi çıkarırsın ve diriden ölüyü çıkarırsın ve hesap olmaksızın dilediğin kimseyi rızıklandırırsın
-**(28)** 
-**(29)** 
-**(30)** 
+**(28)** Mü’minler inananları bırakıp kafirleri dost edinmesin ve kim böyle yaparsa Allah ile bir şey (değildir) (dostluğu) kalmaz ancak onlardan (gelebilecek) tehlikeden korunmanız başka ve Allah kendisin(in emirlerine karşı gelmek)den sizi sakındırır ve dönüş Allah’adır
+**(29)** de ki eğer göğüslerinizde olanı gizleseniz veya açığa vursanız onu Allah onu bilir ve göklerde olanı ve yerde olanı bilir Allah her şeye kadirdir
+**(30)** O gün hayırdan yaptığı şeyleri ve kötülükten işlediği şeyleri her nefis hazır bulacaktır onunla (kötülükle) kendisi arasında uzak bir mesafe keşke olsa ister ve kendisin(in emirlerine karşı gelmek)den Allah sizi sakındırıyor Allah kulllarına şefkatlidir
 **(31)** 
 **(32)** 
 **(33)** 
