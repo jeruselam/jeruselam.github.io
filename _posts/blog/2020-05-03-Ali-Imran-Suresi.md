@@ -49,7 +49,7 @@ tag:
 **(35)** İmran’ın karısı hani demişti ki Rabbim şüphesiz ben tam hür olarak karnımda olanı sana adadım benden kabul buyur şüphesiz sen işitensin bilensin
 **(36)** ne zaman ki onu doğurunca (onun) ne doğurduğunu Allah bilirken şöyle söyledi Rabbim şüphesiz ben onu bir kız doğurdum ve erkek kız gibi değildir doğrusu ben ona Meryem adını verdim şüphesiz ben onu ve soyunu kovulmuş şeytan(ın şerri)nden sana [sığınarak] ısmarlıyorum
 **(37)** güzel bir (şekilde) kabulle Rabbi kabul buyurdu onu ve güzel bir bitki (gibi) onu yetiştirdi ve Zekeriyya da onun bakımını üstlendi Zekeriyya mihraba onun yanına her girdiğinde yanında bir rızık bulurdu Meryem bu sana nereden? derdi (O da) Bu Allah katından derdi şüphesiz Allah hesap olmaksızın dilediği kimseye rızık verir
-**(38)** 
+**(38)** Zekeriyya Rabbine orada du’a etti dedi ki Rabbim bana katından temiz bir nesil ver şüphesiz sen du’ayı işitensin
 **(39)** 
 **(40)** 
 **(41)** 
