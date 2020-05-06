@@ -54,8 +54,8 @@ tag:
 **(40)** dedi ki Rabbim benim oğlum nasıl? olur halbuki ihtiyarlık bana gelip çatmış ve karım da kısırken (Allah) öyle (ama) dedi Allah dilediği şeyi yapar
 **(41)** Rabbim dedi o halde bana bir alamet ver (Allah) dedi ki senin alametin işaretten başka üç gün insanlarla konuşamamandır ve Rabbini çok an ve akşam ve sabah (O’nu) tesbih et
 **(42)** Melekler bir zaman demişti ki Meryem şüphesiz Allah seni seçti ve temizledi ve dünyaların kadınları üzerine seni üstün kıldı
-**(43)** 
-**(44)** 
+**(43)** Rabbine divan dur Meryem ve secde et ve eğilenlerle beraber (huzurunda) eğil
+**(44)** sana vahyettiğimiz görünmez alemin haberlerindendir bunlar Meryem’e hangisi kefil olacak (diye) (kur’a) oklarını attıkları zaman sen onların yanında değildin birbirleriyle çekiştikleri zaman sen yanlarında değildin
 **(45)** 
 **(46)** 
 **(47)** 
