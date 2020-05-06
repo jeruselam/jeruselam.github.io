@@ -44,7 +44,7 @@ tag:
 **(30)** O gün hayırdan yaptığı şeyleri ve kötülükten işlediği şeyleri her nefis hazır bulacaktır onunla (kötülükle) kendisi arasında uzak bir mesafe keşke olsa ister ve kendisin(in emirlerine karşı gelmek)den Allah sizi sakındırıyor Allah kulllarına şefkatlidir
 **(31)** de ki eğer siz Allah’ı seviyorsanız bana uyun ki Allah da sizi sevsin ve sizin günahlarınızı bağışlasın Allah bağışlayandır esirgeyendir
 **(32)** de ki Allah’a ve Elçiye ita’at edin eğer dönerlerse muhakkak ki Allah kafirleri sevmez 
-**(33)** 
+**(33)** elbette Allah Adem’i ve Nuh’u ve İbrahim ailesini ve İmran ailesini alemler üzerine seçip üstün kıldı
 **(34)** 
 **(35)** 
 **(36)** 
