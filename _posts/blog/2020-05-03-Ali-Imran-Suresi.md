@@ -45,8 +45,8 @@ tag:
 **(31)** de ki eğer siz Allah’ı seviyorsanız bana uyun ki Allah da sizi sevsin ve sizin günahlarınızı bağışlasın Allah bağışlayandır esirgeyendir
 **(32)** de ki Allah’a ve Elçiye ita’at edin eğer dönerlerse muhakkak ki Allah kafirleri sevmez 
 **(33)** elbette Allah Adem’i ve Nuh’u ve İbrahim ailesini ve İmran ailesini alemler üzerine seçip üstün kıldı
-**(34)** 
-**(35)** 
+**(34)** bazısı bazısından (birbirinden) türeyen nesil(ler)dir Allah işitendir bilendir
+**(35)** İmran’ın karısı hani demişti ki Rabbim şüphesiz ben tam hür olarak karnımda olanı sana adadım benden kabul buyur şüphesiz sen işitensin bilensin
 **(36)** 
 **(37)** 
 **(38)** 
