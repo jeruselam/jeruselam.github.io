@@ -47,7 +47,7 @@ tag:
 **(33)** elbette Allah Adem’i ve Nuh’u ve İbrahim ailesini ve İmran ailesini alemler üzerine seçip üstün kıldı
 **(34)** bazısı bazısından (birbirinden) türeyen nesil(ler)dir Allah işitendir bilendir
 **(35)** İmran’ın karısı hani demişti ki Rabbim şüphesiz ben tam hür olarak karnımda olanı sana adadım benden kabul buyur şüphesiz sen işitensin bilensin
-**(36)** 
+**(36)** ne zaman ki onu doğurunca (onun) ne doğurduğunu Allah bilirken şöyle söyledi Rabbim şüphesiz ben onu bir kız doğurdum ve erkek kız gibi değildir doğrusu ben ona Meryem adını verdim şüphesiz ben onu ve soyunu kovulmuş şeytan(ın şerri)nden sana ısmarlıyorum
 **(37)** 
 **(38)** 
 **(39)** 
