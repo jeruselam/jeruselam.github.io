@@ -42,8 +42,8 @@ tag:
 **(28)** Mü’minler inananları bırakıp kafirleri dost edinmesin ve kim böyle yaparsa Allah ile bir şey (değildir) (dostluğu) kalmaz ancak onlardan (gelebilecek) tehlikeden korunmanız başka ve Allah kendisin(in emirlerine karşı gelmek)den sizi sakındırır ve dönüş Allah’adır
 **(29)** de ki eğer göğüslerinizde olanı gizleseniz veya açığa vursanız onu Allah onu bilir ve göklerde olanı ve yerde olanı bilir Allah her şeye kadirdir
 **(30)** O gün hayırdan yaptığı şeyleri ve kötülükten işlediği şeyleri her nefis hazır bulacaktır onunla (kötülükle) kendisi arasında uzak bir mesafe keşke olsa ister ve kendisin(in emirlerine karşı gelmek)den Allah sizi sakındırıyor Allah kulllarına şefkatlidir
-**(31)** 
-**(32)** 
+**(31)** de ki eğer siz Allah’ı seviyorsanız bana uyun ki Allah da sizi sevsin ve sizin günahlarınızı bağışlasın Allah bağışlayandır esirgeyendir
+**(32)** de ki Allah’a ve Elçiye ita’at edin eğer dönerlerse muhakkak ki Allah kafirleri sevmez 
 **(33)** 
 **(34)** 
 **(35)** 
