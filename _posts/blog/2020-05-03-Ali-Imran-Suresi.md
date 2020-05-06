@@ -52,8 +52,8 @@ tag:
 **(38)** Zekeriyya Rabbine orada du’a etti dedi ki Rabbim bana katından temiz bir nesil ver şüphesiz sen du’ayı işitensin
 **(39)** ve O (Zekeriyya) mabedde durup namaz kılarken melekler ona seslendiler şüphesiz Allah sana Allah'tan bir kelimeyi ve [seyyid] efendi ve [kısıtlayan] nefsine hakim ve iyilerden [nebi] bir peygamber olacak [sıddık] doğrulayıcı Yahya’yı müjdeler
 **(40)** dedi ki Rabbim benim oğlum nasıl? olur halbuki ihtiyarlık bana gelip çatmış ve karım da kısırken (Allah) öyle (ama) dedi Allah dilediği şeyi yapar
-**(41)** 
-**(42)** 
+**(41)** Rabbim dedi o halde bana bir alamet ver (Allah) dedi ki senin alametin işaretten başka üç gün insanlarla konuşamamandır ve Rabbini çok an ve akşam ve sabah (O’nu) tesbih et
+**(42)** Melekler bir zaman demişti ki Meryem şüphesiz Allah seni seçti ve temizledi ve dünyaların kadınları üzerine seni üstün kıldı
 **(43)** 
 **(44)** 
 **(45)** 
