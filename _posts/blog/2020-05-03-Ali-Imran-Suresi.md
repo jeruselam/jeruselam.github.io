@@ -66,13 +66,13 @@ tag:
 **(52)** Îsa ne zaman ki onlardan inkarı sezdi dedi ki Allah (yolunda) kimler bana yardımcı olacak Havariler Allah(yolun)un yardımcılarıyız Biz dediler Allah’a inandık şahid ol biz müslümanlarız
 **(53)** Rabbimiz senin indirdiğin şeye inandık ve elçiye uyduk bizi şahidlerle beraber yaz
 **(54)** ve [birisinin iyi ve kötü hallerini öğrenmek veya kötülüğe sevketmek yada gayesinden alıkoymak için] tuzak kurdular ve Allah da tuzak kurdu çünkü Allah en iyi tuzak kurandır
-**(55)** hani Allah demişti Îsa elbette ben senin canını [bütünüyle] alacağım ve seni bana yükselteceğim ve inkar eden kimselerden seni temizleyeceğim ve kıyamet gününe kadar sana uyan kimseleri inkar eden kimselerim üstünde tutacağım sonra dönüşünüz bana olacaktır sizin onda ayrılığa düştüğünüz şeyler (hakkında) aranızda ben hükmedeceğim
-**(56)** 
-**(57)** 
-**(58)** 
-**(59)** 
-**(60)** 
-**(61)** 
+**(55)** hani Allah demişti Îsa elbette ben senin canını [bütünüyle] alacağım ve seni bana yükselteceğim ve inkar eden kimselerden seni temizleyeceğim ve kıyamet gününe kadar sana uyan kimseleri inkar eden kimselerin üstünde tutacağım sonra dönüşünüz bana olacaktır sizin onda ayrılığa düştüğünüz şeyler (hakkında) aranızda ben hükmedeceğim
+**(56)** inkar eden kimselere gelince onlara dünyada da ve ahirette de şiddetli azapla azabedeceğim onların hiçbir yardımcıları da olmayacaktır
+**(57)** inanan kimselere ve iyi şeyler yapanlara gelince mükafatlarını (Allah) tam olarak verecektir Allah zalimleri sevmez
+**(58)** işte bu sana ayetlerden okuduğumuz ve Zikir hikmetli (Kitap)dandır
+**(59)** Allah’ın yanında şüphesiz Îsa’nın durumu Adem’in durumu gibidir Onu topraktan yarattı sonra ona dedi ki Ol! ve oldu
+**(60)** (Bu,) Rabbinden (gelen) gerçektir öyle ise kuşkulananlardan olma
+**(61)** ilimden sana gelen şeylerden sonra oun hakkında kim seninle tartışmaya kalkarsa de ki gelin çağıralım oğullarımızı ve oğullarınızı ve kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi sonra gönülden la’netle du’a edelim de yalancıların üstüne Allah’ın la’netini atalım (kılalım)
 **(62)** 
 **(63)** 
 **(64)** 
