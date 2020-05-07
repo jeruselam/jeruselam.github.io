@@ -56,11 +56,11 @@ tag:
 **(42)** Melekler bir zaman demişti ki Meryem şüphesiz Allah seni seçti ve temizledi ve dünyaların kadınları üzerine seni üstün kıldı
 **(43)** Rabbine divan dur Meryem ve secde et ve eğilenlerle beraber (huzurunda) eğil
 **(44)** sana vahyettiğimiz görünmez alemin haberlerindendir bunlar Meryem’e hangisi kefil olacak (diye) (kur’a) oklarını attıkları zaman sen onların yanında değildin birbirleriyle çekiştikleri zaman sen yanlarında değildin
-**(45)** 
-**(46)** 
-**(47)** 
-**(48)** 
-**(49)** 
+**(45)** Melekler hani demişti Meryem şüphesiz Allah kendisinden bir kelime ile seni müjdeliyor onun adı Meryem oğlu Îsa Mesih’dir dünyada ve ahirette yüzdedir (şereflidir) ve (Allah’a) yakın olanlardandır
+**(46)** ve beşikte ve yetişkinlikte insanlara konuşacak ve iyilerden olacaktır
+**(47)** dedi ki Rabbim bir beşer bana dokunmamışken benim çocuğum nasıl olur böyledir dedi Allah bir şey(in olmasını) istediği zaman dilediği şeyi yaratır sadece ona ’ol’ der o da oluverir
+**(48)** ve ona Kitabı ve Hikmeti ve Tevrat’ı ve İncil’i öğretecektir
+**(49)** ve İsrail oğullarına bir elçi (şöyle diyen) ben doğrusu Rabbinizden size bir mu’cize getirdim ben sizin için çamurdan kuş şeklinde bir şey meydana getiririm ona üflerim Allah’ın izniyle hemen bir kuş oluverir ve körü ve alacalıyı iyileştiririm ve Allah’ın izniyle ölüleri diriltirim ve ne yediğinizi ve evlerinizde ne biriktirdiğinizi size haber veririm eğer inanıyor iseniz elbette sizin için bunda bir ibret vardır
 **(50)** 
 **(51)** 
 **(52)** 
