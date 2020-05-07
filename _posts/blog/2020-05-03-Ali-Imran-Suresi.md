@@ -61,7 +61,7 @@ tag:
 **(47)** dedi ki Rabbim bir beşer bana dokunmamışken benim çocuğum nasıl olur böyledir dedi Allah bir şey(in olmasını) istediği zaman dilediği şeyi yaratır sadece ona ’ol’ der o da oluverir
 **(48)** ve ona Kitabı ve Hikmeti ve Tevrat’ı ve İncil’i öğretecektir
 **(49)** ve İsrail oğullarına bir elçi (şöyle diyen) ben doğrusu Rabbinizden size bir mu’cize getirdim ben sizin için çamurdan kuş şeklinde bir şey meydana getiririm ona üflerim Allah’ın izniyle hemen bir kuş oluverir ve körü ve alacalıyı iyileştiririm ve Allah’ın izniyle ölüleri diriltirim ve ne yediğinizi ve evlerinizde ne biriktirdiğinizi size haber veririm eğer inanıyor iseniz elbette sizin için bunda bir ibret vardır
-**(50)** 
+**(50)** ve şeyi benden önce gelen Tevrat’ı doğrulayıcı olarak ve size haram kılınan bazı şeyleri size helal kılmak için ve Rabbinizden size bir mu’cize getirdim o halde Allah’tan korkun ve bana ita’at edin
 **(51)** 
 **(52)** 
 **(53)** 
