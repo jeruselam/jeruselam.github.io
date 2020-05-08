@@ -82,9 +82,9 @@ tag:
 **(68)** doğrusu İbrahim’e insanların en yakın olanı ona uyan(lar), [tabi] kimselerdir ve bu peygamber ve inanan(lar); [imanlı] kimselerdir Allah da mü’minlerin dostudur
 **(69)** Kitap ehlinden bir grup istedi eğer ki sizi saptırsınlar oysa sadece kendilerini saptırıyorlar farkında değiller
 **(70)** Kitap ehli ve siz (gerçeği) gördüğünüz halde niçin? Allah’ın ayetlerini inkar ediyorsunuz
-**(71)** 
-**(72)** 
-**(73)** 
+**(71)** Kitap ehli hakkı batılla niçin karıştırıyorsunuz ve gerçeği gizliyorsunuz ve siz bildiğiniz halde
+**(72)** ve Kitap ehlinden bir grup dedi ki günün önünde inanan(lara); [imanlı] kimseler üzerine indirilmiş olana inanın ve sonunda inkar edin belki onlar dönerler
+**(73)** ve sizin dininize uyan kimseden başkasına güvenmeyin de ki şüphesiz Hidayet Allah’ın hidayetidir size verilen şeyin benzerinin birine verilmesinden (mi?) veya Rabbinizin huzurunda (aleyhinize) deliller getireceklerinden (mi?) de ki şüphesiz Lütuf Allah’ın elindedir dilediği kimseye onu verir Allah’ın (lutfu) geniştir (O her şeyi) bilendir
 **(74)** 
 **(75)** 
 **(76)** 
