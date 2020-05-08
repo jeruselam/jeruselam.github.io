@@ -78,8 +78,8 @@ tag:
 **(64)** de ki ehli Kitap bizim aramızda ve sizin aranızda eşit olan bir kelimeye gelin Allah’tan başkasına ibadet etmeyelim hiçbirşeyi O’na ortak [şirk] koşmayalım Allah’tan başka bazımız bazımızı [Rabler] tanrılar edinmeyelim eğer yüz çevirirlerse şahid olun şüphesiz biz müslümanlarız deyin
 **(65)** Kitap ehli İbrahim hakkında neden tartışıyorsunuz Tevrat ve İncil oysa indirilmiştir ancak ondan sonra düşünmüyor musunuz?
 **(66)** o kimseler[siniz] ki sizin onun (hakkında) biraz bilginiz olan şey[i] tartışıyorsunuz işte siz böylesiniz ama neden? sizin onun hakkında bilginiz olmayan [şeyi] tartışıyorsunuz 
-**(67)** 
-**(68)** 
+**(67)** İbrahim yahudi ne de hristiyan değildi fakat dosdoğru bir müslüman idi ve müşriklerden değildi
+**(68)** doğrusu İbrahim’e insanların en yakın olanı ona uyan(lar), [tabi] kimselerdir ve bu peygamber ve inanan(lar); [imanlı] kimselerdir Allah da mü’minlerin dostudur
 **(69)** 
 **(70)** 
 **(71)** 
