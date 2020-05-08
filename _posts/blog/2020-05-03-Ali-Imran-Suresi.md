@@ -81,7 +81,7 @@ tag:
 **(67)** İbrahim yahudi ne de hristiyan değildi fakat dosdoğru bir müslüman idi ve müşriklerden değildi
 **(68)** doğrusu İbrahim’e insanların en yakın olanı ona uyan(lar), [tabi] kimselerdir ve bu peygamber ve inanan(lar); [imanlı] kimselerdir Allah da mü’minlerin dostudur
 **(69)** Kitap ehlinden bir grup istedi eğer ki sizi saptırsınlar oysa sadece kendilerini saptırıyorlar farkında değiller
-**(70)** 
+**(70)** Kitap ehli ve siz (gerçeği) gördüğünüz halde niçin? Allah’ın ayetlerini inkar ediyorsunuz
 **(71)** 
 **(72)** 
 **(73)** 
