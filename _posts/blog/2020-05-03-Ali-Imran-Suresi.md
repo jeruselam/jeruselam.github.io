@@ -74,7 +74,7 @@ tag:
 **(60)** (Bu,) Rabbinden (gelen) gerçektir öyle ise kuşkulananlardan olma
 **(61)** ilimden sana gelen şeylerden sonra oun hakkında kim seninle tartışmaya kalkarsa de ki gelin çağıralım oğullarımızı ve oğullarınızı ve kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi sonra gönülden la’netle du’a edelim de yalancıların üstüne Allah’ın la’netini atalım (kılalım)
 **(62)** şüphesiz (Îsa hakkındaki) o kıssa gerçek (öykü) budur Allah’tan başka [ilahi] hiçbir tanrı yoktur ve elbette Allah O [Hakim] azizdir (kesin galib) hüküm ve hikmet sahibidir
-**(63)** 
+**(63)** eğer dönerlerse muhakkak ki Allah bozguncuları bilir
 **(64)** 
 **(65)** 
 **(66)** 
