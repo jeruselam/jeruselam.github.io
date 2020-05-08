@@ -75,7 +75,7 @@ tag:
 **(61)** ilimden sana gelen şeylerden sonra oun hakkında kim seninle tartışmaya kalkarsa de ki gelin çağıralım oğullarımızı ve oğullarınızı ve kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi sonra gönülden la’netle du’a edelim de yalancıların üstüne Allah’ın la’netini atalım (kılalım)
 **(62)** şüphesiz (Îsa hakkındaki) o kıssa gerçek (öykü) budur Allah’tan başka [ilahi] hiçbir tanrı yoktur ve elbette Allah O [Hakim] azizdir (kesin galib) hüküm ve hikmet sahibidir
 **(63)** eğer dönerlerse muhakkak ki Allah bozguncuları bilir
-**(64)** 
+**(64)** de ki ehli Kitap bizim aramızda ve sizin aranızda eşit olan bir kelimeye gelin Allah’tan başkasına ibadet etmeyelim hiçbirşeyi O’na ortak koşmayalım Allah’tan başka bazımız bazımızı tanrılar edinmeyelim eğer yüz çevirirlerse deyin şahid olun şüphesiz biz müslümanlarız
 **(65)** 
 **(66)** 
 **(67)** 
