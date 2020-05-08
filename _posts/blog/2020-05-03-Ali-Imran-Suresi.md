@@ -73,7 +73,7 @@ tag:
 **(59)** Allah’ın yanında şüphesiz Îsa’nın durumu Adem’in durumu gibidir Onu topraktan yarattı sonra ona dedi ki Ol! ve oldu
 **(60)** (Bu,) Rabbinden (gelen) gerçektir öyle ise kuşkulananlardan olma
 **(61)** ilimden sana gelen şeylerden sonra oun hakkında kim seninle tartışmaya kalkarsa de ki gelin çağıralım oğullarımızı ve oğullarınızı ve kadınlarımızı ve kadınlarınızı ve kendimizi ve kendinizi sonra gönülden la’netle du’a edelim de yalancıların üstüne Allah’ın la’netini atalım (kılalım)
-**(62)** 
+**(62)** şüphesiz (Îsa hakkındaki) o kıssa gerçek (öykü) budur Allah’tan başka [ilahi] hiçbir tanrı yoktur ve elbette Allah O [Hakim] azizdir (kesin galib) hüküm ve hikmet sahibidir
 **(63)** 
 **(64)** 
 **(65)** 
@@ -106,7 +106,7 @@ tag:
 **(92)** 
 **(93)** 
 **(94)** 
-**(95)** 
+**(95)** ]]]}
 **(96)** 
 **(97)** 
 **(98)** 
