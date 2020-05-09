@@ -86,9 +86,9 @@ tag:
 **(72)** ve Kitap ehlinden bir grup dedi ki günün önünde inanan(lara); [imanlı] kimseler üzerine indirilmiş olana inanın ve sonunda inkar edin belki onlar dönerler
 **(73)** ve sizin dininize uyan kimseden başkasına güvenmeyin de ki şüphesiz Hidayet Allah’ın hidayetidir size verilen şeyin benzerinin birine verilmesinden (mi?) veya Rabbinizin huzurunda (aleyhinize) deliller getireceklerinden (mi?) de ki şüphesiz Lütuf Allah’ın elindedir dilediği kimseye onu verir Allah’ın (lutfu) geniştir (O her şeyi) bilendir
 **(74)** Allah büyük lütuf ve ikram sahibidir dilediği kimseye Rahmetini has kılar
-**(75)** Kitap ehlinden öylesi (vardır ki) eğer ona yüklerle mal emanet bıraksan sana onu öder ve onlardan öylesi (de vardır ki) eğer ona bir dinar versen başına sürekli dikilmeden başka türlü sana onu ödemez bu onların ümmilere karşı bir yol (sorumluluk) yoktur dedikleri (içindir) ve Allah’a karşı ve onlar bile bile yalan söylüyorlar
-**(76)** 
-**(77)** 
+**(75)** Kitap ehlinden öylesi (vardır ki) eğer ona yüklerle mal emanet bıraksan sana onu öder ve onlardan öylesi (de vardır ki) eğer ona bir dinar versen başına sürekli dikilmeden başka türlü sana onu ödemez bu onların ümmilere karşı bir yol (sorumluluk) yoktur dedikleri (içindir) ve onlar bile bile ve Allah’a karşı yalan söylüyorlar
+**(76)** Hayır kim sözünü yerine getirir ve (günahtan) korunursa şüphesiz Allah (da) korunanları sever
+**(77)** şüphesiz Allah’a verdikleri sözü ve az bir paraya yeminlerini satanlar [o] kimseler (var ya) ahirette işte onların bir payı yoktur Allah onlara konuşmayacak kıyamet günü onlara bakmayacak ve onları yüceltmeyecektir ve onlar için acıklı bir azab vardır
 **(78)** 
 **(79)** 
 **(80)** 
