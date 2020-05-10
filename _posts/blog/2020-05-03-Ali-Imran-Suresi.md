@@ -89,10 +89,10 @@ tag:
 **(75)** Kitap ehlinden öylesi (vardır ki) eğer ona yüklerle mal emanet bıraksan sana onu öder ve onlardan öylesi (de vardır ki) eğer ona bir dinar versen başına sürekli dikilmeden başka türlü sana onu ödemez bu onların ümmilere karşı bir yol (sorumluluk) yoktur dedikleri (içindir) ve onlar bile bile ve Allah’a karşı yalan söylüyorlar
 **(76)** Hayır kim sözünü yerine getirir ve (günahtan) korunursa şüphesiz Allah (da) korunanları sever
 **(77)** şüphesiz Allah’a verdikleri sözü ve az bir paraya yeminlerini satanlar [o] kimseler (var ya) ahirette işte onların bir payı yoktur Allah onlara konuşmayacak kıyamet günü onlara bakmayacak ve onları yüceltmeyecektir ve onlar için acıklı bir azab vardır
-**(78)** 
-**(79)** 
-**(80)** 
-**(81)** 
+**(78)** ve şüphesiz onlardan bir grup (var ki) Kitapla dillerini eğip bükerler siz Kitap'tan sanasınız diye (halbuki) Kitapta o yoktur ve o Allah katındandır derler oysa o Allah katından değildir ve Allah’a karşı ve onlar bile bile yalan söylerler
+**(79)** hiçbir insanın, Allah ona Kitap, hüküm (hikmet) ve peygamberlik vermesinden sonra (o kalksın) insanlara Allah’ı bırakıp bana kul(lar) olun demesi mümkün değildir fakat (der ki) Kitap okuyor olduğunuz ve öğretiyor olduğunuz şeyler gereğince Rabbe halis kullar olun
+**(80)** ve Melekleri ve peygamberleri [Rabb] tanrılar edinin diye size emretmez siz müslümanlar olduktan sonra inkar etmeyi size emreder mi?
+**(81)** ve ne zaman Allah peygamberlerden şöyle söz almıştı elbette size Kitap ve hikmet verdim sonra yanınızda bulunan(Kitap)ı doğrulayıcı bir [rasul] peygamber geldiğinde ona mutlaka inanacak ve ona mutlaka yardım edeceksiniz demişti bunu kabul ettiniz mi? ve bu hususta ağır ahdimi üzerinize aldınız mı? kabul ettik dediler o halde tanık olun dedi ben de sizinle beraber tanık olanlardanım
 **(82)** 
 **(83)** 
 **(84)** 
