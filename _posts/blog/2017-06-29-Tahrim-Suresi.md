@@ -14,7 +14,7 @@ tag:
 **(1)** Ey peygamber, Allah’ın sana helal kıldığı şeyi eşlerinin hatırını isteyerek niçin? haram kılıyorsun. Allah bağışlayadır, esirgeyendir.
 **(2)** Andolsun, Allah size yeminlerinizi çözmeyi meşru’ kılmıştır ve Allah sizin sahibinizdir ve O bilendir, hüküm ve hikmet sahibidir.
 **(3)** Ve hani peygamber, eşlerinden birine gizlice bir söz söylemişti, ne zaman ki onu (sözü) (eşi) haber verdi ve Allah ona (peypambere) onu muttali kıldı, onun bir kısmını bildirmişti ve bir kısmından da vazgeçmişti, ne zaman ki, bunu eşine haber verince (eşi) dedi bunu sana kim? söyledi, dedi ki, bana bilen, haber alan söyledi.
-**(4)** Eğer kalblerinizin sapmış olmasından dolayı Allah’a ikiniz tevbe ederseniz ve eğer ona karşı birbirinize arka olursanız, şüphesiz, Allah’tır O, onun koruyucusu ve Cibril’dir ve mü’minlerin iyileridir ve sonra melekler bundan ona arkadır.
+**(4)** kalblerinizin sapmış olmasından dolayı Allah’a eğer ikiniz tevbe ederseniz ve ona karşı eğer birbirinize arka olursanız onun şüphesiz koruyucusu O Allah’tır ve Cibril’dir ve [salih] mü’minlerin iyileridir ve bundan sonra melekler ona arkadır
 **(5)** Belki de, onun Rabbi, eğer o sizi boşarsa, inanan, gönülden ita’at eden, tevbe eden, ibadet eden, seyahat eden, (kendisini Allah’a) teslim eden, sizden daha hayırlı, dul ve bakire eşlerle onu değiştirir 
 **(6)** Ey inanan(lar) kimseler, kendinizi ve ailenizi bir ateşten koruyun, onun yakıtı ise, insanlardır ve taşlardır, onun başında Allah’ın kendilerine buyurduğu şeye karşı gelmeyen ve emredildikleri şeyi yapan gayet katı, şiddetli melekler vardır.
 **(7)** Ey inkar eden(ler) kimseler, bugün özür dilemeyin çünkü ancak siz yapıyor(lar) olduğunuz şeylerle cezalandırılıyorsunuz.
