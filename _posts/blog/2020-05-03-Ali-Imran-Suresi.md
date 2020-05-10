@@ -93,9 +93,9 @@ tag:
 **(79)** hiçbir insanın, Allah ona Kitap, hüküm (hikmet) ve peygamberlik vermesinden sonra (o kalksın) insanlara Allah’ı bırakıp bana kul(lar) olun demesi mümkün değildir fakat (der ki) Kitap okuyor olduğunuz ve öğretiyor olduğunuz şeyler gereğince Rabbe halis kullar olun
 **(80)** ve Melekleri ve peygamberleri [Rabb] tanrılar edinin diye size emretmez siz müslümanlar olduktan sonra inkar etmeyi size emreder mi?
 **(81)** ve ne zaman Allah peygamberlerden şöyle söz almıştı elbette size Kitap ve hikmet verdim sonra yanınızda bulunan(Kitap)ı doğrulayıcı bir [rasul] peygamber geldiğinde ona mutlaka inanacak ve ona mutlaka yardım edeceksiniz demişti bunu kabul ettiniz mi? ve bu hususta ağır ahdimi üzerinize aldınız mı? kabul ettik dediler o halde tanık olun dedi ben de sizinle beraber tanık olanlardanım
-**(82)** 
-**(83)** 
-**(84)** 
+**(82)** bundan sonra artık kim dönerse işte onlar fasıklardır
+**(83)** Allah’ın dininden başkasını mı arıyorlar isteyerek ve(ya) istemeyerek göklerde ve yerde olanların hepsi teslim olmuştur ve O’na döndürüleceklerdir
+**(84)** de ki Allah’a, bize indirilen şeye ve İbrahim’e indirilen şeye ve İsma’il’e ve İshak’a ve Ya’kub’a ve sıbtlara ve Musa’ya ve Îsa’ya ve Rableri tarafından peygamberlere verilen şeye inandık hiçbirinin arasında ayırım yapmayız onlar ve biz O’na teslim olanlarız
 **(85)** 
 **(86)** 
 **(87)** 
