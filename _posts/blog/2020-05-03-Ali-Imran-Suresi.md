@@ -104,7 +104,7 @@ tag:
 **(90)** şüphesiz onlar ki inandıktan sonra inkar ettiler sonra inkarları arttı onların tevbeleri kabul edilmeyecektir ve işte onlar sapıkların ta kendileridir
 **(91)** şüphesiz onlar kafir olarak ölenler ve inkar eden kimseler dünya	
  dolusu altın ve onu fidye vermiş olsa dahi hiçbirinden kabul edilmeyecektir işte onlar acıklı bir azab için vardır ve onların hiçbir yardımcıları yoktur
-**(92)** 
+**(92)** sevdiğiniz şeylerden (Allah için) harcayıncaya kadar iyiliğe asla eremezsiniz ve ne ki? herhangi bir şeyden harcarsanız şüphesiz Allah onu bilir
 **(93)** 
 **(94)** 
 **(95)** 
