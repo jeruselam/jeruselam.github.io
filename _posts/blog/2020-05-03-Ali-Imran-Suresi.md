@@ -109,7 +109,7 @@ tag:
 **(94)** bundan sonra da Allah hakkında artık kim bir yalan uydurursa işte onlar zalimlerdir
 **(95)** de ki Allah doğru söyledi öyle ise hanif (Allah’ı birleyici) olarak İbrahim dinine uyun (O) ortak koşanlardan değil idi
 **(96)** insanlara (ma’bed olarak) kurulan ilk ev doğrusu Mekke’de olandır uğur, bereketlidir ve alemlere hidayet kaynağıdır
-**(97)** 
+**(97)** İbrahim’in Makamı onda açık açık deliller vardır ve kim ona girse güvene erer onun yoluna gücü yeten herkesin Ev’e (gidip) haccetmesi insanlar üzerinde Allah’ın bir hakkıdır ve kim nankörlük ederse şüphesiz Allah bütün alemlerden zengindir
 **(98)** 
 **(99)** 
 **(100)** 
