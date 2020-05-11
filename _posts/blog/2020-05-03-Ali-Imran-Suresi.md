@@ -112,7 +112,7 @@ tag:
 **(97)** İbrahim’in Makamı onda açık açık deliller vardır ve kim ona girse güvene erer onun yoluna gücü yeten herkesin Ev’e (gidip) haccetmesi insanlar üzerinde Allah’ın bir hakkıdır ve kim nankörlük ederse şüphesiz Allah bütün alemlerden zengindir
 **(98)** de ki Kitap ehli yaptığınız şeylere Allah tanık iken Allah’ın ayetlerini neden? inkar ediyorsunuz 
 **(99)** de ki Kitap ehli siz (gerçeğe) tanık olduğunuz halde ve eğri göstermeğe yeltenerek inanan kimseleri Allah yolundan niçin? çevirmeğe çalışıyorsunuz Allah yaptıklarınızdan habersiz değildir
-**(100)** 
+**(100)** ey inanan(lar); [imanlı] kimseler şayet Kitap verilen(ler)[den o] kimselerden herhangi bir gruba uyarsanız imanınızdan sonra sizi kafir olarak döndürürler
 **(101)** 
 **(102)** 
 **(103)** 
