@@ -105,10 +105,10 @@ tag:
 **(91)** şüphesiz onlar kafir olarak ölenler ve inkar eden kimseler dünya	
  dolusu altın ve onu fidye vermiş olsa dahi hiçbirinden kabul edilmeyecektir işte onlar acıklı bir azab için vardır ve onların hiçbir yardımcıları yoktur
 **(92)** sevdiğiniz şeylerden (Allah için) harcayıncaya kadar iyiliğe asla eremezsiniz ve ne ki? herhangi bir şeyden harcarsanız şüphesiz Allah onu bilir
-**(93)** 
-**(94)** 
-**(95)** 
-**(96)** 
+**(93)** Tevrat indirilmeden önce İsrail’in kendisine haram kıldığı şeyler dışında bütün yiyecekler İsrail oğullarına helal idi de ki Tevrat’ı getirin ve eğer doğru iseniz okuyun
+**(94)** bundan sonra da Allah hakkında artık kim bir yalan uydurursa işte onlar zalimlerdir
+**(95)** de ki Allah doğru söyledi öyle ise hanif (Allah’ı birleyici) olarak İbrahim dinine uyun (O) ortak koşanlardan değil idi
+**(96)** insanlara (ma’bed olarak) kurulan ilk ev doğrusu Mekke’de olandır uğur, bereketlidir ve alemlere hidayet kaynağıdır
 **(97)** 
 **(98)** 
 **(99)** 
