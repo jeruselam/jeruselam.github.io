@@ -110,8 +110,8 @@ tag:
 **(95)** de ki Allah doğru söyledi öyle ise hanif (Allah’ı birleyici) olarak İbrahim dinine uyun (O) ortak koşanlardan değil idi
 **(96)** insanlara (ma’bed olarak) kurulan ilk ev doğrusu Mekke’de olandır uğur, bereketlidir ve alemlere hidayet kaynağıdır
 **(97)** İbrahim’in Makamı onda açık açık deliller vardır ve kim ona girse güvene erer onun yoluna gücü yeten herkesin Ev’e (gidip) haccetmesi insanlar üzerinde Allah’ın bir hakkıdır ve kim nankörlük ederse şüphesiz Allah bütün alemlerden zengindir
-**(98)** 
-**(99)** 
+**(98)** de ki Kitap ehli yaptığınız şeylere Allah tanık iken Allah’ın ayetlerini neden? inkar ediyorsunuz 
+**(99)** de ki Kitap ehli siz (gerçeğe) tanık olduğunuz halde ve eğri göstermeğe yeltenerek inanan kimseleri Allah yolundan niçin? çevirmeğe çalışıyorsunuz Allah yaptıklarınızdan habersiz değildir
 **(100)** 
 **(101)** 
 **(102)** 
