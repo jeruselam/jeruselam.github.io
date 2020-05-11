@@ -102,7 +102,8 @@ tag:
 **(88)** O(la’net)in içinde ebedi kalacaklardır azab onlardan hafifletilmeyecek ve onlara fırsat verilmeyecektir
 **(89)** ondan sonra tevbe eden kimseler ve uslananlar dışında çünkü [Ğafur Rahim] Allah çok bağışlayan çok esirgeyendir
 **(90)** şüphesiz onlar ki inandıktan sonra inkar ettiler sonra inkarları arttı onların tevbeleri kabul edilmeyecektir ve işte onlar sapıkların ta kendileridir
-**(91)**
+**(91)** şüphesiz onlar kafir olarak ölenler ve inkar eden kimseler dünya	
+ dolusu altın ve onu fidye vermiş olsa dahi hiçbirinden kabul edilmeyecektir işte onlar acıklı bir azab için vardır ve onların hiçbir yardımcıları yoktur
 **(92)** 
 **(93)** 
 **(94)** 
