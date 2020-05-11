@@ -99,14 +99,14 @@ tag:
 **(85)** ve İslam’dan başka bir din kim ararsa (bilsin ki) asla ondan (o din) kabul edilmeyecek ve o ahirette kaybedenlerden olacaktır
 **(86)** İman ettikten ve Resul’ün gerçekten hak olduğunu gördükten ve açık deliller kendilerine geldikten sonra inkar eden bir topluma Allah nasıl yol gösterir zalim toplumu Allah doğru yola iletmez
 **(87)** işte gerçekten onların cezası onların üzerine Allah’ın ve meleklerin ve insanların hepsinin la’neti olmasıdır
-**(88)** 
-**(89)** 
-**(90)** 
+**(88)** O(la’net)in içinde ebedi kalacaklardır azab onlardan hafifletilmeyecek ve onlara fırsat verilmeyecektir
+**(89)** ondan sonra tevbe eden kimseler ve uslananlar dışında çünkü [Ğafur Rahim] Allah çok bağışlayan çok esirgeyendir
+**(90)** şüphesiz onlar ki inandıktan sonra inkar ettiler sonra inkarları arttı onların tevbeleri kabul edilmeyecektir ve işte onlar sapıkların ta kendileridir
 **(91)**
 **(92)** 
 **(93)** 
 **(94)** 
-**(95)**  
+**(95)** 
 **(96)** 
 **(97)** 
 **(98)** 
