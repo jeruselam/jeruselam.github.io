@@ -113,8 +113,8 @@ tag:
 **(98)** de ki Kitap ehli yaptığınız şeylere Allah tanık iken Allah’ın ayetlerini neden? inkar ediyorsunuz 
 **(99)** de ki Kitap ehli siz (gerçeğe) tanık olduğunuz halde ve eğri göstermeğe yeltenerek inanan kimseleri Allah yolundan niçin? çevirmeğe çalışıyorsunuz Allah yaptıklarınızdan habersiz değildir
 **(100)** ey inanan(lar); [imanlı] kimseler şayet Kitap verilen(ler)[den o] kimselerden herhangi bir gruba uyarsanız imanınızdan sonra sizi kafir olarak döndürürler
-**(101)** 
-**(102)** 
+**(101)** ve Allah’ın ayetleri size üstelik size okunmakta ve O’nun Elçisi aranızda iken ve nasıl? inkar edersiniz ve kim Allah’a sarılırsa muhakkak ki o doğru yola iletilmiştir
+**(102)** ey inanan(lar); [imanlı] kimseler O’na yaraşır biçimde hakkıyla Allah’tan korkun siz müslümanlar olmak dışında ölmeyin
 **(103)** 
 **(104)** 
 **(105)** 
