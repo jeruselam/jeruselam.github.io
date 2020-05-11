@@ -98,7 +98,7 @@ tag:
 **(84)** de ki Allah’a, bize indirilen şeye ve İbrahim’e indirilen şeye ve İsma’il’e ve İshak’a ve Ya’kub’a ve sıbtlara ve Musa’ya ve Îsa’ya ve Rableri tarafından peygamberlere verilen şeye inandık hiçbirinin arasında ayırım yapmayız onlar ve biz O’na teslim olanlarız
 **(85)** ve İslam’dan başka bir din kim ararsa (bilsin ki) asla ondan (o din) kabul edilmeyecek ve o ahirette kaybedenlerden olacaktır
 **(86)** İman ettikten ve Resul’ün gerçekten hak olduğunu gördükten ve açık deliller kendilerine geldikten sonra inkar eden bir topluma Allah nasıl yol gösterir zalim toplumu Allah doğru yola iletmez
-**(87)** 
+**(87)** işte gerçekten onların cezası onların üzerine Allah’ın ve meleklerin ve insanların hepsinin la’neti olmasıdır
 **(88)** 
 **(89)** 
 **(90)** 
