@@ -119,7 +119,7 @@ tag:
 **(104)** içinizden hayra çağıran ve iyiliği emreden ve kötülükten men’eden bir topluluk olsun işte onlar kurtuluşa erenlerdir
 **(105)** açık deliller kendilerine geldikten sonra bölünüp ve ihtilaf edenler gibi olmayın işte onlar (evet) onlar için büyük bir azab vardır
 **(106)** O gün (bazı) yüzler ağarır (bazı) yüzler kararır o zaman yüzleri kararan kimselere inanmanızdan sonra inkar ettiniz ha? (denilir) öyle ise inkar etmenize karşılık azabı tadın
-**(107)** 
+**(107)** yüzleri ağaran kimseler ise onlar Allah’ın rahmeti içindedirler orada sürekli kalacaklardır
 **(108)** 
 **(109)** 
 **(110)** 
