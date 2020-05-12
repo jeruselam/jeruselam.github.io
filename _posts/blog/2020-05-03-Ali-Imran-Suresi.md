@@ -120,9 +120,10 @@ tag:
 **(105)** açık deliller kendilerine geldikten sonra bölünüp ve ihtilaf edenler gibi olmayın işte onlar (evet) onlar için büyük bir azab vardır
 **(106)** O gün (bazı) yüzler ağarır (bazı) yüzler kararır o zaman yüzleri kararan kimselere inanmanızdan sonra inkar ettiniz ha? (denilir) öyle ise inkar etmenize karşılık azabı tadın
 **(107)** yüzleri ağaran kimseler ise onlar Allah’ın rahmeti içindedirler orada sürekli kalacaklardır
-**(108)** 
-**(109)** 
-**(110)** 
+**(108)** işte onlar Allah’ın ayetleridir sana [Hakk] gerçek ile onları okuyoruz Allah alemlere zulmetmek istemez
+**(109)** göklerde olanlar ve yerde olanlar Allah’ındır ve bütün işler döndürülür Allah’a
+**(110)** siz insanlar için çıkarılmış en hayırlı bir ümmet oldunuz iyiliği emrediyorsunuz kötülükten men’ediyorsunuz ve Allah’a inanıyorsunuz Kitap ehli eğer 	inanmış olsaydı kendileri için elbette hayırlı olurdu onlardan inananlar da var ama çokları yoldan çıkmışlardır
+**(111)** 
 **(111)** 
 **(112)** 
 **(113)** 
