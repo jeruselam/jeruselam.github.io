@@ -115,10 +115,10 @@ tag:
 **(100)** ey inanan(lar); [imanlı] kimseler şayet Kitap verilen(ler)[den o] kimselerden herhangi bir gruba uyarsanız imanınızdan sonra sizi kafir olarak döndürürler
 **(101)** ve Allah’ın ayetleri size üstelik size okunmakta ve O’nun Elçisi aranızda iken ve nasıl? inkar edersiniz ve kim Allah’a sarılırsa muhakkak ki o doğru yola iletilmiştir
 **(102)** ey inanan(lar); [imanlı] kimseler O’na yaraşır biçimde hakkıyla Allah’tan korkun siz müslümanlar olmak dışında ölmeyin
-**(103)** 
-**(104)** 
-**(105)** 
-**(106)** 
+**(103)** ve topluca Allah’ın ipine yapışın ayrılmayın ve size olan Allah’ın ni’metini hatırlayı siz birbirinize düşman idiniz kalblerinizin arasını O’un (Allah) uzlaştırdı ni’metiyle kardeşler (haline) geldiniz siz ateşten bir çukurun  kenarında bulunuyordunuz (Allah) sizi ondan kurtardı Allah size ayetlerini böyle açıklıyor umulur ki yola gelirsiniz
+**(104)** içinizden hayra çağıran ve iyiliği emreden ve kötülükten men’eden bir topluluk olsun işte onlar kurtuluşa erenlerdir
+**(105)** açık deliller kendilerine geldikten sonra bölünüp ve ihtilaf edenler gibi olmayın işte onlar (evet) onlar için büyük bir azab vardır
+**(106)** O gün (bazı) yüzler ağarır (bazı) yüzler kararır o zaman yüzleri kararan kimselere inanmanızdan sonra inkar ettiniz ha? (denilir) öyle ise inkar etmenize karşılık azabı tadın
 **(107)** 
 **(108)** 
 **(109)** 
