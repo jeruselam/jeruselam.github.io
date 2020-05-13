@@ -134,10 +134,10 @@ tag:
 **(119)** işte siz öyle kimselersiniz ki onları seversiniz halbuki onlar sizi sevmezler ve Kitabın hepsine inanırsınız sizinle karşılaştıkları zaman inandık derler ve yalnız kaldıkları zaman size karşı öfkeden parmak uçlarını ısırırlar de ki öfkenizden ölün şüphesiz Allah göğüslerin özünü bilir
 **(120)** eğer size bir iyilik dokunsa onları tasalandırır ve eğer size bir kötülük dokunsa ona sevinirler eğer sabreder ve korunursanız onların tuzağı hiçbir şekilde size zarar vermez şüphesiz Allah onların yaptıkları şeyleri kuşatmıştır
 **(121)** hani sen erkenden ailenden ayrılmıştın savaş için mü’minleri yerleştiriyordun [semīǔn ǎlīm] Allah da işitendi bilendi
-**(122)** o vakit sizden iki takım korkup bozulmaya yüz tutmuştu halbuki Allah	kendilerinin [velisi] dostu idi inananlar Allah’a [emanetle] dayansınlar
-**(123)** 
-**(124)** 
-**(125)** 
+**(122)** o vakit sizden iki takım korkup bozulmaya yüz tutmuştu halbuki Allah	kendilerinin [velisi] dostu idi inananlar [emanetle] Allah’a dayansınlar
+**(123)** ve siz zayıf durumdayken nitekim Bedir’de Allah size yardım etmişti O halde Allah’tan korkun umulur ki şükredersiniz
+**(124)** O zaman sen mü’minlere indirilmiş üç bin melek ile Rabbinizin size yardım etmesi size yetmez mi? diyordun 
+**(125)** evet eğer sabrederseniz ve korunursanız şu (anda) onlar ansızın üzerinize gelseler nişanlı beş bin melekle Rabbiniz size yardım eder
 **(126)** 
 **(127)** 
 **(128)** 
