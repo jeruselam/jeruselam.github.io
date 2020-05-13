@@ -132,6 +132,6 @@ tag:
 **(117)** bu dünya hayatında harcadıkları şeylerin (malların) durumu nefislerine zulmeden bir topluluğun ekinine vurup onu mahveden kendisine dondurucu bir rüzgara benzer Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
 **(118)** ki onlar ey inanan(lar) kendinizden başkasını kendinize sakın dost edinmeyin onlar sizi bozmaktan geri durmazlar doğrusu size sıkıntı verecek şeyleri isterler onların ağızlarından öfke taşmaktadır göğüslerinde gizledikleri şeyler (kin) ise daha büyüktür eğer düşünüyor iseniz ayetleri size elbette açıkladık 
 **(119)** işte siz öyle kimselersiniz ki onları seversiniz halbuki onlar sizi sevmezler ve Kitabın hepsine inanırsınız sizinle karşılaştıkları zaman inandık derler ve yalnız kaldıkları zaman size karşı öfkeden parmak uçlarını ısırırlar de ki öfkenizden ölün şüphesiz Allah göğüslerin özünü bilir
-**(120)** 
+**(120)** eğer size bir iyilik dokunsa onları tasalandırır ve eğer size bir kötülük dokunsa ona sevinirler eğer sabreder ve korunursanız onların tuzağı hiçbir şekilde size zarar vermez şüphesiz Allah onların yaptıkları şeyleri kuşatmıştır
 
 ![03Âli İmrân-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
