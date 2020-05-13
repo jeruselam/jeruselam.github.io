@@ -130,8 +130,8 @@ tag:
 **(115)** ve iyilikten yapacakları şeyler inkar edilmeyecektir Şüphesiz Allah (günahlardan) korunanları bilmektedir
 **(116)** şüphesiz inkar eden(ler); [kafir] kimseler onlara malları ne de evladları Allah’a karşı hiçbir şey yarar sağlamayacaktır ve onlar ateş halkıdır onlar orada sürekli kalacaklardır
 **(117)** bu dünya hayatında harcadıkları şeylerin (malların) durumu nefislerine zulmeden bir topluluğun ekinine vurup onu mahveden kendisine dondurucu bir rüzgara benzer Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
-**(118)** 
+**(118)** ki onlar ey inanan(lar) kendinizden başkasını kendinize sakın dost edinmeyin onlar sizi bozmaktan geri durmazlar doğrusu size sıkıntı verecek şeyleri isterler onların ağızlarından öfke taşmaktadır göğüslerinde gizledikleri şeyler (kin) ise daha büyüktür eğer düşünüyor iseniz ayetleri size elbette açıkladık 
 **(119)** 
-**(120)**  
+**(120)** 
 
 ![03Âli İmrân-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
