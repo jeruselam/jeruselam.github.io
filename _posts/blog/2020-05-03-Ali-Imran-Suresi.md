@@ -133,8 +133,8 @@ tag:
 **(118)** ki onlar ey inanan(lar) kendinizden başkasını kendinize sakın dost edinmeyin onlar sizi bozmaktan geri durmazlar doğrusu size sıkıntı verecek şeyleri isterler onların ağızlarından öfke taşmaktadır göğüslerinde gizledikleri şeyler (kin) ise daha büyüktür eğer düşünüyor iseniz ayetleri size elbette açıkladık 
 **(119)** işte siz öyle kimselersiniz ki onları seversiniz halbuki onlar sizi sevmezler ve Kitabın hepsine inanırsınız sizinle karşılaştıkları zaman inandık derler ve yalnız kaldıkları zaman size karşı öfkeden parmak uçlarını ısırırlar de ki öfkenizden ölün şüphesiz Allah göğüslerin özünü bilir
 **(120)** eğer size bir iyilik dokunsa onları tasalandırır ve eğer size bir kötülük dokunsa ona sevinirler eğer sabreder ve korunursanız onların tuzağı hiçbir şekilde size zarar vermez şüphesiz Allah onların yaptıkları şeyleri kuşatmıştır
-**(121)** 
-**(122)** 
+**(121)** hani sen erkenden ailenden ayrılmıştın savaş için mü’minleri yerleştiriyordun [semīǔn ǎlīm] Allah da işitendi bilendi
+**(122)** o vakit sizden iki takım korkup bozulmaya yüz tutmuştu halbuki Allah	kendilerinin [velisi] dostu idi inananlar Allah’a [emanetle] dayansınlar
 **(123)** 
 **(124)** 
 **(125)** 
