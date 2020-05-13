@@ -121,18 +121,17 @@ tag:
 **(106)** O gün (bazı) yüzler ağarır (bazı) yüzler kararır o zaman yüzleri kararan kimselere inanmanızdan sonra inkar ettiniz ha? (denilir) öyle ise inkar etmenize karşılık azabı tadın
 **(107)** yüzleri ağaran kimseler ise onlar Allah’ın rahmeti içindedirler orada sürekli kalacaklardır
 **(108)** işte onlar Allah’ın ayetleridir sana [Hakk] gerçek ile onları okuyoruz Allah alemlere zulmetmek istemez
-**(109)** göklerde olanlar ve yerde olanlar Allah’ındır ve bütün işler döndürülür Allah’a
+**(109)** göklerde olanlar ve yerde olanlar Allah’ındır ve bütün işler Allah’a döndürülür
 **(110)** siz insanlar için çıkarılmış en hayırlı bir ümmet oldunuz iyiliği emrediyorsunuz kötülükten men’ediyorsunuz ve Allah’a inanıyorsunuz Kitap ehli eğer 	inanmış olsaydı kendileri için elbette hayırlı olurdu onlardan inananlar da var ama çokları yoldan çıkmışlardır
-**(111)** 
-**(111)** 
-**(112)** 
-**(113)** 
-**(114)** 
-**(115)** 
-**(116)** 
-**(117)** 
+**(111)** incitme dışında size zarar veremezler eğer sizinle savaşsalar (bile) size arkalarını dönüp kaçarlar sonra onlara yardım da edilmez
+**(112)** nerede bulunsalar onlara alçaklık (damgası) vurulmuştur ancak hariç Allah’ın ahdine (ipine) ve (inanan) insanların ahdine (ipine) ve Allah’ın gazabına uğradılar ve üzerlerine miskinlik (damgası) vuruldu çünkü onlar böyledir Allah’ın ayetlerini inkar ediyorlar haksız yere peygamberleri öldürüyorlardı böyledir çünkü isyan etmişlerdi ve haddi aşıyorlardı
+**(113)** (ama) Kitap ehlinden hepsi aynı değildir gece saatlerinde Allah’ın ayetlerini okuyarak ayakta duran bir topluluk vardır ve onlar secdeye kapanırlar
+**(114)** Allah’a ve ahiret gününe inanırlar ve iyiliği emreder	ve kötülükten men’ederler ve hayır işlerine koşarlar işte onlar iyilerdendir
+**(115)** ve iyilikten yapacakları şeyler inkar edilmeyecektir Şüphesiz Allah (günahlardan) korunanları bilmektedir
+**(116)** şüphesiz inkar eden(ler); [kafir] kimseler onlara malları ne de evladları Allah’a karşı hiçbir şey yarar sağlamayacaktır ve onlar ateş halkıdır onlar orada sürekli kalacaklardır
+**(117)** bu dünya hayatında harcadıkları şeylerin (malların) durumu nefislerine zulmeden bir topluluğun ekinine vurup onu mahveden kendisine dondurucu bir rüzgara benzer Allah onlara zulmetmedi fakat onlar kendi kendilerine zulmediyorlardı
 **(118)** 
 **(119)** 
-**(120)** 
+**(120)**  
 
 ![03Âli İmrân-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
