@@ -142,7 +142,7 @@ tag:
 **(127)** inkar eden(ler); [kafir] kimselerden bir kısmını kessin [ayırsın] diye ve yahut perişan etsin de umutsuz olarak dönüp gitsinler diye
 **(128)** senin o konuda (yapacağın) bir şey yoktur ya (Allah) onların tevbelerini kabul eder ya da onlara azab eder şüphesiz onlar zalimlerdir (diye)
 **(129)** ve göklerde olanlar ve yerde olanlar Allah’ındır (O) dilediği kimseyi bağışlar ve dilediği dimseye azabeder [Ğafurun Rahim] Allah çok bağışlayan çok esirgeyendir
-**(130)** 
+**(130)** ey inanan(lar); [imanlı] kimseler kat kat arttırarak riba yemeyin ve Allah’tan korkun umulur ki kurtuluşa erersiniz
 **(131)** 
 **(132)** 
 **(133)** 
