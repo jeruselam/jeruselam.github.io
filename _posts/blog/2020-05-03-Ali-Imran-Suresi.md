@@ -139,9 +139,9 @@ tag:
 **(124)** O zaman sen mü’minlere indirilmiş üç bin melek ile Rabbinizin size yardım etmesi size yetmez mi? diyordun 
 **(125)** evet eğer sabrederseniz ve korunursanız şu (anda) onlar ansızın üzerinize gelseler nişanlı beş bin melekle Rabbiniz size yardım eder
 **(126)** Allah onu yapmaz ancak size müjde olsun diye ve bununla kalbleriniz güven bulsun diye (yapar) ve yardım yoktur ancak daima galib hüküm ve hikmet sahibi [Aziz Hakim] Allah katında (vardır)
-**(127)** yahut inkar eden(ler); [kafir] kimselerden bir kısmını kessin [ayırsın] diye ve perişan etsin de umutsuz olarak dönüp gitsinler diye
-**(128)** 
-**(129)** 
+**(127)** inkar eden(ler); [kafir] kimselerden bir kısmını kessin [ayırsın] diye ve yahut perişan etsin de umutsuz olarak dönüp gitsinler diye
+**(128)** senin o konuda (yapacağın) bir şey yoktur ya (Allah) onların tevbelerini kabul eder ya da onlara azab eder şüphesiz onlar zalimlerdir (diye)
+**(129)** ve göklerde olanlar ve yerde olanlar Allah’ındır (O) dilediği kimseyi bağışlar ve dilediği dimseye azabeder [Ğafurun Rahim] Allah çok bağışlayan çok esirgeyendir
 **(130)** 
 **(131)** 
 **(132)** 
