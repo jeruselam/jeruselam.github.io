@@ -138,8 +138,8 @@ tag:
 **(123)** ve siz zayıf durumdayken nitekim Bedir’de Allah size yardım etmişti O halde Allah’tan korkun umulur ki şükredersiniz
 **(124)** O zaman sen mü’minlere indirilmiş üç bin melek ile Rabbinizin size yardım etmesi size yetmez mi? diyordun 
 **(125)** evet eğer sabrederseniz ve korunursanız şu (anda) onlar ansızın üzerinize gelseler nişanlı beş bin melekle Rabbiniz size yardım eder
-**(126)** 
-**(127)** 
+**(126)** Allah onu yapmaz ancak size müjde olsun diye ve bununla kalbleriniz güven bulsun diye (yapar) ve yardım yoktur ancak daima galib hüküm ve hikmet sahibi [Aziz Hakim] Allah katında (vardır)
+**(127)** yahut inkar eden(ler); [kafir] kimselerden bir kısmını kessin [ayırsın] diye ve perişan etsin de umutsuz olarak dönüp gitsinler diye
 **(128)** 
 **(129)** 
 **(130)** 
