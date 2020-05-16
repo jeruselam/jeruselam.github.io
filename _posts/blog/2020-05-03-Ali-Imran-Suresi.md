@@ -151,7 +151,7 @@ tag:
 **(136)** işte onların mükafatı Rableri tarafından bağışlanma ve altlarından ırmaklar akan cennetlerdir içinde sürekli kalırlar ve çalışanların ücreti ne güzeldir
 **(137)** şüphesiz yasalar sizden önce de uygulanmıştır yeryüzünde dolaşın ve yalanlayıcıların sonunun nasıl olduğunu görün
 **(138)** bu insanlara bir açıklamadır ve yol göstermedir ve korunanlara öğüttür
-**(139)**
+**(139)** gevşemeyin üzülmeyin eğer inanıyor iseniz mutlaka siz üstün geleceksiniz 
 **(140)** 
 **(141)** 
 **(142)** 
