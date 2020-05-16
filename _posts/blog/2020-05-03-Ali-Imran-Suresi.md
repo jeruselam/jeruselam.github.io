@@ -148,6 +148,10 @@ tag:
 **(133)** ve Rabbinizden bir bağışlanmaya ve genişliği göklerle ve yer kadar olan korunanlar için hazırlanmış cennete koşun 
 **(134)** onlar ki bollukta ve darlıkta infak ederler öfke(lerin)i yutkunurlar ve insanları affederler Allah da güzel davrananları sever
 **(135)** ve onlar bir kötülük yaptıkları ya da nefislerine zulmettikleri zaman Allah’ı hatırlayarak günahlarının bağışlanmasını dilerler ve Allah’tan başka günahları kim bağışlayabilir
+**(136)** işte onların mükafatı Rableri tarafından bağışlanma ve altlarından ırmaklar akan cennetlerdir içinde sürekli kalırlar ve çalışanların ücreti ne güzeldir
+**(137)**
+**(138)** 
+**(139)**
 **(140)** 
 **(141)** 
 **(142)** 
