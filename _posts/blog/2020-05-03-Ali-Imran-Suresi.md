@@ -144,10 +144,10 @@ tag:
 **(129)** ve göklerde olanlar ve yerde olanlar Allah’ındır (O) dilediği kimseyi bağışlar ve dilediği dimseye azabeder [Ğafurun Rahim] Allah çok bağışlayan çok esirgeyendir
 **(130)** ey inanan(lar); [imanlı] kimseler kat kat arttırarak riba yemeyin ve Allah’tan korkun umulur ki kurtuluşa erersiniz
 **(131)** ve ateşten sakının o ki kafirler için hazırlanmıştır
-**(132)** ve Allah’a ve Elçiye ita’at edin umulur ki olursunuz merhamet edilenlerden
-**(133)** 
-**(134)** 
-**(135)** 
+**(132)** ve Allah’a ve Elçiye ita’at edin umulur ki merhamet edilenlerden olursunuz
+**(133)** ve Rabbinizden bir bağışlanmaya ve genişliği göklerle ve yer kadar olan korunanlar için hazırlanmış cennete koşun 
+**(134)** onlar ki bollukta ve darlıkta infak ederler öfke(lerin)i yutkunurlar ve insanları affederler Allah da güzel davrananları sever
+**(135)** ve onlar bir kötülük yaptıkları ya da nefislerine zulmettikleri zaman Allah’ı hatırlayarak günahlarının bağışlanmasını dilerler ve Allah’tan başka günahları kim bağışlayabilir
 **(140)** 
 **(141)** 
 **(142)** 
