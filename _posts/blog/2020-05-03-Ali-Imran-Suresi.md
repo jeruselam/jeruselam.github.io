@@ -152,7 +152,7 @@ tag:
 **(137)** şüphesiz yasalar sizden önce de uygulanmıştır yeryüzünde dolaşın ve yalanlayıcıların sonunun nasıl olduğunu görün
 **(138)** bu insanlara bir açıklamadır ve yol göstermedir ve korunanlara öğüttür
 **(139)** gevşemeyin üzülmeyin eğer inanıyor iseniz mutlaka siz üstün geleceksiniz 
-**(140)** 
+**(140)** eğer size bir yara dokunduysa muhakkak benzeri bir yara o topluluğa da dokunmuştu işte o günler, insanlar arasında biz onları çeviririz Allah’ın inanan(ları); (bu) [imanlı] kimseleri bilmesi içindir ve sizden şehidler (şahidler) edinmesi içindir Allah zalimleri sevmez
 **(141)** 
 **(142)** 
 **(143)** 
