@@ -159,7 +159,7 @@ tag:
 **(144)** ve Muhammed bir elçi [Rasulden] başka değildir muhakkak elçiler ondan önce de gelip geçmiştir eğer şimdi o ölür veya öldürülürse ökçelerinizin üzerinde geriye mi döneceksiniz? ökçesi üzerinde kim geriye dönerse Allah’a hiçbir ziyan veremez ve Allah şükredenleri mükafatlandıracaktır 
 **(145)** ve Allah’ın izni olmadan hiçbir kişi için ölmek yoktur belirli bir süreye göre yazılmıştır ve dünya sevabını (menfaatini) kim isterse ondan kendisine veririz ve ahiret sevabını kim isterse ondan kendisine veririz ve şükredenleri mükafatlandıracağız
 **(146)** peygamberden nice var ki birçok Rabbani (erenler) kendileriyle beraber çarpıştılar Allah yolunda başlarına gelen şeylerden yılmadılar zayıflık göstermediler boyun eğmediler Allah sabredenleri sever
-**(147)** 
+**(147)** ve sözleri Rabbimiz kafirler toplumuna karşı bize yardım eyle ayaklarımızı sağlam tut ve işimizde taşkınlığımızı ve bizim günahlarımızı bağışla demelerinden başka değildi 
 **(148)** 
 **(149)** 
 **(150)** 
