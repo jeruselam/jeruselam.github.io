@@ -160,10 +160,10 @@ tag:
 **(145)** ve Allah’ın izni olmadan hiçbir kişi için ölmek yoktur belirli bir süreye göre yazılmıştır ve dünya sevabını (menfaatini) kim isterse ondan kendisine veririz ve ahiret sevabını kim isterse ondan kendisine veririz ve şükredenleri mükafatlandıracağız
 **(146)** peygamberden nice var ki birçok Rabbani (erenler) kendileriyle beraber çarpıştılar Allah yolunda başlarına gelen şeylerden yılmadılar zayıflık göstermediler boyun eğmediler Allah sabredenleri sever
 **(147)** ve sözleri Rabbimiz kafirler toplumuna karşı bize yardım eyle ayaklarımızı sağlam tut ve işimizde taşkınlığımızı ve bizim günahlarımızı bağışla demelerinden başka değildi 
-**(148)** 
-**(149)** 
-**(150)** 
-**(151)** 
+**(148)** dünya karşılığını ve ahiret karşılığının en güzelini Allah (da) onlara verdi (çünkü) Allah güzel davrananları sever
+**(149)** ey inanan(lar); [imanlı] kimseler inkar eden(lere); [kafir] kimselere ita’at ederseniz eğer sizi arkanız üzere (küfre) çevirirler o zaman kaybedenlere dönersiniz 
+**(150)** hayır Mevlanız Allah’tır ve yardımcıların en iyisi O’dur
+**(151)** kendilerine hiçbir güç[lü sultanın] indirmediği şeyleri Allah’a ortak koştuklarından dolayı inkar edenlerin; [kafir] kimselerin kalblerine korku salacağız ve gidecekleri yer de cehennemdir zalimlerin varacağı yer ne kötüdür 
 **(152)** 
 **(153)** 
 **(154)** 
