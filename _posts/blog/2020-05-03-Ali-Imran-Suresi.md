@@ -155,8 +155,8 @@ tag:
 **(140)** eğer size bir yara dokunduysa muhakkak benzeri bir yara o topluluğa da dokunmuştu işte o günler, insanlar arasında biz onları çeviririz Allah’ın inanan(ları); [imanlı] (bu) kimseleri bilmesi içindir ve sizden şehidler (şahidler) edinmesi içindir Allah zalimleri sevmez
 **(141)** ve Allah’ın inanan(ları); [imanlı] kimseleri temize çıkarması için ve kafirleri mahvetmesi için
 **(142)** Allah içinizden cihad edenleri [o] kimseleri sabredenleri (sınayıp) bilmeden yoksa siz cennete gireceğinizi [mi] sandınız
-**(143)** 
-**(144)** 
+**(143)** andolsun ki onunla karşılaşmadan önce siz ölümü arzuluyordunuz işte onu gördünüz ve siz bakıp duruyorsunuz
+**(144)** ve Muhammed bir elçi [Rasulden] başka değildir muhakkak elçiler ondan önce de gelip geçmiştir eğer şimdi o ölür veya öldürülürse ökçelerinizin üzerinde geriye mi döneceksiniz? ökçesi üzerinde kim geriye dönerse Allah’a hiçbir ziyan veremez ve Allah şükredenleri mükafatlandıracaktır 
 **(145)** 
 **(146)** 
 **(147)** 
