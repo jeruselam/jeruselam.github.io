@@ -164,7 +164,7 @@ tag:
 **(149)** ey inanan(lar); [imanlı] kimseler inkar eden(lere); [kafir] kimselere ita’at ederseniz eğer sizi arkanız üzere (küfre) çevirirler o zaman kaybedenlere dönersiniz 
 **(150)** hayır Mevlanız Allah’tır ve yardımcıların en iyisi O’dur
 **(151)** kendilerine hiçbir güç[lü sultanın] indirmediği şeyleri Allah’a ortak koştuklarından dolayı inkar edenlerin; [kafir] kimselerin kalblerine korku salacağız ve gidecekleri yer de cehennemdir zalimlerin varacağı yer ne kötüdür 
-**(152)** 
+**(152)** kendi izniyle onları öldürdüğünüz sürece elbette Allah size (yardım) va’dini doğruladı nihayet nezaman ki siz korktunuz ve (verilen) emir hakkında (birbirinizle) çekiştiniz ve sevdiğiniz şey(galibiyet)i 	size gösterdikten sonra isyan ettiniz sizden kiminiz dünyayı istiyordu ve sizden kiminiz ahireti istiyordu sonra sizi denemek için (Allah) onlardan  [sizi] geri çevirdi andolsun ki Allah sizi bağışladı mü’minlere karşı lütuf sahibidir
 **(153)** 
 **(154)** 
 **(155)** 
