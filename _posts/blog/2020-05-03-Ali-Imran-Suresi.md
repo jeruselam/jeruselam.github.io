@@ -157,8 +157,8 @@ tag:
 **(142)** Allah içinizden cihad edenleri [o] kimseleri sabredenleri (sınayıp) bilmeden yoksa siz cennete gireceğinizi [mi] sandınız
 **(143)** andolsun ki onunla karşılaşmadan önce siz ölümü arzuluyordunuz işte onu gördünüz ve siz bakıp duruyorsunuz
 **(144)** ve Muhammed bir elçi [Rasulden] başka değildir muhakkak elçiler ondan önce de gelip geçmiştir eğer şimdi o ölür veya öldürülürse ökçelerinizin üzerinde geriye mi döneceksiniz? ökçesi üzerinde kim geriye dönerse Allah’a hiçbir ziyan veremez ve Allah şükredenleri mükafatlandıracaktır 
-**(145)** 
-**(146)** 
+**(145)** ve Allah’ın izni olmadan hiçbir kişi için ölmek yoktur belirli bir süreye göre yazılmıştır ve dünya sevabını (menfaatini) kim isterse ondan kendisine veririz ve ahiret sevabını kim isterse ondan kendisine veririz ve şükredenleri mükafatlandıracağız
+**(146)** peygamberden nice var ki birçok Rabbani (erenler) kendileriyle beraber çarpıştılar Allah yolunda başlarına gelen şeylerden yılmadılar zayıflık göstermediler boyun eğmediler Allah sabredenleri sever
 **(147)** 
 **(148)** 
 **(149)** 
