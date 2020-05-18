@@ -54,13 +54,13 @@ tag:
 **(42)** de ki dedikleri gibi O’nunla beraber tanrılar[ilahlar] eğer olsaydı o zaman Arşın sahibine [açık ve büyük]bir yol onlar da ararlardı
 **(43)** (haşa) münezzehtir O ve uludur[üstündür] onların dediklerinden çok[daha] yücedir
 **(44)** yedi gök[bulut ve emsali örtü] ve yeryüzü ve bunların içindeki kimseler O’nu tesbih ederler ve hamd ile tesbih etmeyen hiçbir şey yoktur onların tesbihlerini ama siz anlamazsınız şüphesiz O halimdir çok bağışlayandır
-**(45)** ve Kur’an okuduğun zaman (aranıza) seninle ahirete inanmayan(ların) kimselerin arasına gizli bir perde çekeriz
-**(46)** ve kalbleri üzerine onu anlamalarına engel olacak kabuklar kılarız ve kulaklarına bir ağırlık (koyarız) ve Kur’an’da birliğini Rabbini andığın zaman arkalarına dönüp [dağılıp ürküp]kaçarlar
-**(47)** onlar fısıldaşırken zalimlerin büyülenmiş bir adamdan başkasına siz uymuyorsunuz dedikleri zaman ve seni dinlerken onların ne sebeple dinlediklerini biz gayet iyi biliyoruz
-**(48)** benzetmelerle sana bak nasıl misaller verdiler [doğrudan]şaştılar artık bir daha yolu bulamazlar
-**(49)** ve dediler ki kemikler ve ufalanmış toprak iken biz mi? yeni bir yaratılışla diriltilecek biz miyiz?
+**(45)** ve Kur’an okuduğun zaman (aranıza) seninle ahirete inanmayan(ların); [iman etmeyen] kimselerin arasına gizli bir perde çekeriz
+**(46)** ve kalbleri üzerine onu anlamalarına engel olacak kabuklar kılarız ve kulaklarına bir ağırlık (koyarız) ve Kur’an’da Rabbini birliğini andığın zaman arkalarına dönüp [dağılıp ürküp] kaçarlar
+**(47)** seni dinlerken onların ne sebeple dinlediklerini ve onlar [o] zaman fısıldaşırken, zalimlerin siz büyülenmiş bir adamdan başkasına uymuyorsunuz dedikleri zaman[ı] biz gayet iyi biliyoruz
+**(48)** bak sana benzetmelerle nasıl misaller verdiler [doğrudan] şaştılar artık bir daha yolu bulamazlar
+**(49)** ve dediler ki biz kemikler ve ufalanmış toprak iken mi? yeni bir yaratılışla diriltilecek biz miyiz?
 **(50)** de ki (ister) taş veya demir olun
-**(51)** veya gönlünüzde [meydana gelen] büyüyen herhangi bir yaratık [yaratılış], diyecekler ki bizi tekrar kim döndürebilir, de ki ilk defa sizi yaratan, sana başlarını alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler, de ki belki de pek yakın olabilir
+**(51)** veya gönlünüzde [yaratılış ile meydana gelen] büyüyen herhangi bir yaratık, diyecekler ki bizi tekrar kim döndürebilir, de ki ilk defa sizi yaratan, sana başlarını alaylı alaylı sallayacaklar ve o Ne zaman? diyecekler, de ki belki de pek yakın olabilir
 **(52)** sizi çağıracağı gün O’na hamdederek çağrısına uyarsınız ve pek az (bir süre) dışında (dünyada) kalmadınız sanırsınız
 **(53)** ve kullarıma söyle o en güzel (sözü) söylesinler çünkü şeytan aralarına[ikisinin arasına] girer doğrusu şeytan insanın apaçık düşmanıdır
 **(54)** Rabbiniz[Allah] sizi daha iyi bilir eğer dilerse size acır veya eğer dilerse size azabeder biz seni onların üzerine [vazifeli]bir vekil göndermedik
