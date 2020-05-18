@@ -164,9 +164,9 @@ tag:
 **(149)** ey inanan(lar); [imanlı] kimseler inkar eden(lere); [kafir] kimselere ita’at ederseniz eğer sizi arkanız üzere (küfre) çevirirler o zaman kaybedenlere dönersiniz 
 **(150)** hayır Mevlanız Allah’tır ve yardımcıların en iyisi O’dur
 **(151)** kendilerine hiçbir güç[lü sultanın] indirmediği şeyleri Allah’a ortak koştuklarından dolayı inkar edenlerin; [kafir] kimselerin kalblerine korku salacağız ve gidecekleri yer de cehennemdir zalimlerin varacağı yer ne kötüdür 
-**(152)** kendi izniyle onları öldürdüğünüz sürece elbette Allah size (yardım) va’dini doğruladı nihayet nezaman ki siz korktunuz ve (verilen) emir hakkında (birbirinizle) çekiştiniz ve sevdiğiniz şey(galibiyet)i 	size gösterdikten sonra isyan ettiniz sizden kiminiz dünyayı istiyordu ve sizden kiminiz ahireti istiyordu sonra sizi denemek için (Allah) onlardan  [sizi] geri çevirdi andolsun ki Allah sizi bağışladı mü’minlere karşı lütuf sahibidir
-**(153)** 
-**(154)** 
+**(152)** kendi izniyle onları öldürdüğünüz sürece elbette Allah size (yardım) va’dini doğruladı nihayet nezaman ki siz korktunuz ve (verilen) emir hakkında (birbirinizle) çekiştiniz ve sevdiğiniz şey(galibiyet)i size gösterdikten sonra isyan ettiniz sizden kiminiz dünyayı istiyordu ve sizden kiminiz ahireti istiyordu sonra sizi denemek için (Allah) onlardan  [sizi] geri çevirdi andolsun ki Allah sizi bağışladı mü’minlere karşı lütuf sahibidir
+**(153)** ve Elçi arkanızdan sizi çağırırken hani boyuna uzaklaşıyordunuz hiç kimseye dönüp bakmıyordunuz bundan dolayı elinizden giden şeye ve başınıza gelen şeye üzülmeyesiniz diye size gam üstüne gam verdi Allah yaptıklarınız(dan) [işlediğiniz] şeylerden haberdardır
+**(154)** sonra size o üzüntünün ardından bir güven sizden bir kısmınızı bürüyen bir uyku indirdi ve bir kısmınız da doğrusu kendi canlarının kaygısına düşmüştü Allah’a karşı cahiliyye zannı (gibi) haksız bir zanda bulunuyorlar bize bu işten hiçbir şey var mı de ki şüphesiz iş bütünüyle Allah’a aittir sana açıklayamadıkları şeyleri onlar içlerinde gizliyorlar diyorlar ki şayet bu işten bize bir şey (fayda) olsaydı burada öldürülmezdik de ki şayet olsaydınız evlerinizde dahi öldürülme(si) üzerine yazılmış olanlar mutlaka yatacakları yeri boylardı ve göğüsleriniz içinde olanı Allah’ın denemesi içindir ve kalbleriniz içinde olanı açığa çıkarması içindir göğüslerin özünü Allah bilir 
 **(155)** 
 **(156)** 
 **(157)** 
