@@ -169,7 +169,7 @@ tag:
 **(154)** sonra size o üzüntünün ardından bir güven sizden bir kısmınızı bürüyen bir uyku indirdi ve bir kısmınız da doğrusu kendi canlarının kaygısına düşmüştü Allah’a karşı cahiliyye zannı (gibi) haksız bir zanda bulunuyorlar bize bu işten hiçbir şey var mı de ki şüphesiz iş bütünüyle Allah’a aittir sana açıklayamadıkları şeyleri onlar içlerinde gizliyorlar diyorlar ki şayet bu işten bize bir şey (fayda) olsaydı burada öldürülmezdik de ki şayet olsaydınız evlerinizde dahi öldürülme(si) üzerine yazılmış olanlar mutlaka yatacakları yeri boylardı ve göğüsleriniz içinde olanı Allah’ın denemesi içindir ve kalbleriniz içinde olanı açığa çıkarması içindir göğüslerin özünü Allah bilir 
 **(155)** şüphesiz iki topluluğun karşılaştığı gün içinizden yüz çevirip giden kimseleri yaptıkları bazı işlerden dolayı şeytan şüphesiz (yoldan) kaydırmak istemişti ama elbette Allah onları affetti şüphesiz [Ğafurun Halim] Allah çok bağışlayandır halimdir
 **(156)** ey inananlar kimseler inkar eden(ler); [kafir] kimseler (gibi) ve yeryüzünde sefere çıktıkları ya da savaşa çıktıkları zaman kardeşleri için diyenler (gibi) eğer bizim yanımızda olsalardı ölmezlerdi ve öldürülmezlerdi diyenler (gibi) olmayın Allah bu (düşünce ve sözlerini) kalblerinde bir dert yapar yaşatan ve öldüren Allahtır Allah yaptıklarınız şeyleri görmektedir
-**(157)** 
+**(157)** eğer Allah yolunda öldürülür ya da ölürseniz Allah’ın bağışlaması vardır ve rahmeti onların topladıkları şeylerden daha hayırlıdır
 **(158)** 
 **(159)** 
 **(160)** 
