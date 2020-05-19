@@ -170,8 +170,8 @@ tag:
 **(155)** şüphesiz iki topluluğun karşılaştığı gün içinizden yüz çevirip giden kimseleri yaptıkları bazı işlerden dolayı şeytan şüphesiz (yoldan) kaydırmak istemişti ama elbette Allah onları affetti şüphesiz [Ğafurun Halim] Allah çok bağışlayandır halimdir
 **(156)** ey inananlar kimseler inkar eden(ler); [kafir] kimseler (gibi) ve yeryüzünde sefere çıktıkları ya da savaşa çıktıkları zaman kardeşleri için diyenler (gibi) eğer bizim yanımızda olsalardı ölmezlerdi ve öldürülmezlerdi diyenler (gibi) olmayın Allah bu (düşünce ve sözlerini) kalblerinde bir dert yapar yaşatan ve öldüren Allahtır Allah yaptıklarınız şeyleri görmektedir
 **(157)** eğer Allah yolunda öldürülür ya da ölürseniz Allah’ın bağışlaması vardır ve rahmeti onların topladıkları şeylerden daha hayırlıdır
-**(158)** 
-**(159)** 
+**(158)** elbette ölür veya öldürülürseniz elbette Allah’a götürüleceksiniz
+**(159)** Allah’ın rahmeti sebebiyle sen onlara yumuşak davrandın eğer kaba katı yürekli olsaydın çevrenden dağılır, giderlerdi öyleyse onları affet ve onlar için mağfiret dile ve işini onlara danış karar verdiğin zaman Allah’a dayan elbette Allah kendine dayanıp güvenenleri sever
 **(160)** 
 **(161)** 
 **(162)** 
