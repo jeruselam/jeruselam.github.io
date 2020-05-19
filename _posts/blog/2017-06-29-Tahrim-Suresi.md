@@ -20,7 +20,7 @@ tag:
 **(7)** Ey inkar eden(ler) kimseler bugün özür dilemeyin çünkü ancak siz yapıyor(lar) olduğunuz şeylerle cezalandırılıyorsunuz.
 **(8)** Ey inanan(lar) kimseler Allah’a yürekten tevbe ile tevbe edin umulur ki Rabbiniz sizden kötülüklerinizi örter sizi altlarından ırmaklar akan cennetlere sokar Allah’ın peygamberi ve onunla beraber inanmış olanları utandırmayacağı günde onların nuru önlerinden  önlerinden ve sağ yanlarından koşar derler ki Rabbimiz bize nurumuzu tamamla ve bizi bağışla doğrusu senin her şey üzerine gücün yeter.
 **(9)** Ey O! [nebi] Peygamber kafirlerle ve münafıklarla cihad et ve onlara karşı katı davran onların varacağı yer cehennemdir ne kötü varılacak yerdir
-**(10)** Nuh’un karısını ve Lut’un karısını inkar eden(ler); [kafir] kimseler için misal ile Allah anlattı bu ikisi salih kullarımızdan iki kulun (nikahı) altında idiler fakat ihanet ettiler Allah'tan (hiçbir) şeyi (kocaları) onlardan savamadı ve girenlerle beraber haydi ateşe girin denildi
+**(10)** Allah misal ile inkar eden(ler); [kafir] kimseler için Nuh’un karısını ve Lut’un karısını anlattı bu ikisi salih kullarımızdan iki kulun (nikahı) altında idiler fakat ihanet ettiler (kocaları) onlardan Allah'tan (hiçbir) şeyi savamadı ve girenlerle beraber haydi ateşe girin denildi
 **(11)** ve Allah misal ile inananlar hakkında Fir’avn’ın karısını anlattı hani demişti Rabbim katında bana cennetin içinde bir ev yap ve Fir’avndan ve onun (kötü) işinden beni kurtar ve zalimler topluluğundan beni kurtar
 **(12)** ve İmran’ın kızı Meryem’i O ırzını korumuştu biz de ona ruhumuzdan üflemiştik ve Rabbinin kelimelerini ve Kitaplarını doğrulamıştı ve gönülden ita’at edenlerden olmuştu
 
