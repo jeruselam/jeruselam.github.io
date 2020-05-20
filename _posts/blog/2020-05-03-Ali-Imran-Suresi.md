@@ -172,7 +172,7 @@ tag:
 **(157)** eğer Allah yolunda öldürülür ya da ölürseniz Allah’ın bağışlaması vardır ve rahmeti onların topladıkları şeylerden daha hayırlıdır
 **(158)** elbette ölür veya öldürülürseniz elbette Allah’a götürüleceksiniz
 **(159)** Allah’ın rahmeti sebebiyle sen onlara yumuşak davrandın eğer kaba katı yürekli olsaydın çevrenden dağılır, giderlerdi öyleyse onları affet ve onlar için mağfiret dile ve işini onlara danış karar verdiğin zaman Allah’a dayan elbette Allah kendine dayanıp güvenenleri sever
-**(160)** 
+**(160)** Allah eğer size yardım ederse artık sizi yenecek yoktur ve eğer sizi yüz üstü bırakırsa O’ndan sonra size yardım edebilecek kimse kimdir ve Mü’minler Allah’a dayansınlar
 **(161)** 
 **(162)** 
 **(163)** 
