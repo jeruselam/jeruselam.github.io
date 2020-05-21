@@ -174,9 +174,9 @@ tag:
 **(159)** Allah’ın rahmeti sebebiyle sen onlara yumuşak davrandın eğer kaba katı yürekli olsaydın çevrenden dağılır, giderlerdi öyleyse onları affet ve onlar için mağfiret dile ve işini onlara danış karar verdiğin zaman Allah’a dayan elbette Allah kendine dayanıp güvenenleri sever
 **(160)** Allah eğer size yardım ederse artık sizi yenecek yoktur ve eğer sizi yüz üstü bırakırsa O’ndan sonra size yardım edebilecek kimse kimdir ve Mü’minler Allah’a dayansınlar
 **(161)** ve bir peygamberin hiyanet etmesi olur şey değildir ve kim hıyanet ederse kıyamet günü hıyanet ettiği şeyi getirir sonra her kişiye ne ki kazandı tastamam verilir ve onlar hiçbir haksızlığa uğratılmazlar
-**(162)** 
-**(163)** 
-**(164)** 
+**(162)** Allah’ın hışmına uğrayan ve yeri cehennem (olan) kimse Allah’ın rızasına uyan gibi hiç olur mu? ne kötü sonuçtur orası
+**(163)** O(insa)nlar Allah katında derece derecedirler Allah onların yaptıkları şeyleri görmektedir
+**(164)** daha önce açık bir sapıklık içinde bulunuyorlarken kendilerine Kitap ve hikmeti öğreten ve kendilerini yücelten ve (Allah’ın) ayetlerini onlara okuyan kendi içlerinden kendilerine bir elçi göndermekle andolsun ki mü’minlere karşı Allah lütufta bulundu
 **(165)** 
 **(166)** 
 **(167)** 
