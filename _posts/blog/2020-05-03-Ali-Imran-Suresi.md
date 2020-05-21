@@ -177,9 +177,9 @@ tag:
 **(162)** Allah’ın hışmına uğrayan ve yeri cehennem (olan) kimse Allah’ın rızasına uyan gibi hiç olur mu? ne kötü sonuçtur orası
 **(163)** O(insa)nlar Allah katında derece derecedirler Allah onların yaptıkları şeyleri görmektedir
 **(164)** daha önce açık bir sapıklık içinde bulunuyorlarken kendilerine Kitap ve hikmeti öğreten ve kendilerini yücelten ve (Allah’ın) ayetlerini onlara okuyan kendi içlerinden kendilerine bir elçi göndermekle andolsun ki mü’minlere karşı Allah lütufta bulundu
-**(165)** 
-**(166)** 
-**(167)** 
+**(165)** size bir bela geldiği için mi? doğrusu onların başlarına onun iki katını getirdiğiniz halde bu nereden (başımıza geldi) dediniz de ki O (bela) kendinizdendir şüphesiz Allah her şey üzerine kadirdir
+**(166)** ve iki topluluğun karşılaştığı gün sizin başınıza gelen şey ancak Allah’ın izniyledir ve inananları bilmesi içindir
+**(167)** ve onlara gelin Allah yolunda savaşın ya da savunun dendiği halde iki yüzlülük edenleri; [münafık] kimseleri bilmesi içindir eğer savaş (olacağını) bilseydik dediler sizinle gelirdik onlar küfre o gün imandan ondan (çok) yakın idiler kalblerinin içinde olmayanı ağızlarıyla söylüyorlar halbuki Allah içlerinde sakladıkları şeyi çok iyi bilmektedir 
 **(168)** 
 **(169)** 
 **(170)** 
