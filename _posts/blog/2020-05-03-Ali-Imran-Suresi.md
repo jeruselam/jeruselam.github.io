@@ -180,9 +180,9 @@ tag:
 **(165)** size bir bela geldiği için mi? doğrusu onların başlarına onun iki katını getirdiğiniz halde bu nereden (başımıza geldi) dediniz de ki O (bela) kendinizdendir şüphesiz Allah her şey üzerine kadirdir
 **(166)** ve iki topluluğun karşılaştığı gün sizin başınıza gelen şey ancak Allah’ın izniyledir ve inananları bilmesi içindir
 **(167)** ve onlara gelin Allah yolunda savaşın ya da savunun dendiği halde iki yüzlülük edenleri; [münafık] kimseleri bilmesi içindir eğer savaş (olacağını) bilseydik dediler sizinle gelirdik onlar küfre o gün imandan ondan (çok) yakın idiler kalblerinin içinde olmayanı ağızlarıyla söylüyorlar halbuki Allah içlerinde sakladıkları şeyi çok iyi bilmektedir 
-**(168)** 
-**(169)** 
-**(170)** 
+**(168)** (Savaştan geri kalıp) oturarak kardeşleri için eğer bizim sözümüzü tutsalardı öldürülmezlerdi diyen(lere); [o] kimselere de ki eğer doğrulardan iseniz kendinizden ölümü haydi savın
+**(169)** Allah yolunda öldürülenleri kimseleri ölüler sanma bilakis (onlar) diridirler Rableri katında rızıklanmaktadırlar
+**(170)** Allah’ın lutfundan kendilerine verdikleri şeylerden sevinirler ve onlara korku olmadığına onların üzüntüye uğramayacaklarına arkalarından kendilerine henüz yetişemeyen(lere) müjdelemek isterler
 **(171)** 
 **(172)** 
 **(173)** 
