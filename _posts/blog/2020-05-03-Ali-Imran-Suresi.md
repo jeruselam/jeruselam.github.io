@@ -183,7 +183,7 @@ tag:
 **(168)** (Savaştan geri kalıp) oturarak kardeşleri için eğer bizim sözümüzü tutsalardı öldürülmezlerdi diyen(lere); [o] kimselere de ki eğer doğrulardan iseniz kendinizden ölümü haydi savın
 **(169)** Allah yolunda öldürülenleri kimseleri ölüler sanma bilakis (onlar) diridirler Rableri katında rızıklanmaktadırlar
 **(170)** Allah’ın lutfundan kendilerine verdikleri şeylerden sevinirler ve onlara korku olmadığına onların üzüntüye uğramayacaklarına arkalarından kendilerine henüz yetişemeyen(lere) müjdelemek isterler
-**(171)** 
+**(171)** Allah’ın ni’metini ve lütfunu müjdelerler ve muhakkak Allah’ın mü’minlerin ecrini zayi etmeyeceğine (sevinirler)
 **(172)** 
 **(173)** 
 **(174)** 
