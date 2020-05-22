@@ -187,7 +187,7 @@ tag:
 **(172)** O(mü’mi)nler ki Allah’ın ve Elçinin çağrısına ne ki bir yara isabet etti sonra bile uydular onlardan güzel davrananlar ve korunanlar için onlar pek büyük bir ecir için vardır
 **(173)** halk kendilerine elbette (Düşman) İnsanlar kendilerine muhakkak onlardan korkun size karşı (ordu) toplamışlar deyince (bu söz) onların imanını artırdı ve dediler ki Allah bize yeter ve ne güzel vekildir
 **(174)** Allah'tan bir ni’metle ve bollukla geri döndüler hiçbir kötülük kendilerine dokunmadı ve Allah’ın rızasına uydular Allah büyük lütuf sahibidir
-**(175)** şüphesiz işte o şeytan kendi dostlarından sizi korkutuyor onlardan korkmayın eğer inanmış [mu'minīn] iseniz onlardan korkmayın
+**(175)** şüphesiz işte o şeytan kendi dostlarından sizi korkutuyor onlardan korkmayın eğer inanmış [mu'minīn] iseniz benden korkun
 **(176)** 
 **(177)** 
 **(178)** 
