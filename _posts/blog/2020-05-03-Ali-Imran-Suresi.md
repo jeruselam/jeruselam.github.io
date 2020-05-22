@@ -185,7 +185,7 @@ tag:
 **(170)** Allah’ın lutfundan kendilerine verdikleri şeylerden sevinirler ve onlara korku olmadığına onların üzüntüye uğramayacaklarına arkalarından kendilerine henüz yetişemeyen(lere) müjdelemek isterler
 **(171)** Allah’ın ni’metini ve lütfunu müjdelerler ve muhakkak Allah’ın mü’minlerin ecrini zayi etmeyeceğine (sevinirler)
 **(172)** O(mü’mi)nler ki Allah’ın ve Elçinin çağrısına ne ki bir yara isabet etti sonra bile uydular onlardan güzel davrananlar ve korunanlar için onlar pek büyük bir ecir için vardır
-**(173)** 
+**(173)** halk kendilerine elbette (Düşman) İnsanlar kendilerine muhakkak onlardan korkun size karşı (ordu) toplamışlar deyince (bu söz) onların imanını artırdı ve dediler ki Allah bize yeter ve ne güzel vekildir
 **(174)** 
 **(175)** 
 **(176)** 
