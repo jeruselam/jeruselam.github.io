@@ -184,7 +184,7 @@ tag:
 **(169)** Allah yolunda öldürülenleri kimseleri ölüler sanma bilakis (onlar) diridirler Rableri katında rızıklanmaktadırlar
 **(170)** Allah’ın lutfundan kendilerine verdikleri şeylerden sevinirler ve onlara korku olmadığına onların üzüntüye uğramayacaklarına arkalarından kendilerine henüz yetişemeyen(lere) müjdelemek isterler
 **(171)** Allah’ın ni’metini ve lütfunu müjdelerler ve muhakkak Allah’ın mü’minlerin ecrini zayi etmeyeceğine (sevinirler)
-**(172)** 
+**(172)** O(mü’mi)nler ki Allah’ın ve Elçinin çağrısına ne ki bir yara isabet etti sonra bile uydular onlardan güzel davrananlar ve korunanlar için onlar pek büyük bir ecir için vardır
 **(173)** 
 **(174)** 
 **(175)** 
