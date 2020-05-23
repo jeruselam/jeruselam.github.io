@@ -189,9 +189,9 @@ tag:
 **(174)** Allah'tan bir ni’metle ve bollukla geri döndüler hiçbir kötülük kendilerine dokunmadı ve Allah’ın rızasına uydular Allah büyük lütuf sahibidir
 **(175)** şüphesiz işte o şeytan kendi dostlarından sizi korkutuyor onlardan korkmayın eğer inanmış [mu'minīn] iseniz benden korkun
 **(176)** inkara koşan(lar); [küfre koşan] kimseler seni üzmesin elbette onlar Allah’a hiçbir zarar veremezler Allah ahirette onlara hiçbir nasip koymamak istiyor ve onlar için büyük bir azab vardır
-**(177)** 
-**(178)** 
-**(179)** 
+**(177)** şüphesiz iman karşılığında inkarı satın alan(lar); [küfrü satın alan] kimseler Allah’a hiçbir zarar vermezler ve onlar için acıklı bir azab vardır 
+**(178)** inkar edenler; [kafir] kimseler sanmasınlar ki kendilerine süre vermemiz kendileri için hayırlıdır günahı artırsınlar diye onlara biz süre veriyoruz ve onlar için alçaltıcı bir azab vardır	
+**(179)** Allah temizden pis olanı ayırıncaya kadar sizin bulunduğunuz (hal) üzere mü’minleri (şu) [hal] üzerinde bırakacak değildir ve Allah gayb üzerine sizi vâkıf kılacak değildir fakat Allah elçilerinden kimi diliyorsa seçer o halde  Allah’a ve elçilerine inanın eğer inanır ve korunursanız sizin için büyük bir mükafat vardır
 **(180)** 
 **(181)** 
 **(182)** 
