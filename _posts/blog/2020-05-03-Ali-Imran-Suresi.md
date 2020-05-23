@@ -13,9 +13,9 @@ tag:
 
 
 **(1)** Elif Lâm Mîm
-**(2)** Allah (ki) O’ndan başka [ilâhe] tanrı yoktur [Hay Kayyûm] daima diridir (yaratıklarını) koruyup yöneticidir
+**(2)** Allah (ki) O’ndan başka [ilâh] tanrı yoktur [Hay Kayyûm] daima diridir (yaratıklarını) koruyup yöneticidir
 **(3)** Kitabı sana hak ile doğrulayıcı olarak indirdi
-**(4)** daha önce insanlara yol gösterici olarak ve Furkan’ı da indirdi muhakkak k Allah’ın ayetlerini inkar eden kimselere onlara çetin bir azab vardır [Aziz Zünintikam] Allah daima üstündür öc alandır
+**(4)** daha önce insanlara yol gösterici olarak ve Furkan’ı da indirdi muhakkak ki Allah’ın ayetlerini inkar eden kimselere onlara çetin bir azab vardır [Aziz Zünintikam] Allah daima üstündür öc alandır
 **(5)** şüphesiz Allah’a yerde ve gökte ona hiçbir şey gizli kalmaz
 **(6)** dilediği gibi rahimlerde sizi şekillendiren O’dur O’ndan başka tanrı yoktur azizdir hüküm ve hikmet sahibidir
 **(7)** O Kitabı sana indirdi Onun (bazı) ayetleri [hikmetli] muhkemdir (ki) onlar Kitabın anasıdır ve diğerleri de müteşabihdir kalblerinde eğrilik olanlar fitne çıkarmak için ve onun te’vilini bulmak için müteşabih olanlarının ardına düşerler oysa onun te’vilini Allah’tan başka kimse bilmez ilimde ileri gidenler Ona inandık derler hepsi Rabbimiz katındandır [önemini anlayan] sağduyu sahiplerinden başkası düşünüp öğüt almaz
@@ -188,7 +188,7 @@ tag:
 **(173)** halk kendilerine elbette (Düşman) İnsanlar kendilerine muhakkak onlardan korkun size karşı (ordu) toplamışlar deyince (bu söz) onların imanını artırdı ve dediler ki Allah bize yeter ve ne güzel vekildir
 **(174)** Allah'tan bir ni’metle ve bollukla geri döndüler hiçbir kötülük kendilerine dokunmadı ve Allah’ın rızasına uydular Allah büyük lütuf sahibidir
 **(175)** şüphesiz işte o şeytan kendi dostlarından sizi korkutuyor onlardan korkmayın eğer inanmış [mu'minīn] iseniz benden korkun
-**(176)** 
+**(176)** inkara koşan(lar); [küfre koşan] kimseler seni üzmesin elbette onlar Allah’a hiçbir zarar veremezler Allah ahirette onlara hiçbir nasip koymamak istiyor ve onlar için büyük bir azab vardır
 **(177)** 
 **(178)** 
 **(179)** 
