@@ -193,7 +193,7 @@ tag:
 **(178)** inkar edenler; [kafir] kimseler sanmasınlar ki kendilerine süre vermemiz kendileri için hayırlıdır günahı artırsınlar diye onlara biz süre veriyoruz ve onlar için alçaltıcı bir azab vardır	
 **(179)** Allah temizden pis olanı ayırıncaya kadar sizin bulunduğunuz (hal) üzere mü’minleri (şu) [hal] üzerinde bırakacak değildir ve Allah gayb üzerine sizi vâkıf kılacak değildir fakat Allah elçilerinden kimi diliyorsa seçer o halde  Allah’a ve elçilerine inanın eğer inanır ve korunursanız sizin için büyük bir mükafat vardır
 **(180)** cimrilik eden(ler); [cimri] kimseler sanmasınlar Allah ne ki lütfundan kendilerine vermiştir o kendileri için hayırlıdır (hayır) bilakis o kendileri için şerlidir kıyamet günü onunla cimrilik ettikleri şeyler boyunlarına dolandırılacaktır göklerin ve yerin mirası Allah’ındır ne ki yapıyorsunuz Allah haber alandır
-**(181)** 
+**(181)** muhakkak Allah fakirdir ve biz zenginiz diyen(lerin) kimselerin sözünü doğrusu Allah işitti onların dedikleri şeyleri ve haksız yere peygamberleri öldürmelerini yazacağız ve yangın azabını tadın diyeceğiz
 **(182)** 
 **(183)** 
 **(184)** 
