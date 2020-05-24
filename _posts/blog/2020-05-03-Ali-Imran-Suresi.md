@@ -194,8 +194,8 @@ tag:
 **(179)** Allah temizden pis olanı ayırıncaya kadar sizin bulunduğunuz (hal) üzere mü’minleri (şu) [hal] üzerinde bırakacak değildir ve Allah gayb üzerine sizi vâkıf kılacak değildir fakat Allah elçilerinden kimi diliyorsa seçer o halde  Allah’a ve elçilerine inanın eğer inanır ve korunursanız sizin için büyük bir mükafat vardır
 **(180)** cimrilik eden(ler); [cimri] kimseler sanmasınlar Allah ne ki lütfundan kendilerine vermiştir o kendileri için hayırlıdır (hayır) bilakis o kendileri için şerlidir kıyamet günü onunla cimrilik ettikleri şeyler boyunlarına dolandırılacaktır göklerin ve yerin mirası Allah’ındır ne ki yapıyorsunuz Allah haber alandır
 **(181)** muhakkak Allah fakirdir ve biz zenginiz diyen(lerin) kimselerin sözünü doğrusu Allah işitti onların dedikleri şeyleri ve haksız yere peygamberleri öldürmelerini yazacağız ve yangın azabını tadın diyeceğiz
-**(182)** 
-**(183)** 
+**(182)** bu sizin ellerinizin yapıp öne sürdürdüğünün karşılığıdır ve şüphesiz Allah kullara asla zulmedici değildir
+**(183)** onlar ki şüphesiz Allah bize and verdi dediler ateşin yiyeceği bir kurban bize getirinceye kadar hiçbir elçiye inanmayalım de ki elbette benden önce açık delillerle size elçiler gelmişti ve bu dediğinizle eğer doğru idiyseniz niçin onları öldürdünüz
 **(184)** 
 **(185)** 
 **(186)** 
