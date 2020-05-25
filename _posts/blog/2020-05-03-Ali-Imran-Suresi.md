@@ -197,8 +197,8 @@ tag:
 **(182)** bu sizin ellerinizin yapıp öne sürdürdüğünün karşılığıdır ve şüphesiz Allah kullara asla zulmedici değildir
 **(183)** onlar ki şüphesiz Allah bize and verdi dediler ateşin yiyeceği bir kurban bize getirinceye kadar hiçbir elçiye inanmayalım de ki elbette benden önce açık delillerle size elçiler gelmişti ve bu dediğinizle eğer doğru idiyseniz niçin onları öldürdünüz
 **(184)** eğer seni yalanladılarsa doğrusu senden önce hikmetli sahifeler ve aydınlatıcı Kitabı açık deliller getiren peygamberler de yalanlanmıştı 
-**(185)** her can ölümü tadacaktır şüphesiz kıyame günüt size ecirleriniz eksiksiz verilecektir kim ki hemen ateş(in elin)den çekilip kurtarılır ve cennete sokulursa işte o kurtuluşa ermiştir ve dünya hayatı aldatıcı zevkten başka bir şey değildir
-**(186)** 
+**(185)** her can ölümü tadacaktır şüphesiz kıyamet günü size ecirleriniz eksiksiz verilecektir kim ki hemen ateş(in elin)den çekilip kurtarılır ve cennete sokulursa işte o kurtuluşa ermiştir ve dünya hayatı aldatıcı zevkten başka bir şey değildir
+**(186)** mallarınız ve canlarınız hususunda deneneceksiniz ve sizden önce kendilerine Kitap verilenlerden çok incitici (sözler) duyacaksınız ama sabreder ve korunursanız şüphesiz işte bunlar yapmağa değer işlerdendir
 **(187)** 
 **(188)** 
 **(189)** 
