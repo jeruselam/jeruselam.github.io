@@ -18,16 +18,16 @@ tag:
 **(6)** hayır şüphesiz insan azar
 **(7)** kendini zengin (kendine yeterli) gördüğü için
 **(8)** şüphesiz dönüş Rabbinedir
-**(9)** gördün mü? şu men’edeni
+**(9)** şu men’edeni gördün mü?
 **(10)** namaz kıldığı zaman bir kulu?
-**(11)** gördün mü? ya doğru yol [hidayet] üzerinde olursa
-**(12)** yahut [kötülükten] korunmayı emredese
+**(11)** gördün mü? ya [hidayet] doğru yol üzerinde olursa
+**(12)** yahut [kötülükten] korunmayı [takvayı] emrederse
 **(13)** gördün mü? ya yalanlarsa? ve yüz çevirirse? 
-**(14)** muhakkak Allah'ın gördüğünü bilmedi mi (o)?
-**(15)** hayır eğer bundan vazgeçmezse perçeminde mutlakan yakalarız
+**(14)** Allah'ın muhakkak gördüğünü bilmedi mi (o)?
+**(15)** hayır eğer bundan vazgeçmezse perçeminde mutlaka yakalarız
 **(16)** günahkar yalancı perçem(den)
-**(17)** o zaman meclisini çağırsın
+**(17)** meclisini o zaman çağırsın
 **(18)** biz de zebanileri çağıracağız
 **(19)** hayır ona [gönülden itaat etme] boyun eğme, secde et ve yaklaş
 
-![96]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![96Alak-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
