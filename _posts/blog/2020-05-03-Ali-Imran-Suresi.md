@@ -199,8 +199,8 @@ tag:
 **(184)** eğer seni yalanladılarsa doğrusu senden önce hikmetli sahifeler ve aydınlatıcı Kitabı açık deliller getiren peygamberler de yalanlanmıştı 
 **(185)** her can ölümü tadacaktır şüphesiz kıyamet günü size ecirleriniz eksiksiz verilecektir kim ki hemen ateş(in elin)den çekilip kurtarılır ve cennete sokulursa işte o kurtuluşa ermiştir ve dünya hayatı aldatıcı zevkten başka bir şey değildir
 **(186)** mallarınız ve canlarınız hususunda deneneceksiniz ve sizden önce kendilerine Kitap verilenlerden çok incitici (sözler) duyacaksınız ama sabreder ve korunursanız şüphesiz işte bunlar yapmağa değer işlerdendir
-**(187)** 
-**(188)** 
+**(187)** hani kendilerine Kitap verilenlerden Allah söz almıştı onu mutlaka insanlara açıklayacaksınız gizlemeyeceksiniz fakat onlar (verdikleri sözü) sırtlarının ardına attılar ve karşılığında azıcık bir para aldılar
+**(188)** yapmadıkları şeylerle övülmeyi sevenlerin ve o ettiklerine sevinen kimseleri sanma ve azabdan kurtulacaklarını zannetme onlar için acıklı bir azab vardır
 **(189)** 
 **(190)** 
 **(191)** 
