@@ -201,10 +201,10 @@ tag:
 **(186)** mallarınız ve canlarınız hususunda deneneceksiniz ve sizden önce kendilerine Kitap verilenlerden çok incitici (sözler) duyacaksınız ama sabreder ve korunursanız şüphesiz işte bunlar yapmağa değer işlerdendir
 **(187)** hani kendilerine Kitap verilenlerden Allah söz almıştı onu mutlaka insanlara açıklayacaksınız gizlemeyeceksiniz fakat onlar (verdikleri sözü) sırtlarının ardına attılar ve karşılığında azıcık bir para aldılar
 **(188)** yapmadıkları şeylerle övülmeyi sevenlerin ve o ettiklerine sevinen kimseleri sanma ve azabdan kurtulacaklarını zannetme onlar için acıklı bir azab vardır
-**(189)** 
-**(190)** 
-**(191)** 
-**(192)** 
+**(189)** ve göklerin ve yerin mülkü Allah’ındır Allah her şeye kadirdir
+**(190)** elbette göklerin ve yerin yaratılışında ve gecenin ve gündüzün gidip gelişinde sağduyu sahipleri için ibretler vardır
+**(191)** onlar ki ayakta ve oturarak ve yanları üzerine Allah’ı anarlar ve göklerin ve yerin yaratılışı hakkında düşünürler Rabbimiz (derler) bunu boş yere yaratmadın sen yücesin ateş azabından bizi koru 
+**(192)** Rabbimiz şüphesiz sen kimi ateşe sokarsan muhakkak ki onu perişan etmişsindir zalimlerin hiçbir yardımcıları yoktur
 **(193)** 
 **(194)** 
 **(195)** 
