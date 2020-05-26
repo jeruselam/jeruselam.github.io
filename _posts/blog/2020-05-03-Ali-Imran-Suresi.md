@@ -205,9 +205,9 @@ tag:
 **(190)** elbette göklerin ve yerin yaratılışında ve gecenin ve gündüzün gidip gelişinde sağduyu sahipleri için ibretler vardır
 **(191)** onlar ki ayakta ve oturarak ve yanları üzerine Allah’ı anarlar ve göklerin ve yerin yaratılışı hakkında düşünürler Rabbimiz (derler) bunu boş yere yaratmadın sen yücesin ateş azabından bizi koru 
 **(192)** Rabbimiz şüphesiz sen kimi ateşe sokarsan muhakkak ki onu perişan etmişsindir zalimlerin hiçbir yardımcıları yoktur
-**(193)** 
-**(194)** 
-**(195)** 
+**(193)** Rabbimiz şüphesiz biz Rabbinize inanın (diyerek) imana çağıran bir davetçi işittik Rabbimiz hemen inandık bizim günahlarımızı bağışla ve kötülüklerimizi ört ve iyilerle beraber canımızı al
+**(194)** Rabbimiz, kıyamet günü bizi rezil, perişan etme ve elçilerine va’dettiğin şeyi bize ver zira sen verdiğin sözden caymazsın
+**(195)** ve Rableri onlara karşılık verdi elbette ben sizden (hiçbir) çalışanın işini zayi etmeyeceğim erkek veya kadın hepiniz birbirinizdensiniz göç eden(ler); [hicret eden] kimseler ve yurtlarından çıkarılanlar ve benim yolumda [eziyetle] işkence edilenler ve [ölümüne] vuruşanlar ve öldürülenler onların kötülüklerini elbette örteceğim ve Allah katından bir karşılık olarak onları altlarından ırmaklar akan cennetlere sokacağım karşılıkların en güzeli Allah katındadır
 **(196)** 
 **(197)** 
 **(198)** 
