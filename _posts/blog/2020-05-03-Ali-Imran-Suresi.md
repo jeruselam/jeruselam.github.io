@@ -208,10 +208,10 @@ tag:
 **(193)** Rabbimiz şüphesiz biz Rabbinize inanın (diyerek) imana çağıran bir davetçi işittik Rabbimiz hemen inandık bizim günahlarımızı bağışla ve kötülüklerimizi ört ve iyilerle beraber canımızı al
 **(194)** Rabbimiz, kıyamet günü bizi rezil, perişan etme ve elçilerine va’dettiğin şeyi bize ver zira sen verdiğin sözden caymazsın
 **(195)** ve Rableri onlara karşılık verdi elbette ben sizden (hiçbir) çalışanın işini zayi etmeyeceğim erkek veya kadın hepiniz birbirinizdensiniz göç eden(ler); [hicret eden] kimseler ve yurtlarından çıkarılanlar ve benim yolumda [eziyetle] işkence edilenler ve [ölümüne] vuruşanlar ve öldürülenler onların kötülüklerini elbette örteceğim ve Allah katından bir karşılık olarak onları altlarından ırmaklar akan cennetlere sokacağım karşılıkların en güzeli Allah katındadır
-**(196)** 
-**(197)** 
-**(198)** 
-**(199)** 
-**(200)** 
+**(196)** inkar eden(lerin); [kafir] kimselerin şehirlerde gezip dolaşması seni aldatmasın
+**(197)** azıcık bir geçimdir sonra gidecekleri yer cehennemdir ve ne kötü yataktır (orası)
+**(198)** fakat Rablerinden korkan(lara); [takvalı] kimselere altlarından ırmaklar akan cennetler vardır orada ebedi kalacaklar Allah tarafından ağırlanacaklardır Allah yanında bulunanlar ise iyiler için daha hayırlıdır
+**(199)** doğrusu Kitap ehlinden öyleleri var ki Allah’a ve size indirilene şeye ve kendilerine indirilene şeye inanırlar Allah’a karşı saygılıdırlar azıcık paraya Allah’ın ayetlerini satmazlar Rableri katında onların ödülleri vardır şüphesiz Allah hesabı çabuk görendir
+**(200)** ey inanan(lar); [imanlı] kimseler sabredin ve sabırda direnin ve savaşa hazırlıklı, uyanık bulunun ve Allah’tan korkun umulur ki başarıya eresiniz
 
 ![03Âli İmrân-Medeni]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
