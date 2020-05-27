@@ -11,8 +11,8 @@ tag:
 
 ## 2. Bakara Sûresi
 
-**(1)** 
-**(2)** 
+**(1)** Elif Lâm Mîm
+**(2)** işte o Kitap kendisinde hiç şüphe yoktur müttakiler için yol göstericidir
 **(3)** 
 **(4)** 
 **(5)** 
