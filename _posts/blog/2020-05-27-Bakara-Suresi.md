@@ -13,12 +13,12 @@ tag:
 
 **(1)** Elif Lâm Mîm
 **(2)** işte o Kitap kendisinde hiç şüphe yoktur müttakiler için yol göstericidir
-**(3)** 
-**(4)** 
-**(5)** 
-**(6)** 
-**(7)** 
-**(8)** 
+**(3)** onlar ki gaybde(gizlide) inanırlar ve namazlarını kılarlar ve kendilerini rızıklandırdığımız şeyden infak ederler
+**(4)** ve onlar ki sana indirilen şeye ve senden önceden indirilen şeye iman ederler ve ahirete de onlar kesinlikle inanırlar
+**(5)** işte onlar Rablerinden bir hidayet üzeredirler ve umduklarına erenler işte onlardır
+**(6)** elbette inkar edenler onlara eşittir ki onları uyarman yada uyarmasan da inanmazlar
+**(7)** Allah kalblerinin üzerini ve kulaklarının üzerini mühürlemiştir ve gözlerinin üzerine perde inmiştir Onlar için büyük bir azab vardır 
+**(8)** ve onlar ahiret inanıyor olmadıkları halde insanlardan öyleleri de Allah’a ve ahiret gününe inandık derler 
 **(9)** 
 **(10)** 
 **(11)** 
