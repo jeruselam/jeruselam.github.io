@@ -19,11 +19,11 @@ tag:
 **(6)** elbette inkar edenler onlara eşittir ki onları uyarman yada uyarmasan da inanmazlar
 **(7)** Allah kalblerinin üzerini ve kulaklarının üzerini mühürlemiştir ve gözlerinin üzerine perde inmiştir Onlar için büyük bir azab vardır 
 **(8)** ve onlar ahiret inanıyor olmadıkları halde insanlardan öyleleri de Allah’a ve ahiret gününe inandık derler 
-**(9)** 
-**(10)** 
-**(11)** 
-**(12)** 
-**(13)** 
+**(9)** Allah’ı ve inanan kimseleri aldatmağa çalışırlar kendilerinden başkasını aldatamazlar farkında değiller
+**(10)** onların kablerinde hastalık vardır Allah hastalıklarını artırmıştır yalancı olduklarından ötürü onlara acı bir azab vardır
+**(11)** onlara yeryüzünde bozgunculuk yapmayın denildiği zaman biz sadece düzelticileriz derler
+**(12)** İyi bilin ki muhakkak onlar bozgunculardır fakat anlayanlardan değildir
+**(13)** onlara insanların inandıkları gibi iman edin denildiği zaman beyinsizlerin inandığı gibi inanır mıyız? derler iyi bilin ki asıl beyinsizler [akılsızlık edip sonunu düşünmeden hazz-ı nefis için masraf edenler] doğrusu onlardır fakat onlar [ilim sahibi] bilenlerden değildir
 **(14)** 
 **(15)** 
 **(16)** 
