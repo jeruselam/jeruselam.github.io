@@ -29,9 +29,9 @@ tag:
 **(16)** işte onlar hidayet karşılığında sapıklığı satın aldılar ticaretleri kâr etmedi ve doğru yolu bulan olanlardan değildir
 **(17)** Onların durumu ateş yakan kişinin durumu gibidir ne zaman ki çevresini aydınlatır Allah onların nurunu giderdi ve onları karanlıklar içinde bıraktı görenlerden değildir
 **(18)** sağırdırlar dilsizdirler kördürler onlar dönecek değildir
-**(19)** 
-**(20)** 
-**(21)** 
+**(19)** ya da (onlar) gök gürlemesi ve şimşek (ler) ve karanlıklar içinde gökten boşanan yağmur gibi yıldırım seslerinden ölüm korkusuyla kulakları içine parmaklarını tıkarlar oysa Allah inkarcıları tamamen kuşatmıştır
+**(20)** neredeyse şimşek onları aydınlattığı zaman gözlerini kapıverecek üzerlerine karanlık çöktüğü zaman o(nun ışığı)nda yürürler dikilip kalırlar eğer Allah dileseydi elbette işitmelerini ve görmelerini götürürdü Şüphesiz Allah’ın her şey üzerine gücü yeter
+**(21)** ey insanlar Rabbinize kulluk edin o ki; sizi yarattı ve o ki; sizden öncekileri belki korunursunuz
 **(22)** 
 **(23)** 
 **(24)** 
