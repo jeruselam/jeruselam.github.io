@@ -31,8 +31,8 @@ tag:
 **(18)** sağırdırlar dilsizdirler kördürler onlar dönecek değildir
 **(19)** ya da (onlar) gök gürlemesi ve şimşek (ler) ve karanlıklar içinde gökten boşanan yağmur gibi yıldırım seslerinden ölüm korkusuyla kulakları içine parmaklarını tıkarlar oysa Allah inkarcıları tamamen kuşatmıştır
 **(20)** neredeyse şimşek onları aydınlattığı zaman gözlerini kapıverecek üzerlerine karanlık çöktüğü zaman o(nun ışığı)nda yürürler dikilip kalırlar eğer Allah dileseydi elbette işitmelerini ve görmelerini götürürdü Şüphesiz Allah’ın her şey üzerine gücü yeter
-**(21)** ey insanlar Rabbinize kulluk edin o ki; sizi yarattı ve o ki; sizden öncekileri belki korunursunuz
-**(22)** 
+**(21)** ey insanlar Rabbinize kulluk edin o ki; sizi yarattı ve o ki; sizden öncekileri [de] belki korunursunuz
+**(22)** O (Rabb) ki sizin için yeri döşek ve göğü bina kıldı ve gökten su  indirdi onunla sizin için rızık olarak çeşitli ürünlerden çıkardı ve öyleyse siz de bile bile Allah’a (denk) eşler koşmayın 
 **(23)** 
 **(24)** 
 **(25)** 
