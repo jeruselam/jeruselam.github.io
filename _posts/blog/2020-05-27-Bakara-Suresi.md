@@ -24,7 +24,7 @@ tag:
 **(11)** onlara yeryüzünde bozgunculuk yapmayın denildiği zaman biz sadece düzelticileriz derler
 **(12)** İyi bilin ki muhakkak onlar bozgunculardır fakat anlayanlardan değildir
 **(13)** onlara insanların inandıkları gibi iman edin denildiği zaman beyinsizlerin inandığı gibi inanır mıyız? derler iyi bilin ki asıl beyinsizler [akılsızlık edip sonunu düşünmeden hazz-ı nefis için masraf edenler] doğrusu onlardır fakat onlar [ilim sahibi] bilenlerden değildir
-**(14)** 
+**(14)** inanan kimselere rastladıkları zaman inandık derler ve şeytanları ile yalnız kaldıkları zaman şüphesiz biz sizinle beraberiz derler elbette sadece biz (onlarla) alay ediyoruz 
 **(15)** 
 **(16)** 
 **(17)** 
