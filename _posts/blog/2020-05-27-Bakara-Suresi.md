@@ -33,9 +33,9 @@ tag:
 **(20)** neredeyse şimşek onları aydınlattığı zaman gözlerini kapıverecek üzerlerine karanlık çöktüğü zaman o(nun ışığı)nda yürürler dikilip kalırlar eğer Allah dileseydi elbette işitmelerini ve görmelerini götürürdü Şüphesiz Allah’ın her şey üzerine gücü yeter
 **(21)** ey insanlar Rabbinize kulluk edin o ki; sizi yarattı ve o ki; sizden öncekileri [de] belki korunursunuz
 **(22)** O (Rabb) ki sizin için yeri döşek ve göğü bina kıldı ve gökten su  indirdi onunla sizin için rızık olarak çeşitli ürünlerden çıkardı ve öyleyse siz de bile bile Allah’a (denk) eşler koşmayın 
-**(23)** 
-**(24)** 
-**(25)** 
+**(23)** sana kulumuz (Muhammed)e indirdiğimizden eğer şüphe içinde iseniz haydi onun gibi bir sure getirin ve eğer doğru iseniz Allah'dan başka şahitlerinizi çağırın
+**(24)** yok eğer yapmadınızsa ki asla yapamayacaksınız o halde ateşten sakının ki onun yakıtı inkarcılar için hazırlanmış insanlar ve taşlardır 
+**(25)** ve inanan ve salih işler işleyen kimseleri müjdele muhakkak onlar için altlarından ırmaklar akan cennetler vardır onlardaki meyveden rızk olarak her rızıklandırıldıklarında Bu daha önceden rızıklandığımız şeydir derler ona benzer onlara verilmiştir Onlar için orada tertemiz eşler vardır ve onlar orada ebedi kalacaklardır
 **(26)** 
 **(27)** 
 **(28)** 
