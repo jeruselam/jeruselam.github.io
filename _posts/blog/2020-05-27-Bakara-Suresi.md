@@ -36,7 +36,7 @@ tag:
 **(23)** sana kulumuz (Muhammed)e indirdiğimizden eğer şüphe içinde iseniz haydi onun gibi bir sure getirin ve eğer doğru iseniz Allah'dan başka şahitlerinizi çağırın
 **(24)** yok eğer yapmadınızsa ki asla yapamayacaksınız o halde ateşten sakının ki onun yakıtı inkarcılar için hazırlanmış insanlar ve taşlardır 
 **(25)** ve inanan ve salih işler işleyen kimseleri müjdele muhakkak onlar için altlarından ırmaklar akan cennetler vardır onlardaki meyveden rızk olarak her rızıklandırıldıklarında Bu daha önceden rızıklandığımız şeydir derler ona benzer onlara verilmiştir Onlar için orada tertemiz eşler vardır ve onlar orada ebedi kalacaklardır
-**(26)** bir sivrisineği gibi bir örneği hatta onun da üstünde olanı misal vermekten muhakkak Allah çekinecek değildir gerçekten inanan kimseler bilirler kesinlikle o haktır Rablerinden (gerçektir) ve inkar edenler ise derler ki bu misalle Allah neyi istedi [ve] (kasdetti) onunla bir çoğunu saptırır ve onunla yine bir çoğunu yola getirir fasıklardan başkasını onunla saptırmaz
+**(26)** bir sivrisineği [onun] gibi bir örneği hatta onun da üstünde olanı misal vermekten muhakkak Allah çekinecek değildir gerçekten inanan kimseler kesinlikle bilirler Rablerinden haktır o (gerçektir) ve inkar edenler ise derler ki bu misalle Allah neyi istedi [ve neyi] (kasdetti) onunla bir çoğunu saptırır ve onunla yine bir çoğunu yola getirir fasıklardan başkasını onunla saptırmaz
 **(27)** 
 **(28)** 
 **(29)** 
