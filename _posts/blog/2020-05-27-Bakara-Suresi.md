@@ -37,10 +37,10 @@ tag:
 **(24)** yok eğer yapmadınızsa ki asla yapamayacaksınız o halde ateşten sakının ki onun yakıtı inkarcılar için hazırlanmış insanlar ve taşlardır 
 **(25)** ve inanan ve salih işler işleyen kimseleri müjdele muhakkak onlar için altlarından ırmaklar akan cennetler vardır onlardaki meyveden rızk olarak her rızıklandırıldıklarında Bu daha önceden rızıklandığımız şeydir derler ona benzer onlara verilmiştir Onlar için orada tertemiz eşler vardır ve onlar orada ebedi kalacaklardır
 **(26)** bir sivrisineği [onun] gibi bir örneği hatta onun da üstünde olanı misal vermekten muhakkak Allah çekinecek değildir gerçekten inanan kimseler kesinlikle bilirler Rablerinden haktır o (gerçektir) ve inkar edenler ise derler ki bu misalle Allah neyi istedi [ve neyi] (kasdetti) onunla bir çoğunu saptırır ve onunla yine bir çoğunu yola getirir fasıklardan başkasını onunla saptırmaz
-**(27)** 
-**(28)** 
-**(29)** 
-**(30)** 
+**(27)** onlar ki söz verip bağlandıktan sonrada Allah’a (verdikleri) sözü bozarlar ve Allah’ın kendisiyle birleştirmesini emrettiği şeyi keserler ve yeryüzünde bozgunculuk yaparlar ziyana uğrayanlar işte onlardır
+**(28)** nasıl Allah’a inkar edersiniz siz ölüler iken O sizi diriltti sonra öldürecek sonra diriltecek sonra O’na döndürüleceksiniz
+**(29)** O ki yeryüzünde ne varsa hepsini sizin için yarattı sonra göke yöneldi  yedi gök (olarak) onları düzenledi ve O her şeyi bilir
+**(30)** bir zamanlar Rabbin meleklere dedi ki şüphesiz ben yeryüzünde bir halife yaratacağım (melekler) dediler orada kan döken orada bozgunculuk yapan kimse mi yaratacaksın? oysa biz seni [hamd ile] överek tesbih ediyor ve seni takdis ediyoruz şüphesiz dedi ben bilirim şeyleri siz biliyor değilsiniz
 **(31)** 
 **(32)** 
 **(33)** 
