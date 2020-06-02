@@ -40,9 +40,9 @@ tag:
 **(27)** onlar ki söz verip bağlandıktan sonrada Allah’a (verdikleri) sözü bozarlar ve Allah’ın kendisiyle birleştirmesini emrettiği şeyi keserler ve yeryüzünde bozgunculuk yaparlar ziyana uğrayanlar işte onlardır
 **(28)** nasıl Allah’a inkar edersiniz siz ölüler iken O sizi diriltti sonra öldürecek sonra diriltecek sonra O’na döndürüleceksiniz
 **(29)** O ki yeryüzünde ne varsa hepsini sizin için yarattı sonra göke yöneldi  yedi gök (olarak) onları düzenledi ve O her şeyi bilir
-**(30)** bir zamanlar Rabbin meleklere dedi ki şüphesiz ben yeryüzünde bir halife yaratacağım (melekler) dediler orada kan döken orada bozgunculuk yapan kimse mi yaratacaksın? oysa biz seni [hamd ile] överek tesbih ediyor ve seni takdis ediyoruz şüphesiz dedi ben bilirim şeyleri siz biliyor değilsiniz
-**(31)** 
-**(32)** 
+**(30)** bir zamanlar Rabbin meleklere dedi ki şüphesiz ben yeryüzünde bir halife yaratacağım (melekler) dediler orada kan döken orada bozgunculuk yapan kimse mi yaratacaksın? oysa biz seni [hamd ile] överek tesbih ediyor ve seni takdis ediyoruz şüphesiz dedi ben bilirim şeyleri [onları] siz biliyor değilsiniz
+**(31)** ve meleklere onları sunup sonra bütün isimleri Adem’e öğretti ve eğer doğru kimseler iseniz onların isimlerini bana söyleyin dedi 
+**(32)** dediler ki Seni tesbih ederiz bize öğrettiğin şeyden başka bizim bilgimiz yoktur şüphesiz sen [Alîmul Hakîm] sen bilensin hakim olansın
 **(33)** 
 **(34)** 
 **(35)** 
