@@ -43,8 +43,8 @@ tag:
 **(30)** bir zamanlar Rabbin meleklere dedi ki şüphesiz ben yeryüzünde bir halife yaratacağım (melekler) dediler orada kan döken orada bozgunculuk yapan kimse mi yaratacaksın? oysa biz seni [hamd ile] överek tesbih ediyor ve seni takdis ediyoruz şüphesiz dedi ben bilirim şeyleri [onları] siz biliyor değilsiniz
 **(31)** ve meleklere onları sunup sonra bütün isimleri Adem’e öğretti ve eğer doğru kimseler iseniz onların isimlerini bana söyleyin dedi 
 **(32)** dediler ki Seni tesbih ederiz bize öğrettiğin şeyden başka bizim bilgimiz yoktur şüphesiz sen [Alîmul Hakîm] sen bilensin hakim olansın
-**(33)** (Allah) dedi ki Adem onların isimlerini bunlara haber ver ne zaman ki onların isimlerini bunlara haber verince (Allah) dedi ki size demiş değil miydim? şüphesiz ben göklerin ve yerin gayblarını bilirim ve sizin açıkladıklarınız şeyleri ve gizlemekte olduğunuz şeyleri bilirim
-**(34)** hani Meleklere demiştik Adem’e secde edin İblis hariç hemen secde ettiler ve kibirlendi ve inkarcılardan oldu
+**(33)** 
+**(34)** 
 **(35)** 
 **(36)** 
 **(37)** 
