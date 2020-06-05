@@ -22,6 +22,8 @@ $adjust-value: 1.15;
   @if $adjust-value == none {
         $adjust-value: 1; 
 }
+    
+}
 @mixin clearfix {
   &:after {
     content: "";
