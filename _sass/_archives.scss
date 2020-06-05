@@ -13,7 +13,11 @@
 $black: #000;
 $sizeValue: 16px;
 $adjust-value: 1.15;
+$micro                    : "only screen and (min-width: 30em)";
+$small                    : "only screen and (min-width: 37.5em)";
 $medium                   : "only screen and (min-width: 48em)";
+$large                    : "only screen and (min-width: 62em)";
+$x-large                  : "only screen and (min-width: 86.375em)";
 
 @mixin font-size($sizeValue,$adjust-value) {
   font-size: ($sizeValue * 10) + px;
@@ -22,22 +26,11 @@ $medium                   : "only screen and (min-width: 48em)";
         $adjust-value: 1; 
 }
     
-}@mixin media($types...) {
-  @each $type in $types {
-    @media #{$type} {
-      @content($type);
-    }
-  }
 }
 
-@include media(screen, print) using ($type) {
-  h1 {
-    font-size: 40px;
-    @if $type == print {
-      font-family: Calluna;
-    }
-  }
+@mixin media($medium) {
 }
+
 @mixin clearfix {
   &:after {
     content: "";
