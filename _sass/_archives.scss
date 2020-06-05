@@ -14,9 +14,11 @@ $black: #000;
 
 @mixin font-size {
 }
-@mixin font-size($sizeValue) {
+@mixin font-size($sizeValue,$adjust-value) {
   font-size: ($sizeValue * 10) + px;
   font-size: $sizeValue + rem;
+  @if $adjust-value == none {
+        $adjust-value: 1; 
 }
 @mixin clearfix {
   &:after {
