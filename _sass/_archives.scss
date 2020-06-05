@@ -11,6 +11,8 @@
 @use "sass:map";
 @use "sass:meta";
 $black: #000;
+$sizeValue: 16px;
+$adjust-value: 1.15;
 
 @mixin font-size {
 }
