@@ -22,8 +22,21 @@ $medium                   : "only screen and (min-width: 48em)";
         $adjust-value: 1; 
 }
     
+}@mixin media($types...) {
+  @each $type in $types {
+    @media #{$type} {
+      @content($type);
+    }
+  }
 }
-@mixin media {
+
+@include media(screen, print) using ($type) {
+  h1 {
+    font-size: 40px;
+    @if $type == print {
+      font-family: Calluna;
+    }
+  }
 }
 @mixin clearfix {
   &:after {
