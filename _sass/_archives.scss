@@ -27,12 +27,7 @@ $x-large                  : "only screen and (min-width: 86.375em)";
 }
     
 }
-@mixin media($types...) {
-  @each $type in $types {
-    @media #{$type} {
-      @content($type);
-    }
-  }
+@mixin media($medium,$large) {
 }
 
 
@@ -69,9 +64,8 @@ $x-large                  : "only screen and (min-width: 86.375em)";
     text-transform: uppercase;
     display: none;
 
-    @include media(medium, large) using ($type) { 
+    @include media(medium) { 
     
-    @if $type == medium {
         display: inline;
     }
   }
@@ -84,11 +78,13 @@ $x-large                  : "only screen and (min-width: 86.375em)";
     float: none;
     @include font-size(14, no, 16);
 
-    @include media($medium) {
+    @include media(medium) { 
+    
       width: 70%;
-    }
+  
+  }
 
-    @include media($large) {
+    @include media(large) {
       width: 60%;
     }
   }
