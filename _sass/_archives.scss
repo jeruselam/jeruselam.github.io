@@ -9,7 +9,12 @@
    Post archive
    ========================================================================== */
 @use "sass:map";
+@use "sass:meta";
 $black: #000;
+
+@mixin font-size {
+    font-size: 18px;
+}
 
 .post-list {
   margin: 0;
@@ -20,7 +25,7 @@ $black: #000;
     padding: 8px 0;
     border-bottom: 1px solid lighten($black,80);
     border-bottom: 1px solid rgba($black,.10);
-    @include font-size(18,no);
+    @include font-size;
     @include clearfix;
 
     > a {
