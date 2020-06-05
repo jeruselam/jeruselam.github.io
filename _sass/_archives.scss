@@ -49,6 +49,7 @@ $x-large                  : "only screen and (min-width: 86.375em)";
     clear: both;
   }
 }
+
 .post-list {
   margin: 0;
   padding: 0;
@@ -128,4 +129,5 @@ $x-large                  : "only screen and (min-width: 86.375em)";
       @include font-size(10);
     }
   }
+}
 }
