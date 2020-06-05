@@ -29,9 +29,9 @@ $x-large                  : "only screen and (min-width: 86.375em)";
 }
 
 @mixin media($medium,$large) {
-    {
+   
       @content();
-    }
+    
 }
 
 
