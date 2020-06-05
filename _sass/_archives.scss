@@ -27,9 +27,14 @@ $x-large                  : "only screen and (min-width: 86.375em)";
 }
     
 }
-
-@mixin media($medium) {
+@mixin media($types...) {
+  @each $type in $types {
+    @media #{$type} {
+      @content($type);
+    }
+  }
 }
+
 
 @mixin clearfix {
   &:after {
@@ -64,9 +69,13 @@ $x-large                  : "only screen and (min-width: 86.375em)";
     text-transform: uppercase;
     display: none;
 
-    @include media($medium) {
-      display: inline;
+    @include media(medium, large) using ($type) { 
+    
+    @if $type == medium {
+        display: inline;
     }
+  }
+
   }
 
   /* post excerpt */
