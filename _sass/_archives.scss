@@ -14,7 +14,10 @@ $black: #000;
 
 @mixin font-size {
 }
-
+@mixin font-size($sizeValue) {
+  font-size: ($sizeValue * 10) + px;
+  font-size: $sizeValue + rem;
+}
 @mixin clearfix {
   &:after {
     content: "";
@@ -31,7 +34,7 @@ $black: #000;
     padding: 8px 0;
     border-bottom: 1px solid lighten($black,80);
     border-bottom: 1px solid rgba($black,.10);
-    @include font-size(18px,0px);
+    @include font-size(18,no);
     @include clearfix;
 
     > a {
