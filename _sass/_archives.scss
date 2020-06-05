@@ -22,7 +22,7 @@ $adjust-value: 1.15;
 }
     
 }
-@mixin media {
+@mixin media($medium) {
 }
 @mixin clearfix {
   &:after {
