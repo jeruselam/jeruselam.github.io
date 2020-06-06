@@ -45,7 +45,7 @@ tag:
 **(32)** dediler ki Seni tesbih ederiz bize öğrettiğin şeyden başka bizim bilgimiz yoktur şüphesiz sen [Alîmul Hakîm] sen bilensin hakim olansın
 **(33)** (Allah) dedi ki Adem onların isimlerini bunlara haber ver ne zaman ki onların isimlerini bunlara haber verince (Allah) dedi ki size demiş değil miydim? şüphesiz ben göklerin ve yerin gayblarını bilirim ve sizin açıkladıklarınız şeyleri ve gizlemekte olduğunuz şeyleri bilirim
 **(34)** hani Meleklere Adem’e secde edin demiştik İblis hariç hemen secde ettiler İblis kaçındı ve kibirlendi ve inkarcılardan oldu
-**(35)** 
+**(35)** ve Adem dedik ki sen ve eşin cennette oturun ve dilediğiniz yerde ondan bol bol yeyin şu ağaca yaklaşmayın zalimlerden olursunuz
 **(36)** 
 **(37)** 
 **(38)** 
