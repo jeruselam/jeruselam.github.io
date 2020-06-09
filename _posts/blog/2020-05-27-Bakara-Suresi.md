@@ -56,7 +56,7 @@ tag:
 **(43)** ve namazı kılın ve zekatı verin ve rüku edenlerle beraber ruku edin
 **(44)** kendinizi unutuyorsunuz da insanlara iyiliği emir mi ediyorsunuz ve siz Kitabı okuduğunuz halde hâlâ aklınızı kullanmıyor musunuz?
 **(45)** sabırla ve namazla yardım dileyin şüphesiz bu saygı gösterenlerden başkasına ağır gelir 
-**(46)** 
+**(46)** onlar ki bilirler şüphesiz onlar Rablerine kavuşacaklardır ve gerçekten onlar O’na döneceklerdir
 **(47)** 
 **(48)** 
 **(49)** 
