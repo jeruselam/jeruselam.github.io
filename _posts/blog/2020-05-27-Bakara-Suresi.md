@@ -48,9 +48,9 @@ tag:
 **(35)** ve dedik ki Adem sen ve eşin cennette oturun ve dilediğiniz yerde ondan bol bol yeyin şu ağaca yaklaşmayın zalimlerden olursunuz
 **(36)** şeytan onlar(ın ayağın)ı kaydırdı içinde bulundukları yerden oradan çıkardı ve dedik ki kiminiz kiminizen düşman olarak inin sizin için yeryüzünde kalmak ve bir süre nimet vardır
 **(37)** derken Adem Rabbinden kelimeler aldı onun tevbesini kabul etti şüphesiz O [Tevvab Rahim] tevbeyi çok kabul edendir çok esirgeyendir 
-**(38)** hepiniz oradan inin dedik benden bir hidayet size geldiği zaman kimler benim hidayetime uyarsa onlara artık bir korku yoktur ve onlar üzülenlerden olmazlar
-**(39)** 
-**(40)** 
+**(38)** hepiniz oradan inin dedik benden bir hidayet size geldiği zaman kimler benim hidayetime uyarsa onlara artık [bir endişe] bir korku yoktur ve onlar [hüzne kapılmaz] üzülenlerden olmazlar
+**(39)** ve inkar eden ve ayetlerimizi yalanlayan kimseler işte onlar ateş halkıdır onlar orada ebedi kalacaklardır
+**(40)** İsrail oğulları ni’metleri hatırlayın o ki; sizleri ni’metlendirdim ve bana verdiğiniz sözü tutun size verdiğim sözü ben de tutayım ve sadece benden [çekinerek] korkun
 **(41)** 
 **(42)** 
 **(43)** 
