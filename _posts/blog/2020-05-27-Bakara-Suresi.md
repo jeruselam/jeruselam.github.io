@@ -51,11 +51,11 @@ tag:
 **(38)** hepiniz oradan inin dedik benden bir hidayet size geldiği zaman kimler benim hidayetime uyarsa onlara artık [bir endişe] bir korku yoktur ve onlar [hüzne kapılmaz] üzülenlerden olmazlar
 **(39)** ve inkar eden ve ayetlerimizi yalanlayan kimseler işte onlar ateş halkıdır onlar orada ebedi kalacaklardır
 **(40)** İsrail oğulları ni’metleri hatırlayın o ki; sizleri ni’metlendirdim ve bana verdiğiniz sözü tutun size verdiğim sözü ben de tutayım ve sadece benden [çekinerek] korkun
-**(41)** 
-**(42)** 
-**(43)** 
-**(44)** 
-**(45)** 
+**(41)** ve sizin yanınızda bulunanı doğrulayıcı olarak indirdiğim şeye inanın ve onu ilk inkar eden olmayın ve azıcık bedele benim ayetlerimi satmayın ve benden sakının
+**(42)** ve batılla gerçeği katıştırmayın ve siz bildiğiniz halde hakkı gizlemeyin
+**(43)** ve namazı kılın ve zekatı verin ve rüku edenlerle beraber ruku edin
+**(44)** kendinizi unutuyorsunuz da insanlara iyiliği emir mi ediyorsunuz ve siz Kitabı okuduğunuz halde hâlâ aklınızı kullanmıyor musunuz?
+**(45)** sabırla ve namazla yardım dileyin şüphesiz bu saygı gösterenlerden başkasına ağır gelir 
 **(46)** 
 **(47)** 
 **(48)** 
