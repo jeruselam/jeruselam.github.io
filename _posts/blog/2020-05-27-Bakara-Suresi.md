@@ -57,8 +57,8 @@ tag:
 **(44)** kendinizi unutuyorsunuz da insanlara iyiliği emir mi ediyorsunuz ve siz Kitabı okuduğunuz halde hâlâ aklınızı kullanmıyor musunuz?
 **(45)** sabırla ve namazla yardım dileyin şüphesiz bu saygı gösterenlerden başkasına ağır gelir 
 **(46)** onlar ki bilirler şüphesiz onlar Rablerine kavuşacaklardır ve gerçekten onlar O’na döneceklerdir
-**(47)** 
-**(48)** 
+**(47)** İsrail oğulları ni’metimi hatırlayın ki sizi ni’metlendirdim ve şüphesiz alemler üzerine sizi [seçtim] üstün kıldım
+**(48)** ve günden sakının kimseden(günahından) bir şey [için] hiç kimse cezalandırılmaz kimseden şefaat da kabul edilmez ve ondan fidye de alınmaz ve onlara hiçbir yardım yapılamaz
 **(49)** 
 **(50)** 
 **(51)** 
