@@ -40,10 +40,10 @@ tag:
 **(28)** (Allah) buyurdu ki, huzurumda çekişmeyin ve andolsun size önceden uyarı yaptım
 **(29)** benim huzurumda söz değiştirilmez ve ben kullara zulmedici değil(im)
 **(30)** (o) gün cehenneme doldun mu? deriz ve daha hiç (yok) mu? der
-**(31)** ve cennet korunanlara yaklaştırılmıştır, uzak değildir
-**(32)** daima size va’dedilen, koruyan (Allah’a) yüz tutan işte budur
-**(33)** Rahman’a görmeden saygı gösteren ve (Hakka) dönük bir yürek getiren kimse(lere)
-**(34)** selam (esenlik) ile ona girin, bu süreklilik günüdür
+**(31)** ve cennet yaklaştırılmıştır, korunanlara [muttekîne] uzak değildir
+**(32)**size va’dedilen işte budur, [hafız] koruyan daima (Allah’a) yüz tutan
+**(33)** görmeden Rahman’a saygı gösteren ve (Hakka) dönük bir yürek getiren kimse(lere)
+**(34)** selam (esenlik) ile ona girin, bu [ebediyen yaşam] süreklilik günüdür
 **(35)** onlara orada istedikleri herşey vardır ve katımızda daha fazlası vardır 
 **(36)** ve bunlardan önce kuşaklardan nicesini helak etmiştik, onlar bunlardan tutuşu daha kuvvetli idi, ülkelerde gezip dolaşmışlardı, kaçacak yer hiç (var) mı?
 **(37)** muhakkak ki,bunda kalbi onun olan yahut kulak veren kimse için ve o şahid olarak bir öğüt vardır

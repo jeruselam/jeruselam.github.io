@@ -60,7 +60,7 @@ tag:
 **(47)** İsrail oğulları ni’metimi hatırlayın ki sizi ni’metlendirdim ve şüphesiz alemler üzerine sizi [seçtim] üstün kıldım
 **(48)** ve günden sakının kimseden(günahından) bir şey [için] hiç kimse cezalandırılmaz kimseden şefaat da kabul edilmez ve ondan fidye de alınmaz ve onlara hiçbir yardım yapılamaz
 **(49)** hani Fir’avn ailesinden sizi kurtarmıştık onlar azabın en kötüsünü size reva görüyor oğullarınızı boğazlayıp kadınlarınızı sağ bırakıyorlardı ve bunda sizin için Rabbinizden büyük bir imtihan vardı
-**(50)** 
+**(50)** hani sizin için denizi yarmıştık sizi kurtarmış ve Fir’avn ailesini boğmuştuk ve siz de görüyordunuz
 **(51)** 
 **(52)** 
 **(53)** 
