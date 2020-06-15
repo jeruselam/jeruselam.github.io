@@ -61,8 +61,8 @@ tag:
 **(48)** ve günden sakının kimseden(günahından) bir şey [için] hiç kimse cezalandırılmaz kimseden şefaat da kabul edilmez ve ondan fidye de alınmaz ve onlara hiçbir yardım yapılamaz
 **(49)** hani Fir’avn ailesinden sizi kurtarmıştık onlar azabın en kötüsünü size reva görüyor oğullarınızı boğazlayıp kadınlarınızı sağ bırakıyorlardı ve bunda sizin için Rabbinizden büyük bir imtihan vardı
 **(50)** hani sizin için denizi yarmıştık sizi kurtarmış ve Fir’avn ailesini boğmuştuk ve siz de görüyordunuz
-**(51)** 
-**(52)** 
+**(51)** Musa ile hani kırk gece için sözleşmiştik sonra siz onun ardından buzağıyı (tanrı) edinmiştiniz ve siz zalimlerdiniz
+**(52)** sonra belki şükredersiniz (diye) bunun ardından sizi affetmiştik
 **(53)** 
 **(54)** 
 **(55)** 
