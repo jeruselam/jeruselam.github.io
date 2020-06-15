@@ -63,7 +63,7 @@ tag:
 **(50)** hani sizin için denizi yarmıştık sizi kurtarmış ve Fir’avn ailesini boğmuştuk ve siz de görüyordunuz
 **(51)** Musa ile hani kırk gece için sözleşmiştik sonra siz onun ardından buzağıyı (tanrı) edinmiştiniz ve siz zalimlerdiniz
 **(52)** sonra belki şükredersiniz (diye) bunun ardından sizi affetmiştik
-**(53)** 
+**(53)** ve belki hidayete erersiniz (diye) hani Musa’ya Kitap ve furkan vermiştik
 **(54)** 
 **(55)** 
 **(56)** 
