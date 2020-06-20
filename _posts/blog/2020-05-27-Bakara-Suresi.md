@@ -65,9 +65,9 @@ tag:
 **(52)** sonra belki şükredersiniz (diye) bunun ardından sizi affetmiştik
 **(53)** ve belki hidayete erersiniz (diye) hani Musa’ya Kitap ve furkan vermiştik
 **(54)** ve hani Musa kavmine demişti ki kavmim şüphesiz sizler buzağıyı (tanrı) edinmekle kendinize zulmettiniz yaratıcınıza gelin tevbe edin de ve nefislerinizi öldürün yaratıcınız katında bu sizin için daha iyidir sizin tevbenizi kabul buyurmuş olur şüphesiz O tevbeyi çok kabul edendir merhametlidir
-**(55)** 
-**(56)** 
-**(57)** 
+**(55)** ve hani demiştiniz açıkça Allah’ı görünceye kadar Musa sana inanmayız yıldırım gürültüsü derhal sizi yakalamıştı siz de bunu görüyordunuz
+**(56)** ölümünüzün ardından sonra sizi tekrar diriltmiştik belki şükredersiniz (diye)
+**(57)** ve bulutu üstünüze gölgelendirdik ve size kudret helvası  ve bıldırcın indirdik güzelliklerden rızık olarak verdiğimiz şeyleri yeyin ve bize zulmediyor değildi ama kendilerine zulmetmekte idiler
 **(58)** 
 **(59)** 
 **(60)** 
