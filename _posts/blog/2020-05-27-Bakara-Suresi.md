@@ -69,7 +69,7 @@ tag:
 **(56)** ölümünüzün ardından sonra sizi tekrar diriltmiştik belki şükredersiniz (diye)
 **(57)** ve bulutu üstünüze gölgelendirdik ve size kudret helvası ve bıldırcın indirdik güzelliklerden rızık olarak verdiğimiz şeyleri yeyin ve bize zulmediyor değildi ama kendilerine zulmetmekte idiler
 **(58)** hani demiştik ki şu kente girin dilediğiniz yerde oradan bol bol yeyin secde ederek kapıdan girin ve hitta (ya Rabbi bizi affet) deyin sizin hatalarınızı biz de bağışlayalım ve güzel davrananlara daha fazlasını vereceğiz
-**(59)** 
+**(59)** fakat zalimler onlar ki kendilerine söylenenden başka bir sözle değiştirdiler biz de zulmedenlerin üzerine yaptıkları kötülüklerden dolayı gökten bir azab indirdik
 **(60)** 
 **(61)** 
 **(62)** 
