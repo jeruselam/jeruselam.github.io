@@ -20,7 +20,7 @@ tag:
 **(8)** bunda bir ibret şüphesiz vardır ama yine çokları inanıcı [Mümin] değillerdir
 **(9)** ve şüphesiz Rabbin işte O [Aziz Rahim] üstündür merhamet edendir
 **(10)** hani Rabbin Musa’ya zalim(ler) kavmine git diye seslenmişti 
-**(11)** Fir’avn’ın kavmine, onlar korunmayacaklar mı?
+**(11)** Fir’avn’ın kavmine, onlar [sevgiyi yıpratma veya yitirme endişesiyle] korunmayacaklar mı?
 **(12)** (Musa) Rabbim dedi şüphesiz ben beni yalanlayacaklar diye korkuyorum 
 **(13)** ve göğsüm daralıyor ve dilim açılmıyor Harun’a da onun için elçilik ver 
 **(14)** ve onların bana yükledikleri bir suç var beni öldürecekler diye korkuyorum
