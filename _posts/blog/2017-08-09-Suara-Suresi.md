@@ -21,8 +21,8 @@ tag:
 **(9)** ve şüphesiz Rabbin işte O [Aziz Rahim] üstündür merhamet edendir
 **(10)** hani Rabbin Musa’ya zalim(ler) kavmine git diye seslenmişti 
 **(11)** Fir’avn’ın kavmine, onlar [sevgiyi yıpratma veya yitirme endişesiyle] korunmayacaklar mı?
-**(12)** (Musa) Rabbim dedi şüphesiz ben beni yalanlayacaklar diye korkuyorum 
-**(13)** ve göğsüm daralıyor ve dilim açılmıyor Harun’a da onun için elçilik ver 
+**(12)** (Musa) dedi Rabbim beni yalanlayacaklar diye şüphesiz ben korkuyorum
+**(13)** ve göğsüm daralıyor ve dilim açılmıyor onun için Harun’a da [Resul] elçilik ver 
 **(14)** ve onların bana yükledikleri bir suç var beni öldürecekler diye korkuyorum
 **(15)** (Allah) hayır dedi ayetlerimizle ikiniz de gidin şüphesiz biz sizinle beraberiz dinliyoruz
 **(16)** Fir’avn’e gidin ikiniz ve deyin ki gerçekten biz alemlerin Rabbinin elçisiyiz
