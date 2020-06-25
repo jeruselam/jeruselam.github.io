@@ -13,12 +13,12 @@ tag:
 **(1)** Ta sin mim
 **(2)** şunlar apaçık Kitabın ayetleridir
 **(3)** iman etmiyorlar diye sen neredeyse kendini helak edeceksin
-**(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış oluverir 
-**(5)** ve Rahman'dan ondan yüz çevirici olmadıkları yeni hiçbir Zikir (uyarı) onlara gelmez 
-**(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) oldukları şeyin haberleri kendilerine gelecektir
-**(7)** yeryüzüne bakmadılar mı? her çeşitten kaç güzel[iyi, faydalı] çifti[çift olan şeyin herbir tekini] orada bitirmişizdir 
-**(8)** şüphesiz bunda bir ibret vardır ama yine çokları inanıcı[Mümin] değillerdir
-**(9)** ve şüphesiz Rabbin işte O üstündür[Aziz] merhamet edendir[Rahim]
+**(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış olur 
+**(5)** ve ondan yüz çevirici olmadıkları Rahman'dan yeni hiçbir Zikir (uyarı) onlara gelmez 
+**(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) [alay ediyor] oldukları şeyin haberleri kendilerine gelecektir
+**(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel [iyi, faydalı] çifti [çift olan şeyin herbir tekini] orada bitirmişizdir 
+**(8)** bunda bir ibret şüphesiz vardır ama yine çokları inanıcı [Mümin] değillerdir
+**(9)** ve şüphesiz Rabbin işte O [Aziz Rahim] üstündür merhamet edendir
 **(10)** hani Rabbin Musa’ya zalim(ler) kavmine git diye seslenmişti 
 **(11)** Fir’avn’ın kavmine, onlar korunmayacaklar mı?
 **(12)** (Musa) Rabbim dedi şüphesiz ben beni yalanlayacaklar diye korkuyorum 
