@@ -14,7 +14,7 @@ gem "jekyll", "~> 3.8.7"
 gem "minima", "~> 2.1.1"
 gem "compass"
 gem "uglifier"
-gem "rack", ">= 2.0.8"
+gem "rack", ">= 2.2.3"
 gem "nokogiri", ">= 1.10.9"
 gem "activesupport", ">= 5.2.4.3"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
