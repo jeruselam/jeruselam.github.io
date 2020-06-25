@@ -14,7 +14,7 @@ tag:
 **(2)** şunlar apaçık Kitabın ayetleridir
 **(3)** iman etmiyorlar diye sen neredeyse kendini helak edeceksin
 **(4)** eğer dilesek onların üzerine gökten bir mu’cize indiririz ve boyunları ona eğilip kalmış olur 
-**(5)** ve ondan yüz çevirici olmadıkları Rahman'dan yeni hiçbir Zikir (uyarı) onlara gelmez 
+**(5)** ve Rahman'dan yeni Zikir ondan yüz çevirici olmadıkları hiçbir (uyarı) onlara gelmez 
 **(6)** şüphesiz yalanladılar ama onunla alay edip duruyor(lar) [alay ediyor] oldukları şeyin haberleri kendilerine gelecektir
 **(7)** yeryüzüne bakmadılar mı? kaç çeşitten her güzel [iyi, faydalı] çifti [çift olan şeyin herbir tekini] orada bitirmişizdir 
 **(8)** bunda bir ibret şüphesiz vardır ama yine çokları inanıcı [Mümin] değillerdir
