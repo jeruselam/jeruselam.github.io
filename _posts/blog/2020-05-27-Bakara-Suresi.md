@@ -73,9 +73,9 @@ tag:
 **(60)** hani Musa kavmi için su istemişti taşa asanla vur demiştik ondan on iki göze (pınar) fışkırmıştı elbette bütün insanlar kendi içecekleri yeri bilmişti Allah’ın rızkından yeyin ve için ve bozgunculuk yaparak yeryüzünde (başkalarına) saldırmayın 
 **(61)** hani siz demiştiniz ki Musa biz bir yemeğe asla dayanamayız Rabbine bizim için du’a et yerin bitirdiği şeylerden bize çıkarsın sebzesinden ve acurundan ve sarımsağından ve mercimeğinden ve soğanından dedi ki o daha aşağı olanı o iyi olanla değiştirmek mi istiyorsunuz? bir şehre inin istediğiniz şeyler şüphesiz sizin için vardır
 **(62)** şüphesiz [iman eden] inananlar ve yahudiler ve hıristiyanlar ve [din değiştiren] sabiiler kim Allah’a ve ahiret gününe [iman edip] inanırsa ve iyi işler yaparsa rablerinin katında onlar için mükafatları vardır ve onlara korku yoktur ve onlara hüzün yoktur
-**(63)** 
-**(64)** 
-**(65)** 
+**(63)** hani sizin sözünüzü almıştık ve dağı üzerinize kaldırmıştık, kuvvetle size verdiğimiz şeyi tutun ve içinde olan şeyi hatırlayın belki de siz korunursunuz
+**(64)** sonra bunun ardından dönmüştünüz Allah’ın size iyiliği ve merhameti eğer olmasaydı elbette ziyana uğrayanlardan olurdunuz
+**(65)** ve elbette cumartesi gününde içinizden haddi aşanları bilmişsinizdir işte dedik ki onlara aşağılık maymunlar olun
 **(66)** 
 **(67)** 
 **(68)** 
