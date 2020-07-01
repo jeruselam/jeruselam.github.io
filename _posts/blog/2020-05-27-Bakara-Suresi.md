@@ -85,7 +85,7 @@ tag:
 **(72)** hani siz bir adam öldürmüştünüz onun hakkında birbirinizle atışmıştınız oysa Allah gizlemiş olduğunuz şeyi ortaya çıkarıcıdır
 **(73)** dedik ki (ineğin) bir parçasıyla vurun ona (öldürülene) işte böylece ölüleri Allah diriltir ve ayetlerini size gösterir umulur ki düşünürsünüz
 **(74)** bunun ardından kalbleriniz sonra yine katılaştı şimdi onlar taş gibi hatta daha da katıdır çünkü öyle taş var ki içinden ırmaklar fışkırır ve şüphesiz öylesi de var ki çatlayıverir de ondan su çıkar ve şüphesiz ondan öylesi de var ki Allah korkusundan aşağı yuvarlanır ve Allah yaptıklarınız dan gafil değildir
-**(75)** 
+**(75)** umuyor musunuz? ki size inanacaklar oysa bunlardan bir grup vardı ki Allah’ın sözünü işitirlerdi de sonra düşünüp akıl erdirdikten ve onlar bildikleri halde ardından onu değiştirirlerdi
 **(76)** 
 **(77)** 
 **(78)** 
