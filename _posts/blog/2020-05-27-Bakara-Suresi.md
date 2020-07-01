@@ -84,7 +84,7 @@ tag:
 **(71)** dedi ki şüphesiz O şöyle diyor gerçekten o yeri sürmek için boyundurluk altında olmayan ve ekin sulamaz, kusursuz bir inektir onda hiçbir alacası yoktur işte şimdi doğruyu getirdin dediler ve boğazladılar onu, az daha yapmayacaklardı
 **(72)** hani siz bir adam öldürmüştünüz onun hakkında birbirinizle atışmıştınız oysa Allah gizlemiş olduğunuz şeyi ortaya çıkarıcıdır
 **(73)** dedik ki (ineğin) bir parçasıyla vurun ona (öldürülene) işte böylece ölüleri Allah diriltir ve ayetlerini size gösterir umulur ki düşünürsünüz
-**(74)** 
+**(74)** bunun ardından kalbleriniz sonra yine katılaştı şimdi onlar taş gibi hatta daha da katıdır çünkü öyle taş var ki içinden ırmaklar fışkırır ve şüphesiz öylesi de var ki çatlayıverir de ondan su çıkar ve şüphesiz ondan öylesi de var ki Allah korkusundan aşağı yuvarlanır ve Allah yaptıklarınız dan gafil değildir
 **(75)** 
 **(76)** 
 **(77)** 
