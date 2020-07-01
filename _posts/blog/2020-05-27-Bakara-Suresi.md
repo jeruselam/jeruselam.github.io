@@ -82,8 +82,8 @@ tag:
 **(69)** dediler ki Rabbine bizim için du’a et bize açıklasın onun rengi nedir dedi ki şüphesiz O diyor gerçekten o parlak sarı renginde bir inektir onun rengi bakanlara sevinç verir
 **(70)** dediler ki Rabbine bizim için du’a et onun nasıl bir şey olduğunu bize açıklasın zira o inek bize benzer geldi ama mutlaka biz eğer Allah dilerse hidayeti buluruz
 **(71)** dedi ki şüphesiz O şöyle diyor gerçekten o yeri sürmek için boyundurluk altında olmayan ve ekin sulamaz, kusursuz bir inektir onda hiçbir alacası yoktur işte şimdi doğruyu getirdin dediler ve boğazladılar onu, az daha yapmayacaklardı
-**(72)** 
-**(73)** 
+**(72)** hani siz bir adam öldürmüştünüz onun hakkında birbirinizle atışmıştınız oysa Allah gizlemiş olduğunuz şeyi ortaya çıkarıcıdır
+**(73)** dedik ki (ineğin) bir parçasıyla vurun ona (öldürülene) işte böylece ölüleri Allah diriltir ve ayetlerini size gösterir umulur ki düşünürsünüz
 **(74)** 
 **(75)** 
 **(76)** 
