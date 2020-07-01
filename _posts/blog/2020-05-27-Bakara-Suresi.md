@@ -76,12 +76,12 @@ tag:
 **(63)** hani sizin sözünüzü almıştık ve dağı üzerinize kaldırmıştık, kuvvetle size verdiğimiz şeyi tutun ve içinde olan şeyi hatırlayın belki de siz korunursunuz
 **(64)** sonra bunun ardından dönmüştünüz Allah’ın size iyiliği ve merhameti eğer olmasaydı elbette ziyana uğrayanlardan olurdunuz
 **(65)** ve elbette cumartesi gününde içinizden haddi aşanları bilmişsinizdir işte dedik ki onlara aşağılık maymunlar olun
-**(66)** 
-**(67)** 
-**(68)** 
-**(69)** 
-**(70)** 
-**(71)** 
+**(66)** ve onların iki eli arasındaki (önündeki) şey için ve ardından gelen şey (için) bunu ibretlik bir ceza ve müttakiler için bir öğüt yaptık
+**(67)** hani kavmine Musa demişti şüphesiz ki Allah size bir inek kesmenizi emrediyor bizimle alay ediyor musun? dediler cahillerden olmaktan Allah’a sığınırım dedi
+**(68)** Rabbine bizim için du’a et dediler onun ne olduğunu bize açıklasın dedi ki şüphesiz O diyor ki gerçekten o yaşlı olmayan ve körpe olmayan bunun arasında orta yaşlı bir inektir size emredilen şeyi haydi yapın
+**(69)** dediler ki Rabbine bizim için du’a et bize açıklasın onun rengi nedir dedi ki şüphesiz O diyor gerçekten o parlak sarı renginde bir inektir onun rengi bakanlara sevinç verir
+**(70)** dediler ki Rabbine bizim için du’a et onun nasıl bir şey olduğunu bize açıklasın zira o inek bize benzer geldi ama mutlaka biz eğer Allah dilerse hidayeti buluruz
+**(71)** dedi ki şüphesiz O şöyle diyor gerçekten o yeri sürmek için boyundurluk altında olmayan ve ekin sulamaz, kusursuz bir inektir onda hiçbir alacası yoktur işte şimdi doğruyu getirdin dediler ve boğazladılar onu, az daha yapmayacaklardı
 **(72)** 
 **(73)** 
 **(74)** 
