@@ -67,23 +67,23 @@ tag:
 **(55)** ve Allah’tan başka fayda vermeyen ve ne de zarar vermeyen şeylere tapıyorlar ve Rabbine karşı kafir olan (şeytana) yardımcıdır
 **(56)** ve müjdeleyici ve uyarıcı olmak dışında biz seni göndermedik 
 **(57)** de ki Rabbine varan yolu tutmak istemeniz dışında sizden hiçbir ücret istemiyorum 
-**(58)** ve tevekkül et diri[Hayy] olana öyle ki o asla ölmez ve tesbih et O’nu överek ve kullarının günahlarını O’nun bilmesi kafidir 
+**(58)** ve tevekkül et diri [Hayy] olana öyle ki o asla ölmez ve tesbih et O’nu överek ve kullarının günahlarını O’nun bilmesi kafidir 
 **(59)** O ki gökleri ve yeri ve ikisinin arasında bulunanları altı günde yarattı sonra Arş	üzerine kuruldu Rahman’dır bunu bir bilene sor
 **(60)** ve ne zaman ki onlara denildi secde edin Rahman’a derler Rahman nedir? secde eder miyiz hiç? senin bize emrettiğin şeye ve onların artırır nefretini
 **(61)** yücedir O ki gökte burçlar yaptı ve orada bir kandil ve aydınlatıcı bir ay var etti 
 **(62)** ve O ki öğüt almak isteyenler için veya şükretmek isteyenler için geceyi ve gündüzü birbirini izler yaptı 
 **(63)** ve Rahman’ın kulları öyle kimselerdir ki mütevazi olarak yeryüzünde yürürler ne zaman ki kendilerine laf atarsa cahiller Selam derler
 **(64)** Rablerine secde ederek ve (Onun divanında) durarak gecelerini geçirirler
-**(65)** ve Rabbimiz derler uzaklaştır bizden cehennemin azabını doğrusu onun azabı sargındır[şiddetli arzulu]
-**(66)** orası ne kötü bir karargahtır[durulan yer] ve bir makamdır[ikamet yeri]
+**(65)** ve Rabbimiz derler uzaklaştır bizden cehennemin azabını doğrusu onun azabı [şiddetli arzulu] sargındır
+**(66)** orası ne kötü bir [yer durulan] karargahtır ve [ikamet yeri] bir makamdır
 **(67)** ve infak ettikleri zaman israf etmezler ve cimrilik etmezler ve bu (ikisinin) arasında dengeli olur 
-**(68)** ve onlar Allah ile beraber başka tanrıya[ilâha] yalvarmazlar ve öldürmezler canı öyle ki hak(lı sebep) dışında Allah’ın haram ettiği ve zina etmezler ve kim yaparsa bunları bulur cezasını
+**(68)** ve onlar Allah ile beraber başka tanrıya [ilâha] yalvarmazlar ve öldürmezler canı öyle ki hak(lı sebep) dışında Allah’ın haram ettiği ve zina etmezler ve kim yaparsa bunları bulur cezasını
 **(69)** kıyamet günü onun için azab kat kat yapılır ve hor ve hakir olarak onun içinde kalır 
 **(70)** tevbe eden kimse(ler) dışında ve iman eden ve faydalı bir iş yapanlar işte değiştirecektir Allah onların kötülüklerini iyiliklere ve Allah çok bağışlayandır çok esirgeyendir
 **(71)** ve kim tevbe eder ve yaparsa faydalı iş şüphesiz döner Allah’a tevbesi kabul edilmiş olarak
 **(72)** onlar şahitlik etmezler yalan ve boş söze ve ne zaman ki rastlarlar boş söze geçip giderler vakar[şeref ve izzet] ile
 **(73)** ve onlar Rablerinin ayetleri hatırlatıldığı zaman onlara karşı sağır ve kör davranmazlar
-**(74)** ve onlar Rabbimiz derler lutfeyle bize eşlerimizi ve çocuklarımızı gözler sevinci ve bizi muttakilere[haramdan ve günahtan çekinenlere] önder yap
+**(74)** ve onlar Rabbimiz derler lutfeyle bize eşlerimizi ve çocuklarımızı gözler sevinci ve bizi muttakilere [haramdan ve günahtan çekinenlere] önder yap
 **(75)** işte onlar sabretmelerine karşılık saraylarda  ödüllendireleceklerdir ve orada bir sağlık dileği ve selam ile karşılanacaklardır 
 **(76)** orada ebedi kalacaklardır ne güzel karargahtır ve makamdır
 **(77)** de ki ne diye? değer versin size Rabbim du’anız (ibadetiniz) olmadıktan sonra andolsun yalanladınız bu yüzden (azab) kaçınılmaz olacaktır
