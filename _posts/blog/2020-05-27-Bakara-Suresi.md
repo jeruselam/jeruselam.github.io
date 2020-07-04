@@ -88,8 +88,8 @@ tag:
 **(75)** umuyor musunuz? ki size inanacaklar oysa bunlardan bir grup vardı ki Allah’ın sözünü işitirlerdi de sonra düşünüp akıl erdirdikten ve onlar bildikleri halde ardından onu değiştirirlerdi
 **(76)** inanan kimselerle rastladıkları zaman inandık derler yalnız kaldıkları zaman onların bazısı bazısına size Allah’ın açtığı şeyleri onlara haber mi veriyorsunuz Rabbiniz katında onu sizin aleyhinizde delil olarak kullansınlar derler Aklınızı kullanmıyor musunuz?
 **(77)** bilmiyorlar mı ki? Allah şüphesiz onların gizledikleri şeyleri ve açığa vurdukları şeyleri bilir 
-**(78)** 
-**(79)** 
+**(78)** onların içinde kuruntuları dışında Kitabı bilmezler ümmiler vardır onlar sadece zannediyorlar
+**(79)** vay haline o kimselerin ki elleriyle Kitabı yazıyorlar sonra azıcık paraya onu satmak için bu Allah katındandır diyorlar ellerinin yazdığından ötürü onların vay haline kazandıklarından ötürü onların vay haline
 **(80)** 
 **(81)** 
 **(82)** 
