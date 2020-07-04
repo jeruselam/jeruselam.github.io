@@ -90,7 +90,7 @@ tag:
 **(77)** bilmiyorlar mı ki? Allah şüphesiz onların gizledikleri şeyleri ve açığa vurdukları şeyleri bilir 
 **(78)** onların içinde kuruntuları dışında Kitabı bilmezler ümmiler vardır onlar sadece zannediyorlar
 **(79)** vay haline o kimselerin ki elleriyle Kitabı yazıyorlar sonra azıcık paraya onu satmak için bu Allah katındandır diyorlar ellerinin yazdığından ötürü onların vay haline kazandıklarından ötürü onların vay haline
-**(80)** 
+**(80)** Bir de dediler ki sayılı birkaç gün dışında ateş bize asla dokunmayacaktır De ki Allah katında (bu hususta) bir söz aldınız mı? öyleyse	Allah sözünden dönmez yoksa Allah hakkında bilmediğiniz bir şey söylüyorsunuz
 **(81)** 
 **(82)** 
 **(83)** 
