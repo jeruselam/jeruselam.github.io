@@ -91,8 +91,8 @@ tag:
 **(78)** onların içinde kuruntuları dışında Kitabı bilmezler ümmiler vardır onlar sadece zannediyorlar
 **(79)** vay haline o kimselerin ki elleriyle Kitabı yazıyorlar sonra azıcık paraya onu satmak için bu Allah katındandır diyorlar ellerinin yazdığından ötürü onların vay haline kazandıklarından ötürü onların vay haline
 **(80)** Bir de dediler ki sayılı birkaç gün dışında ateş bize asla dokunmayacaktır De ki Allah katında (bu hususta) bir söz aldınız mı? öyleyse	Allah sözünden dönmez yoksa Allah hakkında bilmediğiniz bir şey söylüyorsunuz
-**(81)** 
-**(82)** 
+**(81)** evet kim bir günah kazanır ve suçu kendisini kuşatmış olursa işte onlar ateş halkıdır onlar orada sürekli kalacaklardır
+**(82)** inanan [imanlı] kimseler ve yararlı işler yapanlar işte onlar da cennet halkıdır onlar orada sürekli kalacaklardır
 **(83)** 
 **(84)** 
 **(85)** 
