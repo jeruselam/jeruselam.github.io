@@ -97,7 +97,7 @@ tag:
 **(84)** hani sizden kesin söz almıştık birbirinizin kanını dökmeyeceksiniz yurtlarınızdan birbirinizi çıkarmayacaksınız sonra kabul etmiştiniz ve siz şahidsiniz 
 **(85)** Ama siz birbirinizi öldürüyorsunuz ve sizden bir grubu yurtlarından çıkarıyorsunuz günah ve düşmanlıkla onlara karşı birleşiyorsunuz ve eğer esir olarak size geldiklerinde fidyelerini veriyorsunuz ve onları çıkarmak o size yasaklanmış iken yoksa siz Kitabın bir kısmına inanıyorsunuz da bir kısmını inkar mı ediyorsunuz dünya hayatında ve kıyamet gününde rezil olmaktan başka sizden bunu yapan kimsenin cezası nedir? azabın en şiddetlisine onlar itilirler yaptıklarınızdan Allah gafil değildir
 **(86)** işte onlar ahireti verip dünya hayatını satın alan kimselerdir azab onlardan hiç hafifletilmez ve hiç onlara yardım edilmez
-**(87)** 
+**(87)** ve Musa’ya Kitabı andolsun verdik arkasından birbiri ardınca peygamberler gönderdik ve Meryem oğlu Îsa’ya açık deliller verdik ve Ruh (Ruh’ül-Kudüs) ile onu destekledik canınızın istemediği şey ile bir peygamber size gelse kimini büyüklük taslayarak yalanlayacak kimini de öldüreceksiniz öyle mi?
 **(88)** 
 **(89)** 
 **(90)** 
