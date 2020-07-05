@@ -94,9 +94,9 @@ tag:
 **(81)** evet kim bir günah kazanır ve suçu kendisini kuşatmış olursa işte onlar ateş halkıdır onlar orada sürekli kalacaklardır
 **(82)** inanan [imanlı] kimseler ve yararlı işler yapanlar işte onlar da cennet halkıdır onlar orada sürekli kalacaklardır
 **(83)** ve İsrail oğullarından hani biz bir söz almıştık Allah’tan başkasına kulluk etmeyeceksiniz ve anaya-babaya ve yakınlara ve yetimlere ve yoksullara iyilik edeceksiniz ve insanlara güzel söz söyleyin ve namazı kılın ve zekatı verin sonra sizden olan pek azınız hariç döndünüz ve siz yüz çeviriyorsunuz
-**(84)** 
-**(85)** 
-**(86)** 
+**(84)** hani sizden kesin söz almıştık birbirinizin kanını dökmeyeceksiniz yurtlarınızdan birbirinizi çıkarmayacaksınız sonra kabul etmiştiniz ve siz şahidsiniz 
+**(85)** Ama siz birbirinizi öldürüyorsunuz ve sizden bir grubu yurtlarından çıkarıyorsunuz günah ve düşmanlıkla onlara karşı birleşiyorsunuz ve eğer esir olarak size geldiklerinde fidyelerini veriyorsunuz ve onları çıkarmak o size yasaklanmış iken yoksa siz Kitabın bir kısmına inanıyorsunuz da bir kısmını inkar mı ediyorsunuz dünya hayatında ve kıyamet gününde rezil olmaktan başka sizden bunu yapan kimsenin cezası nedir? azabın en şiddetlisine onlar itilirler yaptıklarınızdan Allah gafil değildir
+**(86)** işte onlar ahireti verip dünya hayatını satın alan kimselerdir azab onlardan hiç hafifletilmez ve hiç onlara yardım edilmez
 **(87)** 
 **(88)** 
 **(89)** 
