@@ -93,7 +93,7 @@ tag:
 **(80)** Bir de dediler ki sayılı birkaç gün dışında ateş bize asla dokunmayacaktır De ki Allah katında (bu hususta) bir söz aldınız mı? öyleyse	Allah sözünden dönmez yoksa Allah hakkında bilmediğiniz bir şey söylüyorsunuz
 **(81)** evet kim bir günah kazanır ve suçu kendisini kuşatmış olursa işte onlar ateş halkıdır onlar orada sürekli kalacaklardır
 **(82)** inanan [imanlı] kimseler ve yararlı işler yapanlar işte onlar da cennet halkıdır onlar orada sürekli kalacaklardır
-**(83)** ve İsrail oğullarından hani biz bir söz almıştık Allah’tan başkasına kulluk etmeyeceksiniz ve anaya-babaya ve yakınlara ve yetimlere ve yoksullara iyilik edeceksiniz ve insanlara güzel söz söyleyin ve namazı kılın ve verin
+**(83)** ve İsrail oğullarından hani biz bir söz almıştık Allah’tan başkasına kulluk etmeyeceksiniz ve anaya-babaya ve yakınlara ve yetimlere ve yoksullara iyilik edeceksiniz ve insanlara güzel söz söyleyin ve namazı kılın ve zekatı verin sonra sizden olan pek azınız hariç döndünüz ve siz yüz çeviriyorsunuz
 **(84)** 
 **(85)** 
 **(86)** 
