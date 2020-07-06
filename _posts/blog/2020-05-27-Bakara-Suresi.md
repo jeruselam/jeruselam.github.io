@@ -98,13 +98,13 @@ tag:
 **(85)** Ama siz birbirinizi öldürüyorsunuz ve sizden bir grubu yurtlarından çıkarıyorsunuz günah ve düşmanlıkla onlara karşı birleşiyorsunuz ve eğer esir olarak size geldiklerinde fidyelerini veriyorsunuz ve onları çıkarmak o size yasaklanmış iken yoksa siz Kitabın bir kısmına inanıyorsunuz da bir kısmını inkar mı ediyorsunuz dünya hayatında ve kıyamet gününde rezil olmaktan başka sizden bunu yapan kimsenin cezası nedir? azabın en şiddetlisine onlar itilirler yaptıklarınızdan Allah gafil değildir
 **(86)** işte onlar ahireti verip dünya hayatını satın alan kimselerdir azab onlardan hiç hafifletilmez ve hiç onlara yardım edilmez
 **(87)** ve Musa’ya Kitabı andolsun verdik arkasından birbiri ardınca peygamberler gönderdik ve Meryem oğlu Îsa’ya açık deliller verdik ve Ruh (Ruh’ül-Kudüs) ile onu destekledik canınızın istemediği şey ile bir peygamber size gelse kimini büyüklük taslayarak yalanlayacak kimini de öldüreceksiniz öyle mi?
-**(88)** 
-**(89)** 
+**(88)** ve kalblerimiz perdelidir dediler inkarlarından dolayı Allah bilakis onları la’netlemiştir artık çok az inanırlar
+**(89)** Ne zaman ki yanlarında bulunan şeyi (Tevrat)ı doğrulayıcı Allah katından bir Kitap (Kur’an) onlara geldi ve daha önce yardım istedikleri inkar eden kimselere karşı idiler o bildikleri şey (Kur’an) ne zaman kendilerine gelince onu inkar ettiler Allah’ın artık la’neti inkarcıların üzerine olsun!
 **(90)** 
 **(91)**
 **(92)** 
 **(93)** 
-**(94)**  
+**(94)** 
 **(95)** 
 **(96)** 
 **(97)** 
