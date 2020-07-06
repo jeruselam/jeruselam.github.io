@@ -100,7 +100,7 @@ tag:
 **(87)** ve Musa’ya Kitabı andolsun verdik arkasından birbiri ardınca peygamberler gönderdik ve Meryem oğlu Îsa’ya açık deliller verdik ve Ruh (Ruh’ül-Kudüs) ile onu destekledik canınızın istemediği şey ile bir peygamber size gelse kimini büyüklük taslayarak yalanlayacak kimini de öldüreceksiniz öyle mi?
 **(88)** ve kalblerimiz perdelidir dediler inkarlarından dolayı Allah bilakis onları la’netlemiştir artık çok az inanırlar
 **(89)** Ne zaman ki yanlarında bulunan şeyi (Tevrat)ı doğrulayıcı Allah katından bir Kitap (Kur’an) onlara geldi ve daha önce yardım istedikleri inkar eden kimselere karşı idiler o bildikleri şey (Kur’an) ne zaman kendilerine gelince onu inkar ettiler Allah’ın artık la’neti inkarcıların üzerine olsun!
-**(90)** 
+**(90)** kullarından dilediği kimsenin üzerine Allah’ın lutfundan (vahiy) indirmesini çekemeyerek Allah’ın indirdiği şeyi inkar etmek için kendilerini onunla sattıkları şey ne kötüdür gazab üstüne gazaba uğradılar ve inkar edenler için alçaltıcı bir azab vardır
 **(91)**
 **(92)** 
 **(93)** 
