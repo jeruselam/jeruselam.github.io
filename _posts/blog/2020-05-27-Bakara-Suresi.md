@@ -101,9 +101,9 @@ tag:
 **(88)** ve kalblerimiz perdelidir dediler inkarlarından dolayı Allah bilakis onları la’netlemiştir artık çok az inanırlar
 **(89)** Ne zaman ki yanlarında bulunan şeyi (Tevrat)ı doğrulayıcı Allah katından bir Kitap (Kur’an) onlara geldi ve daha önce yardım istedikleri inkar eden kimselere karşı idiler o bildikleri şey (Kur’an) ne zaman kendilerine gelince onu inkar ettiler Allah’ın artık la’neti inkarcıların üzerine olsun!
 **(90)** kullarından dilediği kimsenin üzerine Allah’ın lutfundan (vahiy) indirmesini çekemeyerek Allah’ın indirdiği şeyi inkar etmek için kendilerini onunla sattıkları şey ne kötüdür gazab üstüne gazaba uğradılar ve inkar edenler için alçaltıcı bir azab vardır
-**(91)**
-**(92)** 
-**(93)** 
+**(91)** onlara Allah’ın indirdiği şeye inanın denildiği zaman bize indirilen şeye inanırız derler ve ondan sonra gelen şeyi inkar ederler halbuki o, yanlarında bulunan şeyi doğrulayan haktır de ki gerçekten inanıyor idiyseniz daha önce Allah’ın peygamberlerini neden? öldürüyordunuz
+**(92)** Andolsun apaçık delillerle Musa size gelmişti ve sonra siz ardından zalimler olarak buzağıyı (ilah) edinmiştiniz 
+**(93)** hani bir zaman kesin sözünüzü almıştık ve Tur(dağın)ı üzerinize kaldırmıştık size verdiğimiz şeyi kuvvetle tutun dinleyin (demiştik) dinledik ve isyan ettik dediler ve inkarlarıyla buzağı (sevgisi) kalblerine içirildi de ki eğer inanan kimseler iseniz imanınız size onunla ne kötü şey emrediyor
 **(94)** 
 **(95)** 
 **(96)** 
