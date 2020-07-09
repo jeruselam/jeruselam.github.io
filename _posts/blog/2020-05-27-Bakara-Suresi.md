@@ -104,11 +104,11 @@ tag:
 **(91)** onlara Allah’ın indirdiği şeye inanın denildiği zaman bize indirilen şeye inanırız derler ve ondan sonra gelen şeyi inkar ederler halbuki o, yanlarında bulunan şeyi doğrulayan haktır de ki gerçekten inanıyor idiyseniz daha önce Allah’ın peygamberlerini neden? öldürüyordunuz
 **(92)** Andolsun apaçık delillerle Musa size gelmişti ve sonra siz ardından zalimler olarak buzağıyı (ilah) edinmiştiniz 
 **(93)** hani bir zaman kesin sözünüzü almıştık ve Tur(dağın)ı üzerinize kaldırmıştık size verdiğimiz şeyi kuvvetle tutun dinleyin (demiştik) dinledik ve isyan ettik dediler ve inkarlarıyla buzağı (sevgisi) kalblerine içirildi de ki eğer inanan kimseler iseniz imanınız size onunla ne kötü şey emrediyor
-**(94)** 
-**(95)** 
-**(96)** 
-**(97)** 
-**(98)** 
+**(94)** de ki Allah katında ahiret yurdu insanlardan başkasının (değil de) eğer size ait ise eğer sözünüzde doğru iseniz ölümü haydi temenni edin
+**(95)** fakat ellerinin yapıp sunduğu işlerden dolayı asla (ölümü) istemezler Allah zalimleri bilir
+**(96)** [şirke giren] kimselerden, ortak koşan(lar), onları insanların hayata en düşkünü bulursun her biri bin yıl yaşatılmasını ister ve oysa (o kadar) yaşaması onu o azabdan uzaklaştıracak değildir Allah yaptıkları şeyleri görüyor
+**(97)** de ki kim ise (bilsin ki) Cebrail’e düşmandır şüphesiz o, onu doğrulayıcı olarak Allah’ın izniyle kalbine indirmiştir
+**(98)** Allah’a ve meleklerine ve resullerine ve Cebrail’e ve Mikail’e düşman kim ise şüphesiz Allah da inkar edenlerin düşmanıdır
 **(99)** 
 **(100)** 
 **(101)** 
