@@ -122,8 +122,8 @@ tag:
 **(109)** gerçek onlara apaçık belli olduktan sonra şayet kitap ehlinden bir çoğu içlerindeki hasetle imanınızdan sonra kafirler olarak sizi döndürmek isterler Allah emrini getirinceye kadar hoş görün affedin şüphesiz Allah her şeye gücü yetendir
 **(110)** ve namazı kılın ve zekatı verin hayırdan kendiniz için ne ki ne gönderirsiniz Allah’ın katında bulursunuz şüphesiz Allah yaptıklarınız şeyleri görür
 **(111)** ve Yahudi veyahut hıristiyan olan kimseden başkası cennete asla giremez dediler işte bu onların kuruntusudur de ki eğer doğru iseniz delilinizi getirin 
-**(112)** 
-**(113)** 
+**(112)** hayır Allah’a yüzünü ve o işini güzel yaparak kim teslim ederse onun mükafatı Rabbinin yanındadır ve onlara korku yoktur ve onlara üzülmek yoktur
+**(113)** ve Yahudiler dediler ki Hıristiyanlar (temel) bir şey üzerinde değiller ve Hıristiyanlar dediler ki da Yahudiler (temel) bir şey üzerinde değildirler oysa onlar Kitabı okuyorlar böylece [ilimle] bilmeyen(ler); [o] kimseler [de] onların sözlerinin benzerini söylediler onda ihtilaf halinde oldukları şey hakkında kıyamet günü aralarında artık Allah hüküm verecektir 
 **(114)** 
 **(115)** 
 **(116)** 
