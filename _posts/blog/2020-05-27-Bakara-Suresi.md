@@ -120,8 +120,8 @@ tag:
 **(107)** bilmez misin? şüphesiz Allah, göklerin ve yerin mülkü onundur ve Allah’tan başka size hiçbir koruyucu ve (ne de) bir yardımcı yoktur
 **(108)** yoksa daha önce Musa’dan istedikleri gibi rasulunüzden istekte bulunmayı arzu (mu) ediyorsunuz? ve inkarı imana kim değiştirirse şüphesiz (o) dümdüz yolu sapıtmıştır 
 **(109)** gerçek onlara apaçık belli olduktan sonra şayet kitap ehlinden bir çoğu içlerindeki hasetle imanınızdan sonra kafirler olarak sizi döndürmek isterler Allah emrini getirinceye kadar hoş görün affedin şüphesiz Allah her şeye gücü yetendir
-**(110)** 
-**(111)** 
+**(110)** ve namazı kılın ve zekatı verin hayırdan kendiniz için ne ki ne gönderirsiniz Allah’ın katında bulursunuz şüphesiz Allah yaptıklarınız şeyleri görür
+**(111)** ve Yahudi veyahut hıristiyan olan kimseden başkası cennete asla giremez dediler işte bu onların kuruntusudur de ki eğer doğru iseniz delilinizi getirin 
 **(112)** 
 **(113)** 
 **(114)** 
