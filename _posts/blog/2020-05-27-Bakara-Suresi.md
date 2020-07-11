@@ -109,13 +109,13 @@ tag:
 **(96)** [şirke giren] kimselerden, ortak koşan(lar), onları insanların hayata en düşkünü bulursun her biri bin yıl yaşatılmasını ister ve oysa (o kadar) yaşaması onu o azabdan uzaklaştıracak değildir Allah yaptıkları şeyleri görüyor
 **(97)** de ki kim ise (bilsin ki) Cebrail’e düşmandır şüphesiz o, onu doğrulayıcı olarak Allah’ın izniyle kalbine indirmiştir
 **(98)** Allah’a ve meleklerine ve resullerine ve Cebrail’e ve Mikail’e düşman kim ise şüphesiz Allah da inkar edenlerin düşmanıdır
-**(99)** 
-**(100)** 
-**(101)** 
-**(102)** 
-**(103)** 
-**(104)** 
-**(105)** 
+**(99)** apaçık ayetler sana andolsun indirdik ve fasıklardan başkası onları inkar etmez
+**(100)** ahitle ne zaman anlaştılarsa onlardan bir grup onu bozdular zaten çokları inanmazlar
+**(101)** yanlarındaki şeyleri doğrulayan Allah’ın katından bir elçi ne zaman onlara geldiyse kendilerine kitap verilenlerden bir grup sanki bilmiyorlarmış gibi sırtlarının arkasına Allah’ın kitabı[nı] attılar
+**(102)** ve Süleyman’ın mülkü hakkında şeytanların uyduduğu şeye uydular Süleyman küfre girmedi fakat şeytanlar sihri ve Harut ve Marut (isimli) Babil’de iki meleğe indirilen şeyi insanlara öğreterek küfre girdiler şüphesiz biz fitneyiz sakın küfre girmeyin demedikçe hiç kimseye onlar öğretmezlerdi fakat eşi ve karısının arasını onunla ayıran şeyi bunlardan öğreniyorlardı ve ama onlar Allah’ın izninden başka hiç kimseye onunla zarar veriyor değildir yarar vereni değil onlar zarar veren şeyi öğreniyorlardı andolsun gayet iyi biliyorlardı ki onu satın alan kimsenin, onun ahirette bir nasibi yoktur ve kendilerini onunla sattıkları şey ne kötüdür keşke (bunu) bilselerdi!
+**(103)** ve eğer şüphesiz onlar iman etseler ve sakınmış olsalardı Allah’ın katından sevabı daha hayırlı (olurdu) keşke bilseler idi
+**(104)** ey [imanlı] kimseler inanan(lar) Ra’ina (bizi gözet yahut: kaba söz) demeyin unzurna (bize bak) deyin ve dinleyin ve kafirler için acı bir azab vardır
+**(105)** kitab ehlinden ve müşriklerden inkar eden(ler); [kafir] kimseler rabbinizden size hiçbir hayır indirilmesini arzu etmezler oysa Allah dilediği kimseye rahmetini tahsis eder Allah büyük lütuf sahibidir
 **(106)** 
 **(107)** 
 **(108)** 
