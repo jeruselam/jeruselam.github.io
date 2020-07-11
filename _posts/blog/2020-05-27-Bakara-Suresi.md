@@ -118,8 +118,8 @@ tag:
 **(105)** kitab ehlinden ve müşriklerden inkar eden(ler); [kafir] kimseler rabbinizden size hiçbir hayır indirilmesini arzu etmezler oysa Allah dilediği kimseye rahmetini tahsis eder Allah büyük lütuf sahibidir
 **(106)** ne ki ayeti biz (bir parça) neshedersek veya onu unutturursak ondan daha iyisini ya da benzerini getiririz bilmez misin? şüphesiz Allah’ın her şeye gücü yeter
 **(107)** bilmez misin? şüphesiz Allah, göklerin ve yerin mülkü onundur ve Allah’tan başka size hiçbir koruyucu ve (ne de) bir yardımcı yoktur
-**(108)** 
-**(109)** 
+**(108)** yoksa daha önce Musa’dan istedikleri gibi rasulunüzden istekte bulunmayı arzu (mu) ediyorsunuz? ve inkarı imana kim değiştirirse şüphesiz (o) dümdüz yolu sapıtmıştır 
+**(109)** gerçek onlara apaçık belli olduktan sonra şayet kitap ehlinden bir çoğu içlerindeki hasetle imanınızdan sonra kafirler olarak sizi döndürmek isterler Allah emrini getirinceye kadar hoş görün affedin şüphesiz Allah her şeye gücü yetendir
 **(110)** 
 **(111)** 
 **(112)** 
