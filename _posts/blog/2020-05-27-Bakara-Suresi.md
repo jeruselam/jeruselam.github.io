@@ -116,8 +116,8 @@ tag:
 **(103)** ve eğer şüphesiz onlar iman etseler ve sakınmış olsalardı Allah’ın katından sevabı daha hayırlı (olurdu) keşke bilseler idi
 **(104)** ey [imanlı] kimseler inanan(lar) Ra’ina (bizi gözet yahut: kaba söz) demeyin unzurna (bize bak) deyin ve dinleyin ve kafirler için acı bir azab vardır
 **(105)** kitab ehlinden ve müşriklerden inkar eden(ler); [kafir] kimseler rabbinizden size hiçbir hayır indirilmesini arzu etmezler oysa Allah dilediği kimseye rahmetini tahsis eder Allah büyük lütuf sahibidir
-**(106)** 
-**(107)** 
+**(106)** ne ki ayeti biz (bir parça) neshedersek veya onu unutturursak ondan daha iyisini ya da benzerini getiririz bilmez misin? şüphesiz Allah’ın her şeye gücü yeter
+**(107)** bilmez misin? şüphesiz Allah, göklerin ve yerin mülkü onundur ve Allah’tan başka size hiçbir koruyucu ve (ne de) bir yardımcı yoktur
 **(108)** 
 **(109)** 
 **(110)** 
