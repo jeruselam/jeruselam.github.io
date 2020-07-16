@@ -124,17 +124,17 @@ tag:
 **(111)** ve Yahudi veyahut hıristiyan olan kimseden başkası cennete asla giremez dediler işte bu onların kuruntusudur de ki eğer doğru iseniz delilinizi getirin 
 **(112)** hayır Allah’a yüzünü ve o işini güzel yaparak kim teslim ederse onun mükafatı Rabbinin yanındadır ve onlara korku yoktur ve onlara üzülmek yoktur
 **(113)** ve Yahudiler dediler ki Hıristiyanlar (temel) bir şey üzerinde değiller ve Hıristiyanlar dediler ki da Yahudiler (temel) bir şey üzerinde değildirler oysa onlar Kitabı okuyorlar böylece [ilimle] bilmeyen(ler); [o] kimseler [de] onların sözlerinin benzerini söylediler onda ihtilaf halinde oldukları şey hakkında kıyamet günü aralarında artık Allah hüküm verecektir 
-**(114)** 
-**(115)** 
-**(116)** 
-**(117)** 
-**(118)** 
-**(119)** 
-**(120)** 
-**(121)** 
-**(122)** 
-**(123)** 
-**(124)** 
+**(114)** ve Allah’ın isminin içinde anılmasına mescidlerinde men eden kimseden ve onların harabolmasına çalışandan daha zalim kim olabilir işte onlar için korka korka girmeleri dışında olmaları onlar için yoktur onlar için dünyada rezillik vardır ve ahirette büyük bir azap vardır
+**(115)** ve doğu da batı da Allah’ındır nereye dönerseniz Allah’ın yüzü (zatı) oradadır şüphesiz [Vasi Alim] Allah’(ın) (rahmeti ve ni’meti) boldur (her şeyi) bilendir
+**(116)** ve dediler ki Allah çocuk edindi bilakis O yücedir göklerde ve yerde ne varsa onundur hepsi O’na 	boyun eğmiştir
+**(117)** göklerin ve yerin (O) yaratıcısıdır bir işe (şeye) hükmettiği zaman şüphesiz sadece ona ol der hemen oluverir
+**(118)** [o] kimseler; [ilim ile] bilmeyen(ler) dediler ki Allah bizimle konuşmalı ya da bir ayet (mu’cize) bize gelmeli değil miydi? onlardan önceki kimseler(ler de) onların dediklerinin benzerini işte böyle söyle(mişler)di kalbleri birbirine benzedi bilmek isteyen kavimler için elbette ayetleri iyice açıkladık 
+**(119)** doğrusu biz müjdeleyici gerçekle ve uyarıcı olarak seni gönderdik cehennem halkından sen sorumlu değilsin 
+**(120)** ve onların milletine (dinine) sen uyuncaya kadar (ne) yahudiler (ne de) hıristiyanlar senden razı olmazlar de ki şüphesiz Allah’ın hidayeti asıl doğru yol odur sana gelen ilimden sonra eğer onların arzularına uyarsan Allah’tan sana hiç bir dost ve hiç bir yardımcı yoktur
+**(121)** Kitabı kendilerine verdiğimiz kimseler doğru bir okuyuşla onu okuyanlar işte onlar ona inananlardır ve kim onu inkar ederse işte onlar ziyana uğrayanlardır
+**(122)** İsrail oğulları alemler üzerine gerçekten sizi üstün kıldığımı size verdiğim ni’meti hatırlayın 
+**(123)** şu günden) sakının (ki kimse bir şeyle kimsenin cezasını çekmez ve ondan fidye kabul edilmez şefaat ona fayda vermez onlara yardım da edilmez
+**(124)** kelimelerle Rabbi İbrahim’i imtihan ettiği zaman o da onları tamamlamıştı şüphesiz ben seni insanlar için önder [imam] yapacağım (İbrahim) dedi ki benim soyumdan da, [Allah] zalimlere ahdim ulaşmaz buyurdu
 **(125)** 
 **(126)** 
 **(127)** 
