@@ -134,7 +134,7 @@ tag:
 **(121)** Kitabı kendilerine verdiğimiz kimseler doğru bir okuyuşla onu okuyanlar işte onlar ona inananlardır ve kim onu inkar ederse işte onlar ziyana uğrayanlardır
 **(122)** İsrail oğulları alemler üzerine gerçekten sizi üstün kıldığımı size verdiğim ni’meti hatırlayın 
 **(123)** şu günden) sakının (ki kimse bir şeyle kimsenin cezasını çekmez ve ondan fidye kabul edilmez şefaat ona fayda vermez onlara yardım da edilmez
-**(124)** kelimelerle Rabbi İbrahim’i imtihan ettiği zaman o da onları tamamlamıştı şüphesiz ben seni insanlar için önder [imam] yapacağım (İbrahim) dedi ki benim soyumdan da, [Allah] zalimlere ahdim ulaşmaz buyurdu
+**(124)** kelimelerle Rabbi İbrahim’i imtihan ettiği zaman o da onları tamamlamıştı (Allah) dedi ki şüphesiz ben seni insanlar için önder [imam] yapacağım (İbrahim) dedi ki benim soyumdan da, [Allah] zalimlere ahdim ulaşmaz buyurdu
 **(125)** 
 **(126)** 
 **(127)** 
