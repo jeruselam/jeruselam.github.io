@@ -137,8 +137,8 @@ tag:
 **(124)** kelimelerle Rabbi İbrahim’i imtihan ettiği zaman o da onları tamamlamıştı (Allah) dedi ki şüphesiz ben seni insanlar için önder [imam] yapacağım (İbrahim) dedi ki benim soyumdan da, [Allah] zalimlere ahdim ulaşmaz buyurdu
 **(125)** hani biz Beyt’i (Ka’be’yi) insanlara toplanma yeri ve güven yeri kıldık İbrahim’in makamından siz de bir namaz yeri edinin ve secde edenler, rüku edenler ve ibadete kapananlar tavaf edenler için ev’imi temizlemesini İbrahim’e ve İsma’il’e emretmiştik
 **(126)** ve hani İbrahim demişti ki Rabbim bu şehri güvenli kıl ve onlardan ahiret gününe ve Allah’a inanan kimseleri ürünlerle, halkını rızıklandır (Rabbi) buyurdu ki inkar eden kimseyi onu az bir (süre) geçindiririm sonra cehennem azabına onu mahkum ederim ve ne kötü dönüş yeridir
-**(127)** 
-**(128)** 
+**(127)** ve hani İbrahim İsma’il’(le beraber) Ev’in temellerini yükseltiyordu Rabbi’imiz bizden kabul buyur kuşkusuz sen (yalnız) sen işitensin bilensin
+**(128)** Rabbimiz bizi sana teslim olanlardan yap neslimizden de sana teslim olan bir ümmet (çıkar) ve ibadet yollarımızı bize göster ve bizden tevbemizi kabul et şüphesiz sen, (ancak) sensin tevbeleri kabul eden çok merhametli olan
 **(129)** 
 **(130)** 
 **(131)** 
