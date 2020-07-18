@@ -135,8 +135,8 @@ tag:
 **(122)** İsrail oğulları alemler üzerine gerçekten sizi üstün kıldığımı size verdiğim ni’meti hatırlayın 
 **(123)** şu günden) sakının (ki kimse bir şeyle kimsenin cezasını çekmez ve ondan fidye kabul edilmez şefaat ona fayda vermez onlara yardım da edilmez
 **(124)** kelimelerle Rabbi İbrahim’i imtihan ettiği zaman o da onları tamamlamıştı (Allah) dedi ki şüphesiz ben seni insanlar için önder [imam] yapacağım (İbrahim) dedi ki benim soyumdan da, [Allah] zalimlere ahdim ulaşmaz buyurdu
-**(125)** 
-**(126)** 
+**(125)** hani biz Beyt’i (Ka’be’yi) insanlara toplanma yeri ve güven yeri kıldık İbrahim’in makamından siz de bir namaz yeri edinin ve secde edenler, rüku edenler ve ibadete kapananlar tavaf edenler için ev’imi temizlemesini İbrahim’e ve İsma’il’e emretmiştik
+**(126)** ve hani İbrahim demişti ki Rabbim bu şehri güvenli kıl ve onlardan ahiret gününe ve Allah’a inanan kimseleri ürünlerle, halkını rızıklandır (Rabbi) buyurdu ki inkar eden kimseyi onu az bir (süre) geçindiririm sonra cehennem azabına onu mahkum ederim ve ne kötü dönüş yeridir
 **(127)** 
 **(128)** 
 **(129)** 

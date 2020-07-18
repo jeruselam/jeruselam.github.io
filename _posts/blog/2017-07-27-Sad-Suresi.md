@@ -32,7 +32,7 @@ tag:
 **(20)** onun mülkünü güçlendirmiştik ve kendisine hikmet ve ayırd edici konuşma vermiştik
 **(21)** davacıların haberi sana geldi mi? hani mabed(in duvarına) tırmanmışlardı
 **(22)** hani Davud’un yanına girmişlerdi ve onlardan korkmuştu korkma dediler biz iki davacıyız birimiz ötekinin hakkına saldırdı şimdi sen aramızda hak ile hükmet ve haksızlık etme bizi yolun ortasına (adalete) götür 
-**(23)** doğrusu bu kardeşimin (doksan) dokuz, doksan (dokuz) koyunu vardır benim ise bir tek koyunum vardır fakat (kardeşim) onu da bana ver dedi ve bana konuşmada ağır bast
+**(23)** doğrusu bu kardeşimin (doksan) dokuz, doksan (dokuz) koyunu vardır benim ise bir tek koyunum vardır fakat (kardeşim) onu da bana ver dedi ve bana konuşmada ağır bastı
 **(24)** (Davud) dedi ki andolsun senin koyununu kendi koyunlarına istemekle sana zulmetmiştir ve zaten karıştıran(ortak)ların çoğu biri üzerine diğeri zulmederler yalnız inanan(lar) kimseler ve iyi işler yapanlar bunun dışındadır ve onlar ne kadar azdır ve Davud kendisini denediğimizi sandı Rabbinden mağfiret diledi ve eğilerek (secdeye) kapandı ve (bize) döndü
 **(25)** biz de ondan bunu affettik ve şüphesiz onun yanımızda bir yakınlığı ve güzel bir geleceği vardır
 **(26)** Davud elbette biz seni yeryüzünde hükümdar yaptık o halde insanlar arasında adaletle hükmet ve keyf(in)e uyma sonra seni Allah’ın yolundan saptırır şüphesiz Allah’ın yolundan sapan(lara) kimselere onlara hesap gününü unuttuklarından dolayı çetin bir azab vardır 
