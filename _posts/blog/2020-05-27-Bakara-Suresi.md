@@ -139,9 +139,9 @@ tag:
 **(126)** ve hani İbrahim demişti ki Rabbim bu şehri güvenli kıl ve onlardan ahiret gününe ve Allah’a inanan kimseleri ürünlerle, halkını rızıklandır (Rabbi) buyurdu ki inkar eden kimseyi onu az bir (süre) geçindiririm sonra cehennem azabına onu mahkum ederim ve ne kötü dönüş yeridir
 **(127)** ve hani İbrahim İsma’il’(le beraber) Ev’in temellerini yükseltiyordu Rabbi’imiz bizden kabul buyur kuşkusuz sen (yalnız) sen işitensin bilensin
 **(128)** Rabbimiz bizi sana teslim olanlardan yap neslimizden de sana teslim olan bir ümmet (çıkar) ve ibadet yollarımızı bize göster ve bizden tevbemizi kabul et şüphesiz sen, (ancak) sensin tevbeleri kabul eden çok merhametli olan
-**(129)** 
-**(130)** 
-**(131)** 
+**(129)** Rabbimiz senin ayetlerini kendilerine okuyacak ve Kitabı ve hikmeti onlara öğretecek ve onları temizleyecek kendi içlerinden onlara bir elçi gönder şüphesiz sensin yalnız sen Aziz olan Hakim olan
+**(130)** ve nefsini sefih kılan kimseden başka kim ki İbrahim’in milletinden (dininden) yüz çevirir Andolsun ki biz onu dünyada seçmiştik ve şüphesiz o ahirette de salihlerdendir
+**(131)** hani Rabbi ona İslam ol (teslim ol) demişti alemlerin Rabbine teslim oldum dedi
 **(132)** 
 **(133)** 
 **(134)** 
