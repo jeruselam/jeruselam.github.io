@@ -145,8 +145,12 @@ tag:
 **(132)** ve İbrahim bunu kendi oğullarına vasiyyet etti ve Ya’kub da oğullarım şüphesiz Allah sizin için bu dini seçti öyleyse sizler müslümanlar olmaktan başka (bir şekilde  ölmeyin
 **(133)** ölüm hali Ya’kub’a geldiği zaman yoksa siz şahit miydiniz o zaman oğullarına (Ya’kub) dedi ki benden sonra neye kulluk edeceksiniz dediler ki senin tanrına kulluk ve ataların İbrahim ve İsma’il tanrısına ve İshak’ın tek Tanrı’sına edeceğiz ve biz O’na teslim olanlarız
 **(134)** elbette onlar bir ümmetti gelip geçti onların kazandıkları şeyler kendilerine sizin kazandıklarınız şeyler size aittir
-**(135)** 
-**(140)** 
+**(135)** ve Yahudi veya hıristiyan olun ki doğru yolu bulasınız dediler de ki bilakis hanif İbrahim’in milletine (dinine)(uyarız) O ortak koşanlardan değildi
+**(136)** 
+**(137)** 
+**(138)** 
+**(139)** 
+**(140)** Allah’a ve bize indirilen şeye ve İbrahim’e ve İsma’il’e ve Ya’kub’a ve torunlarına indirilen şeye ve Musa’ya ve Îsa’ya verilen şeye ve rablerinden peygamberlere verilen şeye inandık deyin onların hiçbiri arasında ayırım yapmayız ve biz O’na teslim olanlarız
 **(141)** 
 **(142)** 
 **(143)** 
