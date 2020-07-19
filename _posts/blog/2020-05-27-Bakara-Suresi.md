@@ -143,8 +143,8 @@ tag:
 **(130)** ve nefsini sefih kılan kimseden başka kim ki İbrahim’in milletinden (dininden) yüz çevirir Andolsun ki biz onu dünyada seçmiştik ve şüphesiz o ahirette de salihlerdendir
 **(131)** hani Rabbi ona İslam ol (teslim ol) demişti alemlerin Rabbine teslim oldum dedi
 **(132)** ve İbrahim bunu kendi oğullarına vasiyyet etti ve Ya’kub da oğullarım şüphesiz Allah sizin için bu dini seçti öyleyse sizler müslümanlar olmaktan başka (bir şekilde  ölmeyin
-**(133)** 
-**(134)** 
+**(133)** ölüm hali Ya’kub’a geldiği zaman yoksa siz şahit miydiniz o zaman oğullarına (Ya’kub) dedi ki benden sonra neye kulluk edeceksiniz dediler ki senin tanrına kulluk ve ataların İbrahim ve İsma’il tanrısına ve İshak’ın tek Tanrı’sına edeceğiz ve biz O’na teslim olanlarız
+**(134)** elbette onlar bir ümmetti gelip geçti onların kazandıkları şeyler kendilerine sizin kazandıklarınız şeyler size aittir
 **(135)** 
 **(140)** 
 **(141)** 
