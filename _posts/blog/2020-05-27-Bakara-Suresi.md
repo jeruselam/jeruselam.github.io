@@ -142,7 +142,7 @@ tag:
 **(129)** Rabbimiz senin ayetlerini kendilerine okuyacak ve Kitabı ve hikmeti onlara öğretecek ve onları temizleyecek kendi içlerinden onlara bir elçi gönder şüphesiz sensin yalnız sen Aziz olan Hakim olan
 **(130)** ve nefsini sefih kılan kimseden başka kim ki İbrahim’in milletinden (dininden) yüz çevirir Andolsun ki biz onu dünyada seçmiştik ve şüphesiz o ahirette de salihlerdendir
 **(131)** hani Rabbi ona İslam ol (teslim ol) demişti alemlerin Rabbine teslim oldum dedi
-**(132)** 
+**(132)** ve İbrahim bunu kendi oğullarına vasiyyet etti ve Ya’kub da oğullarım şüphesiz Allah sizin için bu dini seçti öyleyse sizler müslümanlar olmaktan başka (bir şekilde  ölmeyin
 **(133)** 
 **(134)** 
 **(135)** 
