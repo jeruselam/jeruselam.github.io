@@ -146,11 +146,11 @@ tag:
 **(133)** ölüm hali Ya’kub’a geldiği zaman yoksa siz şahit miydiniz o zaman oğullarına (Ya’kub) dedi ki benden sonra neye kulluk edeceksiniz dediler ki senin tanrına kulluk ve ataların İbrahim ve İsma’il tanrısına ve İshak’ın tek Tanrı’sına edeceğiz ve biz O’na teslim olanlarız
 **(134)** elbette onlar bir ümmetti gelip geçti onların kazandıkları şeyler kendilerine sizin kazandıklarınız şeyler size aittir
 **(135)** ve Yahudi veya hıristiyan olun ki doğru yolu bulasınız dediler de ki bilakis hanif İbrahim’in milletine (dinine)(uyarız) O ortak koşanlardan değildi
-**(136)** 
-**(137)** 
-**(138)** 
+**(136)** Allah’a ve bize indirilen şeye ve İbrahim’e ve İsma’il’e ve Ya’kub’a ve torunlarına indirilen şeye ve Musa’ya ve Îsa’ya verilen şeye ve rablerinden peygamberlere verilen şeye inandık deyin onların hiçbiri arasında ayırım yapmayız ve biz O’na teslim olanlarız
+**(137)** ona sizin iman ettiğiniz gibi iman ederlerse eğer elbette doğru yolu bulmuş olurlar eğer dönerlerse mutlaka onlar anlaşmazlık içine (düşerler) onlara karşı Allah sana yeter ve O işitendir bilendir
+**(138)** Allah’ın boyası (ile boyan) ve boyası Allah’tan daha güzeli kimdir ve biz ancak O’na kulluk ederiz
 **(139)** 
-**(140)** Allah’a ve bize indirilen şeye ve İbrahim’e ve İsma’il’e ve Ya’kub’a ve torunlarına indirilen şeye ve Musa’ya ve Îsa’ya verilen şeye ve rablerinden peygamberlere verilen şeye inandık deyin onların hiçbiri arasında ayırım yapmayız ve biz O’na teslim olanlarız
+**(140)** 
 **(141)** 
 **(142)** 
 **(143)** 
