@@ -149,7 +149,7 @@ tag:
 **(136)** Allah’a ve bize indirilen şeye ve İbrahim’e ve İsma’il’e ve Ya’kub’a ve torunlarına indirilen şeye ve Musa’ya ve Îsa’ya verilen şeye ve rablerinden peygamberlere verilen şeye inandık deyin onların hiçbiri arasında ayırım yapmayız ve biz O’na teslim olanlarız
 **(137)** ona sizin iman ettiğiniz gibi iman ederlerse eğer elbette doğru yolu bulmuş olurlar eğer dönerlerse mutlaka onlar anlaşmazlık içine (düşerler) onlara karşı Allah sana yeter ve O işitendir bilendir
 **(138)** Allah’ın boyası (ile boyan) ve boyası Allah’tan daha güzeli kimdir ve biz ancak O’na kulluk ederiz
-**(139)** 
+**(139)** söyle (onlara) bizim de Rabbimiz sizin de Rabbiniz O iken Allah hakkında bizimle tartışıyor musunuz? bizim yaptıklarımız bizimdir sizin yaptıklarınız sizindir ve biz O’na gönülden bağlananlarız
 **(140)** 
 **(141)** 
 **(142)** 
