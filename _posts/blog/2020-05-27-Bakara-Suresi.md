@@ -147,11 +147,11 @@ tag:
 **(134)** elbette onlar bir ümmetti gelip geçti onların kazandıkları şeyler kendilerine sizin kazandıklarınız şeyler size aittir
 **(135)** ve Yahudi veya hıristiyan olun ki doğru yolu bulasınız dediler de ki bilakis hanif İbrahim’in milletine (dinine)(uyarız) O ortak koşanlardan değildi
 **(136)** Allah’a ve bize indirilen şeye ve İbrahim’e ve İsma’il’e ve Ya’kub’a ve torunlarına indirilen şeye ve Musa’ya ve Îsa’ya verilen şeye ve rablerinden peygamberlere verilen şeye inandık deyin onların hiçbiri arasında ayırım yapmayız ve biz O’na teslim olanlarız
-**(137)** ona sizin iman ettiğiniz gibi iman ederlerse eğer elbette doğru yolu bulmuş olurlar eğer dönerlerse mutlaka onlar anlaşmazlık içine (düşerler) onlara karşı Allah sana yeter ve O işitendir bilendir
+**(137)** ona sizin iman ettiğiniz gibi iman ederlerse eğer  elbette doğru yolu bulmuş olurlar eğer dönerlerse mutlaka onlar anlaşmazlık içine (düşerler) onlara karşı Allah sana yeter ve O işitendir bilendir
 **(138)** Allah’ın boyası (ile boyan) ve boyası Allah’tan daha güzeli kimdir ve biz ancak O’na kulluk ederiz
 **(139)** söyle (onlara) bizim de Rabbimiz sizin de Rabbiniz O iken Allah hakkında bizimle tartışıyor musunuz? bizim yaptıklarımız bizimdir sizin yaptıklarınız sizindir ve biz O’na gönülden bağlananlarız
-**(140)** 
-**(141)** 
+**(140)** İbrahim ve İsma’il ve İshak ve Ya’kub ve torunlarının yahudi yahut hıristiyan olduklarını yoksa şüphesiz söylüyor(mu)sunuz de ki siz mi daha iyi bilirsiniz yoksa Allah (mı) ve Allah tarafından yanında bulunan şahitliği gizleyen kimseden daha zalim kimdir ve Allah yaptıklarınızdan gafil değildir
+**(141)** İşte onlar bir ümmetti ki gelip geçti kazandıkları şeyler onlarındır ve sizin kazandıklarınız şeyler sizindir onların yapıyor oldukları şeylerden sorulmazsınız
 **(142)** 
 **(143)** 
 **(144)** 
