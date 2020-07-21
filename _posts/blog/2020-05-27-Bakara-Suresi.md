@@ -152,8 +152,8 @@ tag:
 **(139)** söyle (onlara) bizim de Rabbimiz sizin de Rabbiniz O iken Allah hakkında bizimle tartışıyor musunuz? bizim yaptıklarımız bizimdir sizin yaptıklarınız sizindir ve biz O’na gönülden bağlananlarız
 **(140)** İbrahim ve İsma’il ve İshak ve Ya’kub ve torunlarının yahudi yahut hıristiyan olduklarını yoksa şüphesiz söylüyor(mu)sunuz de ki siz mi daha iyi bilirsiniz yoksa Allah (mı) ve Allah tarafından yanında bulunan şahitliği gizleyen kimseden daha zalim kimdir ve Allah yaptıklarınızdan gafil değildir
 **(141)** İşte onlar bir ümmetti ki gelip geçti kazandıkları şeyler onlarındır ve sizin kazandıklarınız şeyler sizindir onların yapıyor oldukları şeylerden sorulmazsınız
-**(142)** 
-**(143)** 
+**(142)** insanlardan bazı beyinsizler diyecekler ki kıblelerinden onları çeviren nedir o ki üzerinde bulunurlar de ki doğu ve batı Allah’ındır doğru yola 	dilediğini (dileyeni), [dileyen] kimseyi O iletir
+**(143)** ve böylece insanlara şahit olmanız için ve rasulün (de) size şahit olması ökçesiiçin sizi vasat bir ümmet kıldık ve üzerinde olduğunuzu bir kıble yap(ma)dık sadece ökçesi üzerinde geriye dönen kimseden Elçi’ye uyan kimseyi bilmek için (yaptık) ve Allah’ın yol gösterdiği kimseye [hariç] elbette başkasına ağır gelir Allah sizin imanınızı zayi edecek değildir şüphesiz Allah insanlara şefkatlidir merhametlidir
 **(144)** 
 **(145)** 
 **(146)** 
