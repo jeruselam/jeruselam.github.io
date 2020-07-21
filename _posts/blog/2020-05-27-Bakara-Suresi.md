@@ -154,7 +154,7 @@ tag:
 **(141)** İşte onlar bir ümmetti ki gelip geçti kazandıkları şeyler onlarındır ve sizin kazandıklarınız şeyler sizindir onların yapıyor oldukları şeylerden sorulmazsınız
 **(142)** insanlardan bazı beyinsizler diyecekler ki kıblelerinden onları çeviren nedir o ki üzerinde bulunurlar de ki doğu ve batı Allah’ındır doğru yola 	dilediğini (dileyeni), [dileyen] kimseyi O iletir
 **(143)** ve böylece insanlara şahit olmanız için ve rasulün (de) size şahit olması ökçesiiçin sizi vasat bir ümmet kıldık ve üzerinde olduğunuzu bir kıble yap(ma)dık sadece ökçesi üzerinde geriye dönen kimseden Elçi’ye uyan kimseyi bilmek için (yaptık) ve Allah’ın yol gösterdiği kimseye [hariç] elbette başkasına ağır gelir Allah sizin imanınızı zayi edecek değildir şüphesiz Allah insanlara şefkatlidir merhametlidir
-**(144)** 
+**(144)** göğe doğru yüzünün çevrilip durduğunu elbette görüyoruz hoşlanacağın bir kıbleye elbette seni döndüreceğiz (Bundan böyle) Mescid-i Haram’a tarafına yüzünü çevir ve nerede olursanız o yöne yüzlerinizi çevirin şüphesiz kitap verilen kimseler bunun Rablerinden bir gerçek olduğunu elbette bilirler Allah onların yaptıklarından habersiz değildir
 **(145)** 
 **(146)** 
 **(147)** 
