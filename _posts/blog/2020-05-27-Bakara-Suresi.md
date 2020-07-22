@@ -156,8 +156,8 @@ tag:
 **(143)** ve böylece insanlara şahit olmanız için ve rasulün (de) size şahit olması ökçesiiçin sizi vasat bir ümmet kıldık ve üzerinde olduğunuzu bir kıble yap(ma)dık sadece ökçesi üzerinde geriye dönen kimseden Elçi’ye uyan kimseyi bilmek için (yaptık) ve Allah’ın yol gösterdiği kimseye [hariç] elbette başkasına ağır gelir Allah sizin imanınızı zayi edecek değildir şüphesiz Allah insanlara şefkatlidir merhametlidir
 **(144)** göğe doğru yüzünün çevrilip durduğunu elbette görüyoruz hoşlanacağın bir kıbleye elbette seni döndüreceğiz (Bundan böyle) Mescid-i Haram’a tarafına yüzünü çevir ve nerede olursanız o yöne yüzlerinizi çevirin şüphesiz kitap verilen kimseler bunun Rablerinden bir gerçek olduğunu elbette bilirler Allah onların yaptıklarından habersiz değildir
 **(145)** ve eğer sen her türlü ayeti Kitap verilen kimselere getirsen senin kıblene uyacak değildir ve onların kıblesine sen (de) uyacak değilsin ve onların bazısı diğerlerinin kıblesine uymazlar [uyacak] değildir ve ilimden  sana gelen şey(den) sonra eğer onların keyiflerine uyarsan şüphesiz sen o takdirde zalimlerden (olursun) 
-**(146)** 
-**(147)** 
+**(146)** kendilerine Kitap verdiğimiz kimseler oğullarını tanıdıkları gibi onu tanırlar ve (yine) elbette onlardan bir grup onlar gerçeği bildikleri (halde) gizlerler 
+**(147)** Gerçek Rabbindendir kuşkulananlardan artık olma
 **(148)** 
 **(149)** 
 **(150)** 
