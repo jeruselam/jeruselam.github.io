@@ -163,8 +163,8 @@ tag:
 **(150)** ve nereden çıkarsan (yola) Mescid-i Haram’a doğru yüzünü çevir ve nerede olursanız onlardan zalim olan kimselerden başkasının aleyhinizde hiç kimsenin bir delili olmasın diye	o yana yüzünüzü çevirin onlardan çekinmeyin benden çekinin ve size ni’metimi tamamlayayım umulur ki hidayete erersiniz
 **(151)** size ayetlerimizi okuyan ve sizi temizleyen ve Kitabı ve hikmeti size öğreten ve bilmiyor olduğunuz şeyleri size öğreten kendi içinizden sizden olan bir Elçi gönderdiğimiz gibi bana
 **(152)** Öyle ise beni anın ben de sizi anayım ve bana şükredin ve inkar etmeyin
-**(153)** 
-**(154)** 
+**(153)** ey inanan kimseler sabır ile ve namazla (Allah’tan) yardım isteyin muhakkak ki Allah sabredenlerle beraberdir
+**(154)** Allah yolunda öldürülen kimselere ölüdürler demeyin bilakis onlar diridirler ama siz farkında olmazsınız
 **(155)** 
 **(156)** 
 **(157)** 
