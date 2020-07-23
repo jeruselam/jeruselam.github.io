@@ -165,9 +165,9 @@ tag:
 **(152)** Öyle ise beni anın ben de sizi anayım ve bana şükredin ve inkar etmeyin
 **(153)** ey inanan kimseler sabır ile ve namazla (Allah’tan) yardım isteyin muhakkak ki Allah sabredenlerle beraberdir
 **(154)** Allah yolunda öldürülen kimselere ölüdürler demeyin bilakis onlar diridirler ama siz farkında olmazsınız
-**(155)** 
-**(156)** 
-**(157)** 
+**(155)** korku ve açlık ve mallarınızın ve ürünlerinizin ve canlarınızın noksanlığı (gibi) şeylerle andolsun sizi imtihan edeceğiz ve sabredenleri müjdele
+**(156)** onlar ki bir bela onlara eriştiği zaman şüphesiz biz Allah içiniz derler ve şüphesiz biz O’na döneceğiz
+**(157)** Rablerinden bağışlamalar ve rahmet İşte hep onlar içindir ve doğru yolu bulanlar işte onlardır
 **(158)** 
 **(159)** 
 **(160)** 
