@@ -168,7 +168,7 @@ tag:
 **(155)** korku ve açlık ve mallarınızın ve ürünlerinizin ve canlarınızın noksanlığı (gibi) şeylerle andolsun sizi imtihan edeceğiz ve sabredenleri müjdele
 **(156)** onlar ki bir bela onlara eriştiği zaman şüphesiz biz Allah içiniz derler ve şüphesiz biz O’na döneceğiz
 **(157)** Rablerinden bağışlamalar ve rahmet İşte hep onlar içindir ve doğru yolu bulanlar işte onlardır
-**(158)** 
+**(158)** şüphesiz Safa ve Merve Allah’ın nişanlarındandır Ev’i kim hacceder ya da ömre yaparsa onları tavaf etmesinde kendisine hiçbir günah yoktur ve kim kendiliğinden bir iyilik yaparsa şüphesiz Allah (yaptığını) bilir karşılığını verir 
 **(159)** 
 **(160)** 
 **(161)** 
