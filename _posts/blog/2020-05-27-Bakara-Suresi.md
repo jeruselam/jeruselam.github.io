@@ -157,12 +157,12 @@ tag:
 **(144)** göğe doğru yüzünün çevrilip durduğunu elbette görüyoruz hoşlanacağın bir kıbleye elbette seni döndüreceğiz (Bundan böyle) Mescid-i Haram’a tarafına yüzünü çevir ve nerede olursanız o yöne yüzlerinizi çevirin şüphesiz kitap verilen kimseler bunun Rablerinden bir gerçek olduğunu elbette bilirler Allah onların yaptıklarından habersiz değildir
 **(145)** ve eğer sen her türlü ayeti Kitap verilen kimselere getirsen senin kıblene uyacak değildir ve onların kıblesine sen (de) uyacak değilsin ve onların bazısı diğerlerinin kıblesine uymazlar [uyacak] değildir ve ilimden  sana gelen şey(den) sonra eğer onların keyiflerine uyarsan şüphesiz sen o takdirde zalimlerden (olursun) 
 **(146)** kendilerine Kitap verdiğimiz kimseler oğullarını tanıdıkları gibi onu tanırlar ve (yine) elbette onlardan bir grup onlar gerçeği bildikleri (halde) gizlerler 
-**(147)** Gerçek Rabbindendir kuşkulananlardan artık olma
-**(148)** 
-**(149)** 
-**(150)** 
-**(151)** 
-**(152)** 
+**(147)** [Hakk] Gerçek Rabbindendir kuşkulananlardan artık olma
+**(148)** o(nun) her (ümmetin) yöneldiği bir yönü vardır nerede olsanız hayır işlerine O halde koşun Allah sizi bir araya getirir kuşkusuz Allah her şey üzerine kadirdir
+**(149)** ve nereden çıkarsan (yola) Mescid-i Haram yüzünü çevir bu elbette Rabbinden bir gerçektir ve Allah yaptıklarınızdan habersiz değildir 
+**(150)** ve nereden çıkarsan (yola) Mescid-i Haram’a doğru yüzünü çevir ve nerede olursanız onlardan zalim olan kimselerden başkasının aleyhinizde hiç kimsenin bir delili olmasın diye	o yana yüzünüzü çevirin onlardan çekinmeyin benden çekinin ve size ni’metimi tamamlayayım umulur ki hidayete erersiniz
+**(151)** size ayetlerimizi okuyan ve sizi temizleyen ve Kitabı ve hikmeti size öğreten ve bilmiyor olduğunuz şeyleri size öğreten kendi içinizden sizden olan bir Elçi gönderdiğimiz gibi bana
+**(152)** Öyle ise beni anın ben de sizi anayım ve bana şükredin ve inkar etmeyin
 **(153)** 
 **(154)** 
 **(155)** 
