@@ -169,7 +169,7 @@ tag:
 **(156)** onlar ki bir bela onlara eriştiği zaman şüphesiz biz Allah içiniz derler ve şüphesiz biz O’na döneceğiz
 **(157)** Rablerinden bağışlamalar ve rahmet İşte hep onlar içindir ve doğru yolu bulanlar işte onlardır
 **(158)** şüphesiz Safa ve Merve Allah’ın nişanlarındandır Ev’i kim hacceder ya da ömre yaparsa onları tavaf etmesinde kendisine hiçbir günah yoktur ve kim kendiliğinden bir iyilik yaparsa şüphesiz Allah (yaptığını) bilir karşılığını verir 
-**(159)** 
+**(159)** Kitapta insanlara biz açıkça belirttikten [delillerle açıkladıktan] sonra doğrusu açık delillerden indirdiğimiz şeyleri ve hidayeti gizleyen kimseler işte onlara Allah la’net eder ve bütün la’net edebilenler la’net eder
 **(160)** 
 **(161)** 
 **(162)** 
