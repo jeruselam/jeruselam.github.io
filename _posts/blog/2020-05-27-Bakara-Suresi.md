@@ -177,7 +177,7 @@ tag:
 **(164)** şüphesiz göklerin ve yerin yaratılışında ve gece ve gündüzün değişmesinde ve insanların faydasına olan şeyleri denizde taşıyıp giden gemilerde, Allah’ın gökten su indirip öldükten sonra onunla yeri dirilterek her çeşitten canlıyı orada yaymasında ve rüzgarları ve yer ve gök arasında emre hazır bekleyen bulutları evirip çevirmesinde düşünen bir topluluk için elbette deliller vardır 
 **(165)** İnsanlardan kimi Allah’tan başka eşler tutar Allah’ı sever gibi onları severler inanan(lar); [imanlı] (kimseler) en çok Allah’ı severler, zulmedenler [zalim] (kimseler) keşke görselerdi, gerçekten azabı gördükleri zaman kuvvetin [tümü] bütünüyle Allah’a aittir ve gerçekten Allah’ın azabı şiddetlidir
 **(166)** işte uyan kimselerden uyulan kimseler uzak durdular azabı gördüler onların bağları kesildi
-**(167)** 
+**(167)** ve uyan kimseler şöyle dediler keşke bizim için (dünyaya) bir dönüş (mümkün olsaydı) bizden uzak durdukları gibi onlardan uzak dursaydık böylece Allah onlara bütün fiillerini hasretler (pişmanlık kaynağı olarak) onlara gösterir ve onlar ateşten çıkacak değildir
 **(168)** 
 **(169)** 
 **(170)** 
