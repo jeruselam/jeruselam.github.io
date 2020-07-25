@@ -171,7 +171,7 @@ tag:
 **(158)** şüphesiz Safa ve Merve Allah’ın nişanlarındandır Ev’i kim hacceder ya da ömre yaparsa onları tavaf etmesinde kendisine hiçbir günah yoktur ve kim kendiliğinden bir iyilik yaparsa şüphesiz Allah (yaptığını) bilir karşılığını verir 
 **(159)** Kitapta insanlara biz açıkça belirttikten [delillerle açıkladıktan] sonra doğrusu açık delillerden indirdiğimiz şeyleri ve hidayeti gizleyen kimseler işte onlara Allah la’net eder ve bütün la’net edebilenler la’net eder
 **(160)** tevbe edip [tevbeleri kabul olunan] (kimseler) [ve uygun davranan] uslananlar ve (gerçeği) [açık seçik] açıklayanlar ancak hariç işte onlar, onların tevbelerini kabul ederim çünkü ben tevbeyi çok kabul edenim çok esirgeyenim
-**(161)** doğrusu inkar edip te ölen kimseler ve onlar kafir olarak Allah’ın ve meleklerin ve tüm insanların la’neti işte onların üstünedir
+**(161)** doğrusu onlar inkar edip te ve kafir olarak ölen kimseler işte Allah’ın ve meleklerin ve tüm insanların la’neti onların üstünedir
 **(162)** 
 **(163)** 
 **(164)** 
