@@ -172,8 +172,8 @@ tag:
 **(159)** Kitapta insanlara biz açıkça belirttikten [delillerle açıkladıktan] sonra doğrusu açık delillerden indirdiğimiz şeyleri ve hidayeti gizleyen kimseler işte onlara Allah la’net eder ve bütün la’net edebilenler la’net eder
 **(160)** tevbe edip [tevbeleri kabul olunan] (kimseler) [ve uygun davranan] uslananlar ve (gerçeği) [açık seçik] açıklayanlar ancak hariç işte onlar, onların tevbelerini kabul ederim çünkü ben tevbeyi çok kabul edenim çok esirgeyenim
 **(161)** doğrusu onlar inkar edip te ve kafir olarak ölen kimseler işte Allah’ın ve meleklerin ve tüm insanların la’neti onların üstünedir
-**(162)** 
-**(163)** 
+**(162)** (la’net) içinde ebedi kalırlar onlardan azab hafifletilmez ve onlara gözetme yoktur 
+**(163)** [İlahınız] Tanrınız bir tek [ilah] Tanrı’dır O’ndan başka [ilah] tanrı yoktur Rahman’dır Rahim’dir
 **(164)** 
 **(165)** 
 **(166)** 
