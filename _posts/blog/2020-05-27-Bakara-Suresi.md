@@ -174,7 +174,7 @@ tag:
 **(161)** doğrusu onlar inkar edip te ve kafir olarak ölen kimseler işte Allah’ın ve meleklerin ve tüm insanların la’neti onların üstünedir
 **(162)** (la’net) içinde ebedi kalırlar onlardan azab hafifletilmez ve onlara gözetme yoktur 
 **(163)** [İlahınız] Tanrınız bir tek [ilah] Tanrı’dır O’ndan başka [ilah] tanrı yoktur Rahman’dır Rahim’dir
-**(164)** 
+**(164)** şüphesiz göklerin ve yerin yaratılışında ve gece ve gündüzün değişmesinde ve insanların faydasına olan şeyleri denizde taşıyıp giden gemilerde, Allah’ın gökten su indirip öldükten sonra onunla yeri dirilterek her çeşitten canlıyı orada yaymasında ve rüzgarları ve yer ve gök arasında emre hazır bekleyen bulutları evirip çevirmesinde düşünen bir topluluk için elbette deliller vardır 
 **(165)** 
 **(166)** 
 **(167)** 
