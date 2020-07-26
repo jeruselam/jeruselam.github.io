@@ -178,9 +178,9 @@ tag:
 **(165)** İnsanlardan kimi Allah’tan başka eşler tutar Allah’ı sever gibi onları severler inanan(lar); [imanlı] (kimseler) en çok Allah’ı severler, zulmedenler [zalim] (kimseler) keşke görselerdi, gerçekten azabı gördükleri zaman kuvvetin [tümü] bütünüyle Allah’a aittir ve gerçekten Allah’ın azabı şiddetlidir
 **(166)** işte uyan kimselerden uyulan kimseler uzak durdular azabı gördüler onların bağları kesildi
 **(167)** ve uyan kimseler şöyle dediler keşke bizim için (dünyaya) bir dönüş (mümkün olsaydı) bizden uzak durdukları gibi onlardan uzak dursaydık böylece Allah onlara bütün fiillerini hasretler (pişmanlık kaynağı olarak) onlara gösterir ve onlar ateşten çıkacak değildir
-**(168)** 
-**(169)** 
-**(170)** 
+**(168)** ey insanlar yeryüzünde bulunan temiz helal şeylerden yeyin ve şeytanın adımlarını izlemeyin çünkü o sizin apaçık düşmanınızdır
+**(169)** O size kötülük ve hayasızlığı ve Allah hakkında bilmediğiniz şeyleri söylemenizi daima emreder
+**(170)** onlara Allah’ın indirdiği şeye uyun dendiği zaman hayır bilakis biz atalarımızı üzerinde bulduğumuz şeye (yola) uyarız derler onların ataları bir şey düşünmeyen ve doğru yolu bulamayan olsalarda mı?
 **(171)** 
 **(172)** 
 **(173)** 
