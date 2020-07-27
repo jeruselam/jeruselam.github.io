@@ -181,9 +181,9 @@ tag:
 **(168)** ey insanlar yeryüzünde bulunan temiz helal şeylerden yeyin ve şeytanın adımlarını izlemeyin çünkü o sizin apaçık düşmanınızdır
 **(169)** O size kötülük ve hayasızlığı ve Allah hakkında bilmediğiniz şeyleri söylemenizi daima emreder
 **(170)** onlara Allah’ın indirdiği şeye uyun dendiği zaman hayır bilakis biz atalarımızı üzerinde bulduğumuz şeye (yola) uyarız derler onların ataları bir şey düşünmeyen ve doğru yolu bulamayan olsalarda mı?
-**(171)** 
-**(172)** 
-**(173)** 
+**(171)** inkar eden kimselerin durumu çağırmadan ve bağırtıdan başka bir şey işitmeyen şeylere(hayvanlara) haykıran kimsenin haline benzer sağırdırlar dilsizdirler kördürler onun için onlar düşünmezler
+**(172)** ey inananlar kimseler ne ki size rızık olarak verdik iyilerinden yeyin ve eğer yalnızca ona (ona) tapıyor iseniz Allah’a şükredin
+**(173)** şüphesiz size leş ve kan ve domuz etini ve Allah’tan başkası adına kesilen şeyleri haram kıldı ama kim mecbur kalırsa saldırmaksızın ve sınırı aşmaksızın ona günah yoktur muhakkak ki [Gafûr Rahîm] Allah çok bağışlayandır çok esirgeyendir
 **(174)** 
 **(175)** 
 **(176)** 
