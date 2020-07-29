@@ -186,8 +186,8 @@ tag:
 **(173)** şüphesiz size leş ve kan ve domuz etini ve Allah’tan başkası adına kesilen şeyleri haram kıldı ama kim mecbur kalırsa saldırmaksızın ve sınırı aşmaksızın ona günah yoktur muhakkak ki [Gafûr Rahîm] Allah çok bağışlayandır çok esirgeyendir
 **(174)** şüphesiz Kitaptan Allah’ın indirdiği bir şey gizleyen kimseler ve azıcık paraya onu satanlar işte onlar ateşten başka karınlarına bir şey yemezler Kıyamet günü Allah onlara konuşmayacak ve onları temizlemeyecektir ve acıklı bir azab onlar için vardır
 **(175)** onlar hidayet karşılığında sapıklığı ve mağfiret karşılığında azab satın alan kimselerdir ateşe karşı ne kadar [dayanıklı sabırlı] cesaretlidirler
-**(176)** işte böyle Allah gerçekten hak olarak Kitabı indirmiştir 
-**(177)** 
+**(176)** işte böyle Allah gerçekten hak olarak Kitabı indirmiştir ve elbette Kitapta ayrılığa düşen kimseler derin bir anlaşmazlık içindedirler
+**(177)** doğu ve batı tarafına yüzlerinizi çevirmeniz iyilik değildir fakat iyilik kişinin Allah’a ve ahiret gününe ve meleklere ve Kitaba ve peygamberlere inanmasıdır ve yakınlara ve yetimlere ve yoksullara ve yolda kalmışlara ve dilencilere ve kölelere sevdiği malını vermesidir ve namazı kılmasıdır ve zekatı vermesidir andlaşma yaptıkları zaman andlaşmalarını yerine getirmeleridir ve sıkıntıda ve hastalıkta ve savaş zamanında sabrederler işte onlar doğru olan kimselerdir ve işte onlar muttakiler onlardır
 **(178)** 
 **(179)** 
 **(180)** 
