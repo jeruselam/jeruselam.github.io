@@ -188,7 +188,7 @@ tag:
 **(175)** onlar hidayet karşılığında sapıklığı ve mağfiret karşılığında azab satın alan kimselerdir ateşe karşı ne kadar [dayanıklı sabırlı] cesaretlidirler
 **(176)** işte böyle Allah gerçekten hak olarak Kitabı indirmiştir ve elbette Kitapta ayrılığa düşen kimseler derin bir anlaşmazlık içindedirler
 **(177)** doğu ve batı tarafına yüzlerinizi çevirmeniz iyilik değildir fakat iyilik kişinin Allah’a ve ahiret gününe ve meleklere ve Kitaba ve peygamberlere inanmasıdır ve yakınlara ve yetimlere ve yoksullara ve yolda kalmışlara ve dilencilere ve kölelere sevdiği malını vermesidir ve namazı kılmasıdır ve zekatı vermesidir andlaşma yaptıkları zaman andlaşmalarını yerine getirmeleridir ve sıkıntıda ve hastalıkta ve savaş zamanında sabrederler işte onlar doğru olan kimselerdir ve işte onlar muttakiler onlardır
-**(178)** 
+**(178)** ey iman edenler kimseler hür ile hür köle ile köle kadın ile kadın kısas size farz kılındı kardeşi tarafından bir şey [için] kendisi affedilen kimse örfe artık uymalıdır ve güzelce ona (diyeti) ödemelidir Rabbiniz tarafından bu bir hafifletme ve rahmettir bundan sonra artk kim haddi aşarsa acıklı bir azab onun için vardır
 **(179)** 
 **(180)** 
 **(181)** 
