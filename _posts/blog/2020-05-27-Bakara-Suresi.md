@@ -189,9 +189,9 @@ tag:
 **(176)** işte böyle Allah gerçekten hak olarak Kitabı indirmiştir ve elbette Kitapta ayrılığa düşen kimseler derin bir anlaşmazlık içindedirler
 **(177)** doğu ve batı tarafına yüzlerinizi çevirmeniz iyilik değildir fakat iyilik kişinin Allah’a ve ahiret gününe ve meleklere ve Kitaba ve peygamberlere inanmasıdır ve yakınlara ve yetimlere ve yoksullara ve yolda kalmışlara ve dilencilere ve kölelere sevdiği malını vermesidir ve namazı kılmasıdır ve zekatı vermesidir andlaşma yaptıkları zaman andlaşmalarını yerine getirmeleridir ve sıkıntıda ve hastalıkta ve savaş zamanında sabrederler işte onlar doğru olan kimselerdir ve işte onlar muttakiler onlardır
 **(178)** ey iman edenler kimseler hür ile hür köle ile köle kadın ile kadın kısas size farz kılındı kardeşi tarafından bir şey [için] kendisi affedilen kimse örfe artık uymalıdır ve güzelce ona (diyeti) ödemelidir Rabbiniz tarafından bu bir hafifletme ve rahmettir bundan sonra artk kim haddi aşarsa acıklı bir azab onun için vardır
-**(179)** 
-**(180)** 
-**(181)** 
+**(179)** ve akıl sahipleri sizin için kısasta hayat vardır böylece korunursunuz
+**(180)** ölüm birinize geldiği zaman bir hayır (mal) bırakacaksa uygun bir biçimde anaya babaya ve yakınlara vasiyyet etmek size yazıldı (farz kılındı) muttakiler üzerine bir haktır (borçtur)
+**(181)** artık kim (vasiyyeti) işittikten sonra bir şey değiştirirse elbette günahı onu değiştiren kimselerin üzerinedir şüphesiz Allah işitendir bilendir
 **(182)** 
 **(183)** 
 **(184)** 
