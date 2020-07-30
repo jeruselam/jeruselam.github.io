@@ -192,7 +192,7 @@ tag:
 **(179)** ve akıl sahipleri sizin için kısasta hayat vardır böylece korunursunuz
 **(180)** ölüm birinize geldiği zaman bir hayır (mal) bırakacaksa uygun bir biçimde anaya babaya ve yakınlara vasiyyet etmek size yazıldı (farz kılındı) muttakiler üzerine bir haktır (borçtur)
 **(181)** artık kim (vasiyyeti) işittikten sonra bir şey değiştirirse elbette günahı onu değiştiren kimselerin üzerinedir şüphesiz Allah işitendir bilendir
-**(182)** 
+**(182)** her kim de vasiyyet edenden hata(sından) veya günah(ından) korkar da ve aralarını düzeltirse ona günah yoktur elbette Allah bağışlayandır esirgeyendir
 **(183)** 
 **(184)** 
 **(185)** 
