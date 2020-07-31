@@ -193,8 +193,8 @@ tag:
 **(180)** ölüm birinize geldiği zaman bir hayır (mal) bırakacaksa uygun bir biçimde anaya babaya ve yakınlara vasiyyet etmek size yazıldı (farz kılındı) muttakiler üzerine bir haktır (borçtur)
 **(181)** artık kim (vasiyyeti) işittikten sonra bir şey değiştirirse elbette günahı onu değiştiren kimselerin üzerinedir şüphesiz Allah işitendir bilendir
 **(182)** her kim de vasiyyet edenden hata(sından) veya günah(ından) korkar da ve aralarını düzeltirse ona günah yoktur elbette Allah bağışlayandır esirgeyendir
-**(183)** 
-**(184)** 
+**(183)** ey iman eden kimseler sizden önceki(ler) [önce gelen] kimseler üzerine yazıldığı gibi oruç sizin üzerinize de yazıldı umulur ki siz korunursunuz
+**(184)** sizden kim hasta veya seferde olursa sayılı günlerdir başka günlerde sayısınca tutar ve ona (güç) dayanan(lar) kimselerin bir yoksulu doyuracak fidye vermesi (lazımdır) artık kim gönülden bir iyilik yaparsa kendisi için o hayırlıdır ve eğer siz bilirseniz oruç tutmanız sizin için daha hayırlıdır 
 **(185)** 
 **(186)** 
 **(187)** 
