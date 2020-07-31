@@ -195,8 +195,8 @@ tag:
 **(182)** her kim de vasiyyet edenden hata(sından) veya günah(ından) korkar da ve aralarını düzeltirse ona günah yoktur elbette Allah bağışlayandır esirgeyendir
 **(183)** ey iman eden kimseler sizden önceki(ler) [önce gelen] kimseler üzerine yazıldığı gibi oruç sizin üzerinize de yazıldı umulur ki siz korunursunuz
 **(184)** sizden kim hasta veya seferde olursa sayılı günlerdir başka günlerde sayısınca tutar ve ona (güç) dayanan(lar) kimselerin bir yoksulu doyuracak fidye vermesi (lazımdır) artık kim gönülden bir iyilik yaparsa kendisi için o hayırlıdır ve eğer siz bilirseniz oruç tutmanız sizin için daha hayırlıdır 
-**(185)** 
-**(186)** 
+**(185)** ramazan ayı ki insanlara hidayet olarak ve doğruyu ve yanlışı ayırdetmeyi, hidayeti açıklayıcı Kur’an onda indirilmiştir o aya içinizden kim şahit olursa oruç tutsun kim hasta olur yahut sefer üzere olursa başka günlerde sayısınca tutsun Allah sizin için kolaylık ister sizin için güçlük istemez ve sayıyı tamamlamanızı (ister) ve size doğru yolu gösterdiğinden dolayı Allah’ı yüceltmenizi (ister) ve umulur ki siz şükredersiniz
+**(186)** ve ne zaman kullarım benden sana sorar(lar)sa şüphesiz ben (onlara) yakınım bana du’a ettiği zaman du’a edenin du’asına karşılık veririm O halde onlar da bana karşılık versinler bana inansınlar ki böylece onlar doğru yola erişirler
 **(187)** 
 **(188)** 
 **(189)** 
