@@ -199,9 +199,9 @@ tag:
 **(186)** ve ne zaman kullarım benden sana sorar(lar)sa şüphesiz ben (onlara) yakınım bana du’a ettiği zaman du’a edenin du’asına karşılık veririm O halde onlar da bana karşılık versinler bana inansınlar ki böylece onlar doğru yola erişirler
 **(187)** kadınlarınıza yaklaşmak oruç gecesi size helal kılındı onlar sizin elbisenizdir ve siz de onların elbisesisiniz kendinize yazık ediyorsunuz gerçekten siz olduğunuzu Allah bildi sizden tevbenizi kabul etti ve sizi affetti artık şimdi onlara yaklaşın ve Allah’ın sizin için yaz(ıp takdir etmiş ol)duğu şeyleri arayın ve yiyin ve şafağın [ağarmasında] siyah iplikten beyaz iplik sizce ayırdelinceye kadar için sonra orucu tamamlayın siz mescidlerde ibadete çekilmiş iken gece (oluncaya) dek (kadınlara) yaklaşmayın bunlar Allah’ın sınırlarıdır bunlara yaklaşmayın Allah ayetlerini işte böyle açıklar ki insanlara umulur ki korunup sakınırlar
 **(188)** batıl (sebepler) ile aranızda mallarınızı yemeyin ve günah bir biçimde ve siz bildiğiniz halde insanların mallarından bir kısmını yemeniz için onları hakimler(in önün)e atmayın
-**(189)** 
-**(190)** 
-**(191)** 
+**(189)** hilallerden sana soruyorlar de ki insanlar için onlar vakit ve hac ölçüleridir ve arkalarından evlere girmek iyilik değildir fakat iyilik kişinin takvasıdır ve kapılarından evlere girin ve Allah’tan sakının umulur ki kurtuluşa erersiniz
+**(190)** ve sizinle savaşan(lar); [öldürmek isteyen] kimselerle Allah yolunda savaşın aşırı gitmeyin şüphesiz aşırı gidenleri Allah sevmez
+**(191)** ve nerede yakalarsanız onları öldürün ve sizi çıkardıkları yer(Mekke)den onları çıkarın ve fitne adam öldürmekten daha kötüdür orada sizinle savaşıncaya kadar Mescid-i Haram yanında onlarla savaşmayın fakat eğer onlar sizinle savaşırlarsa hemen onları öldürün kafirlerin cezası böyledir
 **(192)** 
 **(193)** 
 **(194)** 
