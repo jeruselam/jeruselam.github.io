@@ -205,11 +205,11 @@ tag:
 **(192)** eğer (saldırılarına) son verirlerse gerçekten Allah bağışlayandır esirgeyendir
 **(193)** fitne kalmayıncaya kadar ve din Allah’ın oluncaya (kadar) onlarla savaşın eğer (saldırılarına) son verirlerse artık zalimlerden başkasına düşmanlık olmaz 
 **(194)** haram [öc] ayı haram aya karşılıktır ve hürmetler karşılıklıdır size kim saldırırsa size saldırdığı gibi ona siz de saldırın Allah’tan korkun bilin ki gerçekten Allah muttakilerle beraberdir
-**(195)** 
-**(196)** 
-**(197)** 
-**(198)** 
-**(199)** 
+**(195)** Allah yolunda infak edin kendi ellerinizle kendinizi tehlikeye atmayın ve iyilik edin doğrusu Allah iyilik edenleri sever
+**(196)** ve Allah için haccı ve ömreyi tamamlayın eğer engellenmiş olursanız kurbandan kolayınıza gelen şeyi (kesin) kurban yerine varıncaya kadar başlarınızı tıraş etmeyin içinizden hasta olan ya da başından bir rahatsızlığı bulunan kim (varsa) oruçtan veya sadakadan veya kurbandan fidye (versin), güvene kavuştuğunuz zaman hac (zamanın)a kadar ömre ile faydalanmak isteyen kimse kurbandan kolayına geleni şeyi (kessin) (kurban) bulamayan kimse hacda üç gün ve döndüğünüz zaman yedi gün oruç tutar böylece tamamı on (gündür) Mescid-i Haram’da hazır ailesi olmayanlar bu kimseler içindir Allah’tan sakının ve bilin ki gerçekten Allah’ın cezası şiddetlidir
+**(197)** Hac bilinen aylardadır haccı onda (o aylarda) kim farz ederse (kendisine) kadına yaklaşmak yoktur ve günaha sapmak yoktur hacda kavga etmek yoktur iyilikten yaptığınız ne varsa Allah onu bilir ve yanınıza azık alın şüphesiz azığın en hayırlısı takvadır ve akıl sahipleri benden sakının
+**(198)** Arafattan ayrılıp akın ettiğiniz zaman Rabbinizin lutfunu aramanızda sizin için bir günah yoktur Meş’ar-il Haram [hürmet edilen ala­met] yanında Allah’ı anın (hatırlayın) sizi hidayet ettiği gibi O’nu anın ve O’ndan önce siz sapıklardan idiniz
+**(199)** insanların akın ettiği yerden sonra siz de akın edin ve Allah’tan mağfiret dileyin şüphesiz Allah Gafurdur Rahimdir
 **(200)** 
 **(201)** 
 **(202)** 
