@@ -202,9 +202,9 @@ tag:
 **(189)** hilallerden sana soruyorlar de ki insanlar için onlar vakit ve hac ölçüleridir ve arkalarından evlere girmek iyilik değildir fakat iyilik kişinin takvasıdır ve kapılarından evlere girin ve Allah’tan sakının umulur ki kurtuluşa erersiniz
 **(190)** ve sizinle savaşan(lar); [öldürmek isteyen] kimselerle Allah yolunda savaşın aşırı gitmeyin şüphesiz aşırı gidenleri Allah sevmez
 **(191)** ve nerede yakalarsanız onları öldürün ve sizi çıkardıkları yer(Mekke)den onları çıkarın ve fitne adam öldürmekten daha kötüdür orada sizinle savaşıncaya kadar Mescid-i Haram yanında onlarla savaşmayın fakat eğer onlar sizinle savaşırlarsa hemen onları öldürün kafirlerin cezası böyledir
-**(192)** 
-**(193)** 
-**(194)** 
+**(192)** eğer (saldırılarına) son verirlerse gerçekten Allah bağışlayandır esirgeyendir
+**(193)** fitne kalmayıncaya kadar ve din Allah’ın oluncaya (kadar) onlarla savaşın eğer (saldırılarına) son verirlerse artık zalimlerden başkasına düşmanlık olmaz 
+**(194)** haram [öc] ayı haram aya karşılıktır ve hürmetler karşılıklıdır size kim saldırırsa size saldırdığı gibi ona siz de saldırın Allah’tan korkun bilin ki gerçekten Allah muttakilerle beraberdir
 **(195)** 
 **(196)** 
 **(197)** 
