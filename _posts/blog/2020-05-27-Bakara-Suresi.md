@@ -212,7 +212,7 @@ tag:
 **(199)** insanların akın ettiği yerden sonra siz de akın edin ve Allah’tan mağfiret dileyin şüphesiz Allah Gafurdur Rahimdir
 **(200)** ibadetlerinizi bitirince [bir şeyin icat, ıslah veya zuhuruna sebep olan] atalarınızı andığınız gibi veya daha kuvvetli bir anışla Allah’ı anın insanlardan kimi der ki Rabbimiz dünyada bize ver ve onun ahirette hiçbir nasibi yoktur 
 **(201)** ve onlardan kimi de derki Rabbimiz bize dünyada da güzellik ahirette de güzellik ver ve ateş azabından bizi koru
-**(202)** 
+**(202)** işte kazandıklarından onlara bir pay vardır Allah hesabı çabuk görendir
 **(203)** 
 **(204)** 
 **(205)** 
