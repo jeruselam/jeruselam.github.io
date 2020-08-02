@@ -210,7 +210,7 @@ tag:
 **(197)** Hac bilinen aylardadır haccı onda (o aylarda) kim farz ederse (kendisine) kadına yaklaşmak yoktur ve günaha sapmak yoktur hacda kavga etmek yoktur iyilikten yaptığınız ne varsa Allah onu bilir ve yanınıza azık alın şüphesiz azığın en hayırlısı takvadır ve akıl sahipleri benden sakının
 **(198)** Arafattan ayrılıp akın ettiğiniz zaman Rabbinizin lutfunu aramanızda sizin için bir günah yoktur Meş’ar-il Haram [hürmet edilen ala­met] yanında Allah’ı anın (hatırlayın) sizi hidayet ettiği gibi O’nu anın ve O’ndan önce siz sapıklardan idiniz
 **(199)** insanların akın ettiği yerden sonra siz de akın edin ve Allah’tan mağfiret dileyin şüphesiz Allah Gafurdur Rahimdir
-**(200)** 
+**(200)** ibadetlerinizi bitirince [bir şeyin icat, ıslah veya zuhuruna sebep olan] atalarınızı andığınız gibi veya daha kuvvetli bir anışla Allah’ı anın insanlardan kimi der ki Rabbimiz dünyada bize ver ve onun ahirette hiçbir nasibi yoktur 
 **(201)** 
 **(202)** 
 **(203)** 
