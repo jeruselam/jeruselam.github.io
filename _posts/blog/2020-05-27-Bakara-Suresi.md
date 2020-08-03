@@ -213,7 +213,7 @@ tag:
 **(200)** ibadetlerinizi bitirince [bir şeyin icat, ıslah veya zuhuruna sebep olan] atalarınızı andığınız gibi veya daha kuvvetli bir anışla Allah’ı anın insanlardan kimi der ki Rabbimiz dünyada bize ver ve onun ahirette hiçbir nasibi yoktur 
 **(201)** ve onlardan kimi de derki Rabbimiz bize dünyada da güzellik ahirette de güzellik ver ve ateş azabından bizi koru
 **(202)** işte kazandıklarından onlara bir pay vardır Allah hesabı çabuk görendir
-**(203)** 
+**(203)** ve sayılı günlerde Allah’ı anın, iki gün içinde kim [Mekke'ye] acele ederse ona günah yoktur ve kim geri kalırsa sakınan kimse için ona da günah yoktur Allah’tan korkun ve bilin ki şüphesiz siz O’nun huzuruna toplanacaksınız
 **(204)** 
 **(205)** 
 **(206)** 
