@@ -214,7 +214,7 @@ tag:
 **(201)** ve onlardan kimi de derki Rabbimiz bize dünyada da güzellik ahirette de güzellik ver ve ateş azabından bizi koru
 **(202)** işte kazandıklarından onlara bir pay vardır Allah hesabı çabuk görendir
 **(203)** ve sayılı günlerde Allah’ı anın, iki gün içinde kim [Mekke'ye] acele ederse ona günah yoktur ve kim geri kalırsa sakınan kimse için ona da günah yoktur Allah’tan korkun ve bilin ki şüphesiz siz O’nun huzuruna toplanacaksınız
-**(204)** 
+**(204)** dünya hayatına dair insanlardan kiminin sözü senin hoşuna gider ve kalbinde olana Allah’ı şahid tutar oysa o hasımların en azılısıdır
 **(205)** 
 **(206)** 
 **(207)** 
