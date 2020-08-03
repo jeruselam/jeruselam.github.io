@@ -216,7 +216,7 @@ tag:
 **(203)** ve sayılı günlerde Allah’ı anın, iki gün içinde kim [Mekke'ye] acele ederse ona günah yoktur ve kim geri kalırsa sakınan kimse için ona da günah yoktur Allah’tan korkun ve bilin ki şüphesiz siz O’nun huzuruna toplanacaksınız
 **(204)** dünya hayatına dair insanlardan kiminin sözü senin hoşuna gider ve kalbinde olana Allah’ı şahid tutar oysa o hasımların en azılısıdır
 **(205)** döndüğü zaman yeryüzünde bozgunculuğa ve orada ekin ve nesli yok etmeğe çalışır Allah bozgunculuğu sevmez
-**(206)** 
+**(206)** ve ona Allah’tan kork dendiği zaman gururu kendisini günaha sürükler cehennem artık ona yeter ve ne kötü bir yataktır o
 **(207)** 
 **(208)** 
 **(209)** 
