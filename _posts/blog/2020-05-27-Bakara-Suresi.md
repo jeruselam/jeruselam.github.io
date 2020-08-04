@@ -217,9 +217,9 @@ tag:
 **(204)** dünya hayatına dair insanlardan kiminin sözü senin hoşuna gider ve kalbinde olana Allah’ı şahid tutar oysa o hasımların en azılısıdır
 **(205)** döndüğü zaman yeryüzünde bozgunculuğa ve orada ekin ve nesli yok etmeğe çalışır Allah bozgunculuğu sevmez
 **(206)** ve ona Allah’tan kork dendiği zaman gururu kendisini günaha sürükler cehennem artık ona yeter ve ne kötü bir yataktır o
-**(207)** 
-**(208)** 
-**(209)** 
+**(207)** insanlardan öylesi var ki Allah’ın rızasını aramak için kendisini satar Allah da kullar(ın)a çok şefkatlidir
+**(208)** ey iman eden(ler) hepiniz birlikte islama (veya barışa) girin şeytanın adımlarını izlemeyin çünkü o size apaçık düşmandır
+**(209)** açık deliller size geldikten sonra eğer [yoldan] kayarsanız bilin ki şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
 **(210)** 
 **(211)** 
 **(212)** 
