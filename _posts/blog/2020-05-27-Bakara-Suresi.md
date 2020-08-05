@@ -223,7 +223,7 @@ tag:
 **(210)** buluttan gölgeler içinde Allah’ın ve meleklerin gelmesini ve işin bitirilmesini mi? gözlüyorlar (halbuki) bütün işler Allah’a döndürülür
 **(211)** İsrail oğullarına sor nice açık ayetlerden onlara verdik ve geldikten sonra kim Allah’ın ni’metini değiştirirse şüphesiz Allah’ın cezası çetindir
 **(212)** dünya hayatı inkar edenlere; [kafir] kimselere süslü gösterildi ve inanan(lar); [imanlı] kimselerle alay ederler ve takva sahipleri kimseler kıyamet gününde onlardan üstündürler Allah dilediği kimseye hesapsız rızık verir
-**(213)** 
+**(213)** insanlar bir tek ümmet idi sonra Allah peygamberleri müjdeciler ve uyarıcılar olarak gönderdi ve onda anlaşmazlığa düştükleri (konularda) insanlar arasında hükmetmek üzere hak olarak Kitabı onlarla beraber indirdi ve aralarındaki sırf kıskançlıktan ötürü açık deliller kendilerine geldikten sonra kendilerine (Kitap) verilmiş olanlar dışında o(Kitap hakkı)nda anlaşmazlığa düştü(ler) Allah bunun üzerine iman eden kimseleri kendisinde ayrılığa düştükleri gerçeğe kendi izniyle iletti Allah dilediği kimseyi doğru yola iletir
 **(214)** 
 **(215)** 
 **(216)** 
