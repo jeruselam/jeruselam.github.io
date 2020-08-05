@@ -220,8 +220,8 @@ tag:
 **(207)** insanlardan öylesi var ki Allah’ın rızasını aramak için kendisini satar Allah da kullar(ın)a çok şefkatlidir
 **(208)** ey iman eden(ler) hepiniz birlikte islama (veya barışa) girin şeytanın adımlarını izlemeyin çünkü o size apaçık düşmandır
 **(209)** açık deliller size geldikten sonra eğer [yoldan] kayarsanız bilin ki şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
-**(210)** 
-**(211)** 
+**(210)** buluttan gölgeler içinde Allah’ın ve meleklerin gelmesini ve işin bitirilmesini mi? gözlüyorlar (halbuki) bütün işler Allah’a döndürülür
+**(211)** İsrail oğullarına sor nice açık ayetlerden onlara verdik ve geldikten sonra kim Allah’ın ni’metini değiştirirse şüphesiz Allah’ın cezası çetindir
 **(212)** 
 **(213)** 
 **(214)** 
