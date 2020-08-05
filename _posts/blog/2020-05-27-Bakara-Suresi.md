@@ -222,7 +222,7 @@ tag:
 **(209)** açık deliller size geldikten sonra eğer [yoldan] kayarsanız bilin ki şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
 **(210)** buluttan gölgeler içinde Allah’ın ve meleklerin gelmesini ve işin bitirilmesini mi? gözlüyorlar (halbuki) bütün işler Allah’a döndürülür
 **(211)** İsrail oğullarına sor nice açık ayetlerden onlara verdik ve geldikten sonra kim Allah’ın ni’metini değiştirirse şüphesiz Allah’ın cezası çetindir
-**(212)** 
+**(212)** dünya hayatı inkar edenlere; [kafir] kimselere süslü gösterildi ve inanan(lar); [imanlı] kimselerle alay ederler ve takva sahipleri kimseler kıyamet gününde onlardan üstündürler Allah dilediği kimseye hesapsız rızık verir
 **(213)** 
 **(214)** 
 **(215)** 
