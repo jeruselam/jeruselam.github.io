@@ -228,7 +228,7 @@ tag:
 **(215)** (Allah yolunda) ne harcayacaklarını sana soruyorlar de ki hayırdan vereceğiniz şey ana-baba ve yakınlar ve öksüzler ve yoksullar ve yolda kalmış(lar) içindir ve hayırdan ne yaparsanız muhakkak Allah onunla birlikte bilir
 **(216)** savaş size yazıldı (farz kılındı) halbuki o sizin hoşunuza gitmez olur ki bazen hoşlanmadığınız o bir şey sizin için hayırlıdır ve olur ki hoşlandığınız bir şey (de) sizin için o kötüdür Allah bilir siz ise bilmezsiniz
 **(217)** haram ayında, onda savaşmaktan sana soruyorlar de ki O (aylar)da savaş büyük bir günahtır ve Allah yolundan alıkoymak ve O’nu inkar etmek ve Mescid-i Haram(dan), (Mekke’den) halkını ondan sürüp çıkarmak, Allah yanında daha büyük (bir günahtır) ve fitne öldürmekten daha büyük(bir günah)tır eğer güçleri yetse dininizden sizi döndürünceye kadar sizinle savaşmaktan vazgeçmezler ve dininden sizden kim döner ve o kafir olarak ölürse, işte onların bütün yaptıkları dünyada (da) ahirette (de) boşa çıkmıştır ve onlar ateş halkıdır ve onlar orada sürekli kalacaklardır
-**(218)** 
+**(218)** muhakkak iman edenler; [imanlı] kimseler ve hicret edenler; [göç eden] kimseler ve işte onlar Allah yolunda cihat edenler Allah’ın rahmetini umarlar Allah çok bağışlayan çok merhamet edendir
 **(219)** 
 **(220)** 
 **(221)** 
