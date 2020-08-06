@@ -224,10 +224,10 @@ tag:
 **(211)** İsrail oğullarına sor nice açık ayetlerden onlara verdik ve geldikten sonra kim Allah’ın ni’metini değiştirirse şüphesiz Allah’ın cezası çetindir
 **(212)** dünya hayatı inkar edenlere; [kafir] kimselere süslü gösterildi ve inanan(lar); [imanlı] kimselerle alay ederler ve takva sahipleri kimseler kıyamet gününde onlardan üstündürler Allah dilediği kimseye hesapsız rızık verir
 **(213)** insanlar bir tek ümmet idi sonra Allah peygamberleri müjdeciler ve uyarıcılar olarak gönderdi ve onda anlaşmazlığa düştükleri (konularda) insanlar arasında hükmetmek üzere hak olarak Kitabı onlarla beraber indirdi ve aralarındaki sırf kıskançlıktan ötürü açık deliller kendilerine geldikten sonra kendilerine verilmiş olanlar; (Kitap) dışında o(Kitap hakkı)nda anlaşmazlığa düştü(ler) bunun üzerine kendisinde ayrılığa düştükleri gerçeğe iman eden kimseleri Allah kendi izniyle iletti Allah dilediği kimseyi doğru yola iletir
-**(214)** 
-**(215)** 
-**(216)** 
-**(217)** 
+**(214)** ki yoksa sizden önce geçenlerin durumu başınıza gelmeden cennete gireceksiniz (mi) sandınız sıkıntı ve yoksulluk onlara dokunmuştu ve sarsılmışlardı ki nihayet peygamber ve onunla birlikte inanan kimseler Allah’ın yardımı ne zaman diyorlardı İyi bilin ki şüphesiz Allah’ın yardımı yakındır
+**(215)** (Allah yolunda) ne harcayacaklarını sana soruyorlar de ki hayırdan vereceğiniz şey ana-baba ve yakınlar ve öksüzler ve yoksullar ve yolda kalmış(lar) içindir ve hayırdan ne yaparsanız muhakkak Allah onunla birlikte bilir
+**(216)** savaş size yazıldı (farz kılındı) halbuki o sizin hoşunuza gitmez olur ki bazen hoşlanmadığınız o bir şey sizin için hayırlıdır ve olur ki hoşlandığınız bir şey (de) sizin için o kötüdür Allah bilir siz ise bilmezsiniz
+**(217)** haram ayında, onda savaşmaktan sana soruyorlar de ki O (aylar)da savaş büyük bir günahtır ve Allah yolundan alıkoymak ve O’nu inkar etmek ve Mescid-i Haram(dan), (Mekke’den) halkını ondan sürüp çıkarmak, Allah yanında daha büyük (bir günahtır) ve fitne öldürmekten daha büyük(bir günah)tır eğer güçleri yetse dininizden sizi döndürünceye kadar sizinle savaşmaktan vazgeçmezler ve dininden sizden kim döner ve o kafir olarak ölürse, işte onların bütün yaptıkları dünyada (da) ahirette (de) boşa çıkmıştır ve onlar ateş halkıdır ve onlar orada sürekli kalacaklardır
 **(218)** 
 **(219)** 
 **(220)** 
