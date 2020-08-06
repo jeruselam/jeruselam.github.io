@@ -229,7 +229,7 @@ tag:
 **(216)** savaş size yazıldı (farz kılındı) halbuki o sizin hoşunuza gitmez olur ki bazen hoşlanmadığınız o bir şey sizin için hayırlıdır ve olur ki hoşlandığınız bir şey (de) sizin için o kötüdür Allah bilir siz ise bilmezsiniz
 **(217)** haram ayında, onda savaşmaktan sana soruyorlar de ki O (aylar)da savaş büyük bir günahtır ve Allah yolundan alıkoymak ve O’nu inkar etmek ve Mescid-i Haram(dan), (Mekke’den) halkını ondan sürüp çıkarmak, Allah yanında daha büyük (bir günahtır) ve fitne öldürmekten daha büyük(bir günah)tır eğer güçleri yetse dininizden sizi döndürünceye kadar sizinle savaşmaktan vazgeçmezler ve dininden sizden kim döner ve o kafir olarak ölürse, işte onların bütün yaptıkları dünyada (da) ahirette (de) boşa çıkmıştır ve onlar ateş halkıdır ve onlar orada sürekli kalacaklardır
 **(218)** muhakkak iman edenler; [imanlı] kimseler ve hicret edenler; [göç eden] kimseler ve işte onlar Allah yolunda cihat edenler Allah’ın rahmetini umarlar Allah çok bağışlayan çok merhamet edendir
-**(219)** 
+**(219)** şaraptan ve kumardan sana soruyorlar de ki o ikisinde büyük günah ve insanlar için bazı yararlar vardır fakat onların günahı yararından daha büyüktür ve sana ne infak edeceklerini soruyorlar de ki (ihtiyaçlarınızdan fazlasını) Aff[edin] Allah size ayetleri böyle açıklıyor umulur ki düşünürsünüz
 **(220)** 
 **(221)** 
 **(222)** 
