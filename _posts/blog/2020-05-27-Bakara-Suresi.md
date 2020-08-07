@@ -233,8 +233,8 @@ tag:
 **(220)** dünya ve ahiret (hakkında) ve [babasız kalan yetim ve] öksüzlerden sana soruyarlar de ki onları(n durumlarını) ıslah etmek hayırlıdır ve eğer onlara karışırsanız sizin kardeşlerinizdir ıslah edenden, bozanı Allah bilir ve eğer Allah dileseydi sizi zora sokardı şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
 **(221)** inanıncaya kadar müşrik (Allah’a ortak koşan) kadınlarla evlenmeyin ortak koşan (hür) kadından inanan [mümine] bir cariye daha hayırlıdır ve eğer hoşunuza gitse bile iman edinceye kadar ortak koşan erkeklerle evlendirmeyin ve inanan [mümin] bir köle eğer hoşunuza gitse bile müşrik erkekten daha hayırlıdır (Zira) onlar ateşe çağırıyorlar Allah ise cennete ve izniyle mağfirete çağırıyor ve insanlara ayetlerini açıklar umulur ki düşünürler
 **(222)** ve adet görmeden sana soruyorlar de ki o eziyettir adet süresince kadınlardan çekilin temizleninceye kadar onlara yaklaşmayın temizlendikleri zaman Allah’ın size emrettiği yerden onlara varın şüphesiz Allah tevbe edenleri sever ve temizlenenleri sever
-**(223)** 
-**(224)** 
+**(223)** kadınlarınız sizin için bir tarladır dilediğiniz biçimde tarlanıza varın ve kendiniz için hazırlık yapın ve Allah’tan sakının ve bilin ki şüphesiz siz O’na kavuşacaksınız ve İnananları müjdele
+**(224)** ve insanların arasını düzetmeye ve sakınmanıza ve iyilik etmenize, yeminlerinize Allah’ı engel kılmayın Allah işitendir bilendir
 **(225)** 
 **(226)** 
 **(227)** 
