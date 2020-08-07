@@ -230,8 +230,8 @@ tag:
 **(217)** haram ayında, onda savaşmaktan sana soruyorlar de ki O (aylar)da savaş büyük bir günahtır ve Allah yolundan alıkoymak ve O’nu inkar etmek ve Mescid-i Haram(dan), (Mekke’den) halkını ondan sürüp çıkarmak, Allah yanında daha büyük (bir günahtır) ve fitne öldürmekten daha büyük(bir günah)tır eğer güçleri yetse dininizden sizi döndürünceye kadar sizinle savaşmaktan vazgeçmezler ve dininden sizden kim döner ve o kafir olarak ölürse, işte onların bütün yaptıkları dünyada (da) ahirette (de) boşa çıkmıştır ve onlar ateş halkıdır ve onlar orada sürekli kalacaklardır
 **(218)** muhakkak iman edenler; [imanlı] kimseler ve hicret edenler; [göç eden] kimseler ve işte onlar Allah yolunda cihat edenler Allah’ın rahmetini umarlar Allah çok bağışlayan çok merhamet edendir
 **(219)** şaraptan ve kumardan sana soruyorlar de ki o ikisinde büyük günah ve insanlar için bazı yararlar vardır fakat onların günahı yararından daha büyüktür ve sana ne infak edeceklerini soruyorlar de ki (ihtiyaçlarınızdan fazlasını) Aff[edin] Allah size ayetleri böyle açıklıyor umulur ki düşünürsünüz
-**(220)** 
-**(221)** 
+**(220)** dünya ve ahiret (hakkında) ve [babasız kalan yetim ve] öksüzlerden sana soruyarlar de ki onları(n durumlarını) ıslah etmek hayırlıdır ve eğer onlara karışırsanız sizin kardeşlerinizdir ıslah edenden, bozanı Allah bilir ve eğer Allah dileseydi sizi zora sokardı şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
+**(221)** inanıncaya kadar müşrik (Allah’a ortak koşan) kadınlarla evlenmeyin ortak koşan (hür) kadından inanan [mümine] bir cariye daha hayırlıdır ve eğer hoşunuza gitse bile iman edinceye kadar ortak koşan erkeklerle evlendirmeyin ve inanan [mümin] bir köle eğer hoşunuza gitse bile müşrik erkekten daha hayırlıdır (Zira) onlar ateşe çağırıyorlar Allah ise cennete ve izniyle mağfirete çağırıyor ve insanlara ayetlerini açıklar umulur ki düşünürler
 **(222)** 
 **(223)** 
 **(224)** 
