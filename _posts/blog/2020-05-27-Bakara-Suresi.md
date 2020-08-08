@@ -237,7 +237,7 @@ tag:
 **(224)** ve insanların arasını düzetmeye ve sakınmanıza ve iyilik etmenize, yeminlerinize Allah’ı engel kılmayın Allah işitendir bilendir
 **(225)** kasıtsız yeminlerinizden dolayı Allah sizi sorumlu tutmaz fakat kalblerinizin kazandığından dolayı sorumlu tutar [Ğafūrun Halīm] Allah halimdir bağışlayandır
 **(226)** kadınlarına yaklaşmamağa yemin edenler; [nimetten geri duran] kimseler için dört ay bekleme (hakkı) vardır eğer (o süre içinde) dönerlerse şüphesiz [Ğafūrun Rahīm] Allah bağışlayan merhamet edendir
-**(227)** 
+**(227)** boşamaya eğer kesin karar verirlerse şüphesiz Allah işitendir bilendir
 **(228)** 
 **(229)** 
 **(230)** 
