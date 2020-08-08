@@ -232,13 +232,13 @@ tag:
 **(219)** şaraptan ve kumardan sana soruyorlar de ki o ikisinde büyük günah ve insanlar için bazı yararlar vardır fakat onların günahı yararından daha büyüktür ve sana ne infak edeceklerini soruyorlar de ki (ihtiyaçlarınızdan fazlasını) Aff[edin] Allah size ayetleri böyle açıklıyor umulur ki düşünürsünüz
 **(220)** dünya ve ahiret (hakkında) ve [babasız kalan yetim ve] öksüzlerden sana soruyarlar de ki onları(n durumlarını) ıslah etmek hayırlıdır ve eğer onlara karışırsanız sizin kardeşlerinizdir ıslah edenden, bozanı Allah bilir ve eğer Allah dileseydi sizi zora sokardı şüphesiz Allah daima üstündür hüküm ve hikmet sahibidir
 **(221)** inanıncaya kadar müşrik (Allah’a ortak koşan) kadınlarla evlenmeyin ortak koşan (hür) kadından inanan [mümine] bir cariye daha hayırlıdır ve eğer hoşunuza gitse bile iman edinceye kadar ortak koşan erkeklerle evlendirmeyin ve inanan [mümin] bir köle eğer hoşunuza gitse bile müşrik erkekten daha hayırlıdır (Zira) onlar ateşe çağırıyorlar Allah ise cennete ve izniyle mağfirete çağırıyor ve insanlara ayetlerini açıklar umulur ki düşünürler
-**(222)** ve adet görmeden sana soruyorlar de ki o eziyettir adet süresince kadınlardan çekilin temizleninceye kadar onlara yaklaşmayın temizlendikleri zaman Allah’ın size emrettiği yerden onlara varın şüphesiz Allah tevbe edenleri sever ve temizlenenleri sever
+**(222)** ve âdet görmeden sana soruyorlar de ki o eziyettir âdet süresince kadınlardan çekilin temizleninceye kadar onlara yaklaşmayın temizlendikleri zaman Allah’ın size emrettiği yerden onlara varın şüphesiz Allah tevbe edenleri sever ve temizlenenleri sever
 **(223)** kadınlarınız sizin için bir tarladır dilediğiniz biçimde tarlanıza varın ve kendiniz için hazırlık yapın ve Allah’tan sakının ve bilin ki şüphesiz siz O’na kavuşacaksınız ve İnananları müjdele
 **(224)** ve insanların arasını düzetmeye ve sakınmanıza ve iyilik etmenize, yeminlerinize Allah’ı engel kılmayın Allah işitendir bilendir
 **(225)** kasıtsız yeminlerinizden dolayı Allah sizi sorumlu tutmaz fakat kalblerinizin kazandığından dolayı sorumlu tutar [Ğafūrun Halīm] Allah halimdir bağışlayandır
 **(226)** kadınlarına yaklaşmamağa yemin edenler; [nimetten geri duran] kimseler için dört ay bekleme (hakkı) vardır eğer (o süre içinde) dönerlerse şüphesiz [Ğafūrun Rahīm] Allah bağışlayan merhamet edendir
 **(227)** boşamaya eğer kesin karar verirlerse şüphesiz Allah işitendir bilendir
-**(228)** 
+**(228)** boşanmış kadınlar kendilerini üç kur’ (üç âdet veya üç temizlik süresi) kendi rahimlerinde Allah’ın yarattığını gizlemeleri kendilerine helal olmaz eğer Allah’a ve ahiret gününe inanıyor idiyseler onları geri almağa kocaları hak sahibidirler bu arada eğer barışmak isterlerse (erkeklerin) kendileri üzerindeki gibi (kadınların) (örfe uygun) hakları vardır erkeklerin (hakları) onlar (kadınlar) üzerinde bir derece fazladır Allah azizdir hakimdir
 **(229)** 
 **(230)** 
 **(231)** 
