@@ -238,7 +238,7 @@ tag:
 **(225)** kasıtsız yeminlerinizden dolayı Allah sizi sorumlu tutmaz fakat kalblerinizin kazandığından dolayı sorumlu tutar [Ğafūrun Halīm] Allah halimdir bağışlayandır
 **(226)** kadınlarına yaklaşmamağa yemin edenler; [nimetten geri duran] kimseler için dört ay bekleme (hakkı) vardır eğer (o süre içinde) dönerlerse şüphesiz [Ğafūrun Rahīm] Allah bağışlayan merhamet edendir
 **(227)** boşamaya eğer kesin karar verirlerse şüphesiz Allah işitendir bilendir
-**(228)** boşanmış kadınlar kendilerini üç kur’ (üç âdet veya üç temizlik süresi) kendi rahimlerinde Allah’ın yarattığını gizlemeleri kendilerine helal olmaz eğer Allah’a ve ahiret gününe inanıyor idiyseler onları geri almağa kocaları hak sahibidirler bu arada eğer barışmak isterlerse (erkeklerin) kendileri üzerindeki gibi (kadınların) (örfe uygun) hakları vardır erkeklerin (hakları) onlar (kadınlar) üzerinde bir derece fazladır Allah azizdir hakimdir
+**(228)** boşanmış kadınlar kendilerini üç kur’ (üç âdet veya üç temizlik süresi) gözetlerler kendi rahimlerinde Allah’ın yarattığını gizlemeleri kendilerine helal olmaz eğer Allah’a ve ahiret gününe inanıyor idiyseler onları geri almağa kocaları hak sahibidirler bu arada eğer barışmak isterlerse (erkeklerin) kendileri üzerindeki gibi (kadınların) (örfe uygun) hakları vardır erkeklerin (hakları) (kadınlar) onlar üzerinde bir derece fazladır Allah azizdir hakimdir
 **(229)** 
 **(230)** 
 **(231)** 
