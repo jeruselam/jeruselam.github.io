@@ -235,8 +235,8 @@ tag:
 **(222)** ve adet görmeden sana soruyorlar de ki o eziyettir adet süresince kadınlardan çekilin temizleninceye kadar onlara yaklaşmayın temizlendikleri zaman Allah’ın size emrettiği yerden onlara varın şüphesiz Allah tevbe edenleri sever ve temizlenenleri sever
 **(223)** kadınlarınız sizin için bir tarladır dilediğiniz biçimde tarlanıza varın ve kendiniz için hazırlık yapın ve Allah’tan sakının ve bilin ki şüphesiz siz O’na kavuşacaksınız ve İnananları müjdele
 **(224)** ve insanların arasını düzetmeye ve sakınmanıza ve iyilik etmenize, yeminlerinize Allah’ı engel kılmayın Allah işitendir bilendir
-**(225)** 
-**(226)** 
+**(225)** kasıtsız yeminlerinizden dolayı Allah sizi sorumlu tutmaz fakat kalblerinizin kazandığından dolayı sorumlu tutar [Ğafūrun Halīm] Allah halimdir bağışlayandır
+**(226)** kadınlarına yaklaşmamağa yemin edenler; [nimetten geri duran] kimseler için dört ay bekleme (hakkı) vardır eğer (o süre içinde) dönerlerse şüphesiz [Ğafūrun Rahīm] Allah bağışlayan merhamet edendir
 **(227)** 
 **(228)** 
 **(229)** 
