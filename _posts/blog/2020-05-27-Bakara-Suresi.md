@@ -240,7 +240,7 @@ tag:
 **(227)** boşamaya eğer kesin karar verirlerse şüphesiz Allah işitendir bilendir
 **(228)** boşanmış kadınlar kendilerini üç kur’ (üç âdet veya üç temizlik süresi) gözetlerler kendi rahimlerinde Allah’ın yarattığını gizlemeleri kendilerine helal olmaz eğer Allah’a ve ahiret gününe inanıyor idiyseler onları geri almağa kocaları hak sahibidirler bu arada eğer barışmak isterlerse (erkeklerin) kendileri üzerindeki gibi (kadınların) (örfe uygun) hakları vardır erkeklerin (hakları) (kadınlar) onlar üzerinde bir derece fazladır Allah azizdir hakimdir
 **(229)** boşama iki defadır iyilikle ya tutmak ya da güzelce salıvermek (lazım)dır onlara verdiğiniz başka şeylerden bir şey geri almanız size helal değildir Allah’ın sınırlarını koruyamamaktan eğer korkarlarsa Allah’ın sınırlarını koruyamamaktan eğer korkarsanız (kadının ayrılmak için verdiği) fidye hakkında ikisine de bir günah yoktur işte bunlar Allah’ın sınırlarıdır sakın bunları aşmayın ve Allah’ın sınırlarını kim(ler) aşarsa işte onlar zalimlerdir
-**(230)** 
+**(230)** eğer (erkek) yine boşarsa başka bir kocaya (kadın) nikahlanıncaya kadar artık bundan sonra ona helal olmaz eğer O (vardığı adam) da boşarsa tekrar birbirlerine dönmelerinde kendilerine bir günah yoktur Allah’ın sınırlarını koruyacaklarına eğer inanırlarsa işte bunlar Allah’ın sınırlarıdır bilen bir toplum için açıklamaktadır
 **(231)** 
 **(232)** 
 **(233)** 
