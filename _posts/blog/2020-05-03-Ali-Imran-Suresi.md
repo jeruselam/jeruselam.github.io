@@ -37,7 +37,7 @@ tag:
 **(23)** Kitaptan bir (nasip) pay verilmiş olan kimseleri görmedin mi? aralarında hüküm versin diye	Allah’ın Kitabına çağırılıyorlar da sonra onlardan bir topluluk dönüyorlar ve onlar yüz çeviriyorlar
 **(24)** onların bu (hareketleri) sayılı birkaç günden başka ateş bize dokunmayacak demelerindendir ve uyduruyor oldukları şeyler dinlerinde onları yanıltmıştır
 **(25)** onların asla zulme uğratılmadığı ve her insanın kazandığı tastamam verilip ve kendisinde hiç şüphe olmayan bir gün için topladığımız zaman peki nasıl (olacak)? 
-**(26)** de ki Allah’ım mülkün sahibisin dilediğin kimseye mülkü sen verirsin ve dilediğin kimseden mülkü alırsın ve dilediğin kimseyi yükseltirsin ve dilediğini kimseyi alçaltırsın hayır (mal, iyilik) senin elindedir şüphesiz sen her şeye kadirsin
+**(26)** de ki Allah’ım mülkün sahibisin dilediğin kimseye mülkü sen verirsin ve dilediğin kimseden mülkü [çekip] alırsın ve dilediğin kimseyi [galib aziz eder] yükseltirsin ve dilediğini kimseyi [rezil zelil eder] alçaltırsın hayır (mal, iyilik) senin elindedir şüphesiz sen her şeye kadirsin
 **(27)** geceyi gündüze sokarsın ve gündüzü geceye sokarsın ve ölüden diriyi çıkarırsın ve diriden ölüyü çıkarırsın ve hesap olmaksızın dilediğin kimseyi rızıklandırırsın
 **(28)** Mü’minler inananları bırakıp kafirleri dost edinmesin ve kim böyle yaparsa Allah ile bir şey (değildir) (dostluğu) kalmaz ancak onlardan (gelebilecek) tehlikeden korunmanız başka ve Allah kendisin(in emirlerine karşı gelmek)den sizi sakındırır ve dönüş Allah’adır
 **(29)** de ki eğer göğüslerinizde olanı gizleseniz veya açığa vursanız onu Allah onu bilir ve göklerde olanı ve yerde olanı bilir Allah her şeye kadirdir

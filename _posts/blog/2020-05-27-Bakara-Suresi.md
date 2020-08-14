@@ -241,8 +241,8 @@ tag:
 **(228)** boşanmış kadınlar kendilerini üç kur’ (üç âdet veya üç temizlik süresi) gözetlerler kendi rahimlerinde Allah’ın yarattığını gizlemeleri kendilerine helal olmaz eğer Allah’a ve ahiret gününe inanıyor idiyseler onları geri almağa kocaları hak sahibidirler bu arada eğer barışmak isterlerse (erkeklerin) kendileri üzerindeki gibi (kadınların) (örfe uygun) hakları vardır erkeklerin (hakları) (kadınlar) onlar üzerinde bir derece fazladır Allah azizdir hakimdir
 **(229)** boşama iki defadır iyilikle ya tutmak ya da güzelce salıvermek (lazım)dır onlara verdiğiniz başka şeylerden bir şey geri almanız size helal değildir Allah’ın sınırlarını koruyamamaktan eğer korkarlarsa Allah’ın sınırlarını koruyamamaktan eğer korkarsanız (kadının ayrılmak için verdiği) fidye hakkında ikisine de bir günah yoktur işte bunlar Allah’ın sınırlarıdır sakın bunları aşmayın ve Allah’ın sınırlarını kim(ler) aşarsa işte onlar zalimlerdir
 **(230)** eğer (erkek) yine boşarsa başka bir kocaya (kadın) nikahlanıncaya kadar artık bundan sonra ona helal olmaz eğer O (vardığı adam) da boşarsa tekrar birbirlerine dönmelerinde kendilerine bir günah yoktur Allah’ın sınırlarını koruyacaklarına eğer inanırlarsa işte bunlar Allah’ın sınırlarıdır bilen bir toplum için açıklamaktadır
-**(231)** 
-**(232)** 
+**(231)** kadınları boşadığınız zaman (iddetlerinin) sonuna ulaştıklarında ya onları iyilikle tutun ya da iyilikle bırakın haklarına tecavüz edip zarar vermek için onları (yanınızda) tutmayın kim bunu yaparsa muhakkak kendine zulmetmiştir Allah’ın ayetlerini eğlence edinmeyin onunla size öğüt vermek için Kitaptan ve Hikmet(ten) size indirdiklerini Allah’ın size olan ni’metini düşünün ve Allah’tan korkun ve bilin ki şüphesiz Allah her şeyi bilir
+**(232)** ve (iddetlerinin) sonuna ulaştıklarında kadınları boşadığınız zaman kendi aralarında güzelce anlaştıkları takdirde (eski) kocalarıyla evlenmelerine engel olmayın Allah’a ve ahiret gününe içinizden inanan [imanlı] olan kimseye bu onunla verilen bir öğüttür sizin için bu daha iyi ve daha temizdir Allah bilir ve siz bilmezsiniz
 **(233)** 
 **(234)** 
 **(235)** 
