@@ -243,8 +243,8 @@ tag:
 **(230)** eğer (erkek) yine boşarsa başka bir kocaya (kadın) nikahlanıncaya kadar artık bundan sonra ona helal olmaz eğer O (vardığı adam) da boşarsa tekrar birbirlerine dönmelerinde kendilerine bir günah yoktur Allah’ın sınırlarını koruyacaklarına eğer inanırlarsa işte bunlar Allah’ın sınırlarıdır bilen bir toplum için açıklamaktadır
 **(231)** kadınları boşadığınız zaman (iddetlerinin) sonuna ulaştıklarında ya onları iyilikle tutun ya da iyilikle bırakın haklarına tecavüz edip zarar vermek için onları (yanınızda) tutmayın kim bunu yaparsa muhakkak kendine zulmetmiştir Allah’ın ayetlerini eğlence edinmeyin onunla size öğüt vermek için Kitaptan ve Hikmet(ten) size indirdiklerini Allah’ın size olan ni’metini düşünün ve Allah’tan korkun ve bilin ki şüphesiz Allah her şeyi bilir
 **(232)** ve kadınları boşadığınız zaman (iddetlerinin) sonuna ulaştıklarında kendi aralarında güzelce anlaştıkları takdirde (eski) kocalarıyla evlenmelerine engel olmayın Allah’a ve ahiret gününe içinizden inanan [imanlı] olan bu kimseye onunla verilen bir öğüttür sizin için bu daha iyi ve daha temizdir Allah bilir ve siz bilmezsiniz
-**(233)** 
-**(234)** 
+**(233)** ve emzirmeyi tamamlamak isteyen kimse için anneler tam iki yıl çocuklarını emzirirler uygun biçimde onların yiyecekleri ve giyecekleri (çocuk kendisine ait olan) babanın üzerinedir gücünün yettiğinden başka hiç kimse yükümlü tutulmaz çocuğu yüzünden (ne) anne ve (ne de) (çocuğun aidolduğu) baba zarara sokulmasın ve bunun üzerinde mirasçının aynı (yükümlülük var)dır kendi aralarında rızalarıyla ve danışarak eğer sütten kesmek isterlerse kendilerine günah yoktur çocuklarınızı (sütannesi tutup) emzirtmek eğer isterseniz güzelce verdiğiniz şeyi (ücreti) verdikten sonra yine üzerinize bir günah yoktur ve Allah’tan korkun ve bilin ki şüphesiz Allah yaptığınız her şeyi görmektedir
+**(234)** içinizden ölen(ler); [vefat eden] kimselerin geriye bıraktıkları eşleri kendilerini dört ay ve on (gün) (bekleyip) gözetlerler sürelerini bitirdiği zaman kendileri için uygun olanı yapmalarında size bir günah yoktur Allah yaptıklarınızdan haberdardır
 **(235)** 
 **(236)** 
 **(237)** 
