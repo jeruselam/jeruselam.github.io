@@ -247,7 +247,7 @@ tag:
 **(234)** içinizden ölen(ler); [vefat eden] kimselerin geriye bıraktıkları eşleri kendilerini dört ay ve on (gün) (bekleyip) gözetlerler sürelerini bitirdiği zaman kendileri için uygun olanı yapmalarında size bir günah yoktur Allah yaptıklarınızdan haberdardır
 **(235)** kadınlara evlenme isteğinizi ona üstü kapalı biçimde bildirmenizden yahut içinizde gizlemenizden size bir günah yoktur şüphesiz sizin onları anacağınızı Allah bilir fakat iyi (meşru) bir söz söylemeniz dışında sakın onlarla gizli(buluşma)ya sözleşmeyin ve yazılanın (iddetinin) sonuna ulaşıncaya kadar nikah akdine (kıymaya) kalkışmayın ve bilin ki şüphesiz Allah içinizden geçen şeyi bilir O’ndan sakının ve yine bilin ki şüphesiz [Ğafur Halim] Allah bağışlayandır halimdir
 **(236)** henüz dokunmadan ya da onlara mehir(lerini) belirlemeden kadınları boşarsınız eğer size bir günah yoktur ve eli geniş olan kendi gücü nisbetinde eli dar olan da kendi gücü nisbetinde güzel bir geçimlikle onları faydalandırsın iyilik edenlerin üzerine bu bir borçtur
-**(237)** 
+**(237)** ve onlar için (bir mehir) tesbit ettiğiniz takdirde henüz dokunmadan önce eğer onları boşarsanız tesbit ettiğiniz şeyin (mehrin) yarısını (kadının) vazgeçmesi veya nikah akdi elinde olan kimsenin (erkeğin) vazgeçmesi hariç vermeniz gerekir (erkekler) sizin affetmeniz takvaya daha yakındır birbirinize iyilik etmeyi unutmayın Allah yaptıklarınız şeyleri şüphesiz görür 
 **(238)** 
 **(239)** 
 **(240)** 
