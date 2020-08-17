@@ -246,7 +246,7 @@ tag:
 **(233)** ve emzirmeyi tamamlamak isteyen kimse için anneler tam iki yıl çocuklarını emzirirler uygun biçimde onların yiyecekleri ve giyecekleri (çocuk kendisine ait olan) babanın üzerinedir gücünün yettiğinden başka hiç kimse yükümlü tutulmaz çocuğu yüzünden (ne) anne ve (ne de) (çocuğun aidolduğu) baba zarara sokulmasın ve bunun üzerinde mirasçının aynı (yükümlülük var)dır kendi aralarında rızalarıyla ve danışarak eğer sütten kesmek isterlerse kendilerine günah yoktur çocuklarınızı (sütannesi tutup) emzirtmek eğer isterseniz güzelce verdiğiniz şeyi (ücreti) verdikten sonra yine üzerinize bir günah yoktur ve Allah’tan korkun ve bilin ki şüphesiz Allah yaptığınız her şeyi görmektedir
 **(234)** içinizden ölen(ler); [vefat eden] kimselerin geriye bıraktıkları eşleri kendilerini dört ay ve on (gün) (bekleyip) gözetlerler sürelerini bitirdiği zaman kendileri için uygun olanı yapmalarında size bir günah yoktur Allah yaptıklarınızdan haberdardır
 **(235)** kadınlara evlenme isteğinizi ona üstü kapalı biçimde bildirmenizden yahut içinizde gizlemenizden size bir günah yoktur şüphesiz sizin onları anacağınızı Allah bilir fakat iyi (meşru) bir söz söylemeniz dışında sakın onlarla gizli(buluşma)ya sözleşmeyin ve yazılanın (iddetinin) sonuna ulaşıncaya kadar nikah akdine (kıymaya) kalkışmayın ve bilin ki şüphesiz Allah içinizden geçen şeyi bilir O’ndan sakının ve yine bilin ki şüphesiz [Ğafur Halim] Allah bağışlayandır halimdir
-**(236)** 
+**(236)** henüz dokunmadan ya da onlara mehir(lerini) belirlemeden kadınları boşarsınız eğer size bir günah yoktur ve eli geniş olan kendi gücü nisbetinde eli dar olan da kendi gücü nisbetinde güzel bir geçimlikle onları faydalandırsın iyilik edenlerin üzerine bu bir borçtur
 **(237)** 
 **(238)** 
 **(239)** 
