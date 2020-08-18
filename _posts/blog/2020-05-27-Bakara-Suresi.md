@@ -256,7 +256,7 @@ tag:
 **(243)** ve onlar binlerce kişi iken ölüm korkusuyla yurtlarından çıkanları; [ayrılan] kimseleri görmedin mi? Allah onlara Ölün! demişti sonra kendilerini diriltmişti şüphesiz Allah insanlara karşı ikram sahibidir ama insanların çoğu şükretmezler
 **(244)** ve Allah yolunda savaşın ve bilin ki şüphesiz Allah işitendir bilendir
 **(245)** kat kat fazlasıyla ona arttırması karşılığnda güzel bir borcu Allah’a borç olarak verecek o kimse kimdir Allah (rızkı) kısar da açar da ve hep O’na döndürüleceksiniz
-**(246)** 
+**(246)** Musa’dan sonra İsrail oğullarının ileri gelenlerini görmedin mi? Peygamberlerine hani onlar demişlerdi bize bir hükümdar gönder Allah yolunda (onun önderliğinde) savaşalım eğer size savaş yazılınca (farz kılınınca) savaşmazsanız olurmu ki? dedi dediler ki Allah yolunda bizler neden savaşmayalım oysa yurtlarımızdan ve oğullarımız(ın arasın)dan biz çıkarılıp sürüldük fakat kendilerine savaş yazılınca içlerinden pek azı hariç yüz çevirdiler Allah zalimleri bilir
 **(247)** 
 **(248)** 
 **(249)** 
