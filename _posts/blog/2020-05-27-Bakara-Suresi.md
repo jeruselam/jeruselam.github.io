@@ -250,9 +250,9 @@ tag:
 **(237)** ve onlar için (bir mehir) tesbit ettiğiniz takdirde henüz dokunmadan önce eğer onları boşarsanız tesbit ettiğiniz şeyin (mehrin) yarısını (kadının) vazgeçmesi veya nikah akdi elinde olan kimsenin (erkeğin) vazgeçmesi hariç vermeniz gerekir (erkekler) sizin affetmeniz takvaya daha yakındır birbirinize iyilik etmeyi unutmayın Allah yaptıklarınız şeyleri şüphesiz görür 
 **(238)** namazları ve orta namazı koruyun ve gönülden bağlılık ve saygı ile Allah(’ın huzurun)a durun
 **(239)** yaya yahut binmiş olarak eğer (bir tehlikeden) korkarsanız güvene kavuştuğunuz zaman da biliyor olmadığınız şeyleri size öğrettiği şekilde Allah’ı anın 
-**(240)** ve içinizden ölen kimseler ve geriye eşler bırakan(erkek)ler (evlerinden) çıkarılmadan bir yıla kadar eşlerinin geçimlerinin sağlanmasını vasiyyet etsinler şayet kendileri çıkarlarsa kendileri hakkında uygun olan bir şey yapmalarında sizin için bir günah yoktur Allah daima üstündür hüküm ve hikmet sahibidir
-**(241)** 
-**(242)** 
+**(240)** ve içinizden ölen kimseler ve geriye eşler bırakan(erkek)ler (evlerinden) çıkarılmadan bir yıla kadar eşlerinin geçimlerinin sağlanmasını vasiyyet etsinler şayet kendileri çıkarlarsa kendileri hakkında uygun olan bir şey yapmalarında sizin için bir günah yoktur [Aziz Hakim] Allah daima üstündür hüküm ve hikmet sahibidir
+**(241)** ve boşanmış kadınların uygun olan şekilde geçimlerini sağlamak müttakiler üzerine bir haktır (borçtur) 
+**(242)** Allah size ayetlerini böyle açıklamaktadır umulur ki düşünürsünüz
 **(243)** 
 **(244)** 
 **(245)** 
