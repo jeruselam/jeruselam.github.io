@@ -254,8 +254,8 @@ tag:
 **(241)** ve boşanmış kadınların uygun olan şekilde geçimlerini sağlamak müttakiler üzerine bir haktır (borçtur) 
 **(242)** Allah size ayetlerini böyle açıklamaktadır umulur ki düşünürsünüz
 **(243)** ve onlar binlerce kişi iken ölüm korkusuyla yurtlarından çıkanları; [ayrılan] kimseleri görmedin mi? Allah onlara Ölün! demişti sonra kendilerini diriltmişti şüphesiz Allah insanlara karşı ikram sahibidir ama insanların çoğu şükretmezler
-**(244)** 
-**(245)** 
+**(244)** ve Allah yolunda savaşın ve bilin ki şüphesiz Allah işitendir bilendir
+**(245)** kat kat fazlasıyla ona arttırması karşılığnda güzel bir borcu Allah’a borç olarak verecek o kimse kimdir Allah (rızkı) kısar da açar da ve hep O’na döndürüleceksiniz
 **(246)** 
 **(247)** 
 **(248)** 
