@@ -258,7 +258,7 @@ tag:
 **(245)** kat kat fazlasıyla ona arttırması karşılığnda güzel bir borcu Allah’a borç olarak verecek o kimse kimdir Allah (rızkı) kısar da açar da ve hep O’na döndürüleceksiniz
 **(246)** Musa’dan sonra İsrail oğullarının ileri gelenlerini görmedin mi? Peygamberlerine hani onlar demişlerdi bize bir hükümdar gönder Allah yolunda (onun önderliğinde) savaşalım eğer size savaş yazılınca (farz kılınınca) savaşmazsanız olurmu ki? dedi dediler ki Allah yolunda bizler neden savaşmayalım oysa yurtlarımızdan ve oğullarımız(ın arasın)dan biz çıkarılıp sürüldük fakat kendilerine savaş yazılınca içlerinden pek azı hariç yüz çevirdiler Allah zalimleri bilir
 **(247)** ve peygamberleri onlara dedi ki gerçekten Allah elbette size hükümdar Talut’u gönderdi dediler ki bizim üzerimize hükümdarlık (mülk) nasıl onun olabilir biz hükümdarlığa ondan daha layıkız ve maldan genişlik verilmemiştir şüphesiz dedi Allah sizin üzerinize onu (hükümdar) seçti ve onun bilgisinin ve cisminin gücünü artırdı Allah mülkünü dilediği kimseye verir Allah(ın) (lütfu) geniştir (O herşeyi) bilendir 
-**(248)** 
+**(248)** ve onlara peygamberleri dedi ki muhakkak onun hükümdarlığının alameti size onun içinde Rabbinizden bir huzur bulunan meleklerin taşıdığı Tabut’u (Allah’ın Ahid sandığı) ve Musa ailesinin ve Harun ailesinin geriye bıraktığından bir kalıntı gelmesidir eğer [mümin] inanan kimseler iseniz şüphesiz bunda sizin için kesin bir alamet vardır
 **(249)** 
 **(250)** 
 **(251)** 
