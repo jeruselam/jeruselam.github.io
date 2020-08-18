@@ -248,8 +248,8 @@ tag:
 **(235)** kadınlara evlenme isteğinizi ona üstü kapalı biçimde bildirmenizden yahut içinizde gizlemenizden size bir günah yoktur şüphesiz sizin onları anacağınızı Allah bilir fakat iyi (meşru) bir söz söylemeniz dışında sakın onlarla gizli(buluşma)ya sözleşmeyin ve yazılanın (iddetinin) sonuna ulaşıncaya kadar nikah akdine (kıymaya) kalkışmayın ve bilin ki şüphesiz Allah içinizden geçen şeyi bilir O’ndan sakının ve yine bilin ki şüphesiz [Ğafur Halim] Allah bağışlayandır halimdir
 **(236)** henüz dokunmadan ya da onlara mehir(lerini) belirlemeden kadınları boşarsınız eğer size bir günah yoktur ve eli geniş olan kendi gücü nisbetinde eli dar olan da kendi gücü nisbetinde güzel bir geçimlikle onları faydalandırsın iyilik edenlerin üzerine bu bir borçtur
 **(237)** ve onlar için (bir mehir) tesbit ettiğiniz takdirde henüz dokunmadan önce eğer onları boşarsanız tesbit ettiğiniz şeyin (mehrin) yarısını (kadının) vazgeçmesi veya nikah akdi elinde olan kimsenin (erkeğin) vazgeçmesi hariç vermeniz gerekir (erkekler) sizin affetmeniz takvaya daha yakındır birbirinize iyilik etmeyi unutmayın Allah yaptıklarınız şeyleri şüphesiz görür 
-**(238)** 
-**(239)** 
+**(238)** namazları ve orta namazı koruyun ve gönülden bağlılık ve saygı ile Allah(’ın huzurun)a durun
+**(239)** yaya yahut binmiş olarak eğer (bir tehlikeden) korkarsanız güvene kavuştuğunuz zaman da biliyor olmadığınız şeyleri size öğrettiği şekilde Allah’ı anın 
 **(240)** 
 **(241)** 
 **(242)** 
