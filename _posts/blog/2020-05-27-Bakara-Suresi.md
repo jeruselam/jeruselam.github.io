@@ -253,7 +253,7 @@ tag:
 **(240)** ve içinizden ölen kimseler ve geriye eşler bırakan(erkek)ler (evlerinden) çıkarılmadan bir yıla kadar eşlerinin geçimlerinin sağlanmasını vasiyyet etsinler şayet kendileri çıkarlarsa kendileri hakkında uygun olan bir şey yapmalarında sizin için bir günah yoktur [Aziz Hakim] Allah daima üstündür hüküm ve hikmet sahibidir
 **(241)** ve boşanmış kadınların uygun olan şekilde geçimlerini sağlamak müttakiler üzerine bir haktır (borçtur) 
 **(242)** Allah size ayetlerini böyle açıklamaktadır umulur ki düşünürsünüz
-**(243)** 
+**(243)** ve onlar binlerce kişi iken ölüm korkusuyla yurtlarından çıkanları; [ayrılan] kimseleri görmedin mi? Allah onlara Ölün! demişti sonra kendilerini diriltmişti şüphesiz Allah insanlara karşı ikram sahibidir ama insanların çoğu şükretmezler
 **(244)** 
 **(245)** 
 **(246)** 
