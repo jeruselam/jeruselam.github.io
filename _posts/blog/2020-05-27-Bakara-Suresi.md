@@ -262,7 +262,7 @@ tag:
 **(249)** ne zaman ki Talut ordularla ayrıldığında dedi ki şüphesiz Allah bir ırmakla sizi deneyecektir kim içerse ondan benden değildir ve kim ondan tadmazsa şüphesiz o bendendir eliyle bir avuç avuçlayan kimsenin dışında içlerinden pek azı hariç ondan hepsi içtiler o (Talut) ve iman eden kimseler nihayet (ırmağı) geçince beraberindekiler bugün Calut’a ve askerlerine karşı bizim gücümüz yok dediler elbette onların Allah’a kavuşacaklarına kanaat getiren kimseler dedi nice az olan topluluk Allah’ın izniyle çok olan topluluğa galib gelmiştir Allah sabredenlerle beraberdir
 **(250)** Calut ve askerleriyle ne zaman karşılaşsalar şöyle dediler Rabbimiz üzerimize sabır dök ve ayaklarımızı sağlam tut ve kafirler topluluğuna karşı bize yardım et
 **(251)** Allah’ın izniyle derken onları bozdular ve Calut’u Davud öldürdü ve Allah ona (Davud’a) hükümdarlık ve hikmet verdi ve dilediği şeyleri ona öğretti insanların bir kısmını bir kısmıyle Allah eğer savmasaydı dünya bozulurdu fakat bütün alemlere karşı Allah lütuf sahibidir
-**(252)** 
+**(252)** bunlar Allah’ın ayetleridir hak olarak sana okuyoruz (açıklıyoruz) elbette sen [resullerden] gönderilenlerdensin
 **(253)** 
 **(254)** 
 **(255)** 
