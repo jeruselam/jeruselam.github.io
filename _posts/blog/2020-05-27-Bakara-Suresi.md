@@ -263,7 +263,7 @@ tag:
 **(250)** Calut ve askerleriyle ne zaman karşılaşsalar şöyle dediler Rabbimiz üzerimize sabır dök ve ayaklarımızı sağlam tut ve kafirler topluluğuna karşı bize yardım et
 **(251)** Allah’ın izniyle derken onları bozdular ve Calut’u Davud öldürdü ve Allah ona (Davud’a) hükümdarlık ve hikmet verdi ve dilediği şeyleri ona öğretti insanların bir kısmını bir kısmıyle Allah eğer savmasaydı dünya bozulurdu fakat bütün alemlere karşı Allah lütuf sahibidir
 **(252)** bunlar Allah’ın ayetleridir hak olarak sana okuyoruz (açıklıyoruz) elbette sen [resullerden] gönderilenlerdensin
-**(253)** 
+**(253)** işte o elçiler ki onlardan kimine karşı kimini üstün kıldık kimine Allah konuştu ve kimini de derecelerle yükseltti ve Meryem oğlu Îsa’ya açık deliller verdik ve Kudüs Ruh ile onu destekledik ve eğer Allah dileseydi açık deliller gelmiş olduktan sonra onların arkasından gelen kimseleri (milletleri) öldürmezlerdi fakat anlaşmazlığa düştüler onlardan kimileri inandı ve onlardan kimi de inkar etti eğer Allah dileseydi birbirlerini öldürmezlerdi ama Allah dilediği şeyi yapar
 **(254)** 
 **(255)** 
 **(256)** 
