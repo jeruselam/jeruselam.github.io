@@ -264,8 +264,8 @@ tag:
 **(251)** Allah’ın izniyle derken onları bozdular ve Calut’u Davud öldürdü ve Allah ona (Davud’a) hükümdarlık ve hikmet verdi ve dilediği şeyleri ona öğretti insanların bir kısmını bir kısmıyle Allah eğer savmasaydı dünya bozulurdu fakat bütün alemlere karşı Allah lütuf sahibidir
 **(252)** bunlar Allah’ın ayetleridir hak olarak sana okuyoruz (açıklıyoruz) elbette sen [resullerden] gönderilenlerdensin
 **(253)** işte o elçiler ki onlardan kimine karşı kimini üstün kıldık kimine Allah konuştu ve kimini de derecelerle yükseltti ve Meryem oğlu Îsa’ya açık deliller verdik ve Kudüs Ruh ile onu destekledik ve eğer Allah dileseydi açık deliller gelmiş olduktan sonra onların arkasından gelen kimseleri (milletleri) öldürmezlerdi fakat anlaşmazlığa düştüler onlardan kimileri inandı ve onlardan kimi de inkar etti eğer Allah dileseydi birbirlerini öldürmezlerdi ama Allah dilediği şeyi yapar
-**(254)** 
-**(255)** 
+**(254)** ey inanan(lar); [imanlı] kimseler içinde alışverişin ve hiçbir dostluğun ve hiçbir şefaatin olmadığı gün gelmezden önce size verdiğimiz rızıktan infak edin ve kafirler zalimlerin ta kendileridir
+**(255)** Allah (ki) O’ndan başka tanrı [ilah] yoktur daima diridir koruyup yöneticidir ne bir uyuklama ve ne de bir uyku O’nu tutmaz göklerde ne varsa O’nundur ve yerde ne varsa O’nundur O’nun izni dışında kendisinin katında kimdir ki şefaat edebilir onların önünde olanı ve arkalarında olanı bilir dilediği şeyler dışında O’nun ilminden hiçbir şey kavrayamazlar O’nun Kürsüsü gökleri ve yeri kaplamıştır onları koru(yup gözet)mek O’na ağır gelmez O [Ali Azim] yücedir büyüktür
 **(256)** 
 **(257)** 
 **(258)** 
