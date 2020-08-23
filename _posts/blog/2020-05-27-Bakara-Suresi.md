@@ -269,8 +269,8 @@ tag:
 **(256)** Dinde zorlama yoktur doğruluk sapıklıktan elbette seçilip belli olmuştur tağut (şeytan)ı kim inkar eder ve Allah’a inanırsa muhakkak ki o kopmayan sağlam bir kulpa yapışmıştır Allah [Semiu Alim] işitendir bilendir
 **(257)** Allah inananların; [imanlı] kimselerin [velisi] dostudur onları karanlıklardan aydınlığa çıkarır inkar eden kimselerin dostları da tağuttur (O da) onları aydınlıktan karanlıklara çıkarır İşte onlar ateş halkıdır onlar orada ebedi kalacaklardır
 **(258)** İbrahim benim Rabbim ki yaşatır ve öldürür dediği zaman Allah kendisine hükümdarlık verdi diye Rabbi hakkında İbrahim’le tartışan kimseyi görmedin mi? ben de yaşatır ve öldürürüm dedi İbrahim dedi ki şüphesiz Allah doğudan güneşi getirir onu sen de batıdan getir inkar eden kimse (o adam) şaşırıp kaldı zalim toplumu Allah doğru yola iletmez
-**(259)** 
-**(260)** 
+**(259)** yahut şu kimse gibi ki o kimse çatıları (duvarları) üstüne yığılmış bir kasabaya uğramıştı dedi ki öldükten sonra Allah bunu nasıl diriltecek Allah (da) kendisini öldürüp yüz sene sonra diriltti ne kadar kaldın dedi bir gün ya da bir günün birazı (kadar) kaldım dedi (Allah) dedi bilakis yüz yıl kaldın bak yiyeceğine ve içeceğine bozulmamış ve bak eşeğine insanlar için seni bir ibret kılalım diye ve bak kemiklere nasıl onları birbiri üstüne koyuyor sonra onlara et giydiriyoruz bu işler ona açıkça belli olunca dedi ki biliyorum ki şüphesiz Allah her şeye kadirdir
+**(260)** ve bir zaman İbrahim demişti Rabbim ölüleri nasıl dirilttiğini bana göster (Allah) dedi yoksa inanmadın mı (İbrahim) dedi ki Hayır (inandım) fakat kalbimin tatmin olması için dedi o halde tut kuşlardan dördünü kendine onları alıştır sonra her dağın üzerine onlardan bir parça koy sonra onları (kendine) çağır koşarak sana gelecekler bil ki şüphesiz [Azim Hakim] Allah daima üstün hüküm ve hikmet sahibidir 
 **(261)** 
 **(262)** 
 **(263)** 
