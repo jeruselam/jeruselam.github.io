@@ -274,7 +274,8 @@ tag:
 **(261)** Allah yolunda mallarını infak edenler(in) kimselerin durumu her başağında yüz tohum yedi başak veren bir tohumun durumu gibidir dilediği kimseye Allah kat kat verir [Vasi Alim] Allah(ın) (lutfu) geniştir (O) bilendir 
 **(262)** Allah yolunda mallarını infak eden kimseler sonra verdikleri şeyleri ardından başa kakmayan ve eziyet etmeyenlerin Rableri katında ödülleri vardır onlara korku yoktur ve onlar üzülmeyeceklerdir
 **(263)** güzel bir söz (söylemek) ve affetmek peşinden eziyet gelen sadakadan iyidir [Ğaniy Halim] Allah zengindir halimdir
-**(264)** 
+**(264)** ey iman edenler kimseler başa kakmakla ve Allah’a ve ahiret	
+ gününe inanmayan gösteriş için insanlara malını infak eden gibi eziyet etmekle sadakalarınızı boşa çıkarmayın öylesinin durumu üzerinde toprak bulunan şu kayaya benzer ki bir sağnak (yağmur) ona isabet etttiğinde sert bir taş halinde onu bırakır (Böyleleri) kazandıkları şeylerden hiçbir şey elde edemezler kafirler toplumunu Allah doğru yola iletmez 
 **(265)** 
 **(266)** 
 **(267)** 
