@@ -11,12 +11,12 @@ tag:
 
 ## 107. Mâûn Sûresi
 
-**(1)** Dini yalanlayan kimseyi gördün mü? , 
-**(2)** işte o [anasız veya babasız, tek ve benzersiz]öksüzü[yetimi] iter kakar.
-**(3)** Ve yoksulu doyurmaya teşvik etmez.
-**(4)** Vay haline o [secde ederek]namaz kılanların,
-**(5)** ki onlar namazlarından [Allah emri ile aymaz]gaflet ederler.
-**(6)** Ki onlar gösteriş yaparlar.
-**(7)** Ve en ufak bir yardımı [durdurup]esirgerler.
+**(1)** Dini yalanlayan kimseyi gördün mü?
+**(2)** işte o [anasız veya babasız, tek ve benzersiz] öksüzü, [yetimi] iter kakar
+**(3)** ve yoksulu doyurmaya teşvik etmez
+**(4)** vay haline o [secde ederek] namaz kılanların
+**(5)** ki onlar namazlarından [Allah emri ile aymaz] gaflet ederler
+**(6)** ki onlar gösteriş yaparlar
+**(7)** ve en ufak bir yardımı [durdurup] esirgerler
 
 ![107]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

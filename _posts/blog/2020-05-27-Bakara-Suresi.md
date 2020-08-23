@@ -273,7 +273,7 @@ tag:
 **(260)** ve bir zaman İbrahim demişti Rabbim ölüleri nasıl dirilttiğini bana göster (Allah) dedi yoksa inanmadın mı (İbrahim) dedi ki Hayır (inandım) fakat kalbimin tatmin olması için dedi o halde tut kuşlardan dördünü kendine onları alıştır sonra her dağın üzerine onlardan bir parça koy sonra onları (kendine) çağır koşarak sana gelecekler bil ki şüphesiz [Azim Hakim] Allah daima üstün hüküm ve hikmet sahibidir 
 **(261)** Allah yolunda mallarını infak edenler(in) kimselerin durumu her başağında yüz tohum yedi başak veren bir tohumun durumu gibidir dilediği kimseye Allah kat kat verir [Vasi Alim] Allah(ın) (lutfu) geniştir (O) bilendir 
 **(262)** Allah yolunda mallarını infak eden kimseler sonra verdikleri şeyleri ardından başa kakmayan ve eziyet etmeyenlerin Rableri katında ödülleri vardır onlara korku yoktur ve onlar üzülmeyeceklerdir
-**(263)** güzel bir söz (söylemek) ve affetmek peşinden eziyet gelen sadakadan iyidir Allah zengindir halimdir
+**(263)** güzel bir söz (söylemek) ve affetmek peşinden eziyet gelen sadakadan iyidir [Ğaniy Halim] Allah zengindir halimdir
 **(264)** 
 **(265)** 
 **(266)** 
