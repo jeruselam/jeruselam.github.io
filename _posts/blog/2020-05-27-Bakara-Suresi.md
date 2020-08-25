@@ -276,8 +276,8 @@ tag:
 **(263)** güzel bir söz (söylemek) ve affetmek peşinden eziyet gelen sadakadan iyidir [Ğaniy Halim] Allah zengindir halimdir
 **(264)** ey iman edenler kimseler başa kakmakla ve Allah’a ve ahiret	
  gününe inanmayan gösteriş için insanlara malını infak eden gibi eziyet etmekle sadakalarınızı boşa çıkarmayın öylesinin durumu üzerinde toprak bulunan şu kayaya benzer ki bir sağnak (yağmur) ona isabet etttiğinde sert bir taş halinde onu bırakır (Böyleleri) kazandıkları şeylerden hiçbir şey elde edemezler kafirler toplumunu Allah doğru yola iletmez 
-**(265)** 
-**(266)** 
+**(265)** Allah’ın rızasını kazanmak ve kendilerindekini (imanı) kökleştirmek için mallarını infak eden kimselerin durumu da tepe üzerinde bulunan bol yağmur değince iki kat ürününü veren bir bahçeye benzer yağmur eğer değmese bile çisinti olur Allah yaptıklarınız şeyleri görmektedir 
+**(266)**  ve aciz çocuklarının bulunduğu ve ihtiyarlık kendisine geldiğinde içinde her çeşit meyvası bulunan altından ırmaklar akan hurmalardan ve üzümler(den) kendisinin bir bahçesi olmasını biriniz ister mi ki? onlara birden ateşli bir kasırga isabet etsin yakıp kül etsin böylece Allah size ayetleri açıklıyor umulur ki düşünürsünüz
 **(267)** 
 **(268)** 
 **(269)** 
