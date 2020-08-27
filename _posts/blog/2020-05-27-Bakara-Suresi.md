@@ -285,7 +285,7 @@ tag:
 **(271)** eğer sadakaları açıktan verirseniz bu ne güzeldir eğer onları gizler ve fakirlere verirseniz sizin için bu daha iyidir ve günahlarınızın bir kısmını sizden kapatır Allah yaptıklarınız şeylerden haberdardır
 **(272)** onları hidayet etmek senin üzerine değildir fakat dilediği	
  kimseyi doğru yola ileten Allah’tır verdiğiniz her hayır kendiniz içindir Allah’ın (yüzü) rızasını kazanmak için [verebilirsiniz onun] dışında infak edemezsiniz ve hayırdan ne verseniz size tastamam verilir ve siz asla zulmedilmezsiniz
-**(273)** 
+**(273)** Allah yolunda kapanıp kalan kimseler (için) (Sadakalar) fakirler içindir yeryüzünde gezmeye güçleri yoktur bilmeyenler onları utangaçlıklarından dolayı zengin sanırlar onları simalarından tanırsın insanlardan ısrarla istemezler hayırdan yaptığınız ne varsa şüphesiz Allah onu bilir
 **(274)** 
 **(275)** 
 **(276)** 
