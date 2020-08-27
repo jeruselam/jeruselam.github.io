@@ -278,11 +278,11 @@ tag:
  gününe inanmayan gösteriş için insanlara malını infak eden gibi eziyet etmekle sadakalarınızı boşa çıkarmayın öylesinin durumu üzerinde toprak bulunan şu kayaya benzer ki bir sağnak (yağmur) ona isabet etttiğinde sert bir taş halinde onu bırakır (Böyleleri) kazandıkları şeylerden hiçbir şey elde edemezler kafirler toplumunu Allah doğru yola iletmez 
 **(265)** Allah’ın rızasını kazanmak ve kendilerindekini (imanı) kökleştirmek için mallarını infak eden kimselerin durumu da tepe üzerinde bulunan bol yağmur değince iki kat ürününü veren bir bahçeye benzer yağmur eğer değmese bile çisinti olur Allah yaptıklarınız şeyleri görmektedir 
 **(266)**  ve aciz çocuklarının bulunduğu ve ihtiyarlık kendisine geldiğinde içinde her çeşit meyvası bulunan altından ırmaklar akan hurmalardan ve üzümler(den) kendisinin bir bahçesi olmasını biriniz ister mi ki? onlara birden ateşli bir kasırga isabet etsin yakıp kül etsin böylece Allah size ayetleri açıklıyor umulur ki düşünürsünüz
-**(267)** 
-**(268)** 
-**(269)** 
-**(270)** 
-**(271)** 
+**(267)** ey iman eden(ler); [imanlı] kimseler kazandıklarınız şeylerin iyilerinden ve yerden sizin için çıkardığımız şeylerden infak edin göz yummadan başka şekilde ondan kendinize alamayacağınız kötü şeyleri sadaka vermeye kalkışmayın bilin ki şüphesiz Allah zengindir övülmüştür
+**(268)** şeytan fakirliği size vaad eder ve çirkin şeyleri yapmayı size emreder Allah ise size kendi tarafından bağışlama ve lutuf va’adediyor şüphesiz Allah’ın (lütfu) geniştir (O) bilendir
+**(269)** dilediği kimseye Hikmeti verir ve Hikmet verilen kimse[ye] elbette çok hayır verilmiştir akıl sahiplerinden başkası bunu anlamaz 
+**(270)** ve nafaka olarak ne infak ederseniz veya adak olarak (ne) adarsanız şüphesiz Allah onu bilir zalimler için hiçbir yardımcı yoktur
+**(271)** eğer sadakaları açıktan verirseniz bu ne güzeldir eğer onları gizler ve fakirlere verirseniz sizin için bu daha iyidir ve günahlarınızın bir kısmını sizden kapatır Allah yaptıklarınız şeylerden haberdardır
 **(272)** 
 **(273)** 
 **(274)** 
