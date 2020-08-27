@@ -283,7 +283,8 @@ tag:
 **(269)** dilediği kimseye Hikmeti verir ve Hikmet verilen kimse[ye] elbette çok hayır verilmiştir akıl sahiplerinden başkası bunu anlamaz 
 **(270)** ve nafaka olarak ne infak ederseniz veya adak olarak (ne) adarsanız şüphesiz Allah onu bilir zalimler için hiçbir yardımcı yoktur
 **(271)** eğer sadakaları açıktan verirseniz bu ne güzeldir eğer onları gizler ve fakirlere verirseniz sizin için bu daha iyidir ve günahlarınızın bir kısmını sizden kapatır Allah yaptıklarınız şeylerden haberdardır
-**(272)** 
+**(272)** onları hidayet etmek senin üzerine değildir fakat dilediği	
+ kimseyi doğru yola ileten Allah’tır verdiğiniz her hayır kendiniz içindir Allah’ın (yüzü) rızasını kazanmak için [verebilirsiniz onun] dışında infak edemezsiniz ve hayırdan ne verseniz size tastamam verilir ve siz asla zulmedilmezsiniz
 **(273)** 
 **(274)** 
 **(275)** 
