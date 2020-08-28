@@ -286,8 +286,8 @@ tag:
 **(272)** onları hidayet etmek senin üzerine değildir fakat dilediği	
  kimseyi doğru yola ileten Allah’tır verdiğiniz her hayır kendiniz içindir Allah’ın (yüzü) rızasını kazanmak için [verebilirsiniz onun] dışında infak edemezsiniz ve hayırdan ne verseniz size tastamam verilir ve siz asla zulmedilmezsiniz
 **(273)** Allah yolunda kapanıp kalan kimseler (için) (Sadakalar) fakirler içindir yeryüzünde gezmeye güçleri yoktur bilmeyenler onları utangaçlıklarından dolayı zengin sanırlar onları simalarından tanırsın insanlardan ısrarla istemezler hayırdan yaptığınız ne varsa şüphesiz Allah onu bilir
-**(274)** 
-**(275)** 
+**(274)** mallarını gece ve gündüz gizli ve açık infak edenler o kimseler ki Rableri yanında ödülü vardır onlara korku yoktur ve onlar üzülmeyeceklerdir
+**(275)** o kimseler ki Riba (faiz) yerler kalkamazlar ancak şeytanın dokunup çarptığı kimse kalkarlar bu onların şüphesiz alışveriş de riba (faiz) gibidir demelerindendir Allah alış-verişi oysa helal kılmıştır ve ribayı haram kılmıştır kime Rabbinden bir öğüt gelir de (ribadan) vazgeçerse geçmişte ne varsa kendisinindir ve işi de Allah’a kalmıştır kim tekrar (ribaya) dönerse onlar onlar ateş halkıdır onlar orada ebedi kalacaklardır
 **(276)** 
 **(277)** 
 **(278)** 
