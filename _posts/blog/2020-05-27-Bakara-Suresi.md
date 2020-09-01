@@ -288,11 +288,11 @@ tag:
 **(273)** Allah yolunda kapanıp kalan kimseler (için) (Sadakalar) fakirler içindir yeryüzünde gezmeye güçleri yoktur bilmeyenler onları utangaçlıklarından dolayı zengin sanırlar onları simalarından tanırsın insanlardan ısrarla istemezler hayırdan yaptığınız ne varsa şüphesiz Allah onu bilir
 **(274)** mallarını gece ve gündüz gizli ve açık infak edenler o kimseler ki Rableri yanında ödülü vardır onlara korku yoktur ve onlar üzülmeyeceklerdir
 **(275)** o kimseler ki Riba (faiz) yerler kalkamazlar ancak şeytanın dokunup çarptığı kimse kalkarlar bu onların şüphesiz alışveriş de riba (faiz) gibidir demelerindendir Allah alış-verişi oysa helal kılmıştır ve ribayı haram kılmıştır kime Rabbinden bir öğüt gelir de (ribadan) vazgeçerse geçmişte ne varsa kendisinindir ve işi de Allah’a kalmıştır kim tekrar (ribaya) dönerse onlar onlar ateş halkıdır onlar orada ebedi kalacaklardır
-**(276)** 
-**(277)** 
-**(278)** 
-**(279)** 
-**(280)** 
+**(276)** Allah [doğruluğu/dürüstlüğü arttırmayan] ribayı mahveder ve [doğru ve dürüst] sadakaları artırır, günahkar inkarcıları Allah hiçbir[ini] sevmez
+**(277)** şüphesiz iman eden kimseler ve salih (güzel) işler yapanlar ve namazı kılanlar ve zekatı verenler işte onların ödülleri [ecirleri] Rableri yanındadır onlara korku yoktur ve onlar üzülmeyeceklerdir
+**(278)** ey iman eden(ler); [imanlı] kimseler Allah’tan korkun ve eğer inanıyor idiyseniz ribadan geri kalan ne varsa bırakın (almayın)
+**(279)** eğer böyle yapmazsanız Allah ve Elçisi (tarafından) savaşa açıldığını bilin ve eğer tevbe ederseniz ana malınız sizindir ne haksızlık edersiniz ne de haksızlığa uğratılırsınız
+**(280)** eğer (borçlu) darlık (içinde) ise bir kolaylığa kadar beklemek (lazımdır) ve eğer sadaka olarak bağışlarsanız sizin için eğer bilirseniz daha hayırlıdır 
 **(281)** 
 **(282)** 
 **(283)** 
