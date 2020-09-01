@@ -293,8 +293,8 @@ tag:
 **(278)** ey iman eden(ler); [imanlı] kimseler Allah’tan korkun ve eğer inanıyor idiyseniz ribadan geri kalan ne varsa bırakın (almayın)
 **(279)** eğer böyle yapmazsanız Allah ve Elçisi (tarafından) savaşa açıldığını bilin ve eğer tevbe ederseniz ana malınız sizindir ne haksızlık edersiniz ne de haksızlığa uğratılırsınız
 **(280)** eğer (borçlu) darlık (içinde) ise bir kolaylığa kadar beklemek (lazımdır) ve eğer sadaka olarak bağışlarsanız sizin için eğer bilirseniz daha hayırlıdır 
-**(281)** 
-**(282)** 
+**(281)** onda Allah’a döndürüleceğiniz şu günden sakının sonra	her kişiye ne kazandıysa tastamam verilecektir ve onlara haksızlık edilmeyecektir
+**(282)** ey iman eden(ler); [imanlı] kimseler belirli bir süreye kadar birbirinize borç verdiğiniz zaman onu yazın ve aranızda bir yazıcı adaletle yazsın Allah’ın kendisine öğrettiği şekilde yazmaktan kaçınmasın yazdırsın yazıcı (yazsın) üzerinde hak olan (borçlu) kimse yazdırsın Rabbi olan Allah’tan korksun ondan (borcundan) hiçbir şeyi eksik etmesin eğer borçlu olan aklı ermez yahut zayıf ya da o kendisi yazdırmaya güç yetiremiyecek kimse ise adaletle onun velisi yazdırsın erkeklerinizden iki şahidi eğer iki erkek yoksa (o zaman) şahidlerden razı olduğunuz kimse bir erkek iki kadın ta ki kadınlardan biri şaşırırsa diğerine biri hatırlatması için şahid tutun şahidler bir şeye çağrıldıkları zaman kaçınmasınlar onu süresine kadar az olsun veya çok olsun yazmaktan üşenmeyin Allah katında bu daha adaletli ve şahidlik için daha sağlam ve kuşkulanmamanız için daha elverişlidir ancak aranızda hemen alıp vereceğiniz peşin ticaret olursa onu yazmamanızdan ötürü üzerinize bir günah yoktur ve alışveriş yaptığınız zaman da şahid tutun yazana da  ve şahide de asla zarar verilmesin eğer (bir zarar) yaparsanız şüphesiz kendinize kötülük olur Allah’tan korkun ve Allah size öğretiyor Allah	her şeyi bilir 
 **(283)** 
 **(284)** 
 **(285)** 
