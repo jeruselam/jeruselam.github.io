@@ -72,7 +72,19 @@ white-space: nowrap; }
     @include font-size(24, yes, 40);
 */
 
-@mixin font-size($size, $margin: yes, $line-height: $doc-line-height) {
+@use "sass:map";
+@use "sass:meta";
+$black: #000;
+$sizeValue: 16px;
+$adjustvalue: 16px;
+$adjust-value: 1.15;
+$micro                    : "only screen and (min-width: 30em)";
+$small                    : "only screen and (min-width: 37.5em)";
+$medium                   : "only screen and (min-width: 48em)";
+$large                    : "only screen and (min-width: 62em)";
+$x-large                  : "only screen and (min-width: 86.375em)";
+
+@mixin font-size($size, $margin: yes, $line-height: $doc-line-height, $adjustvalue) {
     
   // generates the font-size in REMs with a PX fallback
   font-size: 0px + $size;

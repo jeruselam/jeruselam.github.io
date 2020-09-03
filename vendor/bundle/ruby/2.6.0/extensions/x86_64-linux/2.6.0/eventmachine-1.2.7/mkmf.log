@@ -1,0 +1,11 @@
+"x86_64-pc-linux-gnu-gcc -o conftest -I/usr/include/ruby-2.6.0/x86_64-linux -I/usr/include/ruby-2.6.0/ruby/backward -I/usr/include/ruby-2.6.0 -I.    -mtune=generic -march=x86-64 -O2 -pipe -fstack-protector -D_FORTIFY_SOURCE=2 -g -fPIC -fPIC conftest.c  -L. -L/usr/lib -L. -Wl,-O1 -Wl,-z,relro -Wl,--hash-style=gnu -Wl,--as-needed -Wl,--sort-common -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lruby  -lm   -lc"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+

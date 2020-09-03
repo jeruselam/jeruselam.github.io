@@ -8,10 +8,10 @@ source "https://rubygems.org"
 #     https://pages.github.com/versions/
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.7"
+gem "jekyll", "~> 4.1.1"
 gem "kramdown", ">= 2.3.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.1.1"
+gem "minima", "~> 2.5.1"
 gem "compass"
 gem "uglifier"
 gem "rack", ">= 2.2.3"
@@ -21,14 +21,13 @@ gem "activesupport", ">= 5.2.4.3"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-# If you have any plugins, put them here!
+# If you have any plugins, put them here! gem "jekyll-assets", "~> 3.0.12"
 group :jekyll_plugins do
    gem "i18n", "~> 1.2.0" if RUBY_ENGINE == "jruby"
-   gem "jekyll-feed", "~> 0.9.2"
+   gem "jekyll-feed", "~> 0.15.0"
    gem "jekyll-seo-tag"
    gem "jekyll-sitemap"
    gem "jekyll-gist"
-   gem "jekyll-assets"
    gem "jekyll-coffeescript"
    gem "jekyll-sass-converter"
    gem "jekyll-redirect-from"
