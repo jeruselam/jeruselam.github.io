@@ -13,7 +13,7 @@ tag:
 **(1)** Elif Lam Ra, Aziz ve [Hamīd]övgüye layık olanı yoluna Rablerinin izniyle karanlıklardan aydınlığa insanları çıkarman için sana indirdiğimiz (Bu), Kitaptır
 **(2)** Allah ki göklerde ne varsa ve yerde ne varsa O’nundur [şedid-şiddetli]çetin azabdan dolayı şu kafirlerin vay haline
 **(3)** ki onlar ahirete karşılık dünya hayatını tercih ederler ve Allah’ın yolundan engel olurlar ve onu [hakkı ve hakikati eğri büğrü heveslerle tahrif edip]eğrilmesini [talep ederler]isterler işte onlar derin bir sapıklık içindedirler
-**(4)** ve biz olara kendi kavminin dilinden açıklasın diye her elçiyi başka göndermedik dilediği kimseyi Allah şaşırtır ve dilediği kimseyi yola iletir ve O azizdir hüküm ve hikmet sahibidir
+**(4)** ve biz her elçiyi olara açıklasın diye kendi kavminin dilinden başka[syla] göndermedik dilediği kimseyi Allah şaşırtır ve dilediği kimseyi yola iletir ve O azizdir [Hakim] hüküm ve hikmet sahibidir
 **(5)** ve kavmini karanlıklardan aydınlığa çıkarması için ve Allah’ın günlerini onlara hatırlatması için ayetlerimizle birlikte Musa’yı andolsun göndermiştik şüphesiz bunda şükreden sabreden herkes için ayetler vardır
 **(6)** ve hani Musa kavmine demişti ki [o]zaman Allah’ın üzerinizdeki ni’metini hatırlayın Fir’avn soyundan sizi kurtardı işkencenin en kötüsüne onlar sizi sürüyorlardı ve oğullarınızı kesiyorlardı ve kadınlarınızı sağ bırakıyorlardı ve bunda size Rabbinizden büyük bir imtihan vardı
 **(7)** ve hani Rabbiniz size bildirmişti eğer şükrederseniz elbette size daha fazla veririm ve eğer nankörlük ederseniz şüphesiz azabım pek çetindir
