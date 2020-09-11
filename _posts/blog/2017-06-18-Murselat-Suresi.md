@@ -16,12 +16,12 @@ tag:
 **(3)** ve yaydıkça yayanlara
 **(4)** ve ayırdıkça ayıranlara
 **(5)** ve öğüt bırakanlara
-**(6)** özür yahut uyarı
+**(6)** [suç veya suçlamadan kurtarmak için] özür yahut uyarı
 **(7)** ki mutlaka size va’dedilen elbette olacaktır
-**(8)** Yıldızların silindiği zaman
+**(8)** yıldızların silindiği zaman
 **(9)** ve gök yarıldığı zaman
 **(10)** ve dağlar ufalanıp savrulduğu zaman 
-**(11)** ve elçilere vakit belirlendiği zaman 
+**(11)** ve [Resul] elçilere [buluşma için] vakit belirlendiği zaman 
 **(12)** günün hangisi için? ertelenmiştir
 **(13)** hüküm günü için
 **(14)** hüküm günü nedir nereden? bileceksin
