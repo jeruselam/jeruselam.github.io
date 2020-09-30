@@ -21,19 +21,19 @@ tag:
 **(8)** yıldızların silindiği zaman
 **(9)** ve gök yarıldığı zaman
 **(10)** ve dağlar ufalanıp savrulduğu zaman 
-**(11)** ve [Resul] elçilere [buluşma için] vakit belirlendiği zaman 
-**(12)** günün hangisi için? ertelenmiştir
+**(11)** ve [Resul] elçilere [buluşma için bir] vakit belirlendiği zaman 
+**(12)** [belirlenen vakitli] günün hangisi için ertelenmiştir?
 **(13)** hüküm günü için
 **(14)** hüküm günü nedir nereden? bileceksin
 **(15)** o gün yalanlayanların vay haline
-**(16)** Öncekileri helak etmedik mi?
-**(17)** sonra onların ardına takarız geridekileri 
+**(16)** öncekileri helak etmedik mi?
+**(17)** sonra geridekileri onların ardına takarız 
 **(18)** suçlulara böyle yaparız
 **(19)** o gün yalanlayanların vay haline 
-**(20)** Âdi bir sudan sizi yaratmadık mı?
-**(21)** Onu sağlam bir karar yerine koyduk
+**(20)** âdi bir sudan sizi yaratmadık mı?
+**(21)** sağlam bir karar yerine onu koyduk
 **(22)** belirli bir süreye kadar
-**(23)** ve biçimlendirdik ne güzel biçim vereniz biz
+**(23)** ve [karar verip] biçimlendirdik, ne güzel [kudretli] biçim vereniz biz
 **(24)** o gün yalanlayanların vay haline
 **(25)** Arz’ı toplanma yeri yapmadık mı?
 **(26)** Diriler (için) ve ölüler (için)

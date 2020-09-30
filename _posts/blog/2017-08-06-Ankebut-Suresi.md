@@ -35,7 +35,7 @@ tag:
 **(23)** Allah’ın ayetlerini ve O’nunla buluşmayı inkar eden(ler) kimseler, işte onlar benim rahmetimden ümidi kesmişlerdir ve işte onlar için acıklı bir azab vardır 
 **(24)** ve kavminin cevabı onu öldürün yahut onu yakın demelerinden başka bir şey olmadı fakat Allah onu ateşten kurtardı şüphesiz inanan bir toplum için bunda ibretler vardır 
 **(25)** ve dedi ki siz dünya hayatında birbirinizi sevmek için Allah’ı bırakıp şüphesiz birtakım putlar edindiniz, kıyamet gününde bir kısmınız diğerini sonra inkar edersiniz ve bir kısmınız diğerini la’netlersiniz ve varacağınız yer ateştir ve sizin için hiçbir yardımcı yoktur 
-**(26)** bunun üzerine Lut ona inandı ve dedi ki elbette ben Rabbime hicret edeceğim kuşkusuz O, O Azizdir Hakimdir
+**(26)** Lut bunun üzerine ona inandı ve dedi ki elbette ben Rabbime hicret edeceğim kuşkusuz O, O Azizdir Hakimdir
 **(27)** ve biz ona İshak’ı ve Ya’kub’u armağan ettik ve onun nesli içindekilere peygamberlik ve Kitap verdik ve ona dünyada karşılığını verdik ve şüphesiz o ahirette elbette iyilerdendir
 **(28)** ve Lut hani kavmine dedi ki şüphesiz siz, sizden önce onu alemlerden hiç kimsenin yapmadığı bir fuhşa gidiyorsunuz
 **(29)** siz ha? erkeklere gidiyorsunuz ve yol kesiyorsunuz ve toplantılarınızda edepsizce şeyler yapıyorsunuz fakat eğer doğrulardan isen Allah’ın azabını haydi getir demelerinden başka Kavmi’nin cevabı olmadı
