@@ -24,8 +24,8 @@ tag:
 **(11)** onlara yeryüzünde bozgunculuk yapmayın denildiği zaman biz sadece düzelticileriz derler
 **(12)** İyi bilin ki muhakkak onlar bozgunculardır fakat anlayanlardan değildir
 **(13)** onlara insanların inandıkları gibi iman edin denildiği zaman beyinsizlerin inandığı gibi inanır mıyız? derler iyi bilin ki asıl beyinsizler [akılsızlık edip sonunu düşünmeden hazz-ı nefis için masraf edenler] doğrusu onlardır fakat onlar [ilim sahibi] bilenlerden değildir
-**(14)** inanan kimselere rastladıkları zaman inandık derler ve şeytanları ile yalnız kaldıkları zaman şüphesiz biz sizinle beraberiz derler elbette sadece biz (onlarla) alay ediyoruz 
-**(15)** Allah kendileriyle alay eder ve taşkınları içinde onları bırakır bocalayıp dururlar
+**(14)** inanan kimselere rastladıkları zaman inandık derler ve şeytanları ile yalnız kaldıkları zaman şüphesiz biz sizinle beraberiz derler; biz elbette sadece (onlarla) alay ediyoruz 
+**(15)** kendileriyle Allah alay eder ve taşkınları içinde onları bırakır, bocalayıp dururlar
 **(16)** işte onlar hidayet karşılığında sapıklığı satın aldılar ticaretleri kâr etmedi ve doğru yolu bulan olanlardan değildir
 **(17)** Onların durumu ateş yakan kişinin durumu gibidir ne zaman ki çevresini aydınlatır Allah onların nurunu giderdi ve onları karanlıklar içinde bıraktı görenlerden değildir
 **(18)** sağırdırlar dilsizdirler kördürler onlar dönecek değildir
@@ -99,7 +99,7 @@ tag:
 **(86)** işte onlar ahireti verip dünya hayatını satın alan kimselerdir azab onlardan hiç hafifletilmez ve hiç onlara yardım edilmez
 **(87)** ve Musa’ya Kitabı andolsun verdik arkasından birbiri ardınca peygamberler gönderdik ve Meryem oğlu Îsa’ya açık deliller verdik ve Ruh (Ruh’ül-Kudüs) ile onu destekledik canınızın istemediği şey ile bir peygamber size gelse kimini büyüklük taslayarak yalanlayacak kimini de öldüreceksiniz öyle mi?
 **(88)** ve kalblerimiz perdelidir dediler inkarlarından dolayı Allah bilakis onları la’netlemiştir artık çok az inanırlar
-**(89)** Ne zaman ki yanlarında bulunan şeyi (Tevrat)ı doğrulayıcı Allah katından bir Kitap (Kur’an) onlara geldi ve daha önce yardım istedikleri inkar eden kimselere karşı idiler o bildikleri şey (Kur’an) ne zaman kendilerine gelince onu inkar ettiler Allah’ın artık la’neti inkarcıların üzerine olsun!
+**(89)** Ne zaman ki yanlarında bulunan şeyi (Tevrat)ı doğrulayıcı Allah katından bir Kitap (Kur’an) onlara geldi ve yardım istedikleri inkar eden kimselere daha önce karşı idiler ne zaman o bildikleri şey (Kur’an) kendilerine gelince onu inkar ettiler Allah’ın la’neti artık inkarcıların üzerine olsun!
 **(90)** kullarından dilediği kimsenin üzerine Allah’ın lutfundan (vahiy) indirmesini çekemeyerek Allah’ın indirdiği şeyi inkar etmek için kendilerini onunla sattıkları şey ne kötüdür gazab üstüne gazaba uğradılar ve inkar edenler için alçaltıcı bir azab vardır
 **(91)** onlara Allah’ın indirdiği şeye inanın denildiği zaman bize indirilen şeye inanırız derler ve ondan sonra gelen şeyi inkar ederler halbuki o, yanlarında bulunan şeyi doğrulayan haktır de ki gerçekten inanıyor idiyseniz daha önce Allah’ın peygamberlerini neden? öldürüyordunuz
 **(92)** Andolsun apaçık delillerle Musa size gelmişti ve sonra siz ardından zalimler olarak buzağıyı (ilah) edinmiştiniz 
