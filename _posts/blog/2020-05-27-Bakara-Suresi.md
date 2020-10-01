@@ -25,7 +25,7 @@ tag:
 **(12)** İyi bilin ki muhakkak onlar bozgunculardır fakat anlayanlardan değildir
 **(13)** onlara insanların inandıkları gibi iman edin denildiği zaman beyinsizlerin inandığı gibi inanır mıyız? derler iyi bilin ki asıl beyinsizler [akılsızlık edip sonunu düşünmeden hazz-ı nefis için masraf edenler] doğrusu onlardır fakat onlar [ilim sahibi] bilenlerden değildir
 **(14)** inanan kimselere rastladıkları zaman inandık derler ve şeytanları ile yalnız kaldıkları zaman şüphesiz biz sizinle beraberiz derler; biz elbette sadece (onlarla) alay ediyoruz 
-**(15)** kendileriyle Allah alay eder ve taşkınları içinde onları bırakır, bocalayıp dururlar
+**(15)** kendileriyle Allah alay eder ve [azgın] taşkınları içinde onları bırakır, bocalayıp dururlar
 **(16)** işte onlar hidayet karşılığında sapıklığı satın aldılar ticaretleri kâr etmedi ve doğru yolu bulan olanlardan değildir
 **(17)** Onların durumu ateş yakan kişinin durumu gibidir ne zaman ki çevresini aydınlatır Allah onların nurunu giderdi ve onları karanlıklar içinde bıraktı görenlerden değildir
 **(18)** sağırdırlar dilsizdirler kördürler onlar dönecek değildir
