@@ -10,13 +10,13 @@ tag:
 ---
 
 ## 95. Tîn Sûresi
-**(1)** Andolsun incire ve zeytine
+**(1)** incire andolsun ve zeytine
 **(2)** ve Sina dağına
-**(3)** ve bu güvenli şehre (andolsun)
-**(4)** andolsun biz insanı en güzel biçimde yarattık
-**(5)** sonra onu aşağıların aşağısına çevirdik
-**(6)** yalnız inanan(lar) kimseler ve iyi işler yapanlar hariç onlar için kesintisi olmayan bir mükafat vardır
-**(7)** bundan sonra dini sana yalanlatan nedir?
-**(8)** Allah hüküm verenlerin en iyi hüküm vereni değil midir?
+**(3)** ve güvenli bu Şehre (andolsun)
+**(4)** andolsun en güzel biçimde insanı biz yarattık
+**(5)** sonra onu aşağıların aşağısına [geri] çevirdik
+**(6)** inanan(lar); [iman eden] kimseler ve iyi işler yapanlar hariç yalnız onlar için kesintisi olmayan bir mükafat vardır
+**(7)** dini bundan sonra sana yalanlatan nedir?
+**(8)** hüküm verenlerin en iyi hüküm vereni Allah değil midir?
 
-![95]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![95Tîn-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

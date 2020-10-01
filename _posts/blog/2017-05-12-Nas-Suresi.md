@@ -18,4 +18,4 @@ tag:
 **(5)** O ki, insanların göğüslerine fısıldar,
 **(6)** cinlerden ve insanlar(dan).
 
-![114]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
+![114Nâs-Mekki]({{ site.baseurl }}/assets/images/ayrac-muhur.png)
