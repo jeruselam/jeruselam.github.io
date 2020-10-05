@@ -83,12 +83,12 @@ tag:
 **(71)** her milleti [rehber,önder]imamıyla çağırdığımız gün sağından[mübarek] Kitabı kimlerin verilirse işte onlar Kitaplarını okurlar ve en ufak haksızlığa uğratılmazlar
 **(72)** ve şu (dünyada) o [cahil,bilgisiz manevi]kör olan kimse ahirette de kördür ve yolu daha da sapıktır
 **(73)** ve sana vahyettiğimizden eğer ondan başkasını üstümüze iftira atman için az daha onlar [akıl ve kalbini hakikatten saptırarak]seni kandıracaklardı işte o zaman seni dost edinirlerdi
-**(74)** gerçekten biz seni eğer [ibadet ve itaatte]sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak]yanaşacaktın
-**(75)** o takdirde kat kat[benzer] hayatı ve kat kat[benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
-**(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak]tedirgin edeceklerdi o takdirde ancak pek az senin ardından kalamazlar
-**(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti]yasası (budur) ve bizim yasamızda bir değişiklik asla bulamazsın
-**(78)** güneşin sarkmasından[batmasından] gecenin [ilk]kararmasına kadar namaz kıl ve sabahın Kur’an’ını da[toplanmış mevcudatı] (unutma) çünkü sabah Kur’an görülecek[şahid olunan] şeydir
-**(79)** gecenin bir kısmında sana özgü olarak [az uyu]uyan(teheccüd kıl) umulur ki güzel bir makama Rabbin[Allah] seni ulaştırır
+**(74)** gerçekten biz seni eğer [ibadet ve itaatte] sağlamlaştırmış olmasaydık bir parça onlara [samimi olarak] yanaşacaktın
+**(75)** o takdirde kat kat [benzer] hayatı ve kat kat [benzer] ölümü sana taddırırdık bize karşı kendine sonra bir yardımcı bulamazdın
+**(76)** ve oradan yurdundan çıkarmak için neredeyse seni [yalnız başına bırakarak] tedirgin edeceklerdi o takdirde senin ardından kalamazlar ancak pek az
+**(77)** elçilerimizden senden önce gönderdiğimiz kimsenin [sunneti] yasası (budur) ve bizim yasamızda asla bir değişiklik bulamazsın
+**(78)** güneşin sarkmasından [batmasından] gecenin [ilk] kararmasına kadar namaz kıl ve sabahın Kur’an’ını [toplanmış mevcudatı] da (unutma) çünkü sabah Kur’an [şahid olunan] görülecek şeydir
+**(79)** gecenin bir kısmında sana özgü olarak [az uyu] uyan(teheccüd kıl) umulur ki güzel bir makama Rabbin [Allah] seni ulaştırır
 **(80)** ve de ki doğruluk girdirişiyle Rabbim beni girdir ve doğruluk çıkarışıyla beni çıkar ve yardımcı bir güç katından bana ver
 **(81)** ve de ki Hak geldi ve batıl gitti zaten batıl yok olmağa mahkumdur
 **(82)** ve Kur’an'dan şifa (olan) o şeyler ve mü’minlere rahmet biz indiriyoruz ama (bu) zalimlerin ziyanından başka bir şey artırmaz 
