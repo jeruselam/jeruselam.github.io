@@ -68,4 +68,5 @@ tag:
 **(55)** Dileyen kimse onu düşünür öğüt alır
 **(56)** ve onlar Allah dilemesi dışında öğüt almazlar O’dur ehli takva ve ehli mağfiret
 
-![74Muddessir]({{ sitebaseurl }}/assets/images/ayrac-muhurpng)
+![74Muddessir]({{ site.baseurl }}/assets/images/ayrac-muhur.png "mühür")
+
