@@ -21,9 +21,9 @@ tag:
 **(9)** Ey inanan(lar) kimseler aranızda gizli konuştuğunuz zaman, günah ve düşmanlık ve Elçiye karşı gelme üzerinde konuşmayın, (fakat) iyilik ve takva üzerinde konuşun ve huzuruna toplanacağınız Allah’tan korkun.
 **(10)** Şüphesiz gizli konuşma, inanan(lar) kimseler üzülsünler diye  şeytandandır ve Allah’ın izni olmadıkça onlara hiçbir zarar verecek değildir ve mü’minler Allah’a dayansınlar. 
 **(11)** Ey inanan(lar) kimseler, size meclislerde yer açın dendiği zaman yer açın ki Allah size genişlik versin, kalkın dendiği zaman da kalkın ki Allah sizden inanan(ları) kimseleri ve kendilerine ilim verilenleri derecelerle yükseltsin ve Allah yaptıklarınız şeyleri haber almaktadır.
-**(12)** Ey inanan(lar) kimseler, Elçi ile siz gizli konuşacağınız zaman gizli konuşmanızdan önce, önce bir sadaka verin, şayet bulamazsınız, bu sizin için daha hayırlıdır ve daha temizdir, şüphesiz Allah bağışlayandır, esirgeyendir.
+**(12)** Ey inanan(lar); [imanlı] kimseler, Elçi ile siz gizli konuşacağınız zaman gizli konuşmanızdan önce, önce bir sadaka verin, şayet bulamazsınız, bu sizin için daha hayırlıdır ve daha temizdir, şüphesiz Allah bağışlayandır, esirgeyendir.
 **(13)** Gizli konuşmanızdan önce, önce sadaka vermenizden korktunuz mu? çünkü yapmadınız ve Allah sizi affetti, artık namazı kılın ve zekatı verin ve Allah’a ve Elçisine ita’at edin ve Allah yaptıklarınız şeyleri bilmektedir.
-**(14)** Allah’ın kendilerine gazabettiği bir topluluğu dost edinen(leri) kimseleri görmedin mi? Onlar sizden değildir ve onlardan değildir ve onlar yalan üzere ve bilerek yemin ediyorlar.
+**(14)** Allah’ın kendilerine gazabettiği bir topluluğu dost edinen(leri);  [yüz çeviren] kimseleri görmedin mi? Onlar sizden değildir ve onlardan değildir ve onlar yalan üzere ve bilerek yemin ediyorlar.
 **(15)** Allah onlar için çetin bir azab hazırlamıştır, şüphesiz onlar ne kötü şeyler yapıyorlar.
 **(16)** Yeminlerini kalkan yaptılar ve Allah’ın yolundan engel oldular, onlar için küçük düşürücü bir azab  vardır.
 **(17)** Allah'a karşı, malları ne de çocukları kendilerini hiçbir şey koruyamaz, onlar ateş halkıdır, onlar orada sürekli kalacaklardır.	

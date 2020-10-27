@@ -13,6 +13,6 @@ tag:
 
 **(1)** Asra andolsun ki,
 **(2)** şüphesiz, insan ziyan içindedir.
-**(3)** Ancak inanan(lar) kimseler ve iyi işler yapanlar, hakkı tavsiye edenler ve sabrı tavsiye edenler (ziyanda değillerdir).
+**(3)** Ancak inanan(lar); [imanlı] kimseler ve iyi işler yapanlar, hakkı tavsiye edenler ve sabrı tavsiye edenler (ziyanda değillerdir).
 
 ![103]({{ site.baseurl }}/assets/images/ayrac-muhur.png)

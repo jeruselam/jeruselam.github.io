@@ -11,7 +11,6 @@ tag:
 
 ## 3. Âli İmrân Sûresi
 
-
 **(1)** Elif Lâm Mîm
 **(2)** Allah (ki) O’ndan başka [ilâh] tanrı yoktur [Hay Kayyûm] daima diridir (yaratıklarını) koruyup yöneticidir
 **(3)** Kitabı sana hak ile doğrulayıcı olarak indirdi
