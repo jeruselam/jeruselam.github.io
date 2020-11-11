@@ -32,8 +32,8 @@ tag:
 **(20)** fakat onlar ki Rablerinden korkarlar onlara odalar üstüste yapılmış odalar vardır altından ırmaklar akmaktadır (bu) Allah’ın va’didir Allah va’dinden caymaz
 **(21)** görmedin mi? şüphesiz Allah gökten bir su indirdi sonra onu yerin içindeki kaynaklara geçirdi sonra onunla çeşitli renklerde ekin çıkarıyor sonra (ekin) kurur ve onu sararmış görürsün sonra onu bir çöp yapar şüphesiz sağduyu sahipleri için bunda bir ibret vardır
 **(22)** Rabbinden bir nur üzerinde Allah’ın göğsünü İslam’a açtığı o kimse değil midir? Allah’ı anmağa karşı yürekleri katılaşmış olanlara yazıklar olsun onlar apaçık bir sapıklık içindedirler
-**(23)** Allah ikişerli birbirine benzer sözün en güzelini bir Kitap halinde indirdi ondan kimselerin derileri ürperir sonra Rablerinden korkanların derileri ve kalbleri Allah’ın zikrine yumuşar işte bu Allah’ın rehberidir dilediği kimseyi bununla doğru yola iletir ama Allah kimi sapıklığında bırakırsa artık ona hiçbir yol gösteren olmaz 
-**(24)** kıyamet günü azabdan en kötü yüzüyle korunmağa çalışan kimse mi? ve zalimlere kazanıyor olduğunuz şeyleri tadın denilir 
+**(23)** Allah, ikişerli birbirine benzer bir Kitap halinde sözün en güzelini indirdi, Rablerinden korkanların [sayglı olan] kimselerin derileri ondan ürperir sonra derileri ve kalbleri Allah’ın zikrine yumuşar, işte bu Allah’ın rehberidir dilediği kimseyi bununla doğru yola iletir Allah ama kimi sapıklığında bırakırsa artık ona hiçbir yol gösteren olmaz 
+**(24)** kıyamet günü en kötü azabdan yüzüyle korunmağa çalışan kimse mi? ve zalimlere, kazanıyor olduğunuz şeyleri tadın denilir 
 **(25)** onlardan öncekiler, kimseler yalanladılar böylece onlara hiç farkına varmadıkları bir yönden azab geldi
 **(26)** Allah onlara dünya hayatında rezillik taddırdı ahiret azabı ise daha büyüktür keşke bilselerdi
 **(27)** ve andolsun biz insanlara bu Kur’an’da her temsili anlattık umulur ki öğüt alırlar
@@ -70,7 +70,7 @@ tag:
 **(58)** yahut azabı gördüğü zaman keşke gerçekten benim için bir kez daha (dönüş) olsaydı böylece güzel hareket edenlerden olsaydım demesinden
 **(59)** hayır elbette sana ayetlerim geldi fakat sen onları yalanladın ve büyüklük tasladın ve nankörlerden oldun 
 **(60)** ve kıyamet günü Allah’a karşı yalan uyduranların yüzlerini kapkara görürsün kibirlenenler için cehennemde bir yer yok mudur?
-**(61)** ve Allah başarılarıyla[kurtulup murada eren] kimseleri [günahtan çekinerek]korunanları kurtarır onlara kötülük dokunmaz ve onlar üzülmezler
+**(61)** ve Allah başarılarıyla [kurtulup murada eren] kimseleri [günahtan çekinerek] korunanları kurtarır onlara kötülük dokunmaz ve onlar üzülmezler
 **(62)** Allah her şeyin yaratıcısıdır ve O her şey üzerine vekildir
 **(63)** göklerin ve yerin anahtarları O’nundur ve Allah’ın ayetlerini inkar eden(ler) kimseler işte ziyana uğrayanlar onlardır
 **(64)** de ki ey cahiller bana Allah’tan başkasına mı? kulluk etmemi emrediyorsunuz
